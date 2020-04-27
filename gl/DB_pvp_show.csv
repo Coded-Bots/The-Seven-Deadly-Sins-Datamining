@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "rank_type": 1,
+    "type_icon": "battle_tier_icon_bronze",
+    "type_localize": "UI_pvp_ranking_02"
+  },
+  {
+    "id": 2,
+    "rank_type": 2,
+    "type_icon": "battle_tier_icon_master",
+    "type_localize": "UI_pvp_ranking_03"
+  },
+  {
+    "id": 3,
+    "rank_type": 3,
+    "type_icon": "battle_tier_icon_gold",
+    "type_localize": "UI_pvp_ranking_04"
+  },
+  {
+    "id": 4,
+    "rank_type": 4,
+    "type_icon": "battle_tier_icon_platinum",
+    "type_localize": "UI_pvp_ranking_05"
+  },
+  {
+    "id": 5,
+    "rank_type": 5,
+    "type_icon": "battle_tier_icon_master",
+    "type_localize": "UI_pvp_ranking_06"
+  },
+  {
+    "id": 6,
+    "rank_type": 6,
+    "type_icon": "battle_tier_icon_champion",
+    "type_localize": "UI_pvp_ranking_07"
+  },
+  {
+    "id": 7,
+    "rank_type": 7,
+    "type_icon": "battle_tier_icon_challenger",
+    "type_localize": "UI_pvp_ranking_08"
+  }
+]

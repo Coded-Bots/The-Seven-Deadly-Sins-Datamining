@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "contents": "stage_final_boss",
+    "value_int_1": 1
+  },
+  {
+    "id": 2,
+    "contents": "item_type_option_random",
+    "value_int_1": 0
+  },
+  {
+    "id": 3,
+    "contents": "hero_evolution_max",
+    "value_int_1": 1
+  },
+  {
+    "id": 4,
+    "contents": "training_dungeon",
+    "value_int_1": 0
+  },
+  {
+    "id": 5,
+    "contents": "training_dungeon_sp",
+    "value_int_1": 0
+  },
+  {
+    "id": 6,
+    "contents": "friend_lobby_visit",
+    "value_int_1": 0
+  },
+  {
+    "id": 7,
+    "contents": "weapon_carve",
+    "value_int_1": 0
+  },
+  {
+    "id": 8,
+    "contents": "another_ep",
+    "value_int_1": 0
+  },
+  {
+    "id": 9,
+    "contents": "jukebox_music_compose",
+    "value_int_1": 0
+  },
+  {
+    "id": 10,
+    "contents": "lobby_housing",
+    "value_int_1": 1
+  },
+  {
+    "id": 11,
+    "contents": "team_setting_destroy",
+    "value_int_1": 500103
+  },
+  {
+    "id": 12,
+    "contents": "team_setting_pvp",
+    "value_int_1": 14001
+  },
+  {
+    "id": 13,
+    "contents": "inapp_ad",
+    "value_int_1": 1
+  },
+  {
+    "id": 14,
+    "contents": "team_setting_gray_deamon",
+    "value_int_1": 16026
+  },
+  {
+    "id": 15,
+    "contents": "team_setting_crimson_deamon",
+    "value_int_1": 17013
+  },
+  {
+    "id": 16,
+    "contents": "team_setting_hell",
+    "value_int_1": 19010
+  },
+  {
+    "id": 17,
+    "contents": "costume_stat",
+    "value_int_1": 0
+  },
+  {
+    "id": 18,
+    "contents": "user_title",
+    "value_int_1": 1
+  },
+  {
+    "id": 19,
+    "contents": "reverse_stage_contents_quest_open",
+    "value_int_1": 0
+  },
+  {
+    "id": 20,
+    "contents": "wide_mode",
+    "value_int_1": 1
+  }
+]

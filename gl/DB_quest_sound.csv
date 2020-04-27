@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "sound_id": 90643,
+    "contents_id": 100301,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 11006,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 11006
+  },
+  {
+    "id": 2,
+    "sound_id": 90626,
+    "contents_id": 200201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 12003,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 12003
+  },
+  {
+    "id": 3,
+    "sound_id": 90605,
+    "contents_id": 200201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 12005,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 12005
+  },
+  {
+    "id": 4,
+    "sound_id": 90613,
+    "contents_id": 200201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 12007,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 12007
+  },
+  {
+    "id": 5,
+    "sound_id": 90629,
+    "contents_id": 300201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 13002,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 13002
+  },
+  {
+    "id": 6,
+    "sound_id": 90623,
+    "contents_id": 400401,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 14003,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 14003
+  },
+  {
+    "id": 7,
+    "sound_id": 90623,
+    "contents_id": 400401,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 14008,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 14008
+  },
+  {
+    "id": 8,
+    "sound_id": 90623,
+    "contents_id": 400401,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 14009,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 14009
+  },
+  {
+    "id": 9,
+    "sound_id": 90623,
+    "contents_id": 400401,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 14010,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 14010
+  },
+  {
+    "id": 10,
+    "sound_id": 90623,
+    "contents_id": 400401,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 14012,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 14012
+  },
+  {
+    "id": 11,
+    "sound_id": 90623,
+    "contents_id": 400401,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 14013,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 14013
+  },
+  {
+    "id": 12,
+    "sound_id": 90631,
+    "contents_id": 500201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 15002,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 15002
+  },
+  {
+    "id": 13,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_end",
+    "bgm_open_value": 15015,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 16002
+  },
+  {
+    "id": 14,
+    "sound_id": 90615,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16002,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16002
+  },
+  {
+    "id": 15,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_finish",
+    "bgm_open_value": 16002,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 16004
+  },
+  {
+    "id": 16,
+    "sound_id": 90641,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16004,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16004
+  },
+  {
+    "id": 17,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_finish",
+    "bgm_open_value": 16004,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 16005
+  },
+  {
+    "id": 18,
+    "sound_id": 90644,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16005,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16005
+  },
+  {
+    "id": 19,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_finish",
+    "bgm_open_value": 16005,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 16006
+  },
+  {
+    "id": 20,
+    "sound_id": 90648,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16006,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16006
+  },
+  {
+    "id": 21,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_finish",
+    "bgm_open_value": 16006,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 16007
+  },
+  {
+    "id": 22,
+    "sound_id": 90648,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16007,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16007
+  },
+  {
+    "id": 23,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_finish",
+    "bgm_open_value": 16007,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 16020
+  },
+  {
+    "id": 24,
+    "sound_id": 90614,
+    "contents_id": 600701,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16009,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16009
+  },
+  {
+    "id": 25,
+    "sound_id": 90608,
+    "contents_id": 600701,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16010,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16010
+  },
+  {
+    "id": 26,
+    "sound_id": 90612,
+    "contents_id": 600701,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16011,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16011
+  },
+  {
+    "id": 27,
+    "sound_id": 90704,
+    "contents_id": 600701,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16013,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16013
+  },
+  {
+    "id": 28,
+    "sound_id": 90649,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16020,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16020
+  },
+  {
+    "id": 29,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_finish",
+    "bgm_open_value": 16020,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 16021
+  },
+  {
+    "id": 30,
+    "sound_id": 90645,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16021,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16021
+  },
+  {
+    "id": 31,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_finish",
+    "bgm_open_value": 16021,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 16023
+  },
+  {
+    "id": 32,
+    "sound_id": 90700,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16023,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16023
+  },
+  {
+    "id": 33,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_finish",
+    "bgm_open_value": 16023,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 16030
+  },
+  {
+    "id": 34,
+    "sound_id": 90604,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16033,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16036
+  },
+  {
+    "id": 35,
+    "sound_id": 90628,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16044,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16045
+  },
+  {
+    "id": 36,
+    "sound_id": 90601,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16046,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16046
+  },
+  {
+    "id": 37,
+    "sound_id": 90648,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16047,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16047
+  },
+  {
+    "id": 38,
+    "sound_id": 90605,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16050,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16050
+  },
+  {
+    "id": 39,
+    "sound_id": 90614,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16051,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16051
+  },
+  {
+    "id": 40,
+    "sound_id": 90654,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16052,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16053
+  },
+  {
+    "id": 41,
+    "sound_id": 90629,
+    "contents_id": 600701,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16055,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16055
+  },
+  {
+    "id": 42,
+    "sound_id": 90614,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16061,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16061
+  },
+  {
+    "id": 43,
+    "sound_id": 90605,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16069,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16070
+  },
+  {
+    "id": 44,
+    "sound_id": 90615,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16071,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16071
+  },
+  {
+    "id": 45,
+    "sound_id": 90645,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16072,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 16072
+  },
+  {
+    "id": 46,
+    "sound_id": 90608,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16073,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16073
+  },
+  {
+    "id": 47,
+    "sound_id": 90654,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16074,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16074
+  },
+  {
+    "id": 48,
+    "sound_id": 90652,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 16075,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 16076
+  },
+  {
+    "id": 49,
+    "sound_id": 90301,
+    "contents_id": 600601,
+    "bgm_open_type": "quest_end",
+    "bgm_open_value": 16076,
+    "bgm_close_type": "",
+    "bgm_close_value": 0
+  },
+  {
+    "id": 50,
+    "sound_id": 90605,
+    "contents_id": 800201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 18001,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 18001
+  },
+  {
+    "id": 51,
+    "sound_id": 90614,
+    "contents_id": 800201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 18006,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 18006
+  },
+  {
+    "id": 52,
+    "sound_id": 90631,
+    "contents_id": 800201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 18007,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 18007
+  },
+  {
+    "id": 53,
+    "sound_id": 90608,
+    "contents_id": 800201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 18011,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 18011
+  },
+  {
+    "id": 54,
+    "sound_id": 90611,
+    "contents_id": 800201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 18012,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 18012
+  },
+  {
+    "id": 55,
+    "sound_id": 90641,
+    "contents_id": 800201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 18013,
+    "bgm_close_type": "quest_finish",
+    "bgm_close_value": 18013
+  },
+  {
+    "id": 56,
+    "sound_id": 90608,
+    "contents_id": 800201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 18018,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 18020
+  },
+  {
+    "id": 60,
+    "sound_id": 90631,
+    "contents_id": 93020101,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 90322,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 90322
+  },
+  {
+    "id": 61,
+    "sound_id": 90628,
+    "contents_id": 93020101,
+    "bgm_open_type": "quest_end",
+    "bgm_open_value": 90322,
+    "bgm_close_type": "",
+    "bgm_close_value": 0
+  },
+  {
+    "id": 64,
+    "sound_id": 90645,
+    "contents_id": 1000501,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 20052,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 20053
+  },
+  {
+    "id": 65,
+    "sound_id": 90649,
+    "contents_id": 1000501,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 20054,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 20058
+  },
+  {
+    "id": 66,
+    "sound_id": 90629,
+    "contents_id": 1000501,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 20058,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 20060
+  },
+  {
+    "id": 67,
+    "sound_id": 90611,
+    "contents_id": 1000501,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 20060,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 20061
+  },
+  {
+    "id": 68,
+    "sound_id": 90654,
+    "contents_id": 1000501,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 20061,
+    "bgm_close_type": "quest_start",
+    "bgm_close_value": 20062
+  },
+  {
+    "id": 69,
+    "sound_id": 90666,
+    "contents_id": 200201,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 90401,
+    "bgm_close_type": "quest_end",
+    "bgm_close_value": 90420
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 11,
+    "situation_type": "Stage_Story_Lose_Streak",
+    "chain_id": 1,
+    "situation_target_value": 0,
+    "situation_target_count": 1,
+    "product_id": 50201,
+    "situation_active_type": 1,
+    "situation_active_count": 1440,
+    "situation_reset_type": "nothing",
+    "situation_reset_count": 0,
+    "situation_priority": 5,
+    "package_image_name_b": "m_packageshop_banner_situation_package_005"
+  }
+]

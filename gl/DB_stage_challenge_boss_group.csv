@@ -1,0 +1,26 @@
+[
+  {
+    "group_id": 101,
+    "event_sub_index": 1000,
+    "group_hero_id": 2260151,
+    "group_string": "DB_challenge_boss_group_title_101",
+    "info_image": "challenge_boss_event_info_101",
+    "challenge_boss_strong_skill_desc": "DB_challenge_boss_strong_skill_desc_101"
+  },
+  {
+    "group_id": 102,
+    "event_sub_index": 1000,
+    "group_hero_id": 2260161,
+    "group_string": "DB_challenge_boss_group_title_102",
+    "info_image": "challenge_boss_event_info_102",
+    "challenge_boss_strong_skill_desc": "DB_challenge_boss_strong_skill_desc_102"
+  },
+  {
+    "group_id": 103,
+    "event_sub_index": 1000,
+    "group_hero_id": 2260171,
+    "group_string": "DB_challenge_boss_group_title_103",
+    "info_image": "challenge_boss_event_info_103",
+    "challenge_boss_strong_skill_desc": "DB_challenge_boss_strong_skill_desc_103"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "quest_class": "event_list",
+    "region": 1000,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_01",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 2,
+    "quest_class": "event_list",
+    "region": 1000,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_02",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 3,
+    "quest_class": "event_list",
+    "region": 1000,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_03",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 4,
+    "quest_class": "event_list",
+    "region": 1000,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_04",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 5,
+    "quest_class": "event_list",
+    "region": 1000,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_05",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 6,
+    "quest_class": "event_list",
+    "region": 1000,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_06",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 7,
+    "quest_class": "event_list",
+    "region": 1000,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_07",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 8,
+    "quest_class": "event_list",
+    "region": 9305,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_9305_01",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 9,
+    "quest_class": "event_list",
+    "region": 9305,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_9305_02",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 10,
+    "quest_class": "event_list",
+    "region": 9305,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_9305_03",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 11,
+    "quest_class": "event_list",
+    "region": 9305,
+    "quest_group_icon_path": "",
+    "quest_group_icon": "",
+    "quest_group_localize": "UI_text_event_quest_group_title_9305_04",
+    "group_open_type": "",
+    "group_open_value": 0
+  },
+  {
+    "id": 1001,
+    "quest_class": "guide_list",
+    "region": 255,
+    "quest_group_icon_path": "UI/Prefabs/Stamp/",
+    "quest_group_icon": "Stamp_Hero_Road_01",
+    "quest_group_localize": "UI_text_guide_quest_group_title_01",
+    "group_open_type": "quest_end",
+    "group_open_value": 11009
+  },
+  {
+    "id": 1002,
+    "quest_class": "guide_list",
+    "region": 255,
+    "quest_group_icon_path": "UI/Prefabs/Stamp/",
+    "quest_group_icon": "Stamp_Hero_Road_02",
+    "quest_group_localize": "UI_text_guide_quest_group_title_02",
+    "group_open_type": "quest_end",
+    "group_open_value": 12009
+  },
+  {
+    "id": 1003,
+    "quest_class": "guide_list",
+    "region": 255,
+    "quest_group_icon_path": "UI/Prefabs/Stamp/",
+    "quest_group_icon": "Stamp_Hero_Road_03",
+    "quest_group_localize": "UI_text_guide_quest_group_title_03",
+    "group_open_type": "quest_end",
+    "group_open_value": 13008
+  },
+  {
+    "id": 1004,
+    "quest_class": "guide_list",
+    "region": 255,
+    "quest_group_icon_path": "UI/Prefabs/Stamp/",
+    "quest_group_icon": "Stamp_Hero_Road_04",
+    "quest_group_localize": "UI_text_guide_quest_group_title_04",
+    "group_open_type": "quest_end",
+    "group_open_value": 14004
+  },
+  {
+    "id": 1005,
+    "quest_class": "guide_list",
+    "region": 255,
+    "quest_group_icon_path": "UI/Prefabs/Stamp/",
+    "quest_group_icon": "Stamp_Hero_Road_05",
+    "quest_group_localize": "UI_text_guide_quest_group_title_05",
+    "group_open_type": "quest_end",
+    "group_open_value": 15004
+  }
+]

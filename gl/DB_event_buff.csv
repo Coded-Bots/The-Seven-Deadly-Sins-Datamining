@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1000,
+    "event_buff_index": 2100,
+    "reward_mark": 1,
+    "icon": "icon_buff_stamina_down",
+    "title": "DB_event_buff_stamina_down_01",
+    "explain": "UI_event_lobby_09"
+  },
+  {
+    "id": 1010,
+    "event_buff_index": 2200,
+    "reward_mark": 1,
+    "icon": "icon_buff_goldbox_up",
+    "title": "DB_event_buff_goldbox_up_01",
+    "explain": "UI_event_lobby_05"
+  },
+  {
+    "id": 1020,
+    "event_buff_index": 2300,
+    "reward_mark": 1,
+    "icon": "icon_buff_silverbox_up",
+    "title": "DB_event_buff_silverbox_up_01",
+    "explain": "UI_event_lobby_06"
+  },
+  {
+    "id": 1030,
+    "event_buff_index": 2400,
+    "reward_mark": 1,
+    "icon": "icon_buff_gold_up",
+    "title": "DB_event_buff_gold_up_01",
+    "explain": "UI_event_lobby_07"
+  },
+  {
+    "id": 1040,
+    "event_buff_index": 2500,
+    "reward_mark": 1,
+    "icon": "icon_buff_exp_up",
+    "title": "DB_event_buff_exp_up_01",
+    "explain": "UI_event_lobby_08"
+  },
+  {
+    "id": 1050,
+    "event_buff_index": 2600,
+    "reward_mark": 0,
+    "icon": "icon_buff_sell_up",
+    "title": "DB_event_buff_sell_up_01",
+    "explain": "UI_event_lobby_10"
+  },
+  {
+    "id": 1060,
+    "event_buff_index": 2900,
+    "reward_mark": 1,
+    "icon": "icon_buff_user_exp_up",
+    "title": "DB_event_buff_user_exp_up_01",
+    "explain": "UI_event_lobby_11"
+  }
+]

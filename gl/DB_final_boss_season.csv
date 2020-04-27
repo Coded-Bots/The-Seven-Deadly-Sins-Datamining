@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "season_type": "rank",
+    "season_start": "2020-04-26 00:00:00",
+    "season_end": "2020-05-11 23:59:00",
+    "season_title": "UI_Final_boss_title_season_01",
+    "season_icon": "event_banner_world_final_boss",
+    "season_shop_end": "2020-05-14 23:59:00",
+    "large_popup": "m_banner_realboss_01",
+    "event_banner": "s_banner_real_boss_001",
+    "season_info": "UI_Final_boss_event_banner_desc_season_01"
+  }
+]

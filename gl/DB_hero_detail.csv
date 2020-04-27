@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "ani_clip": "story_agree",
+    "ani_clip_name": "DB_hero_profile_ani_agree_01"
+  },
+  {
+    "id": 2,
+    "type": 1,
+    "ani_clip": "story_deny",
+    "ani_clip_name": "DB_hero_profile_ani_deny_01"
+  },
+  {
+    "id": 3,
+    "type": 1,
+    "ani_clip": "story_sad",
+    "ani_clip_name": "DB_hero_profile_ani_sad_01"
+  },
+  {
+    "id": 4,
+    "type": 1,
+    "ani_clip": "story_angry",
+    "ani_clip_name": "DB_hero_profile_ani_angry_01"
+  },
+  {
+    "id": 5,
+    "type": 1,
+    "ani_clip": "story_embarrassed",
+    "ani_clip_name": "DB_hero_profile_ani_embarrassed_01"
+  },
+  {
+    "id": 1000,
+    "type": 2,
+    "ani_clip": "none",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1001,
+    "type": 2,
+    "ani_clip": "talking_normal_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1002,
+    "type": 2,
+    "ani_clip": "talking_normal_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1003,
+    "type": 2,
+    "ani_clip": "talking_happy_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1004,
+    "type": 2,
+    "ani_clip": "talking_happy_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1005,
+    "type": 2,
+    "ani_clip": "talking_sad_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1006,
+    "type": 2,
+    "ani_clip": "talking_sad_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1007,
+    "type": 2,
+    "ani_clip": "talking_angry_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1008,
+    "type": 2,
+    "ani_clip": "talking_angry_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1009,
+    "type": 2,
+    "ani_clip": "talking_short_answer_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1010,
+    "type": 2,
+    "ani_clip": "talking_short_answer_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1011,
+    "type": 2,
+    "ani_clip": "talking_question_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1012,
+    "type": 2,
+    "ani_clip": "talking_question_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1013,
+    "type": 2,
+    "ani_clip": "talking_worry_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1014,
+    "type": 2,
+    "ani_clip": "talking_sick_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1015,
+    "type": 2,
+    "ani_clip": "std_normal_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1016,
+    "type": 2,
+    "ani_clip": "std_normal_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1017,
+    "type": 2,
+    "ani_clip": "std_happy_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1018,
+    "type": 2,
+    "ani_clip": "std_happy_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1019,
+    "type": 2,
+    "ani_clip": "std_happy_2",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1020,
+    "type": 2,
+    "ani_clip": "std_sad_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1021,
+    "type": 2,
+    "ani_clip": "std_sad_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1022,
+    "type": 2,
+    "ani_clip": "std_angry_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1023,
+    "type": 2,
+    "ani_clip": "std_angry_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1024,
+    "type": 2,
+    "ani_clip": "std_surprised_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1025,
+    "type": 2,
+    "ani_clip": "std_surprised_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1026,
+    "type": 2,
+    "ani_clip": "std_question_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1027,
+    "type": 2,
+    "ani_clip": "std_question_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1028,
+    "type": 2,
+    "ani_clip": "std_worry_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1029,
+    "type": 2,
+    "ani_clip": "std_shy_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1030,
+    "type": 2,
+    "ani_clip": "idle_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1031,
+    "type": 2,
+    "ani_clip": "idle_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1032,
+    "type": 2,
+    "ani_clip": "idle_2",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1033,
+    "type": 2,
+    "ani_clip": "angered_laugh_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1034,
+    "type": 2,
+    "ani_clip": "sleep_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1035,
+    "type": 2,
+    "ani_clip": "sick_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1036,
+    "type": 2,
+    "ani_clip": "sick_1",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1037,
+    "type": 2,
+    "ani_clip": "fight_a_0",
+    "ani_clip_name": ""
+  },
+  {
+    "id": 1038,
+    "type": 2,
+    "ani_clip": "fight_e_0",
+    "ani_clip_name": ""
+  }
+]

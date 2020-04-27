@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "open_guild_level": 2,
+    "buff_max_level": 10,
+    "effect_id": 0,
+    "effect_value": 0,
+    "effect_add_value": 0,
+    "game_mode": "",
+    "buff_purchase_id": 0,
+    "buff_purchase_count": 0,
+    "buff_levelup_id": 0,
+    "buff_levelup_count": 0,
+    "buff_change_id": 0,
+    "buff_change_count": 0
+  },
+  {
+    "id": 2,
+    "open_guild_level": 4,
+    "buff_max_level": 10,
+    "effect_id": 0,
+    "effect_value": 0,
+    "effect_add_value": 0,
+    "game_mode": "",
+    "buff_purchase_id": 0,
+    "buff_purchase_count": 0,
+    "buff_levelup_id": 0,
+    "buff_levelup_count": 0,
+    "buff_change_id": 0,
+    "buff_change_count": 0
+  },
+  {
+    "id": 3,
+    "open_guild_level": 7,
+    "buff_max_level": 10,
+    "effect_id": 0,
+    "effect_value": 0,
+    "effect_add_value": 0,
+    "game_mode": "",
+    "buff_purchase_id": 0,
+    "buff_purchase_count": 0,
+    "buff_levelup_id": 0,
+    "buff_levelup_count": 0,
+    "buff_change_id": 0,
+    "buff_change_count": 0
+  },
+  {
+    "id": 4,
+    "open_guild_level": 10,
+    "buff_max_level": 10,
+    "effect_id": 0,
+    "effect_value": 0,
+    "effect_add_value": 0,
+    "game_mode": "",
+    "buff_purchase_id": 0,
+    "buff_purchase_count": 0,
+    "buff_levelup_id": 0,
+    "buff_levelup_count": 0,
+    "buff_change_id": 0,
+    "buff_change_count": 0
+  }
+]

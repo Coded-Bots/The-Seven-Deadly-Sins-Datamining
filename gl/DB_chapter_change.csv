@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "chapter_id": 601,
+    "change_move_matching_area": 600701,
+    "change_capital_icon_matching_area": 600701,
+    "change_chapter_name": "DB_title_worldmap_chapter_06_1",
+    "change_chapter_resource": "chapter006_02",
+    "open_type": "quest_start",
+    "open_value": 16030
+  },
+  {
+    "id": 2,
+    "chapter_id": 910,
+    "change_move_matching_area": 900301,
+    "change_capital_icon_matching_area": 900401,
+    "change_chapter_name": "",
+    "change_chapter_resource": "",
+    "open_type": "quest_start",
+    "open_value": 19004
+  },
+  {
+    "id": 3,
+    "chapter_id": 910,
+    "change_move_matching_area": 900401,
+    "change_capital_icon_matching_area": 900401,
+    "change_chapter_name": "",
+    "change_chapter_resource": "",
+    "open_type": "quest_start",
+    "open_value": 19007
+  },
+  {
+    "id": 4,
+    "chapter_id": 1001,
+    "change_move_matching_area": 1000301,
+    "change_capital_icon_matching_area": 1000401,
+    "change_chapter_name": "",
+    "change_chapter_resource": "",
+    "open_type": "quest_start",
+    "open_value": 20002
+  },
+  {
+    "id": 5,
+    "chapter_id": 1001,
+    "change_move_matching_area": 1000401,
+    "change_capital_icon_matching_area": 1000401,
+    "change_chapter_name": "",
+    "change_chapter_resource": "",
+    "open_type": "quest_start",
+    "open_value": 20005
+  },
+  {
+    "id": 6,
+    "chapter_id": 1001,
+    "change_move_matching_area": 1000501,
+    "change_capital_icon_matching_area": 1000501,
+    "change_chapter_name": "DB_title_worldmap_chapter_10_1",
+    "change_chapter_resource": "chapter010_outro",
+    "open_type": "quest_start",
+    "open_value": 20012
+  }
+]

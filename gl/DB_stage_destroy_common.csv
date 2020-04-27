@@ -1,0 +1,42 @@
+[
+  {
+    "boss_id": 2260102,
+    "team_index": 101,
+    "change_hell_team_index": 131,
+    "event_type": 0,
+    "event_sub_index": 0,
+    "repulse_drop_item_id": 543101,
+    "repulse_drop_item_value": 2,
+    "repulse_drop_item_box": 1
+  },
+  {
+    "boss_id": 2260106,
+    "team_index": 102,
+    "change_hell_team_index": 132,
+    "event_type": 0,
+    "event_sub_index": 0,
+    "repulse_drop_item_id": 543102,
+    "repulse_drop_item_value": 2,
+    "repulse_drop_item_box": 1
+  },
+  {
+    "boss_id": 2260126,
+    "team_index": 103,
+    "change_hell_team_index": 133,
+    "event_type": 0,
+    "event_sub_index": 0,
+    "repulse_drop_item_id": 543103,
+    "repulse_drop_item_value": 2,
+    "repulse_drop_item_box": 1
+  },
+  {
+    "boss_id": 2260185,
+    "team_index": 200,
+    "change_hell_team_index": 0,
+    "event_type": 23000,
+    "event_sub_index": 1,
+    "repulse_drop_item_id": 0,
+    "repulse_drop_item_value": 0,
+    "repulse_drop_item_box": 0
+  }
+]

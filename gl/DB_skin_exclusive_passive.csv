@@ -1,0 +1,1242 @@
+[
+  {
+    "hero_id": 1004000,
+    "memorial_stage_id_1": 0,
+    "exclusive_passive_id_1": 700060,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1004001,
+    "memorial_stage_id_1": 1004011,
+    "exclusive_passive_id_1": 700073,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1005001,
+    "memorial_stage_id_1": 1005001,
+    "exclusive_passive_id_1": 700002,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1005003,
+    "memorial_stage_id_1": 1005003,
+    "exclusive_passive_id_1": 700132,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1015001,
+    "memorial_stage_id_1": 1015001,
+    "exclusive_passive_id_1": 700003,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1015002,
+    "memorial_stage_id_1": 1015002,
+    "exclusive_passive_id_1": 700004,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1015003,
+    "memorial_stage_id_1": 1015003,
+    "exclusive_passive_id_1": 700005,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1024001,
+    "memorial_stage_id_1": 1024011,
+    "exclusive_passive_id_1": 700074,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1024002,
+    "memorial_stage_id_1": 1024012,
+    "exclusive_passive_id_1": 700075,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1034001,
+    "memorial_stage_id_1": 1034011,
+    "exclusive_passive_id_1": 700107,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1035001,
+    "memorial_stage_id_1": 1035001,
+    "exclusive_passive_id_1": 700064,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1035002,
+    "memorial_stage_id_1": 1035002,
+    "exclusive_passive_id_1": 700065,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1035003,
+    "memorial_stage_id_1": 1035003,
+    "exclusive_passive_id_1": 700160,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1044001,
+    "memorial_stage_id_1": 1044011,
+    "exclusive_passive_id_1": 700076,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1045001,
+    "memorial_stage_id_1": 1045001,
+    "exclusive_passive_id_1": 700010,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1045002,
+    "memorial_stage_id_1": 1045002,
+    "exclusive_passive_id_1": 700011,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1055001,
+    "memorial_stage_id_1": 1055001,
+    "exclusive_passive_id_1": 700012,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1055002,
+    "memorial_stage_id_1": 1055002,
+    "exclusive_passive_id_1": 700013,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1055003,
+    "memorial_stage_id_1": 1055003,
+    "exclusive_passive_id_1": 700014,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1064001,
+    "memorial_stage_id_1": 1064011,
+    "exclusive_passive_id_1": 700077,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1065001,
+    "memorial_stage_id_1": 1065001,
+    "exclusive_passive_id_1": 700016,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1065002,
+    "memorial_stage_id_1": 1065002,
+    "exclusive_passive_id_1": 700017,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1075001,
+    "memorial_stage_id_1": 1075001,
+    "exclusive_passive_id_1": 700018,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1075002,
+    "memorial_stage_id_1": 1075002,
+    "exclusive_passive_id_1": 700019,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1075003,
+    "memorial_stage_id_1": 1075003,
+    "exclusive_passive_id_1": 700020,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1095001,
+    "memorial_stage_id_1": 1095001,
+    "exclusive_passive_id_1": 700021,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1095002,
+    "memorial_stage_id_1": 1095002,
+    "exclusive_passive_id_1": 700022,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1095003,
+    "memorial_stage_id_1": 1095003,
+    "exclusive_passive_id_1": 700023,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1105001,
+    "memorial_stage_id_1": 1105001,
+    "exclusive_passive_id_1": 700024,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1105002,
+    "memorial_stage_id_1": 1105002,
+    "exclusive_passive_id_1": 700025,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1105003,
+    "memorial_stage_id_1": 1105003,
+    "exclusive_passive_id_1": 700026,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1114001,
+    "memorial_stage_id_1": 1114011,
+    "exclusive_passive_id_1": 700078,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1115002,
+    "memorial_stage_id_1": 1115002,
+    "exclusive_passive_id_1": 700028,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1115003,
+    "memorial_stage_id_1": 1115003,
+    "exclusive_passive_id_1": 700029,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1134000,
+    "memorial_stage_id_1": 0,
+    "exclusive_passive_id_1": 700060,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1135001,
+    "memorial_stage_id_1": 1135001,
+    "exclusive_passive_id_1": 700066,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1135002,
+    "memorial_stage_id_1": 1135002,
+    "exclusive_passive_id_1": 700067,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1135003,
+    "memorial_stage_id_1": 1135003,
+    "exclusive_passive_id_1": 700068,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1144001,
+    "memorial_stage_id_1": 1144011,
+    "exclusive_passive_id_1": 700079,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1144002,
+    "memorial_stage_id_1": 1144012,
+    "exclusive_passive_id_1": 700080,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1145001,
+    "memorial_stage_id_1": 1145001,
+    "exclusive_passive_id_1": 700032,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1154002,
+    "memorial_stage_id_1": 1154012,
+    "exclusive_passive_id_1": 700081,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1155001,
+    "memorial_stage_id_1": 1155001,
+    "exclusive_passive_id_1": 700034,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1155003,
+    "memorial_stage_id_1": 1155003,
+    "exclusive_passive_id_1": 700133,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1164001,
+    "memorial_stage_id_1": 1164011,
+    "exclusive_passive_id_1": 700082,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1164002,
+    "memorial_stage_id_1": 1164012,
+    "exclusive_passive_id_1": 700083,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1165001,
+    "memorial_stage_id_1": 1165001,
+    "exclusive_passive_id_1": 700037,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1174001,
+    "memorial_stage_id_1": 1174011,
+    "exclusive_passive_id_1": 700084,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1174002,
+    "memorial_stage_id_1": 1174012,
+    "exclusive_passive_id_1": 700085,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1175001,
+    "memorial_stage_id_1": 1175001,
+    "exclusive_passive_id_1": 700040,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1184001,
+    "memorial_stage_id_1": 1184011,
+    "exclusive_passive_id_1": 700086,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1184002,
+    "memorial_stage_id_1": 1184012,
+    "exclusive_passive_id_1": 700087,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1185001,
+    "memorial_stage_id_1": 1185001,
+    "exclusive_passive_id_1": 700043,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1185002,
+    "memorial_stage_id_1": 1185002,
+    "exclusive_passive_id_1": 700161,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1195001,
+    "memorial_stage_id_1": 1195001,
+    "exclusive_passive_id_1": 700069,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1195002,
+    "memorial_stage_id_1": 1195002,
+    "exclusive_passive_id_1": 700070,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1195003,
+    "memorial_stage_id_1": 1195003,
+    "exclusive_passive_id_1": 700071,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1203001,
+    "memorial_stage_id_1": 1203021,
+    "exclusive_passive_id_1": 700110,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1213001,
+    "memorial_stage_id_1": 1213021,
+    "exclusive_passive_id_1": 700111,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1223001,
+    "memorial_stage_id_1": 1223021,
+    "exclusive_passive_id_1": 700090,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1233001,
+    "memorial_stage_id_1": 1233021,
+    "exclusive_passive_id_1": 700092,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1243001,
+    "memorial_stage_id_1": 1243021,
+    "exclusive_passive_id_1": 700112,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1254001,
+    "memorial_stage_id_1": 1254011,
+    "exclusive_passive_id_1": 700094,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1264001,
+    "memorial_stage_id_1": 1264011,
+    "exclusive_passive_id_1": 700095,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1273001,
+    "memorial_stage_id_1": 1273021,
+    "exclusive_passive_id_1": 700113,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1284001,
+    "memorial_stage_id_1": 1284011,
+    "exclusive_passive_id_1": 700108,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1294001,
+    "memorial_stage_id_1": 1294011,
+    "exclusive_passive_id_1": 700097,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1295001,
+    "memorial_stage_id_1": 1295001,
+    "exclusive_passive_id_1": 700054,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1303001,
+    "memorial_stage_id_1": 1303021,
+    "exclusive_passive_id_1": 700099,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1314001,
+    "memorial_stage_id_1": 1314011,
+    "exclusive_passive_id_1": 700100,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1323001,
+    "memorial_stage_id_1": 1323021,
+    "exclusive_passive_id_1": 700102,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1334001,
+    "memorial_stage_id_1": 1334011,
+    "exclusive_passive_id_1": 700103,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1344001,
+    "memorial_stage_id_1": 1344011,
+    "exclusive_passive_id_1": 700118,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1354001,
+    "memorial_stage_id_1": 1354011,
+    "exclusive_passive_id_1": 700104,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1355001,
+    "memorial_stage_id_1": 1355001,
+    "exclusive_passive_id_1": 700060,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1364001,
+    "memorial_stage_id_1": 1364011,
+    "exclusive_passive_id_1": 700105,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1364002,
+    "memorial_stage_id_1": 1364012,
+    "exclusive_passive_id_1": 700106,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1373001,
+    "memorial_stage_id_1": 1373021,
+    "exclusive_passive_id_1": 700115,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1384001,
+    "memorial_stage_id_1": 0,
+    "exclusive_passive_id_1": 690001,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1385001,
+    "memorial_stage_id_1": 1385001,
+    "exclusive_passive_id_1": 700125,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1385002,
+    "memorial_stage_id_1": 1385002,
+    "exclusive_passive_id_1": 700165,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1385003,
+    "memorial_stage_id_1": 1385003,
+    "exclusive_passive_id_1": 700134,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1395001,
+    "memorial_stage_id_1": 0,
+    "exclusive_passive_id_1": 700008,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1395002,
+    "memorial_stage_id_1": 0,
+    "exclusive_passive_id_1": 700008,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1404001,
+    "memorial_stage_id_1": 1404011,
+    "exclusive_passive_id_1": 700128,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1405002,
+    "memorial_stage_id_1": 0,
+    "exclusive_passive_id_1": 700105,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1405001,
+    "memorial_stage_id_1": 1405001,
+    "exclusive_passive_id_1": 700123,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1415001,
+    "memorial_stage_id_1": 0,
+    "exclusive_passive_id_1": 804011,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1425002,
+    "memorial_stage_id_1": 1425002,
+    "exclusive_passive_id_1": 700008,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1464001,
+    "memorial_stage_id_1": 1464011,
+    "exclusive_passive_id_1": 700119,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1465001,
+    "memorial_stage_id_1": 1465001,
+    "exclusive_passive_id_1": 700120,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1435001,
+    "memorial_stage_id_1": 1435001,
+    "exclusive_passive_id_1": 700121,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1445001,
+    "memorial_stage_id_1": 1445001,
+    "exclusive_passive_id_1": 700122,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1455001,
+    "memorial_stage_id_1": 1455001,
+    "exclusive_passive_id_1": 700124,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1455002,
+    "memorial_stage_id_1": 1455002,
+    "exclusive_passive_id_1": 700135,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1475001,
+    "memorial_stage_id_1": 1475001,
+    "exclusive_passive_id_1": 700130,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1475002,
+    "memorial_stage_id_1": 1475002,
+    "exclusive_passive_id_1": 700131,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1505001,
+    "memorial_stage_id_1": 1505001,
+    "exclusive_passive_id_1": 700126,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700127
+  },
+  {
+    "hero_id": 1505002,
+    "memorial_stage_id_1": 1505002,
+    "exclusive_passive_id_1": 700169,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700127
+  },
+  {
+    "hero_id": 1515001,
+    "memorial_stage_id_1": 1515001,
+    "exclusive_passive_id_1": 700138,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700137
+  },
+  {
+    "hero_id": 1515002,
+    "memorial_stage_id_1": 1515002,
+    "exclusive_passive_id_1": 700170,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700137
+  },
+  {
+    "hero_id": 1525001,
+    "memorial_stage_id_1": 1525001,
+    "exclusive_passive_id_1": 700136,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700129
+  },
+  {
+    "hero_id": 1535001,
+    "memorial_stage_id_1": 1535001,
+    "exclusive_passive_id_1": 700144,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700143
+  },
+  {
+    "hero_id": 1545001,
+    "memorial_stage_id_1": 1373021,
+    "exclusive_passive_id_1": 700146,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700145
+  },
+  {
+    "hero_id": 1575001,
+    "memorial_stage_id_1": 1575001,
+    "exclusive_passive_id_1": 700148,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700147
+  },
+  {
+    "hero_id": 1575002,
+    "memorial_stage_id_1": 1575002,
+    "exclusive_passive_id_1": 700168,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700147
+  },
+  {
+    "hero_id": 1585001,
+    "memorial_stage_id_1": 1585001,
+    "exclusive_passive_id_1": 700150,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700149
+  },
+  {
+    "hero_id": 1585002,
+    "memorial_stage_id_1": 1585002,
+    "exclusive_passive_id_1": 700164,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700149
+  },
+  {
+    "hero_id": 1595001,
+    "memorial_stage_id_1": 1373021,
+    "exclusive_passive_id_1": 700152,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 700151
+  },
+  {
+    "hero_id": 1605001,
+    "memorial_stage_id_1": 1605001,
+    "exclusive_passive_id_1": 700153,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1614001,
+    "memorial_stage_id_1": 1614011,
+    "exclusive_passive_id_1": 700154,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1625001,
+    "memorial_stage_id_1": 1373021,
+    "exclusive_passive_id_1": 700155,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1634001,
+    "memorial_stage_id_1": 1373021,
+    "exclusive_passive_id_1": 700156,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1645001,
+    "memorial_stage_id_1": 1645001,
+    "exclusive_passive_id_1": 700157,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1654001,
+    "memorial_stage_id_1": 1654011,
+    "exclusive_passive_id_1": 700158,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1665001,
+    "memorial_stage_id_1": 1665001,
+    "exclusive_passive_id_1": 700159,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1675001,
+    "memorial_stage_id_1": 1675001,
+    "exclusive_passive_id_1": 700171,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1685001,
+    "memorial_stage_id_1": 1685001,
+    "exclusive_passive_id_1": 700172,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1725001,
+    "memorial_stage_id_1": 1725001,
+    "exclusive_passive_id_1": 700162,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1735001,
+    "memorial_stage_id_1": 1735001,
+    "exclusive_passive_id_1": 700163,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1485001,
+    "memorial_stage_id_1": 1485001,
+    "exclusive_passive_id_1": 700166,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1495001,
+    "memorial_stage_id_1": 1495001,
+    "exclusive_passive_id_1": 700167,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1745000,
+    "memorial_stage_id_1": 0,
+    "exclusive_passive_id_1": 805041,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  },
+  {
+    "hero_id": 1745001,
+    "memorial_stage_id_1": 1745001,
+    "exclusive_passive_id_1": 700115,
+    "memorial_stage_id_2": 0,
+    "exclusive_passive_id_2": 0,
+    "memorial_stage_id_3": 0,
+    "exclusive_passive_id_3": 0,
+    "taboo_exclusive_passive_id": 0
+  }
+]

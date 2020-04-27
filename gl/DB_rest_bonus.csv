@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "bonus_item_id_1": 500012,
+    "bonus_item_count_1": 10000,
+    "bonus_item_id_2": 541402,
+    "bonus_item_count_2": 5,
+    "bonus_item_id_3": 510001,
+    "bonus_item_count_3": 10
+  },
+  {
+    "id": 2,
+    "bonus_item_id_1": 500012,
+    "bonus_item_count_1": 20000,
+    "bonus_item_id_2": 541402,
+    "bonus_item_count_2": 7,
+    "bonus_item_id_3": 510001,
+    "bonus_item_count_3": 20
+  },
+  {
+    "id": 3,
+    "bonus_item_id_1": 500012,
+    "bonus_item_count_1": 30000,
+    "bonus_item_id_2": 541402,
+    "bonus_item_count_2": 10,
+    "bonus_item_id_3": 510001,
+    "bonus_item_count_3": 30
+  },
+  {
+    "id": 4,
+    "bonus_item_id_1": 500012,
+    "bonus_item_count_1": 40000,
+    "bonus_item_id_2": 541403,
+    "bonus_item_count_2": 5,
+    "bonus_item_id_3": 510001,
+    "bonus_item_count_3": 40
+  },
+  {
+    "id": 5,
+    "bonus_item_id_1": 500012,
+    "bonus_item_count_1": 50000,
+    "bonus_item_id_2": 541403,
+    "bonus_item_count_2": 7,
+    "bonus_item_id_3": 510001,
+    "bonus_item_count_3": 50
+  },
+  {
+    "id": 6,
+    "bonus_item_id_1": 500012,
+    "bonus_item_count_1": 60000,
+    "bonus_item_id_2": 541403,
+    "bonus_item_count_2": 10,
+    "bonus_item_id_3": 510001,
+    "bonus_item_count_3": 60
+  },
+  {
+    "id": 7,
+    "bonus_item_id_1": 500012,
+    "bonus_item_count_1": 70000,
+    "bonus_item_id_2": 541404,
+    "bonus_item_count_2": 5,
+    "bonus_item_id_3": 510001,
+    "bonus_item_count_3": 70
+  }
+]

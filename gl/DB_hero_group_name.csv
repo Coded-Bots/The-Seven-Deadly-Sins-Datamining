@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "category_name": "DB_category_hero_name_01",
+    "weapon_carve_hero_portrait_folder": "meliodas",
+    "weapon_carve_hero_portrait": "cut_in_special_meliodas_0005_01",
+    "weapon_carve_hero_icon_folder": "meliodas",
+    "weapon_carve_hero_icon": "icon_skin_meliodas_0005_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 2,
+    "category_name": "DB_category_hero_name_03",
+    "weapon_carve_hero_portrait_folder": "elizabeth_hawk",
+    "weapon_carve_hero_portrait": "cut_in_special_elizabeth_hawk_0001_01",
+    "weapon_carve_hero_icon_folder": "elizabeth_hawk",
+    "weapon_carve_hero_icon": "icon_skin_elizabeth_hawk_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 3,
+    "category_name": "DB_category_hero_name_04",
+    "weapon_carve_hero_portrait_folder": "diane",
+    "weapon_carve_hero_portrait": "cut_in_special_diane_0001_01",
+    "weapon_carve_hero_icon_folder": "diane",
+    "weapon_carve_hero_icon": "icon_skin_diane_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 4,
+    "category_name": "DB_category_hero_name_06",
+    "weapon_carve_hero_portrait_folder": "ban",
+    "weapon_carve_hero_portrait": "cut_in_special_ban_0002_01",
+    "weapon_carve_hero_icon_folder": "ban",
+    "weapon_carve_hero_icon": "icon_skin_ban_0002_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 5,
+    "category_name": "DB_category_hero_name_07",
+    "weapon_carve_hero_portrait_folder": "king",
+    "weapon_carve_hero_portrait": "cut_in_special_king_0001_01",
+    "weapon_carve_hero_icon_folder": "king",
+    "weapon_carve_hero_icon": "icon_skin_king_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 6,
+    "category_name": "DB_category_hero_name_09",
+    "weapon_carve_hero_portrait_folder": "gowther",
+    "weapon_carve_hero_portrait": "cut_in_special_gowther_0001_01",
+    "weapon_carve_hero_icon_folder": "gowther",
+    "weapon_carve_hero_icon": "icon_skin_gowther_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 7,
+    "category_name": "DB_category_hero_name_11",
+    "weapon_carve_hero_portrait_folder": "merlin",
+    "weapon_carve_hero_portrait": "cut_in_special_merlin_0001_01",
+    "weapon_carve_hero_icon_folder": "merlin",
+    "weapon_carve_hero_icon": "icon_skin_merlin_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 8,
+    "category_name": "DB_category_hero_name_12",
+    "weapon_carve_hero_portrait_folder": "gil_thunder",
+    "weapon_carve_hero_portrait": "cut_in_special_gil_thunder_0012_01",
+    "weapon_carve_hero_icon_folder": "gil_thunder",
+    "weapon_carve_hero_icon": "icon_skin_gil_thunder_0012_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 9,
+    "category_name": "DB_category_hero_name_13",
+    "weapon_carve_hero_portrait_folder": "guila",
+    "weapon_carve_hero_portrait": "cut_in_special_guila_0011_01",
+    "weapon_carve_hero_icon_folder": "guila",
+    "weapon_carve_hero_icon": "icon_skin_guila_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 10,
+    "category_name": "DB_category_hero_name_14",
+    "weapon_carve_hero_portrait_folder": "howzer",
+    "weapon_carve_hero_portrait": "cut_in_special_howzer_0008_01",
+    "weapon_carve_hero_icon_folder": "howzer",
+    "weapon_carve_hero_icon": "icon_skin_howzer_0008_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 11,
+    "category_name": "DB_category_hero_name_15",
+    "weapon_carve_hero_portrait_folder": "griamore",
+    "weapon_carve_hero_portrait": "cut_in_special_griamore_0011_01",
+    "weapon_carve_hero_icon_folder": "griamore",
+    "weapon_carve_hero_icon": "icon_skin_griamore_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 12,
+    "category_name": "DB_category_hero_name_16",
+    "weapon_carve_hero_portrait_folder": "jericho",
+    "weapon_carve_hero_portrait": "cut_in_special_jericho_0019_01",
+    "weapon_carve_hero_icon_folder": "jericho",
+    "weapon_carve_hero_icon": "icon_skin_jericho_0019_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 13,
+    "category_name": "DB_category_hero_name_17",
+    "weapon_carve_hero_portrait_folder": "helbram_fairy",
+    "weapon_carve_hero_portrait": "cut_in_special_helbram_fairy_0001_01",
+    "weapon_carve_hero_icon_folder": "helbram",
+    "weapon_carve_hero_icon": "icon_skin_helbram_fairy_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 14,
+    "category_name": "DB_category_hero_name_18",
+    "weapon_carve_hero_portrait_folder": "alioni",
+    "weapon_carve_hero_portrait": "cut_in_special_alioni_0001_01",
+    "weapon_carve_hero_icon_folder": "alioni",
+    "weapon_carve_hero_icon": "icon_skin_alioni_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 15,
+    "category_name": "DB_category_hero_name_19",
+    "weapon_carve_hero_portrait_folder": "twigo",
+    "weapon_carve_hero_portrait": "cut_in_special_twigo_0011_01",
+    "weapon_carve_hero_icon_folder": "twigo",
+    "weapon_carve_hero_icon": "icon_skin_twigo_0004_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 16,
+    "category_name": "DB_category_hero_name_20",
+    "weapon_carve_hero_portrait_folder": "golgius",
+    "weapon_carve_hero_portrait": "cut_in_special_golgius_0011_01",
+    "weapon_carve_hero_icon_folder": "golgius",
+    "weapon_carve_hero_icon": "icon_skin_golgius_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 17,
+    "category_name": "DB_category_hero_name_21",
+    "weapon_carve_hero_portrait_folder": "ruin",
+    "weapon_carve_hero_portrait": "cut_in_special_ruin_0001_01",
+    "weapon_carve_hero_icon_folder": "ruin",
+    "weapon_carve_hero_icon": "icon_skin_ruin_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 18,
+    "category_name": "DB_category_hero_name_22",
+    "weapon_carve_hero_portrait_folder": "jude",
+    "weapon_carve_hero_portrait": "cut_in_special_jude_0001_01",
+    "weapon_carve_hero_icon_folder": "jude",
+    "weapon_carve_hero_icon": "icon_skin_jude_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 19,
+    "category_name": "DB_category_hero_name_23",
+    "weapon_carve_hero_portrait_folder": "freisia",
+    "weapon_carve_hero_portrait": "cut_in_special_freisia_0011_01",
+    "weapon_carve_hero_icon_folder": "freisia",
+    "weapon_carve_hero_icon": "icon_skin_freisia_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 20,
+    "category_name": "DB_category_hero_name_24",
+    "weapon_carve_hero_portrait_folder": "cain",
+    "weapon_carve_hero_portrait": "cut_in_special_cain_0001_01",
+    "weapon_carve_hero_icon_folder": "cain",
+    "weapon_carve_hero_icon": "icon_skin_cain_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 21,
+    "category_name": "DB_category_hero_name_25",
+    "weapon_carve_hero_portrait_folder": "marmas",
+    "weapon_carve_hero_portrait": "cut_in_special_marmas_0001_01",
+    "weapon_carve_hero_icon_folder": "marmas",
+    "weapon_carve_hero_icon": "icon_skin_marmas_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 22,
+    "category_name": "DB_category_hero_name_26",
+    "weapon_carve_hero_portrait_folder": "gustaf",
+    "weapon_carve_hero_portrait": "cut_in_special_gustaf_0011_01",
+    "weapon_carve_hero_icon_folder": "gustaf",
+    "weapon_carve_hero_icon": "icon_skin_gustaf_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 23,
+    "category_name": "DB_category_hero_name_27",
+    "weapon_carve_hero_portrait_folder": "slader",
+    "weapon_carve_hero_portrait": "cut_in_special_slader_0011_01",
+    "weapon_carve_hero_icon_folder": "slader",
+    "weapon_carve_hero_icon": "icon_skin_slader_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 24,
+    "category_name": "DB_category_hero_name_28",
+    "weapon_carve_hero_portrait_folder": "simon",
+    "weapon_carve_hero_portrait": "cut_in_special_simon_0011_01",
+    "weapon_carve_hero_icon_folder": "simon",
+    "weapon_carve_hero_icon": "icon_skin_simon_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 25,
+    "category_name": "DB_category_hero_name_29",
+    "weapon_carve_hero_portrait_folder": "weinheidt",
+    "weapon_carve_hero_portrait": "cut_in_special_weinheidt_0011_01",
+    "weapon_carve_hero_icon_folder": "weinheidt",
+    "weapon_carve_hero_icon": "icon_skin_weinheidt_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 26,
+    "category_name": "DB_category_hero_name_30",
+    "weapon_carve_hero_portrait_folder": "hugo",
+    "weapon_carve_hero_portrait": "cut_in_special_hugo_0011_01",
+    "weapon_carve_hero_icon_folder": "hugo",
+    "weapon_carve_hero_icon": "icon_skin_hugo_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 27,
+    "category_name": "DB_category_hero_name_31",
+    "weapon_carve_hero_portrait_folder": "jillian",
+    "weapon_carve_hero_portrait": "cut_in_special_jillian_0011_01",
+    "weapon_carve_hero_icon_folder": "jillian",
+    "weapon_carve_hero_icon": "icon_skin_jillian_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 28,
+    "category_name": "DB_category_hero_name_32",
+    "weapon_carve_hero_portrait_folder": "vivian",
+    "weapon_carve_hero_portrait": "cut_in_special_vivian_0011_01",
+    "weapon_carve_hero_icon_folder": "vivian",
+    "weapon_carve_hero_icon": "icon_skin_vivian_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 29,
+    "category_name": "DB_category_hero_name_33",
+    "weapon_carve_hero_portrait_folder": "hendrickson",
+    "weapon_carve_hero_portrait": "cut_in_special_hendrickson_0011_01",
+    "weapon_carve_hero_icon_folder": "hendrickson",
+    "weapon_carve_hero_icon": "icon_skin_hendrickson_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 30,
+    "category_name": "DB_category_hero_name_34",
+    "weapon_carve_hero_portrait_folder": "dreyfus",
+    "weapon_carve_hero_portrait": "cut_in_special_dreyfus_0011_01",
+    "weapon_carve_hero_icon_folder": "dreyfus",
+    "weapon_carve_hero_icon": "icon_skin_dreyfus_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 31,
+    "category_name": "DB_category_hero_name_36",
+    "weapon_carve_hero_portrait_folder": "elizabeth",
+    "weapon_carve_hero_portrait": "cut_in_special_elizabeth_0004_01",
+    "weapon_carve_hero_icon_folder": "elizabeth",
+    "weapon_carve_hero_icon": "icon_skin_elizabeth_0004_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 32,
+    "category_name": "DB_category_hero_name_37",
+    "weapon_carve_hero_portrait_folder": "vaizel_taizoo",
+    "weapon_carve_hero_portrait": "cut_in_special_vaizel_taizoo_0001_01",
+    "weapon_carve_hero_icon_folder": "vaizel_taizoo",
+    "weapon_carve_hero_icon": "icon_skin_vaizel_taizoo_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 33,
+    "category_name": "DB_category_hero_name_38",
+    "weapon_carve_hero_portrait_folder": "elaine",
+    "weapon_carve_hero_portrait": "cut_in_special_elaine_0001_01",
+    "weapon_carve_hero_icon_folder": "elaine",
+    "weapon_carve_hero_icon": "icon_skin_elaine_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 35,
+    "category_name": "DB_category_hero_name_35",
+    "weapon_carve_hero_portrait_folder": "arthur",
+    "weapon_carve_hero_portrait": "cut_in_special_arthur_0011_01",
+    "weapon_carve_hero_icon_folder": "arthur",
+    "weapon_carve_hero_icon": "icon_skin_arthur_0011_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 36,
+    "category_name": "DB_category_hero_name_39",
+    "weapon_carve_hero_portrait_folder": "matrona",
+    "weapon_carve_hero_portrait": "cut_in_special_matrona_0002_01",
+    "weapon_carve_hero_icon_folder": "matrona",
+    "weapon_carve_hero_icon": "icon_skin_matrona_0002_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 37,
+    "category_name": "DB_category_hero_name_40",
+    "weapon_carve_hero_portrait_folder": "hawk",
+    "weapon_carve_hero_portrait": "cut_in_special_hawk_0001_01",
+    "weapon_carve_hero_icon_folder": "hawk",
+    "weapon_carve_hero_icon": "icon_change_skin_hawk_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 41,
+    "category_name": "DB_category_hero_name_41",
+    "weapon_carve_hero_portrait_folder": "slime_rimuruhuman",
+    "weapon_carve_hero_portrait": "cut_in_special_slime_rimuruhuman_0002_01",
+    "weapon_carve_hero_icon_folder": "slime_rimuruhuman",
+    "weapon_carve_hero_icon": "icon_skin_slime_rimuruhuman_0002_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 42,
+    "category_name": "DB_category_hero_name_42",
+    "weapon_carve_hero_portrait_folder": "slime_milim",
+    "weapon_carve_hero_portrait": "cut_in_special_slime_milim_0002_01",
+    "weapon_carve_hero_icon_folder": "slime_milim",
+    "weapon_carve_hero_icon": "icon_skin_slime_milim_0002_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 43,
+    "category_name": "DB_category_hero_name_43",
+    "weapon_carve_hero_portrait_folder": "slime_benimaru",
+    "weapon_carve_hero_portrait": "cut_in_special_slime_benimaru_0002_01",
+    "weapon_carve_hero_icon_folder": "slime_benimaru",
+    "weapon_carve_hero_icon": "icon_skin_slime_benimaru_0002_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 44,
+    "category_name": "DB_category_hero_name_44",
+    "weapon_carve_hero_portrait_folder": "liliahmagician",
+    "weapon_carve_hero_portrait": "cut_in_special_liliahmagician_0001_01",
+    "weapon_carve_hero_icon_folder": "liliahmagician",
+    "weapon_carve_hero_icon": "icon_skin_liliahmagician_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 45,
+    "category_name": "DB_category_hero_name_45",
+    "weapon_carve_hero_portrait_folder": "escanor",
+    "weapon_carve_hero_portrait": "cut_in_special_escanor_0009_01",
+    "weapon_carve_hero_icon_folder": "escanor",
+    "weapon_carve_hero_icon": "icon_skin_escanor_0009_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 46,
+    "category_name": "DB_category_hero_name_46",
+    "weapon_carve_hero_portrait_folder": "galand",
+    "weapon_carve_hero_portrait": "cut_in_special_galand_0001_01",
+    "weapon_carve_hero_icon_folder": "galand",
+    "weapon_carve_hero_icon": "icon_skin_galand_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 47,
+    "category_name": "DB_category_hero_name_47",
+    "weapon_carve_hero_portrait_folder": "melascula",
+    "weapon_carve_hero_portrait": "cut_in_special_melascula_0001_01",
+    "weapon_carve_hero_icon_folder": "melascula",
+    "weapon_carve_hero_icon": "icon_skin_melascula_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 48,
+    "category_name": "DB_category_hero_name_48",
+    "weapon_carve_hero_portrait_folder": "monspeet",
+    "weapon_carve_hero_portrait": "cut_in_special_monspeet_0001_01",
+    "weapon_carve_hero_icon_folder": "monspeet",
+    "weapon_carve_hero_icon": "icon_skin_monspeet_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 49,
+    "category_name": "DB_category_hero_name_49",
+    "weapon_carve_hero_portrait_folder": "gloxinia",
+    "weapon_carve_hero_portrait": "cut_in_special_gloxinia_0001_01",
+    "weapon_carve_hero_icon_folder": "gloxinia",
+    "weapon_carve_hero_icon": "icon_skin_gloxinia_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 50,
+    "category_name": "DB_category_hero_name_50",
+    "weapon_carve_hero_portrait_folder": "drole",
+    "weapon_carve_hero_portrait": "cut_in_special_drole_0001_01",
+    "weapon_carve_hero_icon_folder": "meliodas",
+    "weapon_carve_hero_icon": "icon_skin_meliodas_0005_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 51,
+    "category_name": "DB_category_hero_name_51",
+    "weapon_carve_hero_portrait_folder": "meliodas",
+    "weapon_carve_hero_portrait": "cut_in_special_meliodas_0005_01",
+    "weapon_carve_hero_icon_folder": "meliodas",
+    "weapon_carve_hero_icon": "icon_skin_meliodas_0005_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 52,
+    "category_name": "DB_category_hero_name_52",
+    "weapon_carve_hero_portrait_folder": "grayroad",
+    "weapon_carve_hero_portrait": "cut_in_special_grayroad_0001_01",
+    "weapon_carve_hero_icon_folder": "meliodas",
+    "weapon_carve_hero_icon": "icon_skin_meliodas_0005_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 53,
+    "category_name": "DB_category_hero_name_53",
+    "weapon_carve_hero_portrait_folder": "derieri",
+    "weapon_carve_hero_portrait": "cut_in_special_derieri_0001_01",
+    "weapon_carve_hero_icon_folder": "derieri",
+    "weapon_carve_hero_icon": "icon_skin_derieri_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 54,
+    "category_name": "DB_category_hero_name_54",
+    "weapon_carve_hero_portrait_folder": "estarossa",
+    "weapon_carve_hero_portrait": "cut_in_special_estarossa_0001_01",
+    "weapon_carve_hero_icon_folder": "estarossa",
+    "weapon_carve_hero_icon": "icon_skin_estarossa_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 55,
+    "category_name": "DB_category_hero_name_55",
+    "weapon_carve_hero_portrait_folder": "zeldris",
+    "weapon_carve_hero_portrait": "cut_in_special_zeldris_0001_01",
+    "weapon_carve_hero_icon_folder": "meliodas",
+    "weapon_carve_hero_icon": "icon_skin_meliodas_0005_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 56,
+    "category_name": "DB_category_hero_name_56",
+    "weapon_carve_hero_portrait_folder": "deathpierce",
+    "weapon_carve_hero_portrait": "cut_in_special_deathpierce_0001_01",
+    "weapon_carve_hero_icon_folder": "deathpierce",
+    "weapon_carve_hero_icon": "icon_skin_deathpierce_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 57,
+    "category_name": "DB_category_hero_name_57",
+    "weapon_carve_hero_portrait_folder": "dogedo",
+    "weapon_carve_hero_portrait": "cut_in_special_dogedo_0001_01",
+    "weapon_carve_hero_icon_folder": "dogedo",
+    "weapon_carve_hero_icon": "icon_skin_dogedo_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 58,
+    "category_name": "DB_category_hero_name_58",
+    "weapon_carve_hero_portrait_folder": "denzel",
+    "weapon_carve_hero_portrait": "cut_in_special_denzel_0001_01",
+    "weapon_carve_hero_icon_folder": "denzel",
+    "weapon_carve_hero_icon": "icon_skin_denzel_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 59,
+    "category_name": "DB_category_hero_name_59",
+    "weapon_carve_hero_portrait_folder": "waillo",
+    "weapon_carve_hero_portrait": "cut_in_special_waillo_0001_01",
+    "weapon_carve_hero_icon_folder": "waillo",
+    "weapon_carve_hero_icon": "icon_skin_waillo_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 60,
+    "category_name": "DB_category_hero_name_60",
+    "weapon_carve_hero_portrait_folder": "deldry",
+    "weapon_carve_hero_portrait": "cut_in_special_deldry_0001_01",
+    "weapon_carve_hero_icon_folder": "deldry",
+    "weapon_carve_hero_icon": "icon_skin_deldry_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 61,
+    "category_name": "DB_category_hero_name_61",
+    "weapon_carve_hero_portrait_folder": "arden",
+    "weapon_carve_hero_portrait": "cut_in_special_arden_0001_01",
+    "weapon_carve_hero_icon_folder": "arden",
+    "weapon_carve_hero_icon": "icon_skin_arden_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 62,
+    "category_name": "DB_category_hero_name_62",
+    "weapon_carve_hero_portrait_folder": "disaster_valenty",
+    "weapon_carve_hero_portrait": "cut_in_special_disaster_valenty_0001_01",
+    "weapon_carve_hero_icon_folder": "disaster_valenty",
+    "weapon_carve_hero_icon": "icon_skin_disaster_valenty_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 63,
+    "category_name": "DB_category_hero_name_63",
+    "weapon_carve_hero_portrait_folder": "disaster_eastinamabyllis",
+    "weapon_carve_hero_portrait": "cut_in_special_disaster_eastinamabyllis_0001_01",
+    "weapon_carve_hero_icon_folder": "disaster_eastinamabyllis",
+    "weapon_carve_hero_icon": "icon_skin_disaster_eastinamabyllis_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 64,
+    "category_name": "DB_category_hero_name_64",
+    "weapon_carve_hero_portrait_folder": "disaster_mono",
+    "weapon_carve_hero_portrait": "cut_in_special_disaster_mono_0001_01",
+    "weapon_carve_hero_icon_folder": "disaster_mono",
+    "weapon_carve_hero_icon": "icon_skin_disaster_mono_0001_l",
+    "weapon_carve_hero_open": 0
+  },
+  {
+    "id": 68,
+    "category_name": "DB_category_hero_name_68",
+    "weapon_carve_hero_portrait_folder": "prisoners_ellatt",
+    "weapon_carve_hero_portrait": "cut_in_special_prisoners_ellatt_0001_01",
+    "weapon_carve_hero_icon_folder": "prisoners_ellatt",
+    "weapon_carve_hero_icon": "icon_skin_prisoners_ellatt_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 69,
+    "category_name": "DB_category_hero_name_69",
+    "weapon_carve_hero_portrait_folder": "prisoners_bellion",
+    "weapon_carve_hero_portrait": "cut_in_special_prisoners_bellion_0001_01",
+    "weapon_carve_hero_icon_folder": "prisoners_bellion",
+    "weapon_carve_hero_icon": "icon_skin_prisoners_bellion_0001_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 70,
+    "category_name": "DB_category_hero_name_70",
+    "weapon_carve_hero_portrait_folder": "npc_jenna_0010",
+    "weapon_carve_hero_portrait": "cut_in_special_npc_jenna_0010_01",
+    "weapon_carve_hero_icon_folder": "jenna",
+    "weapon_carve_hero_icon": "icon_skin_jenna_0010_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 71,
+    "category_name": "DB_category_hero_name_71",
+    "weapon_carve_hero_portrait_folder": "npc_zaneri_0010",
+    "weapon_carve_hero_portrait": "cut_in_special_npc_zaneri_0010_01",
+    "weapon_carve_hero_icon_folder": "zaneri",
+    "weapon_carve_hero_icon": "icon_skin_zaneri_0010_l",
+    "weapon_carve_hero_open": 1
+  },
+  {
+    "id": 72,
+    "category_name": "DB_category_hero_name_72",
+    "weapon_carve_hero_portrait_folder": "zaratras",
+    "weapon_carve_hero_portrait": "cut_in_special_zaratras_0001_01",
+    "weapon_carve_hero_icon_folder": "zaratras",
+    "weapon_carve_hero_icon": "icon_skin_zaratras_0001_l",
+    "weapon_carve_hero_open": 0
+  }
+]

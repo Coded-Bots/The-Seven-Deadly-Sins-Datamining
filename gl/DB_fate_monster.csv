@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6010101,
+    "type": "weak",
+    "monster_group_id": 2260102,
+    "potrait": "icon_hero_ban_0002_s",
+    "hero_name": "DB_hero_name_110400",
+    "desc": "DB_fate_monster_desc_6010110"
+  },
+  {
+    "id": 6010201,
+    "type": "weak",
+    "monster_group_id": 2260106,
+    "potrait": "icon_hero_king_0002_s",
+    "hero_name": "DB_hero_name_100500",
+    "desc": "DB_fate_monster_desc_6010200"
+  },
+  {
+    "id": 6010301,
+    "type": "weak",
+    "monster_group_id": 2260126,
+    "potrait": "icon_hero_meliodas_0016_s",
+    "hero_name": "DB_hero_name_100100",
+    "desc": "DB_fate_monster_desc_6010300"
+  },
+  {
+    "id": 6010401,
+    "type": "weak",
+    "monster_group_id": 2260131,
+    "potrait": "icon_hero_slime_rimuruhuman_0001_s",
+    "hero_name": "DB_hero_name_1465000",
+    "desc": "DB_fate_monster_desc_6010500"
+  },
+  {
+    "id": 6010501,
+    "type": "weak",
+    "monster_group_id": 2260181,
+    "potrait": "icon_hero_merlin_0013_s",
+    "hero_name": "DB_hero_name_101300",
+    "desc": "DB_fate_monster_desc_6010600"
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "id": 1,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_16",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_basic_hard",
+    "client_visible": 1,
+    "checklist_value": 50
+  },
+  {
+    "id": 2,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_02",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_move",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 3,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_05",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank1",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 4,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_06",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank2",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 5,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_07",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank3",
+    "client_visible": 1,
+    "checklist_value": 10
+  },
+  {
+    "id": 6,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_08",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_special",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 7,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_12",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_heal",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 8,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_boss_score_checklist_1001108",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_decrease_gauge",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 9,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_boss_score_checklist_1001109",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_dissipation",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 11,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_boss_score_checklist_010",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_erase_buff",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 15,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_19",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_survive",
+    "client_visible": 0,
+    "checklist_value": 50
+  },
+  {
+    "id": 16,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_20",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hp_remain",
+    "client_visible": 0,
+    "checklist_value": 0.0006
+  },
+  {
+    "id": 17,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_22",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_team_power",
+    "client_visible": 0,
+    "checklist_value": 0.0003
+  },
+  {
+    "id": 18,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_23",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_max_damage",
+    "client_visible": 0,
+    "checklist_value": 0.0006
+  },
+  {
+    "id": 19,
+    "battlescore_group_id": 10011,
+    "checklist_name": "DB_guild_boss_score_checklist_21",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_1",
+    "client_visible": 0,
+    "checklist_value": 3
+  },
+  {
+    "id": 20,
+    "battlescore_group_id": 10011,
+    "checklist_name": "",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_2",
+    "client_visible": 0,
+    "checklist_value": 1.8
+  },
+  {
+    "id": 21,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_18",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_basic_extreme",
+    "client_visible": 1,
+    "checklist_value": 300
+  },
+  {
+    "id": 22,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_02",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_move",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 23,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_05",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank1",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 24,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_06",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank2",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 25,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_07",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank3",
+    "client_visible": 1,
+    "checklist_value": 10
+  },
+  {
+    "id": 26,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_08",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_special",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 27,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_12",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_heal",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 28,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_boss_score_checklist_1001108",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_decrease_gauge",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 29,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_boss_score_checklist_1001109",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_dissipation",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 31,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_boss_score_checklist_010",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_erase_buff",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 35,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_19",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_survive",
+    "client_visible": 0,
+    "checklist_value": 70
+  },
+  {
+    "id": 36,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_20",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hp_remain",
+    "client_visible": 0,
+    "checklist_value": 0.0008
+  },
+  {
+    "id": 37,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_22",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_team_power",
+    "client_visible": 0,
+    "checklist_value": 0.0004
+  },
+  {
+    "id": 38,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_23",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_max_damage",
+    "client_visible": 0,
+    "checklist_value": 0.0009
+  },
+  {
+    "id": 39,
+    "battlescore_group_id": 10012,
+    "checklist_name": "DB_guild_boss_score_checklist_21",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_1",
+    "client_visible": 0,
+    "checklist_value": 3
+  },
+  {
+    "id": 40,
+    "battlescore_group_id": 10012,
+    "checklist_name": "",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_2",
+    "client_visible": 0,
+    "checklist_value": 1.9
+  },
+  {
+    "id": 41,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_26",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_basic_hell",
+    "client_visible": 1,
+    "checklist_value": 600
+  },
+  {
+    "id": 42,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_02",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_move",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 43,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_05",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank1",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 44,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_06",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank2",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 45,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_07",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank3",
+    "client_visible": 1,
+    "checklist_value": 10
+  },
+  {
+    "id": 46,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_08",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_special",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 47,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_12",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_heal",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 48,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_boss_score_checklist_1001108",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_decrease_gauge",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 49,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_boss_score_checklist_1001109",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_dissipation",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 51,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_boss_score_checklist_010",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_erase_buff",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 55,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_19",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_survive",
+    "client_visible": 0,
+    "checklist_value": 100
+  },
+  {
+    "id": 56,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_20",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hp_remain",
+    "client_visible": 0,
+    "checklist_value": 0.001
+  },
+  {
+    "id": 57,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_22",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_team_power",
+    "client_visible": 0,
+    "checklist_value": 0.0005
+  },
+  {
+    "id": 58,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_23",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_max_damage",
+    "client_visible": 0,
+    "checklist_value": 0.0015
+  },
+  {
+    "id": 59,
+    "battlescore_group_id": 10013,
+    "checklist_name": "DB_guild_boss_score_checklist_21",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_1",
+    "client_visible": 0,
+    "checklist_value": 3
+  },
+  {
+    "id": 60,
+    "battlescore_group_id": 10013,
+    "checklist_name": "",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_2",
+    "client_visible": 0,
+    "checklist_value": 2
+  },
+  {
+    "id": 190,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_16",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_basic_hard",
+    "client_visible": 1,
+    "checklist_value": 50
+  },
+  {
+    "id": 191,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_02",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_move",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 192,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_05",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank1",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 193,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_06",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank2",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 194,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_07",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank3",
+    "client_visible": 1,
+    "checklist_value": 10
+  },
+  {
+    "id": 195,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_08",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_special",
+    "client_visible": 1,
+    "checklist_value": 10
+  },
+  {
+    "id": 196,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_09",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_debuff",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 197,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_boss_score_checklist_004",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_debuff_infection",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 198,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_boss_score_checklist_003",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_debuff_preventpose",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 199,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_boss_score_checklist_010",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_erase_buff",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 200,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_boss_score_checklist_011",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_erase_pose",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 201,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_boss_score_checklist_012",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_ally_recovery_erase_debuff",
+    "client_visible": 1,
+    "checklist_value": 2
+  },
+  {
+    "id": 202,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_boss_score_checklist_013",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_card_disuse",
+    "client_visible": 1,
+    "checklist_value": 8
+  },
+  {
+    "id": 203,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_boss_score_checklist_017",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_break_kill",
+    "client_visible": 1,
+    "checklist_value": 90
+  },
+  {
+    "id": 204,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_boss_score_checklist_014",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_group_skill_use_01",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 205,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_boss_score_checklist_015",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_group_skill_use_02",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 206,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_19",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_survive",
+    "client_visible": 0,
+    "checklist_value": 50
+  },
+  {
+    "id": 207,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_20",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hp_remain",
+    "client_visible": 0,
+    "checklist_value": 0.0006
+  },
+  {
+    "id": 208,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_22",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_team_power",
+    "client_visible": 0,
+    "checklist_value": 0.0003
+  },
+  {
+    "id": 209,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_23",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_max_damage",
+    "client_visible": 0,
+    "checklist_value": 0.0002
+  },
+  {
+    "id": 210,
+    "battlescore_group_id": 13011,
+    "checklist_name": "DB_guild_boss_score_checklist_21",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_1",
+    "client_visible": 0,
+    "checklist_value": 3
+  },
+  {
+    "id": 211,
+    "battlescore_group_id": 13011,
+    "checklist_name": "",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_2",
+    "client_visible": 0,
+    "checklist_value": 1.8
+  },
+  {
+    "id": 212,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_18",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_basic_extreme",
+    "client_visible": 1,
+    "checklist_value": 150
+  },
+  {
+    "id": 213,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_02",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_move",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 214,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_05",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank1",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 215,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_06",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank2",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 216,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_07",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank3",
+    "client_visible": 1,
+    "checklist_value": 10
+  },
+  {
+    "id": 217,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_08",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_special",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 218,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_09",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_debuff",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 219,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_boss_score_checklist_004",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_debuff_infection",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 220,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_boss_score_checklist_003",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_debuff_preventpose",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 221,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_boss_score_checklist_010",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_erase_buff",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 222,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_boss_score_checklist_011",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_erase_pose",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 223,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_boss_score_checklist_012",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_ally_recovery_erase_debuff",
+    "client_visible": 1,
+    "checklist_value": 2
+  },
+  {
+    "id": 224,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_boss_score_checklist_013",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_card_disuse",
+    "client_visible": 1,
+    "checklist_value": 8
+  },
+  {
+    "id": 225,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_boss_score_checklist_017",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_break_kill",
+    "client_visible": 1,
+    "checklist_value": 120
+  },
+  {
+    "id": 226,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_boss_score_checklist_014",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_group_skill_use_01",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 227,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_boss_score_checklist_015",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_group_skill_use_02",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 228,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_19",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_survive",
+    "client_visible": 0,
+    "checklist_value": 70
+  },
+  {
+    "id": 229,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_20",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hp_remain",
+    "client_visible": 0,
+    "checklist_value": 0.0008
+  },
+  {
+    "id": 230,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_22",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_team_power",
+    "client_visible": 0,
+    "checklist_value": 0.0004
+  },
+  {
+    "id": 231,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_23",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_max_damage",
+    "client_visible": 0,
+    "checklist_value": 0.0003
+  },
+  {
+    "id": 232,
+    "battlescore_group_id": 13012,
+    "checklist_name": "DB_guild_boss_score_checklist_21",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_1",
+    "client_visible": 0,
+    "checklist_value": 3
+  },
+  {
+    "id": 233,
+    "battlescore_group_id": 13012,
+    "checklist_name": "",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_2",
+    "client_visible": 0,
+    "checklist_value": 1.9
+  },
+  {
+    "id": 234,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_26",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_basic_hell",
+    "client_visible": 1,
+    "checklist_value": 600
+  },
+  {
+    "id": 235,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_02",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_move",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 236,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_05",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank1",
+    "client_visible": 1,
+    "checklist_value": 3
+  },
+  {
+    "id": 237,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_06",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank2",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 238,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_07",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_rank3",
+    "client_visible": 1,
+    "checklist_value": 10
+  },
+  {
+    "id": 239,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_08",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_card_use_special",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 240,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_09",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_debuff",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 241,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_boss_score_checklist_004",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_debuff_infection",
+    "client_visible": 1,
+    "checklist_value": 20
+  },
+  {
+    "id": 242,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_boss_score_checklist_003",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_debuff_preventpose",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 243,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_boss_score_checklist_010",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_erase_buff",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 244,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_boss_score_checklist_011",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_erase_pose",
+    "client_visible": 1,
+    "checklist_value": 15
+  },
+  {
+    "id": 245,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_boss_score_checklist_012",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_ally_recovery_erase_debuff",
+    "client_visible": 1,
+    "checklist_value": 2
+  },
+  {
+    "id": 246,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_boss_score_checklist_013",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_card_disuse",
+    "client_visible": 1,
+    "checklist_value": 8
+  },
+  {
+    "id": 247,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_boss_score_checklist_017",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_enemy_skill_break_kill",
+    "client_visible": 1,
+    "checklist_value": 160
+  },
+  {
+    "id": 248,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_boss_score_checklist_014",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_group_skill_use_01",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 249,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_boss_score_checklist_015",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_group_skill_use_02",
+    "client_visible": 1,
+    "checklist_value": 5
+  },
+  {
+    "id": 250,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_19",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hero_survive",
+    "client_visible": 0,
+    "checklist_value": 100
+  },
+  {
+    "id": 251,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_20",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_hp_remain",
+    "client_visible": 0,
+    "checklist_value": 0.001
+  },
+  {
+    "id": 252,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_22",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_team_power",
+    "client_visible": 0,
+    "checklist_value": 0.0005
+  },
+  {
+    "id": 253,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_23",
+    "battlescore_category": 1,
+    "battlescore_type": "bs_max_damage",
+    "client_visible": 0,
+    "checklist_value": 0.0005
+  },
+  {
+    "id": 254,
+    "battlescore_group_id": 13013,
+    "checklist_name": "DB_guild_boss_score_checklist_21",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_1",
+    "client_visible": 0,
+    "checklist_value": 3
+  },
+  {
+    "id": 255,
+    "battlescore_group_id": 13013,
+    "checklist_name": "",
+    "battlescore_category": 2,
+    "battlescore_type": "bs_turn_use_2",
+    "client_visible": 0,
+    "checklist_value": 2
+  }
+]

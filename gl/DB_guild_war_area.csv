@@ -1,0 +1,242 @@
+[
+  {
+    "guild_war_area_id": 101,
+    "guild_war_region_id": 1,
+    "guild_war_area_icon": "icon_guild_war_area_01",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_01",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 102,
+    "guild_war_region_id": 1,
+    "guild_war_area_icon": "icon_guild_war_area_01",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_01",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 103,
+    "guild_war_region_id": 1,
+    "guild_war_area_icon": "icon_guild_war_area_01",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_01",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 104,
+    "guild_war_region_id": 1,
+    "guild_war_area_icon": "icon_guild_war_area_01",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_01",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 201,
+    "guild_war_region_id": 2,
+    "guild_war_area_icon": "icon_guild_war_area_02",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_02",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 202,
+    "guild_war_region_id": 2,
+    "guild_war_area_icon": "icon_guild_war_area_02",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_02",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 203,
+    "guild_war_region_id": 2,
+    "guild_war_area_icon": "icon_guild_war_area_02",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_02",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 204,
+    "guild_war_region_id": 2,
+    "guild_war_area_icon": "icon_guild_war_area_02",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_02",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 301,
+    "guild_war_region_id": 3,
+    "guild_war_area_icon": "icon_guild_war_area_03",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 302,
+    "guild_war_region_id": 3,
+    "guild_war_area_icon": "icon_guild_war_area_03",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 303,
+    "guild_war_region_id": 3,
+    "guild_war_area_icon": "icon_guild_war_area_03",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 304,
+    "guild_war_region_id": 3,
+    "guild_war_area_icon": "icon_guild_war_area_03",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 305,
+    "guild_war_region_id": 3,
+    "guild_war_area_icon": "icon_guild_war_area_03",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 401,
+    "guild_war_region_id": 4,
+    "guild_war_area_icon": "icon_guild_war_area_04",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 402,
+    "guild_war_region_id": 4,
+    "guild_war_area_icon": "icon_guild_war_area_04",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 403,
+    "guild_war_region_id": 4,
+    "guild_war_area_icon": "icon_guild_war_area_04",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 404,
+    "guild_war_region_id": 4,
+    "guild_war_area_icon": "icon_guild_war_area_04",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 405,
+    "guild_war_region_id": 4,
+    "guild_war_area_icon": "icon_guild_war_area_04",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 501,
+    "guild_war_region_id": 5,
+    "guild_war_area_icon": "icon_guild_war_area_05",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 502,
+    "guild_war_region_id": 5,
+    "guild_war_area_icon": "icon_guild_war_area_05",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 503,
+    "guild_war_region_id": 5,
+    "guild_war_area_icon": "icon_guild_war_area_05",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 504,
+    "guild_war_region_id": 5,
+    "guild_war_area_icon": "icon_guild_war_area_05",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 505,
+    "guild_war_region_id": 5,
+    "guild_war_area_icon": "icon_guild_war_area_05",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 506,
+    "guild_war_region_id": 5,
+    "guild_war_area_icon": "icon_guild_war_area_05",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 601,
+    "guild_war_region_id": 6,
+    "guild_war_area_icon": "icon_guild_war_area_06",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 602,
+    "guild_war_region_id": 6,
+    "guild_war_area_icon": "icon_guild_war_area_06",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 603,
+    "guild_war_region_id": 6,
+    "guild_war_area_icon": "icon_guild_war_area_06",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 604,
+    "guild_war_region_id": 6,
+    "guild_war_area_icon": "icon_guild_war_area_06",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 605,
+    "guild_war_region_id": 6,
+    "guild_war_area_icon": "icon_guild_war_area_06",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  },
+  {
+    "guild_war_area_id": 606,
+    "guild_war_region_id": 6,
+    "guild_war_area_icon": "icon_guild_war_area_06",
+    "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
+    "guild_war_area_bg": "map_SLIMEsquear_stage_01",
+    "guild_war_area_score": 100
+  }
+]

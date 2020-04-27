@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1001,
+    "event_spawn_point_type": "Sequence_camera_01"
+  },
+  {
+    "id": 1002,
+    "event_spawn_point_type": "Sequence_camera_02"
+  },
+  {
+    "id": 1003,
+    "event_spawn_point_type": "Sequence_camera_03"
+  },
+  {
+    "id": 1004,
+    "event_spawn_point_type": "Sequence_camera_04"
+  },
+  {
+    "id": 1005,
+    "event_spawn_point_type": "Sequence_camera_05"
+  },
+  {
+    "id": 1006,
+    "event_spawn_point_type": "Sequence_camera_06"
+  },
+  {
+    "id": 1007,
+    "event_spawn_point_type": "Sequence_camera_07"
+  },
+  {
+    "id": 1008,
+    "event_spawn_point_type": "Sequence_camera_08"
+  },
+  {
+    "id": 1010,
+    "event_spawn_point_type": "Sequence_camera_02"
+  }
+]

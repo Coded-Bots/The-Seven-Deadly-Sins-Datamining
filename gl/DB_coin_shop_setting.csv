@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "item_type": "herocoin",
+    "rate": 5,
+    "sale_days": 0,
+    "item_icon": "icon_coin_shop3"
+  },
+  {
+    "id": 2,
+    "item_type": "herocoin",
+    "rate": 4,
+    "sale_days": 0,
+    "item_icon": "icon_coin_shop2"
+  },
+  {
+    "id": 3,
+    "item_type": "herocoin",
+    "rate": 3,
+    "sale_days": 0,
+    "item_icon": "icon_coin_shop1"
+  },
+  {
+    "id": 4,
+    "item_type": "friend",
+    "rate": 1,
+    "sale_days": 0,
+    "item_icon": "icon_coin_shop4"
+  },
+  {
+    "id": 5,
+    "item_type": "eventcoin",
+    "rate": 5,
+    "sale_days": 7,
+    "item_icon": "icon_coin_shop_event_platinum"
+  },
+  {
+    "id": 6,
+    "item_type": "eventcoin",
+    "rate": 4,
+    "sale_days": 0,
+    "item_icon": "icon_coin_shop_event_gold"
+  },
+  {
+    "id": 7,
+    "item_type": "eventcoin",
+    "rate": 3,
+    "sale_days": 0,
+    "item_icon": "icon_coin_shop_event_Silver"
+  }
+]

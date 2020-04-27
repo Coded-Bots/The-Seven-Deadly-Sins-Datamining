@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 20,
+    "reward_item_id": 941011,
+    "reward_item_count": 2
+  },
+  {
+    "id": 2,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 40,
+    "reward_item_id": 900906,
+    "reward_item_count": 2
+  },
+  {
+    "id": 3,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 60,
+    "reward_item_id": 941005,
+    "reward_item_count": 2
+  },
+  {
+    "id": 4,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 80,
+    "reward_item_id": 541406,
+    "reward_item_count": 2
+  },
+  {
+    "id": 5,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 100,
+    "reward_item_id": 510105,
+    "reward_item_count": 2
+  },
+  {
+    "id": 6,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 120,
+    "reward_item_id": 543101,
+    "reward_item_count": 10
+  },
+  {
+    "id": 7,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 140,
+    "reward_item_id": 530001,
+    "reward_item_count": 20
+  },
+  {
+    "id": 8,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 160,
+    "reward_item_id": 543102,
+    "reward_item_count": 10
+  },
+  {
+    "id": 9,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 180,
+    "reward_item_id": 541406,
+    "reward_item_count": 3
+  },
+  {
+    "id": 10,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 200,
+    "reward_item_id": 543103,
+    "reward_item_count": 10
+  },
+  {
+    "id": 11,
+    "event_sub_index": 9001,
+    "reward_condition_item": 910700,
+    "reward_condition_count": 220,
+    "reward_item_id": 2200015,
+    "reward_item_count": 1
+  }
+]

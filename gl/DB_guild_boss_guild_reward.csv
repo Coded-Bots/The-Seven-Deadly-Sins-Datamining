@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "season_group": 2,
+    "group_id": 1,
+    "reward_title": "UI_guild_rank_09",
+    "target_value": 3000,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 2,
+    "season_group": 2,
+    "group_id": 2,
+    "reward_title": "UI_guild_rank_09",
+    "target_value": 3000,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 3,
+    "season_group": 2,
+    "group_id": 3,
+    "reward_title": "UI_guild_rank_09",
+    "target_value": 3000,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 4,
+    "season_group": 2,
+    "group_id": 4,
+    "reward_title": "UI_guild_rank_09",
+    "target_value": 3000,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  }
+]

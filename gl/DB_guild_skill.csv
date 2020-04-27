@@ -1,0 +1,182 @@
+[
+  {
+    "id": 110000,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 1,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 10
+  },
+  {
+    "id": 110001,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 2,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 15
+  },
+  {
+    "id": 110002,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 3,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 25
+  },
+  {
+    "id": 110003,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 4,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 40
+  },
+  {
+    "id": 110004,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 5,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 70
+  },
+  {
+    "id": 110005,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 6,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 100
+  },
+  {
+    "id": 110006,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 7,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 150
+  },
+  {
+    "id": 110007,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 8,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 250
+  },
+  {
+    "id": 110008,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 9,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 500
+  },
+  {
+    "id": 110009,
+    "passive_type": "contents",
+    "guild_skill_passive": 10001,
+    "guild_skill_open_lv": 3,
+    "guild_skill_lv": 10,
+    "guild_skill_group": 110000,
+    "guild_skill_lv_price_count": 0
+  },
+  {
+    "id": 120000,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 1,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 10
+  },
+  {
+    "id": 120001,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 2,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 15
+  },
+  {
+    "id": 120002,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 3,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 25
+  },
+  {
+    "id": 120003,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 4,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 40
+  },
+  {
+    "id": 120004,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 5,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 70
+  },
+  {
+    "id": 120005,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 6,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 100
+  },
+  {
+    "id": 120006,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 7,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 150
+  },
+  {
+    "id": 120007,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 8,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 250
+  },
+  {
+    "id": 120008,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 9,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 500
+  },
+  {
+    "id": 120009,
+    "passive_type": "skill",
+    "guild_skill_passive": 510014,
+    "guild_skill_open_lv": 4,
+    "guild_skill_lv": 10,
+    "guild_skill_group": 120000,
+    "guild_skill_lv_price_count": 0
+  }
+]

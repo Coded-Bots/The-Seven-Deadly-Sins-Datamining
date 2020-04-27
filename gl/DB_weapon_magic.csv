@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "random_option_type": 1,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_01",
+    "random_option_desc": "DB_weapon_magic_desc_01",
+    "option_effect_id": 0,
+    "option_effect_min": 10,
+    "option_effect_max": 20
+  },
+  {
+    "id": 2,
+    "random_option_type": 1,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_02",
+    "random_option_desc": "DB_weapon_magic_desc_02",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 3,
+    "random_option_type": 1,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_03",
+    "random_option_desc": "DB_weapon_magic_desc_03",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 4,
+    "random_option_type": 2,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_04",
+    "random_option_desc": "DB_weapon_magic_desc_04",
+    "option_effect_id": 0,
+    "option_effect_min": 10,
+    "option_effect_max": 20
+  },
+  {
+    "id": 5,
+    "random_option_type": 2,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_05",
+    "random_option_desc": "DB_weapon_magic_desc_05",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 6,
+    "random_option_type": 2,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_06",
+    "random_option_desc": "DB_weapon_magic_desc_06",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 7,
+    "random_option_type": 3,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_07",
+    "random_option_desc": "DB_weapon_magic_desc_07",
+    "option_effect_id": 0,
+    "option_effect_min": 10,
+    "option_effect_max": 20
+  },
+  {
+    "id": 8,
+    "random_option_type": 3,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_08",
+    "random_option_desc": "DB_weapon_magic_desc_08",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 9,
+    "random_option_type": 3,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_09",
+    "random_option_desc": "DB_weapon_magic_desc_09",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 10,
+    "random_option_type": 4,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_10",
+    "random_option_desc": "DB_weapon_magic_desc_10",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 11,
+    "random_option_type": 4,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_11",
+    "random_option_desc": "DB_weapon_magic_desc_11",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 12,
+    "random_option_type": 4,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_12",
+    "random_option_desc": "DB_weapon_magic_desc_12",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 13,
+    "random_option_type": 5,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_13",
+    "random_option_desc": "DB_weapon_magic_desc_13",
+    "option_effect_id": 0,
+    "option_effect_min": 10,
+    "option_effect_max": 20
+  },
+  {
+    "id": 14,
+    "random_option_type": 5,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_14",
+    "random_option_desc": "DB_weapon_magic_desc_14",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 15,
+    "random_option_type": 5,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_15",
+    "random_option_desc": "DB_weapon_magic_desc_15",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 16,
+    "random_option_type": 6,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_16",
+    "random_option_desc": "DB_weapon_magic_desc_16",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 17,
+    "random_option_type": 6,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_17",
+    "random_option_desc": "DB_weapon_magic_desc_17",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 18,
+    "random_option_type": 6,
+    "random_option_group": 1,
+    "random_option_name": "DB_weapon_magic_name_18",
+    "random_option_desc": "DB_weapon_magic_desc_18",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 2
+  },
+  {
+    "id": 19,
+    "random_option_type": 1,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_01",
+    "random_option_desc": "DB_weapon_magic_desc_01",
+    "option_effect_id": 0,
+    "option_effect_min": 10,
+    "option_effect_max": 30
+  },
+  {
+    "id": 20,
+    "random_option_type": 1,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_02",
+    "random_option_desc": "DB_weapon_magic_desc_02",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 21,
+    "random_option_type": 1,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_03",
+    "random_option_desc": "DB_weapon_magic_desc_03",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 22,
+    "random_option_type": 2,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_04",
+    "random_option_desc": "DB_weapon_magic_desc_04",
+    "option_effect_id": 0,
+    "option_effect_min": 10,
+    "option_effect_max": 30
+  },
+  {
+    "id": 23,
+    "random_option_type": 2,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_05",
+    "random_option_desc": "DB_weapon_magic_desc_05",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 24,
+    "random_option_type": 2,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_06",
+    "random_option_desc": "DB_weapon_magic_desc_06",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 25,
+    "random_option_type": 3,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_07",
+    "random_option_desc": "DB_weapon_magic_desc_07",
+    "option_effect_id": 0,
+    "option_effect_min": 10,
+    "option_effect_max": 30
+  },
+  {
+    "id": 26,
+    "random_option_type": 3,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_08",
+    "random_option_desc": "DB_weapon_magic_desc_08",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 27,
+    "random_option_type": 3,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_09",
+    "random_option_desc": "DB_weapon_magic_desc_09",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 28,
+    "random_option_type": 4,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_10",
+    "random_option_desc": "DB_weapon_magic_desc_10",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 29,
+    "random_option_type": 4,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_11",
+    "random_option_desc": "DB_weapon_magic_desc_11",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 30,
+    "random_option_type": 4,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_12",
+    "random_option_desc": "DB_weapon_magic_desc_12",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 31,
+    "random_option_type": 5,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_13",
+    "random_option_desc": "DB_weapon_magic_desc_13",
+    "option_effect_id": 0,
+    "option_effect_min": 10,
+    "option_effect_max": 30
+  },
+  {
+    "id": 32,
+    "random_option_type": 5,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_14",
+    "random_option_desc": "DB_weapon_magic_desc_14",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 33,
+    "random_option_type": 5,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_15",
+    "random_option_desc": "DB_weapon_magic_desc_15",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 34,
+    "random_option_type": 6,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_16",
+    "random_option_desc": "DB_weapon_magic_desc_16",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 35,
+    "random_option_type": 6,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_17",
+    "random_option_desc": "DB_weapon_magic_desc_17",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 36,
+    "random_option_type": 6,
+    "random_option_group": 2,
+    "random_option_name": "DB_weapon_magic_name_18",
+    "random_option_desc": "DB_weapon_magic_desc_18",
+    "option_effect_id": 0,
+    "option_effect_min": 1,
+    "option_effect_max": 3
+  },
+  {
+    "id": 37,
+    "random_option_type": 1,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_01",
+    "random_option_desc": "DB_weapon_magic_desc_01",
+    "option_effect_id": 0,
+    "option_effect_min": 20,
+    "option_effect_max": 30
+  },
+  {
+    "id": 38,
+    "random_option_type": 1,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_02",
+    "random_option_desc": "DB_weapon_magic_desc_02",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 39,
+    "random_option_type": 1,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_03",
+    "random_option_desc": "DB_weapon_magic_desc_03",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 40,
+    "random_option_type": 2,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_04",
+    "random_option_desc": "DB_weapon_magic_desc_04",
+    "option_effect_id": 0,
+    "option_effect_min": 20,
+    "option_effect_max": 30
+  },
+  {
+    "id": 41,
+    "random_option_type": 2,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_05",
+    "random_option_desc": "DB_weapon_magic_desc_05",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 42,
+    "random_option_type": 2,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_06",
+    "random_option_desc": "DB_weapon_magic_desc_06",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 43,
+    "random_option_type": 3,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_07",
+    "random_option_desc": "DB_weapon_magic_desc_07",
+    "option_effect_id": 0,
+    "option_effect_min": 20,
+    "option_effect_max": 30
+  },
+  {
+    "id": 44,
+    "random_option_type": 3,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_08",
+    "random_option_desc": "DB_weapon_magic_desc_08",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 45,
+    "random_option_type": 3,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_09",
+    "random_option_desc": "DB_weapon_magic_desc_09",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 46,
+    "random_option_type": 4,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_10",
+    "random_option_desc": "DB_weapon_magic_desc_10",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 47,
+    "random_option_type": 4,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_11",
+    "random_option_desc": "DB_weapon_magic_desc_11",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 48,
+    "random_option_type": 4,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_12",
+    "random_option_desc": "DB_weapon_magic_desc_12",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 49,
+    "random_option_type": 5,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_13",
+    "random_option_desc": "DB_weapon_magic_desc_13",
+    "option_effect_id": 0,
+    "option_effect_min": 20,
+    "option_effect_max": 30
+  },
+  {
+    "id": 50,
+    "random_option_type": 5,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_14",
+    "random_option_desc": "DB_weapon_magic_desc_14",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 51,
+    "random_option_type": 5,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_15",
+    "random_option_desc": "DB_weapon_magic_desc_15",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 52,
+    "random_option_type": 6,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_16",
+    "random_option_desc": "DB_weapon_magic_desc_16",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 53,
+    "random_option_type": 6,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_17",
+    "random_option_desc": "DB_weapon_magic_desc_17",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 54,
+    "random_option_type": 6,
+    "random_option_group": 3,
+    "random_option_name": "DB_weapon_magic_name_18",
+    "random_option_desc": "DB_weapon_magic_desc_18",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 3
+  },
+  {
+    "id": 55,
+    "random_option_type": 1,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_01",
+    "random_option_desc": "DB_weapon_magic_desc_01",
+    "option_effect_id": 0,
+    "option_effect_min": 20,
+    "option_effect_max": 40
+  },
+  {
+    "id": 56,
+    "random_option_type": 1,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_02",
+    "random_option_desc": "DB_weapon_magic_desc_02",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 57,
+    "random_option_type": 1,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_03",
+    "random_option_desc": "DB_weapon_magic_desc_03",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 58,
+    "random_option_type": 2,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_04",
+    "random_option_desc": "DB_weapon_magic_desc_04",
+    "option_effect_id": 0,
+    "option_effect_min": 20,
+    "option_effect_max": 40
+  },
+  {
+    "id": 59,
+    "random_option_type": 2,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_05",
+    "random_option_desc": "DB_weapon_magic_desc_05",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 60,
+    "random_option_type": 2,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_06",
+    "random_option_desc": "DB_weapon_magic_desc_06",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 61,
+    "random_option_type": 3,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_07",
+    "random_option_desc": "DB_weapon_magic_desc_07",
+    "option_effect_id": 0,
+    "option_effect_min": 20,
+    "option_effect_max": 40
+  },
+  {
+    "id": 62,
+    "random_option_type": 3,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_08",
+    "random_option_desc": "DB_weapon_magic_desc_08",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 63,
+    "random_option_type": 3,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_09",
+    "random_option_desc": "DB_weapon_magic_desc_09",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 64,
+    "random_option_type": 4,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_10",
+    "random_option_desc": "DB_weapon_magic_desc_10",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 65,
+    "random_option_type": 4,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_11",
+    "random_option_desc": "DB_weapon_magic_desc_11",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 66,
+    "random_option_type": 4,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_12",
+    "random_option_desc": "DB_weapon_magic_desc_12",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 67,
+    "random_option_type": 5,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_13",
+    "random_option_desc": "DB_weapon_magic_desc_13",
+    "option_effect_id": 0,
+    "option_effect_min": 20,
+    "option_effect_max": 40
+  },
+  {
+    "id": 68,
+    "random_option_type": 5,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_14",
+    "random_option_desc": "DB_weapon_magic_desc_14",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 69,
+    "random_option_type": 5,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_15",
+    "random_option_desc": "DB_weapon_magic_desc_15",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 70,
+    "random_option_type": 6,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_16",
+    "random_option_desc": "DB_weapon_magic_desc_16",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 71,
+    "random_option_type": 6,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_17",
+    "random_option_desc": "DB_weapon_magic_desc_17",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 72,
+    "random_option_type": 6,
+    "random_option_group": 4,
+    "random_option_name": "DB_weapon_magic_name_18",
+    "random_option_desc": "DB_weapon_magic_desc_18",
+    "option_effect_id": 0,
+    "option_effect_min": 2,
+    "option_effect_max": 4
+  },
+  {
+    "id": 73,
+    "random_option_type": 1,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_01",
+    "random_option_desc": "DB_weapon_magic_desc_01",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 40
+  },
+  {
+    "id": 74,
+    "random_option_type": 1,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_02",
+    "random_option_desc": "DB_weapon_magic_desc_02",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 75,
+    "random_option_type": 1,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_03",
+    "random_option_desc": "DB_weapon_magic_desc_03",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 76,
+    "random_option_type": 2,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_04",
+    "random_option_desc": "DB_weapon_magic_desc_04",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 40
+  },
+  {
+    "id": 77,
+    "random_option_type": 2,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_05",
+    "random_option_desc": "DB_weapon_magic_desc_05",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 78,
+    "random_option_type": 2,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_06",
+    "random_option_desc": "DB_weapon_magic_desc_06",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 79,
+    "random_option_type": 3,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_07",
+    "random_option_desc": "DB_weapon_magic_desc_07",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 40
+  },
+  {
+    "id": 80,
+    "random_option_type": 3,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_08",
+    "random_option_desc": "DB_weapon_magic_desc_08",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 81,
+    "random_option_type": 3,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_09",
+    "random_option_desc": "DB_weapon_magic_desc_09",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 82,
+    "random_option_type": 4,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_10",
+    "random_option_desc": "DB_weapon_magic_desc_10",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 83,
+    "random_option_type": 4,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_11",
+    "random_option_desc": "DB_weapon_magic_desc_11",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 84,
+    "random_option_type": 4,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_12",
+    "random_option_desc": "DB_weapon_magic_desc_12",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 85,
+    "random_option_type": 5,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_13",
+    "random_option_desc": "DB_weapon_magic_desc_13",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 40
+  },
+  {
+    "id": 86,
+    "random_option_type": 5,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_14",
+    "random_option_desc": "DB_weapon_magic_desc_14",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 87,
+    "random_option_type": 5,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_15",
+    "random_option_desc": "DB_weapon_magic_desc_15",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 88,
+    "random_option_type": 6,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_16",
+    "random_option_desc": "DB_weapon_magic_desc_16",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 89,
+    "random_option_type": 6,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_17",
+    "random_option_desc": "DB_weapon_magic_desc_17",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 90,
+    "random_option_type": 6,
+    "random_option_group": 5,
+    "random_option_name": "DB_weapon_magic_name_18",
+    "random_option_desc": "DB_weapon_magic_desc_18",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 4
+  },
+  {
+    "id": 91,
+    "random_option_type": 1,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_01",
+    "random_option_desc": "DB_weapon_magic_desc_01",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 50
+  },
+  {
+    "id": 92,
+    "random_option_type": 1,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_02",
+    "random_option_desc": "DB_weapon_magic_desc_02",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 93,
+    "random_option_type": 1,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_03",
+    "random_option_desc": "DB_weapon_magic_desc_03",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 94,
+    "random_option_type": 2,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_04",
+    "random_option_desc": "DB_weapon_magic_desc_04",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 50
+  },
+  {
+    "id": 95,
+    "random_option_type": 2,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_05",
+    "random_option_desc": "DB_weapon_magic_desc_05",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 96,
+    "random_option_type": 2,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_06",
+    "random_option_desc": "DB_weapon_magic_desc_06",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 97,
+    "random_option_type": 3,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_07",
+    "random_option_desc": "DB_weapon_magic_desc_07",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 50
+  },
+  {
+    "id": 98,
+    "random_option_type": 3,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_08",
+    "random_option_desc": "DB_weapon_magic_desc_08",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 99,
+    "random_option_type": 3,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_09",
+    "random_option_desc": "DB_weapon_magic_desc_09",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 100,
+    "random_option_type": 4,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_10",
+    "random_option_desc": "DB_weapon_magic_desc_10",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 101,
+    "random_option_type": 4,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_11",
+    "random_option_desc": "DB_weapon_magic_desc_11",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 102,
+    "random_option_type": 4,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_12",
+    "random_option_desc": "DB_weapon_magic_desc_12",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 103,
+    "random_option_type": 5,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_13",
+    "random_option_desc": "DB_weapon_magic_desc_13",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 50
+  },
+  {
+    "id": 104,
+    "random_option_type": 5,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_14",
+    "random_option_desc": "DB_weapon_magic_desc_14",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 105,
+    "random_option_type": 5,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_15",
+    "random_option_desc": "DB_weapon_magic_desc_15",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 106,
+    "random_option_type": 6,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_16",
+    "random_option_desc": "DB_weapon_magic_desc_16",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 107,
+    "random_option_type": 6,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_17",
+    "random_option_desc": "DB_weapon_magic_desc_17",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 108,
+    "random_option_type": 6,
+    "random_option_group": 6,
+    "random_option_name": "DB_weapon_magic_name_18",
+    "random_option_desc": "DB_weapon_magic_desc_18",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 5
+  },
+  {
+    "id": 109,
+    "random_option_type": 1,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_01",
+    "random_option_desc": "DB_weapon_magic_desc_01",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 60
+  },
+  {
+    "id": 110,
+    "random_option_type": 1,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_02",
+    "random_option_desc": "DB_weapon_magic_desc_02",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 111,
+    "random_option_type": 1,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_03",
+    "random_option_desc": "DB_weapon_magic_desc_03",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 112,
+    "random_option_type": 2,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_04",
+    "random_option_desc": "DB_weapon_magic_desc_04",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 60
+  },
+  {
+    "id": 113,
+    "random_option_type": 2,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_05",
+    "random_option_desc": "DB_weapon_magic_desc_05",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 114,
+    "random_option_type": 2,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_06",
+    "random_option_desc": "DB_weapon_magic_desc_06",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 115,
+    "random_option_type": 3,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_07",
+    "random_option_desc": "DB_weapon_magic_desc_07",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 60
+  },
+  {
+    "id": 116,
+    "random_option_type": 3,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_08",
+    "random_option_desc": "DB_weapon_magic_desc_08",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 117,
+    "random_option_type": 3,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_09",
+    "random_option_desc": "DB_weapon_magic_desc_09",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 118,
+    "random_option_type": 4,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_10",
+    "random_option_desc": "DB_weapon_magic_desc_10",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 119,
+    "random_option_type": 4,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_11",
+    "random_option_desc": "DB_weapon_magic_desc_11",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 120,
+    "random_option_type": 4,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_12",
+    "random_option_desc": "DB_weapon_magic_desc_12",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 121,
+    "random_option_type": 5,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_13",
+    "random_option_desc": "DB_weapon_magic_desc_13",
+    "option_effect_id": 0,
+    "option_effect_min": 30,
+    "option_effect_max": 60
+  },
+  {
+    "id": 122,
+    "random_option_type": 5,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_14",
+    "random_option_desc": "DB_weapon_magic_desc_14",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 123,
+    "random_option_type": 5,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_15",
+    "random_option_desc": "DB_weapon_magic_desc_15",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 124,
+    "random_option_type": 6,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_16",
+    "random_option_desc": "DB_weapon_magic_desc_16",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 125,
+    "random_option_type": 6,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_17",
+    "random_option_desc": "DB_weapon_magic_desc_17",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  },
+  {
+    "id": 126,
+    "random_option_type": 6,
+    "random_option_group": 7,
+    "random_option_name": "DB_weapon_magic_name_18",
+    "random_option_desc": "DB_weapon_magic_desc_18",
+    "option_effect_id": 0,
+    "option_effect_min": 3,
+    "option_effect_max": 6
+  }
+]

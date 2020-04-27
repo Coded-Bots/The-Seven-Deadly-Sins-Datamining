@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "content_type": "guild",
+    "PIDL_Min_1": 15016,
+    "PIDL_Max_1": 15016,
+    "PIDL_Min_2": 15701,
+    "PIDL_Max_2": 15750,
+    "PIDL_Min_3": 0,
+    "PIDL_Max_3": 0,
+    "PIDL_Min_4": 0,
+    "PIDL_Max_4": 0,
+    "PIDL_Min_5": 0,
+    "PIDL_Max_5": 0,
+    "popup_desc": "DB_frozen_desc_01"
+  }
+]

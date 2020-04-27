@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "ad_type": "ad_stage_roulette_reward",
+    "item_id": 500011,
+    "item_count": 1,
+    "rate": 1250,
+    "grade": 1
+  },
+  {
+    "id": 2,
+    "ad_type": "ad_stage_roulette_reward",
+    "item_id": 500006,
+    "item_count": 1,
+    "rate": 1250,
+    "grade": 2
+  },
+  {
+    "id": 3,
+    "ad_type": "ad_stage_roulette_reward",
+    "item_id": 542103,
+    "item_count": 1,
+    "rate": 1250,
+    "grade": 3
+  },
+  {
+    "id": 4,
+    "ad_type": "ad_stage_roulette_reward",
+    "item_id": 500008,
+    "item_count": 1,
+    "rate": 1250,
+    "grade": 2
+  },
+  {
+    "id": 5,
+    "ad_type": "ad_stage_roulette_reward",
+    "item_id": 500011,
+    "item_count": 1,
+    "rate": 1250,
+    "grade": 1
+  },
+  {
+    "id": 6,
+    "ad_type": "ad_stage_roulette_reward",
+    "item_id": 542203,
+    "item_count": 1,
+    "rate": 1250,
+    "grade": 3
+  },
+  {
+    "id": 7,
+    "ad_type": "ad_stage_roulette_reward",
+    "item_id": 541404,
+    "item_count": 1,
+    "rate": 1250,
+    "grade": 2
+  },
+  {
+    "id": 8,
+    "ad_type": "ad_stage_roulette_reward",
+    "item_id": 542303,
+    "item_count": 1,
+    "rate": 1250,
+    "grade": 3
+  }
+]

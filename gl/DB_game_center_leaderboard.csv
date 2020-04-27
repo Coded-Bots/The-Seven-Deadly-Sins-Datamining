@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "mission_type": "Stamina_Use",
+    "jp_platform_id": "CgkIxrSoicIYEAIQBQ",
+    "kr_platform_id": "CgkIidS9veIEEAIQDQ",
+    "gb_platform_id": "CgkIwoiq1ccNEAIQAw"
+  },
+  {
+    "id": 2,
+    "mission_type": "Gold_Gain",
+    "jp_platform_id": "CgkIxrSoicIYEAIQBg",
+    "kr_platform_id": "CgkIidS9veIEEAIQDg",
+    "gb_platform_id": "CgkIwoiq1ccNEAIQEA"
+  },
+  {
+    "id": 3,
+    "mission_type": "Stage_Free_Clear",
+    "jp_platform_id": "CgkIxrSoicIYEAIQBw",
+    "kr_platform_id": "CgkIidS9veIEEAIQDw",
+    "gb_platform_id": "CgkIwoiq1ccNEAIQEQ"
+  },
+  {
+    "id": 4,
+    "mission_type": "Stage_Week_Clear",
+    "jp_platform_id": "CgkIxrSoicIYEAIQCA",
+    "kr_platform_id": "CgkIidS9veIEEAIQEA",
+    "gb_platform_id": "CgkIwoiq1ccNEAIQEg"
+  },
+  {
+    "id": 5,
+    "mission_type": "Stage_Boss_Clear",
+    "jp_platform_id": "CgkIxrSoicIYEAIQCQ",
+    "kr_platform_id": "CgkIidS9veIEEAIQEQ",
+    "gb_platform_id": "CgkIwoiq1ccNEAIQCw"
+  },
+  {
+    "id": 6,
+    "mission_type": "Stage_Destroy_Clear",
+    "jp_platform_id": "CgkIxrSoicIYEAIQCg",
+    "kr_platform_id": "CgkIidS9veIEEAIQEg",
+    "gb_platform_id": "CgkIwoiq1ccNEAIQEw"
+  },
+  {
+    "id": 7,
+    "mission_type": "Stage_Low_PVP_Clear",
+    "jp_platform_id": "CgkIxrSoicIYEAIQCw",
+    "kr_platform_id": "CgkIidS9veIEEAIQEw",
+    "gb_platform_id": "CgkIwoiq1ccNEAIQFA"
+  },
+  {
+    "id": 8,
+    "mission_type": "Stage_Low_PVP_Win",
+    "jp_platform_id": "CgkIxrSoicIYEAIQDA",
+    "kr_platform_id": "CgkIidS9veIEEAIQFA",
+    "gb_platform_id": "CgkIwoiq1ccNEAIQFQ"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "town_id": 100301,
+    "material_resource": "BNA_field_material_01",
+    "open_type": "quest_end",
+    "open_value": 11006,
+    "close_type": "",
+    "close_value": 0
+  },
+  {
+    "id": 2,
+    "town_id": 400401,
+    "material_resource": "BZPVP_field_material_01",
+    "open_type": "quest_end",
+    "open_value": 14009,
+    "close_type": "",
+    "close_value": 0
+  },
+  {
+    "id": 3,
+    "town_id": 600601,
+    "material_resource": "town_LONSsq_castle_2",
+    "open_type": "quest_end",
+    "open_value": 16017,
+    "close_type": "quest_end",
+    "close_value": 16047
+  },
+  {
+    "id": 4,
+    "town_id": 600601,
+    "material_resource": "prop_town_lonswest_castle",
+    "open_type": "quest_end",
+    "open_value": 16035,
+    "close_type": "quest_end",
+    "close_value": 16036
+  },
+  {
+    "id": 5,
+    "town_id": 600601,
+    "material_resource": "prop_town_lonswest_bg",
+    "open_type": "quest_end",
+    "open_value": 16035,
+    "close_type": "quest_end",
+    "close_value": 16036
+  },
+  {
+    "id": 6,
+    "town_id": 600601,
+    "material_resource": "town_LONSsq_castle_2",
+    "open_type": "quest_end",
+    "open_value": 16036,
+    "close_type": "quest_end",
+    "close_value": 16047
+  },
+  {
+    "id": 7,
+    "town_id": 600601,
+    "material_resource": "prop_town_lonswest_castle",
+    "open_type": "quest_end",
+    "open_value": 16047,
+    "close_type": "quest_end",
+    "close_value": 16048
+  },
+  {
+    "id": 8,
+    "town_id": 600601,
+    "material_resource": "prop_town_lonswest_bg",
+    "open_type": "quest_end",
+    "open_value": 16047,
+    "close_type": "quest_end",
+    "close_value": 16048
+  },
+  {
+    "id": 9,
+    "town_id": 600601,
+    "material_resource": "town_LONSsq_castle_2",
+    "open_type": "quest_end",
+    "open_value": 16048,
+    "close_type": "quest_end",
+    "close_value": 16510
+  },
+  {
+    "id": 10,
+    "town_id": 200201,
+    "material_resource": "town_DMPsquear_baste_bk",
+    "open_type": "quest_end",
+    "open_value": 12009,
+    "close_type": "",
+    "close_value": 0
+  }
+]

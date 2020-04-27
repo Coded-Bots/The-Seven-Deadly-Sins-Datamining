@@ -1,0 +1,18 @@
+[
+  {
+    "group_id": 101,
+    "active_start": "2020-02-20 00:00:00",
+    "active_end": "2020-03-04 23:59:00",
+    "play_count_reset_time": 1440,
+    "play_count": -1,
+    "group_string": "DB_subdue_boss_group_title_101",
+    "stage_string": "DB_subdue_boss_stage_title_101",
+    "group_bg_resource": "",
+    "banner_priority": 1,
+    "large_popup": "",
+    "event_banner": "s_banner_tidal_war_001",
+    "banner_info": "UI_subdue_boss_event_banner_desc_101",
+    "subdue_group_cutin": 2004010,
+    "subdue_main_lobby_button": 1
+  }
+]

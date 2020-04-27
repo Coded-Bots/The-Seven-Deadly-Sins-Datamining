@@ -1,0 +1,485 @@
+[
+  {
+    "id": 1,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10000,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10001,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 7
+  },
+  {
+    "id": 10002,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10003,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 7
+  },
+  {
+    "id": 10004,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10005,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 7
+  },
+  {
+    "id": 10006,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10007,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10008,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10009,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "",
+    "out_anim_name": "",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10008,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10009,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "",
+    "out_anim_name": "",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10010,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10011,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10012,
+    "fade_gui": "",
+    "in_anim_name": "",
+    "out_anim_name": "",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 10013,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20000,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20001,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20002,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20003,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20004,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20005,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20006,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20007,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20100,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 20101,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50000,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50001,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50100,
+    "fade_gui": "FadeInOut_2",
+    "in_anim_name": "FadeIn_2",
+    "out_anim_name": "FadeOut_2",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50101,
+    "fade_gui": "FadeInOut_3",
+    "in_anim_name": "FadeIn_3",
+    "out_anim_name": "FadeOut_3",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50100,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50101,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50102,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50190,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50191,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50192,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50193,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 10
+  },
+  {
+    "id": 50200,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50201,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50202,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 50300,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 10
+  },
+  {
+    "id": 60000,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 60001,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 70000,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 70001,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_0",
+    "out_anim_name": "FadeOut_0",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80000,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80001,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80100,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80101,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80110,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80111,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80200,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80201,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80300,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80301,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80400,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 80401,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90000,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90001,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90100,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90101,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90102,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90110,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90111,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90120,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90121,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90130,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  },
+  {
+    "id": 90131,
+    "fade_gui": "FadeInOut_0",
+    "in_anim_name": "FadeIn_1",
+    "out_anim_name": "FadeOut_1",
+    "frame_skip_count": 0
+  }
+]

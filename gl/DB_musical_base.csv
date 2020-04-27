@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "musical_base_type_name": "DB_musical_instrument_base_type_01",
+    "musical_base_icon": "musical_piano_01_icon",
+    "musical_compose_use": 1,
+    "musical_compose_open": 0,
+    "musical_gm_id": 0
+  },
+  {
+    "id": 2,
+    "musical_base_type_name": "DB_musical_instrument_base_type_02",
+    "musical_base_icon": "musical_guitar_01_icon",
+    "musical_compose_use": 1,
+    "musical_compose_open": 0,
+    "musical_gm_id": 25
+  },
+  {
+    "id": 3,
+    "musical_base_type_name": "DB_musical_instrument_base_type_03",
+    "musical_base_icon": "musical_violin_01_icon",
+    "musical_compose_use": 1,
+    "musical_compose_open": 0,
+    "musical_gm_id": 48
+  },
+  {
+    "id": 4,
+    "musical_base_type_name": "DB_musical_instrument_base_type_04",
+    "musical_base_icon": "musical_sax_01_icon",
+    "musical_compose_use": 1,
+    "musical_compose_open": 0,
+    "musical_gm_id": 64
+  },
+  {
+    "id": 5,
+    "musical_base_type_name": "DB_musical_instrument_base_type_05",
+    "musical_base_icon": "musical_xylophone_01_icon",
+    "musical_compose_use": 1,
+    "musical_compose_open": 0,
+    "musical_gm_id": 11
+  },
+  {
+    "id": 6,
+    "musical_base_type_name": "DB_musical_instrument_base_type_06",
+    "musical_base_icon": "musical_choir_01_icon",
+    "musical_compose_use": 1,
+    "musical_compose_open": 0,
+    "musical_gm_id": 52
+  },
+  {
+    "id": 7,
+    "musical_base_type_name": "DB_musical_instrument_base_type_07",
+    "musical_base_icon": "musical_flute_01_icon",
+    "musical_compose_use": 1,
+    "musical_compose_open": 0,
+    "musical_gm_id": 73
+  }
+]

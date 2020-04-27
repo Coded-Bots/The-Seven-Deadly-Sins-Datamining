@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "language_type": 3,
+    "language_local": "UI_GB_text_language_01",
+    "language_build_local": "UI_GB_build_text_language_01"
+  },
+  {
+    "id": 2,
+    "language_type": 5,
+    "language_local": "UI_GB_text_language_02",
+    "language_build_local": "UI_GB_build_text_language_02"
+  },
+  {
+    "id": 3,
+    "language_type": 4,
+    "language_local": "UI_GB_text_language_03",
+    "language_build_local": "UI_GB_build_text_language_03"
+  },
+  {
+    "id": 4,
+    "language_type": 13,
+    "language_local": "UI_GB_text_language_04",
+    "language_build_local": "UI_GB_build_text_language_04"
+  },
+  {
+    "id": 5,
+    "language_type": 12,
+    "language_local": "UI_GB_text_language_05",
+    "language_build_local": "UI_GB_build_text_language_05"
+  },
+  {
+    "id": 6,
+    "language_type": 6,
+    "language_local": "UI_GB_text_language_06",
+    "language_build_local": "UI_GB_build_text_language_06"
+  },
+  {
+    "id": 7,
+    "language_type": 7,
+    "language_local": "UI_GB_text_language_07",
+    "language_build_local": "UI_GB_build_text_language_07"
+  },
+  {
+    "id": 8,
+    "language_type": 8,
+    "language_local": "UI_GB_text_language_08",
+    "language_build_local": "UI_GB_build_text_language_08"
+  },
+  {
+    "id": 9,
+    "language_type": 9,
+    "language_local": "UI_GB_text_language_09",
+    "language_build_local": "UI_GB_build_text_language_09"
+  },
+  {
+    "id": 10,
+    "language_type": 10,
+    "language_local": "UI_GB_text_language_10",
+    "language_build_local": "UI_GB_build_text_language_10"
+  },
+  {
+    "id": 11,
+    "language_type": 11,
+    "language_local": "UI_GB_text_language_11",
+    "language_build_local": "UI_GB_build_text_language_11"
+  },
+  {
+    "id": 12,
+    "language_type": 1,
+    "language_local": "UI_GB_text_language_12",
+    "language_build_local": "UI_GB_build_text_language_12"
+  },
+  {
+    "id": 13,
+    "language_type": 2,
+    "language_local": "UI_GB_text_language_13",
+    "language_build_local": "UI_GB_build_text_language_13"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "ad_type": "ad_free_gamble",
+    "ad_count": 1,
+    "value_type_1": 1002,
+    "value_type_2": 0
+  },
+  {
+    "id": 2,
+    "ad_type": "ad_daily_reward",
+    "ad_count": 3,
+    "value_type_1": 900904,
+    "value_type_2": 0
+  },
+  {
+    "id": 4,
+    "ad_type": "ad_stage_roulette_reward",
+    "ad_count": 3,
+    "value_type_1": 34,
+    "value_type_2": 0
+  }
+]

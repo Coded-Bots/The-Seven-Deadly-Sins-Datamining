@@ -1,0 +1,4890 @@
+[
+  {
+    "id": 4005000,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0012"
+  },
+  {
+    "id": 4135000,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0011",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0011"
+  },
+  {
+    "id": 4004001,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0001"
+  },
+  {
+    "id": 4004009,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0507"
+  },
+  {
+    "id": 4004010,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0018",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0018"
+  },
+  {
+    "id": 4004002,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_1003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1003"
+  },
+  {
+    "id": 4004007,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0505"
+  },
+  {
+    "id": 4004003,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0501"
+  },
+  {
+    "id": 4004008,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0506"
+  },
+  {
+    "id": 4004005,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0502"
+  },
+  {
+    "id": 4004006,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0504"
+  },
+  {
+    "id": 4004004,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0503"
+  },
+  {
+    "id": 4004011,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0035",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0035"
+  },
+  {
+    "id": 4004012,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0038",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0038"
+  },
+  {
+    "id": 4005001,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0001"
+  },
+  {
+    "id": 4005009,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0507"
+  },
+  {
+    "id": 4005010,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0018",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0018"
+  },
+  {
+    "id": 4005002,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_1003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1003"
+  },
+  {
+    "id": 4005007,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0505"
+  },
+  {
+    "id": 4005003,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0501"
+  },
+  {
+    "id": 4005008,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0506"
+  },
+  {
+    "id": 4005005,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0502"
+  },
+  {
+    "id": 4005006,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0504"
+  },
+  {
+    "id": 4005004,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0503"
+  },
+  {
+    "id": 4005011,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0035",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0035"
+  },
+  {
+    "id": 4005012,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0038",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0038"
+  },
+  {
+    "id": 4015001,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1001"
+  },
+  {
+    "id": 4015009,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1016"
+  },
+  {
+    "id": 4015010,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1551",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1551"
+  },
+  {
+    "id": 4015003,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1503"
+  },
+  {
+    "id": 4015008,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1506"
+  },
+  {
+    "id": 4015005,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1502"
+  },
+  {
+    "id": 4015007,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1002"
+  },
+  {
+    "id": 4015004,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1504"
+  },
+  {
+    "id": 4015006,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1505"
+  },
+  {
+    "id": 4015002,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1501"
+  },
+  {
+    "id": 4015011,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1019",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1019"
+  },
+  {
+    "id": 4015012,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_demon",
+    "resource_head": "hero_meliodas_head_1020",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_1020"
+  },
+  {
+    "id": 4024001,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0001"
+  },
+  {
+    "id": 4024008,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0029",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0029"
+  },
+  {
+    "id": 4024013,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0019",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0019"
+  },
+  {
+    "id": 4024009,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0040",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0034"
+  },
+  {
+    "id": 4024010,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0041",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0034"
+  },
+  {
+    "id": 4024002,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0034",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0034"
+  },
+  {
+    "id": 4024006,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0024",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0024"
+  },
+  {
+    "id": 4024011,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0042",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0024"
+  },
+  {
+    "id": 4024005,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0035",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0035"
+  },
+  {
+    "id": 4024004,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0504"
+  },
+  {
+    "id": 4024007,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0506"
+  },
+  {
+    "id": 4024003,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0012"
+  },
+  {
+    "id": 4024012,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0024",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0024"
+  },
+  {
+    "id": 4425001,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0001"
+  },
+  {
+    "id": 4425008,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0029",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0029"
+  },
+  {
+    "id": 4025013,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0019",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0019"
+  },
+  {
+    "id": 4425009,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0040",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0034"
+  },
+  {
+    "id": 4425010,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0041",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0034"
+  },
+  {
+    "id": 4425002,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0034",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0034"
+  },
+  {
+    "id": 4425006,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0024",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0024"
+  },
+  {
+    "id": 4425011,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0042",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0024"
+  },
+  {
+    "id": 4425005,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0035",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0035"
+  },
+  {
+    "id": 4425004,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0504"
+  },
+  {
+    "id": 4425007,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0506"
+  },
+  {
+    "id": 4425003,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0012"
+  },
+  {
+    "id": 4425012,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0024",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0024"
+  },
+  {
+    "id": 4034001,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0001"
+  },
+  {
+    "id": 4034013,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0028",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0028"
+  },
+  {
+    "id": 4034018,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0044",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0044"
+  },
+  {
+    "id": 4034003,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0504"
+  },
+  {
+    "id": 4034009,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0505"
+  },
+  {
+    "id": 4034005,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0507"
+  },
+  {
+    "id": 4034007,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0508",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0508"
+  },
+  {
+    "id": 4034008,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0503"
+  },
+  {
+    "id": 4034012,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0506"
+  },
+  {
+    "id": 4034002,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0034",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0034"
+  },
+  {
+    "id": 4034004,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0012"
+  },
+  {
+    "id": 4034006,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0502"
+  },
+  {
+    "id": 4034010,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0039",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0039"
+  },
+  {
+    "id": 4034011,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0024",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0024"
+  },
+  {
+    "id": 4034014,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0046",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0046"
+  },
+  {
+    "id": 4034015,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0509",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0509"
+  },
+  {
+    "id": 4034016,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0510",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0510"
+  },
+  {
+    "id": 4034017,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0033",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0033"
+  },
+  {
+    "id": 4034019,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0047",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0047"
+  },
+  {
+    "id": 4034020,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0048",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0048"
+  },
+  {
+    "id": 4035001,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0004"
+  },
+  {
+    "id": 4035013,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0028",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0028"
+  },
+  {
+    "id": 4035018,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0044",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0044"
+  },
+  {
+    "id": 4035003,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0504"
+  },
+  {
+    "id": 4035009,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0505"
+  },
+  {
+    "id": 4035005,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0507"
+  },
+  {
+    "id": 4035007,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0508",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0508"
+  },
+  {
+    "id": 4035008,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0503"
+  },
+  {
+    "id": 4035012,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0506"
+  },
+  {
+    "id": 4035002,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0034",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0034"
+  },
+  {
+    "id": 4035004,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0012"
+  },
+  {
+    "id": 4035006,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0502"
+  },
+  {
+    "id": 4035010,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0039",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0039"
+  },
+  {
+    "id": 4035011,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0024",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0024"
+  },
+  {
+    "id": 4035014,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0046",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0046"
+  },
+  {
+    "id": 4035015,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0509",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0509"
+  },
+  {
+    "id": 4035016,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0510",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0510"
+  },
+  {
+    "id": 4035017,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0033",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0033"
+  },
+  {
+    "id": 4035019,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0047",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0047"
+  },
+  {
+    "id": 4035020,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0048",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0048"
+  },
+  {
+    "id": 4044001,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0001"
+  },
+  {
+    "id": 4044008,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0505"
+  },
+  {
+    "id": 4044010,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0506"
+  },
+  {
+    "id": 4044009,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0014",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0014"
+  },
+  {
+    "id": 4044002,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0503"
+  },
+  {
+    "id": 4044004,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0502"
+  },
+  {
+    "id": 4044007,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0013"
+  },
+  {
+    "id": 4044006,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0504"
+  },
+  {
+    "id": 4044005,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0009"
+  },
+  {
+    "id": 4044003,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0501"
+  },
+  {
+    "id": 4045001,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0001"
+  },
+  {
+    "id": 4045008,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0505"
+  },
+  {
+    "id": 4044011,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0506"
+  },
+  {
+    "id": 4045009,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0014",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0014"
+  },
+  {
+    "id": 4045002,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0503"
+  },
+  {
+    "id": 4045004,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0502"
+  },
+  {
+    "id": 4045007,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0013"
+  },
+  {
+    "id": 4045006,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0504"
+  },
+  {
+    "id": 4045005,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0009"
+  },
+  {
+    "id": 4045003,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0501"
+  },
+  {
+    "id": 4055001,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0003"
+  },
+  {
+    "id": 4055009,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0011",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0011"
+  },
+  {
+    "id": 4055010,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0025",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0025"
+  },
+  {
+    "id": 4055003,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0007",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0007"
+  },
+  {
+    "id": 4055008,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0502"
+  },
+  {
+    "id": 4055006,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0010"
+  },
+  {
+    "id": 4055002,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0006"
+  },
+  {
+    "id": 4055005,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0009"
+  },
+  {
+    "id": 4055007,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0501"
+  },
+  {
+    "id": 4055004,
+    "head_attach_dummy": 0,
+    "character_base": "dianesmall",
+    "resource_head": "hero_dianesmall_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dianesmall_head_0001"
+  },
+  {
+    "id": 4064001,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0001"
+  },
+  {
+    "id": 4064009,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0505"
+  },
+  {
+    "id": 4064010,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0034",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0034"
+  },
+  {
+    "id": 4064003,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0004"
+  },
+  {
+    "id": 4064005,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0503"
+  },
+  {
+    "id": 4064007,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0502"
+  },
+  {
+    "id": 4064002,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0006"
+  },
+  {
+    "id": 4064006,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0504"
+  },
+  {
+    "id": 4064004,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0025",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0025"
+  },
+  {
+    "id": 4065001,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0001"
+  },
+  {
+    "id": 4065009,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0505"
+  },
+  {
+    "id": 4065010,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0034",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0034"
+  },
+  {
+    "id": 4065003,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0004"
+  },
+  {
+    "id": 4065005,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0503"
+  },
+  {
+    "id": 4065007,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0502"
+  },
+  {
+    "id": 4065002,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0006"
+  },
+  {
+    "id": 4065006,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0504"
+  },
+  {
+    "id": 4065004,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0025",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0025"
+  },
+  {
+    "id": 4075001,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0001"
+  },
+  {
+    "id": 4075009,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0026",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0026"
+  },
+  {
+    "id": 4075011,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0511",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0511"
+  },
+  {
+    "id": 4075003,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0510",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0510"
+  },
+  {
+    "id": 4075005,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0506"
+  },
+  {
+    "id": 4075007,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0507"
+  },
+  {
+    "id": 4075002,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0508",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0508"
+  },
+  {
+    "id": 4075006,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0509",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0509"
+  },
+  {
+    "id": 4075010,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0014",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0014"
+  },
+  {
+    "id": 4075008,
+    "head_attach_dummy": 0,
+    "character_base": "ban",
+    "resource_head": "hero_ban_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ban_head_0501"
+  },
+  {
+    "id": 4095001,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0001"
+  },
+  {
+    "id": 4095009,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0508",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0508"
+  },
+  {
+    "id": 4095012,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0008"
+  },
+  {
+    "id": 4095014,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0023",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0023"
+  },
+  {
+    "id": 4095015,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0511",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0511"
+  },
+  {
+    "id": 4095002,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0504"
+  },
+  {
+    "id": 4095008,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0507"
+  },
+  {
+    "id": 4095004,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0503"
+  },
+  {
+    "id": 4095003,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0502"
+  },
+  {
+    "id": 4095006,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0506"
+  },
+  {
+    "id": 4095007,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0505"
+  },
+  {
+    "id": 4095005,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0501"
+  },
+  {
+    "id": 4095010,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0509",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0509"
+  },
+  {
+    "id": 4095011,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0510",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0510"
+  },
+  {
+    "id": 4095013,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0022",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0022"
+  },
+  {
+    "id": 4105001,
+    "head_attach_dummy": 0,
+    "character_base": "kingfat",
+    "resource_head": "hero_kingfat_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_kingfat_head_0001"
+  },
+  {
+    "id": 4105009,
+    "head_attach_dummy": 0,
+    "character_base": "kingfat",
+    "resource_head": "hero_kingfat_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_kingfat_head_0012"
+  },
+  {
+    "id": 4105002,
+    "head_attach_dummy": 0,
+    "character_base": "kingfat",
+    "resource_head": "hero_kingfat_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_kingfat_head_0505"
+  },
+  {
+    "id": 4105008,
+    "head_attach_dummy": 0,
+    "character_base": "kingfat",
+    "resource_head": "hero_kingfat_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_kingfat_head_0507"
+  },
+  {
+    "id": 4105006,
+    "head_attach_dummy": 0,
+    "character_base": "kingfat",
+    "resource_head": "hero_kingfat_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_kingfat_head_0506"
+  },
+  {
+    "id": 4105003,
+    "head_attach_dummy": 0,
+    "character_base": "kingfat",
+    "resource_head": "hero_kingfat_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_kingfat_head_0502"
+  },
+  {
+    "id": 4105005,
+    "head_attach_dummy": 0,
+    "character_base": "kingfat",
+    "resource_head": "hero_kingfat_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_kingfat_head_0501"
+  },
+  {
+    "id": 4105007,
+    "head_attach_dummy": 0,
+    "character_base": "kingfat",
+    "resource_head": "hero_kingfat_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_kingfat_head_0504"
+  },
+  {
+    "id": 4105004,
+    "head_attach_dummy": 0,
+    "character_base": "kingfat",
+    "resource_head": "hero_kingfat_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_kingfat_head_0503"
+  },
+  {
+    "id": 4114001,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0001"
+  },
+  {
+    "id": 4114009,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0506"
+  },
+  {
+    "id": 4114012,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0017",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0017"
+  },
+  {
+    "id": 4114014,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0023",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0023"
+  },
+  {
+    "id": 4114015,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0029",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0029"
+  },
+  {
+    "id": 4114016,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0509",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0509"
+  },
+  {
+    "id": 4114002,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0002"
+  },
+  {
+    "id": 4114008,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0505"
+  },
+  {
+    "id": 4114007,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0502"
+  },
+  {
+    "id": 4114003,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0501"
+  },
+  {
+    "id": 4114005,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0503"
+  },
+  {
+    "id": 4114006,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0504"
+  },
+  {
+    "id": 4114004,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0016"
+  },
+  {
+    "id": 4114010,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0507"
+  },
+  {
+    "id": 4114011,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0508",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0508"
+  },
+  {
+    "id": 4114013,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0028",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0028"
+  },
+  {
+    "id": 4115001,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0001"
+  },
+  {
+    "id": 4115009,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0506"
+  },
+  {
+    "id": 4115012,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0017",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0017"
+  },
+  {
+    "id": 4115014,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0023",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0023"
+  },
+  {
+    "id": 4115015,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0029",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0029"
+  },
+  {
+    "id": 4114017,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0509",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0509"
+  },
+  {
+    "id": 4115002,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0002"
+  },
+  {
+    "id": 4115008,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0505"
+  },
+  {
+    "id": 4115007,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0502"
+  },
+  {
+    "id": 4115003,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0501"
+  },
+  {
+    "id": 4115005,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0503"
+  },
+  {
+    "id": 4115006,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0504"
+  },
+  {
+    "id": 4115004,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0016"
+  },
+  {
+    "id": 4115010,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0507"
+  },
+  {
+    "id": 4115011,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0508",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0508"
+  },
+  {
+    "id": 4115013,
+    "head_attach_dummy": 0,
+    "character_base": "gowther",
+    "resource_head": "hero_gowther_head_0028",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gowther_head_0028"
+  },
+  {
+    "id": 4135001,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0001"
+  },
+  {
+    "id": 4135009,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0507"
+  },
+  {
+    "id": 4135012,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0030",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0030"
+  },
+  {
+    "id": 4135014,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0029",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0029"
+  },
+  {
+    "id": 4135015,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0032",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0032"
+  },
+  {
+    "id": 4135016,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0510",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0510"
+  },
+  {
+    "id": 4135002,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0021",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0021"
+  },
+  {
+    "id": 4135008,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0501"
+  },
+  {
+    "id": 4135004,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0506"
+  },
+  {
+    "id": 4135003,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0505"
+  },
+  {
+    "id": 4135006,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0504"
+  },
+  {
+    "id": 4135007,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0502"
+  },
+  {
+    "id": 4135017,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0037",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0037"
+  },
+  {
+    "id": 4135005,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0503"
+  },
+  {
+    "id": 4135010,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0508",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0508"
+  },
+  {
+    "id": 4135011,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0509",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0509"
+  },
+  {
+    "id": 4135013,
+    "head_attach_dummy": 0,
+    "character_base": "merlin",
+    "resource_head": "hero_merlin_head_0031",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_merlin_head_0031"
+  },
+  {
+    "id": 4154001,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0011",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0011"
+  },
+  {
+    "id": 4154002,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0004"
+  },
+  {
+    "id": 4154003,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0015",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0015"
+  },
+  {
+    "id": 4154006,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0503"
+  },
+  {
+    "id": 4154007,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0016"
+  },
+  {
+    "id": 4154008,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0504"
+  },
+  {
+    "id": 4154004,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0501"
+  },
+  {
+    "id": 4154005,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0502"
+  },
+  {
+    "id": 4154009,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0022",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0022"
+  },
+  {
+    "id": 4154010,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0021",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0021"
+  },
+  {
+    "id": 4155001,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0001"
+  },
+  {
+    "id": 4155002,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0004"
+  },
+  {
+    "id": 4155003,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0015",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0015"
+  },
+  {
+    "id": 4155006,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0503"
+  },
+  {
+    "id": 4155007,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0016"
+  },
+  {
+    "id": 4155008,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0504"
+  },
+  {
+    "id": 4155004,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0501"
+  },
+  {
+    "id": 4155005,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0502"
+  },
+  {
+    "id": 4155009,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0022",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0022"
+  },
+  {
+    "id": 4155010,
+    "head_attach_dummy": 0,
+    "character_base": "guila",
+    "resource_head": "hero_guila_head_0021",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_guila_head_0021"
+  },
+  {
+    "id": 4184001,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0012"
+  },
+  {
+    "id": 4184003,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0015",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0015"
+  },
+  {
+    "id": 4184007,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0504"
+  },
+  {
+    "id": 4184004,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0501"
+  },
+  {
+    "id": 4184005,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0502"
+  },
+  {
+    "id": 4184008,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0016"
+  },
+  {
+    "id": 4184009,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0007",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0007"
+  },
+  {
+    "id": 4184010,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0021",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0021"
+  },
+  {
+    "id": 4184002,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0013"
+  },
+  {
+    "id": 4184006,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0503"
+  },
+  {
+    "id": 4184011,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0025",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0025"
+  },
+  {
+    "id": 4185001,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0001"
+  },
+  {
+    "id": 4185003,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0015",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0015"
+  },
+  {
+    "id": 4185007,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0504"
+  },
+  {
+    "id": 4185004,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0501"
+  },
+  {
+    "id": 4185005,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0502"
+  },
+  {
+    "id": 4185008,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0016"
+  },
+  {
+    "id": 4185009,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0007",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0007"
+  },
+  {
+    "id": 4185010,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0021",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0021"
+  },
+  {
+    "id": 4185002,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0013"
+  },
+  {
+    "id": 4185006,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0503"
+  },
+  {
+    "id": 4185011,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0025",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0025"
+  },
+  {
+    "id": 4144001,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0001"
+  },
+  {
+    "id": 4144002,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0008"
+  },
+  {
+    "id": 4144007,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0505"
+  },
+  {
+    "id": 4144003,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0501"
+  },
+  {
+    "id": 4144005,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0503"
+  },
+  {
+    "id": 4144008,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0014",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0014"
+  },
+  {
+    "id": 4144009,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0019",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0019"
+  },
+  {
+    "id": 4144010,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0020",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0020"
+  },
+  {
+    "id": 4144004,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0502"
+  },
+  {
+    "id": 4144006,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0504"
+  },
+  {
+    "id": 4145001,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0001"
+  },
+  {
+    "id": 4145002,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0008"
+  },
+  {
+    "id": 4145007,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0505"
+  },
+  {
+    "id": 4145003,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0501"
+  },
+  {
+    "id": 4145005,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0503"
+  },
+  {
+    "id": 4145008,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0014",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0014"
+  },
+  {
+    "id": 4145009,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0019",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0019"
+  },
+  {
+    "id": 4145010,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0020",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0020"
+  },
+  {
+    "id": 4145004,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0502"
+  },
+  {
+    "id": 4145006,
+    "head_attach_dummy": 0,
+    "character_base": "gil_thunder",
+    "resource_head": "hero_gil_thunder_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gil_thunder_head_0504"
+  },
+  {
+    "id": 4164001,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0001"
+  },
+  {
+    "id": 4164002,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0501"
+  },
+  {
+    "id": 4164003,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0503"
+  },
+  {
+    "id": 4164005,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0502"
+  },
+  {
+    "id": 4164007,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0013"
+  },
+  {
+    "id": 4164008,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0009"
+  },
+  {
+    "id": 4164009,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0021",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0021"
+  },
+  {
+    "id": 4164004,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0504"
+  },
+  {
+    "id": 4164006,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0505"
+  },
+  {
+    "id": 4165001,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0001"
+  },
+  {
+    "id": 4165002,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0501"
+  },
+  {
+    "id": 4165003,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0503"
+  },
+  {
+    "id": 4165005,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0502"
+  },
+  {
+    "id": 4165007,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0013"
+  },
+  {
+    "id": 4165008,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0009"
+  },
+  {
+    "id": 4165009,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0021",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0021"
+  },
+  {
+    "id": 4165004,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0504"
+  },
+  {
+    "id": 4165006,
+    "head_attach_dummy": 0,
+    "character_base": "howzer",
+    "resource_head": "hero_howzer_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_howzer_head_0505"
+  },
+  {
+    "id": 4174001,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0012"
+  },
+  {
+    "id": 4174002,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0503"
+  },
+  {
+    "id": 4174003,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0504"
+  },
+  {
+    "id": 4174005,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0501"
+  },
+  {
+    "id": 4174007,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0014",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0014"
+  },
+  {
+    "id": 4174008,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0506"
+  },
+  {
+    "id": 4174009,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0022",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0022"
+  },
+  {
+    "id": 4174004,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0505"
+  },
+  {
+    "id": 4174006,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0502"
+  },
+  {
+    "id": 4175001,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0012"
+  },
+  {
+    "id": 4175002,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0503"
+  },
+  {
+    "id": 4175003,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0504"
+  },
+  {
+    "id": 4175005,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0501"
+  },
+  {
+    "id": 4175007,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0014",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0014"
+  },
+  {
+    "id": 4175008,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0506"
+  },
+  {
+    "id": 4175009,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0022",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0022"
+  },
+  {
+    "id": 4175004,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0505"
+  },
+  {
+    "id": 4175006,
+    "head_attach_dummy": 0,
+    "character_base": "griamore",
+    "resource_head": "hero_griamore_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_griamore_head_0502"
+  },
+  {
+    "id": 4354001,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0011",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0011"
+  },
+  {
+    "id": 4354003,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0013"
+  },
+  {
+    "id": 4354004,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0501"
+  },
+  {
+    "id": 4354005,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0503"
+  },
+  {
+    "id": 4354007,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0008"
+  },
+  {
+    "id": 4354002,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0012"
+  },
+  {
+    "id": 4354006,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0502"
+  },
+  {
+    "id": 4355001,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0011",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0011"
+  },
+  {
+    "id": 4355003,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0013"
+  },
+  {
+    "id": 4355004,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0501"
+  },
+  {
+    "id": 4355005,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0503"
+  },
+  {
+    "id": 4355007,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0008"
+  },
+  {
+    "id": 4355002,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0012"
+  },
+  {
+    "id": 4355006,
+    "head_attach_dummy": 0,
+    "character_base": "hendrickson",
+    "resource_head": "hero_hendrickson_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hendrickson_head_0502"
+  },
+  {
+    "id": 4364001,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus",
+    "resource_head": "hero_dreyfus_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_head_0001"
+  },
+  {
+    "id": 4364002,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus",
+    "resource_head": "hero_dreyfus_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_head_0004"
+  },
+  {
+    "id": 4364005,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus",
+    "resource_head": "hero_dreyfus_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_head_0502"
+  },
+  {
+    "id": 4364004,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus",
+    "resource_head": "hero_dreyfus_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_head_0010"
+  },
+  {
+    "id": 4364006,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus",
+    "resource_head": "hero_dreyfus_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_head_0504"
+  },
+  {
+    "id": 4364007,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus",
+    "resource_head": "hero_dreyfus_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_head_0503"
+  },
+  {
+    "id": 4364008,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus",
+    "resource_head": "hero_dreyfus_head_0017",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_head_0017"
+  },
+  {
+    "id": 4364003,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus",
+    "resource_head": "hero_dreyfus_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_head_0501"
+  },
+  {
+    "id": 4195001,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0001"
+  },
+  {
+    "id": 4195002,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0006"
+  },
+  {
+    "id": 4195007,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0502"
+  },
+  {
+    "id": 4195004,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0008"
+  },
+  {
+    "id": 4195005,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0003"
+  },
+  {
+    "id": 4195008,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0016"
+  },
+  {
+    "id": 4195009,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0017",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0017"
+  },
+  {
+    "id": 4195010,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0014",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0014"
+  },
+  {
+    "id": 4195003,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0005"
+  },
+  {
+    "id": 4195006,
+    "head_attach_dummy": 0,
+    "character_base": "helbram_fairy",
+    "resource_head": "hero_helbram_fairy_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_fairy_head_0501"
+  },
+  {
+    "id": 4294001,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0011",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0011"
+  },
+  {
+    "id": 4294002,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0009"
+  },
+  {
+    "id": 4294003,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0013"
+  },
+  {
+    "id": 4294005,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0005"
+  },
+  {
+    "id": 4294007,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0010"
+  },
+  {
+    "id": 4294008,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0016"
+  },
+  {
+    "id": 4294004,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0001"
+  },
+  {
+    "id": 4294006,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0002"
+  },
+  {
+    "id": 4295001,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0011",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0011"
+  },
+  {
+    "id": 4295002,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0009"
+  },
+  {
+    "id": 4295003,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0013"
+  },
+  {
+    "id": 4295005,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0005"
+  },
+  {
+    "id": 4295007,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0010"
+  },
+  {
+    "id": 4295008,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0016"
+  },
+  {
+    "id": 4295004,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0001"
+  },
+  {
+    "id": 4295006,
+    "head_attach_dummy": 0,
+    "character_base": "slader",
+    "resource_head": "hero_slader_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slader_head_0002"
+  },
+  {
+    "id": 4203001,
+    "head_attach_dummy": 0,
+    "character_base": "alioni",
+    "resource_head": "hero_alioni_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_alioni_head_0001"
+  },
+  {
+    "id": 4203002,
+    "head_attach_dummy": 0,
+    "character_base": "alioni",
+    "resource_head": "hero_alioni_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_alioni_head_0501"
+  },
+  {
+    "id": 4203004,
+    "head_attach_dummy": 0,
+    "character_base": "alioni",
+    "resource_head": "hero_alioni_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_alioni_head_0503"
+  },
+  {
+    "id": 4203003,
+    "head_attach_dummy": 0,
+    "character_base": "alioni",
+    "resource_head": "hero_alioni_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_alioni_head_0502"
+  },
+  {
+    "id": 4213001,
+    "head_attach_dummy": 0,
+    "character_base": "twigo",
+    "resource_head": "hero_twigo_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_twigo_head_0001"
+  },
+  {
+    "id": 4213002,
+    "head_attach_dummy": 0,
+    "character_base": "twigo",
+    "resource_head": "hero_twigo_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_twigo_head_0501"
+  },
+  {
+    "id": 4213004,
+    "head_attach_dummy": 0,
+    "character_base": "twigo",
+    "resource_head": "hero_twigo_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_twigo_head_0503"
+  },
+  {
+    "id": 4213003,
+    "head_attach_dummy": 0,
+    "character_base": "twigo",
+    "resource_head": "hero_twigo_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_twigo_head_0502"
+  },
+  {
+    "id": 4223001,
+    "head_attach_dummy": 0,
+    "character_base": "golgius",
+    "resource_head": "hero_golgius_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_golgius_head_0008"
+  },
+  {
+    "id": 4223002,
+    "head_attach_dummy": 0,
+    "character_base": "golgius",
+    "resource_head": "hero_golgius_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_golgius_head_0501"
+  },
+  {
+    "id": 4223004,
+    "head_attach_dummy": 0,
+    "character_base": "golgius",
+    "resource_head": "hero_golgius_head_0503",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_golgius_head_0503"
+  },
+  {
+    "id": 4223003,
+    "head_attach_dummy": 0,
+    "character_base": "golgius",
+    "resource_head": "hero_golgius_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_golgius_head_0502"
+  },
+  {
+    "id": 4223005,
+    "head_attach_dummy": 0,
+    "character_base": "golgius",
+    "resource_head": "hero_golgius_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_golgius_head_0504"
+  },
+  {
+    "id": 4233001,
+    "head_attach_dummy": 0,
+    "character_base": "ruin",
+    "resource_head": "hero_ruin_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ruin_head_0008"
+  },
+  {
+    "id": 4233002,
+    "head_attach_dummy": 0,
+    "character_base": "ruin",
+    "resource_head": "hero_ruin_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ruin_head_0501"
+  },
+  {
+    "id": 4233004,
+    "head_attach_dummy": 0,
+    "character_base": "ruin",
+    "resource_head": "hero_ruin_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ruin_head_0503"
+  },
+  {
+    "id": 4233003,
+    "head_attach_dummy": 0,
+    "character_base": "ruin",
+    "resource_head": "hero_ruin_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ruin_head_0502"
+  },
+  {
+    "id": 4233005,
+    "head_attach_dummy": 0,
+    "character_base": "ruin",
+    "resource_head": "hero_ruin_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_ruin_head_0504"
+  },
+  {
+    "id": 4243001,
+    "head_attach_dummy": 1,
+    "character_base": "jude",
+    "resource_head": "hero_jude_head_0001",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_jude_head_0001"
+  },
+  {
+    "id": 4243002,
+    "head_attach_dummy": 1,
+    "character_base": "jude",
+    "resource_head": "hero_jude_head_0501",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_jude_head_0501"
+  },
+  {
+    "id": 4243004,
+    "head_attach_dummy": 1,
+    "character_base": "jude",
+    "resource_head": "hero_jude_head_0503",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_jude_head_0503"
+  },
+  {
+    "id": 4243003,
+    "head_attach_dummy": 1,
+    "character_base": "jude",
+    "resource_head": "hero_jude_head_0502",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_jude_head_0502"
+  },
+  {
+    "id": 4243005,
+    "head_attach_dummy": 1,
+    "character_base": "jude",
+    "resource_head": "hero_jude_head_0504",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_jude_head_0504"
+  },
+  {
+    "id": 4254001,
+    "head_attach_dummy": 0,
+    "character_base": "freisa",
+    "resource_head": "hero_freisia_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_freisia_head_0008"
+  },
+  {
+    "id": 4254002,
+    "head_attach_dummy": 0,
+    "character_base": "freisa",
+    "resource_head": "hero_freisia_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_freisia_head_0501"
+  },
+  {
+    "id": 4254003,
+    "head_attach_dummy": 0,
+    "character_base": "freisa",
+    "resource_head": "hero_freisia_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_freisia_head_0502"
+  },
+  {
+    "id": 4254004,
+    "head_attach_dummy": 0,
+    "character_base": "freisa",
+    "resource_head": "hero_freisia_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_freisia_head_0503"
+  },
+  {
+    "id": 4254005,
+    "head_attach_dummy": 0,
+    "character_base": "freisa",
+    "resource_head": "hero_freisia_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_freisia_head_0504"
+  },
+  {
+    "id": 4264001,
+    "head_attach_dummy": 0,
+    "character_base": "cain",
+    "resource_head": "hero_cain_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_cain_head_0001"
+  },
+  {
+    "id": 4264002,
+    "head_attach_dummy": 0,
+    "character_base": "cain",
+    "resource_head": "hero_cain_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_cain_head_0003"
+  },
+  {
+    "id": 4264003,
+    "head_attach_dummy": 0,
+    "character_base": "cain",
+    "resource_head": "hero_cain_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_cain_head_0004"
+  },
+  {
+    "id": 4264004,
+    "head_attach_dummy": 0,
+    "character_base": "cain",
+    "resource_head": "hero_cain_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_cain_head_0501"
+  },
+  {
+    "id": 4264005,
+    "head_attach_dummy": 0,
+    "character_base": "cain",
+    "resource_head": "hero_cain_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_cain_head_0502"
+  },
+  {
+    "id": 4273001,
+    "head_attach_dummy": 1,
+    "character_base": "marmas",
+    "resource_head": "hero_marmas_head_0001",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_marmas_head_0001"
+  },
+  {
+    "id": 4273002,
+    "head_attach_dummy": 1,
+    "character_base": "marmas",
+    "resource_head": "hero_marmas_head_0501",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_marmas_head_0501"
+  },
+  {
+    "id": 4273004,
+    "head_attach_dummy": 1,
+    "character_base": "marmas",
+    "resource_head": "hero_marmas_head_0503",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_marmas_head_0503"
+  },
+  {
+    "id": 4273003,
+    "head_attach_dummy": 1,
+    "character_base": "marmas",
+    "resource_head": "hero_marmas_head_0502",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_marmas_head_0502"
+  },
+  {
+    "id": 4284001,
+    "head_attach_dummy": 0,
+    "character_base": "gustaf",
+    "resource_head": "hero_gustaf_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gustaf_head_0001"
+  },
+  {
+    "id": 4284002,
+    "head_attach_dummy": 0,
+    "character_base": "gustaf",
+    "resource_head": "hero_gustaf_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gustaf_head_0501"
+  },
+  {
+    "id": 4284004,
+    "head_attach_dummy": 0,
+    "character_base": "gustaf",
+    "resource_head": "hero_gustaf_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gustaf_head_0503"
+  },
+  {
+    "id": 4284005,
+    "head_attach_dummy": 0,
+    "character_base": "gustaf",
+    "resource_head": "hero_gustaf_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gustaf_head_0504"
+  },
+  {
+    "id": 4284003,
+    "head_attach_dummy": 0,
+    "character_base": "gustaf",
+    "resource_head": "hero_gustaf_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gustaf_head_0502"
+  },
+  {
+    "id": 4303001,
+    "head_attach_dummy": 0,
+    "character_base": "simon",
+    "resource_head": "hero_simon_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_simon_head_0001"
+  },
+  {
+    "id": 4303002,
+    "head_attach_dummy": 0,
+    "character_base": "simon",
+    "resource_head": "hero_simon_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_simon_head_0501"
+  },
+  {
+    "id": 4303004,
+    "head_attach_dummy": 0,
+    "character_base": "simon",
+    "resource_head": "hero_simon_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_simon_head_0502"
+  },
+  {
+    "id": 4303005,
+    "head_attach_dummy": 0,
+    "character_base": "simon",
+    "resource_head": "hero_simon_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_simon_head_0503"
+  },
+  {
+    "id": 4303003,
+    "head_attach_dummy": 0,
+    "character_base": "simon",
+    "resource_head": "hero_simon_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_simon_head_0008"
+  },
+  {
+    "id": 4314001,
+    "head_attach_dummy": 0,
+    "character_base": "weinheidt",
+    "resource_head": "hero_weinheidt_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_weinheidt_head_0001"
+  },
+  {
+    "id": 4314003,
+    "head_attach_dummy": 0,
+    "character_base": "weinheidt",
+    "resource_head": "hero_weinheidt_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_weinheidt_head_0005"
+  },
+  {
+    "id": 4314002,
+    "head_attach_dummy": 0,
+    "character_base": "weinheidt",
+    "resource_head": "hero_weinheidt_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_weinheidt_head_0501"
+  },
+  {
+    "id": 4314004,
+    "head_attach_dummy": 0,
+    "character_base": "weinheidt",
+    "resource_head": "hero_weinheidt_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_weinheidt_head_0502"
+  },
+  {
+    "id": 4314005,
+    "head_attach_dummy": 0,
+    "character_base": "weinheidt",
+    "resource_head": "hero_weinheidt_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_weinheidt_head_0503"
+  },
+  {
+    "id": 4323001,
+    "head_attach_dummy": 1,
+    "character_base": "hugo",
+    "resource_head": "hero_hugo_head_0001",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_hugo_head_0001"
+  },
+  {
+    "id": 4323002,
+    "head_attach_dummy": 1,
+    "character_base": "hugo",
+    "resource_head": "hero_hugo_head_0501",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_hugo_head_0501"
+  },
+  {
+    "id": 4323005,
+    "head_attach_dummy": 1,
+    "character_base": "hugo",
+    "resource_head": "hero_hugo_head_0504",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_hugo_head_0504"
+  },
+  {
+    "id": 4323004,
+    "head_attach_dummy": 1,
+    "character_base": "hugo",
+    "resource_head": "hero_hugo_head_0503",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_hugo_head_0503"
+  },
+  {
+    "id": 4323003,
+    "head_attach_dummy": 1,
+    "character_base": "hugo",
+    "resource_head": "hero_hugo_head_0502",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_hugo_head_0502"
+  },
+  {
+    "id": 4334001,
+    "head_attach_dummy": 0,
+    "character_base": "jillian",
+    "resource_head": "hero_jillian_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jillian_head_0001"
+  },
+  {
+    "id": 4334003,
+    "head_attach_dummy": 0,
+    "character_base": "jillian",
+    "resource_head": "hero_jillian_head_0008",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jillian_head_0008"
+  },
+  {
+    "id": 4334002,
+    "head_attach_dummy": 0,
+    "character_base": "jillian",
+    "resource_head": "hero_jillian_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jillian_head_0501"
+  },
+  {
+    "id": 4334004,
+    "head_attach_dummy": 0,
+    "character_base": "jillian",
+    "resource_head": "hero_jillian_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jillian_head_0502"
+  },
+  {
+    "id": 4334005,
+    "head_attach_dummy": 0,
+    "character_base": "jillian",
+    "resource_head": "hero_jillian_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jillian_head_0503"
+  },
+  {
+    "id": 4343001,
+    "head_attach_dummy": 0,
+    "character_base": "vivian",
+    "resource_head": "hero_vivian_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_vivian_head_0003"
+  },
+  {
+    "id": 4343003,
+    "head_attach_dummy": 0,
+    "character_base": "vivian",
+    "resource_head": "hero_vivian_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_vivian_head_0009"
+  },
+  {
+    "id": 4343002,
+    "head_attach_dummy": 0,
+    "character_base": "vivian",
+    "resource_head": "hero_vivian_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_vivian_head_0501"
+  },
+  {
+    "id": 4343004,
+    "head_attach_dummy": 0,
+    "character_base": "vivian",
+    "resource_head": "hero_vivian_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_vivian_head_0502"
+  },
+  {
+    "id": 4343005,
+    "head_attach_dummy": 0,
+    "character_base": "vivian",
+    "resource_head": "hero_vivian_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_vivian_head_0503"
+  },
+  {
+    "id": 4373001,
+    "head_attach_dummy": 0,
+    "character_base": "vaizel_taizoo",
+    "resource_head": "hero_vaizel_taizoo_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_vaizel_taizoo_head_0001"
+  },
+  {
+    "id": 4373002,
+    "head_attach_dummy": 0,
+    "character_base": "vaizel_taizoo",
+    "resource_head": "hero_vaizel_taizoo_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_vaizel_taizoo_head_0501"
+  },
+  {
+    "id": 4373004,
+    "head_attach_dummy": 0,
+    "character_base": "vaizel_taizoo",
+    "resource_head": "hero_vaizel_taizoo_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_vaizel_taizoo_head_0502"
+  },
+  {
+    "id": 4373003,
+    "head_attach_dummy": 0,
+    "character_base": "vaizel_taizoo",
+    "resource_head": "hero_vaizel_taizoo_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_vaizel_taizoo_head_0004"
+  },
+  {
+    "id": 4404001,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0001"
+  },
+  {
+    "id": 4404002,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0501"
+  },
+  {
+    "id": 4404003,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0502"
+  },
+  {
+    "id": 4404005,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0504"
+  },
+  {
+    "id": 4404004,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0503"
+  },
+  {
+    "id": 4404007,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0017",
+    "head_mixer_name": "AudioMixer_Helmet_A",
+    "error_check_head_resource": "hero_arthur_head_0017"
+  },
+  {
+    "id": 4404006,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0505"
+  },
+  {
+    "id": 4405001,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0001"
+  },
+  {
+    "id": 4405002,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0501"
+  },
+  {
+    "id": 4405003,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0502"
+  },
+  {
+    "id": 4405005,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0504"
+  },
+  {
+    "id": 4405004,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0503"
+  },
+  {
+    "id": 4405007,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0017",
+    "head_mixer_name": "AudioMixer_Helmet_A",
+    "error_check_head_resource": "hero_arthur_head_0017"
+  },
+  {
+    "id": 4405006,
+    "head_attach_dummy": 0,
+    "character_base": "arthur",
+    "resource_head": "hero_arthur_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arthur_head_0505"
+  },
+  {
+    "id": 4384001,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0001"
+  },
+  {
+    "id": 4385001,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0001"
+  },
+  {
+    "id": 4385002,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0006"
+  },
+  {
+    "id": 4385003,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0502"
+  },
+  {
+    "id": 4385004,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0011",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0011"
+  },
+  {
+    "id": 4385006,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0014",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0014"
+  },
+  {
+    "id": 4385005,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0003"
+  },
+  {
+    "id": 4385008,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0015",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0015"
+  },
+  {
+    "id": 4385007,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0016"
+  },
+  {
+    "id": 4385009,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0017",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0017"
+  },
+  {
+    "id": 4385010,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0501"
+  },
+  {
+    "id": 4395001,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_lostvayne",
+    "resource_head": "hero_meliodas_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0001"
+  },
+  {
+    "id": 4424001,
+    "head_attach_dummy": 1,
+    "character_base": "slime_rimuruslime",
+    "resource_head": "hero_slime_rimuruslime_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_rimuruslime_head_0001"
+  },
+  {
+    "id": 4424002,
+    "head_attach_dummy": 1,
+    "character_base": "slime_rimuruslime",
+    "resource_head": "hero_slime_rimuruslime_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_rimuruslime_head_0501"
+  },
+  {
+    "id": 4424003,
+    "head_attach_dummy": 1,
+    "character_base": "slime_rimuruslime",
+    "resource_head": "hero_slime_rimuruslime_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_rimuruslime_head_0502"
+  },
+  {
+    "id": 4424004,
+    "head_attach_dummy": 1,
+    "character_base": "slime_rimuruslime",
+    "resource_head": "hero_slime_rimuruslime_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_rimuruslime_head_0503"
+  },
+  {
+    "id": 4426001,
+    "head_attach_dummy": 0,
+    "character_base": "slime_rimuruhuman",
+    "resource_head": "hero_slime_rimuruhuman_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_rimuruhuman_head_0001"
+  },
+  {
+    "id": 4426002,
+    "head_attach_dummy": 0,
+    "character_base": "slime_rimuruhuman",
+    "resource_head": "hero_slime_rimuruhuman_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_rimuruhuman_head_0501"
+  },
+  {
+    "id": 4426003,
+    "head_attach_dummy": 0,
+    "character_base": "slime_rimuruhuman",
+    "resource_head": "hero_slime_rimuruhuman_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_rimuruhuman_head_0502"
+  },
+  {
+    "id": 4426004,
+    "head_attach_dummy": 0,
+    "character_base": "slime_rimuruhuman",
+    "resource_head": "hero_slime_rimuruhuman_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_rimuruhuman_head_0503"
+  },
+  {
+    "id": 4435001,
+    "head_attach_dummy": 0,
+    "character_base": "slime_milim",
+    "resource_head": "hero_slime_milim_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_milim_head_0001"
+  },
+  {
+    "id": 4435002,
+    "head_attach_dummy": 0,
+    "character_base": "slime_milim",
+    "resource_head": "hero_slime_milim_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_milim_head_0501"
+  },
+  {
+    "id": 4435003,
+    "head_attach_dummy": 0,
+    "character_base": "slime_milim",
+    "resource_head": "hero_slime_milim_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_milim_head_0502"
+  },
+  {
+    "id": 4435004,
+    "head_attach_dummy": 0,
+    "character_base": "slime_milim",
+    "resource_head": "hero_slime_milim_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_milim_head_0503"
+  },
+  {
+    "id": 4445001,
+    "head_attach_dummy": 0,
+    "character_base": "slime_benimaru",
+    "resource_head": "hero_slime_benimaru_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_benimaru_head_0001"
+  },
+  {
+    "id": 4445002,
+    "head_attach_dummy": 0,
+    "character_base": "slime_benimaru",
+    "resource_head": "hero_slime_benimaru_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_benimaru_head_0501"
+  },
+  {
+    "id": 4445003,
+    "head_attach_dummy": 0,
+    "character_base": "slime_benimaru",
+    "resource_head": "hero_slime_benimaru_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_benimaru_head_0503"
+  },
+  {
+    "id": 4445004,
+    "head_attach_dummy": 0,
+    "character_base": "slime_benimaru",
+    "resource_head": "hero_slime_benimaru_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_slime_benimaru_head_0502"
+  },
+  {
+    "id": 4455001,
+    "head_attach_dummy": 0,
+    "character_base": "liliahmagicia",
+    "resource_head": "hero_liliahmagician_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_liliahmagician_head_0001"
+  },
+  {
+    "id": 4455004,
+    "head_attach_dummy": 0,
+    "character_base": "liliahmagicia",
+    "resource_head": "hero_liliahmagician_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_liliahmagician_head_0005"
+  },
+  {
+    "id": 4455005,
+    "head_attach_dummy": 0,
+    "character_base": "liliahmagicia",
+    "resource_head": "hero_liliahmagician_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_liliahmagician_head_0006"
+  },
+  {
+    "id": 4455002,
+    "head_attach_dummy": 0,
+    "character_base": "liliahmagicia",
+    "resource_head": "hero_liliahmagician_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_liliahmagician_head_0501"
+  },
+  {
+    "id": 4455003,
+    "head_attach_dummy": 0,
+    "character_base": "liliahmagicia",
+    "resource_head": "hero_liliahmagician_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_liliahmagician_head_0502"
+  },
+  {
+    "id": 4455006,
+    "head_attach_dummy": 0,
+    "character_base": "liliahmagicia",
+    "resource_head": "hero_liliahmagician_head_0007",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_liliahmagician_head_0007"
+  },
+  {
+    "id": 4625001,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_valenty",
+    "resource_head": "hero_disaster_valenty_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_valenty_head_0001"
+  },
+  {
+    "id": 4625002,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_valenty",
+    "resource_head": "hero_disaster_valenty_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_valenty_head_0003"
+  },
+  {
+    "id": 4625003,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_valenty",
+    "resource_head": "hero_disaster_valenty_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_valenty_head_0004"
+  },
+  {
+    "id": 4625004,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_valenty",
+    "resource_head": "hero_disaster_valenty_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_valenty_head_0005"
+  },
+  {
+    "id": 4625005,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_valenty",
+    "resource_head": "hero_disaster_valenty_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_valenty_head_0501"
+  },
+  {
+    "id": 4665001,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_eastinamabyllis",
+    "resource_head": "hero_disaster_eastinamabyllis_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_eastinamabyllis_head_0001"
+  },
+  {
+    "id": 4665050,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_eastinamabyllis",
+    "resource_head": "hero_disaster_eastinamabyllis_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_eastinamabyllis_head_0003"
+  },
+  {
+    "id": 4665051,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_eastinamabyllis",
+    "resource_head": "hero_disaster_eastinamabyllis_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_eastinamabyllis_head_0005"
+  },
+  {
+    "id": 4665052,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_eastinamabyllis",
+    "resource_head": "hero_disaster_eastinamabyllis_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_eastinamabyllis_head_0004"
+  },
+  {
+    "id": 4665053,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_eastinamabyllis",
+    "resource_head": "hero_disaster_eastinamabyllis_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_eastinamabyllis_head_0501"
+  },
+  {
+    "id": 4645001,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_mono",
+    "resource_head": "hero_disaster_mono_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_mono_head_0001"
+  },
+  {
+    "id": 4645002,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_mono",
+    "resource_head": "hero_disaster_mono_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_mono_head_0003"
+  },
+  {
+    "id": 4645003,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_mono",
+    "resource_head": "hero_disaster_mono_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_mono_head_0004"
+  },
+  {
+    "id": 4645004,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_mono",
+    "resource_head": "hero_disaster_mono_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_mono_head_0005"
+  },
+  {
+    "id": 4645005,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_mono",
+    "resource_head": "hero_disaster_mono_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_mono_head_0501"
+  },
+  {
+    "id": 4465001,
+    "head_attach_dummy": 0,
+    "character_base": "escanor",
+    "resource_head": "hero_escanor_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_escanor_head_0001"
+  },
+  {
+    "id": 4465006,
+    "head_attach_dummy": 0,
+    "character_base": "escanor",
+    "resource_head": "hero_escanor_head_0012",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_escanor_head_0012"
+  },
+  {
+    "id": 4465007,
+    "head_attach_dummy": 0,
+    "character_base": "escanor",
+    "resource_head": "hero_escanor_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_escanor_head_0505"
+  },
+  {
+    "id": 4465002,
+    "head_attach_dummy": 0,
+    "character_base": "escanor",
+    "resource_head": "hero_escanor_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_escanor_head_0501"
+  },
+  {
+    "id": 4465003,
+    "head_attach_dummy": 0,
+    "character_base": "escanor",
+    "resource_head": "hero_escanor_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_escanor_head_0502"
+  },
+  {
+    "id": 4465004,
+    "head_attach_dummy": 0,
+    "character_base": "escanor",
+    "resource_head": "hero_escanor_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_escanor_head_0503"
+  },
+  {
+    "id": 4465008,
+    "head_attach_dummy": 0,
+    "character_base": "escanor",
+    "resource_head": "hero_escanor_head_0013",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_escanor_head_0013"
+  },
+  {
+    "id": 4465005,
+    "head_attach_dummy": 0,
+    "character_base": "escanor",
+    "resource_head": "hero_escanor_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_escanor_head_0504"
+  },
+  {
+    "id": 4475001,
+    "head_attach_dummy": 1,
+    "character_base": "galand",
+    "resource_head": "hero_galand_head_0001",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_galand_head_0001"
+  },
+  {
+    "id": 4475002,
+    "head_attach_dummy": 1,
+    "character_base": "galand",
+    "resource_head": "hero_galand_head_0504",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_galand_head_0504"
+  },
+  {
+    "id": 4475003,
+    "head_attach_dummy": 1,
+    "character_base": "galand",
+    "resource_head": "hero_galand_head_0502",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_galand_head_0502"
+  },
+  {
+    "id": 4475004,
+    "head_attach_dummy": 1,
+    "character_base": "galand",
+    "resource_head": "hero_galand_head_0503",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_galand_head_0503"
+  },
+  {
+    "id": 4475006,
+    "head_attach_dummy": 1,
+    "character_base": "galand",
+    "resource_head": "hero_galand_head_0007",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_galand_head_0007"
+  },
+  {
+    "id": 4475005,
+    "head_attach_dummy": 1,
+    "character_base": "galand",
+    "resource_head": "hero_galand_head_0501",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_galand_head_0501"
+  },
+  {
+    "id": 4485001,
+    "head_attach_dummy": 0,
+    "character_base": "melascula",
+    "resource_head": "hero_melascula_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_melascula_head_0001"
+  },
+  {
+    "id": 4485002,
+    "head_attach_dummy": 0,
+    "character_base": "melascula",
+    "resource_head": "hero_melascula_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_melascula_head_0501"
+  },
+  {
+    "id": 4485003,
+    "head_attach_dummy": 0,
+    "character_base": "melascula",
+    "resource_head": "hero_melascula_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_melascula_head_0003"
+  },
+  {
+    "id": 4485004,
+    "head_attach_dummy": 0,
+    "character_base": "melascula",
+    "resource_head": "hero_melascula_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_melascula_head_0502"
+  },
+  {
+    "id": 4485006,
+    "head_attach_dummy": 0,
+    "character_base": "melascula",
+    "resource_head": "hero_melascula_head_0007",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_melascula_head_0007"
+  },
+  {
+    "id": 4485005,
+    "head_attach_dummy": 0,
+    "character_base": "melascula",
+    "resource_head": "hero_melascula_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_melascula_head_0002"
+  },
+  {
+    "id": 4555001,
+    "head_attach_dummy": 0,
+    "character_base": "monspeet",
+    "resource_head": "hero_monspeet_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_monspeet_head_0001"
+  },
+  {
+    "id": 4555002,
+    "head_attach_dummy": 0,
+    "character_base": "monspeet",
+    "resource_head": "hero_monspeet_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_monspeet_head_0003"
+  },
+  {
+    "id": 4555003,
+    "head_attach_dummy": 0,
+    "character_base": "monspeet",
+    "resource_head": "hero_monspeet_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_monspeet_head_0004"
+  },
+  {
+    "id": 4555004,
+    "head_attach_dummy": 0,
+    "character_base": "monspeet",
+    "resource_head": "hero_monspeet_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_monspeet_head_0005"
+  },
+  {
+    "id": 4555006,
+    "head_attach_dummy": 0,
+    "character_base": "monspeet",
+    "resource_head": "hero_monspeet_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_monspeet_head_0006"
+  },
+  {
+    "id": 4555005,
+    "head_attach_dummy": 0,
+    "character_base": "monspeet",
+    "resource_head": "hero_monspeet_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_monspeet_head_0501"
+  },
+  {
+    "id": 4565001,
+    "head_attach_dummy": 0,
+    "character_base": "gloxinia",
+    "resource_head": "hero_gloxinia_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gloxinia_head_0001"
+  },
+  {
+    "id": 4565002,
+    "head_attach_dummy": 0,
+    "character_base": "gloxinia",
+    "resource_head": "hero_gloxinia_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gloxinia_head_0005"
+  },
+  {
+    "id": 4565003,
+    "head_attach_dummy": 0,
+    "character_base": "gloxinia",
+    "resource_head": "hero_gloxinia_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gloxinia_head_0003"
+  },
+  {
+    "id": 4565004,
+    "head_attach_dummy": 0,
+    "character_base": "gloxinia",
+    "resource_head": "hero_gloxinia_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gloxinia_head_0004"
+  },
+  {
+    "id": 4565006,
+    "head_attach_dummy": 0,
+    "character_base": "gloxinia",
+    "resource_head": "hero_gloxinia_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gloxinia_head_0006"
+  },
+  {
+    "id": 4565005,
+    "head_attach_dummy": 0,
+    "character_base": "gloxinia",
+    "resource_head": "hero_gloxinia_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gloxinia_head_0002"
+  },
+  {
+    "id": 4575001,
+    "head_attach_dummy": 0,
+    "character_base": "drole",
+    "resource_head": "hero_drole_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_drole_head_0001"
+  },
+  {
+    "id": 4635001,
+    "head_attach_dummy": 0,
+    "character_base": "derieri",
+    "resource_head": "hero_derieri_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_derieri_head_0001"
+  },
+  {
+    "id": 4635002,
+    "head_attach_dummy": 0,
+    "character_base": "derieri",
+    "resource_head": "hero_derieri_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_derieri_head_0004"
+  },
+  {
+    "id": 4635003,
+    "head_attach_dummy": 0,
+    "character_base": "derieri",
+    "resource_head": "hero_derieri_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_derieri_head_0005"
+  },
+  {
+    "id": 4635004,
+    "head_attach_dummy": 0,
+    "character_base": "derieri",
+    "resource_head": "hero_derieri_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_derieri_head_0006"
+  },
+  {
+    "id": 4635005,
+    "head_attach_dummy": 0,
+    "character_base": "derieri",
+    "resource_head": "hero_derieri_head_0007",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_derieri_head_0007"
+  },
+  {
+    "id": 4615001,
+    "head_attach_dummy": 0,
+    "character_base": "estarossa",
+    "resource_head": "hero_estarossa_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_estarossa_head_0001"
+  },
+  {
+    "id": 4615002,
+    "head_attach_dummy": 0,
+    "character_base": "estarossa",
+    "resource_head": "hero_estarossa_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_estarossa_head_0004"
+  },
+  {
+    "id": 4615003,
+    "head_attach_dummy": 0,
+    "character_base": "estarossa",
+    "resource_head": "hero_estarossa_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_estarossa_head_0006"
+  },
+  {
+    "id": 4615004,
+    "head_attach_dummy": 0,
+    "character_base": "estarossa",
+    "resource_head": "hero_estarossa_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_estarossa_head_0005"
+  },
+  {
+    "id": 4615005,
+    "head_attach_dummy": 0,
+    "character_base": "estarossa",
+    "resource_head": "hero_estarossa_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_estarossa_head_0501"
+  },
+  {
+    "id": 4655001,
+    "head_attach_dummy": 0,
+    "character_base": "zeldris",
+    "resource_head": "hero_zeldris_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zeldris_head_0001"
+  },
+  {
+    "id": 4495001,
+    "head_attach_dummy": 0,
+    "character_base": "deathpierce",
+    "resource_head": "hero_deathpierce_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_deathpierce_head_0001"
+  },
+  {
+    "id": 4495002,
+    "head_attach_dummy": 0,
+    "character_base": "deathpierce",
+    "resource_head": "hero_deathpierce_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_deathpierce_head_0004"
+  },
+  {
+    "id": 4495003,
+    "head_attach_dummy": 0,
+    "character_base": "deathpierce",
+    "resource_head": "hero_deathpierce_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_deathpierce_head_0005"
+  },
+  {
+    "id": 4495004,
+    "head_attach_dummy": 0,
+    "character_base": "deathpierce",
+    "resource_head": "hero_deathpierce_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_deathpierce_head_0003"
+  },
+  {
+    "id": 4504001,
+    "head_attach_dummy": 0,
+    "character_base": "dogedo",
+    "resource_head": "hero_dogego_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dogego_head_0001"
+  },
+  {
+    "id": 4504002,
+    "head_attach_dummy": 0,
+    "character_base": "dogedo",
+    "resource_head": "hero_dogedo_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dogedo_head_0004"
+  },
+  {
+    "id": 4504003,
+    "head_attach_dummy": 0,
+    "character_base": "dogedo",
+    "resource_head": "hero_dogedo_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dogedo_head_0005"
+  },
+  {
+    "id": 4504004,
+    "head_attach_dummy": 0,
+    "character_base": "dogedo",
+    "resource_head": "hero_dogedo_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dogedo_head_0006"
+  },
+  {
+    "id": 4515001,
+    "head_attach_dummy": 0,
+    "character_base": "denzel",
+    "resource_head": "hero_denzel_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_denzel_head_0001"
+  },
+  {
+    "id": 4515002,
+    "head_attach_dummy": 0,
+    "character_base": "denzel",
+    "resource_head": "hero_denzel_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_denzel_head_0004"
+  },
+  {
+    "id": 4515003,
+    "head_attach_dummy": 0,
+    "character_base": "denzel",
+    "resource_head": "hero_denzel_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_denzel_head_0003"
+  },
+  {
+    "id": 4515004,
+    "head_attach_dummy": 0,
+    "character_base": "denzel",
+    "resource_head": "hero_denzel_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_denzel_head_0501"
+  },
+  {
+    "id": 4524001,
+    "head_attach_dummy": 0,
+    "character_base": "waillo",
+    "resource_head": "hero_waillo_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_waillo_head_0001"
+  },
+  {
+    "id": 4535001,
+    "head_attach_dummy": 0,
+    "character_base": "deldry",
+    "resource_head": "hero_deldry_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_deldry_head_0001"
+  },
+  {
+    "id": 4535005,
+    "head_attach_dummy": 0,
+    "character_base": "deldry",
+    "resource_head": "hero_deldry_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_deldry_head_0501"
+  },
+  {
+    "id": 4544001,
+    "head_attach_dummy": 0,
+    "character_base": "arden",
+    "resource_head": "hero_arden_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arden_head_0001"
+  },
+  {
+    "id": 4544005,
+    "head_attach_dummy": 0,
+    "character_base": "arden",
+    "resource_head": "hero_arden_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_arden_head_0501"
+  },
+  {
+    "id": 4685001,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_ellatt",
+    "resource_head": "hero_prisoners_ellatt_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_ellatt_head_0001"
+  },
+  {
+    "id": 4685002,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_ellatt",
+    "resource_head": "hero_prisoners_ellatt_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_ellatt_head_0004"
+  },
+  {
+    "id": 4685003,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_ellatt",
+    "resource_head": "hero_prisoners_ellatt_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_ellatt_head_0005"
+  },
+  {
+    "id": 4685004,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_ellatt",
+    "resource_head": "hero_prisoners_ellatt_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_ellatt_head_0003"
+  },
+  {
+    "id": 4685005,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_ellatt",
+    "resource_head": "hero_prisoners_ellatt_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_ellatt_head_0501"
+  },
+  {
+    "id": 4695001,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_bellion",
+    "resource_head": "hero_prisoners_bellion_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_bellion_head_0001"
+  },
+  {
+    "id": 4695002,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_bellion",
+    "resource_head": "hero_prisoners_bellion_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_bellion_head_0003"
+  },
+  {
+    "id": 4695003,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_bellion",
+    "resource_head": "hero_prisoners_bellion_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_bellion_head_0004"
+  },
+  {
+    "id": 4695004,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_bellion",
+    "resource_head": "hero_prisoners_bellion_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_bellion_head_0005"
+  },
+  {
+    "id": 4695005,
+    "head_attach_dummy": 0,
+    "character_base": "prisoners_bellion",
+    "resource_head": "hero_prisoners_bellion_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_prisoners_bellion_head_0501"
+  },
+  {
+    "id": 4705001,
+    "head_attach_dummy": 0,
+    "character_base": "npc_jenna_0010",
+    "resource_head": "hero_npc_jenna_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_jenna_head_0010"
+  },
+  {
+    "id": 4705002,
+    "head_attach_dummy": 0,
+    "character_base": "npc_jenna_0010",
+    "resource_head": "hero_npc_jenna_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_jenna_head_0003"
+  },
+  {
+    "id": 4705003,
+    "head_attach_dummy": 0,
+    "character_base": "npc_jenna_0010",
+    "resource_head": "hero_npc_jenna_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_jenna_head_0004"
+  },
+  {
+    "id": 4705004,
+    "head_attach_dummy": 0,
+    "character_base": "npc_jenna_0010",
+    "resource_head": "hero_npc_jenna_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_jenna_head_0005"
+  },
+  {
+    "id": 4705005,
+    "head_attach_dummy": 0,
+    "character_base": "npc_jenna_0010",
+    "resource_head": "hero_npc_jenna_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_jenna_head_0002"
+  },
+  {
+    "id": 4705006,
+    "head_attach_dummy": 0,
+    "character_base": "npc_jenna_0010",
+    "resource_head": "hero_npc_jenna_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_jenna_head_0501"
+  },
+  {
+    "id": 4715001,
+    "head_attach_dummy": 0,
+    "character_base": "npc_zaneri_0010",
+    "resource_head": "hero_npc_zaneri_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_zaneri_head_0010"
+  },
+  {
+    "id": 4715002,
+    "head_attach_dummy": 0,
+    "character_base": "npc_zaneri_0010",
+    "resource_head": "hero_npc_zaneri_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_zaneri_head_0003"
+  },
+  {
+    "id": 4715003,
+    "head_attach_dummy": 0,
+    "character_base": "npc_zaneri_0010",
+    "resource_head": "hero_npc_zaneri_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_zaneri_head_0004"
+  },
+  {
+    "id": 4715004,
+    "head_attach_dummy": 0,
+    "character_base": "npc_zaneri_0010",
+    "resource_head": "hero_npc_zaneri_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_zaneri_head_0005"
+  },
+  {
+    "id": 4715005,
+    "head_attach_dummy": 0,
+    "character_base": "npc_zaneri_0010",
+    "resource_head": "hero_npc_zaneri_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_zaneri_head_0002"
+  },
+  {
+    "id": 4715006,
+    "head_attach_dummy": 0,
+    "character_base": "npc_zaneri_0010",
+    "resource_head": "hero_npc_zaneri_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_npc_zaneri_head_0501"
+  },
+  {
+    "id": 4725001,
+    "head_attach_dummy": 0,
+    "character_base": "zaratras",
+    "resource_head": "hero_zaratras_hair_0001_ingame",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zaratras_hair_0001_ingame"
+  },
+  {
+    "id": 4725002,
+    "head_attach_dummy": 0,
+    "character_base": "zaratras",
+    "resource_head": "hero_zaratras_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zaratras_head_0006"
+  },
+  {
+    "id": 4725003,
+    "head_attach_dummy": 0,
+    "character_base": "zaratras",
+    "resource_head": "hero_zaratras_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zaratras_head_0002"
+  },
+  {
+    "id": 4725004,
+    "head_attach_dummy": 0,
+    "character_base": "zaratras",
+    "resource_head": "hero_zaratras_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zaratras_head_0005"
+  },
+  {
+    "id": 4415001,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0001"
+  },
+  {
+    "id": 4415002,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0002"
+  },
+  {
+    "id": 4900001,
+    "head_attach_dummy": 0,
+    "character_base": "escanor",
+    "resource_head": "hero_escanor_head_0011",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_escanor_head_0011"
+  },
+  {
+    "id": 4900002,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0017_season2",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0017_season2"
+  },
+  {
+    "id": 4900003,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0001_scene",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0001_scene"
+  },
+  {
+    "id": 4900004,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth",
+    "resource_head": "hero_elizabeth_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_head_0001"
+  },
+  {
+    "id": 4900005,
+    "head_attach_dummy": 0,
+    "character_base": "jericho",
+    "resource_head": "hero_jericho_head_0006_season2",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_jericho_head_0006_season2"
+  },
+  {
+    "id": 4900006,
+    "head_attach_dummy": 0,
+    "character_base": "elaine",
+    "resource_head": "hero_elaine_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elaine_head_0001"
+  },
+  {
+    "id": 4900007,
+    "head_attach_dummy": 0,
+    "character_base": "zaratras",
+    "resource_head": "hero_zaratras_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zaratras_head_0001"
+  }
+]

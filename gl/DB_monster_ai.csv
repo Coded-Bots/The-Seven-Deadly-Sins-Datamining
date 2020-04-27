@@ -1,0 +1,74 @@
+[
+  {
+    "id": 100001,
+    "boss_team_ai_1": "boss_atk_default",
+    "boss_team_ai_2": "",
+    "boss_team_ai_3": "",
+    "boss_team_ai_4": "",
+    "boss_team_ai_5": "",
+    "boss_team_ai_6": "",
+    "normal_team_ai_1": "",
+    "normal_team_ai_2": "",
+    "normal_team_ai_3": ""
+  },
+  {
+    "id": 200001,
+    "boss_team_ai_1": "boss_bal_default",
+    "boss_team_ai_2": "",
+    "boss_team_ai_3": "",
+    "boss_team_ai_4": "",
+    "boss_team_ai_5": "",
+    "boss_team_ai_6": "",
+    "normal_team_ai_1": "",
+    "normal_team_ai_2": "",
+    "normal_team_ai_3": ""
+  },
+  {
+    "id": 300001,
+    "boss_team_ai_1": "boss_def_default",
+    "boss_team_ai_2": "",
+    "boss_team_ai_3": "",
+    "boss_team_ai_4": "",
+    "boss_team_ai_5": "",
+    "boss_team_ai_6": "",
+    "normal_team_ai_1": "",
+    "normal_team_ai_2": "",
+    "normal_team_ai_3": ""
+  },
+  {
+    "id": 500001,
+    "boss_team_ai_1": "boss_gowther_def",
+    "boss_team_ai_2": "",
+    "boss_team_ai_3": "",
+    "boss_team_ai_4": "",
+    "boss_team_ai_5": "",
+    "boss_team_ai_6": "",
+    "normal_team_ai_1": "",
+    "normal_team_ai_2": "",
+    "normal_team_ai_3": ""
+  },
+  {
+    "id": 500011,
+    "boss_team_ai_1": "boss_merlin_bal",
+    "boss_team_ai_2": "",
+    "boss_team_ai_3": "",
+    "boss_team_ai_4": "",
+    "boss_team_ai_5": "",
+    "boss_team_ai_6": "",
+    "normal_team_ai_1": "",
+    "normal_team_ai_2": "",
+    "normal_team_ai_3": ""
+  },
+  {
+    "id": 1000001,
+    "boss_team_ai_1": "",
+    "boss_team_ai_2": "",
+    "boss_team_ai_3": "",
+    "boss_team_ai_4": "",
+    "boss_team_ai_5": "",
+    "boss_team_ai_6": "",
+    "normal_team_ai_1": "training_atk_default",
+    "normal_team_ai_2": "",
+    "normal_team_ai_3": ""
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "loading_tip_localize": "UI_loading_tip_15",
+    "group_id": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 2,
+    "loading_tip_localize": "UI_loading_tip_47",
+    "group_id": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 3,
+    "loading_tip_localize": "UI_loading_tip_17",
+    "group_id": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 4,
+    "loading_tip_localize": "UI_loading_tip_06",
+    "group_id": 1,
+    "open_type": "user_rank",
+    "open_value": 10
+  },
+  {
+    "id": 5,
+    "loading_tip_localize": "UI_loading_tip_09",
+    "group_id": 1,
+    "open_type": "quest_end",
+    "open_value": 15003
+  },
+  {
+    "id": 6,
+    "loading_tip_localize": "UI_loading_tip_2",
+    "group_id": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 7,
+    "loading_tip_localize": "UI_loading_tip_3",
+    "group_id": 1,
+    "open_type": "stage",
+    "open_value": 500103
+  },
+  {
+    "id": 8,
+    "loading_tip_localize": "UI_loading_tip_10",
+    "group_id": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 9,
+    "loading_tip_localize": "UI_loading_tip_37",
+    "group_id": 2,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10,
+    "loading_tip_localize": "UI_loading_tip_38",
+    "group_id": 2,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 11,
+    "loading_tip_localize": "UI_loading_tip_39",
+    "group_id": 2,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 12,
+    "loading_tip_localize": "UI_loading_tip_41",
+    "group_id": 2,
+    "open_type": "quest_end",
+    "open_value": 11009
+  },
+  {
+    "id": 13,
+    "loading_tip_localize": "UI_loading_tip_25",
+    "group_id": 2,
+    "open_type": "quest_end",
+    "open_value": 11008
+  },
+  {
+    "id": 14,
+    "loading_tip_localize": "UI_loading_tip_18",
+    "group_id": 2,
+    "open_type": "stage",
+    "open_value": 300441
+  },
+  {
+    "id": 15,
+    "loading_tip_localize": "UI_loading_tip_26",
+    "group_id": 3,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 16,
+    "loading_tip_localize": "UI_loading_tip_27",
+    "group_id": 3,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 17,
+    "loading_tip_localize": "UI_loading_tip_11",
+    "group_id": 3,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 18,
+    "loading_tip_localize": "UI_loading_tip_30",
+    "group_id": 4,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 19,
+    "loading_tip_localize": "UI_loading_tip_1",
+    "group_id": 4,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 20,
+    "loading_tip_localize": "UI_loading_tip_15",
+    "group_id": 5,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 21,
+    "loading_tip_localize": "UI_loading_tip_47",
+    "group_id": 5,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 22,
+    "loading_tip_localize": "UI_loading_tip_17",
+    "group_id": 5,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 23,
+    "loading_tip_localize": "UI_loading_tip_06",
+    "group_id": 5,
+    "open_type": "user_rank",
+    "open_value": 10
+  },
+  {
+    "id": 24,
+    "loading_tip_localize": "UI_loading_tip_09",
+    "group_id": 5,
+    "open_type": "quest_end",
+    "open_value": 15003
+  },
+  {
+    "id": 25,
+    "loading_tip_localize": "UI_loading_tip_2",
+    "group_id": 5,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 26,
+    "loading_tip_localize": "UI_loading_tip_3",
+    "group_id": 5,
+    "open_type": "stage",
+    "open_value": 500103
+  },
+  {
+    "id": 27,
+    "loading_tip_localize": "UI_loading_tip_04",
+    "group_id": 5,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 28,
+    "loading_tip_localize": "UI_loading_tip_50",
+    "group_id": 6,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29,
+    "loading_tip_localize": "UI_loading_tip_51",
+    "group_id": 6,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 30,
+    "loading_tip_localize": "UI_loading_tip_52",
+    "group_id": 6,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 31,
+    "loading_tip_localize": "UI_loading_tip_60",
+    "group_id": 7,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 32,
+    "loading_tip_localize": "UI_loading_tip_61",
+    "group_id": 7,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 33,
+    "loading_tip_localize": "UI_loading_tip_62",
+    "group_id": 7,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 34,
+    "loading_tip_localize": "UI_loading_tip_70",
+    "group_id": 8,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 35,
+    "loading_tip_localize": "UI_loading_tip_15",
+    "group_id": 8,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 36,
+    "loading_tip_localize": "UI_loading_tip_17",
+    "group_id": 8,
+    "open_type": "",
+    "open_value": 0
+  }
+]

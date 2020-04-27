@@ -1,0 +1,1057 @@
+[
+  {
+    "id": 1,
+    "mail_route_localize": "",
+    "mail_route_desc_localize": ""
+  },
+  {
+    "id": 2,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "UI_mail_manage_desc_01"
+  },
+  {
+    "id": 3,
+    "mail_route_localize": "DB_area_name_400801",
+    "mail_route_desc_localize": "UI_pvp_level_reward_01"
+  },
+  {
+    "id": 4,
+    "mail_route_localize": "UI_text_contents_link_destroy_01",
+    "mail_route_desc_localize": "UI_text_bossdestroy_missed_reward_01"
+  },
+  {
+    "id": 5,
+    "mail_route_localize": "DB_area_name_400801",
+    "mail_route_desc_localize": "UI_pvp_level_reward_03"
+  },
+  {
+    "id": 6,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_1"
+  },
+  {
+    "id": 7,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_2"
+  },
+  {
+    "id": 8,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_3"
+  },
+  {
+    "id": 9,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_4"
+  },
+  {
+    "id": 10,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_5"
+  },
+  {
+    "id": 11,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_6"
+  },
+  {
+    "id": 12,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_7"
+  },
+  {
+    "id": 13,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_8"
+  },
+  {
+    "id": 14,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_9"
+  },
+  {
+    "id": 15,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_10"
+  },
+  {
+    "id": 16,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_11"
+  },
+  {
+    "id": 17,
+    "mail_route_localize": "UI_mail_manage_01",
+    "mail_route_desc_localize": "offer_index_selecter_12"
+  },
+  {
+    "id": 20,
+    "mail_route_localize": "UI_mail_guild_01",
+    "mail_route_desc_localize": "UI_mail_guild_desc_01"
+  },
+  {
+    "id": 21,
+    "mail_route_localize": "UI_mail_guild_01",
+    "mail_route_desc_localize": "UI_mail_guild_desc_02"
+  },
+  {
+    "id": 31,
+    "mail_route_localize": "UI_mail_manage_halloween_01",
+    "mail_route_desc_localize": "UI_mail_manage_halloween_desc_01"
+  },
+  {
+    "id": 50,
+    "mail_route_localize": "UI_mail_web_event_01",
+    "mail_route_desc_localize": "UI_mail_web_event_desc_01"
+  },
+  {
+    "id": 51,
+    "mail_route_localize": "UI_mail_connect_01",
+    "mail_route_desc_localize": "UI_mail_connect_desc_01"
+  },
+  {
+    "id": 52,
+    "mail_route_localize": "UI_mail_coupon_01",
+    "mail_route_desc_localize": "UI_mail_coupon_desc_01"
+  },
+  {
+    "id": 53,
+    "mail_route_localize": "UI_mail_coupon_02",
+    "mail_route_desc_localize": "UI_mail_coupon_desc_02"
+  },
+  {
+    "id": 54,
+    "mail_route_localize": "UI_mail_giftcard_01",
+    "mail_route_desc_localize": "UI_mail_giftcard_desc_01"
+  },
+  {
+    "id": 55,
+    "mail_route_localize": "UI_mail_giftcard_02",
+    "mail_route_desc_localize": "UI_mail_giftcard_desc_02"
+  },
+  {
+    "id": 56,
+    "mail_route_localize": "UI_mail_giftcard_03",
+    "mail_route_desc_localize": "UI_mail_giftcard_desc_03"
+  },
+  {
+    "id": 57,
+    "mail_route_localize": "UI_mail_giftcard_04",
+    "mail_route_desc_localize": "UI_mail_giftcard_desc_04"
+  },
+  {
+    "id": 58,
+    "mail_route_localize": "UI_mail_giftcard_05",
+    "mail_route_desc_localize": "UI_mail_giftcard_desc_05"
+  },
+  {
+    "id": 59,
+    "mail_route_localize": "UI_mail_giftcard_06",
+    "mail_route_desc_localize": "UI_mail_giftcard_desc_06"
+  },
+  {
+    "id": 60,
+    "mail_route_localize": "UI_mail_giftcard_07",
+    "mail_route_desc_localize": "UI_mail_giftcard_desc_07"
+  },
+  {
+    "id": 61,
+    "mail_route_localize": "UI_mail_giftcard_08",
+    "mail_route_desc_localize": "UI_mail_giftcard_desc_08"
+  },
+  {
+    "id": 71,
+    "mail_route_localize": "UI_mail_playpoint_01",
+    "mail_route_desc_localize": "UI_mail_playpoint_desc_01"
+  },
+  {
+    "id": 72,
+    "mail_route_localize": "UI_mail_playpoint_01",
+    "mail_route_desc_localize": "UI_mail_playpoint_desc_02"
+  },
+  {
+    "id": 73,
+    "mail_route_localize": "UI_mail_playpoint_01",
+    "mail_route_desc_localize": "UI_mail_playpoint_desc_03"
+  },
+  {
+    "id": 74,
+    "mail_route_localize": "UI_mail_playpoint_01",
+    "mail_route_desc_localize": "UI_mail_playpoint_desc_04"
+  },
+  {
+    "id": 100,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_00"
+  },
+  {
+    "id": 101,
+    "mail_route_localize": "UI_mail_friend_exchange_01",
+    "mail_route_desc_localize": "UI_mail_friend_exchange_desc_01"
+  },
+  {
+    "id": 102,
+    "mail_route_localize": "UI_mail_friend_exchange_02",
+    "mail_route_desc_localize": "UI_mail_friend_exchange_desc_02"
+  },
+  {
+    "id": 103,
+    "mail_route_localize": "UI_mail_friend_mercenary_01",
+    "mail_route_desc_localize": "UI_mail_friend_mercenary_desc_01"
+  },
+  {
+    "id": 104,
+    "mail_route_localize": "UI_mail_friend_mercenary_01",
+    "mail_route_desc_localize": "UI_mail_friend_mercenary_desc_02"
+  },
+  {
+    "id": 105,
+    "mail_route_localize": "UI_mail_friend_mercenary_02",
+    "mail_route_desc_localize": "UI_mail_friend_mercenary_desc_03"
+  },
+  {
+    "id": 106,
+    "mail_route_localize": "UI_mail_friend_mercenary_02",
+    "mail_route_desc_localize": "UI_mail_friend_mercenary_desc_04"
+  },
+  {
+    "id": 107,
+    "mail_route_localize": "UI_mail_friend_food_eat_01",
+    "mail_route_desc_localize": "UI_mail_friend_food_eat_desc_01"
+  },
+  {
+    "id": 108,
+    "mail_route_localize": "UI_mail_friend_food_eat_02",
+    "mail_route_desc_localize": "UI_mail_friend_food_eat_desc_02"
+  },
+  {
+    "id": 123,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3151"
+  },
+  {
+    "id": 124,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3152"
+  },
+  {
+    "id": 125,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4010"
+  },
+  {
+    "id": 126,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4112"
+  },
+  {
+    "id": 127,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4113"
+  },
+  {
+    "id": 128,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4114"
+  },
+  {
+    "id": 129,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4115"
+  },
+  {
+    "id": 130,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4116"
+  },
+  {
+    "id": 131,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4117"
+  },
+  {
+    "id": 132,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4602"
+  },
+  {
+    "id": 133,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4123"
+  },
+  {
+    "id": 134,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4124"
+  },
+  {
+    "id": 135,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3101"
+  },
+  {
+    "id": 136,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3102"
+  },
+  {
+    "id": 137,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4111"
+  },
+  {
+    "id": 138,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4127"
+  },
+  {
+    "id": 139,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4128"
+  },
+  {
+    "id": 140,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4129"
+  },
+  {
+    "id": 141,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4130"
+  },
+  {
+    "id": 142,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4131"
+  },
+  {
+    "id": 143,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4132"
+  },
+  {
+    "id": 144,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4133"
+  },
+  {
+    "id": 145,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4134"
+  },
+  {
+    "id": 146,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4135"
+  },
+  {
+    "id": 147,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4136"
+  },
+  {
+    "id": 148,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4137"
+  },
+  {
+    "id": 150,
+    "mail_route_localize": "UI_mail_package_name_02",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_300"
+  },
+  {
+    "id": 151,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_level_up_gift_1004"
+  },
+  {
+    "id": 152,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3111"
+  },
+  {
+    "id": 153,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4201"
+  },
+  {
+    "id": 154,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4301"
+  },
+  {
+    "id": 155,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4302"
+  },
+  {
+    "id": 156,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4303"
+  },
+  {
+    "id": 157,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4401"
+  },
+  {
+    "id": 158,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4500"
+  },
+  {
+    "id": 159,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_level_up_gift_1005"
+  },
+  {
+    "id": 160,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4521"
+  },
+  {
+    "id": 161,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4522"
+  },
+  {
+    "id": 162,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4523"
+  },
+  {
+    "id": 163,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_level_up_gift_1006"
+  },
+  {
+    "id": 164,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4138"
+  },
+  {
+    "id": 165,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4139"
+  },
+  {
+    "id": 166,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3155"
+  },
+  {
+    "id": 167,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3156"
+  },
+  {
+    "id": 168,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3157"
+  },
+  {
+    "id": 169,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3161"
+  },
+  {
+    "id": 170,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3158"
+  },
+  {
+    "id": 171,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3159"
+  },
+  {
+    "id": 172,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3160"
+  },
+  {
+    "id": 173,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4140"
+  },
+  {
+    "id": 174,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4141"
+  },
+  {
+    "id": 175,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4142"
+  },
+  {
+    "id": 176,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4143"
+  },
+  {
+    "id": 177,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4144"
+  },
+  {
+    "id": 184,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3163"
+  },
+  {
+    "id": 185,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4520"
+  },
+  {
+    "id": 186,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4524"
+  },
+  {
+    "id": 187,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4525"
+  },
+  {
+    "id": 188,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4531"
+  },
+  {
+    "id": 189,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4532"
+  },
+  {
+    "id": 190,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4202"
+  },
+  {
+    "id": 201,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_level_up_gift_1001"
+  },
+  {
+    "id": 202,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_level_up_gift_1002"
+  },
+  {
+    "id": 203,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_level_up_gift_1003"
+  },
+  {
+    "id": 204,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_period_gift_2001"
+  },
+  {
+    "id": 205,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_period_gift_2002"
+  },
+  {
+    "id": 206,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_period_gift_2003"
+  },
+  {
+    "id": 207,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_normal_4104"
+  },
+  {
+    "id": 208,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_normal_4105"
+  },
+  {
+    "id": 209,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4501"
+  },
+  {
+    "id": 210,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4502"
+  },
+  {
+    "id": 211,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4903"
+  },
+  {
+    "id": 212,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_normal_4106"
+  },
+  {
+    "id": 213,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_normal_4107"
+  },
+  {
+    "id": 214,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_desc_normal_4108"
+  },
+  {
+    "id": 215,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4503"
+  },
+  {
+    "id": 216,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4504"
+  },
+  {
+    "id": 217,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4505"
+  },
+  {
+    "id": 218,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4506"
+  },
+  {
+    "id": 219,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4904"
+  },
+  {
+    "id": 220,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4601"
+  },
+  {
+    "id": 221,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4001"
+  },
+  {
+    "id": 222,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4002"
+  },
+  {
+    "id": 223,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4109"
+  },
+  {
+    "id": 224,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4110"
+  },
+  {
+    "id": 225,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_50001"
+  },
+  {
+    "id": 226,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_50101"
+  },
+  {
+    "id": 227,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_50102"
+  },
+  {
+    "id": 229,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_50201"
+  },
+  {
+    "id": 231,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4150"
+  },
+  {
+    "id": 232,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4151"
+  },
+  {
+    "id": 233,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4451"
+  },
+  {
+    "id": 234,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4452"
+  },
+  {
+    "id": 235,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4551"
+  },
+  {
+    "id": 236,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4552"
+  },
+  {
+    "id": 237,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_3164"
+  },
+  {
+    "id": 238,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4533"
+  },
+  {
+    "id": 239,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_4534"
+  },
+  {
+    "id": 4461,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44601"
+  },
+  {
+    "id": 4462,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44602"
+  },
+  {
+    "id": 4463,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44603"
+  },
+  {
+    "id": 4464,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44604"
+  },
+  {
+    "id": 4465,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44605"
+  },
+  {
+    "id": 4466,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44606"
+  },
+  {
+    "id": 4467,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44607"
+  },
+  {
+    "id": 4468,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44608"
+  },
+  {
+    "id": 4469,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44609"
+  },
+  {
+    "id": 4471,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44701"
+  },
+  {
+    "id": 4472,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44702"
+  },
+  {
+    "id": 4473,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44703"
+  },
+  {
+    "id": 4474,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44704"
+  },
+  {
+    "id": 4475,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44705"
+  },
+  {
+    "id": 4476,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44706"
+  },
+  {
+    "id": 4477,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44707"
+  },
+  {
+    "id": 4478,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44708"
+  },
+  {
+    "id": 4479,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44709"
+  },
+  {
+    "id": 4481,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44801"
+  },
+  {
+    "id": 4482,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44802"
+  },
+  {
+    "id": 4483,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44803"
+  },
+  {
+    "id": 4484,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44804"
+  },
+  {
+    "id": 4485,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44805"
+  },
+  {
+    "id": 4486,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44806"
+  },
+  {
+    "id": 4487,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44807"
+  },
+  {
+    "id": 4488,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44808"
+  },
+  {
+    "id": 4489,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44809"
+  },
+  {
+    "id": 4491,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44901"
+  },
+  {
+    "id": 4492,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44902"
+  },
+  {
+    "id": 4493,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44903"
+  },
+  {
+    "id": 4494,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44904"
+  },
+  {
+    "id": 4495,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44905"
+  },
+  {
+    "id": 4496,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44906"
+  },
+  {
+    "id": 4497,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44907"
+  },
+  {
+    "id": 4498,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44908"
+  },
+  {
+    "id": 4499,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_44909"
+  },
+  {
+    "id": 10000,
+    "mail_route_localize": "UI_GB_mail_first_buy_bonus_name_01",
+    "mail_route_desc_localize": "UI_GB_mail_first_buy_bonus_desc_01"
+  },
+  {
+    "id": 10001,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100001"
+  },
+  {
+    "id": 10002,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_150006"
+  },
+  {
+    "id": 10003,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_150007"
+  },
+  {
+    "id": 10004,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_110001"
+  },
+  {
+    "id": 10005,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_110002"
+  },
+  {
+    "id": 10006,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_110003"
+  },
+  {
+    "id": 10007,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_110004"
+  },
+  {
+    "id": 10008,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_110005"
+  },
+  {
+    "id": 10009,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_110006"
+  },
+  {
+    "id": 10010,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100002"
+  },
+  {
+    "id": 10011,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100003"
+  },
+  {
+    "id": 10012,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100004"
+  },
+  {
+    "id": 10013,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100005"
+  },
+  {
+    "id": 10014,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100006"
+  },
+  {
+    "id": 10015,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100007"
+  },
+  {
+    "id": 10016,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100008"
+  },
+  {
+    "id": 10017,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100009"
+  },
+  {
+    "id": 10018,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100010"
+  },
+  {
+    "id": 10019,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100016"
+  },
+  {
+    "id": 10020,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100017"
+  },
+  {
+    "id": 10021,
+    "mail_route_localize": "UI_GB_mail_push_reward_01",
+    "mail_route_desc_localize": "UI_GB_mail_push_reward_desc_01"
+  },
+  {
+    "id": 10022,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100018"
+  },
+  {
+    "id": 10023,
+    "mail_route_localize": "UI_GB_mail_push_reward_02",
+    "mail_route_desc_localize": "UI_GB_mail_push_reward_desc_02"
+  },
+  {
+    "id": 10024,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100021"
+  },
+  {
+    "id": 10025,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100022"
+  },
+  {
+    "id": 10026,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100025"
+  },
+  {
+    "id": 10027,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100020"
+  },
+  {
+    "id": 10028,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100023"
+  },
+  {
+    "id": 10029,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100024"
+  },
+  {
+    "id": 10030,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100026"
+  },
+  {
+    "id": 10031,
+    "mail_route_localize": "UI_mail_package_name_01",
+    "mail_route_desc_localize": "DB_package_mail_desc_normal_100027"
+  }
+]

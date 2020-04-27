@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "weapon_rating": 1,
+    "evolution_count": 1,
+    "evolution_material_id": 510101,
+    "evolution_material_count": 1,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 5000
+  },
+  {
+    "id": 2,
+    "weapon_rating": 1,
+    "evolution_count": 2,
+    "evolution_material_id": 510101,
+    "evolution_material_count": 2,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 10000
+  },
+  {
+    "id": 3,
+    "weapon_rating": 1,
+    "evolution_count": 3,
+    "evolution_material_id": 510101,
+    "evolution_material_count": 3,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 15000
+  },
+  {
+    "id": 4,
+    "weapon_rating": 1,
+    "evolution_count": 4,
+    "evolution_material_id": 510101,
+    "evolution_material_count": 4,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 20000
+  },
+  {
+    "id": 5,
+    "weapon_rating": 1,
+    "evolution_count": 5,
+    "evolution_material_id": 510101,
+    "evolution_material_count": 5,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 25000
+  },
+  {
+    "id": 6,
+    "weapon_rating": 2,
+    "evolution_count": 1,
+    "evolution_material_id": 510102,
+    "evolution_material_count": 1,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 10000
+  },
+  {
+    "id": 7,
+    "weapon_rating": 2,
+    "evolution_count": 2,
+    "evolution_material_id": 510102,
+    "evolution_material_count": 2,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 20000
+  },
+  {
+    "id": 8,
+    "weapon_rating": 2,
+    "evolution_count": 3,
+    "evolution_material_id": 510102,
+    "evolution_material_count": 3,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 30000
+  },
+  {
+    "id": 9,
+    "weapon_rating": 2,
+    "evolution_count": 4,
+    "evolution_material_id": 510102,
+    "evolution_material_count": 4,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 40000
+  },
+  {
+    "id": 10,
+    "weapon_rating": 2,
+    "evolution_count": 5,
+    "evolution_material_id": 510102,
+    "evolution_material_count": 5,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 50000
+  },
+  {
+    "id": 11,
+    "weapon_rating": 3,
+    "evolution_count": 1,
+    "evolution_material_id": 510103,
+    "evolution_material_count": 1,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 20000
+  },
+  {
+    "id": 12,
+    "weapon_rating": 3,
+    "evolution_count": 2,
+    "evolution_material_id": 510103,
+    "evolution_material_count": 2,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 40000
+  },
+  {
+    "id": 13,
+    "weapon_rating": 3,
+    "evolution_count": 3,
+    "evolution_material_id": 510103,
+    "evolution_material_count": 3,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 60000
+  },
+  {
+    "id": 14,
+    "weapon_rating": 3,
+    "evolution_count": 4,
+    "evolution_material_id": 510103,
+    "evolution_material_count": 4,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 80000
+  },
+  {
+    "id": 15,
+    "weapon_rating": 3,
+    "evolution_count": 5,
+    "evolution_material_id": 510103,
+    "evolution_material_count": 5,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 100000
+  },
+  {
+    "id": 16,
+    "weapon_rating": 4,
+    "evolution_count": 1,
+    "evolution_material_id": 510104,
+    "evolution_material_count": 1,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 40000
+  },
+  {
+    "id": 17,
+    "weapon_rating": 4,
+    "evolution_count": 2,
+    "evolution_material_id": 510104,
+    "evolution_material_count": 2,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 80000
+  },
+  {
+    "id": 18,
+    "weapon_rating": 4,
+    "evolution_count": 3,
+    "evolution_material_id": 510104,
+    "evolution_material_count": 3,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 120000
+  },
+  {
+    "id": 19,
+    "weapon_rating": 4,
+    "evolution_count": 4,
+    "evolution_material_id": 510104,
+    "evolution_material_count": 4,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 160000
+  },
+  {
+    "id": 20,
+    "weapon_rating": 4,
+    "evolution_count": 5,
+    "evolution_material_id": 510104,
+    "evolution_material_count": 5,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 200000
+  },
+  {
+    "id": 21,
+    "weapon_rating": 5,
+    "evolution_count": 1,
+    "evolution_material_id": 510105,
+    "evolution_material_count": 1,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 80000
+  },
+  {
+    "id": 22,
+    "weapon_rating": 5,
+    "evolution_count": 2,
+    "evolution_material_id": 510105,
+    "evolution_material_count": 2,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 160000
+  },
+  {
+    "id": 23,
+    "weapon_rating": 5,
+    "evolution_count": 3,
+    "evolution_material_id": 510105,
+    "evolution_material_count": 3,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 240000
+  },
+  {
+    "id": 24,
+    "weapon_rating": 5,
+    "evolution_count": 4,
+    "evolution_material_id": 510105,
+    "evolution_material_count": 4,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 320000
+  },
+  {
+    "id": 25,
+    "weapon_rating": 5,
+    "evolution_count": 5,
+    "evolution_material_id": 510105,
+    "evolution_material_count": 5,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 400000
+  },
+  {
+    "id": 26,
+    "weapon_rating": 6,
+    "evolution_count": 1,
+    "evolution_material_id": 510106,
+    "evolution_material_count": 1,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 160000
+  },
+  {
+    "id": 27,
+    "weapon_rating": 6,
+    "evolution_count": 2,
+    "evolution_material_id": 510106,
+    "evolution_material_count": 2,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 320000
+  },
+  {
+    "id": 28,
+    "weapon_rating": 6,
+    "evolution_count": 3,
+    "evolution_material_id": 510106,
+    "evolution_material_count": 3,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 480000
+  },
+  {
+    "id": 29,
+    "weapon_rating": 6,
+    "evolution_count": 4,
+    "evolution_material_id": 510106,
+    "evolution_material_count": 4,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 640000
+  },
+  {
+    "id": 30,
+    "weapon_rating": 6,
+    "evolution_count": 5,
+    "evolution_material_id": 510106,
+    "evolution_material_count": 5,
+    "evolution_price_id": 500012,
+    "evolution_price_count": 800000
+  }
+]

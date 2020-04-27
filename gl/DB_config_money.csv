@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_01",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 500,
+    "value_2": 0
+  },
+  {
+    "id": 2,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_02",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 1000,
+    "value_2": 0
+  },
+  {
+    "id": 3,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_03",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 1500,
+    "value_2": 0
+  },
+  {
+    "id": 4,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_04",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 3000,
+    "value_2": 0
+  },
+  {
+    "id": 5,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_05",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 4500,
+    "value_2": 0
+  },
+  {
+    "id": 6,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_06",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 6000,
+    "value_2": 0
+  },
+  {
+    "id": 7,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_07",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 9000,
+    "value_2": 0
+  },
+  {
+    "id": 8,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_08",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 12000,
+    "value_2": 0
+  },
+  {
+    "id": 9,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_09",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 15000,
+    "value_2": 0
+  },
+  {
+    "id": 10,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_10",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 30000,
+    "value_2": 0
+  },
+  {
+    "id": 11,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_11",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 45000,
+    "value_2": 0
+  },
+  {
+    "id": 12,
+    "money_id": 500012,
+    "money_icon": "icon_item_money_gold_12",
+    "money_name": "DB_item_name_money_gold",
+    "money_desc": "DB_item_desc_money_gold",
+    "value_1": 60000,
+    "value_2": 0
+  }
+]

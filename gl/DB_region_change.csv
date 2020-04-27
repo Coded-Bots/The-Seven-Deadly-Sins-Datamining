@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "region_id": 10,
+    "region_resource": "",
+    "path": "UI/Prefabs/Lobby/Renderer/",
+    "change_region_prefab": "Area_Map_Broken",
+    "open_type": "quest_end",
+    "open_value": 20011,
+    "close_type": "",
+    "close_value": 0
+  },
+  {
+    "id": 3,
+    "region_id": 10,
+    "region_resource": "",
+    "path": "UI/Prefabs/Lobby/Renderer/",
+    "change_region_prefab": "Area_Map_Dust",
+    "open_type": "quest_start",
+    "open_value": 20012,
+    "close_type": "",
+    "close_value": 0
+  },
+  {
+    "id": 4,
+    "region_id": 112,
+    "region_resource": "",
+    "path": "UI/Prefabs/Lobby/Renderer/",
+    "change_region_prefab": "Area_Map_Cloud",
+    "open_type": "quest_start",
+    "open_value": 111004,
+    "close_type": "quest_end",
+    "close_value": 111005
+  }
+]

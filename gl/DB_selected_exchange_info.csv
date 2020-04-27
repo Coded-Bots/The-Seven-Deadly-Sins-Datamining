@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "select_group": 1,
+    "select_type_1": 1,
+    "select_type_2": 0,
+    "item_id": 0
+  },
+  {
+    "id": 2,
+    "select_group": 1,
+    "select_type_1": 2,
+    "select_type_2": 0,
+    "item_id": 0
+  },
+  {
+    "id": 3,
+    "select_group": 1,
+    "select_type_1": 3,
+    "select_type_2": 0,
+    "item_id": 0
+  },
+  {
+    "id": 4,
+    "select_group": 1,
+    "select_type_1": 4,
+    "select_type_2": 0,
+    "item_id": 0
+  },
+  {
+    "id": 5,
+    "select_group": 1,
+    "select_type_1": 5,
+    "select_type_2": 0,
+    "item_id": 0
+  },
+  {
+    "id": 6,
+    "select_group": 1,
+    "select_type_1": 6,
+    "select_type_2": 0,
+    "item_id": 0
+  },
+  {
+    "id": 7,
+    "select_group": 1,
+    "select_type_1": 0,
+    "select_type_2": 1,
+    "item_id": 0
+  },
+  {
+    "id": 8,
+    "select_group": 1,
+    "select_type_1": 0,
+    "select_type_2": 2,
+    "item_id": 0
+  },
+  {
+    "id": 9,
+    "select_group": 1,
+    "select_type_1": 0,
+    "select_type_2": 3,
+    "item_id": 0
+  },
+  {
+    "id": 10,
+    "select_group": 1,
+    "select_type_1": 0,
+    "select_type_2": 6,
+    "item_id": 0
+  },
+  {
+    "id": 11,
+    "select_group": 1,
+    "select_type_1": 0,
+    "select_type_2": 7,
+    "item_id": 0
+  },
+  {
+    "id": 13,
+    "select_group": 1,
+    "select_type_1": 0,
+    "select_type_2": 10,
+    "item_id": 0
+  },
+  {
+    "id": 16,
+    "select_group": 1,
+    "select_type_1": 1,
+    "select_type_2": 1,
+    "item_id": 801105
+  },
+  {
+    "id": 17,
+    "select_group": 1,
+    "select_type_1": 1,
+    "select_type_2": 2,
+    "item_id": 802105
+  },
+  {
+    "id": 18,
+    "select_group": 1,
+    "select_type_1": 1,
+    "select_type_2": 3,
+    "item_id": 803105
+  },
+  {
+    "id": 19,
+    "select_group": 1,
+    "select_type_1": 1,
+    "select_type_2": 6,
+    "item_id": 806105
+  },
+  {
+    "id": 20,
+    "select_group": 1,
+    "select_type_1": 1,
+    "select_type_2": 7,
+    "item_id": 807105
+  },
+  {
+    "id": 22,
+    "select_group": 1,
+    "select_type_1": 1,
+    "select_type_2": 10,
+    "item_id": 810105
+  },
+  {
+    "id": 25,
+    "select_group": 1,
+    "select_type_1": 2,
+    "select_type_2": 1,
+    "item_id": 801205
+  },
+  {
+    "id": 26,
+    "select_group": 1,
+    "select_type_1": 2,
+    "select_type_2": 2,
+    "item_id": 802205
+  },
+  {
+    "id": 27,
+    "select_group": 1,
+    "select_type_1": 2,
+    "select_type_2": 3,
+    "item_id": 803205
+  },
+  {
+    "id": 28,
+    "select_group": 1,
+    "select_type_1": 2,
+    "select_type_2": 6,
+    "item_id": 806205
+  },
+  {
+    "id": 29,
+    "select_group": 1,
+    "select_type_1": 2,
+    "select_type_2": 7,
+    "item_id": 807205
+  },
+  {
+    "id": 31,
+    "select_group": 1,
+    "select_type_1": 2,
+    "select_type_2": 10,
+    "item_id": 810205
+  },
+  {
+    "id": 34,
+    "select_group": 1,
+    "select_type_1": 3,
+    "select_type_2": 1,
+    "item_id": 801305
+  },
+  {
+    "id": 35,
+    "select_group": 1,
+    "select_type_1": 3,
+    "select_type_2": 2,
+    "item_id": 802305
+  },
+  {
+    "id": 36,
+    "select_group": 1,
+    "select_type_1": 3,
+    "select_type_2": 3,
+    "item_id": 803305
+  },
+  {
+    "id": 37,
+    "select_group": 1,
+    "select_type_1": 3,
+    "select_type_2": 6,
+    "item_id": 806305
+  },
+  {
+    "id": 38,
+    "select_group": 1,
+    "select_type_1": 3,
+    "select_type_2": 7,
+    "item_id": 807305
+  },
+  {
+    "id": 40,
+    "select_group": 1,
+    "select_type_1": 3,
+    "select_type_2": 10,
+    "item_id": 810305
+  },
+  {
+    "id": 43,
+    "select_group": 1,
+    "select_type_1": 4,
+    "select_type_2": 1,
+    "item_id": 801405
+  },
+  {
+    "id": 44,
+    "select_group": 1,
+    "select_type_1": 4,
+    "select_type_2": 2,
+    "item_id": 802405
+  },
+  {
+    "id": 45,
+    "select_group": 1,
+    "select_type_1": 4,
+    "select_type_2": 3,
+    "item_id": 803405
+  },
+  {
+    "id": 46,
+    "select_group": 1,
+    "select_type_1": 4,
+    "select_type_2": 6,
+    "item_id": 806405
+  },
+  {
+    "id": 47,
+    "select_group": 1,
+    "select_type_1": 4,
+    "select_type_2": 7,
+    "item_id": 807405
+  },
+  {
+    "id": 49,
+    "select_group": 1,
+    "select_type_1": 4,
+    "select_type_2": 10,
+    "item_id": 810405
+  },
+  {
+    "id": 52,
+    "select_group": 1,
+    "select_type_1": 5,
+    "select_type_2": 1,
+    "item_id": 801505
+  },
+  {
+    "id": 53,
+    "select_group": 1,
+    "select_type_1": 5,
+    "select_type_2": 2,
+    "item_id": 802505
+  },
+  {
+    "id": 54,
+    "select_group": 1,
+    "select_type_1": 5,
+    "select_type_2": 3,
+    "item_id": 803505
+  },
+  {
+    "id": 55,
+    "select_group": 1,
+    "select_type_1": 5,
+    "select_type_2": 6,
+    "item_id": 806505
+  },
+  {
+    "id": 56,
+    "select_group": 1,
+    "select_type_1": 5,
+    "select_type_2": 7,
+    "item_id": 807505
+  },
+  {
+    "id": 58,
+    "select_group": 1,
+    "select_type_1": 5,
+    "select_type_2": 10,
+    "item_id": 810505
+  },
+  {
+    "id": 61,
+    "select_group": 1,
+    "select_type_1": 6,
+    "select_type_2": 1,
+    "item_id": 801605
+  },
+  {
+    "id": 62,
+    "select_group": 1,
+    "select_type_1": 6,
+    "select_type_2": 2,
+    "item_id": 802605
+  },
+  {
+    "id": 63,
+    "select_group": 1,
+    "select_type_1": 6,
+    "select_type_2": 3,
+    "item_id": 803605
+  },
+  {
+    "id": 64,
+    "select_group": 1,
+    "select_type_1": 6,
+    "select_type_2": 6,
+    "item_id": 806605
+  },
+  {
+    "id": 65,
+    "select_group": 1,
+    "select_type_1": 6,
+    "select_type_2": 7,
+    "item_id": 807605
+  },
+  {
+    "id": 67,
+    "select_group": 1,
+    "select_type_1": 6,
+    "select_type_2": 10,
+    "item_id": 810605
+  }
+]

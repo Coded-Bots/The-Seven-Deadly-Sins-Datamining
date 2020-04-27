@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "link_product_id": 1001,
+    "type": "link_buy",
+    "popup_timing": "login_lobby",
+    "popup_image_url": ""
+  },
+  {
+    "id": 2,
+    "link_product_id": 1002,
+    "type": "shop_link",
+    "popup_timing": "login_lobby",
+    "popup_image_url": ""
+  }
+]

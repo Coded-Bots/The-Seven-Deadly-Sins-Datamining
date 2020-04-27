@@ -1,0 +1,112 @@
+[
+  {
+    "id": 500401,
+    "rating": 1,
+    "type": 0,
+    "passive_id_1": 10020,
+    "passive_level_1": 1,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  },
+  {
+    "id": 500402,
+    "rating": 2,
+    "type": 0,
+    "passive_id_1": 10020,
+    "passive_level_1": 2,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  },
+  {
+    "id": 500403,
+    "rating": 3,
+    "type": 0,
+    "passive_id_1": 10020,
+    "passive_level_1": 3,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  },
+  {
+    "id": 500404,
+    "rating": 4,
+    "type": 0,
+    "passive_id_1": 10020,
+    "passive_level_1": 4,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  },
+  {
+    "id": 500405,
+    "rating": 5,
+    "type": 0,
+    "passive_id_1": 10020,
+    "passive_level_1": 5,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  },
+  {
+    "id": 500406,
+    "rating": 6,
+    "type": 0,
+    "passive_id_1": 10020,
+    "passive_level_1": 6,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  },
+  {
+    "id": 500407,
+    "rating": 1,
+    "type": 1,
+    "passive_id_1": 10020,
+    "passive_level_1": 1,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  },
+  {
+    "id": 500408,
+    "rating": 2,
+    "type": 1,
+    "passive_id_1": 10020,
+    "passive_level_1": 2,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  },
+  {
+    "id": 500409,
+    "rating": 3,
+    "type": 1,
+    "passive_id_1": 10020,
+    "passive_level_1": 3,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  },
+  {
+    "id": 500410,
+    "rating": 4,
+    "type": 1,
+    "passive_id_1": 10020,
+    "passive_level_1": 4,
+    "passive_id_2": 0,
+    "passive_level_2": 0,
+    "passive_id_3": 0,
+    "passive_level_3": 0
+  }
+]

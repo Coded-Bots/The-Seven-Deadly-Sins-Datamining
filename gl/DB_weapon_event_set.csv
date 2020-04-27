@@ -1,0 +1,11 @@
+[
+  {
+    "event_set_id": 1,
+    "display_id": 1,
+    "event_set_icon": "set_weapon_icon_event_slime",
+    "event_set_name": "DB_set_weapon_name_50_slime",
+    "event_set_desc": "DB_set_weapon_desc_50_slime",
+    "set_count": 1,
+    "set_passive_id": 611310
+  }
+]

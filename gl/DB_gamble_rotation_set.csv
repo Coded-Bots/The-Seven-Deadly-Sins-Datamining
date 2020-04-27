@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "gamble_group": 1002,
+    "skin_id": 301111,
+    "hero_icon_file_name": "jericho",
+    "hero_icon_name": "cut_in_special_jericho_0008_01",
+    "rotation_group": 1
+  },
+  {
+    "id": 2,
+    "gamble_group": 1002,
+    "skin_id": 301005,
+    "hero_icon_file_name": "griamore",
+    "hero_icon_name": "cut_in_special_griamore_0008_01",
+    "rotation_group": 1
+  },
+  {
+    "id": 3,
+    "gamble_group": 1002,
+    "skin_id": 305001,
+    "hero_icon_file_name": "arthur",
+    "hero_icon_name": "cut_in_special_arthur_0011_01",
+    "rotation_group": 1
+  },
+  {
+    "id": 4,
+    "gamble_group": 1002,
+    "skin_id": 300212,
+    "hero_icon_file_name": "elizabeth",
+    "hero_icon_name": "cut_in_special_elizabeth_0002_01",
+    "rotation_group": 2
+  },
+  {
+    "id": 5,
+    "gamble_group": 1002,
+    "skin_id": 310407,
+    "hero_icon_file_name": "bannunchaku",
+    "hero_icon_name": "cut_in_special_bannunchaku_0009_01",
+    "rotation_group": 2
+  },
+  {
+    "id": 6,
+    "gamble_group": 1002,
+    "skin_id": 304505,
+    "hero_icon_file_name": "hendrickson",
+    "hero_icon_name": "cut_in_special_hendrickson_0012_01",
+    "rotation_group": 2
+  },
+  {
+    "id": 7,
+    "gamble_group": 1002,
+    "skin_id": 310404,
+    "hero_icon_file_name": "ban",
+    "hero_icon_name": "cut_in_special_ban_0020_01",
+    "rotation_group": 3
+  },
+  {
+    "id": 8,
+    "gamble_group": 1002,
+    "skin_id": 300601,
+    "hero_icon_file_name": "gowther",
+    "hero_icon_name": "cut_in_special_gowther_0004_01",
+    "rotation_group": 3
+  },
+  {
+    "id": 9,
+    "gamble_group": 1002,
+    "skin_id": 300704,
+    "hero_icon_file_name": "gil_thunder",
+    "hero_icon_name": "cut_in_special_gil_thunder_0008_01",
+    "rotation_group": 3
+  },
+  {
+    "id": 10,
+    "gamble_group": 1002,
+    "skin_id": 304804,
+    "hero_icon_file_name": "elaine",
+    "hero_icon_name": "cut_in_special_elaine_0002_01",
+    "rotation_group": 4
+  },
+  {
+    "id": 11,
+    "gamble_group": 1002,
+    "skin_id": 300905,
+    "hero_icon_file_name": "howzer",
+    "hero_icon_name": "cut_in_special_howzer_0018_01",
+    "rotation_group": 4
+  },
+  {
+    "id": 12,
+    "gamble_group": 1002,
+    "skin_id": 300101,
+    "hero_icon_file_name": "meliodas",
+    "hero_icon_name": "cut_in_special_meliodas_0007_01",
+    "rotation_group": 4
+  },
+  {
+    "id": 13,
+    "gamble_group": 1002,
+    "skin_id": 310304,
+    "hero_icon_file_name": "dianesmall",
+    "hero_icon_name": "cut_in_special_dianesmall_0007_01",
+    "rotation_group": 5
+  },
+  {
+    "id": 14,
+    "gamble_group": 1002,
+    "skin_id": 310503,
+    "hero_icon_file_name": "kingfat",
+    "hero_icon_name": "cut_in_special_kingfat_0002_01",
+    "rotation_group": 5
+  },
+  {
+    "id": 15,
+    "gamble_group": 1002,
+    "skin_id": 301204,
+    "hero_icon_file_name": "helbram_fairy",
+    "hero_icon_name": "cut_in_special_helbram_fairy_0003_01",
+    "rotation_group": 5
+  },
+  {
+    "id": 16,
+    "gamble_group": 1002,
+    "skin_id": 310301,
+    "hero_icon_file_name": "dianesmall",
+    "hero_icon_name": "cut_in_special_dianesmall_0001_01",
+    "rotation_group": 6
+  },
+  {
+    "id": 17,
+    "gamble_group": 1002,
+    "skin_id": 300501,
+    "hero_icon_file_name": "king",
+    "hero_icon_name": "cut_in_special_king_0010_01",
+    "rotation_group": 6
+  },
+  {
+    "id": 18,
+    "gamble_group": 1002,
+    "skin_id": 303806,
+    "hero_icon_file_name": "slader",
+    "hero_icon_name": "cut_in_special_slader_0004_01",
+    "rotation_group": 6
+  },
+  {
+    "id": 19,
+    "gamble_group": 1002,
+    "skin_id": 310402,
+    "hero_icon_file_name": "ban",
+    "hero_icon_name": "cut_in_special_ban_0021_01",
+    "rotation_group": 7
+  },
+  {
+    "id": 20,
+    "gamble_group": 1002,
+    "skin_id": 310501,
+    "hero_icon_file_name": "kingfat",
+    "hero_icon_name": "cut_in_special_kingfat_0006_01",
+    "rotation_group": 7
+  },
+  {
+    "id": 21,
+    "gamble_group": 1002,
+    "skin_id": 300805,
+    "hero_icon_file_name": "guila",
+    "hero_icon_name": "cut_in_special_guila_0007_01",
+    "rotation_group": 7
+  },
+  {
+    "id": 22,
+    "gamble_group": 1002,
+    "skin_id": 301302,
+    "hero_icon_file_name": "merlin",
+    "hero_icon_name": "cut_in_special_merlin_0014_01",
+    "rotation_group": 8
+  },
+  {
+    "id": 23,
+    "gamble_group": 1002,
+    "skin_id": 304804,
+    "hero_icon_file_name": "elaine",
+    "hero_icon_name": "cut_in_special_elaine_0002_01",
+    "rotation_group": 8
+  },
+  {
+    "id": 24,
+    "gamble_group": 1002,
+    "skin_id": 310407,
+    "hero_icon_file_name": "bannunchaku",
+    "hero_icon_name": "cut_in_special_bannunchaku_0009_01",
+    "rotation_group": 8
+  },
+  {
+    "id": 25,
+    "gamble_group": 1002,
+    "skin_id": 303806,
+    "hero_icon_file_name": "slader",
+    "hero_icon_name": "cut_in_special_slader_0004_01",
+    "rotation_group": 9
+  },
+  {
+    "id": 26,
+    "gamble_group": 1002,
+    "skin_id": 301005,
+    "hero_icon_file_name": "griamore",
+    "hero_icon_name": "cut_in_special_griamore_0008_01",
+    "rotation_group": 9
+  },
+  {
+    "id": 27,
+    "gamble_group": 1002,
+    "skin_id": 300101,
+    "hero_icon_file_name": "meliodas",
+    "hero_icon_name": "cut_in_special_meliodas_0007_01",
+    "rotation_group": 9
+  },
+  {
+    "id": 28,
+    "gamble_group": 1002,
+    "skin_id": 304505,
+    "hero_icon_file_name": "hendrickson",
+    "hero_icon_name": "cut_in_special_hendrickson_0012_01",
+    "rotation_group": 10
+  },
+  {
+    "id": 29,
+    "gamble_group": 1002,
+    "skin_id": 310501,
+    "hero_icon_file_name": "kingfat",
+    "hero_icon_name": "cut_in_special_kingfat_0006_01",
+    "rotation_group": 10
+  },
+  {
+    "id": 30,
+    "gamble_group": 1002,
+    "skin_id": 310301,
+    "hero_icon_file_name": "dianesmall",
+    "hero_icon_name": "cut_in_special_dianesmall_0001_01",
+    "rotation_group": 10
+  }
+]

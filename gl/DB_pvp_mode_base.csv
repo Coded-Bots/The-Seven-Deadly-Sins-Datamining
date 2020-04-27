@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "DB_pvp_mode_name_001",
+    "explain": "DB_pvp_mode_desc_001",
+    "mode_icon": "icon_pvp_mode_001"
+  },
+  {
+    "id": 2,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "DB_pvp_mode_name_002",
+    "explain": "DB_pvp_mode_desc_002",
+    "mode_icon": "icon_pvp_mode_002"
+  },
+  {
+    "id": 3,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "DB_pvp_mode_name_003",
+    "explain": "DB_pvp_mode_desc_003",
+    "mode_icon": "icon_pvp_mode_003"
+  },
+  {
+    "id": 4,
+    "mode_type": "pvp_battle_passive_lock",
+    "mode_type_value": 0,
+    "name": "DB_pvp_mode_name_004",
+    "explain": "DB_pvp_mode_desc_004",
+    "mode_icon": "icon_pvp_mode_004"
+  },
+  {
+    "id": 5,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "DB_pvp_mode_name_005",
+    "explain": "DB_pvp_mode_desc_005",
+    "mode_icon": "icon_pvp_mode_005"
+  },
+  {
+    "id": 6,
+    "mode_type": "pvp_battle_control_limited_time",
+    "mode_type_value": 10,
+    "name": "DB_pvp_mode_name_006",
+    "explain": "DB_pvp_mode_desc_006",
+    "mode_icon": "icon_pvp_mode_006"
+  },
+  {
+    "id": 7,
+    "mode_type": "pvp_battle_set_atk_first_random",
+    "mode_type_value": 0,
+    "name": "DB_pvp_mode_name_007",
+    "explain": "DB_pvp_mode_desc_007",
+    "mode_icon": "icon_pvp_mode_007"
+  },
+  {
+    "id": 8,
+    "mode_type": "pvp_battle_hero_set_all",
+    "mode_type_value": 0,
+    "name": "DB_pvp_mode_name_008",
+    "explain": "DB_pvp_mode_desc_008",
+    "mode_icon": "icon_pvp_mode_008"
+  },
+  {
+    "id": 9,
+    "mode_type": "pvp_battle_sudden_death",
+    "mode_type_value": 3,
+    "name": "DB_pvp_mode_name_009",
+    "explain": "DB_pvp_mode_desc_009",
+    "mode_icon": "icon_pvp_mode_009"
+  },
+  {
+    "id": 10,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "DB_skill_passive_name_650071",
+    "explain": "DB_skill_passive_desc_650071",
+    "mode_icon": "icon_pvp_passive_005"
+  }
+]

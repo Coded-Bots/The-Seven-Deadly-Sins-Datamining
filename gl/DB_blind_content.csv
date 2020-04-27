@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "content_type": "area",
+    "content_id": 200602,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 15013
+  },
+  {
+    "id": 2,
+    "content_type": "area",
+    "content_id": 400801,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_end",
+    "blind_off_value": 16210
+  },
+  {
+    "id": 3,
+    "content_type": "area",
+    "content_id": 601201,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 16078
+  },
+  {
+    "id": 4,
+    "content_type": "area",
+    "content_id": 630402,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_end",
+    "blind_off_value": 16210
+  },
+  {
+    "id": 5,
+    "content_type": "area",
+    "content_id": 700501,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 17014
+  },
+  {
+    "id": 6,
+    "content_type": "area",
+    "content_id": 800101,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 17014
+  },
+  {
+    "id": 7,
+    "content_type": "area",
+    "content_id": 800301,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 18021
+  },
+  {
+    "id": 8,
+    "content_type": "area",
+    "content_id": 900501,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 19011
+  },
+  {
+    "id": 9,
+    "content_type": "area",
+    "content_id": 1000601,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 20064
+  },
+  {
+    "id": 10,
+    "content_type": "area",
+    "content_id": 1000501,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 20012
+  },
+  {
+    "id": 11,
+    "content_type": "area",
+    "content_id": 1100401,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 21012
+  },
+  {
+    "id": 12,
+    "content_type": "area",
+    "content_id": 1200501,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 22065
+  },
+  {
+    "id": 101,
+    "content_type": "journal",
+    "content_id": 601,
+    "taget_type": "story",
+    "target_id": 16030,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 16030
+  },
+  {
+    "id": 102,
+    "content_type": "journal",
+    "content_id": 601,
+    "taget_type": "side",
+    "target_id": 16601,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 16030
+  },
+  {
+    "id": 103,
+    "content_type": "journal",
+    "content_id": 9,
+    "taget_type": "guide",
+    "target_id": 301,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 16007
+  },
+  {
+    "id": 104,
+    "content_type": "journal",
+    "content_id": 10,
+    "taget_type": "guide",
+    "target_id": 291,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 16024
+  },
+  {
+    "id": 105,
+    "content_type": "journal",
+    "content_id": 21101,
+    "taget_type": "another",
+    "target_id": 111013,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 111013
+  },
+  {
+    "id": 106,
+    "content_type": "journal",
+    "content_id": 21102,
+    "taget_type": "another",
+    "target_id": 111013,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 111013
+  },
+  {
+    "id": 107,
+    "content_type": "journal",
+    "content_id": 1001,
+    "taget_type": "story",
+    "target_id": 20012,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 20012
+  },
+  {
+    "id": 1001,
+    "content_type": "stage",
+    "content_id": 112,
+    "taget_type": "another_main",
+    "target_id": 11100611,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 111013
+  },
+  {
+    "id": 1002,
+    "content_type": "stage",
+    "content_id": 112,
+    "taget_type": "another_main",
+    "target_id": 11100811,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 111016
+  }
+]

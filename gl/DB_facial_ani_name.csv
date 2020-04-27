@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "type": 2,
+    "facial_type_name": "story_agree",
+    "facial_name_local": "DB_hero_profile_ani_agree_01",
+    "sound_id": 0
+  },
+  {
+    "id": 2,
+    "type": 2,
+    "facial_type_name": "story_deny",
+    "facial_name_local": "DB_hero_profile_ani_deny_01",
+    "sound_id": 0
+  },
+  {
+    "id": 3,
+    "type": 2,
+    "facial_type_name": "story_sad",
+    "facial_name_local": "DB_hero_profile_ani_sad_01",
+    "sound_id": 0
+  },
+  {
+    "id": 4,
+    "type": 2,
+    "facial_type_name": "story_angry",
+    "facial_name_local": "DB_hero_profile_ani_angry_01",
+    "sound_id": 0
+  },
+  {
+    "id": 5,
+    "type": 2,
+    "facial_type_name": "story_embarrassed",
+    "facial_name_local": "DB_hero_profile_ani_embarrassed_01",
+    "sound_id": 0
+  }
+]

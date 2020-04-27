@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "control_type": "",
+    "stage_id": 0,
+    "guide_page_index": 1,
+    "pack_index": 1
+  },
+  {
+    "id": 2,
+    "control_type": "",
+    "stage_id": 300501,
+    "guide_page_index": 3,
+    "pack_index": 1
+  },
+  {
+    "id": 3,
+    "control_type": "",
+    "stage_id": 400691,
+    "guide_page_index": 4,
+    "pack_index": 2
+  },
+  {
+    "id": 4,
+    "control_type": "",
+    "stage_id": 500441,
+    "guide_page_index": 8,
+    "pack_index": 3
+  },
+  {
+    "id": 5,
+    "control_type": "destroy",
+    "stage_id": 0,
+    "guide_page_index": 9,
+    "pack_index": 3
+  },
+  {
+    "id": 6,
+    "control_type": "extra_siege_single",
+    "stage_id": 0,
+    "guide_page_index": 9,
+    "pack_index": 3
+  },
+  {
+    "id": 7,
+    "control_type": "boss",
+    "stage_id": 0,
+    "guide_page_index": 4,
+    "pack_index": 2
+  },
+  {
+    "id": 8,
+    "control_type": "extra",
+    "stage_id": 0,
+    "guide_page_index": 10,
+    "pack_index": 4
+  },
+  {
+    "id": 9,
+    "control_type": "memorial",
+    "stage_id": 0,
+    "guide_page_index": 11,
+    "pack_index": 4
+  },
+  {
+    "id": 10,
+    "control_type": "event_stage_free_experience",
+    "stage_id": 0,
+    "guide_page_index": 10,
+    "pack_index": 4
+  },
+  {
+    "id": 11,
+    "control_type": "final_boss",
+    "stage_id": 0,
+    "guide_page_index": 8,
+    "pack_index": 3
+  },
+  {
+    "id": 12,
+    "control_type": "event_destroy",
+    "stage_id": 0,
+    "guide_page_index": 8,
+    "pack_index": 3
+  }
+]
