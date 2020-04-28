@@ -1,0 +1,18 @@
+{
+    "android": {
+        "enable": true, 
+        "message_string": "ERROR_upper_allows_version", 
+        "start_utc": "Mon, 27 Apr 2020 03:00:00 GMT", 
+        "title_string": " ", 
+        "end_utc": "Mon, 27 Apr 2020 06:00:00 GMT", 
+        "print_period": true
+    }, 
+    "ios": {
+        "enable": true, 
+        "message_string": "ERROR_upper_allows_version", 
+        "start_utc": "Mon, 27 Apr 2020 03:00:00 GMT", 
+        "title_string": " ", 
+        "end_utc": "Mon, 27 Apr 2020 06:00:00 GMT", 
+        "print_period": true
+    }
+}

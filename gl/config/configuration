@@ -1,0 +1,150 @@
+{
+    "world2": {
+        "world_info": [
+            {
+                "ip": "gs-nanagb-real.netmarble.com", 
+                "region": "global", 
+                "world_id": "globallive", 
+                "name": "GLOBAL", 
+                "port": 23071
+            }, 
+            {
+                "ip": "gs-nanagb-real2.netmarble.com", 
+                "region": "asia", 
+                "world_id": "asialive", 
+                "name": "ASIA", 
+                "port": 23071
+            }
+        ]
+    }, 
+    "redirect": {
+        "android": {}, 
+        "ios": {}
+    }, 
+    "region": {
+        "asia": [
+            "AE", 
+            "AF", 
+            "AU", 
+            "BD", 
+            "BH", 
+            "BN", 
+            "BT", 
+            "CN", 
+            "GU", 
+            "HK", 
+            "ID", 
+            "IN", 
+            "IQ", 
+            "IR", 
+            "JO", 
+            "JP", 
+            "KG", 
+            "KH", 
+            "KP", 
+            "KR", 
+            "KW", 
+            "LA", 
+            "LB", 
+            "LK", 
+            "MM", 
+            "MN", 
+            "MO", 
+            "MP", 
+            "MV", 
+            "MY", 
+            "NP", 
+            "OM", 
+            "PH", 
+            "PK", 
+            "PS", 
+            "QA", 
+            "SA", 
+            "SG", 
+            "SY", 
+            "TH", 
+            "TJ", 
+            "TL", 
+            "TM", 
+            "TW", 
+            "UZ", 
+            "VN", 
+            "YD", 
+            "YE"
+        ]
+    }, 
+    "patch": {
+        "android": {
+            "timeout_sec": 15, 
+            "relative_sub": "_dptmzkshfm3vocl", 
+            "download_retry_times": 5, 
+            "version": "74"
+        }, 
+        "ios": {
+            "timeout_sec": 15, 
+            "relative_sub": "_dptmzkshfm3vocl", 
+            "download_retry_times": 5, 
+            "version": "74"
+        }
+    }, 
+    "version": {
+        "android": {
+            "forced_update": "1.0.2", 
+            "max_allows": "1.0.3", 
+            "recommended_update": ""
+        }, 
+        "ios": {
+            "forced_update": "1.0.2", 
+            "max_allows": "1.0.3", 
+            "recommended_update": ""
+        }
+    }, 
+    "contents": {
+        "android": {
+            "on_connect_facebook": true, 
+            "on_elizabeth_touch_interactive": false, 
+            "on_cooling_off": true, 
+            "fake_ad_location": 0, 
+            "check_security": true, 
+            "use_breadcrumb": true, 
+            "on_review": true, 
+            "update_due_date": "2019-06-19 05:00:00 GMT", 
+            "on_siwa": false, 
+            "is_realzone": true, 
+            "on_kochava": false, 
+            "use_coupon": true, 
+            "on_fake_ad": false, 
+            "on_tune": false, 
+            "on_induce_connect_channel": true, 
+            "use_crash_report": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "on_live_streaming_platform": false, 
+            "on_open_probability": true, 
+            "on_secret_mode": false
+        }, 
+        "ios": {
+            "on_connect_facebook": true, 
+            "on_elizabeth_touch_interactive": false, 
+            "on_cooling_off": true, 
+            "fake_ad_location": 0, 
+            "check_security": true, 
+            "use_breadcrumb": true, 
+            "on_review": true, 
+            "update_due_date": "2019-06-19 05:00:00 GMT", 
+            "on_siwa": true, 
+            "is_realzone": true, 
+            "on_kochava": false, 
+            "use_coupon": false, 
+            "on_fake_ad": false, 
+            "on_tune": false, 
+            "on_induce_connect_channel": true, 
+            "use_crash_report": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "on_live_streaming_platform": false, 
+            "on_open_probability": true, 
+            "on_secret_mode": false
+        }
+    }
+}
