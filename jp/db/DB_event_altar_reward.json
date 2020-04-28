@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "event_sub_index": 1000,
+    "reward_type": 0,
+    "reward_need_item_id": 910612,
+    "reward_need_item_count": 150,
+    "reward_item_id": 543203,
+    "reward_item_count": 25
+  },
+  {
+    "id": 2,
+    "event_sub_index": 1000,
+    "reward_type": 0,
+    "reward_need_item_id": 910613,
+    "reward_need_item_count": 150,
+    "reward_item_id": 543202,
+    "reward_item_count": 25
+  },
+  {
+    "id": 3,
+    "event_sub_index": 1000,
+    "reward_type": 0,
+    "reward_need_item_id": 910614,
+    "reward_need_item_count": 150,
+    "reward_item_id": 543201,
+    "reward_item_count": 25
+  },
+  {
+    "id": 4,
+    "event_sub_index": 1000,
+    "reward_type": 1,
+    "reward_need_item_id": 0,
+    "reward_need_item_count": 0,
+    "reward_item_id": 500011,
+    "reward_item_count": 10
+  }
+]

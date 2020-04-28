@@ -1,0 +1,24 @@
+[
+  {
+    "index": 1,
+    "tab": "Guild_Gold",
+    "donation_once_count": 10000,
+    "donation_once_guild_exp": 1,
+    "donation_once_guild_gold": 10,
+    "donation_once_contribution": 1,
+    "donation_once_guild_skill_point": 2,
+    "donation_count_daily_limit": 50,
+    "donation_count_reset_dia": 3
+  },
+  {
+    "index": 2,
+    "tab": "Guild_Evolution_Break",
+    "donation_once_count": 1,
+    "donation_once_guild_exp": 1,
+    "donation_once_guild_gold": 1,
+    "donation_once_contribution": 1,
+    "donation_once_guild_skill_point": 2,
+    "donation_count_daily_limit": 50,
+    "donation_count_reset_dia": 3
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "is_unlocked_lobby_ar_ios": 1,
+    "is_unlocked_lobby_ar_aos": 1,
+    "is_unlocked_ingame_ar_ios": 1,
+    "is_unlocked_ingame_ar_aos": 1,
+    "is_unlocked_lobby_ar_record": 1,
+    "android_min_api_level": 24
+  }
+]

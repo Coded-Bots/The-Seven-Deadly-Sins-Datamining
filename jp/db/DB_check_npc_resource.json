@@ -1,0 +1,1505 @@
+[
+  {
+    "id": 1,
+    "npc_id": 1,
+    "portrait_on": 1,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "elizabeth_0001"
+  },
+  {
+    "id": 2,
+    "npc_id": 2,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "hawk_0001"
+  },
+  {
+    "id": 3,
+    "npc_id": 3,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1.3,
+    "npc_portrait_base": "meliodas_0016"
+  },
+  {
+    "id": 4,
+    "npc_id": 6,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "2486",
+    "npc_portrait_size": 0.98,
+    "npc_portrait_base": "ban_0002"
+  },
+  {
+    "id": 5,
+    "npc_id": 7,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "king_0001"
+  },
+  {
+    "id": 6,
+    "npc_id": 8,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 0.5,
+    "npc_portrait_base": "diane_0001"
+  },
+  {
+    "id": 7,
+    "npc_id": 9,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1.1,
+    "npc_portrait_base": "gowther_0001"
+  },
+  {
+    "id": 8,
+    "npc_id": 10,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1.1,
+    "npc_portrait_base": "merlin_0013"
+  },
+  {
+    "id": 9,
+    "npc_id": 15,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 0.8,
+    "npc_portrait_base": "kingfat_0001"
+  },
+  {
+    "id": 10,
+    "npc_id": 18,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "elizabeth_0001"
+  },
+  {
+    "id": 11,
+    "npc_id": 21,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 0.88,
+    "npc_portrait_base": "helbram_fairy_0001"
+  },
+  {
+    "id": 12,
+    "npc_id": 23,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "13645",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_oslo_0001"
+  },
+  {
+    "id": 13,
+    "npc_id": 51,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "hawk_0001"
+  },
+  {
+    "id": 14,
+    "npc_id": 52,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "hawk_0001"
+  },
+  {
+    "id": 15,
+    "npc_id": 53,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "hawk_0001"
+  },
+  {
+    "id": 16,
+    "npc_id": 54,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "hawk_0001"
+  },
+  {
+    "id": 17,
+    "npc_id": 55,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 0.3,
+    "npc_portrait_base": "hawk_0001"
+  },
+  {
+    "id": 18,
+    "npc_id": 56,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14191",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_bna_mead_0001"
+  },
+  {
+    "id": 19,
+    "npc_id": 57,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14223",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_dead_ellen_0001"
+  },
+  {
+    "id": 20,
+    "npc_id": 58,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14224",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_dead_luigi_0001"
+  },
+  {
+    "id": 21,
+    "npc_id": 101,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14201",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_common_adult_0005"
+  },
+  {
+    "id": 22,
+    "npc_id": 104,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14193",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_bna_mead_mother_0010"
+  },
+  {
+    "id": 23,
+    "npc_id": 105,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14209",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_dmr_nurse_0001"
+  },
+  {
+    "id": 24,
+    "npc_id": 106,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14222",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_sennett_0001"
+  },
+  {
+    "id": 25,
+    "npc_id": 107,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14262",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "mountainman_0020"
+  },
+  {
+    "id": 26,
+    "npc_id": 108,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14261",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "mountainman_0020"
+  },
+  {
+    "id": 27,
+    "npc_id": 109,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14293",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "vaizel_fighter01_0001"
+  },
+  {
+    "id": 28,
+    "npc_id": 110,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14245",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "vaizeltaizoo_0001"
+  },
+  {
+    "id": 29,
+    "npc_id": 141,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14230",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "veronica_0001"
+  },
+  {
+    "id": 30,
+    "npc_id": 161,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14156",
+    "npc_portrait_size": 1.07,
+    "npc_portrait_base": "alioni_0001"
+  },
+  {
+    "id": 31,
+    "npc_id": 162,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14157",
+    "npc_portrait_size": 0.78,
+    "npc_portrait_base": "twigo_0011"
+  },
+  {
+    "id": 32,
+    "npc_id": 163,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14158",
+    "npc_portrait_size": 1.08,
+    "npc_portrait_base": "golgius_0011"
+  },
+  {
+    "id": 33,
+    "npc_id": 164,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14161",
+    "npc_portrait_size": 1.17,
+    "npc_portrait_base": "freisia_0011"
+  },
+  {
+    "id": 34,
+    "npc_id": 165,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14159",
+    "npc_portrait_size": 0.96,
+    "npc_portrait_base": "ruin_0001"
+  },
+  {
+    "id": 35,
+    "npc_id": 166,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14160",
+    "npc_portrait_size": 0.96,
+    "npc_portrait_base": "jude_0001"
+  },
+  {
+    "id": 36,
+    "npc_id": 167,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14151",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "guila_0013"
+  },
+  {
+    "id": 37,
+    "npc_id": 168,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14187",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "jericho_0002"
+  },
+  {
+    "id": 38,
+    "npc_id": 169,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14153",
+    "npc_portrait_size": 0.9,
+    "npc_portrait_base": "griamore_0001"
+  },
+  {
+    "id": 39,
+    "npc_id": 170,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14162",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "cain_0001"
+  },
+  {
+    "id": 40,
+    "npc_id": 171,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14163",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "marmas_0001"
+  },
+  {
+    "id": 41,
+    "npc_id": 301,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14194",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "humanbasics_pig_0010"
+  },
+  {
+    "id": 42,
+    "npc_id": 301,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14284",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "humanbasics_pig_0010"
+  },
+  {
+    "id": 43,
+    "npc_id": 302,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14195",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "humanbasics_normal_0010"
+  },
+  {
+    "id": 44,
+    "npc_id": 303,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14199",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "leopardcat_0030"
+  },
+  {
+    "id": 45,
+    "npc_id": 304,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14181",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "hawk_0001"
+  },
+  {
+    "id": 46,
+    "npc_id": 305,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14177",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "elizabeth_0001"
+  },
+  {
+    "id": 47,
+    "npc_id": 306,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14196",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_bna_thundersword_0001"
+  },
+  {
+    "id": 48,
+    "npc_id": 309,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14279",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_0005_s"
+  },
+  {
+    "id": 49,
+    "npc_id": 310,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14192",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_short001_0020_s"
+  },
+  {
+    "id": 50,
+    "npc_id": 312,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14179",
+    "npc_portrait_size": 0.5,
+    "npc_portrait_base": "npc_base_man_tall002_0030_s"
+  },
+  {
+    "id": 51,
+    "npc_id": 313,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14208",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "ghola_0020_s"
+  },
+  {
+    "id": 52,
+    "npc_id": 314,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14216",
+    "npc_portrait_size": 1.08,
+    "npc_portrait_base": "npc_tourist_0001_s"
+  },
+  {
+    "id": 53,
+    "npc_id": 316,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14183",
+    "npc_portrait_size": 0.98,
+    "npc_portrait_base": "npc_drug_0001_s"
+  },
+  {
+    "id": 54,
+    "npc_id": 317,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14326",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_dealer_short001_0020_s"
+  },
+  {
+    "id": 55,
+    "npc_id": 319,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14311",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_woman_0003_s"
+  },
+  {
+    "id": 56,
+    "npc_id": 320,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14287",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_oldman_0010_s"
+  },
+  {
+    "id": 57,
+    "npc_id": 320,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14219",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_tall001_0010_s"
+  },
+  {
+    "id": 58,
+    "npc_id": 321,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14221",
+    "npc_portrait_size": 1.12,
+    "npc_portrait_base": "npc_blindman_0010_s"
+  },
+  {
+    "id": 59,
+    "npc_id": 324,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14226",
+    "npc_portrait_size": 1.15,
+    "npc_portrait_base": "npc_base_woman_0004_s"
+  },
+  {
+    "id": 60,
+    "npc_id": 325,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14227",
+    "npc_portrait_size": 1.1,
+    "npc_portrait_base": "gowther_0001"
+  },
+  {
+    "id": 61,
+    "npc_id": 326,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14228",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "howzer_0001"
+  },
+  {
+    "id": 62,
+    "npc_id": 329,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14231",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_love_helm_0001"
+  },
+  {
+    "id": 63,
+    "npc_id": 330,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14232",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "cain_0001"
+  },
+  {
+    "id": 64,
+    "npc_id": 332,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14234",
+    "npc_portrait_size": 1.1,
+    "npc_portrait_base": "gowther_0001"
+  },
+  {
+    "id": 65,
+    "npc_id": 337,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14238",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "margaret_0001"
+  },
+  {
+    "id": 66,
+    "npc_id": 338,
+    "portrait_on": 1,
+    "facial_on": 0,
+    "npc_name_localize": "14337",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "arthur_0001"
+  },
+  {
+    "id": 67,
+    "npc_id": 339,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14240",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "gil_thunder_0012"
+  },
+  {
+    "id": 68,
+    "npc_id": 340,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14241",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_bartra_0001"
+  },
+  {
+    "id": 69,
+    "npc_id": 341,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_common_adult_0005"
+  },
+  {
+    "id": 70,
+    "npc_id": 342,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14294",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_short001_0020_s"
+  },
+  {
+    "id": 71,
+    "npc_id": 343,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14297",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_tall002_0030_s"
+  },
+  {
+    "id": 72,
+    "npc_id": 344,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14295",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "ghola_0020_s"
+  },
+  {
+    "id": 73,
+    "npc_id": 348,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14290",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_tourist_0001_s"
+  },
+  {
+    "id": 74,
+    "npc_id": 349,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14291",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_drug_0001_s"
+  },
+  {
+    "id": 75,
+    "npc_id": 350,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14296",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_dealer_short001_0020_s"
+  },
+  {
+    "id": 76,
+    "npc_id": 354,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "16459",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "vaizeltaizoo_0001"
+  },
+  {
+    "id": 77,
+    "npc_id": 355,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14302",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_woman_0003_s"
+  },
+  {
+    "id": 78,
+    "npc_id": 356,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14303",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_oldman_0010_s"
+  },
+  {
+    "id": 79,
+    "npc_id": 357,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14304",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_tall001_0010_s"
+  },
+  {
+    "id": 80,
+    "npc_id": 359,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14306",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_blindman_0010_s"
+  },
+  {
+    "id": 81,
+    "npc_id": 360,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14307",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_woman_0004_s"
+  },
+  {
+    "id": 82,
+    "npc_id": 361,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14308",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_dealer_short001_0020_s"
+  },
+  {
+    "id": 83,
+    "npc_id": 363,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14310",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_oldwoman_0010_s"
+  },
+  {
+    "id": 84,
+    "npc_id": 365,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14298",
+    "npc_portrait_size": 1.15,
+    "npc_portrait_base": "dianesmall_0002"
+  },
+  {
+    "id": 85,
+    "npc_id": 366,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14317",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_tourist_0001_s"
+  },
+  {
+    "id": 86,
+    "npc_id": 367,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14318",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_woman_fat_0010_s"
+  },
+  {
+    "id": 87,
+    "npc_id": 368,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14323",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_common_child_0003"
+  },
+  {
+    "id": 88,
+    "npc_id": 369,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14319",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_tall002_0030_s"
+  },
+  {
+    "id": 89,
+    "npc_id": 370,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14321",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_man_knight_0010_s"
+  },
+  {
+    "id": 90,
+    "npc_id": 371,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14322",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_tourist_0002_s"
+  },
+  {
+    "id": 91,
+    "npc_id": 372,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14320",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_0008_s"
+  },
+  {
+    "id": 92,
+    "npc_id": 373,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14324",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_common_adult_0004"
+  },
+  {
+    "id": 93,
+    "npc_id": 374,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14325",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "bug03_0010"
+  },
+  {
+    "id": 94,
+    "npc_id": 375,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14327",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_tourist_0002_s"
+  },
+  {
+    "id": 95,
+    "npc_id": 376,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14328",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_woman_tall001_0010_s"
+  },
+  {
+    "id": 96,
+    "npc_id": 377,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14329",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_0003_s"
+  },
+  {
+    "id": 97,
+    "npc_id": 378,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14330",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_0001_s"
+  },
+  {
+    "id": 98,
+    "npc_id": 381,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14332",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_woman_tall002_0020_s"
+  },
+  {
+    "id": 99,
+    "npc_id": 383,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14334",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_short001_0020_s"
+  },
+  {
+    "id": 100,
+    "npc_id": 388,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14335",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_dealer_tall001_0010_s"
+  },
+  {
+    "id": 101,
+    "npc_id": 388,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14225",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_dealer_tall001_0010_s"
+  },
+  {
+    "id": 102,
+    "npc_id": 393,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14331",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_bna_village_chief_0001_s"
+  },
+  {
+    "id": 103,
+    "npc_id": 400,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14210",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_girl_0001_s"
+  },
+  {
+    "id": 104,
+    "npc_id": 402,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14292",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_man_0002_s"
+  },
+  {
+    "id": 105,
+    "npc_id": 418,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14292",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "npc_base_woman_short001_0030_s"
+  },
+  {
+    "id": 106,
+    "npc_id": 420,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14177",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "elizabeth_0001"
+  },
+  {
+    "id": 107,
+    "npc_id": 428,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14312",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_hero_wolfsword_0010_s"
+  },
+  {
+    "id": 108,
+    "npc_id": 59,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14235",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_vivian_0011_s"
+  },
+  {
+    "id": 109,
+    "npc_id": 102,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14201",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_common_adult_0001_s"
+  },
+  {
+    "id": 110,
+    "npc_id": 103,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14201",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_common_adult02_s"
+  },
+  {
+    "id": 111,
+    "npc_id": 172,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14236",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_slader_0011_s"
+  },
+  {
+    "id": 112,
+    "npc_id": 173,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14249",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_simon_0011_s"
+  },
+  {
+    "id": 113,
+    "npc_id": 174,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14254",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_jillian_0011_s"
+  },
+  {
+    "id": 114,
+    "npc_id": 175,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14253",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_hugo_0011_s"
+  },
+  {
+    "id": 115,
+    "npc_id": 176,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14255",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_weinheidt_0011_s"
+  },
+  {
+    "id": 116,
+    "npc_id": 179,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14164",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_gustaf_0011_s"
+  },
+  {
+    "id": 117,
+    "npc_id": 180,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14166",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_hendrickson_0011_s"
+  },
+  {
+    "id": 118,
+    "npc_id": 181,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14167",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_dreyfus_0011_s"
+  },
+  {
+    "id": 119,
+    "npc_id": 308,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36774",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_base_man_0004_s"
+  },
+  {
+    "id": 120,
+    "npc_id": 333,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14235",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_vivian_0011_s"
+  },
+  {
+    "id": 121,
+    "npc_id": 334,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14091",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_slader_0011_s"
+  },
+  {
+    "id": 122,
+    "npc_id": 379,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36775",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_marchant_0001_s"
+  },
+  {
+    "id": 123,
+    "npc_id": 390,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36776",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_base_boy_0001_s"
+  },
+  {
+    "id": 124,
+    "npc_id": 391,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36777",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_base_boy_0002_s"
+  },
+  {
+    "id": 125,
+    "npc_id": 392,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14212",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_base_boy_0003_s"
+  },
+  {
+    "id": 126,
+    "npc_id": 394,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36778",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_liones_adult_0001_s"
+  },
+  {
+    "id": 127,
+    "npc_id": 395,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36779",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_liones_adult_0002_s"
+  },
+  {
+    "id": 128,
+    "npc_id": 396,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14217",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_liones_adult_0003_s"
+  },
+  {
+    "id": 129,
+    "npc_id": 404,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14201",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_common_adult_0001_s"
+  },
+  {
+    "id": 130,
+    "npc_id": 405,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14201",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_common_adult03_s"
+  },
+  {
+    "id": 131,
+    "npc_id": 406,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36780",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_base_man_0006_s"
+  },
+  {
+    "id": 132,
+    "npc_id": 407,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36781",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_common_child_0001_s"
+  },
+  {
+    "id": 133,
+    "npc_id": 408,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36782",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_elf_child_0001_s"
+  },
+  {
+    "id": 134,
+    "npc_id": 409,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36783",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_elf_child_0002_s"
+  },
+  {
+    "id": 135,
+    "npc_id": 410,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36784",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_elf_child_0003_s"
+  },
+  {
+    "id": 136,
+    "npc_id": 411,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36785",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_elf_child_0004_s"
+  },
+  {
+    "id": 137,
+    "npc_id": 412,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36786",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_elf_grandpa_0001_s"
+  },
+  {
+    "id": 138,
+    "npc_id": 413,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36787",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_howzer_father_0001_s"
+  },
+  {
+    "id": 139,
+    "npc_id": 414,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36788",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_hunterman_0001_s"
+  },
+  {
+    "id": 140,
+    "npc_id": 415,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36789",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_hunterman_0002_s"
+  },
+  {
+    "id": 141,
+    "npc_id": 416,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36790",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_hunterman_0003_s"
+  },
+  {
+    "id": 142,
+    "npc_id": 417,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36791",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_hunterman_wife_0001_s"
+  },
+  {
+    "id": 143,
+    "npc_id": 431,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14336",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_hendrickson_0011_s"
+  },
+  {
+    "id": 144,
+    "npc_id": 434,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14235",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_vivian_0011_s"
+  },
+  {
+    "id": 145,
+    "npc_id": 438,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36792",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_dreyfus_0011_s"
+  },
+  {
+    "id": 146,
+    "npc_id": 439,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14299",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_liones_zeal_0001_s"
+  },
+  {
+    "id": 147,
+    "npc_id": 441,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36793",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_helbram_0001_s"
+  },
+  {
+    "id": 148,
+    "npc_id": 442,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14340",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_helbram_0001_s"
+  },
+  {
+    "id": 149,
+    "npc_id": 447,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14338",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_dreyfus_0011_s"
+  },
+  {
+    "id": 150,
+    "npc_id": 455,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36794",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_hendrickson_0013_s"
+  },
+  {
+    "id": 151,
+    "npc_id": 456,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14336",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_hendrickson_0013_s"
+  },
+  {
+    "id": 152,
+    "npc_id": 460,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14336",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_hendrickson_0011_s"
+  },
+  {
+    "id": 153,
+    "npc_id": 461,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36795",
+    "npc_portrait_size": 0.3,
+    "npc_portrait_base": "icon_quest_hero_demon_knight01_0001_s"
+  },
+  {
+    "id": 154,
+    "npc_id": 462,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36796",
+    "npc_portrait_size": 0.3,
+    "npc_portrait_base": "icon_quest_hero_demon_knight06_0001_s"
+  },
+  {
+    "id": 155,
+    "npc_id": 463,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14299",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_liones_zeal_0001_s"
+  },
+  {
+    "id": 156,
+    "npc_id": 468,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14233",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_humanbasics_0090_s"
+  },
+  {
+    "id": 157,
+    "npc_id": 471,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_hero_humanbasics_0090_s"
+  },
+  {
+    "id": 158,
+    "npc_id": 472,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_hero_humanbasics_0090_s"
+  },
+  {
+    "id": 159,
+    "npc_id": 1003,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36797",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": ""
+  },
+  {
+    "id": 160,
+    "npc_id": 1004,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36798",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": ""
+  },
+  {
+    "id": 161,
+    "npc_id": 499,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14382",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_groom_0001_s"
+  },
+  {
+    "id": 162,
+    "npc_id": 500,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14383",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_bride_0001_s"
+  },
+  {
+    "id": 163,
+    "npc_id": 502,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14385",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_carpenter_0001_s"
+  },
+  {
+    "id": 164,
+    "npc_id": 522,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14468",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_npc_liones_women_0001_s"
+  },
+  {
+    "id": 165,
+    "npc_id": 535,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14477",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_pelliot_0001_s"
+  },
+  {
+    "id": 166,
+    "npc_id": 543,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "36799",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": ""
+  },
+  {
+    "id": 167,
+    "npc_id": 521,
+    "portrait_on": 0,
+    "facial_on": 0,
+    "npc_name_localize": "14470",
+    "npc_portrait_size": 1,
+    "npc_portrait_base": "icon_quest_hero_humanbasics_sorcerer_0020_s"
+  }
+]

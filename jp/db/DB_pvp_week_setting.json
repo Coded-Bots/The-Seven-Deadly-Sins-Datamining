@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "week_group_id": 1,
+    "pvp_passive_id": 650077,
+    "pvp_mode_id": 12,
+    "pvp_passive_icon": "icon_pvp_passive_006"
+  },
+  {
+    "id": 2,
+    "week_group_id": 2,
+    "pvp_passive_id": 650006,
+    "pvp_mode_id": 4,
+    "pvp_passive_icon": "icon_pvp_passive_002"
+  },
+  {
+    "id": 3,
+    "week_group_id": 3,
+    "pvp_passive_id": 650071,
+    "pvp_mode_id": 3,
+    "pvp_passive_icon": "icon_pvp_passive_005"
+  },
+  {
+    "id": 4,
+    "week_group_id": 4,
+    "pvp_passive_id": 650072,
+    "pvp_mode_id": 4,
+    "pvp_passive_icon": "icon_pvp_passive_006"
+  },
+  {
+    "id": 5,
+    "week_group_id": 5,
+    "pvp_passive_id": 650003,
+    "pvp_mode_id": 9,
+    "pvp_passive_icon": "icon_pvp_passive_003"
+  },
+  {
+    "id": 6,
+    "week_group_id": 6,
+    "pvp_passive_id": 650003,
+    "pvp_mode_id": 4,
+    "pvp_passive_icon": "icon_pvp_passive_003"
+  },
+  {
+    "id": 7,
+    "week_group_id": 7,
+    "pvp_passive_id": 650003,
+    "pvp_mode_id": 5,
+    "pvp_passive_icon": "icon_pvp_passive_003"
+  },
+  {
+    "id": 8,
+    "week_group_id": 8,
+    "pvp_passive_id": 650003,
+    "pvp_mode_id": 10,
+    "pvp_passive_icon": "icon_pvp_passive_003"
+  }
+]

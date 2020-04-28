@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2260102,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_03",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_04",
+    "destroy_strong_skill_desc": "DB_destroy_skill_01",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_001",
+    "destroy_skill_desc": "DB_destroy_skill_desc_001",
+    "destroy_passive_desc": "DB_destroy_passive_desc_001",
+    "destroy_idle_path": "hero_red_demon/ani/reddemon_phase01/_common"
+  },
+  {
+    "id": 2260103,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_03",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_04",
+    "destroy_strong_skill_desc": "DB_destroy_skill_01",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_002",
+    "destroy_skill_desc": "DB_destroy_skill_desc_002",
+    "destroy_passive_desc": "DB_destroy_passive_desc_002",
+    "destroy_idle_path": "hero_red_demon/ani/reddemon_phase02/_common"
+  },
+  {
+    "id": 2260104,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_03",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_04",
+    "destroy_strong_skill_desc": "DB_destroy_skill_01",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_003",
+    "destroy_skill_desc": "DB_destroy_skill_desc_003",
+    "destroy_passive_desc": "DB_destroy_passive_desc_003",
+    "destroy_idle_path": "hero_red_demon/ani/reddemon_phase03/_common"
+  },
+  {
+    "id": 2260106,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_03",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_02",
+    "destroy_strong_skill_desc": "DB_destroy_skill_02",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_004",
+    "destroy_skill_desc": "DB_destroy_skill_desc_004",
+    "destroy_passive_desc": "DB_destroy_passive_desc_004",
+    "destroy_idle_path": "hero_gray_demon/ani/graydemon_phase01/_common"
+  },
+  {
+    "id": 2260107,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_03",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_02",
+    "destroy_strong_skill_desc": "DB_destroy_skill_02",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_005",
+    "destroy_skill_desc": "DB_destroy_skill_desc_005",
+    "destroy_passive_desc": "DB_destroy_passive_desc_005",
+    "destroy_idle_path": "hero_gray_demon/ani/graydemon_phase02/_common"
+  },
+  {
+    "id": 2260108,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_03",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_02",
+    "destroy_strong_skill_desc": "DB_destroy_skill_02",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_006",
+    "destroy_skill_desc": "DB_destroy_skill_desc_006",
+    "destroy_passive_desc": "DB_destroy_passive_desc_006",
+    "destroy_idle_path": "hero_gray_demon/ani/graydemon_phase03/_common"
+  },
+  {
+    "id": 2260126,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_01",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_05",
+    "destroy_strong_skill_desc": "DB_destroy_skill_03",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_007",
+    "destroy_skill_desc": "DB_destroy_skill_desc_007",
+    "destroy_passive_desc": "DB_destroy_passive_desc_007",
+    "destroy_idle_path": "hero_crimson_demon/ani/crimsondemon_phase01/_common"
+  },
+  {
+    "id": 2260127,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_01",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_05",
+    "destroy_strong_skill_desc": "DB_destroy_skill_03",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_008",
+    "destroy_skill_desc": "DB_destroy_skill_desc_008",
+    "destroy_passive_desc": "DB_destroy_passive_desc_008",
+    "destroy_idle_path": "hero_crimson_demon/ani/crimsondemon_phase02/_common"
+  },
+  {
+    "id": 2260128,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_01",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_05",
+    "destroy_strong_skill_desc": "DB_destroy_skill_03",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_009",
+    "destroy_skill_desc": "DB_destroy_skill_desc_009",
+    "destroy_passive_desc": "DB_destroy_passive_desc_009",
+    "destroy_idle_path": "hero_crimson_demon/ani/crimsondemon_phase03/_common"
+  }
+]

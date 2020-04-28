@@ -1,0 +1,37 @@
+[
+  {
+    "rating": 0,
+    "normal_slot": 0,
+    "special_slot": 0
+  },
+  {
+    "rating": 1,
+    "normal_slot": 0,
+    "special_slot": 0
+  },
+  {
+    "rating": 2,
+    "normal_slot": 0,
+    "special_slot": 0
+  },
+  {
+    "rating": 3,
+    "normal_slot": 100,
+    "special_slot": 0
+  },
+  {
+    "rating": 4,
+    "normal_slot": 0,
+    "special_slot": 60
+  },
+  {
+    "rating": 5,
+    "normal_slot": 0,
+    "special_slot": 30
+  },
+  {
+    "rating": 6,
+    "normal_slot": 0,
+    "special_slot": 10
+  }
+]

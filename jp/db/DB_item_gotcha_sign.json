@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "sign": "start_box",
+    "sign_rate_1": 20,
+    "sign_rate_2": 80
+  },
+  {
+    "id": 2,
+    "sign": "gold",
+    "sign_rate_1": 30,
+    "sign_rate_2": 70
+  },
+  {
+    "id": 3,
+    "sign": "platinum",
+    "sign_rate_1": 30,
+    "sign_rate_2": 70
+  },
+  {
+    "id": 101,
+    "sign": "start_box",
+    "sign_rate_1": 20,
+    "sign_rate_2": 80
+  },
+  {
+    "id": 102,
+    "sign": "gold",
+    "sign_rate_1": 30,
+    "sign_rate_2": 70
+  },
+  {
+    "id": 103,
+    "sign": "platinum",
+    "sign_rate_1": 30,
+    "sign_rate_2": 70
+  }
+]

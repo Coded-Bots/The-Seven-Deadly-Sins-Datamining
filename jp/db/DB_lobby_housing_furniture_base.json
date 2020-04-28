@@ -1,0 +1,677 @@
+[
+  {
+    "id": 15000001,
+    "default_check": 1,
+    "furniture_group": 1,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_001",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000011,
+    "default_check": 1,
+    "furniture_group": 2,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_002",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15000021,
+    "default_check": 1,
+    "furniture_group": 3,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_003",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000031,
+    "default_check": 1,
+    "furniture_group": 4,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_004",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000041,
+    "default_check": 1,
+    "furniture_group": 5,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_005",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000051,
+    "default_check": 1,
+    "furniture_group": 6,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_006",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000061,
+    "default_check": 1,
+    "furniture_group": 7,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_007",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15000071,
+    "default_check": 1,
+    "furniture_group": 8,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_008",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000081,
+    "default_check": 1,
+    "furniture_group": 9,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_009",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000091,
+    "default_check": 1,
+    "furniture_group": 10,
+    "furniture_path": "Lobby/housing/group00/prefabs/",
+    "furniture_resource": "lobby_housing_group00_010",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000101,
+    "default_check": 0,
+    "furniture_group": 1,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_001",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000111,
+    "default_check": 0,
+    "furniture_group": 2,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_002",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15000121,
+    "default_check": 0,
+    "furniture_group": 3,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_003",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000131,
+    "default_check": 0,
+    "furniture_group": 4,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_004",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000141,
+    "default_check": 0,
+    "furniture_group": 5,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_005",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000151,
+    "default_check": 0,
+    "furniture_group": 6,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_006",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000161,
+    "default_check": 0,
+    "furniture_group": 7,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_007",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000171,
+    "default_check": 0,
+    "furniture_group": 8,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_008",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000181,
+    "default_check": 0,
+    "furniture_group": 9,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_009",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000191,
+    "default_check": 0,
+    "furniture_group": 10,
+    "furniture_path": "Lobby/housing/group01/prefabs/",
+    "furniture_resource": "lobby_housing_group01_010",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050311,
+    "default_check": 0,
+    "furniture_group": 2,
+    "furniture_path": "Lobby/housing/group08/prefabs/",
+    "furniture_resource": "lobby_housing_group08_002",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15050331,
+    "default_check": 0,
+    "furniture_group": 4,
+    "furniture_path": "Lobby/housing/group08/prefabs/",
+    "furniture_resource": "lobby_housing_group08_004",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050341,
+    "default_check": 0,
+    "furniture_group": 5,
+    "furniture_path": "Lobby/housing/group08/prefabs/",
+    "furniture_resource": "lobby_housing_group08_005",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050351,
+    "default_check": 0,
+    "furniture_group": 6,
+    "furniture_path": "Lobby/housing/group08/prefabs/",
+    "furniture_resource": "lobby_housing_group08_006",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050381,
+    "default_check": 0,
+    "furniture_group": 9,
+    "furniture_path": "Lobby/housing/group08/prefabs/",
+    "furniture_resource": "lobby_housing_group08_009",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000301,
+    "default_check": 0,
+    "furniture_group": 1,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_001",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000311,
+    "default_check": 0,
+    "furniture_group": 2,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_002",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15000321,
+    "default_check": 0,
+    "furniture_group": 3,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_003",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000331,
+    "default_check": 0,
+    "furniture_group": 4,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_004",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000341,
+    "default_check": 0,
+    "furniture_group": 5,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_005",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000351,
+    "default_check": 0,
+    "furniture_group": 6,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_006",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000361,
+    "default_check": 0,
+    "furniture_group": 7,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_007",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000371,
+    "default_check": 0,
+    "furniture_group": 8,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_008",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000381,
+    "default_check": 0,
+    "furniture_group": 9,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_009",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15000391,
+    "default_check": 0,
+    "furniture_group": 10,
+    "furniture_path": "Lobby/housing/group03/prefabs/",
+    "furniture_resource": "lobby_housing_group03_010",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050101,
+    "default_check": 0,
+    "furniture_group": 1,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_001",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050111,
+    "default_check": 0,
+    "furniture_group": 2,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_002",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15050121,
+    "default_check": 0,
+    "furniture_group": 3,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_003",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050131,
+    "default_check": 0,
+    "furniture_group": 4,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_004",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050141,
+    "default_check": 0,
+    "furniture_group": 5,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_005",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050151,
+    "default_check": 0,
+    "furniture_group": 6,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_006",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050161,
+    "default_check": 0,
+    "furniture_group": 7,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_007",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050171,
+    "default_check": 0,
+    "furniture_group": 8,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_008",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050181,
+    "default_check": 0,
+    "furniture_group": 9,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_009",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050191,
+    "default_check": 0,
+    "furniture_group": 10,
+    "furniture_path": "Lobby/housing/group06/prefabs/",
+    "furniture_resource": "lobby_housing_group06_010",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050201,
+    "default_check": 0,
+    "furniture_group": 1,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_001",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050211,
+    "default_check": 0,
+    "furniture_group": 2,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_002",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15050221,
+    "default_check": 0,
+    "furniture_group": 3,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_003",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050231,
+    "default_check": 0,
+    "furniture_group": 4,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_004",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050241,
+    "default_check": 0,
+    "furniture_group": 5,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_005",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050251,
+    "default_check": 0,
+    "furniture_group": 6,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_006",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050261,
+    "default_check": 0,
+    "furniture_group": 7,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_007",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050271,
+    "default_check": 0,
+    "furniture_group": 8,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_008",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050281,
+    "default_check": 0,
+    "furniture_group": 9,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_009",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050291,
+    "default_check": 0,
+    "furniture_group": 10,
+    "furniture_path": "Lobby/housing/group07/prefabs/",
+    "furniture_resource": "lobby_housing_group07_010",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050401,
+    "default_check": 0,
+    "furniture_group": 1,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_001",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050411,
+    "default_check": 0,
+    "furniture_group": 2,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_002",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15050421,
+    "default_check": 0,
+    "furniture_group": 3,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_003",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050431,
+    "default_check": 0,
+    "furniture_group": 4,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_004",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050441,
+    "default_check": 0,
+    "furniture_group": 5,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_005",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050451,
+    "default_check": 0,
+    "furniture_group": 6,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_006",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050461,
+    "default_check": 0,
+    "furniture_group": 7,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_007",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050471,
+    "default_check": 0,
+    "furniture_group": 8,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_008",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050481,
+    "default_check": 0,
+    "furniture_group": 9,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_009",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050491,
+    "default_check": 0,
+    "furniture_group": 10,
+    "furniture_path": "Lobby/housing/group09/prefabs/",
+    "furniture_resource": "lobby_housing_group09_010",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050501,
+    "default_check": 0,
+    "furniture_group": 1,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_001",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050511,
+    "default_check": 0,
+    "furniture_group": 2,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_002",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15050521,
+    "default_check": 0,
+    "furniture_group": 3,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_003",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050531,
+    "default_check": 0,
+    "furniture_group": 4,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_004",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050541,
+    "default_check": 0,
+    "furniture_group": 5,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_005",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050551,
+    "default_check": 0,
+    "furniture_group": 6,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_006",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050561,
+    "default_check": 0,
+    "furniture_group": 7,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_007",
+    "furniture_ani": "",
+    "use_night": 1
+  },
+  {
+    "id": 15050571,
+    "default_check": 0,
+    "furniture_group": 8,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_008",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050581,
+    "default_check": 0,
+    "furniture_group": 9,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_009",
+    "furniture_ani": "",
+    "use_night": 0
+  },
+  {
+    "id": 15050591,
+    "default_check": 0,
+    "furniture_group": 10,
+    "furniture_path": "Lobby/housing/group10/prefabs/",
+    "furniture_resource": "lobby_housing_group10_010",
+    "furniture_ani": "",
+    "use_night": 0
+  }
+]

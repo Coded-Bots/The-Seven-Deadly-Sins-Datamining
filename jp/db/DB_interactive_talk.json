@@ -1,0 +1,5693 @@
+[
+  {
+    "id": 1,
+    "type": "diane_touch_head_01",
+    "animation": "lobby_stroke_shy",
+    "answer_string": "36014",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2,
+    "type": "diane_touch_head_02",
+    "animation": "lobby_stroke_shy",
+    "answer_string": "36015",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3,
+    "type": "diane_touch_head_03",
+    "animation": "lobby_stroke_shy",
+    "answer_string": "36016",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4,
+    "type": "diane_touch_head_04",
+    "animation": "lobby_stroke_shy",
+    "answer_string": "36017",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5,
+    "type": "diane_touch_head_05",
+    "animation": "lobby_stroke_shy",
+    "answer_string": "36018",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6,
+    "type": "diane_touch_tired_01",
+    "animation": "lobby_stroke_pokerface",
+    "answer_string": "36019",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7,
+    "type": "diane_touch_tired_02",
+    "animation": "lobby_stroke_pokerface",
+    "answer_string": "36020",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 8,
+    "type": "diane_touch_tired_03",
+    "animation": "lobby_stroke_pokerface",
+    "answer_string": "36021",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 9,
+    "type": "diane_touch_tired_04",
+    "animation": "lobby_stroke_pokerface",
+    "answer_string": "36022",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 10,
+    "type": "diane_touch_tired_05",
+    "animation": "lobby_stroke_pokerface",
+    "answer_string": "36023",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 11,
+    "type": "diane_touch_angry_01",
+    "animation": "lobby_stroke_angry",
+    "answer_string": "35979",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 30,
+    "type": "elizabeth_zoomin_01",
+    "animation": "lobby_idle02",
+    "answer_string": "36101",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 31,
+    "type": "elizabeth_zoomin_02",
+    "animation": "lobby_idle02",
+    "answer_string": "36102",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 32,
+    "type": "elizabeth_zoomin_03",
+    "animation": "lobby_idle02",
+    "answer_string": "36103",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 33,
+    "type": "elizabeth_touch_head_01",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36089",
+    "voice_sound_id": 41001
+  },
+  {
+    "id": 34,
+    "type": "elizabeth_touch_head_02",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36090",
+    "voice_sound_id": 41002
+  },
+  {
+    "id": 35,
+    "type": "elizabeth_touch_head_03",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36091",
+    "voice_sound_id": 41003
+  },
+  {
+    "id": 36,
+    "type": "elizabeth_touch_head_04",
+    "animation": "lobby_talk",
+    "answer_string": "36092",
+    "voice_sound_id": 41004
+  },
+  {
+    "id": 37,
+    "type": "elizabeth_touch_head_05",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36093",
+    "voice_sound_id": 41005
+  },
+  {
+    "id": 38,
+    "type": "elizabeth_touch_head_06",
+    "animation": "lobby_talk",
+    "answer_string": "36094",
+    "voice_sound_id": 41006
+  },
+  {
+    "id": 39,
+    "type": "elizabeth_touch_body_01",
+    "animation": "lobby_touch_body01",
+    "answer_string": "36027",
+    "voice_sound_id": 41007
+  },
+  {
+    "id": 40,
+    "type": "elizabeth_touch_body_02",
+    "animation": "lobby_touch_body01",
+    "answer_string": "36028",
+    "voice_sound_id": 41008
+  },
+  {
+    "id": 41,
+    "type": "elizabeth_touch_body_03",
+    "animation": "lobby_touch_body01",
+    "answer_string": "36029",
+    "voice_sound_id": 41009
+  },
+  {
+    "id": 42,
+    "type": "elizabeth_touch_body_04",
+    "animation": "lobby_touch_body01",
+    "answer_string": "36030",
+    "voice_sound_id": 41010
+  },
+  {
+    "id": 43,
+    "type": "elizabeth_touch_bodyshy_01",
+    "animation": "lobby_touch_body01",
+    "answer_string": "36031",
+    "voice_sound_id": 41011
+  },
+  {
+    "id": 44,
+    "type": "elizabeth_touch_skirt_01",
+    "animation": "lobby_touch_skirt01",
+    "answer_string": "36095",
+    "voice_sound_id": 41012
+  },
+  {
+    "id": 45,
+    "type": "elizabeth_touch_skirt_02",
+    "animation": "lobby_touch_skirt01",
+    "answer_string": "36096",
+    "voice_sound_id": 41013
+  },
+  {
+    "id": 46,
+    "type": "elizabeth_touch_skirt_03",
+    "animation": "lobby_touch_body01",
+    "answer_string": "36097",
+    "voice_sound_id": 41014
+  },
+  {
+    "id": 47,
+    "type": "elizabeth_touch_skirtshy_01",
+    "animation": "lobby_touch_skirt01",
+    "answer_string": "36098",
+    "voice_sound_id": 41015
+  },
+  {
+    "id": 48,
+    "type": "elizabeth_touch_skirtshy_02",
+    "animation": "lobby_touch_skirt01",
+    "answer_string": "36099",
+    "voice_sound_id": 41016
+  },
+  {
+    "id": 49,
+    "type": "elizabeth_touch_skirtshy_03",
+    "animation": "lobby_touch_body01",
+    "answer_string": "36100",
+    "voice_sound_id": 41017
+  },
+  {
+    "id": 50,
+    "type": "elizabeth_touch_angry_01",
+    "animation": "lobby_touch_body02",
+    "answer_string": "36024",
+    "voice_sound_id": 41018
+  },
+  {
+    "id": 51,
+    "type": "elizabeth_touch_angry_02",
+    "animation": "lobby_touch_body02",
+    "answer_string": "36025",
+    "voice_sound_id": 41019
+  },
+  {
+    "id": 52,
+    "type": "elizabeth_touch_angry_03",
+    "animation": "lobby_touch_body02",
+    "answer_string": "36026",
+    "voice_sound_id": 41020
+  },
+  {
+    "id": 53,
+    "type": "elizabeth_zoomin_01_kr",
+    "animation": "lobby_idle02",
+    "answer_string": "36101",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 54,
+    "type": "elizabeth_zoomin_02_kr",
+    "animation": "lobby_idle02",
+    "answer_string": "36102",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 55,
+    "type": "elizabeth_zoomin_03_kr",
+    "animation": "lobby_idle02",
+    "answer_string": "36103",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 56,
+    "type": "elizabeth_touch_head_01_kr",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36089",
+    "voice_sound_id": 41001
+  },
+  {
+    "id": 57,
+    "type": "elizabeth_touch_head_02_kr",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36090",
+    "voice_sound_id": 41002
+  },
+  {
+    "id": 58,
+    "type": "elizabeth_touch_head_03_kr",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36091",
+    "voice_sound_id": 41003
+  },
+  {
+    "id": 59,
+    "type": "elizabeth_touch_head_04_kr",
+    "animation": "lobby_talk",
+    "answer_string": "36092",
+    "voice_sound_id": 41004
+  },
+  {
+    "id": 60,
+    "type": "elizabeth_touch_head_05_kr",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36093",
+    "voice_sound_id": 41005
+  },
+  {
+    "id": 61,
+    "type": "elizabeth_touch_head_06_kr",
+    "animation": "lobby_talk",
+    "answer_string": "36094",
+    "voice_sound_id": 41006
+  },
+  {
+    "id": 62,
+    "type": "elizabeth_touch_body_01_kr",
+    "animation": "lobby_touch_body01_kr",
+    "answer_string": "36027",
+    "voice_sound_id": 41007
+  },
+  {
+    "id": 63,
+    "type": "elizabeth_touch_body_02_kr",
+    "animation": "lobby_touch_body01_kr",
+    "answer_string": "36028",
+    "voice_sound_id": 41008
+  },
+  {
+    "id": 64,
+    "type": "elizabeth_touch_body_03_kr",
+    "animation": "lobby_touch_body01_kr",
+    "answer_string": "36029",
+    "voice_sound_id": 41009
+  },
+  {
+    "id": 65,
+    "type": "elizabeth_touch_body_04_kr",
+    "animation": "lobby_touch_body01_kr",
+    "answer_string": "36030",
+    "voice_sound_id": 41010
+  },
+  {
+    "id": 66,
+    "type": "elizabeth_touch_bodyshy_01_kr",
+    "animation": "lobby_touch_body01_kr",
+    "answer_string": "36031",
+    "voice_sound_id": 41011
+  },
+  {
+    "id": 67,
+    "type": "elizabeth_touch_skirt_01_kr",
+    "animation": "lobby_touch_skirt01_kr",
+    "answer_string": "36095",
+    "voice_sound_id": 41012
+  },
+  {
+    "id": 68,
+    "type": "elizabeth_touch_skirt_02_kr",
+    "animation": "lobby_touch_skirt01_kr",
+    "answer_string": "36096",
+    "voice_sound_id": 41013
+  },
+  {
+    "id": 69,
+    "type": "elizabeth_touch_skirt_03_kr",
+    "animation": "lobby_touch_body01_kr",
+    "answer_string": "36097",
+    "voice_sound_id": 41014
+  },
+  {
+    "id": 70,
+    "type": "elizabeth_touch_skirtshy_01_kr",
+    "animation": "lobby_touch_skirt01_kr",
+    "answer_string": "36098",
+    "voice_sound_id": 41015
+  },
+  {
+    "id": 71,
+    "type": "elizabeth_touch_skirtshy_02_kr",
+    "animation": "lobby_touch_skirt01_kr",
+    "answer_string": "36099",
+    "voice_sound_id": 41016
+  },
+  {
+    "id": 72,
+    "type": "elizabeth_touch_skirtshy_03_kr",
+    "animation": "lobby_touch_body01_kr",
+    "answer_string": "36100",
+    "voice_sound_id": 41017
+  },
+  {
+    "id": 73,
+    "type": "elizabeth_touch_angry_01_kr",
+    "animation": "lobby_touch_body02",
+    "answer_string": "36024",
+    "voice_sound_id": 41018
+  },
+  {
+    "id": 74,
+    "type": "elizabeth_touch_angry_02_kr",
+    "animation": "lobby_touch_body02",
+    "answer_string": "36025",
+    "voice_sound_id": 41019
+  },
+  {
+    "id": 75,
+    "type": "elizabeth_touch_angry_03_kr",
+    "animation": "lobby_touch_body02",
+    "answer_string": "36026",
+    "voice_sound_id": 41020
+  },
+  {
+    "id": 101,
+    "type": "elizabeth_commonquestion_01",
+    "animation": "lobby_talk",
+    "answer_string": "32863",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 102,
+    "type": "elizabeth_commonquestion_02",
+    "animation": "lobby_talk",
+    "answer_string": "32864",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 103,
+    "type": "elizabeth_commonquestion_03",
+    "animation": "lobby_talk",
+    "answer_string": "32865",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 104,
+    "type": "elizabeth_commonquestion_04",
+    "animation": "lobby_talk",
+    "answer_string": "32866",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 105,
+    "type": "elizabeth_commonquestion_05",
+    "animation": "lobby_talk",
+    "answer_string": "32867",
+    "voice_sound_id": 100208
+  },
+  {
+    "id": 106,
+    "type": "elizabeth_commonquestion_06",
+    "animation": "lobby_talk",
+    "answer_string": "32868",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 107,
+    "type": "elizabeth_commonquestion_07",
+    "animation": "lobby_talk",
+    "answer_string": "32869",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 108,
+    "type": "elizabeth_commonquestion_08",
+    "animation": "lobby_talk",
+    "answer_string": "32870",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 109,
+    "type": "elizabeth_commonquestion_09",
+    "animation": "lobby_talk",
+    "answer_string": "32871",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 110,
+    "type": "elizabeth_commonquestion_10",
+    "animation": "lobby_talk",
+    "answer_string": "32872",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 111,
+    "type": "elizabeth_commonquestion_11",
+    "animation": "lobby_talk",
+    "answer_string": "32873",
+    "voice_sound_id": 100208
+  },
+  {
+    "id": 112,
+    "type": "elizabeth_commonquestion_12",
+    "animation": "lobby_talk",
+    "answer_string": "32874",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 113,
+    "type": "elizabeth_commonquestion_13",
+    "animation": "lobby_talk",
+    "answer_string": "32875",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 114,
+    "type": "elizabeth_commonquestion_14",
+    "animation": "lobby_talk",
+    "answer_string": "32876",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 115,
+    "type": "elizabeth_commonquestion_15",
+    "animation": "lobby_talk",
+    "answer_string": "32877",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 116,
+    "type": "elizabeth_commonquestion_16",
+    "animation": "lobby_talk",
+    "answer_string": "32878",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 117,
+    "type": "elizabeth_commonquestion_17",
+    "animation": "lobby_talk",
+    "answer_string": "32879",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 118,
+    "type": "elizabeth_commonquestion_18",
+    "animation": "lobby_talk",
+    "answer_string": "32880",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 119,
+    "type": "elizabeth_commonquestion_19",
+    "animation": "lobby_talk",
+    "answer_string": "32881",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 120,
+    "type": "elizabeth_commonquestion_20",
+    "animation": "lobby_talk",
+    "answer_string": "32882",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 301,
+    "type": "elizabeth_player_commonanswer_01_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32883",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 302,
+    "type": "elizabeth_player_commonanswer_01_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32884",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 303,
+    "type": "elizabeth_player_commonanswer_01_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32885",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 304,
+    "type": "elizabeth_player_commonanswer_02_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32886",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 305,
+    "type": "elizabeth_player_commonanswer_02_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32887",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 306,
+    "type": "elizabeth_player_commonanswer_02_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32888",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 307,
+    "type": "elizabeth_player_commonanswer_03_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32889",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 308,
+    "type": "elizabeth_player_commonanswer_03_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32890",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 309,
+    "type": "elizabeth_player_commonanswer_03_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32891",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 310,
+    "type": "elizabeth_player_commonanswer_04_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32892",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 311,
+    "type": "elizabeth_player_commonanswer_04_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32893",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 312,
+    "type": "elizabeth_player_commonanswer_04_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32894",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 313,
+    "type": "elizabeth_player_commonanswer_05_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32895",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 314,
+    "type": "elizabeth_player_commonanswer_05_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32896",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 315,
+    "type": "elizabeth_player_commonanswer_05_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32897",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 316,
+    "type": "elizabeth_player_commonanswer_06_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32898",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 317,
+    "type": "elizabeth_player_commonanswer_06_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32899",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 318,
+    "type": "elizabeth_player_commonanswer_06_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32900",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 319,
+    "type": "elizabeth_player_commonanswer_07_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32901",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 320,
+    "type": "elizabeth_player_commonanswer_07_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32902",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 321,
+    "type": "elizabeth_player_commonanswer_07_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32903",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 322,
+    "type": "elizabeth_player_commonanswer_08_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32904",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 323,
+    "type": "elizabeth_player_commonanswer_08_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32905",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 324,
+    "type": "elizabeth_player_commonanswer_08_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32906",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 325,
+    "type": "elizabeth_player_commonanswer_09_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32907",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 326,
+    "type": "elizabeth_player_commonanswer_09_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32908",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 327,
+    "type": "elizabeth_player_commonanswer_09_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32909",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 328,
+    "type": "elizabeth_player_commonanswer_10_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32910",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 329,
+    "type": "elizabeth_player_commonanswer_10_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32911",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 330,
+    "type": "elizabeth_player_commonanswer_10_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32912",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 331,
+    "type": "elizabeth_player_commonanswer_11_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32913",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 332,
+    "type": "elizabeth_player_commonanswer_11_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32914",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 333,
+    "type": "elizabeth_player_commonanswer_11_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32915",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 334,
+    "type": "elizabeth_player_commonanswer_12_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32916",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 335,
+    "type": "elizabeth_player_commonanswer_12_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32917",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 336,
+    "type": "elizabeth_player_commonanswer_12_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32918",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 337,
+    "type": "elizabeth_player_commonanswer_13_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32919",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 338,
+    "type": "elizabeth_player_commonanswer_13_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32920",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 339,
+    "type": "elizabeth_player_commonanswer_13_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32921",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 340,
+    "type": "elizabeth_player_commonanswer_14_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32922",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 341,
+    "type": "elizabeth_player_commonanswer_14_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32923",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 342,
+    "type": "elizabeth_player_commonanswer_14_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32924",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 343,
+    "type": "elizabeth_player_commonanswer_15_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32925",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 344,
+    "type": "elizabeth_player_commonanswer_15_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32926",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 345,
+    "type": "elizabeth_player_commonanswer_15_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32927",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 346,
+    "type": "elizabeth_player_commonanswer_16_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32928",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 347,
+    "type": "elizabeth_player_commonanswer_16_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32929",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 348,
+    "type": "elizabeth_player_commonanswer_16_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32930",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 349,
+    "type": "elizabeth_player_commonanswer_17_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32931",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 350,
+    "type": "elizabeth_player_commonanswer_17_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32932",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 351,
+    "type": "elizabeth_player_commonanswer_17_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32933",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 352,
+    "type": "elizabeth_player_commonanswer_18_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32934",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 353,
+    "type": "elizabeth_player_commonanswer_18_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32935",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 354,
+    "type": "elizabeth_player_commonanswer_18_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32936",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 355,
+    "type": "elizabeth_player_commonanswer_19_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32937",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 356,
+    "type": "elizabeth_player_commonanswer_19_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32938",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 357,
+    "type": "elizabeth_player_commonanswer_19_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32939",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 358,
+    "type": "elizabeth_player_commonanswer_20_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32940",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 359,
+    "type": "elizabeth_player_commonanswer_20_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32941",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 360,
+    "type": "elizabeth_player_commonanswer_20_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32942",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 701,
+    "type": "elizabeth_good_commonfeedback_01",
+    "animation": "lobby_talk",
+    "answer_string": "36049",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 702,
+    "type": "elizabeth_good_commonfeedback_02",
+    "animation": "lobby_idle02",
+    "answer_string": "36050",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 703,
+    "type": "elizabeth_good_commonfeedback_03",
+    "animation": "lobby_answer01",
+    "answer_string": "36051",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 704,
+    "type": "elizabeth_good_commonfeedback_04",
+    "animation": "lobby_answer01",
+    "answer_string": "36052",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 705,
+    "type": "elizabeth_good_commonfeedback_05",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36053",
+    "voice_sound_id": 100202
+  },
+  {
+    "id": 706,
+    "type": "elizabeth_good_commonfeedback_06",
+    "animation": "lobby_answer01",
+    "answer_string": "36054",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 707,
+    "type": "elizabeth_good_commonfeedback_07",
+    "animation": "lobby_talk",
+    "answer_string": "36055",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 708,
+    "type": "elizabeth_good_commonfeedback_08",
+    "animation": "lobby_talk",
+    "answer_string": "36056",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 709,
+    "type": "elizabeth_good_commonfeedback_09",
+    "animation": "lobby_dressup",
+    "answer_string": "36057",
+    "voice_sound_id": 100203
+  },
+  {
+    "id": 710,
+    "type": "elizabeth_good_commonfeedback_10",
+    "animation": "lobby_answer01",
+    "answer_string": "36058",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 711,
+    "type": "elizabeth_good_commonfeedback_11",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36059",
+    "voice_sound_id": 100202
+  },
+  {
+    "id": 712,
+    "type": "elizabeth_good_commonfeedback_12",
+    "animation": "lobby_answer01",
+    "answer_string": "36060",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 713,
+    "type": "elizabeth_good_commonfeedback_13",
+    "animation": "lobby_talk",
+    "answer_string": "36061",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 714,
+    "type": "elizabeth_good_commonfeedback_14",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36062",
+    "voice_sound_id": 100202
+  },
+  {
+    "id": 715,
+    "type": "elizabeth_good_commonfeedback_15",
+    "animation": "lobby_answer01",
+    "answer_string": "36063",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 716,
+    "type": "elizabeth_good_commonfeedback_16",
+    "animation": "lobby_talk",
+    "answer_string": "36064",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 717,
+    "type": "elizabeth_good_commonfeedback_17",
+    "animation": "lobby_gift",
+    "answer_string": "36065",
+    "voice_sound_id": 100207
+  },
+  {
+    "id": 718,
+    "type": "elizabeth_good_commonfeedback_18",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36066",
+    "voice_sound_id": 100202
+  },
+  {
+    "id": 719,
+    "type": "elizabeth_good_commonfeedback_19",
+    "animation": "lobby_idle02",
+    "answer_string": "36067",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 720,
+    "type": "elizabeth_good_commonfeedback_20",
+    "animation": "lobby_talk",
+    "answer_string": "36068",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 801,
+    "type": "elizabeth_normal_commonfeedback_01",
+    "animation": "lobby_gift",
+    "answer_string": "36069",
+    "voice_sound_id": 100207
+  },
+  {
+    "id": 802,
+    "type": "elizabeth_normal_commonfeedback_02",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36070",
+    "voice_sound_id": 100202
+  },
+  {
+    "id": 803,
+    "type": "elizabeth_normal_commonfeedback_03",
+    "animation": "lobby_idle02",
+    "answer_string": "36071",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 804,
+    "type": "elizabeth_normal_commonfeedback_04",
+    "animation": "lobby_answer01",
+    "answer_string": "36072",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 805,
+    "type": "elizabeth_normal_commonfeedback_05",
+    "animation": "lobby_touch_skirt01",
+    "answer_string": "36073",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 806,
+    "type": "elizabeth_normal_commonfeedback_06",
+    "animation": "lobby_idle02",
+    "answer_string": "36074",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 807,
+    "type": "elizabeth_normal_commonfeedback_07",
+    "animation": "lobby_answer01",
+    "answer_string": "36075",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 808,
+    "type": "elizabeth_normal_commonfeedback_08",
+    "animation": "lobby_talk",
+    "answer_string": "36076",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 809,
+    "type": "elizabeth_normal_commonfeedback_09",
+    "animation": "lobby_idle02",
+    "answer_string": "36077",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 810,
+    "type": "elizabeth_normal_commonfeedback_10",
+    "animation": "lobby_idle02",
+    "answer_string": "36078",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 811,
+    "type": "elizabeth_normal_commonfeedback_11",
+    "animation": "lobby_idle02",
+    "answer_string": "36079",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 812,
+    "type": "elizabeth_normal_commonfeedback_12",
+    "animation": "lobby_talk",
+    "answer_string": "36080",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 813,
+    "type": "elizabeth_normal_commonfeedback_13",
+    "animation": "lobby_answer01",
+    "answer_string": "36081",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 814,
+    "type": "elizabeth_normal_commonfeedback_14",
+    "animation": "lobby_talk",
+    "answer_string": "36082",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 815,
+    "type": "elizabeth_normal_commonfeedback_15",
+    "animation": "lobby_answer01",
+    "answer_string": "36083",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 816,
+    "type": "elizabeth_normal_commonfeedback_16",
+    "animation": "lobby_idle02",
+    "answer_string": "36084",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 817,
+    "type": "elizabeth_normal_commonfeedback_17",
+    "animation": "lobby_gift",
+    "answer_string": "36085",
+    "voice_sound_id": 100207
+  },
+  {
+    "id": 818,
+    "type": "elizabeth_normal_commonfeedback_18",
+    "animation": "lobby_idle02",
+    "answer_string": "36086",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 819,
+    "type": "elizabeth_normal_commonfeedback_19",
+    "animation": "lobby_answer01",
+    "answer_string": "36087",
+    "voice_sound_id": 100201
+  },
+  {
+    "id": 820,
+    "type": "elizabeth_normal_commonfeedback_20",
+    "animation": "lobby_touch_head01",
+    "answer_string": "36088",
+    "voice_sound_id": 100202
+  },
+  {
+    "id": 901,
+    "type": "elizabeth_bad_commonfeedback_01",
+    "animation": "lobby_idle04",
+    "answer_string": "36032",
+    "voice_sound_id": 100206
+  },
+  {
+    "id": 902,
+    "type": "elizabeth_bad_commonfeedback_02",
+    "animation": "lobby_touch_body01",
+    "answer_string": "36033",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 903,
+    "type": "elizabeth_bad_commonfeedback_03",
+    "animation": "lobby_idle04",
+    "answer_string": "36034",
+    "voice_sound_id": 100206
+  },
+  {
+    "id": 904,
+    "type": "elizabeth_bad_commonfeedback_04",
+    "animation": "lobby_idle02",
+    "answer_string": "36035",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 905,
+    "type": "elizabeth_bad_commonfeedback_05",
+    "animation": "lobby_touch_body01",
+    "answer_string": "36036",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 906,
+    "type": "elizabeth_bad_commonfeedback_06",
+    "animation": "lobby_idle04",
+    "answer_string": "36037",
+    "voice_sound_id": 100206
+  },
+  {
+    "id": 907,
+    "type": "elizabeth_bad_commonfeedback_07",
+    "animation": "lobby_idle02",
+    "answer_string": "36038",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 908,
+    "type": "elizabeth_bad_commonfeedback_08",
+    "animation": "lobby_answer02",
+    "answer_string": "36039",
+    "voice_sound_id": 100206
+  },
+  {
+    "id": 909,
+    "type": "elizabeth_bad_commonfeedback_09",
+    "animation": "lobby_idle02",
+    "answer_string": "36040",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 910,
+    "type": "elizabeth_bad_commonfeedback_10",
+    "animation": "lobby_idle02",
+    "answer_string": "36040",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 911,
+    "type": "elizabeth_bad_commonfeedback_11",
+    "animation": "lobby_idle02",
+    "answer_string": "36041",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 912,
+    "type": "elizabeth_bad_commonfeedback_12",
+    "animation": "lobby_idle02",
+    "answer_string": "36042",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 913,
+    "type": "elizabeth_bad_commonfeedback_13",
+    "animation": "lobby_idle02",
+    "answer_string": "36043",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 914,
+    "type": "elizabeth_bad_commonfeedback_14",
+    "animation": "lobby_idle04",
+    "answer_string": "36044",
+    "voice_sound_id": 100206
+  },
+  {
+    "id": 915,
+    "type": "elizabeth_bad_commonfeedback_15",
+    "animation": "lobby_gift",
+    "answer_string": "36045",
+    "voice_sound_id": 100207
+  },
+  {
+    "id": 916,
+    "type": "elizabeth_bad_commonfeedback_16",
+    "animation": "lobby_idle02",
+    "answer_string": "36040",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 917,
+    "type": "elizabeth_bad_commonfeedback_17",
+    "animation": "lobby_gift",
+    "answer_string": "36046",
+    "voice_sound_id": 100207
+  },
+  {
+    "id": 918,
+    "type": "elizabeth_bad_commonfeedback_18",
+    "animation": "lobby_idle04",
+    "answer_string": "36047",
+    "voice_sound_id": 100206
+  },
+  {
+    "id": 919,
+    "type": "elizabeth_bad_commonfeedback_19",
+    "animation": "lobby_idle02",
+    "answer_string": "36048",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 920,
+    "type": "elizabeth_bad_commonfeedback_20",
+    "animation": "lobby_idle02",
+    "answer_string": "36048",
+    "voice_sound_id": 100205
+  },
+  {
+    "id": 1001,
+    "type": "hawk_storyquestion_01",
+    "animation": "lobby_talk",
+    "answer_string": "35804",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1002,
+    "type": "hawk_storyquestion_02",
+    "animation": "lobby_talk",
+    "answer_string": "35805",
+    "voice_sound_id": 100307
+  },
+  {
+    "id": 1003,
+    "type": "hawk_storyquestion_03",
+    "animation": "lobby_talk",
+    "answer_string": "35806",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1004,
+    "type": "hawk_storyquestion_04",
+    "animation": "lobby_talk",
+    "answer_string": "35807",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1005,
+    "type": "hawk_storyquestion_05",
+    "animation": "lobby_talk",
+    "answer_string": "35808",
+    "voice_sound_id": 100305
+  },
+  {
+    "id": 1006,
+    "type": "hawk_storyquestion_06",
+    "animation": "lobby_talk",
+    "answer_string": "35809",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1007,
+    "type": "hawk_storyquestion_07",
+    "animation": "lobby_talk",
+    "answer_string": "35810",
+    "voice_sound_id": 100307
+  },
+  {
+    "id": 1008,
+    "type": "hawk_storyquestion_08",
+    "animation": "lobby_talk",
+    "answer_string": "35811",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1009,
+    "type": "hawk_storyquestion_09",
+    "animation": "lobby_talk",
+    "answer_string": "35812",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1010,
+    "type": "hawk_storyquestion_10",
+    "animation": "lobby_talk",
+    "answer_string": "35813",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1011,
+    "type": "hawk_storyquestion_11",
+    "animation": "lobby_talk",
+    "answer_string": "35814",
+    "voice_sound_id": 100308
+  },
+  {
+    "id": 1012,
+    "type": "hawk_storyquestion_12",
+    "animation": "lobby_talk",
+    "answer_string": "35815",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1013,
+    "type": "hawk_storyquestion_13",
+    "animation": "lobby_talk",
+    "answer_string": "35816",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1014,
+    "type": "hawk_storyquestion_14",
+    "animation": "lobby_talk",
+    "answer_string": "35817",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1015,
+    "type": "hawk_storyquestion_15",
+    "animation": "lobby_talk",
+    "answer_string": "35818",
+    "voice_sound_id": 100308
+  },
+  {
+    "id": 1016,
+    "type": "hawk_storyquestion_16",
+    "animation": "lobby_talk",
+    "answer_string": "35819",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1017,
+    "type": "hawk_storyquestion_17",
+    "animation": "lobby_talk",
+    "answer_string": "35820",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1018,
+    "type": "hawk_storyquestion_18",
+    "animation": "lobby_talk",
+    "answer_string": "35821",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1019,
+    "type": "hawk_storyquestion_19",
+    "animation": "lobby_talk",
+    "answer_string": "35822",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1020,
+    "type": "hawk_storyquestion_20",
+    "animation": "lobby_talk",
+    "answer_string": "35823",
+    "voice_sound_id": 100306
+  },
+  {
+    "id": 1301,
+    "type": "hawk_player_storyanswer_01_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35746",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1302,
+    "type": "hawk_player_storyanswer_01_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35747",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1303,
+    "type": "hawk_player_storyanswer_01_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35748",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1304,
+    "type": "hawk_player_storyanswer_02_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35749",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1305,
+    "type": "hawk_player_storyanswer_02_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35750",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1306,
+    "type": "hawk_player_storyanswer_02_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35751",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1307,
+    "type": "hawk_player_storyanswer_03_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35752",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1308,
+    "type": "hawk_player_storyanswer_03_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35753",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1309,
+    "type": "hawk_player_storyanswer_03_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35754",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1310,
+    "type": "hawk_player_storyanswer_04_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35755",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1311,
+    "type": "hawk_player_storyanswer_04_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35756",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1312,
+    "type": "hawk_player_storyanswer_04_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35757",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1313,
+    "type": "hawk_player_storyanswer_05_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35758",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1314,
+    "type": "hawk_player_storyanswer_05_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35759",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1315,
+    "type": "hawk_player_storyanswer_05_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35760",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1316,
+    "type": "hawk_player_storyanswer_06_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35761",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1317,
+    "type": "hawk_player_storyanswer_06_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35762",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1318,
+    "type": "hawk_player_storyanswer_06_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35763",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1319,
+    "type": "hawk_player_storyanswer_07_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35764",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1320,
+    "type": "hawk_player_storyanswer_07_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35765",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1321,
+    "type": "hawk_player_storyanswer_07_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35766",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1322,
+    "type": "hawk_player_storyanswer_08_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35767",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1323,
+    "type": "hawk_player_storyanswer_08_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35768",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1324,
+    "type": "hawk_player_storyanswer_08_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35769",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1325,
+    "type": "hawk_player_storyanswer_09_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35770",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1326,
+    "type": "hawk_player_storyanswer_09_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35771",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1327,
+    "type": "hawk_player_storyanswer_09_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35772",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1328,
+    "type": "hawk_player_storyanswer_10_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35773",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1329,
+    "type": "hawk_player_storyanswer_10_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35774",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1330,
+    "type": "hawk_player_storyanswer_10_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35775",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1331,
+    "type": "hawk_player_storyanswer_11_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35776",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1332,
+    "type": "hawk_player_storyanswer_11_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35777",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1333,
+    "type": "hawk_player_storyanswer_11_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35778",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1334,
+    "type": "hawk_player_storyanswer_12_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35779",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1335,
+    "type": "hawk_player_storyanswer_12_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35780",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1336,
+    "type": "hawk_player_storyanswer_12_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35781",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1337,
+    "type": "hawk_player_storyanswer_13_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35782",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1338,
+    "type": "hawk_player_storyanswer_13_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35783",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1339,
+    "type": "hawk_player_storyanswer_13_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35784",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1340,
+    "type": "hawk_player_storyanswer_14_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35785",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1341,
+    "type": "hawk_player_storyanswer_14_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35786",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1342,
+    "type": "hawk_player_storyanswer_14_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35787",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1343,
+    "type": "hawk_player_storyanswer_15_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35788",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1344,
+    "type": "hawk_player_storyanswer_15_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35789",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1345,
+    "type": "hawk_player_storyanswer_15_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35790",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1346,
+    "type": "hawk_player_storyanswer_16_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35791",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1347,
+    "type": "hawk_player_storyanswer_16_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35792",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1348,
+    "type": "hawk_player_storyanswer_16_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35793",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1349,
+    "type": "hawk_player_storyanswer_17_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35794",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1350,
+    "type": "hawk_player_storyanswer_17_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35795",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1351,
+    "type": "hawk_player_storyanswer_17_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35796",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1352,
+    "type": "hawk_player_storyanswer_18_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35797",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1353,
+    "type": "hawk_player_storyanswer_18_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35798",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1354,
+    "type": "hawk_player_storyanswer_18_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35799",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1355,
+    "type": "hawk_player_storyanswer_19_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35782",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1356,
+    "type": "hawk_player_storyanswer_19_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35783",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1357,
+    "type": "hawk_player_storyanswer_19_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35800",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1358,
+    "type": "hawk_player_storyanswer_20_1",
+    "animation": "lobby_idle01",
+    "answer_string": "35801",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1359,
+    "type": "hawk_player_storyanswer_20_2",
+    "animation": "lobby_idle01",
+    "answer_string": "35802",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1360,
+    "type": "hawk_player_storyanswer_20_3",
+    "animation": "lobby_idle01",
+    "answer_string": "35803",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 1701,
+    "type": "hawk_good_storyfeedback_01",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36181",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1702,
+    "type": "hawk_good_storyfeedback_02",
+    "animation": "lobby_amazing",
+    "answer_string": "36182",
+    "voice_sound_id": 100303
+  },
+  {
+    "id": 1703,
+    "type": "hawk_good_storyfeedback_03",
+    "animation": "lobby_answer01",
+    "answer_string": "36183",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1704,
+    "type": "hawk_good_storyfeedback_04",
+    "animation": "lobby_answer01",
+    "answer_string": "36184",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1705,
+    "type": "hawk_good_storyfeedback_05",
+    "animation": "lobby_amazing",
+    "answer_string": "36185",
+    "voice_sound_id": 100303
+  },
+  {
+    "id": 1706,
+    "type": "hawk_good_storyfeedback_06",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36186",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1707,
+    "type": "hawk_good_storyfeedback_07",
+    "animation": "lobby_answer01",
+    "answer_string": "36187",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1708,
+    "type": "hawk_good_storyfeedback_08",
+    "animation": "lobby_talk",
+    "answer_string": "36188",
+    "voice_sound_id": 100301
+  },
+  {
+    "id": 1709,
+    "type": "hawk_good_storyfeedback_09",
+    "animation": "lobby_answer01",
+    "answer_string": "36189",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1710,
+    "type": "hawk_good_storyfeedback_10",
+    "animation": "lobby_amazing",
+    "answer_string": "36190",
+    "voice_sound_id": 100303
+  },
+  {
+    "id": 1711,
+    "type": "hawk_good_storyfeedback_11",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36191",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1712,
+    "type": "hawk_good_storyfeedback_12",
+    "animation": "lobby_answer01",
+    "answer_string": "36189",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1713,
+    "type": "hawk_good_storyfeedback_13",
+    "animation": "lobby_answer01",
+    "answer_string": "36192",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1714,
+    "type": "hawk_good_storyfeedback_14",
+    "animation": "lobby_amazing",
+    "answer_string": "36193",
+    "voice_sound_id": 100303
+  },
+  {
+    "id": 1715,
+    "type": "hawk_good_storyfeedback_15",
+    "animation": "lobby_talk",
+    "answer_string": "36194",
+    "voice_sound_id": 100301
+  },
+  {
+    "id": 1716,
+    "type": "hawk_good_storyfeedback_16",
+    "animation": "lobby_answer01",
+    "answer_string": "36195",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1717,
+    "type": "hawk_good_storyfeedback_17",
+    "animation": "lobby_talk",
+    "answer_string": "36196",
+    "voice_sound_id": 100301
+  },
+  {
+    "id": 1718,
+    "type": "hawk_good_storyfeedback_18",
+    "animation": "lobby_answer01",
+    "answer_string": "36197",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1719,
+    "type": "hawk_good_storyfeedback_19",
+    "animation": "lobby_answer01",
+    "answer_string": "36187",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1720,
+    "type": "hawk_good_storyfeedback_20",
+    "animation": "lobby_answer01",
+    "answer_string": "36198",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1801,
+    "type": "hawk_normal_storyfeedback_01",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36199",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1802,
+    "type": "hawk_normal_storyfeedback_02",
+    "animation": "lobby_answer01",
+    "answer_string": "36200",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1803,
+    "type": "hawk_normal_storyfeedback_03",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36201",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1804,
+    "type": "hawk_normal_storyfeedback_04",
+    "animation": "lobby_answer01",
+    "answer_string": "36202",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1805,
+    "type": "hawk_normal_storyfeedback_05",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36203",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1806,
+    "type": "hawk_normal_storyfeedback_06",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36204",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1807,
+    "type": "hawk_normal_storyfeedback_07",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36205",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1808,
+    "type": "hawk_normal_storyfeedback_08",
+    "animation": "lobby_answer02",
+    "answer_string": "36206",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1809,
+    "type": "hawk_normal_storyfeedback_09",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36207",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1810,
+    "type": "hawk_normal_storyfeedback_10",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36208",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1811,
+    "type": "hawk_normal_storyfeedback_11",
+    "animation": "lobby_talk",
+    "answer_string": "36209",
+    "voice_sound_id": 100301
+  },
+  {
+    "id": 1812,
+    "type": "hawk_normal_storyfeedback_12",
+    "animation": "lobby_good",
+    "answer_string": "36210",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1813,
+    "type": "hawk_normal_storyfeedback_13",
+    "animation": "lobby_answer01",
+    "answer_string": "36211",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1814,
+    "type": "hawk_normal_storyfeedback_14",
+    "animation": "lobby_answer02",
+    "answer_string": "36212",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1815,
+    "type": "hawk_normal_storyfeedback_15",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36213",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1816,
+    "type": "hawk_normal_storyfeedback_16",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36214",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1817,
+    "type": "hawk_normal_storyfeedback_17",
+    "animation": "lobby_answer01",
+    "answer_string": "36215",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1818,
+    "type": "hawk_normal_storyfeedback_18",
+    "animation": "lobby_answer01",
+    "answer_string": "36216",
+    "voice_sound_id": 100302
+  },
+  {
+    "id": 1819,
+    "type": "hawk_normal_storyfeedback_19",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36217",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1820,
+    "type": "hawk_normal_storyfeedback_20",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36218",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1901,
+    "type": "hawk_bad_storyfeedback_01",
+    "animation": "lobby_answer02",
+    "answer_string": "36163",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1902,
+    "type": "hawk_bad_storyfeedback_02",
+    "animation": "lobby_answer02",
+    "answer_string": "36164",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1903,
+    "type": "hawk_bad_storyfeedback_03",
+    "animation": "lobby_answer02",
+    "answer_string": "36165",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1904,
+    "type": "hawk_bad_storyfeedback_04",
+    "animation": "lobby_answer02",
+    "answer_string": "36166",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1905,
+    "type": "hawk_bad_storyfeedback_05",
+    "animation": "lobby_answer02",
+    "answer_string": "36167",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1906,
+    "type": "hawk_bad_storyfeedback_06",
+    "animation": "lobby_answer02",
+    "answer_string": "36168",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1907,
+    "type": "hawk_bad_storyfeedback_07",
+    "animation": "lobby_answer02",
+    "answer_string": "36169",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1908,
+    "type": "hawk_bad_storyfeedback_08",
+    "animation": "lobby_answer02",
+    "answer_string": "36170",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1909,
+    "type": "hawk_bad_storyfeedback_09",
+    "animation": "lobby_answer02",
+    "answer_string": "36170",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1910,
+    "type": "hawk_bad_storyfeedback_10",
+    "animation": "lobby_answer02",
+    "answer_string": "36171",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1911,
+    "type": "hawk_bad_storyfeedback_11",
+    "animation": "lobby_answer02",
+    "answer_string": "36172",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1912,
+    "type": "hawk_bad_storyfeedback_12",
+    "animation": "lobby_answer02",
+    "answer_string": "36170",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1913,
+    "type": "hawk_bad_storyfeedback_13",
+    "animation": "lobby_answer02",
+    "answer_string": "36173",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1914,
+    "type": "hawk_bad_storyfeedback_14",
+    "animation": "lobby_answer02",
+    "answer_string": "36174",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1915,
+    "type": "hawk_bad_storyfeedback_15",
+    "animation": "lobby_answer02",
+    "answer_string": "36175",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1916,
+    "type": "hawk_bad_storyfeedback_16",
+    "animation": "lobby_answer02",
+    "answer_string": "36176",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1917,
+    "type": "hawk_bad_storyfeedback_17",
+    "animation": "lobby_answer02",
+    "answer_string": "36177",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1918,
+    "type": "hawk_bad_storyfeedback_18",
+    "animation": "lobby_answer02",
+    "answer_string": "36178",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 1919,
+    "type": "hawk_bad_storyfeedback_19",
+    "animation": "lobby_eyecontact",
+    "answer_string": "36179",
+    "voice_sound_id": 100309
+  },
+  {
+    "id": 1920,
+    "type": "hawk_bad_storyfeedback_20",
+    "animation": "lobby_answer02",
+    "answer_string": "36180",
+    "voice_sound_id": 100304
+  },
+  {
+    "id": 2001,
+    "type": "diane_storyquestion_01",
+    "animation": "lobby_talk",
+    "answer_string": "32848",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2002,
+    "type": "diane_storyquestion_02",
+    "animation": "lobby_talk",
+    "answer_string": "32849",
+    "voice_sound_id": 100406
+  },
+  {
+    "id": 2003,
+    "type": "diane_storyquestion_03",
+    "animation": "lobby_talk",
+    "answer_string": "32850",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2004,
+    "type": "diane_storyquestion_04",
+    "animation": "lobby_talk",
+    "answer_string": "32851",
+    "voice_sound_id": 100401
+  },
+  {
+    "id": 2005,
+    "type": "diane_storyquestion_05",
+    "animation": "lobby_talk",
+    "answer_string": "32852",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2006,
+    "type": "diane_storyquestion_06",
+    "animation": "lobby_talk",
+    "answer_string": "32853",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2007,
+    "type": "diane_storyquestion_07",
+    "animation": "lobby_talk",
+    "answer_string": "32854",
+    "voice_sound_id": 100406
+  },
+  {
+    "id": 2008,
+    "type": "diane_storyquestion_08",
+    "animation": "lobby_talk",
+    "answer_string": "32855",
+    "voice_sound_id": 100406
+  },
+  {
+    "id": 2009,
+    "type": "diane_storyquestion_09",
+    "animation": "lobby_talk",
+    "answer_string": "32856",
+    "voice_sound_id": 100405
+  },
+  {
+    "id": 2010,
+    "type": "diane_storyquestion_10",
+    "animation": "lobby_talk",
+    "answer_string": "32857",
+    "voice_sound_id": 100405
+  },
+  {
+    "id": 2011,
+    "type": "diane_storyquestion_11",
+    "animation": "lobby_talk",
+    "answer_string": "32858",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2012,
+    "type": "diane_storyquestion_12",
+    "animation": "lobby_talk",
+    "answer_string": "32859",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2013,
+    "type": "diane_storyquestion_13",
+    "animation": "lobby_talk",
+    "answer_string": "32860",
+    "voice_sound_id": 100405
+  },
+  {
+    "id": 2014,
+    "type": "diane_storyquestion_14",
+    "animation": "lobby_talk",
+    "answer_string": "32861",
+    "voice_sound_id": 100405
+  },
+  {
+    "id": 2015,
+    "type": "diane_storyquestion_15",
+    "animation": "lobby_talk",
+    "answer_string": "32862",
+    "voice_sound_id": 100405
+  },
+  {
+    "id": 2301,
+    "type": "diane_player_storyanswer_01_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32803",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2302,
+    "type": "diane_player_storyanswer_01_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32804",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2303,
+    "type": "diane_player_storyanswer_01_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32805",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2304,
+    "type": "diane_player_storyanswer_02_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32806",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2305,
+    "type": "diane_player_storyanswer_02_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32807",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2306,
+    "type": "diane_player_storyanswer_02_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32808",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2307,
+    "type": "diane_player_storyanswer_03_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32809",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2308,
+    "type": "diane_player_storyanswer_03_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32810",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2309,
+    "type": "diane_player_storyanswer_03_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32811",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2310,
+    "type": "diane_player_storyanswer_04_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32812",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2311,
+    "type": "diane_player_storyanswer_04_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32813",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2312,
+    "type": "diane_player_storyanswer_04_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32814",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2313,
+    "type": "diane_player_storyanswer_05_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32815",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2314,
+    "type": "diane_player_storyanswer_05_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32816",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2315,
+    "type": "diane_player_storyanswer_05_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32817",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2316,
+    "type": "diane_player_storyanswer_06_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32818",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2317,
+    "type": "diane_player_storyanswer_06_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32819",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2318,
+    "type": "diane_player_storyanswer_06_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32820",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2319,
+    "type": "diane_player_storyanswer_07_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32821",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2320,
+    "type": "diane_player_storyanswer_07_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32822",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2321,
+    "type": "diane_player_storyanswer_07_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32823",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2322,
+    "type": "diane_player_storyanswer_08_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32824",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2323,
+    "type": "diane_player_storyanswer_08_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32825",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2324,
+    "type": "diane_player_storyanswer_08_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32826",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2325,
+    "type": "diane_player_storyanswer_09_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32827",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2326,
+    "type": "diane_player_storyanswer_09_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32828",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2327,
+    "type": "diane_player_storyanswer_09_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32829",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2328,
+    "type": "diane_player_storyanswer_10_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32830",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2329,
+    "type": "diane_player_storyanswer_10_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32831",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2330,
+    "type": "diane_player_storyanswer_10_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32832",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2331,
+    "type": "diane_player_storyanswer_11_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32833",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2332,
+    "type": "diane_player_storyanswer_11_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32834",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2333,
+    "type": "diane_player_storyanswer_11_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32835",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2334,
+    "type": "diane_player_storyanswer_12_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32836",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2335,
+    "type": "diane_player_storyanswer_12_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32837",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2336,
+    "type": "diane_player_storyanswer_12_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32838",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2337,
+    "type": "diane_player_storyanswer_13_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32839",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2338,
+    "type": "diane_player_storyanswer_13_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32840",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2339,
+    "type": "diane_player_storyanswer_13_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32841",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2340,
+    "type": "diane_player_storyanswer_14_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32842",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2341,
+    "type": "diane_player_storyanswer_14_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32843",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2342,
+    "type": "diane_player_storyanswer_14_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32844",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2343,
+    "type": "diane_player_storyanswer_15_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32845",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2344,
+    "type": "diane_player_storyanswer_15_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32846",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2345,
+    "type": "diane_player_storyanswer_15_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32847",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 2701,
+    "type": "diane_good_storyfeedback_01",
+    "animation": "lobby_smile",
+    "answer_string": "35987",
+    "voice_sound_id": 100401
+  },
+  {
+    "id": 2702,
+    "type": "diane_good_storyfeedback_02",
+    "animation": "lobby_answer01",
+    "answer_string": "35988",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2703,
+    "type": "diane_good_storyfeedback_03",
+    "animation": "lobby_talk",
+    "answer_string": "35989",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2704,
+    "type": "diane_good_storyfeedback_04",
+    "animation": "lobby_shy",
+    "answer_string": "35990",
+    "voice_sound_id": 100401
+  },
+  {
+    "id": 2705,
+    "type": "diane_good_storyfeedback_05",
+    "animation": "lobby_answer01",
+    "answer_string": "35991",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2706,
+    "type": "diane_good_storyfeedback_06",
+    "animation": "lobby_answer01",
+    "answer_string": "35992",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2707,
+    "type": "diane_good_storyfeedback_07",
+    "animation": "lobby_answer01",
+    "answer_string": "35993",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2708,
+    "type": "diane_good_storyfeedback_08",
+    "animation": "lobby_smile",
+    "answer_string": "35994",
+    "voice_sound_id": 100401
+  },
+  {
+    "id": 2709,
+    "type": "diane_good_storyfeedback_09",
+    "animation": "lobby_talk",
+    "answer_string": "35989",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2710,
+    "type": "diane_good_storyfeedback_10",
+    "animation": "lobby_talk",
+    "answer_string": "35995",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2711,
+    "type": "diane_good_storyfeedback_11",
+    "animation": "lobby_answer01",
+    "answer_string": "35996",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2712,
+    "type": "diane_good_storyfeedback_12",
+    "animation": "lobby_smile",
+    "answer_string": "35997",
+    "voice_sound_id": 100401
+  },
+  {
+    "id": 2713,
+    "type": "diane_good_storyfeedback_13",
+    "animation": "lobby_talk",
+    "answer_string": "35989",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2714,
+    "type": "diane_good_storyfeedback_14",
+    "animation": "lobby_answer01",
+    "answer_string": "35998",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2715,
+    "type": "diane_good_storyfeedback_15",
+    "animation": "lobby_talk",
+    "answer_string": "35999",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2801,
+    "type": "diane_normal_storyfeedback_01",
+    "animation": "lobby_talk",
+    "answer_string": "36000",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2802,
+    "type": "diane_normal_storyfeedback_02",
+    "animation": "lobby_talk",
+    "answer_string": "36001",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2803,
+    "type": "diane_normal_storyfeedback_03",
+    "animation": "lobby_surprise",
+    "answer_string": "36002",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2804,
+    "type": "diane_normal_storyfeedback_04",
+    "animation": "lobby_surprise",
+    "answer_string": "36003",
+    "voice_sound_id": 100407
+  },
+  {
+    "id": 2805,
+    "type": "diane_normal_storyfeedback_05",
+    "animation": "lobby_surprise",
+    "answer_string": "36004",
+    "voice_sound_id": 100407
+  },
+  {
+    "id": 2806,
+    "type": "diane_normal_storyfeedback_06",
+    "animation": "lobby_shy",
+    "answer_string": "36005",
+    "voice_sound_id": 100401
+  },
+  {
+    "id": 2807,
+    "type": "diane_normal_storyfeedback_07",
+    "animation": "lobby_sad",
+    "answer_string": "36006",
+    "voice_sound_id": 100407
+  },
+  {
+    "id": 2808,
+    "type": "diane_normal_storyfeedback_08",
+    "animation": "lobby_sad",
+    "answer_string": "36007",
+    "voice_sound_id": 100407
+  },
+  {
+    "id": 2809,
+    "type": "diane_normal_storyfeedback_09",
+    "animation": "lobby_sad",
+    "answer_string": "36008",
+    "voice_sound_id": 100410
+  },
+  {
+    "id": 2810,
+    "type": "diane_normal_storyfeedback_10",
+    "animation": "lobby_shy",
+    "answer_string": "36009",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2811,
+    "type": "diane_normal_storyfeedback_11",
+    "animation": "lobby_shy",
+    "answer_string": "36010",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2812,
+    "type": "diane_normal_storyfeedback_12",
+    "animation": "lobby_surprise",
+    "answer_string": "36008",
+    "voice_sound_id": 100410
+  },
+  {
+    "id": 2813,
+    "type": "diane_normal_storyfeedback_13",
+    "animation": "lobby_talk",
+    "answer_string": "36011",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2814,
+    "type": "diane_normal_storyfeedback_14",
+    "animation": "lobby_refusal02",
+    "answer_string": "36012",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2815,
+    "type": "diane_normal_storyfeedback_15",
+    "animation": "lobby_talk",
+    "answer_string": "36013",
+    "voice_sound_id": 100402
+  },
+  {
+    "id": 2901,
+    "type": "diane_bad_storyfeedback_01",
+    "animation": "lobby_anger_01",
+    "answer_string": "35980",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2902,
+    "type": "diane_bad_storyfeedback_02",
+    "animation": "lobby_anger_02",
+    "answer_string": "35981",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2903,
+    "type": "diane_bad_storyfeedback_03",
+    "animation": "lobby_anger_02",
+    "answer_string": "35982",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2904,
+    "type": "diane_bad_storyfeedback_04",
+    "animation": "lobby_anger_01",
+    "answer_string": "35983",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2905,
+    "type": "diane_bad_storyfeedback_05",
+    "animation": "lobby_anger_02",
+    "answer_string": "35984",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2906,
+    "type": "diane_bad_storyfeedback_06",
+    "animation": "lobby_anger_02",
+    "answer_string": "35982",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2907,
+    "type": "diane_bad_storyfeedback_07",
+    "animation": "lobby_anger_01",
+    "answer_string": "35980",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2908,
+    "type": "diane_bad_storyfeedback_08",
+    "animation": "lobby_surprise",
+    "answer_string": "35985",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2909,
+    "type": "diane_bad_storyfeedback_09",
+    "animation": "lobby_anger_02",
+    "answer_string": "35982",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2910,
+    "type": "diane_bad_storyfeedback_10",
+    "animation": "lobby_anger_01",
+    "answer_string": "35980",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2911,
+    "type": "diane_bad_storyfeedback_11",
+    "animation": "lobby_anger_01",
+    "answer_string": "35983",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2912,
+    "type": "diane_bad_storyfeedback_12",
+    "animation": "lobby_refusal01",
+    "answer_string": "35986",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2913,
+    "type": "diane_bad_storyfeedback_13",
+    "animation": "lobby_anger_02",
+    "answer_string": "35982",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2914,
+    "type": "diane_bad_storyfeedback_14",
+    "animation": "lobby_anger_01",
+    "answer_string": "35980",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 2915,
+    "type": "diane_bad_storyfeedback_15",
+    "animation": "lobby_anger_01",
+    "answer_string": "35980",
+    "voice_sound_id": 100409
+  },
+  {
+    "id": 3001,
+    "type": "ban_storyquestion_01",
+    "animation": "lobby_talk",
+    "answer_string": "30324",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3002,
+    "type": "ban_storyquestion_02",
+    "animation": "lobby_talk",
+    "answer_string": "30325",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3003,
+    "type": "ban_storyquestion_03",
+    "animation": "lobby_talk",
+    "answer_string": "30326",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3004,
+    "type": "ban_storyquestion_04",
+    "animation": "lobby_talk",
+    "answer_string": "30327",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3005,
+    "type": "ban_storyquestion_05",
+    "animation": "lobby_talk",
+    "answer_string": "30328",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3006,
+    "type": "ban_storyquestion_06",
+    "animation": "lobby_talk",
+    "answer_string": "30329",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3007,
+    "type": "ban_storyquestion_07",
+    "animation": "lobby_talk",
+    "answer_string": "30330",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3008,
+    "type": "ban_storyquestion_08",
+    "animation": "lobby_talk",
+    "answer_string": "30331",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3009,
+    "type": "ban_storyquestion_09",
+    "animation": "lobby_talk",
+    "answer_string": "30332",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3010,
+    "type": "ban_storyquestion_10",
+    "animation": "lobby_talk",
+    "answer_string": "30333",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3011,
+    "type": "ban_storyquestion_11",
+    "animation": "lobby_talk",
+    "answer_string": "30334",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3012,
+    "type": "ban_storyquestion_12",
+    "animation": "lobby_talk",
+    "answer_string": "30335",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3013,
+    "type": "ban_storyquestion_13",
+    "animation": "lobby_talk",
+    "answer_string": "30336",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3301,
+    "type": "ban_player_storyanswer_01_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30285",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3302,
+    "type": "ban_player_storyanswer_01_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30286",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3303,
+    "type": "ban_player_storyanswer_01_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30287",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3304,
+    "type": "ban_player_storyanswer_02_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30288",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3305,
+    "type": "ban_player_storyanswer_02_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30289",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3306,
+    "type": "ban_player_storyanswer_02_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30290",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3307,
+    "type": "ban_player_storyanswer_03_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30291",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3308,
+    "type": "ban_player_storyanswer_03_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30292",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3309,
+    "type": "ban_player_storyanswer_03_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30293",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3310,
+    "type": "ban_player_storyanswer_04_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30294",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3311,
+    "type": "ban_player_storyanswer_04_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30295",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3312,
+    "type": "ban_player_storyanswer_04_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30296",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3313,
+    "type": "ban_player_storyanswer_05_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30297",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3314,
+    "type": "ban_player_storyanswer_05_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30298",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3315,
+    "type": "ban_player_storyanswer_05_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30299",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3316,
+    "type": "ban_player_storyanswer_06_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30300",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3317,
+    "type": "ban_player_storyanswer_06_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30301",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3318,
+    "type": "ban_player_storyanswer_06_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30302",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3319,
+    "type": "ban_player_storyanswer_07_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30303",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3320,
+    "type": "ban_player_storyanswer_07_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30304",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3321,
+    "type": "ban_player_storyanswer_07_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30305",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3322,
+    "type": "ban_player_storyanswer_08_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30306",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3323,
+    "type": "ban_player_storyanswer_08_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30307",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3324,
+    "type": "ban_player_storyanswer_08_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30308",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3325,
+    "type": "ban_player_storyanswer_09_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30309",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3326,
+    "type": "ban_player_storyanswer_09_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30310",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3327,
+    "type": "ban_player_storyanswer_09_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30311",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3328,
+    "type": "ban_player_storyanswer_10_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30312",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3329,
+    "type": "ban_player_storyanswer_10_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30313",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3330,
+    "type": "ban_player_storyanswer_10_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30314",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3331,
+    "type": "ban_player_storyanswer_11_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30315",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3332,
+    "type": "ban_player_storyanswer_11_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30316",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3333,
+    "type": "ban_player_storyanswer_11_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30317",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3334,
+    "type": "ban_player_storyanswer_12_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30318",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3335,
+    "type": "ban_player_storyanswer_12_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30319",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3336,
+    "type": "ban_player_storyanswer_12_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30320",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3337,
+    "type": "ban_player_storyanswer_13_1",
+    "animation": "lobby_idle01",
+    "answer_string": "30321",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3338,
+    "type": "ban_player_storyanswer_13_2",
+    "animation": "lobby_idle01",
+    "answer_string": "30322",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3339,
+    "type": "ban_player_storyanswer_13_3",
+    "animation": "lobby_idle01",
+    "answer_string": "30323",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3701,
+    "type": "ban_good_storyfeedback_01",
+    "animation": "lobby_answer01",
+    "answer_string": "35953",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3702,
+    "type": "ban_good_storyfeedback_02",
+    "animation": "lobby_answer01",
+    "answer_string": "35954",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3703,
+    "type": "ban_good_storyfeedback_03",
+    "animation": "lobby_answer01",
+    "answer_string": "35955",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3704,
+    "type": "ban_good_storyfeedback_04",
+    "animation": "lobby_answer01",
+    "answer_string": "35956",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3705,
+    "type": "ban_good_storyfeedback_05",
+    "animation": "lobby_answer01",
+    "answer_string": "35957",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3706,
+    "type": "ban_good_storyfeedback_06",
+    "animation": "lobby_answer01",
+    "answer_string": "35958",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3707,
+    "type": "ban_good_storyfeedback_07",
+    "animation": "lobby_answer01",
+    "answer_string": "35959",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3708,
+    "type": "ban_good_storyfeedback_08",
+    "animation": "lobby_answer01",
+    "answer_string": "35960",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3709,
+    "type": "ban_good_storyfeedback_09",
+    "animation": "lobby_answer01",
+    "answer_string": "35961",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3710,
+    "type": "ban_good_storyfeedback_10",
+    "animation": "lobby_answer01",
+    "answer_string": "35962",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3711,
+    "type": "ban_good_storyfeedback_11",
+    "animation": "lobby_answer01",
+    "answer_string": "35963",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3712,
+    "type": "ban_good_storyfeedback_12",
+    "animation": "lobby_answer01",
+    "answer_string": "35964",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3713,
+    "type": "ban_good_storyfeedback_13",
+    "animation": "lobby_answer01",
+    "answer_string": "35965",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3801,
+    "type": "ban_normal_storyfeedback_01",
+    "animation": "lobby_idle01",
+    "answer_string": "35966",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3802,
+    "type": "ban_normal_storyfeedback_02",
+    "animation": "lobby_idle01",
+    "answer_string": "35967",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3803,
+    "type": "ban_normal_storyfeedback_03",
+    "animation": "lobby_idle01",
+    "answer_string": "35968",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3804,
+    "type": "ban_normal_storyfeedback_04",
+    "animation": "lobby_idle01",
+    "answer_string": "35969",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3805,
+    "type": "ban_normal_storyfeedback_05",
+    "animation": "lobby_idle01",
+    "answer_string": "35970",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3806,
+    "type": "ban_normal_storyfeedback_06",
+    "animation": "lobby_idle01",
+    "answer_string": "35971",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3807,
+    "type": "ban_normal_storyfeedback_07",
+    "animation": "lobby_idle01",
+    "answer_string": "35972",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3808,
+    "type": "ban_normal_storyfeedback_08",
+    "animation": "lobby_idle01",
+    "answer_string": "35973",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3809,
+    "type": "ban_normal_storyfeedback_09",
+    "animation": "lobby_idle01",
+    "answer_string": "35974",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3810,
+    "type": "ban_normal_storyfeedback_10",
+    "animation": "lobby_idle01",
+    "answer_string": "35975",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3811,
+    "type": "ban_normal_storyfeedback_11",
+    "animation": "lobby_idle01",
+    "answer_string": "35976",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3812,
+    "type": "ban_normal_storyfeedback_12",
+    "animation": "lobby_idle01",
+    "answer_string": "35977",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3813,
+    "type": "ban_normal_storyfeedback_13",
+    "animation": "lobby_idle01",
+    "answer_string": "35978",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3901,
+    "type": "ban_bad_storyfeedback_01",
+    "animation": "lobby_answer02",
+    "answer_string": "35941",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3902,
+    "type": "ban_bad_storyfeedback_02",
+    "animation": "lobby_answer02",
+    "answer_string": "35942",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3903,
+    "type": "ban_bad_storyfeedback_03",
+    "animation": "lobby_answer02",
+    "answer_string": "35943",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3904,
+    "type": "ban_bad_storyfeedback_04",
+    "animation": "lobby_answer02",
+    "answer_string": "35941",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3905,
+    "type": "ban_bad_storyfeedback_05",
+    "animation": "lobby_answer02",
+    "answer_string": "35944",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3906,
+    "type": "ban_bad_storyfeedback_06",
+    "animation": "lobby_answer02",
+    "answer_string": "35945",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3907,
+    "type": "ban_bad_storyfeedback_07",
+    "animation": "lobby_answer02",
+    "answer_string": "35946",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3908,
+    "type": "ban_bad_storyfeedback_08",
+    "animation": "lobby_answer02",
+    "answer_string": "35947",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3909,
+    "type": "ban_bad_storyfeedback_09",
+    "animation": "lobby_answer02",
+    "answer_string": "35948",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3910,
+    "type": "ban_bad_storyfeedback_10",
+    "animation": "lobby_answer02",
+    "answer_string": "35949",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3911,
+    "type": "ban_bad_storyfeedback_11",
+    "animation": "lobby_answer02",
+    "answer_string": "35950",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3912,
+    "type": "ban_bad_storyfeedback_12",
+    "animation": "lobby_answer02",
+    "answer_string": "35951",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 3913,
+    "type": "ban_bad_storyfeedback_13",
+    "animation": "lobby_answer02",
+    "answer_string": "35952",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4001,
+    "type": "king_storyquestion_01",
+    "animation": "lobby_talk",
+    "answer_string": "36322",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4002,
+    "type": "king_storyquestion_02",
+    "animation": "lobby_talk",
+    "answer_string": "36323",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4003,
+    "type": "king_storyquestion_03",
+    "animation": "lobby_talk",
+    "answer_string": "36324",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4004,
+    "type": "king_storyquestion_04",
+    "animation": "lobby_talk",
+    "answer_string": "36325",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4005,
+    "type": "king_storyquestion_05",
+    "animation": "lobby_talk",
+    "answer_string": "36326",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4006,
+    "type": "king_storyquestion_06",
+    "animation": "lobby_talk",
+    "answer_string": "36327",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4007,
+    "type": "king_storyquestion_07",
+    "animation": "lobby_talk",
+    "answer_string": "36328",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4008,
+    "type": "king_storyquestion_08",
+    "animation": "lobby_talk",
+    "answer_string": "36329",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4009,
+    "type": "king_storyquestion_09",
+    "animation": "lobby_talk",
+    "answer_string": "36330",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4010,
+    "type": "king_storyquestion_10",
+    "animation": "lobby_talk",
+    "answer_string": "36331",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4301,
+    "type": "king_player_storyanswer_01_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36292",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4302,
+    "type": "king_player_storyanswer_01_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36293",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4303,
+    "type": "king_player_storyanswer_01_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36294",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4304,
+    "type": "king_player_storyanswer_02_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36295",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4305,
+    "type": "king_player_storyanswer_02_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36296",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4306,
+    "type": "king_player_storyanswer_02_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36297",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4307,
+    "type": "king_player_storyanswer_03_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36298",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4308,
+    "type": "king_player_storyanswer_03_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36299",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4309,
+    "type": "king_player_storyanswer_03_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36300",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4310,
+    "type": "king_player_storyanswer_04_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36301",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4311,
+    "type": "king_player_storyanswer_04_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36302",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4312,
+    "type": "king_player_storyanswer_04_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36303",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4313,
+    "type": "king_player_storyanswer_05_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36304",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4314,
+    "type": "king_player_storyanswer_05_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36305",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4315,
+    "type": "king_player_storyanswer_05_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36306",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4316,
+    "type": "king_player_storyanswer_06_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36307",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4317,
+    "type": "king_player_storyanswer_06_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36308",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4318,
+    "type": "king_player_storyanswer_06_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36309",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4319,
+    "type": "king_player_storyanswer_07_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36310",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4320,
+    "type": "king_player_storyanswer_07_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36311",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4321,
+    "type": "king_player_storyanswer_07_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36312",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4322,
+    "type": "king_player_storyanswer_08_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36313",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4323,
+    "type": "king_player_storyanswer_08_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36314",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4324,
+    "type": "king_player_storyanswer_08_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36315",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4325,
+    "type": "king_player_storyanswer_09_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36316",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4326,
+    "type": "king_player_storyanswer_09_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36317",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4327,
+    "type": "king_player_storyanswer_09_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36318",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4328,
+    "type": "king_player_storyanswer_10_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36319",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4329,
+    "type": "king_player_storyanswer_10_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36320",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4330,
+    "type": "king_player_storyanswer_10_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36321",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4701,
+    "type": "king_good_storyfeedback_01",
+    "animation": "lobby_answer01",
+    "answer_string": "36229",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4702,
+    "type": "king_good_storyfeedback_02",
+    "animation": "lobby_answer01",
+    "answer_string": "36230",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4703,
+    "type": "king_good_storyfeedback_03",
+    "animation": "lobby_answer01",
+    "answer_string": "36231",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4704,
+    "type": "king_good_storyfeedback_04",
+    "animation": "lobby_answer01",
+    "answer_string": "36232",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4705,
+    "type": "king_good_storyfeedback_05",
+    "animation": "lobby_answer01",
+    "answer_string": "36233",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4706,
+    "type": "king_good_storyfeedback_06",
+    "animation": "lobby_answer01",
+    "answer_string": "36234",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4707,
+    "type": "king_good_storyfeedback_07",
+    "animation": "lobby_answer01",
+    "answer_string": "36235",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4708,
+    "type": "king_good_storyfeedback_08",
+    "animation": "lobby_answer01",
+    "answer_string": "36236",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4709,
+    "type": "king_good_storyfeedback_09",
+    "animation": "lobby_answer01",
+    "answer_string": "36237",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4710,
+    "type": "king_good_storyfeedback_10",
+    "animation": "lobby_answer01",
+    "answer_string": "36238",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4801,
+    "type": "king_normal_storyfeedback_01",
+    "animation": "lobby_talk",
+    "answer_string": "36239",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4802,
+    "type": "king_normal_storyfeedback_02",
+    "animation": "lobby_talk",
+    "answer_string": "36240",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4803,
+    "type": "king_normal_storyfeedback_03",
+    "animation": "lobby_talk",
+    "answer_string": "36241",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4804,
+    "type": "king_normal_storyfeedback_04",
+    "animation": "lobby_talk",
+    "answer_string": "36242",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4805,
+    "type": "king_normal_storyfeedback_05",
+    "animation": "lobby_talk",
+    "answer_string": "36243",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4806,
+    "type": "king_normal_storyfeedback_06",
+    "animation": "lobby_talk",
+    "answer_string": "36244",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4807,
+    "type": "king_normal_storyfeedback_07",
+    "animation": "lobby_talk",
+    "answer_string": "36245",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4808,
+    "type": "king_normal_storyfeedback_08",
+    "animation": "lobby_talk",
+    "answer_string": "36246",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4809,
+    "type": "king_normal_storyfeedback_09",
+    "animation": "lobby_talk",
+    "answer_string": "36247",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4810,
+    "type": "king_normal_storyfeedback_10",
+    "animation": "lobby_talk",
+    "answer_string": "36248",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4901,
+    "type": "king_bad_storyfeedback_01",
+    "animation": "lobby_answer02",
+    "answer_string": "36219",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4902,
+    "type": "king_bad_storyfeedback_02",
+    "animation": "lobby_answer02",
+    "answer_string": "36220",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4903,
+    "type": "king_bad_storyfeedback_03",
+    "animation": "lobby_answer02",
+    "answer_string": "36221",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4904,
+    "type": "king_bad_storyfeedback_04",
+    "animation": "lobby_answer02",
+    "answer_string": "36222",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4905,
+    "type": "king_bad_storyfeedback_05",
+    "animation": "lobby_answer02",
+    "answer_string": "36223",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4906,
+    "type": "king_bad_storyfeedback_06",
+    "animation": "lobby_answer02",
+    "answer_string": "36224",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4907,
+    "type": "king_bad_storyfeedback_07",
+    "animation": "lobby_answer02",
+    "answer_string": "36225",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4908,
+    "type": "king_bad_storyfeedback_08",
+    "animation": "lobby_answer02",
+    "answer_string": "36226",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4909,
+    "type": "king_bad_storyfeedback_09",
+    "animation": "lobby_answer02",
+    "answer_string": "36227",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 4910,
+    "type": "king_bad_storyfeedback_10",
+    "animation": "lobby_answer02",
+    "answer_string": "36228",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5001,
+    "type": "gowther_storyquestion_01",
+    "animation": "lobby_talk",
+    "answer_string": "33013",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5002,
+    "type": "gowther_storyquestion_02",
+    "animation": "lobby_talk",
+    "answer_string": "33014",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5003,
+    "type": "gowther_storyquestion_03",
+    "animation": "lobby_talk",
+    "answer_string": "33015",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5004,
+    "type": "gowther_storyquestion_04",
+    "animation": "lobby_talk",
+    "answer_string": "33016",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5005,
+    "type": "gowther_storyquestion_05",
+    "animation": "lobby_talk",
+    "answer_string": "33017",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5006,
+    "type": "gowther_storyquestion_06",
+    "animation": "lobby_talk",
+    "answer_string": "33018",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5007,
+    "type": "gowther_storyquestion_07",
+    "animation": "lobby_talk",
+    "answer_string": "33019",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5008,
+    "type": "gowther_storyquestion_08",
+    "animation": "lobby_talk",
+    "answer_string": "33020",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5009,
+    "type": "gowther_storyquestion_09",
+    "animation": "lobby_talk",
+    "answer_string": "33021",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5010,
+    "type": "gowther_storyquestion_10",
+    "animation": "lobby_talk",
+    "answer_string": "33022",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5301,
+    "type": "gowther_player_storyanswer_01_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32983",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5302,
+    "type": "gowther_player_storyanswer_01_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32984",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5303,
+    "type": "gowther_player_storyanswer_01_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32985",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5304,
+    "type": "gowther_player_storyanswer_02_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32986",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5305,
+    "type": "gowther_player_storyanswer_02_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32987",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5306,
+    "type": "gowther_player_storyanswer_02_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32988",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5307,
+    "type": "gowther_player_storyanswer_03_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32989",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5308,
+    "type": "gowther_player_storyanswer_03_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32990",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5309,
+    "type": "gowther_player_storyanswer_03_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32991",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5310,
+    "type": "gowther_player_storyanswer_04_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32992",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5311,
+    "type": "gowther_player_storyanswer_04_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32993",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5312,
+    "type": "gowther_player_storyanswer_04_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32994",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5313,
+    "type": "gowther_player_storyanswer_05_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32995",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5314,
+    "type": "gowther_player_storyanswer_05_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32996",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5315,
+    "type": "gowther_player_storyanswer_05_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32997",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5316,
+    "type": "gowther_player_storyanswer_06_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32998",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5317,
+    "type": "gowther_player_storyanswer_06_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32999",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5318,
+    "type": "gowther_player_storyanswer_06_3",
+    "animation": "lobby_idle01",
+    "answer_string": "33000",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5319,
+    "type": "gowther_player_storyanswer_07_1",
+    "animation": "lobby_idle01",
+    "answer_string": "33001",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5320,
+    "type": "gowther_player_storyanswer_07_2",
+    "animation": "lobby_idle01",
+    "answer_string": "33002",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5321,
+    "type": "gowther_player_storyanswer_07_3",
+    "animation": "lobby_idle01",
+    "answer_string": "33003",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5322,
+    "type": "gowther_player_storyanswer_08_1",
+    "animation": "lobby_idle01",
+    "answer_string": "33004",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5323,
+    "type": "gowther_player_storyanswer_08_2",
+    "animation": "lobby_idle01",
+    "answer_string": "33005",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5324,
+    "type": "gowther_player_storyanswer_08_3",
+    "animation": "lobby_idle01",
+    "answer_string": "33006",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5325,
+    "type": "gowther_player_storyanswer_09_1",
+    "animation": "lobby_idle01",
+    "answer_string": "33007",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5326,
+    "type": "gowther_player_storyanswer_09_2",
+    "animation": "lobby_idle01",
+    "answer_string": "33008",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5327,
+    "type": "gowther_player_storyanswer_09_3",
+    "animation": "lobby_idle01",
+    "answer_string": "33009",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5328,
+    "type": "gowther_player_storyanswer_10_1",
+    "animation": "lobby_idle01",
+    "answer_string": "33010",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5329,
+    "type": "gowther_player_storyanswer_10_2",
+    "animation": "lobby_idle01",
+    "answer_string": "33011",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5330,
+    "type": "gowther_player_storyanswer_10_3",
+    "animation": "lobby_idle01",
+    "answer_string": "33012",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5701,
+    "type": "gowther_good_storyfeedback_01",
+    "animation": "lobby_answer01",
+    "answer_string": "36144",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5702,
+    "type": "gowther_good_storyfeedback_02",
+    "animation": "lobby_answer01",
+    "answer_string": "36145",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5703,
+    "type": "gowther_good_storyfeedback_03",
+    "animation": "lobby_answer01",
+    "answer_string": "36146",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5704,
+    "type": "gowther_good_storyfeedback_04",
+    "animation": "lobby_answer01",
+    "answer_string": "36147",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5705,
+    "type": "gowther_good_storyfeedback_05",
+    "animation": "lobby_answer01",
+    "answer_string": "36148",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5706,
+    "type": "gowther_good_storyfeedback_06",
+    "animation": "lobby_answer01",
+    "answer_string": "36149",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5707,
+    "type": "gowther_good_storyfeedback_07",
+    "animation": "lobby_answer01",
+    "answer_string": "36150",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5708,
+    "type": "gowther_good_storyfeedback_08",
+    "animation": "lobby_answer01",
+    "answer_string": "36151",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5709,
+    "type": "gowther_good_storyfeedback_09",
+    "animation": "lobby_answer01",
+    "answer_string": "36152",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5710,
+    "type": "gowther_good_storyfeedback_10",
+    "animation": "lobby_answer01",
+    "answer_string": "36144",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5801,
+    "type": "gowther_normal_storyfeedback_01",
+    "animation": "lobby_talk",
+    "answer_string": "36153",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5802,
+    "type": "gowther_normal_storyfeedback_02",
+    "animation": "lobby_talk",
+    "answer_string": "36154",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5803,
+    "type": "gowther_normal_storyfeedback_03",
+    "animation": "lobby_talk",
+    "answer_string": "36155",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5804,
+    "type": "gowther_normal_storyfeedback_04",
+    "animation": "lobby_talk",
+    "answer_string": "36156",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5805,
+    "type": "gowther_normal_storyfeedback_05",
+    "animation": "lobby_talk",
+    "answer_string": "36157",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5806,
+    "type": "gowther_normal_storyfeedback_06",
+    "animation": "lobby_talk",
+    "answer_string": "36158",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5807,
+    "type": "gowther_normal_storyfeedback_07",
+    "animation": "lobby_talk",
+    "answer_string": "36159",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5808,
+    "type": "gowther_normal_storyfeedback_08",
+    "animation": "lobby_talk",
+    "answer_string": "36160",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5809,
+    "type": "gowther_normal_storyfeedback_09",
+    "animation": "lobby_talk",
+    "answer_string": "36161",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5810,
+    "type": "gowther_normal_storyfeedback_10",
+    "animation": "lobby_talk",
+    "answer_string": "36162",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5901,
+    "type": "gowther_bad_storyfeedback_01",
+    "animation": "lobby_answer02",
+    "answer_string": "36134",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5902,
+    "type": "gowther_bad_storyfeedback_02",
+    "animation": "lobby_answer02",
+    "answer_string": "36135",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5903,
+    "type": "gowther_bad_storyfeedback_03",
+    "animation": "lobby_answer02",
+    "answer_string": "36136",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5904,
+    "type": "gowther_bad_storyfeedback_04",
+    "animation": "lobby_answer02",
+    "answer_string": "36137",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5905,
+    "type": "gowther_bad_storyfeedback_05",
+    "animation": "lobby_answer02",
+    "answer_string": "36138",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5906,
+    "type": "gowther_bad_storyfeedback_06",
+    "animation": "lobby_answer02",
+    "answer_string": "36139",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5907,
+    "type": "gowther_bad_storyfeedback_07",
+    "animation": "lobby_answer02",
+    "answer_string": "36140",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5908,
+    "type": "gowther_bad_storyfeedback_08",
+    "animation": "lobby_answer02",
+    "answer_string": "36141",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5909,
+    "type": "gowther_bad_storyfeedback_09",
+    "animation": "lobby_answer02",
+    "answer_string": "36142",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 5910,
+    "type": "gowther_bad_storyfeedback_10",
+    "animation": "lobby_answer02",
+    "answer_string": "36143",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6001,
+    "type": "merlin_storyquestion_01",
+    "animation": "lobby_talk",
+    "answer_string": "36644",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6002,
+    "type": "merlin_storyquestion_02",
+    "animation": "lobby_talk",
+    "answer_string": "36645",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6003,
+    "type": "merlin_storyquestion_03",
+    "animation": "lobby_talk",
+    "answer_string": "36646",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6004,
+    "type": "merlin_storyquestion_04",
+    "animation": "lobby_talk",
+    "answer_string": "36647",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6005,
+    "type": "merlin_storyquestion_05",
+    "animation": "lobby_talk",
+    "answer_string": "36648",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6006,
+    "type": "merlin_storyquestion_06",
+    "animation": "lobby_talk",
+    "answer_string": "36649",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6007,
+    "type": "merlin_storyquestion_07",
+    "animation": "lobby_talk",
+    "answer_string": "36650",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6008,
+    "type": "merlin_storyquestion_08",
+    "animation": "lobby_talk",
+    "answer_string": "36651",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6009,
+    "type": "merlin_storyquestion_09",
+    "animation": "lobby_talk",
+    "answer_string": "36652",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6010,
+    "type": "merlin_storyquestion_10",
+    "animation": "lobby_talk",
+    "answer_string": "36653",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6301,
+    "type": "merlin_player_storyanswer_01_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36614",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6302,
+    "type": "merlin_player_storyanswer_01_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36615",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6303,
+    "type": "merlin_player_storyanswer_01_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36616",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6304,
+    "type": "merlin_player_storyanswer_02_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36617",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6305,
+    "type": "merlin_player_storyanswer_02_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36618",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6306,
+    "type": "merlin_player_storyanswer_02_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36619",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6307,
+    "type": "merlin_player_storyanswer_03_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36620",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6308,
+    "type": "merlin_player_storyanswer_03_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36621",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6309,
+    "type": "merlin_player_storyanswer_03_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36622",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6310,
+    "type": "merlin_player_storyanswer_04_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36623",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6311,
+    "type": "merlin_player_storyanswer_04_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36624",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6312,
+    "type": "merlin_player_storyanswer_04_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36625",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6313,
+    "type": "merlin_player_storyanswer_05_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36626",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6314,
+    "type": "merlin_player_storyanswer_05_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36627",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6315,
+    "type": "merlin_player_storyanswer_05_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36628",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6316,
+    "type": "merlin_player_storyanswer_06_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36629",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6317,
+    "type": "merlin_player_storyanswer_06_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36630",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6318,
+    "type": "merlin_player_storyanswer_06_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36631",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6319,
+    "type": "merlin_player_storyanswer_07_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36632",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6320,
+    "type": "merlin_player_storyanswer_07_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36633",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6321,
+    "type": "merlin_player_storyanswer_07_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36634",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6322,
+    "type": "merlin_player_storyanswer_08_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36635",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6323,
+    "type": "merlin_player_storyanswer_08_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36636",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6324,
+    "type": "merlin_player_storyanswer_08_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36637",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6325,
+    "type": "merlin_player_storyanswer_09_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36638",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6326,
+    "type": "merlin_player_storyanswer_09_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36639",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6327,
+    "type": "merlin_player_storyanswer_09_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36640",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6328,
+    "type": "merlin_player_storyanswer_10_1",
+    "animation": "lobby_idle01",
+    "answer_string": "36641",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6329,
+    "type": "merlin_player_storyanswer_10_2",
+    "animation": "lobby_idle01",
+    "answer_string": "36642",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6330,
+    "type": "merlin_player_storyanswer_10_3",
+    "animation": "lobby_idle01",
+    "answer_string": "36643",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6701,
+    "type": "merlin_good_storyfeedback_01",
+    "animation": "lobby_answer01",
+    "answer_string": "36259",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6702,
+    "type": "merlin_good_storyfeedback_02",
+    "animation": "lobby_answer01",
+    "answer_string": "36260",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6703,
+    "type": "merlin_good_storyfeedback_03",
+    "animation": "lobby_answer01",
+    "answer_string": "36261",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6704,
+    "type": "merlin_good_storyfeedback_04",
+    "animation": "lobby_answer01",
+    "answer_string": "36262",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6705,
+    "type": "merlin_good_storyfeedback_05",
+    "animation": "lobby_answer01",
+    "answer_string": "36263",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6706,
+    "type": "merlin_good_storyfeedback_06",
+    "animation": "lobby_answer01",
+    "answer_string": "36264",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6707,
+    "type": "merlin_good_storyfeedback_07",
+    "animation": "lobby_answer01",
+    "answer_string": "36265",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6708,
+    "type": "merlin_good_storyfeedback_08",
+    "animation": "lobby_answer01",
+    "answer_string": "36266",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6709,
+    "type": "merlin_good_storyfeedback_09",
+    "animation": "lobby_answer01",
+    "answer_string": "36267",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6710,
+    "type": "merlin_good_storyfeedback_10",
+    "animation": "lobby_answer01",
+    "answer_string": "36268",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6801,
+    "type": "merlin_normal_storyfeedback_01",
+    "animation": "lobby_talk",
+    "answer_string": "36269",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6802,
+    "type": "merlin_normal_storyfeedback_02",
+    "animation": "lobby_talk",
+    "answer_string": "36270",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6803,
+    "type": "merlin_normal_storyfeedback_03",
+    "animation": "lobby_talk",
+    "answer_string": "36271",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6804,
+    "type": "merlin_normal_storyfeedback_04",
+    "animation": "lobby_talk",
+    "answer_string": "36272",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6805,
+    "type": "merlin_normal_storyfeedback_05",
+    "animation": "lobby_talk",
+    "answer_string": "36273",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6806,
+    "type": "merlin_normal_storyfeedback_06",
+    "animation": "lobby_talk",
+    "answer_string": "36274",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6807,
+    "type": "merlin_normal_storyfeedback_07",
+    "animation": "lobby_talk",
+    "answer_string": "36275",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6808,
+    "type": "merlin_normal_storyfeedback_08",
+    "animation": "lobby_talk",
+    "answer_string": "36276",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6809,
+    "type": "merlin_normal_storyfeedback_09",
+    "animation": "lobby_talk",
+    "answer_string": "36277",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6810,
+    "type": "merlin_normal_storyfeedback_10",
+    "animation": "lobby_talk",
+    "answer_string": "36278",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6901,
+    "type": "merlin_bad_storyfeedback_01",
+    "animation": "lobby_answer02",
+    "answer_string": "36249",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6902,
+    "type": "merlin_bad_storyfeedback_02",
+    "animation": "lobby_answer02",
+    "answer_string": "36250",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6903,
+    "type": "merlin_bad_storyfeedback_03",
+    "animation": "lobby_answer02",
+    "answer_string": "36251",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6904,
+    "type": "merlin_bad_storyfeedback_04",
+    "animation": "lobby_answer02",
+    "answer_string": "36252",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6905,
+    "type": "merlin_bad_storyfeedback_05",
+    "animation": "lobby_answer02",
+    "answer_string": "36253",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6906,
+    "type": "merlin_bad_storyfeedback_06",
+    "animation": "lobby_answer02",
+    "answer_string": "36254",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6907,
+    "type": "merlin_bad_storyfeedback_07",
+    "animation": "lobby_answer02",
+    "answer_string": "36255",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6908,
+    "type": "merlin_bad_storyfeedback_08",
+    "animation": "lobby_answer02",
+    "answer_string": "36256",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6909,
+    "type": "merlin_bad_storyfeedback_09",
+    "animation": "lobby_answer02",
+    "answer_string": "36257",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 6910,
+    "type": "merlin_bad_storyfeedback_10",
+    "animation": "lobby_answer02",
+    "answer_string": "36258",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7001,
+    "type": "escanor_storyquestion_01",
+    "animation": "",
+    "answer_string": "32973",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7002,
+    "type": "escanor_storyquestion_02",
+    "animation": "",
+    "answer_string": "32974",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7003,
+    "type": "escanor_storyquestion_03",
+    "animation": "",
+    "answer_string": "32975",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7004,
+    "type": "escanor_storyquestion_04",
+    "animation": "",
+    "answer_string": "32976",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7005,
+    "type": "escanor_storyquestion_05",
+    "animation": "",
+    "answer_string": "32977",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7006,
+    "type": "escanor_storyquestion_06",
+    "animation": "",
+    "answer_string": "32978",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7007,
+    "type": "escanor_storyquestion_07",
+    "animation": "",
+    "answer_string": "32979",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7008,
+    "type": "escanor_storyquestion_08",
+    "animation": "",
+    "answer_string": "32980",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7009,
+    "type": "escanor_storyquestion_09",
+    "animation": "",
+    "answer_string": "32981",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7010,
+    "type": "escanor_storyquestion_10",
+    "animation": "",
+    "answer_string": "32982",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7301,
+    "type": "escanor_player_storyanswer_01_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32943",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7302,
+    "type": "escanor_player_storyanswer_01_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32944",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7303,
+    "type": "escanor_player_storyanswer_01_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32945",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7304,
+    "type": "escanor_player_storyanswer_02_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32946",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7305,
+    "type": "escanor_player_storyanswer_02_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32947",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7306,
+    "type": "escanor_player_storyanswer_02_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32948",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7307,
+    "type": "escanor_player_storyanswer_03_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32949",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7308,
+    "type": "escanor_player_storyanswer_03_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32950",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7309,
+    "type": "escanor_player_storyanswer_03_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32951",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7310,
+    "type": "escanor_player_storyanswer_04_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32952",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7311,
+    "type": "escanor_player_storyanswer_04_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32953",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7312,
+    "type": "escanor_player_storyanswer_04_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32954",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7313,
+    "type": "escanor_player_storyanswer_05_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32955",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7314,
+    "type": "escanor_player_storyanswer_05_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32956",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7315,
+    "type": "escanor_player_storyanswer_05_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32957",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7316,
+    "type": "escanor_player_storyanswer_06_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32958",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7317,
+    "type": "escanor_player_storyanswer_06_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32959",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7318,
+    "type": "escanor_player_storyanswer_06_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32960",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7319,
+    "type": "escanor_player_storyanswer_07_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32961",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7320,
+    "type": "escanor_player_storyanswer_07_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32962",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7321,
+    "type": "escanor_player_storyanswer_07_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32963",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7322,
+    "type": "escanor_player_storyanswer_08_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32964",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7323,
+    "type": "escanor_player_storyanswer_08_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32965",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7324,
+    "type": "escanor_player_storyanswer_08_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32966",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7325,
+    "type": "escanor_player_storyanswer_09_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32967",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7326,
+    "type": "escanor_player_storyanswer_09_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32968",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7327,
+    "type": "escanor_player_storyanswer_09_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32969",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7328,
+    "type": "escanor_player_storyanswer_10_1",
+    "animation": "lobby_idle01",
+    "answer_string": "32970",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7329,
+    "type": "escanor_player_storyanswer_10_2",
+    "animation": "lobby_idle01",
+    "answer_string": "32971",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7330,
+    "type": "escanor_player_storyanswer_10_3",
+    "animation": "lobby_idle01",
+    "answer_string": "32972",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7701,
+    "type": "escanor_good_storyfeedback_01",
+    "animation": "lobby_answer01",
+    "answer_string": "36114",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7702,
+    "type": "escanor_good_storyfeedback_02",
+    "animation": "lobby_answer01",
+    "answer_string": "36115",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7703,
+    "type": "escanor_good_storyfeedback_03",
+    "animation": "lobby_answer01",
+    "answer_string": "36116",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7704,
+    "type": "escanor_good_storyfeedback_04",
+    "animation": "lobby_answer01",
+    "answer_string": "36117",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7705,
+    "type": "escanor_good_storyfeedback_05",
+    "animation": "lobby_answer01",
+    "answer_string": "36118",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7706,
+    "type": "escanor_good_storyfeedback_06",
+    "animation": "lobby_answer01",
+    "answer_string": "36119",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7707,
+    "type": "escanor_good_storyfeedback_07",
+    "animation": "lobby_answer01",
+    "answer_string": "36120",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7708,
+    "type": "escanor_good_storyfeedback_08",
+    "animation": "lobby_answer01",
+    "answer_string": "36121",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7709,
+    "type": "escanor_good_storyfeedback_09",
+    "animation": "lobby_answer01",
+    "answer_string": "36122",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7710,
+    "type": "escanor_good_storyfeedback_10",
+    "animation": "lobby_answer01",
+    "answer_string": "36123",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7801,
+    "type": "escanor_normal_storyfeedback_01",
+    "animation": "",
+    "answer_string": "36124",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7802,
+    "type": "escanor_normal_storyfeedback_02",
+    "animation": "",
+    "answer_string": "36125",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7803,
+    "type": "escanor_normal_storyfeedback_03",
+    "animation": "",
+    "answer_string": "36126",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7804,
+    "type": "escanor_normal_storyfeedback_04",
+    "animation": "",
+    "answer_string": "36127",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7805,
+    "type": "escanor_normal_storyfeedback_05",
+    "animation": "",
+    "answer_string": "36128",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7806,
+    "type": "escanor_normal_storyfeedback_06",
+    "animation": "",
+    "answer_string": "36129",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7807,
+    "type": "escanor_normal_storyfeedback_07",
+    "animation": "",
+    "answer_string": "36130",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7808,
+    "type": "escanor_normal_storyfeedback_08",
+    "animation": "",
+    "answer_string": "36131",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7809,
+    "type": "escanor_normal_storyfeedback_09",
+    "animation": "",
+    "answer_string": "36132",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7810,
+    "type": "escanor_normal_storyfeedback_10",
+    "animation": "",
+    "answer_string": "36133",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7901,
+    "type": "escanor_bad_storyfeedback_01",
+    "animation": "lobby_answer02",
+    "answer_string": "36104",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7902,
+    "type": "escanor_bad_storyfeedback_02",
+    "animation": "lobby_answer02",
+    "answer_string": "36105",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7903,
+    "type": "escanor_bad_storyfeedback_03",
+    "animation": "lobby_answer02",
+    "answer_string": "36106",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7904,
+    "type": "escanor_bad_storyfeedback_04",
+    "animation": "lobby_answer02",
+    "answer_string": "36107",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7905,
+    "type": "escanor_bad_storyfeedback_05",
+    "animation": "lobby_answer02",
+    "answer_string": "36108",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7906,
+    "type": "escanor_bad_storyfeedback_06",
+    "animation": "lobby_answer02",
+    "answer_string": "36109",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7907,
+    "type": "escanor_bad_storyfeedback_07",
+    "animation": "lobby_answer02",
+    "answer_string": "36110",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7908,
+    "type": "escanor_bad_storyfeedback_08",
+    "animation": "lobby_answer02",
+    "answer_string": "36111",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7909,
+    "type": "escanor_bad_storyfeedback_09",
+    "animation": "lobby_answer02",
+    "answer_string": "36112",
+    "voice_sound_id": 0
+  },
+  {
+    "id": 7910,
+    "type": "escanor_bad_storyfeedback_10",
+    "animation": "lobby_answer02",
+    "answer_string": "36113",
+    "voice_sound_id": 0
+  }
+]

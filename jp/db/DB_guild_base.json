@@ -1,0 +1,72 @@
+[
+  {
+    "guild_level": 1,
+    "guild_member": 30,
+    "skill_slot_count": 0,
+    "need_point_count": 0,
+    "save_point_count": 2000
+  },
+  {
+    "guild_level": 2,
+    "guild_member": 30,
+    "skill_slot_count": 0,
+    "need_point_count": 1000,
+    "save_point_count": 6000
+  },
+  {
+    "guild_level": 3,
+    "guild_member": 30,
+    "skill_slot_count": 1,
+    "need_point_count": 3000,
+    "save_point_count": 10000
+  },
+  {
+    "guild_level": 4,
+    "guild_member": 30,
+    "skill_slot_count": 1,
+    "need_point_count": 5000,
+    "save_point_count": 15000
+  },
+  {
+    "guild_level": 5,
+    "guild_member": 30,
+    "skill_slot_count": 2,
+    "need_point_count": 7500,
+    "save_point_count": 20000
+  },
+  {
+    "guild_level": 6,
+    "guild_member": 30,
+    "skill_slot_count": 2,
+    "need_point_count": 10000,
+    "save_point_count": 30000
+  },
+  {
+    "guild_level": 7,
+    "guild_member": 30,
+    "skill_slot_count": 3,
+    "need_point_count": 15000,
+    "save_point_count": 40000
+  },
+  {
+    "guild_level": 8,
+    "guild_member": 30,
+    "skill_slot_count": 3,
+    "need_point_count": 20000,
+    "save_point_count": 60000
+  },
+  {
+    "guild_level": 9,
+    "guild_member": 30,
+    "skill_slot_count": 4,
+    "need_point_count": 30000,
+    "save_point_count": 100000
+  },
+  {
+    "guild_level": 10,
+    "guild_member": 30,
+    "skill_slot_count": 4,
+    "need_point_count": 50000,
+    "save_point_count": 150000
+  }
+]

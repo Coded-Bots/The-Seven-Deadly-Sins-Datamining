@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "event_sub_index": 1000,
+    "reward_item_order": 1,
+    "reward_item_id": 500011,
+    "reward_item_count": 3
+  },
+  {
+    "id": 2,
+    "event_sub_index": 1000,
+    "reward_item_order": 2,
+    "reward_item_id": 15050211,
+    "reward_item_count": 1
+  },
+  {
+    "id": 3,
+    "event_sub_index": 1000,
+    "reward_item_order": 3,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 4,
+    "event_sub_index": 1000,
+    "reward_item_order": 4,
+    "reward_item_id": 500012,
+    "reward_item_count": 50000
+  },
+  {
+    "id": 5,
+    "event_sub_index": 1000,
+    "reward_item_order": 5,
+    "reward_item_id": 510105,
+    "reward_item_count": 1
+  },
+  {
+    "id": 6,
+    "event_sub_index": 1000,
+    "reward_item_order": 6,
+    "reward_item_id": 504003,
+    "reward_item_count": 5
+  },
+  {
+    "id": 7,
+    "event_sub_index": 1000,
+    "reward_item_order": 7,
+    "reward_item_id": 541406,
+    "reward_item_count": 1
+  },
+  {
+    "id": 8,
+    "event_sub_index": 1000,
+    "reward_item_order": 8,
+    "reward_item_id": 500011,
+    "reward_item_count": 3
+  },
+  {
+    "id": 9,
+    "event_sub_index": 1000,
+    "reward_item_order": 9,
+    "reward_item_id": 500030,
+    "reward_item_count": 2
+  }
+]

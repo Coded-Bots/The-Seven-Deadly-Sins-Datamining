@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "rank_type": 1,
+    "type_icon": "battle_tier_icon_bronze",
+    "type_localize": "3013"
+  },
+  {
+    "id": 2,
+    "rank_type": 2,
+    "type_icon": "battle_tier_icon_master",
+    "type_localize": "3014"
+  },
+  {
+    "id": 3,
+    "rank_type": 3,
+    "type_icon": "battle_tier_icon_gold",
+    "type_localize": "3015"
+  },
+  {
+    "id": 4,
+    "rank_type": 4,
+    "type_icon": "battle_tier_icon_platinum",
+    "type_localize": "3016"
+  },
+  {
+    "id": 5,
+    "rank_type": 5,
+    "type_icon": "battle_tier_icon_master",
+    "type_localize": "3017"
+  },
+  {
+    "id": 6,
+    "rank_type": 6,
+    "type_icon": "battle_tier_icon_champion",
+    "type_localize": "3018"
+  },
+  {
+    "id": 7,
+    "rank_type": 7,
+    "type_icon": "battle_tier_icon_challenger",
+    "type_localize": "3019"
+  }
+]

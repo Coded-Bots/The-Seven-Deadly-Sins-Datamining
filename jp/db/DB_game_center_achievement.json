@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "mission_type": "User_Rank",
+    "target_value": 10,
+    "jp_platform_id": "CgkIxrSoicIYEAIQDQ",
+    "kr_platform_id": "CgkIidS9veIEEAIQAg",
+    "gb_platform_id": "CgkIidS9veIEEAIQAg"
+  },
+  {
+    "id": 2,
+    "mission_type": "User_Rank",
+    "target_value": 20,
+    "jp_platform_id": "CgkIxrSoicIYEAIQDg",
+    "kr_platform_id": "CgkIidS9veIEEAIQAw",
+    "gb_platform_id": "CgkIidS9veIEEAIQAw"
+  },
+  {
+    "id": 3,
+    "mission_type": "User_Rank",
+    "target_value": 30,
+    "jp_platform_id": "CgkIxrSoicIYEAIQDw",
+    "kr_platform_id": "CgkIidS9veIEEAIQBA",
+    "gb_platform_id": "CgkIidS9veIEEAIQBA"
+  },
+  {
+    "id": 4,
+    "mission_type": "User_Rank",
+    "target_value": 40,
+    "jp_platform_id": "CgkIxrSoicIYEAIQEA",
+    "kr_platform_id": "CgkIidS9veIEEAIQBQ",
+    "gb_platform_id": "CgkIidS9veIEEAIQBQ"
+  },
+  {
+    "id": 5,
+    "mission_type": "User_Rank",
+    "target_value": 50,
+    "jp_platform_id": "CgkIxrSoicIYEAIQEQ",
+    "kr_platform_id": "CgkIidS9veIEEAIQBg",
+    "gb_platform_id": "CgkIidS9veIEEAIQBg"
+  },
+  {
+    "id": 6,
+    "mission_type": "Cooking_Complete",
+    "target_value": 10,
+    "jp_platform_id": "CgkIxrSoicIYEAIQEg",
+    "kr_platform_id": "CgkIidS9veIEEAIQBw",
+    "gb_platform_id": "CgkIidS9veIEEAIQBw"
+  },
+  {
+    "id": 7,
+    "mission_type": "HeroSkin_Gain_SSR",
+    "target_value": 1,
+    "jp_platform_id": "CgkIxrSoicIYEAIQEw",
+    "kr_platform_id": "CgkIidS9veIEEAIQCA",
+    "gb_platform_id": "CgkIidS9veIEEAIQCA"
+  },
+  {
+    "id": 8,
+    "mission_type": "Stage_Week_Clear",
+    "target_value": 10,
+    "jp_platform_id": "CgkIxrSoicIYEAIQFA",
+    "kr_platform_id": "CgkIidS9veIEEAIQCQ",
+    "gb_platform_id": "CgkIidS9veIEEAIQCQ"
+  },
+  {
+    "id": 9,
+    "mission_type": "Stage_Boss_Clear",
+    "target_value": 10,
+    "jp_platform_id": "CgkIxrSoicIYEAIQFQ",
+    "kr_platform_id": "CgkIidS9veIEEAIQCg",
+    "gb_platform_id": "CgkIidS9veIEEAIQCg"
+  },
+  {
+    "id": 10,
+    "mission_type": "Stage_Destroy_Clear",
+    "target_value": 10,
+    "jp_platform_id": "CgkIxrSoicIYEAIQFg",
+    "kr_platform_id": "CgkIidS9veIEEAIQCw",
+    "gb_platform_id": "CgkIidS9veIEEAIQCw"
+  },
+  {
+    "id": 11,
+    "mission_type": "Stage_Low_PVP_Clear",
+    "target_value": 10,
+    "jp_platform_id": "CgkIxrSoicIYEAIQFw",
+    "kr_platform_id": "CgkIidS9veIEEAIQDA",
+    "gb_platform_id": "CgkIidS9veIEEAIQDA"
+  }
+]

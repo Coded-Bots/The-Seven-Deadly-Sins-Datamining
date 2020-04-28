@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "gamble_group": 1001,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 2,
+    "gamble_group": 1002,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 3,
+    "gamble_group": 1003,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 4,
+    "gamble_group": 1004,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 88,
+    "rating_5": 12
+  },
+  {
+    "id": 5,
+    "gamble_group": 1005,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 94,
+    "rating_5": 6
+  },
+  {
+    "id": 6,
+    "gamble_group": 1006,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 94,
+    "rating_5": 6
+  },
+  {
+    "id": 7,
+    "gamble_group": 1007,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 80,
+    "rating_4": 19,
+    "rating_5": 1
+  },
+  {
+    "id": 8,
+    "gamble_group": 1008,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 9,
+    "gamble_group": 1009,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 58,
+    "rating_4": 35,
+    "rating_5": 7
+  },
+  {
+    "id": 14,
+    "gamble_group": 1014,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 15,
+    "gamble_group": 1015,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 16,
+    "gamble_group": 1016,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 17,
+    "gamble_group": 1017,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 18,
+    "gamble_group": 1018,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 19,
+    "gamble_group": 1019,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 20,
+    "gamble_group": 1020,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 21,
+    "gamble_group": 1021,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 22,
+    "gamble_group": 1022,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 23,
+    "gamble_group": 1023,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 24,
+    "gamble_group": 1024,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 25,
+    "gamble_group": 1025,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 26,
+    "gamble_group": 1026,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 27,
+    "gamble_group": 1027,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 29,
+    "gamble_group": 1029,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 30,
+    "gamble_group": 1030,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 59,
+    "rating_4": 35,
+    "rating_5": 6
+  },
+  {
+    "id": 31,
+    "gamble_group": 1031,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 32,
+    "gamble_group": 1032,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 33,
+    "gamble_group": 1033,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 34,
+    "gamble_group": 1034,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 35,
+    "gamble_group": 1035,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 36,
+    "gamble_group": 1036,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 37,
+    "gamble_group": 1037,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 38,
+    "gamble_group": 1038,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 39,
+    "gamble_group": 1039,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 40,
+    "gamble_group": 1040,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 41,
+    "gamble_group": 1041,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 36,
+    "rating_5": 4
+  },
+  {
+    "id": 42,
+    "gamble_group": 1042,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 33,
+    "rating_5": 7
+  },
+  {
+    "id": 44,
+    "gamble_group": 1044,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 50,
+    "gamble_group": 1050,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 51,
+    "gamble_group": 1051,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 52,
+    "gamble_group": 1052,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 53,
+    "gamble_group": 1053,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 54,
+    "gamble_group": 1054,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 55,
+    "gamble_group": 1055,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 56,
+    "gamble_group": 1056,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 94,
+    "rating_5": 6
+  },
+  {
+    "id": 57,
+    "gamble_group": 1057,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 94,
+    "rating_5": 6
+  },
+  {
+    "id": 58,
+    "gamble_group": 1058,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 80,
+    "rating_4": 19,
+    "rating_5": 1
+  },
+  {
+    "id": 100,
+    "gamble_group": 2001,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 101,
+    "gamble_group": 2002,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 102,
+    "gamble_group": 2003,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 103,
+    "gamble_group": 2004,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 104,
+    "gamble_group": 2005,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 105,
+    "gamble_group": 2006,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 106,
+    "gamble_group": 2007,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 107,
+    "gamble_group": 2008,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 108,
+    "gamble_group": 2009,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 109,
+    "gamble_group": 2010,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 110,
+    "gamble_group": 2011,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 111,
+    "gamble_group": 2012,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 112,
+    "gamble_group": 2013,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  }
+]

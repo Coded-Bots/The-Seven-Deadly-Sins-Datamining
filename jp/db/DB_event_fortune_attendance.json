@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "event_sub_index": 1030,
+    "reward_type": "fortune",
+    "reward_sub_type": 1,
+    "reward_title": "1251",
+    "reward_sub_desc": "1255",
+    "day_random": 1,
+    "item_id": 930001,
+    "item_count": 3
+  },
+  {
+    "id": 2,
+    "event_sub_index": 1030,
+    "reward_type": "fortune",
+    "reward_sub_type": 1,
+    "reward_title": "1251",
+    "reward_sub_desc": "1255",
+    "day_random": 1,
+    "item_id": 930001,
+    "item_count": 3
+  },
+  {
+    "id": 3,
+    "event_sub_index": 1030,
+    "reward_type": "fortune",
+    "reward_sub_type": 2,
+    "reward_title": "1252",
+    "reward_sub_desc": "1256",
+    "day_random": 1,
+    "item_id": 500012,
+    "item_count": 100000
+  },
+  {
+    "id": 4,
+    "event_sub_index": 1030,
+    "reward_type": "fortune",
+    "reward_sub_type": 2,
+    "reward_title": "1252",
+    "reward_sub_desc": "1256",
+    "day_random": 1,
+    "item_id": 500012,
+    "item_count": 100000
+  },
+  {
+    "id": 5,
+    "event_sub_index": 1030,
+    "reward_type": "fortune",
+    "reward_sub_type": 3,
+    "reward_title": "1253",
+    "reward_sub_desc": "1257",
+    "day_random": 1,
+    "item_id": 500011,
+    "item_count": 3
+  },
+  {
+    "id": 6,
+    "event_sub_index": 1030,
+    "reward_type": "fortune",
+    "reward_sub_type": 3,
+    "reward_title": "1253",
+    "reward_sub_desc": "1257",
+    "day_random": 1,
+    "item_id": 500011,
+    "item_count": 3
+  },
+  {
+    "id": 7,
+    "event_sub_index": 1030,
+    "reward_type": "fortune",
+    "reward_sub_type": 3,
+    "reward_title": "1253",
+    "reward_sub_desc": "1257",
+    "day_random": 1,
+    "item_id": 500011,
+    "item_count": 3
+  }
+]

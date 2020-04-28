@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "need_quest_id": 0,
+    "need_main_stage_id": 500103,
+    "red_evolution_break_max": 1,
+    "green_evolution_break_max": 1,
+    "blue_evolution_break_max": 1
+  },
+  {
+    "id": 2,
+    "need_quest_id": 16026,
+    "need_main_stage_id": 0,
+    "red_evolution_break_max": 2,
+    "green_evolution_break_max": 2,
+    "blue_evolution_break_max": 2
+  },
+  {
+    "id": 3,
+    "need_quest_id": 17013,
+    "need_main_stage_id": 0,
+    "red_evolution_break_max": 3,
+    "green_evolution_break_max": 3,
+    "blue_evolution_break_max": 3
+  },
+  {
+    "id": 4,
+    "need_quest_id": 18020,
+    "need_main_stage_id": 0,
+    "red_evolution_break_max": 4,
+    "green_evolution_break_max": 4,
+    "blue_evolution_break_max": 4
+  }
+]

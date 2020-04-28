@@ -1,0 +1,34 @@
+[
+  {
+    "region": 1,
+    "limit_count": 1
+  },
+  {
+    "region": 2,
+    "limit_count": 1
+  },
+  {
+    "region": 3,
+    "limit_count": 1
+  },
+  {
+    "region": 4,
+    "limit_count": 1
+  },
+  {
+    "region": 5,
+    "limit_count": 1
+  },
+  {
+    "region": 6,
+    "limit_count": 1
+  },
+  {
+    "region": 9201,
+    "limit_count": 3
+  },
+  {
+    "region": 9308,
+    "limit_count": 1
+  }
+]

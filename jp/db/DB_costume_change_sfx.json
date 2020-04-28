@@ -1,0 +1,3440 @@
+[
+  {
+    "id": 404,
+    "costume_id": 860504,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 405,
+    "costume_id": 860504,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 406,
+    "costume_id": 860504,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_104"
+  },
+  {
+    "id": 407,
+    "costume_id": 860504,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_104"
+  },
+  {
+    "id": 408,
+    "costume_id": 860504,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 409,
+    "costume_id": 860504,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 410,
+    "costume_id": 860504,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 411,
+    "costume_id": 860504,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 412,
+    "costume_id": 860504,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_104"
+  },
+  {
+    "id": 413,
+    "costume_id": 860504,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 414,
+    "costume_id": 860504,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 415,
+    "costume_id": 860504,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 416,
+    "costume_id": 860504,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 417,
+    "costume_id": 860504,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 418,
+    "costume_id": 860504,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 419,
+    "costume_id": 860504,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 420,
+    "costume_id": 860504,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 421,
+    "costume_id": 860504,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 422,
+    "costume_id": 860504,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 423,
+    "costume_id": 860504,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 424,
+    "costume_id": 860504,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 425,
+    "costume_id": 860504,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 426,
+    "costume_id": 860504,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_104"
+  },
+  {
+    "id": 427,
+    "costume_id": 860504,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 428,
+    "costume_id": 860504,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 429,
+    "costume_id": 860504,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 430,
+    "costume_id": 860504,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 431,
+    "costume_id": 860504,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 432,
+    "costume_id": 860504,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 433,
+    "costume_id": 860504,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 434,
+    "costume_id": 860504,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 435,
+    "costume_id": 860504,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 436,
+    "costume_id": 860504,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 437,
+    "costume_id": 860507,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 438,
+    "costume_id": 860507,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 439,
+    "costume_id": 860507,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_107"
+  },
+  {
+    "id": 440,
+    "costume_id": 860507,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_107"
+  },
+  {
+    "id": 441,
+    "costume_id": 860507,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 442,
+    "costume_id": 860507,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 443,
+    "costume_id": 860507,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 444,
+    "costume_id": 860507,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 445,
+    "costume_id": 860507,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_107"
+  },
+  {
+    "id": 446,
+    "costume_id": 860507,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 447,
+    "costume_id": 860507,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 448,
+    "costume_id": 860507,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 449,
+    "costume_id": 860507,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 450,
+    "costume_id": 860507,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 451,
+    "costume_id": 860507,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 452,
+    "costume_id": 860507,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 453,
+    "costume_id": 860507,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 454,
+    "costume_id": 860507,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 455,
+    "costume_id": 860507,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 456,
+    "costume_id": 860507,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 457,
+    "costume_id": 860507,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 458,
+    "costume_id": 860507,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 459,
+    "costume_id": 860507,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_107"
+  },
+  {
+    "id": 460,
+    "costume_id": 860507,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 461,
+    "costume_id": 860507,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 462,
+    "costume_id": 860507,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 463,
+    "costume_id": 860507,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 464,
+    "costume_id": 860507,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 465,
+    "costume_id": 860507,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 466,
+    "costume_id": 860507,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 467,
+    "costume_id": 860507,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 468,
+    "costume_id": 860507,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 469,
+    "costume_id": 860507,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 470,
+    "costume_id": 860508,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 471,
+    "costume_id": 860508,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 472,
+    "costume_id": 860508,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_108"
+  },
+  {
+    "id": 473,
+    "costume_id": 860508,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_108"
+  },
+  {
+    "id": 474,
+    "costume_id": 860508,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 475,
+    "costume_id": 860508,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 476,
+    "costume_id": 860508,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 477,
+    "costume_id": 860508,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 478,
+    "costume_id": 860508,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_108"
+  },
+  {
+    "id": 479,
+    "costume_id": 860508,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 480,
+    "costume_id": 860508,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 481,
+    "costume_id": 860508,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 482,
+    "costume_id": 860508,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 483,
+    "costume_id": 860508,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 484,
+    "costume_id": 860508,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 485,
+    "costume_id": 860508,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 486,
+    "costume_id": 860508,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 487,
+    "costume_id": 860508,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 488,
+    "costume_id": 860508,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 489,
+    "costume_id": 860508,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 490,
+    "costume_id": 860508,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 491,
+    "costume_id": 860508,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 492,
+    "costume_id": 860508,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_108"
+  },
+  {
+    "id": 493,
+    "costume_id": 860508,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 494,
+    "costume_id": 860508,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 495,
+    "costume_id": 860508,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 496,
+    "costume_id": 860508,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 497,
+    "costume_id": 860508,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 498,
+    "costume_id": 860508,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 499,
+    "costume_id": 860508,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 500,
+    "costume_id": 860508,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 501,
+    "costume_id": 860508,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 502,
+    "costume_id": 860508,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 503,
+    "costume_id": 860502,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 504,
+    "costume_id": 860502,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 505,
+    "costume_id": 860502,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_102"
+  },
+  {
+    "id": 506,
+    "costume_id": 860502,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_102"
+  },
+  {
+    "id": 507,
+    "costume_id": 860502,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 508,
+    "costume_id": 860502,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 509,
+    "costume_id": 860502,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 510,
+    "costume_id": 860502,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 511,
+    "costume_id": 860502,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_102"
+  },
+  {
+    "id": 512,
+    "costume_id": 860502,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 513,
+    "costume_id": 860502,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 514,
+    "costume_id": 860502,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 515,
+    "costume_id": 860502,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 516,
+    "costume_id": 860502,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 517,
+    "costume_id": 860502,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 518,
+    "costume_id": 860502,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 519,
+    "costume_id": 860502,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 520,
+    "costume_id": 860502,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 521,
+    "costume_id": 860502,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 522,
+    "costume_id": 860502,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 523,
+    "costume_id": 860502,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 524,
+    "costume_id": 860502,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 525,
+    "costume_id": 860502,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_102"
+  },
+  {
+    "id": 526,
+    "costume_id": 860502,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 527,
+    "costume_id": 860502,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 528,
+    "costume_id": 860502,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 529,
+    "costume_id": 860502,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 530,
+    "costume_id": 860502,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 531,
+    "costume_id": 860502,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 532,
+    "costume_id": 860502,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 533,
+    "costume_id": 860502,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 534,
+    "costume_id": 860502,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 535,
+    "costume_id": 860502,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 536,
+    "costume_id": 860505,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 537,
+    "costume_id": 860505,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 538,
+    "costume_id": 860505,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_105"
+  },
+  {
+    "id": 539,
+    "costume_id": 860505,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_105"
+  },
+  {
+    "id": 540,
+    "costume_id": 860505,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 541,
+    "costume_id": 860505,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 542,
+    "costume_id": 860505,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 543,
+    "costume_id": 860505,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 544,
+    "costume_id": 860505,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_105"
+  },
+  {
+    "id": 545,
+    "costume_id": 860505,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 546,
+    "costume_id": 860505,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 547,
+    "costume_id": 860505,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 548,
+    "costume_id": 860505,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 549,
+    "costume_id": 860505,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 550,
+    "costume_id": 860505,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 551,
+    "costume_id": 860505,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 552,
+    "costume_id": 860505,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 553,
+    "costume_id": 860505,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 554,
+    "costume_id": 860505,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 555,
+    "costume_id": 860505,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 556,
+    "costume_id": 860505,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 557,
+    "costume_id": 860505,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 558,
+    "costume_id": 860505,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_105"
+  },
+  {
+    "id": 559,
+    "costume_id": 860505,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 560,
+    "costume_id": 860505,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 561,
+    "costume_id": 860505,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 562,
+    "costume_id": 860505,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 563,
+    "costume_id": 860505,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 564,
+    "costume_id": 860505,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 565,
+    "costume_id": 860505,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 566,
+    "costume_id": 860505,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 567,
+    "costume_id": 860505,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 568,
+    "costume_id": 860505,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 569,
+    "costume_id": 860551,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 570,
+    "costume_id": 860551,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 571,
+    "costume_id": 860551,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_501"
+  },
+  {
+    "id": 572,
+    "costume_id": 860551,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_501"
+  },
+  {
+    "id": 573,
+    "costume_id": 860551,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 574,
+    "costume_id": 860551,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 575,
+    "costume_id": 860551,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 576,
+    "costume_id": 860551,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 577,
+    "costume_id": 860551,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_501"
+  },
+  {
+    "id": 578,
+    "costume_id": 860551,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 579,
+    "costume_id": 860551,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 580,
+    "costume_id": 860551,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 581,
+    "costume_id": 860551,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 582,
+    "costume_id": 860551,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 583,
+    "costume_id": 860551,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 584,
+    "costume_id": 860551,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 585,
+    "costume_id": 860551,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 586,
+    "costume_id": 860551,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 587,
+    "costume_id": 860551,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 588,
+    "costume_id": 860551,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 589,
+    "costume_id": 860551,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 590,
+    "costume_id": 860551,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 591,
+    "costume_id": 860551,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_501"
+  },
+  {
+    "id": 592,
+    "costume_id": 860551,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 593,
+    "costume_id": 860551,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 594,
+    "costume_id": 860551,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 595,
+    "costume_id": 860551,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 596,
+    "costume_id": 860551,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 597,
+    "costume_id": 860551,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 598,
+    "costume_id": 860551,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 599,
+    "costume_id": 860551,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 600,
+    "costume_id": 860551,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 601,
+    "costume_id": 860551,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 602,
+    "costume_id": 860506,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 603,
+    "costume_id": 860506,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 604,
+    "costume_id": 860506,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_106"
+  },
+  {
+    "id": 605,
+    "costume_id": 860506,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_106"
+  },
+  {
+    "id": 606,
+    "costume_id": 860506,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 607,
+    "costume_id": 860506,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 608,
+    "costume_id": 860506,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 609,
+    "costume_id": 860506,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 610,
+    "costume_id": 860506,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_106"
+  },
+  {
+    "id": 611,
+    "costume_id": 860506,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 612,
+    "costume_id": 860506,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 613,
+    "costume_id": 860506,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 614,
+    "costume_id": 860506,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 615,
+    "costume_id": 860506,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 616,
+    "costume_id": 860506,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 617,
+    "costume_id": 860506,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 618,
+    "costume_id": 860506,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 619,
+    "costume_id": 860506,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 620,
+    "costume_id": 860506,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 621,
+    "costume_id": 860506,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 622,
+    "costume_id": 860506,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 623,
+    "costume_id": 860506,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 624,
+    "costume_id": 860506,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_106"
+  },
+  {
+    "id": 625,
+    "costume_id": 860506,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 626,
+    "costume_id": 860506,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 627,
+    "costume_id": 860506,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 628,
+    "costume_id": 860506,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 629,
+    "costume_id": 860506,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 630,
+    "costume_id": 860506,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 631,
+    "costume_id": 860506,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 632,
+    "costume_id": 860506,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 633,
+    "costume_id": 860506,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 634,
+    "costume_id": 860506,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 635,
+    "costume_id": 860552,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 636,
+    "costume_id": 860552,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 637,
+    "costume_id": 860552,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_502"
+  },
+  {
+    "id": 638,
+    "costume_id": 860552,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_502"
+  },
+  {
+    "id": 639,
+    "costume_id": 860552,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 640,
+    "costume_id": 860552,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 641,
+    "costume_id": 860552,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 642,
+    "costume_id": 860552,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 643,
+    "costume_id": 860552,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_502"
+  },
+  {
+    "id": 644,
+    "costume_id": 860552,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 645,
+    "costume_id": 860552,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 646,
+    "costume_id": 860552,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 647,
+    "costume_id": 860552,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 648,
+    "costume_id": 860552,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 649,
+    "costume_id": 860552,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 650,
+    "costume_id": 860552,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 651,
+    "costume_id": 860552,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 652,
+    "costume_id": 860552,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 653,
+    "costume_id": 860552,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 654,
+    "costume_id": 860552,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 655,
+    "costume_id": 860552,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 656,
+    "costume_id": 860552,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 657,
+    "costume_id": 860552,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_502"
+  },
+  {
+    "id": 658,
+    "costume_id": 860552,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 659,
+    "costume_id": 860552,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 660,
+    "costume_id": 860552,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 661,
+    "costume_id": 860552,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 662,
+    "costume_id": 860552,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 663,
+    "costume_id": 860552,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 664,
+    "costume_id": 860552,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 665,
+    "costume_id": 860552,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 666,
+    "costume_id": 860552,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 667,
+    "costume_id": 860552,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 668,
+    "costume_id": 860553,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 669,
+    "costume_id": 860553,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 670,
+    "costume_id": 860553,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_503"
+  },
+  {
+    "id": 671,
+    "costume_id": 860553,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_503"
+  },
+  {
+    "id": 672,
+    "costume_id": 860553,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 673,
+    "costume_id": 860553,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 674,
+    "costume_id": 860553,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 675,
+    "costume_id": 860553,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 676,
+    "costume_id": 860553,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_503"
+  },
+  {
+    "id": 677,
+    "costume_id": 860553,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 678,
+    "costume_id": 860553,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 679,
+    "costume_id": 860553,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 680,
+    "costume_id": 860553,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 681,
+    "costume_id": 860553,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 682,
+    "costume_id": 860553,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 683,
+    "costume_id": 860553,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 684,
+    "costume_id": 860553,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 685,
+    "costume_id": 860553,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 686,
+    "costume_id": 860553,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 687,
+    "costume_id": 860553,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 688,
+    "costume_id": 860553,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 689,
+    "costume_id": 860553,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 690,
+    "costume_id": 860553,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_503"
+  },
+  {
+    "id": 691,
+    "costume_id": 860553,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 692,
+    "costume_id": 860553,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 693,
+    "costume_id": 860553,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 694,
+    "costume_id": 860553,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 695,
+    "costume_id": 860553,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 696,
+    "costume_id": 860553,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 697,
+    "costume_id": 860553,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 698,
+    "costume_id": 860553,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 699,
+    "costume_id": 860553,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 700,
+    "costume_id": 860553,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 701,
+    "costume_id": 860509,
+    "sfx_id": 102110100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 702,
+    "costume_id": 860509,
+    "sfx_id": 102110120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 703,
+    "costume_id": 860509,
+    "sfx_id": 102120300,
+    "change_effect_filename": "fx_kingfat_skill01_ready_0012"
+  },
+  {
+    "id": 704,
+    "costume_id": 860509,
+    "sfx_id": 102120100,
+    "change_effect_filename": "fx_kingfat_skill01_0012"
+  },
+  {
+    "id": 705,
+    "costume_id": 860509,
+    "sfx_id": 102120120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 706,
+    "costume_id": 860509,
+    "sfx_id": 102115300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 707,
+    "costume_id": 860509,
+    "sfx_id": 102115301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 708,
+    "costume_id": 860509,
+    "sfx_id": 102115100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 709,
+    "costume_id": 860509,
+    "sfx_id": 102130300,
+    "change_effect_filename": "fx_kingfat_skill02_ready_0012"
+  },
+  {
+    "id": 710,
+    "costume_id": 860509,
+    "sfx_id": 102130100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 711,
+    "costume_id": 860509,
+    "sfx_id": 102130120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 712,
+    "costume_id": 860509,
+    "sfx_id": 102135300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 713,
+    "costume_id": 860509,
+    "sfx_id": 102135100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 714,
+    "costume_id": 860509,
+    "sfx_id": 102140300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 715,
+    "costume_id": 860509,
+    "sfx_id": 102140100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 716,
+    "costume_id": 860509,
+    "sfx_id": 102145400,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 717,
+    "costume_id": 860509,
+    "sfx_id": 102145100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 718,
+    "costume_id": 860509,
+    "sfx_id": 102155300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 719,
+    "costume_id": 860509,
+    "sfx_id": 102155100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 720,
+    "costume_id": 860509,
+    "sfx_id": 102165300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 721,
+    "costume_id": 860509,
+    "sfx_id": 102165500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 722,
+    "costume_id": 860509,
+    "sfx_id": 102165100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 723,
+    "costume_id": 860509,
+    "sfx_id": 102170300,
+    "change_effect_filename": "fx_kingfat_skill05_ready_0012"
+  },
+  {
+    "id": 724,
+    "costume_id": 860509,
+    "sfx_id": 102170500,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 725,
+    "costume_id": 860509,
+    "sfx_id": 102170100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 726,
+    "costume_id": 860509,
+    "sfx_id": 102180300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 727,
+    "costume_id": 860509,
+    "sfx_id": 102180100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 728,
+    "costume_id": 860509,
+    "sfx_id": 102180101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 729,
+    "costume_id": 860509,
+    "sfx_id": 102180102,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 730,
+    "costume_id": 860509,
+    "sfx_id": 102180103,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 731,
+    "costume_id": 860509,
+    "sfx_id": 102180120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 732,
+    "costume_id": 860509,
+    "sfx_id": 102160920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 733,
+    "costume_id": 860509,
+    "sfx_id": 102170020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 734,
+    "costume_id": 851203,
+    "sfx_id": 501010100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 735,
+    "costume_id": 851203,
+    "sfx_id": 501010101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 736,
+    "costume_id": 851203,
+    "sfx_id": 501020300,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_wp_ready_105"
+  },
+  {
+    "id": 737,
+    "costume_id": 851203,
+    "sfx_id": 501020301,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_ready_105"
+  },
+  {
+    "id": 738,
+    "costume_id": 851203,
+    "sfx_id": 501020100,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_shot_105"
+  },
+  {
+    "id": 739,
+    "costume_id": 851203,
+    "sfx_id": 501020120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 740,
+    "costume_id": 851203,
+    "sfx_id": 501030300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 741,
+    "costume_id": 851203,
+    "sfx_id": 501030100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 742,
+    "costume_id": 851203,
+    "sfx_id": 501030120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 743,
+    "costume_id": 851203,
+    "sfx_id": 501040300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 744,
+    "costume_id": 851203,
+    "sfx_id": 501040100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 745,
+    "costume_id": 851203,
+    "sfx_id": 501040101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 746,
+    "costume_id": 851203,
+    "sfx_id": 501040120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 747,
+    "costume_id": 851203,
+    "sfx_id": 501055300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 748,
+    "costume_id": 851203,
+    "sfx_id": 501055301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 749,
+    "costume_id": 851203,
+    "sfx_id": 501055302,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 750,
+    "costume_id": 851203,
+    "sfx_id": 501055100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 751,
+    "costume_id": 851203,
+    "sfx_id": 501055120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 752,
+    "costume_id": 851203,
+    "sfx_id": 501070300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 753,
+    "costume_id": 851203,
+    "sfx_id": 501070100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 754,
+    "costume_id": 851203,
+    "sfx_id": 701070120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 755,
+    "costume_id": 851203,
+    "sfx_id": 501080300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 756,
+    "costume_id": 851203,
+    "sfx_id": 501080100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 757,
+    "costume_id": 851203,
+    "sfx_id": 501080101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 758,
+    "costume_id": 851203,
+    "sfx_id": 501080120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 759,
+    "costume_id": 851203,
+    "sfx_id": 501060920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 760,
+    "costume_id": 851203,
+    "sfx_id": 501070020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 761,
+    "costume_id": 851205,
+    "sfx_id": 501010100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 762,
+    "costume_id": 851205,
+    "sfx_id": 501010101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 763,
+    "costume_id": 851205,
+    "sfx_id": 501020300,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_wp_ready_106"
+  },
+  {
+    "id": 764,
+    "costume_id": 851205,
+    "sfx_id": 501020301,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_ready_106"
+  },
+  {
+    "id": 765,
+    "costume_id": 851205,
+    "sfx_id": 501020100,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_shot_106"
+  },
+  {
+    "id": 766,
+    "costume_id": 851205,
+    "sfx_id": 501020120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 767,
+    "costume_id": 851205,
+    "sfx_id": 501030300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 768,
+    "costume_id": 851205,
+    "sfx_id": 501030100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 769,
+    "costume_id": 851205,
+    "sfx_id": 501030120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 770,
+    "costume_id": 851205,
+    "sfx_id": 501040300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 771,
+    "costume_id": 851205,
+    "sfx_id": 501040100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 772,
+    "costume_id": 851205,
+    "sfx_id": 501040101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 773,
+    "costume_id": 851205,
+    "sfx_id": 501040120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 774,
+    "costume_id": 851205,
+    "sfx_id": 501055300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 775,
+    "costume_id": 851205,
+    "sfx_id": 501055301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 776,
+    "costume_id": 851205,
+    "sfx_id": 501055302,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 777,
+    "costume_id": 851205,
+    "sfx_id": 501055100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 778,
+    "costume_id": 851205,
+    "sfx_id": 501055120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 779,
+    "costume_id": 851205,
+    "sfx_id": 501070300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 780,
+    "costume_id": 851205,
+    "sfx_id": 501070100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 781,
+    "costume_id": 851205,
+    "sfx_id": 701070120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 782,
+    "costume_id": 851205,
+    "sfx_id": 501080300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 783,
+    "costume_id": 851205,
+    "sfx_id": 501080100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 784,
+    "costume_id": 851205,
+    "sfx_id": 501080101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 785,
+    "costume_id": 851205,
+    "sfx_id": 501080120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 786,
+    "costume_id": 851205,
+    "sfx_id": 501060920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 787,
+    "costume_id": 851205,
+    "sfx_id": 501070020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 788,
+    "costume_id": 851202,
+    "sfx_id": 501010100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 789,
+    "costume_id": 851202,
+    "sfx_id": 501010101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 790,
+    "costume_id": 851202,
+    "sfx_id": 501020300,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_wp_ready_102"
+  },
+  {
+    "id": 791,
+    "costume_id": 851202,
+    "sfx_id": 501020301,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_ready_102"
+  },
+  {
+    "id": 792,
+    "costume_id": 851202,
+    "sfx_id": 501020100,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_shot_102"
+  },
+  {
+    "id": 793,
+    "costume_id": 851202,
+    "sfx_id": 501020120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 794,
+    "costume_id": 851202,
+    "sfx_id": 501030300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 795,
+    "costume_id": 851202,
+    "sfx_id": 501030100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 796,
+    "costume_id": 851202,
+    "sfx_id": 501030120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 797,
+    "costume_id": 851202,
+    "sfx_id": 501040300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 798,
+    "costume_id": 851202,
+    "sfx_id": 501040100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 799,
+    "costume_id": 851202,
+    "sfx_id": 501040101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 800,
+    "costume_id": 851202,
+    "sfx_id": 501040120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 801,
+    "costume_id": 851202,
+    "sfx_id": 501055300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 802,
+    "costume_id": 851202,
+    "sfx_id": 501055301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 803,
+    "costume_id": 851202,
+    "sfx_id": 501055302,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 804,
+    "costume_id": 851202,
+    "sfx_id": 501055100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 805,
+    "costume_id": 851202,
+    "sfx_id": 501055120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 806,
+    "costume_id": 851202,
+    "sfx_id": 501070300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 807,
+    "costume_id": 851202,
+    "sfx_id": 501070100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 808,
+    "costume_id": 851202,
+    "sfx_id": 701070120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 809,
+    "costume_id": 851202,
+    "sfx_id": 501080300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 810,
+    "costume_id": 851202,
+    "sfx_id": 501080100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 811,
+    "costume_id": 851202,
+    "sfx_id": 501080101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 812,
+    "costume_id": 851202,
+    "sfx_id": 501080120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 813,
+    "costume_id": 851202,
+    "sfx_id": 501060920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 814,
+    "costume_id": 851202,
+    "sfx_id": 501070020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 815,
+    "costume_id": 851204,
+    "sfx_id": 501010100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 816,
+    "costume_id": 851204,
+    "sfx_id": 501010101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 817,
+    "costume_id": 851204,
+    "sfx_id": 501020300,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_wp_ready_104"
+  },
+  {
+    "id": 818,
+    "costume_id": 851204,
+    "sfx_id": 501020301,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_ready_104"
+  },
+  {
+    "id": 819,
+    "costume_id": 851204,
+    "sfx_id": 501020100,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_shot_104"
+  },
+  {
+    "id": 820,
+    "costume_id": 851204,
+    "sfx_id": 501020120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 821,
+    "costume_id": 851204,
+    "sfx_id": 501030300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 822,
+    "costume_id": 851204,
+    "sfx_id": 501030100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 823,
+    "costume_id": 851204,
+    "sfx_id": 501030120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 824,
+    "costume_id": 851204,
+    "sfx_id": 501040300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 825,
+    "costume_id": 851204,
+    "sfx_id": 501040100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 826,
+    "costume_id": 851204,
+    "sfx_id": 501040101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 827,
+    "costume_id": 851204,
+    "sfx_id": 501040120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 828,
+    "costume_id": 851204,
+    "sfx_id": 501055300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 829,
+    "costume_id": 851204,
+    "sfx_id": 501055301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 830,
+    "costume_id": 851204,
+    "sfx_id": 501055302,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 831,
+    "costume_id": 851204,
+    "sfx_id": 501055100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 832,
+    "costume_id": 851204,
+    "sfx_id": 501055120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 833,
+    "costume_id": 851204,
+    "sfx_id": 501070300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 834,
+    "costume_id": 851204,
+    "sfx_id": 501070100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 835,
+    "costume_id": 851204,
+    "sfx_id": 701070120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 836,
+    "costume_id": 851204,
+    "sfx_id": 501080300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 837,
+    "costume_id": 851204,
+    "sfx_id": 501080100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 838,
+    "costume_id": 851204,
+    "sfx_id": 501080101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 839,
+    "costume_id": 851204,
+    "sfx_id": 501080120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 840,
+    "costume_id": 851204,
+    "sfx_id": 501060920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 841,
+    "costume_id": 851204,
+    "sfx_id": 501070020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 842,
+    "costume_id": 851251,
+    "sfx_id": 501010100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 843,
+    "costume_id": 851251,
+    "sfx_id": 501010101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 844,
+    "costume_id": 851251,
+    "sfx_id": 501020300,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_wp_ready_501"
+  },
+  {
+    "id": 845,
+    "costume_id": 851251,
+    "sfx_id": 501020301,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_ready_501"
+  },
+  {
+    "id": 846,
+    "costume_id": 851251,
+    "sfx_id": 501020100,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_shot_501"
+  },
+  {
+    "id": 847,
+    "costume_id": 851251,
+    "sfx_id": 501020120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 848,
+    "costume_id": 851251,
+    "sfx_id": 501030300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 849,
+    "costume_id": 851251,
+    "sfx_id": 501030100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 850,
+    "costume_id": 851251,
+    "sfx_id": 501030120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 851,
+    "costume_id": 851251,
+    "sfx_id": 501040300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 852,
+    "costume_id": 851251,
+    "sfx_id": 501040100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 853,
+    "costume_id": 851251,
+    "sfx_id": 501040101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 854,
+    "costume_id": 851251,
+    "sfx_id": 501040120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 855,
+    "costume_id": 851251,
+    "sfx_id": 501055300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 856,
+    "costume_id": 851251,
+    "sfx_id": 501055301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 857,
+    "costume_id": 851251,
+    "sfx_id": 501055302,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 858,
+    "costume_id": 851251,
+    "sfx_id": 501055100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 859,
+    "costume_id": 851251,
+    "sfx_id": 501055120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 860,
+    "costume_id": 851251,
+    "sfx_id": 501070300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 861,
+    "costume_id": 851251,
+    "sfx_id": 501070100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 862,
+    "costume_id": 851251,
+    "sfx_id": 701070120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 863,
+    "costume_id": 851251,
+    "sfx_id": 501080300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 864,
+    "costume_id": 851251,
+    "sfx_id": 501080100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 865,
+    "costume_id": 851251,
+    "sfx_id": 501080101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 866,
+    "costume_id": 851251,
+    "sfx_id": 501080120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 867,
+    "costume_id": 851251,
+    "sfx_id": 501060920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 868,
+    "costume_id": 851251,
+    "sfx_id": 501070020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 869,
+    "costume_id": 851252,
+    "sfx_id": 501010100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 870,
+    "costume_id": 851252,
+    "sfx_id": 501010101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 871,
+    "costume_id": 851252,
+    "sfx_id": 501020300,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_wp_ready_502"
+  },
+  {
+    "id": 872,
+    "costume_id": 851252,
+    "sfx_id": 501020301,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_ready_502"
+  },
+  {
+    "id": 873,
+    "costume_id": 851252,
+    "sfx_id": 501020100,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_shot_502"
+  },
+  {
+    "id": 874,
+    "costume_id": 851252,
+    "sfx_id": 501020120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 875,
+    "costume_id": 851252,
+    "sfx_id": 501030300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 876,
+    "costume_id": 851252,
+    "sfx_id": 501030100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 877,
+    "costume_id": 851252,
+    "sfx_id": 501030120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 878,
+    "costume_id": 851252,
+    "sfx_id": 501040300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 879,
+    "costume_id": 851252,
+    "sfx_id": 501040100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 880,
+    "costume_id": 851252,
+    "sfx_id": 501040101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 881,
+    "costume_id": 851252,
+    "sfx_id": 501040120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 882,
+    "costume_id": 851252,
+    "sfx_id": 501055300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 883,
+    "costume_id": 851252,
+    "sfx_id": 501055301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 884,
+    "costume_id": 851252,
+    "sfx_id": 501055302,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 885,
+    "costume_id": 851252,
+    "sfx_id": 501055100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 886,
+    "costume_id": 851252,
+    "sfx_id": 501055120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 887,
+    "costume_id": 851252,
+    "sfx_id": 501070300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 888,
+    "costume_id": 851252,
+    "sfx_id": 501070100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 889,
+    "costume_id": 851252,
+    "sfx_id": 701070120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 890,
+    "costume_id": 851252,
+    "sfx_id": 501080300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 891,
+    "costume_id": 851252,
+    "sfx_id": 501080100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 892,
+    "costume_id": 851252,
+    "sfx_id": 501080101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 893,
+    "costume_id": 851252,
+    "sfx_id": 501080120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 894,
+    "costume_id": 851252,
+    "sfx_id": 501060920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 895,
+    "costume_id": 851252,
+    "sfx_id": 501070020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 896,
+    "costume_id": 851253,
+    "sfx_id": 501010100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 897,
+    "costume_id": 851253,
+    "sfx_id": 501010101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 898,
+    "costume_id": 851253,
+    "sfx_id": 501020300,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_wp_ready_503"
+  },
+  {
+    "id": 899,
+    "costume_id": 851253,
+    "sfx_id": 501020301,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_ready_503"
+  },
+  {
+    "id": 900,
+    "costume_id": 851253,
+    "sfx_id": 501020100,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_shot_503"
+  },
+  {
+    "id": 901,
+    "costume_id": 851253,
+    "sfx_id": 501020120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 902,
+    "costume_id": 851253,
+    "sfx_id": 501030300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 903,
+    "costume_id": 851253,
+    "sfx_id": 501030100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 904,
+    "costume_id": 851253,
+    "sfx_id": 501030120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 905,
+    "costume_id": 851253,
+    "sfx_id": 501040300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 906,
+    "costume_id": 851253,
+    "sfx_id": 501040100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 907,
+    "costume_id": 851253,
+    "sfx_id": 501040101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 908,
+    "costume_id": 851253,
+    "sfx_id": 501040120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 909,
+    "costume_id": 851253,
+    "sfx_id": 501055300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 910,
+    "costume_id": 851253,
+    "sfx_id": 501055301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 911,
+    "costume_id": 851253,
+    "sfx_id": 501055302,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 912,
+    "costume_id": 851253,
+    "sfx_id": 501055100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 913,
+    "costume_id": 851253,
+    "sfx_id": 501055120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 914,
+    "costume_id": 851253,
+    "sfx_id": 501070300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 915,
+    "costume_id": 851253,
+    "sfx_id": 501070100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 916,
+    "costume_id": 851253,
+    "sfx_id": 701070120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 917,
+    "costume_id": 851253,
+    "sfx_id": 501080300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 918,
+    "costume_id": 851253,
+    "sfx_id": 501080100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 919,
+    "costume_id": 851253,
+    "sfx_id": 501080101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 920,
+    "costume_id": 851253,
+    "sfx_id": 501080120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 921,
+    "costume_id": 851253,
+    "sfx_id": 501060920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 922,
+    "costume_id": 851253,
+    "sfx_id": 501070020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 923,
+    "costume_id": 851254,
+    "sfx_id": 501010100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 924,
+    "costume_id": 851254,
+    "sfx_id": 501010101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 925,
+    "costume_id": 851254,
+    "sfx_id": 501020300,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_wp_ready_0016"
+  },
+  {
+    "id": 926,
+    "costume_id": 851254,
+    "sfx_id": 501020301,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_ready_0016"
+  },
+  {
+    "id": 927,
+    "costume_id": 851254,
+    "sfx_id": 501020100,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_shot_0016"
+  },
+  {
+    "id": 928,
+    "costume_id": 851254,
+    "sfx_id": 501020120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 929,
+    "costume_id": 851254,
+    "sfx_id": 501030300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 930,
+    "costume_id": 851254,
+    "sfx_id": 501030100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 931,
+    "costume_id": 851254,
+    "sfx_id": 501030120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 932,
+    "costume_id": 851254,
+    "sfx_id": 501040300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 933,
+    "costume_id": 851254,
+    "sfx_id": 501040100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 934,
+    "costume_id": 851254,
+    "sfx_id": 501040101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 935,
+    "costume_id": 851254,
+    "sfx_id": 501040120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 936,
+    "costume_id": 851254,
+    "sfx_id": 501055300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 937,
+    "costume_id": 851254,
+    "sfx_id": 501055301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 938,
+    "costume_id": 851254,
+    "sfx_id": 501055302,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 939,
+    "costume_id": 851254,
+    "sfx_id": 501055100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 940,
+    "costume_id": 851254,
+    "sfx_id": 501055120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 941,
+    "costume_id": 851254,
+    "sfx_id": 501070300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 942,
+    "costume_id": 851254,
+    "sfx_id": 501070100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 943,
+    "costume_id": 851254,
+    "sfx_id": 701070120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 944,
+    "costume_id": 851254,
+    "sfx_id": 501080300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 945,
+    "costume_id": 851254,
+    "sfx_id": 501080100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 946,
+    "costume_id": 851254,
+    "sfx_id": 501080101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 947,
+    "costume_id": 851254,
+    "sfx_id": 501080120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 948,
+    "costume_id": 851254,
+    "sfx_id": 501060920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 949,
+    "costume_id": 851254,
+    "sfx_id": 501070020,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 950,
+    "costume_id": 851255,
+    "sfx_id": 501010100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 951,
+    "costume_id": 851255,
+    "sfx_id": 501010101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 952,
+    "costume_id": 851255,
+    "sfx_id": 501020300,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_wp_ready_0017"
+  },
+  {
+    "id": 953,
+    "costume_id": 851255,
+    "sfx_id": 501020301,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_ready_0017"
+  },
+  {
+    "id": 954,
+    "costume_id": 851255,
+    "sfx_id": 501020100,
+    "change_effect_filename": "fx_helbram_fairy_skill_01_shot_0017"
+  },
+  {
+    "id": 955,
+    "costume_id": 851255,
+    "sfx_id": 501020120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 956,
+    "costume_id": 851255,
+    "sfx_id": 501030300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 957,
+    "costume_id": 851255,
+    "sfx_id": 501030100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 958,
+    "costume_id": 851255,
+    "sfx_id": 501030120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 959,
+    "costume_id": 851255,
+    "sfx_id": 501040300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 960,
+    "costume_id": 851255,
+    "sfx_id": 501040100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 961,
+    "costume_id": 851255,
+    "sfx_id": 501040101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 962,
+    "costume_id": 851255,
+    "sfx_id": 501040120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 963,
+    "costume_id": 851255,
+    "sfx_id": 501055300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 964,
+    "costume_id": 851255,
+    "sfx_id": 501055301,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 965,
+    "costume_id": 851255,
+    "sfx_id": 501055302,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 966,
+    "costume_id": 851255,
+    "sfx_id": 501055100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 967,
+    "costume_id": 851255,
+    "sfx_id": 501055120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 968,
+    "costume_id": 851255,
+    "sfx_id": 501070300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 969,
+    "costume_id": 851255,
+    "sfx_id": 501070100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 970,
+    "costume_id": 851255,
+    "sfx_id": 701070120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 971,
+    "costume_id": 851255,
+    "sfx_id": 501080300,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 972,
+    "costume_id": 851255,
+    "sfx_id": 501080100,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 973,
+    "costume_id": 851255,
+    "sfx_id": 501080101,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 974,
+    "costume_id": 851255,
+    "sfx_id": 501080120,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 975,
+    "costume_id": 851255,
+    "sfx_id": 501060920,
+    "change_effect_filename": ""
+  },
+  {
+    "id": 976,
+    "costume_id": 851255,
+    "sfx_id": 501070020,
+    "change_effect_filename": ""
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": 1004000,
+    "hero_capacity_ment_1": "4579",
+    "hero_capacity_ment_2": "4580",
+    "hero_capacity_ment_3": "4581",
+    "hero_capacity_ment_4": "4582",
+    "hero_capacity_ment_5": "4583",
+    "hero_capacity_ment_6": "4584",
+    "hero_capacity_ment_7": "4585"
+  },
+  {
+    "id": 1005001,
+    "hero_capacity_ment_1": "4579",
+    "hero_capacity_ment_2": "4580",
+    "hero_capacity_ment_3": "4581",
+    "hero_capacity_ment_4": "4582",
+    "hero_capacity_ment_5": "4583",
+    "hero_capacity_ment_6": "4584",
+    "hero_capacity_ment_7": "4585"
+  },
+  {
+    "id": 1005003,
+    "hero_capacity_ment_1": "4579",
+    "hero_capacity_ment_2": "4580",
+    "hero_capacity_ment_3": "4581",
+    "hero_capacity_ment_4": "4582",
+    "hero_capacity_ment_5": "4583",
+    "hero_capacity_ment_6": "4584",
+    "hero_capacity_ment_7": "4585"
+  },
+  {
+    "id": 1004001,
+    "hero_capacity_ment_1": "4579",
+    "hero_capacity_ment_2": "4580",
+    "hero_capacity_ment_3": "4581",
+    "hero_capacity_ment_4": "4582",
+    "hero_capacity_ment_5": "4583",
+    "hero_capacity_ment_6": "4584",
+    "hero_capacity_ment_7": "4585"
+  },
+  {
+    "id": 1015001,
+    "hero_capacity_ment_1": "4796",
+    "hero_capacity_ment_2": "4797",
+    "hero_capacity_ment_3": "4798",
+    "hero_capacity_ment_4": "4799",
+    "hero_capacity_ment_5": "4800",
+    "hero_capacity_ment_6": "4801",
+    "hero_capacity_ment_7": "4802"
+  },
+  {
+    "id": 1015003,
+    "hero_capacity_ment_1": "4796",
+    "hero_capacity_ment_2": "4797",
+    "hero_capacity_ment_3": "4798",
+    "hero_capacity_ment_4": "4799",
+    "hero_capacity_ment_5": "4800",
+    "hero_capacity_ment_6": "4801",
+    "hero_capacity_ment_7": "4802"
+  },
+  {
+    "id": 1015002,
+    "hero_capacity_ment_1": "4796",
+    "hero_capacity_ment_2": "4797",
+    "hero_capacity_ment_3": "4798",
+    "hero_capacity_ment_4": "4799",
+    "hero_capacity_ment_5": "4800",
+    "hero_capacity_ment_6": "4801",
+    "hero_capacity_ment_7": "4802"
+  },
+  {
+    "id": 1024002,
+    "hero_capacity_ment_1": "4586",
+    "hero_capacity_ment_2": "4587",
+    "hero_capacity_ment_3": "4588",
+    "hero_capacity_ment_4": "4589",
+    "hero_capacity_ment_5": "4590",
+    "hero_capacity_ment_6": "4591",
+    "hero_capacity_ment_7": "4592"
+  },
+  {
+    "id": 1024001,
+    "hero_capacity_ment_1": "4586",
+    "hero_capacity_ment_2": "4587",
+    "hero_capacity_ment_3": "4588",
+    "hero_capacity_ment_4": "4589",
+    "hero_capacity_ment_5": "4590",
+    "hero_capacity_ment_6": "4591",
+    "hero_capacity_ment_7": "4592"
+  },
+  {
+    "id": 1425002,
+    "hero_capacity_ment_1": "4586",
+    "hero_capacity_ment_2": "4587",
+    "hero_capacity_ment_3": "4588",
+    "hero_capacity_ment_4": "4589",
+    "hero_capacity_ment_5": "4590",
+    "hero_capacity_ment_6": "4591",
+    "hero_capacity_ment_7": "4592"
+  },
+  {
+    "id": 1034001,
+    "hero_capacity_ment_1": "4586",
+    "hero_capacity_ment_2": "4587",
+    "hero_capacity_ment_3": "4588",
+    "hero_capacity_ment_4": "4589",
+    "hero_capacity_ment_5": "4590",
+    "hero_capacity_ment_6": "4591",
+    "hero_capacity_ment_7": "4592"
+  },
+  {
+    "id": 1035001,
+    "hero_capacity_ment_1": "4586",
+    "hero_capacity_ment_2": "4587",
+    "hero_capacity_ment_3": "4588",
+    "hero_capacity_ment_4": "4589",
+    "hero_capacity_ment_5": "4590",
+    "hero_capacity_ment_6": "4591",
+    "hero_capacity_ment_7": "4592"
+  },
+  {
+    "id": 1035002,
+    "hero_capacity_ment_1": "4586",
+    "hero_capacity_ment_2": "4587",
+    "hero_capacity_ment_3": "4588",
+    "hero_capacity_ment_4": "4589",
+    "hero_capacity_ment_5": "4590",
+    "hero_capacity_ment_6": "4591",
+    "hero_capacity_ment_7": "4592"
+  },
+  {
+    "id": 1035003,
+    "hero_capacity_ment_1": "4586",
+    "hero_capacity_ment_2": "4587",
+    "hero_capacity_ment_3": "4588",
+    "hero_capacity_ment_4": "4589",
+    "hero_capacity_ment_5": "4590",
+    "hero_capacity_ment_6": "4591",
+    "hero_capacity_ment_7": "4592"
+  },
+  {
+    "id": 1044001,
+    "hero_capacity_ment_1": "4593",
+    "hero_capacity_ment_2": "4594",
+    "hero_capacity_ment_3": "4595",
+    "hero_capacity_ment_4": "4596",
+    "hero_capacity_ment_5": "4597",
+    "hero_capacity_ment_6": "4598",
+    "hero_capacity_ment_7": "4599"
+  },
+  {
+    "id": 1045002,
+    "hero_capacity_ment_1": "4593",
+    "hero_capacity_ment_2": "4594",
+    "hero_capacity_ment_3": "4595",
+    "hero_capacity_ment_4": "4596",
+    "hero_capacity_ment_5": "4597",
+    "hero_capacity_ment_6": "4598",
+    "hero_capacity_ment_7": "4599"
+  },
+  {
+    "id": 1045001,
+    "hero_capacity_ment_1": "4593",
+    "hero_capacity_ment_2": "4594",
+    "hero_capacity_ment_3": "4595",
+    "hero_capacity_ment_4": "4596",
+    "hero_capacity_ment_5": "4597",
+    "hero_capacity_ment_6": "4598",
+    "hero_capacity_ment_7": "4599"
+  },
+  {
+    "id": 1055002,
+    "hero_capacity_ment_1": "4803",
+    "hero_capacity_ment_2": "4804",
+    "hero_capacity_ment_3": "4805",
+    "hero_capacity_ment_4": "4806",
+    "hero_capacity_ment_5": "4807",
+    "hero_capacity_ment_6": "4808",
+    "hero_capacity_ment_7": "4809"
+  },
+  {
+    "id": 1055003,
+    "hero_capacity_ment_1": "4803",
+    "hero_capacity_ment_2": "4804",
+    "hero_capacity_ment_3": "4805",
+    "hero_capacity_ment_4": "4806",
+    "hero_capacity_ment_5": "4807",
+    "hero_capacity_ment_6": "4808",
+    "hero_capacity_ment_7": "4809"
+  },
+  {
+    "id": 1055001,
+    "hero_capacity_ment_1": "4803",
+    "hero_capacity_ment_2": "4804",
+    "hero_capacity_ment_3": "4805",
+    "hero_capacity_ment_4": "4806",
+    "hero_capacity_ment_5": "4807",
+    "hero_capacity_ment_6": "4808",
+    "hero_capacity_ment_7": "4809"
+  },
+  {
+    "id": 1064001,
+    "hero_capacity_ment_1": "4810",
+    "hero_capacity_ment_2": "4811",
+    "hero_capacity_ment_3": "4812",
+    "hero_capacity_ment_4": "4813",
+    "hero_capacity_ment_5": "4814",
+    "hero_capacity_ment_6": "4815",
+    "hero_capacity_ment_7": "4816"
+  },
+  {
+    "id": 1065002,
+    "hero_capacity_ment_1": "4810",
+    "hero_capacity_ment_2": "4811",
+    "hero_capacity_ment_3": "4812",
+    "hero_capacity_ment_4": "4813",
+    "hero_capacity_ment_5": "4814",
+    "hero_capacity_ment_6": "4815",
+    "hero_capacity_ment_7": "4816"
+  },
+  {
+    "id": 1065001,
+    "hero_capacity_ment_1": "4810",
+    "hero_capacity_ment_2": "4811",
+    "hero_capacity_ment_3": "4812",
+    "hero_capacity_ment_4": "4813",
+    "hero_capacity_ment_5": "4814",
+    "hero_capacity_ment_6": "4815",
+    "hero_capacity_ment_7": "4816"
+  },
+  {
+    "id": 1075003,
+    "hero_capacity_ment_1": "4600",
+    "hero_capacity_ment_2": "4601",
+    "hero_capacity_ment_3": "4602",
+    "hero_capacity_ment_4": "4603",
+    "hero_capacity_ment_5": "4604",
+    "hero_capacity_ment_6": "4605",
+    "hero_capacity_ment_7": "4606"
+  },
+  {
+    "id": 1075002,
+    "hero_capacity_ment_1": "4600",
+    "hero_capacity_ment_2": "4601",
+    "hero_capacity_ment_3": "4602",
+    "hero_capacity_ment_4": "4603",
+    "hero_capacity_ment_5": "4604",
+    "hero_capacity_ment_6": "4605",
+    "hero_capacity_ment_7": "4606"
+  },
+  {
+    "id": 1075001,
+    "hero_capacity_ment_1": "4600",
+    "hero_capacity_ment_2": "4601",
+    "hero_capacity_ment_3": "4602",
+    "hero_capacity_ment_4": "4603",
+    "hero_capacity_ment_5": "4604",
+    "hero_capacity_ment_6": "4605",
+    "hero_capacity_ment_7": "4606"
+  },
+  {
+    "id": 1095003,
+    "hero_capacity_ment_1": "4607",
+    "hero_capacity_ment_2": "4608",
+    "hero_capacity_ment_3": "4609",
+    "hero_capacity_ment_4": "4610",
+    "hero_capacity_ment_5": "4611",
+    "hero_capacity_ment_6": "4612",
+    "hero_capacity_ment_7": "4613"
+  },
+  {
+    "id": 1095002,
+    "hero_capacity_ment_1": "4607",
+    "hero_capacity_ment_2": "4608",
+    "hero_capacity_ment_3": "4609",
+    "hero_capacity_ment_4": "4610",
+    "hero_capacity_ment_5": "4611",
+    "hero_capacity_ment_6": "4612",
+    "hero_capacity_ment_7": "4613"
+  },
+  {
+    "id": 1095001,
+    "hero_capacity_ment_1": "4607",
+    "hero_capacity_ment_2": "4608",
+    "hero_capacity_ment_3": "4609",
+    "hero_capacity_ment_4": "4610",
+    "hero_capacity_ment_5": "4611",
+    "hero_capacity_ment_6": "4612",
+    "hero_capacity_ment_7": "4613"
+  },
+  {
+    "id": 1105002,
+    "hero_capacity_ment_1": "4817",
+    "hero_capacity_ment_2": "4818",
+    "hero_capacity_ment_3": "4819",
+    "hero_capacity_ment_4": "4820",
+    "hero_capacity_ment_5": "4821",
+    "hero_capacity_ment_6": "4822",
+    "hero_capacity_ment_7": "4823"
+  },
+  {
+    "id": 1105003,
+    "hero_capacity_ment_1": "4817",
+    "hero_capacity_ment_2": "4818",
+    "hero_capacity_ment_3": "4819",
+    "hero_capacity_ment_4": "4820",
+    "hero_capacity_ment_5": "4821",
+    "hero_capacity_ment_6": "4822",
+    "hero_capacity_ment_7": "4823"
+  },
+  {
+    "id": 1105001,
+    "hero_capacity_ment_1": "4817",
+    "hero_capacity_ment_2": "4818",
+    "hero_capacity_ment_3": "4819",
+    "hero_capacity_ment_4": "4820",
+    "hero_capacity_ment_5": "4821",
+    "hero_capacity_ment_6": "4822",
+    "hero_capacity_ment_7": "4823"
+  },
+  {
+    "id": 1115002,
+    "hero_capacity_ment_1": "4614",
+    "hero_capacity_ment_2": "4615",
+    "hero_capacity_ment_3": "4616",
+    "hero_capacity_ment_4": "4617",
+    "hero_capacity_ment_5": "4618",
+    "hero_capacity_ment_6": "4619",
+    "hero_capacity_ment_7": "4620"
+  },
+  {
+    "id": 1114001,
+    "hero_capacity_ment_1": "4614",
+    "hero_capacity_ment_2": "4615",
+    "hero_capacity_ment_3": "4616",
+    "hero_capacity_ment_4": "4617",
+    "hero_capacity_ment_5": "4618",
+    "hero_capacity_ment_6": "4619",
+    "hero_capacity_ment_7": "4620"
+  },
+  {
+    "id": 1115003,
+    "hero_capacity_ment_1": "4614",
+    "hero_capacity_ment_2": "4615",
+    "hero_capacity_ment_3": "4616",
+    "hero_capacity_ment_4": "4617",
+    "hero_capacity_ment_5": "4618",
+    "hero_capacity_ment_6": "4619",
+    "hero_capacity_ment_7": "4620"
+  },
+  {
+    "id": 1134000,
+    "hero_capacity_ment_1": "4663",
+    "hero_capacity_ment_2": "4664",
+    "hero_capacity_ment_3": "4665",
+    "hero_capacity_ment_4": "4666",
+    "hero_capacity_ment_5": "4667",
+    "hero_capacity_ment_6": "4668",
+    "hero_capacity_ment_7": "4669"
+  },
+  {
+    "id": 1135001,
+    "hero_capacity_ment_1": "4663",
+    "hero_capacity_ment_2": "4664",
+    "hero_capacity_ment_3": "4665",
+    "hero_capacity_ment_4": "4666",
+    "hero_capacity_ment_5": "4667",
+    "hero_capacity_ment_6": "4668",
+    "hero_capacity_ment_7": "4669"
+  },
+  {
+    "id": 1135002,
+    "hero_capacity_ment_1": "4663",
+    "hero_capacity_ment_2": "4664",
+    "hero_capacity_ment_3": "4665",
+    "hero_capacity_ment_4": "4666",
+    "hero_capacity_ment_5": "4667",
+    "hero_capacity_ment_6": "4668",
+    "hero_capacity_ment_7": "4669"
+  },
+  {
+    "id": 1135003,
+    "hero_capacity_ment_1": "4663",
+    "hero_capacity_ment_2": "4664",
+    "hero_capacity_ment_3": "4665",
+    "hero_capacity_ment_4": "4666",
+    "hero_capacity_ment_5": "4667",
+    "hero_capacity_ment_6": "4668",
+    "hero_capacity_ment_7": "4669"
+  },
+  {
+    "id": 1155001,
+    "hero_capacity_ment_1": "4628",
+    "hero_capacity_ment_2": "4629",
+    "hero_capacity_ment_3": "4630",
+    "hero_capacity_ment_4": "4631",
+    "hero_capacity_ment_5": "4632",
+    "hero_capacity_ment_6": "4633",
+    "hero_capacity_ment_7": "4634"
+  },
+  {
+    "id": 1155003,
+    "hero_capacity_ment_1": "4628",
+    "hero_capacity_ment_2": "4629",
+    "hero_capacity_ment_3": "4630",
+    "hero_capacity_ment_4": "4631",
+    "hero_capacity_ment_5": "4632",
+    "hero_capacity_ment_6": "4633",
+    "hero_capacity_ment_7": "4634"
+  },
+  {
+    "id": 1154002,
+    "hero_capacity_ment_1": "4628",
+    "hero_capacity_ment_2": "4629",
+    "hero_capacity_ment_3": "4630",
+    "hero_capacity_ment_4": "4631",
+    "hero_capacity_ment_5": "4632",
+    "hero_capacity_ment_6": "4633",
+    "hero_capacity_ment_7": "4634"
+  },
+  {
+    "id": 1184001,
+    "hero_capacity_ment_1": "4649",
+    "hero_capacity_ment_2": "4650",
+    "hero_capacity_ment_3": "4651",
+    "hero_capacity_ment_4": "4652",
+    "hero_capacity_ment_5": "4653",
+    "hero_capacity_ment_6": "4654",
+    "hero_capacity_ment_7": "4655"
+  },
+  {
+    "id": 1185001,
+    "hero_capacity_ment_1": "4649",
+    "hero_capacity_ment_2": "4650",
+    "hero_capacity_ment_3": "4651",
+    "hero_capacity_ment_4": "4652",
+    "hero_capacity_ment_5": "4653",
+    "hero_capacity_ment_6": "4654",
+    "hero_capacity_ment_7": "4655"
+  },
+  {
+    "id": 1185002,
+    "hero_capacity_ment_1": "4649",
+    "hero_capacity_ment_2": "4650",
+    "hero_capacity_ment_3": "4651",
+    "hero_capacity_ment_4": "4652",
+    "hero_capacity_ment_5": "4653",
+    "hero_capacity_ment_6": "4654",
+    "hero_capacity_ment_7": "4655"
+  },
+  {
+    "id": 1184002,
+    "hero_capacity_ment_1": "4649",
+    "hero_capacity_ment_2": "4650",
+    "hero_capacity_ment_3": "4651",
+    "hero_capacity_ment_4": "4652",
+    "hero_capacity_ment_5": "4653",
+    "hero_capacity_ment_6": "4654",
+    "hero_capacity_ment_7": "4655"
+  },
+  {
+    "id": 1145001,
+    "hero_capacity_ment_1": "4621",
+    "hero_capacity_ment_2": "4622",
+    "hero_capacity_ment_3": "4623",
+    "hero_capacity_ment_4": "4624",
+    "hero_capacity_ment_5": "4625",
+    "hero_capacity_ment_6": "4626",
+    "hero_capacity_ment_7": "4627"
+  },
+  {
+    "id": 1144002,
+    "hero_capacity_ment_1": "4621",
+    "hero_capacity_ment_2": "4622",
+    "hero_capacity_ment_3": "4623",
+    "hero_capacity_ment_4": "4624",
+    "hero_capacity_ment_5": "4625",
+    "hero_capacity_ment_6": "4626",
+    "hero_capacity_ment_7": "4627"
+  },
+  {
+    "id": 1144001,
+    "hero_capacity_ment_1": "4621",
+    "hero_capacity_ment_2": "4622",
+    "hero_capacity_ment_3": "4623",
+    "hero_capacity_ment_4": "4624",
+    "hero_capacity_ment_5": "4625",
+    "hero_capacity_ment_6": "4626",
+    "hero_capacity_ment_7": "4627"
+  },
+  {
+    "id": 1165001,
+    "hero_capacity_ment_1": "4635",
+    "hero_capacity_ment_2": "4636",
+    "hero_capacity_ment_3": "4637",
+    "hero_capacity_ment_4": "4638",
+    "hero_capacity_ment_5": "4639",
+    "hero_capacity_ment_6": "4640",
+    "hero_capacity_ment_7": "4641"
+  },
+  {
+    "id": 1164001,
+    "hero_capacity_ment_1": "4635",
+    "hero_capacity_ment_2": "4636",
+    "hero_capacity_ment_3": "4637",
+    "hero_capacity_ment_4": "4638",
+    "hero_capacity_ment_5": "4639",
+    "hero_capacity_ment_6": "4640",
+    "hero_capacity_ment_7": "4641"
+  },
+  {
+    "id": 1164002,
+    "hero_capacity_ment_1": "4635",
+    "hero_capacity_ment_2": "4636",
+    "hero_capacity_ment_3": "4637",
+    "hero_capacity_ment_4": "4638",
+    "hero_capacity_ment_5": "4639",
+    "hero_capacity_ment_6": "4640",
+    "hero_capacity_ment_7": "4641"
+  },
+  {
+    "id": 1174001,
+    "hero_capacity_ment_1": "4642",
+    "hero_capacity_ment_2": "4643",
+    "hero_capacity_ment_3": "4644",
+    "hero_capacity_ment_4": "4645",
+    "hero_capacity_ment_5": "4646",
+    "hero_capacity_ment_6": "4647",
+    "hero_capacity_ment_7": "4648"
+  },
+  {
+    "id": 1175001,
+    "hero_capacity_ment_1": "4642",
+    "hero_capacity_ment_2": "4643",
+    "hero_capacity_ment_3": "4644",
+    "hero_capacity_ment_4": "4645",
+    "hero_capacity_ment_5": "4646",
+    "hero_capacity_ment_6": "4647",
+    "hero_capacity_ment_7": "4648"
+  },
+  {
+    "id": 1174002,
+    "hero_capacity_ment_1": "4642",
+    "hero_capacity_ment_2": "4643",
+    "hero_capacity_ment_3": "4644",
+    "hero_capacity_ment_4": "4645",
+    "hero_capacity_ment_5": "4646",
+    "hero_capacity_ment_6": "4647",
+    "hero_capacity_ment_7": "4648"
+  },
+  {
+    "id": 1354001,
+    "hero_capacity_ment_1": "4775",
+    "hero_capacity_ment_2": "4776",
+    "hero_capacity_ment_3": "4777",
+    "hero_capacity_ment_4": "4778",
+    "hero_capacity_ment_5": "4779",
+    "hero_capacity_ment_6": "4780",
+    "hero_capacity_ment_7": "4781"
+  },
+  {
+    "id": 1355001,
+    "hero_capacity_ment_1": "4775",
+    "hero_capacity_ment_2": "4776",
+    "hero_capacity_ment_3": "4777",
+    "hero_capacity_ment_4": "4778",
+    "hero_capacity_ment_5": "4779",
+    "hero_capacity_ment_6": "4780",
+    "hero_capacity_ment_7": "4781"
+  },
+  {
+    "id": 1364001,
+    "hero_capacity_ment_1": "4782",
+    "hero_capacity_ment_2": "4783",
+    "hero_capacity_ment_3": "4784",
+    "hero_capacity_ment_4": "4785",
+    "hero_capacity_ment_5": "4786",
+    "hero_capacity_ment_6": "4787",
+    "hero_capacity_ment_7": "4788"
+  },
+  {
+    "id": 1364002,
+    "hero_capacity_ment_1": "4782",
+    "hero_capacity_ment_2": "4783",
+    "hero_capacity_ment_3": "4784",
+    "hero_capacity_ment_4": "4785",
+    "hero_capacity_ment_5": "4786",
+    "hero_capacity_ment_6": "4787",
+    "hero_capacity_ment_7": "4788"
+  },
+  {
+    "id": 1195001,
+    "hero_capacity_ment_1": "4656",
+    "hero_capacity_ment_2": "4657",
+    "hero_capacity_ment_3": "4658",
+    "hero_capacity_ment_4": "4659",
+    "hero_capacity_ment_5": "4660",
+    "hero_capacity_ment_6": "4661",
+    "hero_capacity_ment_7": "4662"
+  },
+  {
+    "id": 1195002,
+    "hero_capacity_ment_1": "4656",
+    "hero_capacity_ment_2": "4657",
+    "hero_capacity_ment_3": "4658",
+    "hero_capacity_ment_4": "4659",
+    "hero_capacity_ment_5": "4660",
+    "hero_capacity_ment_6": "4661",
+    "hero_capacity_ment_7": "4662"
+  },
+  {
+    "id": 1195003,
+    "hero_capacity_ment_1": "4656",
+    "hero_capacity_ment_2": "4657",
+    "hero_capacity_ment_3": "4658",
+    "hero_capacity_ment_4": "4659",
+    "hero_capacity_ment_5": "4660",
+    "hero_capacity_ment_6": "4661",
+    "hero_capacity_ment_7": "4662"
+  },
+  {
+    "id": 1294001,
+    "hero_capacity_ment_1": "4733",
+    "hero_capacity_ment_2": "4734",
+    "hero_capacity_ment_3": "4735",
+    "hero_capacity_ment_4": "4736",
+    "hero_capacity_ment_5": "4737",
+    "hero_capacity_ment_6": "4738",
+    "hero_capacity_ment_7": "4739"
+  },
+  {
+    "id": 1295001,
+    "hero_capacity_ment_1": "4733",
+    "hero_capacity_ment_2": "4734",
+    "hero_capacity_ment_3": "4735",
+    "hero_capacity_ment_4": "4736",
+    "hero_capacity_ment_5": "4737",
+    "hero_capacity_ment_6": "4738",
+    "hero_capacity_ment_7": "4739"
+  },
+  {
+    "id": 1203001,
+    "hero_capacity_ment_1": "4670",
+    "hero_capacity_ment_2": "4671",
+    "hero_capacity_ment_3": "4672",
+    "hero_capacity_ment_4": "4673",
+    "hero_capacity_ment_5": "4674",
+    "hero_capacity_ment_6": "4675",
+    "hero_capacity_ment_7": "4676"
+  },
+  {
+    "id": 1213001,
+    "hero_capacity_ment_1": "4677",
+    "hero_capacity_ment_2": "4678",
+    "hero_capacity_ment_3": "4679",
+    "hero_capacity_ment_4": "4680",
+    "hero_capacity_ment_5": "4681",
+    "hero_capacity_ment_6": "4682",
+    "hero_capacity_ment_7": "4683"
+  },
+  {
+    "id": 1223001,
+    "hero_capacity_ment_1": "4684",
+    "hero_capacity_ment_2": "4685",
+    "hero_capacity_ment_3": "4686",
+    "hero_capacity_ment_4": "4687",
+    "hero_capacity_ment_5": "4688",
+    "hero_capacity_ment_6": "4689",
+    "hero_capacity_ment_7": "4690"
+  },
+  {
+    "id": 1233001,
+    "hero_capacity_ment_1": "4691",
+    "hero_capacity_ment_2": "4692",
+    "hero_capacity_ment_3": "4693",
+    "hero_capacity_ment_4": "4694",
+    "hero_capacity_ment_5": "4695",
+    "hero_capacity_ment_6": "4696",
+    "hero_capacity_ment_7": "4697"
+  },
+  {
+    "id": 1243001,
+    "hero_capacity_ment_1": "4698",
+    "hero_capacity_ment_2": "4699",
+    "hero_capacity_ment_3": "4700",
+    "hero_capacity_ment_4": "4701",
+    "hero_capacity_ment_5": "4702",
+    "hero_capacity_ment_6": "4703",
+    "hero_capacity_ment_7": "4704"
+  },
+  {
+    "id": 1254001,
+    "hero_capacity_ment_1": "4705",
+    "hero_capacity_ment_2": "4706",
+    "hero_capacity_ment_3": "4707",
+    "hero_capacity_ment_4": "4708",
+    "hero_capacity_ment_5": "4709",
+    "hero_capacity_ment_6": "4710",
+    "hero_capacity_ment_7": "4711"
+  },
+  {
+    "id": 1264001,
+    "hero_capacity_ment_1": "4712",
+    "hero_capacity_ment_2": "4713",
+    "hero_capacity_ment_3": "4714",
+    "hero_capacity_ment_4": "4715",
+    "hero_capacity_ment_5": "4716",
+    "hero_capacity_ment_6": "4717",
+    "hero_capacity_ment_7": "4718"
+  },
+  {
+    "id": 1273001,
+    "hero_capacity_ment_1": "4719",
+    "hero_capacity_ment_2": "4720",
+    "hero_capacity_ment_3": "4721",
+    "hero_capacity_ment_4": "4722",
+    "hero_capacity_ment_5": "4723",
+    "hero_capacity_ment_6": "4724",
+    "hero_capacity_ment_7": "4725"
+  },
+  {
+    "id": 1284001,
+    "hero_capacity_ment_1": "4726",
+    "hero_capacity_ment_2": "4727",
+    "hero_capacity_ment_3": "4728",
+    "hero_capacity_ment_4": "4729",
+    "hero_capacity_ment_5": "4730",
+    "hero_capacity_ment_6": "4731",
+    "hero_capacity_ment_7": "4732"
+  },
+  {
+    "id": 1303001,
+    "hero_capacity_ment_1": "4740",
+    "hero_capacity_ment_2": "4741",
+    "hero_capacity_ment_3": "4742",
+    "hero_capacity_ment_4": "4743",
+    "hero_capacity_ment_5": "4744",
+    "hero_capacity_ment_6": "4745",
+    "hero_capacity_ment_7": "4746"
+  },
+  {
+    "id": 1314001,
+    "hero_capacity_ment_1": "4747",
+    "hero_capacity_ment_2": "4748",
+    "hero_capacity_ment_3": "4749",
+    "hero_capacity_ment_4": "4750",
+    "hero_capacity_ment_5": "4751",
+    "hero_capacity_ment_6": "4752",
+    "hero_capacity_ment_7": "4753"
+  },
+  {
+    "id": 1323001,
+    "hero_capacity_ment_1": "4754",
+    "hero_capacity_ment_2": "4755",
+    "hero_capacity_ment_3": "4756",
+    "hero_capacity_ment_4": "4757",
+    "hero_capacity_ment_5": "4758",
+    "hero_capacity_ment_6": "4759",
+    "hero_capacity_ment_7": "4760"
+  },
+  {
+    "id": 1334001,
+    "hero_capacity_ment_1": "4761",
+    "hero_capacity_ment_2": "4762",
+    "hero_capacity_ment_3": "4763",
+    "hero_capacity_ment_4": "4764",
+    "hero_capacity_ment_5": "4765",
+    "hero_capacity_ment_6": "4766",
+    "hero_capacity_ment_7": "4767"
+  },
+  {
+    "id": 1344001,
+    "hero_capacity_ment_1": "4768",
+    "hero_capacity_ment_2": "4769",
+    "hero_capacity_ment_3": "4770",
+    "hero_capacity_ment_4": "4771",
+    "hero_capacity_ment_5": "4772",
+    "hero_capacity_ment_6": "4773",
+    "hero_capacity_ment_7": "4774"
+  },
+  {
+    "id": 1373001,
+    "hero_capacity_ment_1": "4789",
+    "hero_capacity_ment_2": "4790",
+    "hero_capacity_ment_3": "4791",
+    "hero_capacity_ment_4": "4792",
+    "hero_capacity_ment_5": "4793",
+    "hero_capacity_ment_6": "4794",
+    "hero_capacity_ment_7": "4795"
+  },
+  {
+    "id": 1384001,
+    "hero_capacity_ment_1": "4789",
+    "hero_capacity_ment_2": "4790",
+    "hero_capacity_ment_3": "4791",
+    "hero_capacity_ment_4": "4792",
+    "hero_capacity_ment_5": "4793",
+    "hero_capacity_ment_6": "4794",
+    "hero_capacity_ment_7": "4795"
+  },
+  {
+    "id": 1385001,
+    "hero_capacity_ment_1": "4831",
+    "hero_capacity_ment_2": "4832",
+    "hero_capacity_ment_3": "4833",
+    "hero_capacity_ment_4": "4834",
+    "hero_capacity_ment_5": "4835",
+    "hero_capacity_ment_6": "4836",
+    "hero_capacity_ment_7": "4837"
+  },
+  {
+    "id": 1385002,
+    "hero_capacity_ment_1": "4831",
+    "hero_capacity_ment_2": "4832",
+    "hero_capacity_ment_3": "4833",
+    "hero_capacity_ment_4": "4834",
+    "hero_capacity_ment_5": "4835",
+    "hero_capacity_ment_6": "4836",
+    "hero_capacity_ment_7": "4837"
+  },
+  {
+    "id": 1385003,
+    "hero_capacity_ment_1": "4831",
+    "hero_capacity_ment_2": "4832",
+    "hero_capacity_ment_3": "4833",
+    "hero_capacity_ment_4": "4834",
+    "hero_capacity_ment_5": "4835",
+    "hero_capacity_ment_6": "4836",
+    "hero_capacity_ment_7": "4837"
+  },
+  {
+    "id": 1395001,
+    "hero_capacity_ment_1": "5823",
+    "hero_capacity_ment_2": "5584",
+    "hero_capacity_ment_3": "5585",
+    "hero_capacity_ment_4": "5824",
+    "hero_capacity_ment_5": "5586",
+    "hero_capacity_ment_6": "5825",
+    "hero_capacity_ment_7": "5587"
+  },
+  {
+    "id": 1395002,
+    "hero_capacity_ment_1": "5823",
+    "hero_capacity_ment_2": "5584",
+    "hero_capacity_ment_3": "5585",
+    "hero_capacity_ment_4": "5824",
+    "hero_capacity_ment_5": "5586",
+    "hero_capacity_ment_6": "5825",
+    "hero_capacity_ment_7": "5587"
+  },
+  {
+    "id": 1404001,
+    "hero_capacity_ment_1": "5646",
+    "hero_capacity_ment_2": "5647",
+    "hero_capacity_ment_3": "5648",
+    "hero_capacity_ment_4": "5649",
+    "hero_capacity_ment_5": "5650",
+    "hero_capacity_ment_6": "5651",
+    "hero_capacity_ment_7": "5652"
+  },
+  {
+    "id": 1405001,
+    "hero_capacity_ment_1": "5646",
+    "hero_capacity_ment_2": "5647",
+    "hero_capacity_ment_3": "5648",
+    "hero_capacity_ment_4": "5649",
+    "hero_capacity_ment_5": "5650",
+    "hero_capacity_ment_6": "5651",
+    "hero_capacity_ment_7": "5652"
+  },
+  {
+    "id": 1405002,
+    "hero_capacity_ment_1": "5646",
+    "hero_capacity_ment_2": "5647",
+    "hero_capacity_ment_3": "5648",
+    "hero_capacity_ment_4": "5649",
+    "hero_capacity_ment_5": "5650",
+    "hero_capacity_ment_6": "5651",
+    "hero_capacity_ment_7": "5652"
+  },
+  {
+    "id": 1415001,
+    "hero_capacity_ment_1": "4782",
+    "hero_capacity_ment_2": "4783",
+    "hero_capacity_ment_3": "4784",
+    "hero_capacity_ment_4": "4785",
+    "hero_capacity_ment_5": "4786",
+    "hero_capacity_ment_6": "4787",
+    "hero_capacity_ment_7": "4788"
+  },
+  {
+    "id": 1464001,
+    "hero_capacity_ment_1": "4838",
+    "hero_capacity_ment_2": "4839",
+    "hero_capacity_ment_3": "4840",
+    "hero_capacity_ment_4": "4841",
+    "hero_capacity_ment_5": "4842",
+    "hero_capacity_ment_6": "4843",
+    "hero_capacity_ment_7": "4844"
+  },
+  {
+    "id": 1465001,
+    "hero_capacity_ment_1": "4845",
+    "hero_capacity_ment_2": "4846",
+    "hero_capacity_ment_3": "4847",
+    "hero_capacity_ment_4": "4848",
+    "hero_capacity_ment_5": "4849",
+    "hero_capacity_ment_6": "4850",
+    "hero_capacity_ment_7": "4851"
+  },
+  {
+    "id": 1435001,
+    "hero_capacity_ment_1": "4852",
+    "hero_capacity_ment_2": "4853",
+    "hero_capacity_ment_3": "4854",
+    "hero_capacity_ment_4": "4855",
+    "hero_capacity_ment_5": "4856",
+    "hero_capacity_ment_6": "4857",
+    "hero_capacity_ment_7": "4858"
+  },
+  {
+    "id": 1445001,
+    "hero_capacity_ment_1": "4859",
+    "hero_capacity_ment_2": "4860",
+    "hero_capacity_ment_3": "4861",
+    "hero_capacity_ment_4": "4862",
+    "hero_capacity_ment_5": "4863",
+    "hero_capacity_ment_6": "4864",
+    "hero_capacity_ment_7": "4865"
+  },
+  {
+    "id": 1455001,
+    "hero_capacity_ment_1": "4866",
+    "hero_capacity_ment_2": "4867",
+    "hero_capacity_ment_3": "4868",
+    "hero_capacity_ment_4": "4869",
+    "hero_capacity_ment_5": "4870",
+    "hero_capacity_ment_6": "4871",
+    "hero_capacity_ment_7": "4872"
+  },
+  {
+    "id": 1455002,
+    "hero_capacity_ment_1": "4866",
+    "hero_capacity_ment_2": "4867",
+    "hero_capacity_ment_3": "4868",
+    "hero_capacity_ment_4": "4869",
+    "hero_capacity_ment_5": "4870",
+    "hero_capacity_ment_6": "4871",
+    "hero_capacity_ment_7": "4872"
+  },
+  {
+    "id": 1475001,
+    "hero_capacity_ment_1": "2038",
+    "hero_capacity_ment_2": "2039",
+    "hero_capacity_ment_3": "2040",
+    "hero_capacity_ment_4": "2041",
+    "hero_capacity_ment_5": "2042",
+    "hero_capacity_ment_6": "2043",
+    "hero_capacity_ment_7": "2044"
+  },
+  {
+    "id": 1475002,
+    "hero_capacity_ment_1": "2038",
+    "hero_capacity_ment_2": "2039",
+    "hero_capacity_ment_3": "2040",
+    "hero_capacity_ment_4": "2041",
+    "hero_capacity_ment_5": "2042",
+    "hero_capacity_ment_6": "2043",
+    "hero_capacity_ment_7": "2044"
+  },
+  {
+    "id": 1505001,
+    "hero_capacity_ment_1": "2059",
+    "hero_capacity_ment_2": "2060",
+    "hero_capacity_ment_3": "2061",
+    "hero_capacity_ment_4": "2062",
+    "hero_capacity_ment_5": "2063",
+    "hero_capacity_ment_6": "2064",
+    "hero_capacity_ment_7": "2065"
+  },
+  {
+    "id": 1505002,
+    "hero_capacity_ment_1": "2059",
+    "hero_capacity_ment_2": "2060",
+    "hero_capacity_ment_3": "2061",
+    "hero_capacity_ment_4": "2062",
+    "hero_capacity_ment_5": "2063",
+    "hero_capacity_ment_6": "2064",
+    "hero_capacity_ment_7": "2065"
+  },
+  {
+    "id": 1515001,
+    "hero_capacity_ment_1": "2066",
+    "hero_capacity_ment_2": "2067",
+    "hero_capacity_ment_3": "2068",
+    "hero_capacity_ment_4": "2069",
+    "hero_capacity_ment_5": "2070",
+    "hero_capacity_ment_6": "2071",
+    "hero_capacity_ment_7": "2072"
+  },
+  {
+    "id": 1515002,
+    "hero_capacity_ment_1": "2066",
+    "hero_capacity_ment_2": "2067",
+    "hero_capacity_ment_3": "2068",
+    "hero_capacity_ment_4": "2069",
+    "hero_capacity_ment_5": "2070",
+    "hero_capacity_ment_6": "2071",
+    "hero_capacity_ment_7": "2072"
+  },
+  {
+    "id": 1525001,
+    "hero_capacity_ment_1": "4873",
+    "hero_capacity_ment_2": "4874",
+    "hero_capacity_ment_3": "4875",
+    "hero_capacity_ment_4": "4876",
+    "hero_capacity_ment_5": "4877",
+    "hero_capacity_ment_6": "4878",
+    "hero_capacity_ment_7": "4879"
+  },
+  {
+    "id": 1525002,
+    "hero_capacity_ment_1": "4873",
+    "hero_capacity_ment_2": "4874",
+    "hero_capacity_ment_3": "4875",
+    "hero_capacity_ment_4": "4876",
+    "hero_capacity_ment_5": "4877",
+    "hero_capacity_ment_6": "4878",
+    "hero_capacity_ment_7": "4879"
+  },
+  {
+    "id": 1535001,
+    "hero_capacity_ment_1": "2073",
+    "hero_capacity_ment_2": "2074",
+    "hero_capacity_ment_3": "2075",
+    "hero_capacity_ment_4": "2076",
+    "hero_capacity_ment_5": "2077",
+    "hero_capacity_ment_6": "2078",
+    "hero_capacity_ment_7": "2079"
+  },
+  {
+    "id": 1535002,
+    "hero_capacity_ment_1": "2073",
+    "hero_capacity_ment_2": "2074",
+    "hero_capacity_ment_3": "2075",
+    "hero_capacity_ment_4": "2076",
+    "hero_capacity_ment_5": "2077",
+    "hero_capacity_ment_6": "2078",
+    "hero_capacity_ment_7": "2079"
+  },
+  {
+    "id": 1545001,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1545002,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1555001,
+    "hero_capacity_ment_1": "5579",
+    "hero_capacity_ment_2": "5580",
+    "hero_capacity_ment_3": "5581",
+    "hero_capacity_ment_4": "5582",
+    "hero_capacity_ment_5": "5583",
+    "hero_capacity_ment_6": "5588",
+    "hero_capacity_ment_7": "5589"
+  },
+  {
+    "id": 1555002,
+    "hero_capacity_ment_1": "5579",
+    "hero_capacity_ment_2": "5580",
+    "hero_capacity_ment_3": "5581",
+    "hero_capacity_ment_4": "5582",
+    "hero_capacity_ment_5": "5583",
+    "hero_capacity_ment_6": "5588",
+    "hero_capacity_ment_7": "5589"
+  },
+  {
+    "id": 1575001,
+    "hero_capacity_ment_1": "4880",
+    "hero_capacity_ment_2": "4881",
+    "hero_capacity_ment_3": "4882",
+    "hero_capacity_ment_4": "4883",
+    "hero_capacity_ment_5": "4884",
+    "hero_capacity_ment_6": "4885",
+    "hero_capacity_ment_7": "4886"
+  },
+  {
+    "id": 1575002,
+    "hero_capacity_ment_1": "4880",
+    "hero_capacity_ment_2": "4881",
+    "hero_capacity_ment_3": "4882",
+    "hero_capacity_ment_4": "4883",
+    "hero_capacity_ment_5": "4884",
+    "hero_capacity_ment_6": "4885",
+    "hero_capacity_ment_7": "4886"
+  },
+  {
+    "id": 1585001,
+    "hero_capacity_ment_1": "4887",
+    "hero_capacity_ment_2": "4888",
+    "hero_capacity_ment_3": "4889",
+    "hero_capacity_ment_4": "4890",
+    "hero_capacity_ment_5": "4891",
+    "hero_capacity_ment_6": "4892",
+    "hero_capacity_ment_7": "4893"
+  },
+  {
+    "id": 1585002,
+    "hero_capacity_ment_1": "4887",
+    "hero_capacity_ment_2": "4888",
+    "hero_capacity_ment_3": "4889",
+    "hero_capacity_ment_4": "4890",
+    "hero_capacity_ment_5": "4891",
+    "hero_capacity_ment_6": "4892",
+    "hero_capacity_ment_7": "4893"
+  },
+  {
+    "id": 1595001,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1595002,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1605001,
+    "hero_capacity_ment_1": "4894",
+    "hero_capacity_ment_2": "4895",
+    "hero_capacity_ment_3": "4896",
+    "hero_capacity_ment_4": "4897",
+    "hero_capacity_ment_5": "4898",
+    "hero_capacity_ment_6": "4899",
+    "hero_capacity_ment_7": "4900"
+  },
+  {
+    "id": 1614001,
+    "hero_capacity_ment_1": "4901",
+    "hero_capacity_ment_2": "4902",
+    "hero_capacity_ment_3": "4903",
+    "hero_capacity_ment_4": "4904",
+    "hero_capacity_ment_5": "4905",
+    "hero_capacity_ment_6": "4906",
+    "hero_capacity_ment_7": "4907"
+  },
+  {
+    "id": 1625001,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1634001,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1645001,
+    "hero_capacity_ment_1": "2080",
+    "hero_capacity_ment_2": "2081",
+    "hero_capacity_ment_3": "2082",
+    "hero_capacity_ment_4": "2083",
+    "hero_capacity_ment_5": "2084",
+    "hero_capacity_ment_6": "2085",
+    "hero_capacity_ment_7": "2086"
+  },
+  {
+    "id": 1654001,
+    "hero_capacity_ment_1": "2087",
+    "hero_capacity_ment_2": "2088",
+    "hero_capacity_ment_3": "2089",
+    "hero_capacity_ment_4": "2090",
+    "hero_capacity_ment_5": "2091",
+    "hero_capacity_ment_6": "2092",
+    "hero_capacity_ment_7": "2093"
+  },
+  {
+    "id": 1665001,
+    "hero_capacity_ment_1": "4908",
+    "hero_capacity_ment_2": "4909",
+    "hero_capacity_ment_3": "4910",
+    "hero_capacity_ment_4": "4911",
+    "hero_capacity_ment_5": "4912",
+    "hero_capacity_ment_6": "4913",
+    "hero_capacity_ment_7": "4914"
+  },
+  {
+    "id": 1675001,
+    "hero_capacity_ment_1": "5552",
+    "hero_capacity_ment_2": "5553",
+    "hero_capacity_ment_3": "5554",
+    "hero_capacity_ment_4": "5555",
+    "hero_capacity_ment_5": "5556",
+    "hero_capacity_ment_6": "5557",
+    "hero_capacity_ment_7": "5558"
+  },
+  {
+    "id": 1685001,
+    "hero_capacity_ment_1": "5559",
+    "hero_capacity_ment_2": "5560",
+    "hero_capacity_ment_3": "5561",
+    "hero_capacity_ment_4": "5562",
+    "hero_capacity_ment_5": "5563",
+    "hero_capacity_ment_6": "5564",
+    "hero_capacity_ment_7": "5565"
+  },
+  {
+    "id": 1695001,
+    "hero_capacity_ment_1": "5837",
+    "hero_capacity_ment_2": "5838",
+    "hero_capacity_ment_3": "5839",
+    "hero_capacity_ment_4": "5840",
+    "hero_capacity_ment_5": "5841",
+    "hero_capacity_ment_6": "5842",
+    "hero_capacity_ment_7": "5843"
+  },
+  {
+    "id": 1725001,
+    "hero_capacity_ment_1": "4915",
+    "hero_capacity_ment_2": "4916",
+    "hero_capacity_ment_3": "4917",
+    "hero_capacity_ment_4": "4918",
+    "hero_capacity_ment_5": "4919",
+    "hero_capacity_ment_6": "4920",
+    "hero_capacity_ment_7": "4921"
+  },
+  {
+    "id": 1735001,
+    "hero_capacity_ment_1": "4922",
+    "hero_capacity_ment_2": "4923",
+    "hero_capacity_ment_3": "4924",
+    "hero_capacity_ment_4": "4925",
+    "hero_capacity_ment_5": "4926",
+    "hero_capacity_ment_6": "4927",
+    "hero_capacity_ment_7": "4928"
+  },
+  {
+    "id": 1485001,
+    "hero_capacity_ment_1": "2045",
+    "hero_capacity_ment_2": "2046",
+    "hero_capacity_ment_3": "2047",
+    "hero_capacity_ment_4": "2048",
+    "hero_capacity_ment_5": "2049",
+    "hero_capacity_ment_6": "2050",
+    "hero_capacity_ment_7": "2051"
+  },
+  {
+    "id": 1495001,
+    "hero_capacity_ment_1": "2052",
+    "hero_capacity_ment_2": "2053",
+    "hero_capacity_ment_3": "2054",
+    "hero_capacity_ment_4": "2055",
+    "hero_capacity_ment_5": "2056",
+    "hero_capacity_ment_6": "2057",
+    "hero_capacity_ment_7": "2058"
+  },
+  {
+    "id": 1745000,
+    "hero_capacity_ment_1": "5844",
+    "hero_capacity_ment_2": "5845",
+    "hero_capacity_ment_3": "5846",
+    "hero_capacity_ment_4": "5847",
+    "hero_capacity_ment_5": "5848",
+    "hero_capacity_ment_6": "5849",
+    "hero_capacity_ment_7": "5850"
+  },
+  {
+    "id": 1745001,
+    "hero_capacity_ment_1": "5844",
+    "hero_capacity_ment_2": "5845",
+    "hero_capacity_ment_3": "5846",
+    "hero_capacity_ment_4": "5847",
+    "hero_capacity_ment_5": "5848",
+    "hero_capacity_ment_6": "5849",
+    "hero_capacity_ment_7": "5850"
+  },
+  {
+    "id": 1755001,
+    "hero_capacity_ment_1": "5771",
+    "hero_capacity_ment_2": "5590",
+    "hero_capacity_ment_3": "5772",
+    "hero_capacity_ment_4": "5773",
+    "hero_capacity_ment_5": "5774",
+    "hero_capacity_ment_6": "5591",
+    "hero_capacity_ment_7": "5775"
+  },
+  {
+    "id": 1764001,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1765001,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1775001,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1785001,
+    "hero_capacity_ment_1": "",
+    "hero_capacity_ment_2": "",
+    "hero_capacity_ment_3": "",
+    "hero_capacity_ment_4": "",
+    "hero_capacity_ment_5": "",
+    "hero_capacity_ment_6": "",
+    "hero_capacity_ment_7": ""
+  }
+]

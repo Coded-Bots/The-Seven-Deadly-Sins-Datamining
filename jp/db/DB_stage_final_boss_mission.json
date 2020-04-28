@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "mission_group_id": 1011,
+    "mission_name": "",
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 12,
+    "localize_display_type": 0,
+    "mission_reward_value": 15
+  },
+  {
+    "id": 2,
+    "mission_group_id": 1011,
+    "mission_name": "",
+    "mission_type": "stage_battle_over_skill_dissipation_count",
+    "mission_type_value": 4,
+    "localize_display_type": 0,
+    "mission_reward_value": 20
+  },
+  {
+    "id": 3,
+    "mission_group_id": 1011,
+    "mission_name": "",
+    "mission_type": "Stage_Battle_CardUse_Special",
+    "mission_type_value": 6,
+    "localize_display_type": 0,
+    "mission_reward_value": 25
+  },
+  {
+    "id": 4,
+    "mission_group_id": 1012,
+    "mission_name": "",
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 12,
+    "localize_display_type": 0,
+    "mission_reward_value": 15
+  },
+  {
+    "id": 5,
+    "mission_group_id": 1012,
+    "mission_name": "",
+    "mission_type": "stage_battle_over_skill_dissipation_count",
+    "mission_type_value": 4,
+    "localize_display_type": 0,
+    "mission_reward_value": 20
+  },
+  {
+    "id": 6,
+    "mission_group_id": 1012,
+    "mission_name": "",
+    "mission_type": "Stage_Battle_CardUse_Special",
+    "mission_type_value": 6,
+    "localize_display_type": 0,
+    "mission_reward_value": 25
+  },
+  {
+    "id": 7,
+    "mission_group_id": 1013,
+    "mission_name": "",
+    "mission_type": "Stage_Battle_CardUse_Heal",
+    "mission_type_value": 3,
+    "localize_display_type": 0,
+    "mission_reward_value": 40
+  },
+  {
+    "id": 8,
+    "mission_group_id": 1013,
+    "mission_name": "",
+    "mission_type": "Stage_Battle_Rank_Down",
+    "mission_type_value": 6,
+    "localize_display_type": 0,
+    "mission_reward_value": 50
+  },
+  {
+    "id": 9,
+    "mission_group_id": 1013,
+    "mission_name": "",
+    "mission_type": "stage_battle_over_decrease_gauge_count",
+    "mission_type_value": 12,
+    "localize_display_type": 0,
+    "mission_reward_value": 90
+  },
+  {
+    "id": 10,
+    "mission_group_id": 1013,
+    "mission_name": "",
+    "mission_type": "stage_battle_over_erase_buff_count",
+    "mission_type_value": 3,
+    "localize_display_type": 0,
+    "mission_reward_value": 100
+  },
+  {
+    "id": 37,
+    "mission_group_id": 3011,
+    "mission_name": "22022",
+    "mission_type": "Stage_Battle_CardUse_Abnormal",
+    "mission_type_value": 5,
+    "localize_display_type": 2,
+    "mission_reward_value": 15
+  },
+  {
+    "id": 38,
+    "mission_group_id": 3011,
+    "mission_name": "22010",
+    "mission_type": "stage_battle_over_debuff_freezing_count",
+    "mission_type_value": 3,
+    "localize_display_type": 2,
+    "mission_reward_value": 20
+  },
+  {
+    "id": 39,
+    "mission_group_id": 3011,
+    "mission_name": "22023",
+    "mission_type": "Stage_Battle_Under_Special_Count",
+    "mission_type_value": 4,
+    "localize_display_type": 2,
+    "mission_reward_value": 25
+  },
+  {
+    "id": 40,
+    "mission_group_id": 3012,
+    "mission_name": "22028",
+    "mission_type": "Stage_Battle_Under_NoMove_count",
+    "mission_type_value": 5,
+    "localize_display_type": 2,
+    "mission_reward_value": 80
+  },
+  {
+    "id": 41,
+    "mission_group_id": 3012,
+    "mission_name": "22107",
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "localize_display_type": 0,
+    "mission_reward_value": 90
+  },
+  {
+    "id": 42,
+    "mission_group_id": 3012,
+    "mission_name": "22011",
+    "mission_type": "stage_battle_over_debuff_preventpose_count",
+    "mission_type_value": 2,
+    "localize_display_type": 2,
+    "mission_reward_value": 90
+  },
+  {
+    "id": 43,
+    "mission_group_id": 3013,
+    "mission_name": "22030",
+    "mission_type": "Stage_Battle_Hero_Kind",
+    "mission_type_value": 6,
+    "localize_display_type": 0,
+    "mission_reward_value": 190
+  },
+  {
+    "id": 44,
+    "mission_group_id": 3013,
+    "mission_name": "22012",
+    "mission_type": "stage_battle_over_debuff_infection_count",
+    "mission_type_value": 3,
+    "localize_display_type": 2,
+    "mission_reward_value": 230
+  },
+  {
+    "id": 45,
+    "mission_group_id": 3013,
+    "mission_name": "22018",
+    "mission_type": "stage_battle_over_erase_buff_count",
+    "mission_type_value": 2,
+    "localize_display_type": 2,
+    "mission_reward_value": 270
+  },
+  {
+    "id": 46,
+    "mission_group_id": 3013,
+    "mission_name": "22025",
+    "mission_type": "Stage_Battle_Max_Damage",
+    "mission_type_value": 300000,
+    "localize_display_type": 2,
+    "mission_reward_value": 310
+  },
+  {
+    "id": 101,
+    "mission_group_id": 5011,
+    "mission_name": "40319",
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 110000,
+    "localize_display_type": 2,
+    "mission_reward_value": 15
+  },
+  {
+    "id": 102,
+    "mission_group_id": 5011,
+    "mission_name": "40320",
+    "mission_type": "stage_battle_cardnotuse_buff",
+    "mission_type_value": 0,
+    "localize_display_type": 0,
+    "mission_reward_value": 20
+  },
+  {
+    "id": 103,
+    "mission_group_id": 5011,
+    "mission_name": "40321",
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 16,
+    "localize_display_type": 2,
+    "mission_reward_value": 25
+  },
+  {
+    "id": 111,
+    "mission_group_id": 5012,
+    "mission_name": "40322",
+    "mission_type": "stage_battle_over_skill_stamina_attack_count",
+    "mission_type_value": 5,
+    "localize_display_type": 2,
+    "mission_reward_value": 80
+  },
+  {
+    "id": 112,
+    "mission_group_id": 5012,
+    "mission_name": "40323",
+    "mission_type": "stage_battle_over_skill_dissipation_count",
+    "mission_type_value": 5,
+    "localize_display_type": 2,
+    "mission_reward_value": 90
+  },
+  {
+    "id": 113,
+    "mission_group_id": 5012,
+    "mission_name": "40324",
+    "mission_type": "Stage_Battle_CardUse_Special",
+    "mission_type_value": 2,
+    "localize_display_type": 2,
+    "mission_reward_value": 90
+  },
+  {
+    "id": 121,
+    "mission_group_id": 5013,
+    "mission_name": "40325",
+    "mission_type": "stage_battle_over_decrease_gauge_count",
+    "mission_type_value": 5,
+    "localize_display_type": 2,
+    "mission_reward_value": 160
+  },
+  {
+    "id": 122,
+    "mission_group_id": 5013,
+    "mission_name": "40326",
+    "mission_type": "stage_battle_over_skill_stamina_add_count",
+    "mission_type_value": 3,
+    "localize_display_type": 2,
+    "mission_reward_value": 160
+  },
+  {
+    "id": 123,
+    "mission_group_id": 5013,
+    "mission_name": "40327",
+    "mission_type": "stage_battle_over_skill_def_ignore_count",
+    "mission_type_value": 5,
+    "localize_display_type": 2,
+    "mission_reward_value": 200
+  },
+  {
+    "id": 124,
+    "mission_group_id": 5013,
+    "mission_name": "40328",
+    "mission_type": "stage_battle_over_skill_ignore_fixed_def_count",
+    "mission_type_value": 3,
+    "localize_display_type": 2,
+    "mission_reward_value": 200
+  },
+  {
+    "id": 125,
+    "mission_group_id": 5013,
+    "mission_name": "40329",
+    "mission_type": "stage_battle_over_skill_phoenix_count",
+    "mission_type_value": 8,
+    "localize_display_type": 2,
+    "mission_reward_value": 280
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "basepoint_id": 100301,
+    "quest_character_id": 1,
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "basepoint_action_ani": "lobby/play_basepoint_action_1"
+  },
+  {
+    "id": 2,
+    "basepoint_id": 200201,
+    "quest_character_id": 1,
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "basepoint_action_ani": "lobby/play_basepoint_action_2"
+  },
+  {
+    "id": 3,
+    "basepoint_id": 300201,
+    "quest_character_id": 1,
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "basepoint_action_ani": "lobby/play_basepoint_action_3"
+  },
+  {
+    "id": 4,
+    "basepoint_id": 400201,
+    "quest_character_id": 1,
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "basepoint_action_ani": "lobby/play_basepoint_action_4"
+  },
+  {
+    "id": 5,
+    "basepoint_id": 500201,
+    "quest_character_id": 1,
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "basepoint_action_ani": "lobby/play_basepoint_action_5"
+  },
+  {
+    "id": 6,
+    "basepoint_id": 600701,
+    "quest_character_id": 1,
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "basepoint_action_ani": "lobby/play_basepoint_action_6"
+  },
+  {
+    "id": 7,
+    "basepoint_id": 93010301,
+    "quest_character_id": 91,
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "basepoint_action_ani": "lobby/play_basepoint_action_4"
+  }
+]

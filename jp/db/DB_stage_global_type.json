@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "stage_type": "free"
+  },
+  {
+    "id": 2,
+    "stage_type": "boss"
+  },
+  {
+    "id": 3,
+    "stage_type": "upgrade"
+  },
+  {
+    "id": 4,
+    "stage_type": "evolution"
+  },
+  {
+    "id": 5,
+    "stage_type": "gold"
+  },
+  {
+    "id": 6,
+    "stage_type": "event"
+  },
+  {
+    "id": 7,
+    "stage_type": "destroy"
+  },
+  {
+    "id": 8,
+    "stage_type": "Training"
+  },
+  {
+    "id": 9,
+    "stage_type": "Main"
+  },
+  {
+    "id": 10,
+    "stage_type": "main_essential"
+  },
+  {
+    "id": 11,
+    "stage_type": "quest_main"
+  },
+  {
+    "id": 12,
+    "stage_type": "quest_sub"
+  },
+  {
+    "id": 13,
+    "stage_type": "limited_main"
+  },
+  {
+    "id": 14,
+    "stage_type": "limited_drop"
+  },
+  {
+    "id": 15,
+    "stage_type": "limited_clear"
+  },
+  {
+    "id": 16,
+    "stage_type": "extra"
+  },
+  {
+    "id": 17,
+    "stage_type": "extra_main"
+  },
+  {
+    "id": 18,
+    "stage_type": "extra_boss"
+  }
+]

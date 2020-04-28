@@ -1,0 +1,83 @@
+[
+  {
+    "group_id": 1,
+    "stepup_background": 2001,
+    "stepup_BG_name": "gacha_banner_stepup_01_elizabath_qwd3asc",
+    "stepup_m_banner_name": "event_banner_gacha_stepup_01_elizabath_m_qwd2asc",
+    "stepup_reset": 0,
+    "mileage_group": 1,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 2,
+    "stepup_background": 2002,
+    "stepup_BG_name": "gacha_banner_stepup_01_liliah_ghfhfhr",
+    "stepup_m_banner_name": "event_banner_gacha_stepup_01_liliah_m_ghfhfhr",
+    "stepup_reset": 1,
+    "mileage_group": 2,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 3,
+    "stepup_background": 2003,
+    "stepup_BG_name": "gacha_banner_stepup_01_sixmen_rhq7ckd",
+    "stepup_m_banner_name": "event_banner_gacha_stepup_01_sixmen_m_rhq6ckd",
+    "stepup_reset": 1,
+    "mileage_group": 3,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 4,
+    "stepup_background": 2004,
+    "stepup_BG_name": "gacha_banner_stepup_01_valenty_eo7ckd",
+    "stepup_m_banner_name": "event_banner_gacha_stepup_01_valenty_m_eo6ckd",
+    "stepup_reset": 1,
+    "mileage_group": 4,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 5,
+    "stepup_background": 2005,
+    "stepup_BG_name": "gacha_banner_stepup_01_ellatt_gks3dn",
+    "stepup_m_banner_name": "event_banner_gacha_stepup_01_ellatt_m_gks3dn",
+    "stepup_reset": 1,
+    "mileage_group": 5,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 6,
+    "stepup_background": 2006,
+    "stepup_BG_name": "gacha_banner_stepup_01_belion_qkd5dj",
+    "stepup_m_banner_name": "event_banner_gacha_stepup_01_belion_m_qkd5dj",
+    "stepup_reset": 1,
+    "mileage_group": 6,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 7,
+    "stepup_background": 2007,
+    "stepup_BG_name": "gacha_banner_stepup_eastinamabyllis_01",
+    "stepup_m_banner_name": "m_banner_gacha_stepup_eastinamabyllis_01",
+    "stepup_reset": 1,
+    "mileage_group": 7,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 8,
+    "stepup_background": 2008,
+    "stepup_BG_name": "gacha_banner_stepup_arthur_01",
+    "stepup_m_banner_name": "m_banner_gacha_stepup_arthur_01",
+    "stepup_reset": 1,
+    "mileage_group": 8,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 9,
+    "stepup_background": 2009,
+    "stepup_BG_name": "gacha_banner_stepup_roxy_01",
+    "stepup_m_banner_name": "m_banner_gacha_stepup_roxy_01",
+    "stepup_reset": 1,
+    "mileage_group": 9,
+    "mileage_reset": 0
+  }
+]

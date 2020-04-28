@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "season_group": 1,
+    "event_large_popup_name": "",
+    "season_title": "1818",
+    "season_subtitle": "22138",
+    "mission_title": "1275",
+    "help_window": 0
+  },
+  {
+    "id": 2,
+    "season_group": 2,
+    "event_large_popup_name": "",
+    "season_title": "22136",
+    "season_subtitle": "22137",
+    "mission_title": "1817",
+    "help_window": 1
+  }
+]

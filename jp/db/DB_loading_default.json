@@ -1,0 +1,770 @@
+[
+  {
+    "id": 1,
+    "map_filename": "lobby_0F_day",
+    "before_loading_id": 100002,
+    "after_loading_id": 100002
+  },
+  {
+    "id": 2,
+    "map_filename": "lobby_0F_night",
+    "before_loading_id": 100003,
+    "after_loading_id": 100003
+  },
+  {
+    "id": 3,
+    "map_filename": "lobby_1F_day",
+    "before_loading_id": 100002,
+    "after_loading_id": 100002
+  },
+  {
+    "id": 4,
+    "map_filename": "lobby_1F_day_cutscene",
+    "before_loading_id": 100003,
+    "after_loading_id": 100003
+  },
+  {
+    "id": 5,
+    "map_filename": "lobby_1F_night",
+    "before_loading_id": 100003,
+    "after_loading_id": 100003
+  },
+  {
+    "id": 6,
+    "map_filename": "lobby_2F_day",
+    "before_loading_id": 100002,
+    "after_loading_id": 100002
+  },
+  {
+    "id": 7,
+    "map_filename": "lobby_2F_night",
+    "before_loading_id": 100003,
+    "after_loading_id": 100003
+  },
+  {
+    "id": 8,
+    "map_filename": "lobby_3F_day",
+    "before_loading_id": 100002,
+    "after_loading_id": 100002
+  },
+  {
+    "id": 9,
+    "map_filename": "lobby_3F_night",
+    "before_loading_id": 100003,
+    "after_loading_id": 100003
+  },
+  {
+    "id": 10,
+    "map_filename": "lobby_4F_day",
+    "before_loading_id": 100002,
+    "after_loading_id": 100002
+  },
+  {
+    "id": 11,
+    "map_filename": "lobbyVR_1F_day",
+    "before_loading_id": 100002,
+    "after_loading_id": 100002
+  },
+  {
+    "id": 12,
+    "map_filename": "lobbyVR_1F_night",
+    "before_loading_id": 100003,
+    "after_loading_id": 100003
+  },
+  {
+    "id": 13,
+    "map_filename": "map_7house_stage_01",
+    "before_loading_id": 500088,
+    "after_loading_id": 500088
+  },
+  {
+    "id": 14,
+    "map_filename": "map_AW_BNAsquear",
+    "before_loading_id": 500034,
+    "after_loading_id": 500034
+  },
+  {
+    "id": 15,
+    "map_filename": "map_AW_BZsquear",
+    "before_loading_id": 500035,
+    "after_loading_id": 500035
+  },
+  {
+    "id": 16,
+    "map_filename": "map_AW_DCsquear",
+    "before_loading_id": 500036,
+    "after_loading_id": 500036
+  },
+  {
+    "id": 17,
+    "map_filename": "map_AW_DMRsquear",
+    "before_loading_id": 500037,
+    "after_loading_id": 500037
+  },
+  {
+    "id": 18,
+    "map_filename": "map_AW_LONsquear",
+    "before_loading_id": 500038,
+    "after_loading_id": 500038
+  },
+  {
+    "id": 19,
+    "map_filename": "map_AW_ODsquear",
+    "before_loading_id": 500040,
+    "after_loading_id": 500040
+  },
+  {
+    "id": 20,
+    "map_filename": "map_AWAbyss_stage_01",
+    "before_loading_id": 500041,
+    "after_loading_id": 500041
+  },
+  {
+    "id": 21,
+    "map_filename": "map_AWCave_stage_01",
+    "before_loading_id": 100001,
+    "after_loading_id": 100001
+  },
+  {
+    "id": 22,
+    "map_filename": "map_AWNest_stage_01",
+    "before_loading_id": 500030,
+    "after_loading_id": 500030
+  },
+  {
+    "id": 23,
+    "map_filename": "map_AWTown_stage_01",
+    "before_loading_id": 500022,
+    "after_loading_id": 500022
+  },
+  {
+    "id": 24,
+    "map_filename": "map_BasteHall_stage_01",
+    "before_loading_id": 500042,
+    "after_loading_id": 500042
+  },
+  {
+    "id": 25,
+    "map_filename": "map_Basteout_stage_01",
+    "before_loading_id": 500015,
+    "after_loading_id": 500015
+  },
+  {
+    "id": 26,
+    "map_filename": "map_Basteout_stage_02",
+    "before_loading_id": 500043,
+    "after_loading_id": 500043
+  },
+  {
+    "id": 27,
+    "map_filename": "map_BIRTown_stage_01",
+    "before_loading_id": 100001,
+    "after_loading_id": 100001
+  },
+  {
+    "id": 28,
+    "map_filename": "map_BlackGrave_stage_01",
+    "before_loading_id": 500018,
+    "after_loading_id": 500018
+  },
+  {
+    "id": 29,
+    "map_filename": "map_BNAsquear_stage_01",
+    "before_loading_id": 500044,
+    "after_loading_id": 500044
+  },
+  {
+    "id": 30,
+    "map_filename": "map_Btown_stage_01",
+    "before_loading_id": 500034,
+    "after_loading_id": 500034
+  },
+  {
+    "id": 31,
+    "map_filename": "map_BZentry_stage_01",
+    "before_loading_id": 500027,
+    "after_loading_id": 500027
+  },
+  {
+    "id": 32,
+    "map_filename": "map_BZsquare_stage_01",
+    "before_loading_id": 500028,
+    "after_loading_id": 500028
+  },
+  {
+    "id": 33,
+    "map_filename": "map_BZsquare_stage_02",
+    "before_loading_id": 500045,
+    "after_loading_id": 500045
+  },
+  {
+    "id": 34,
+    "map_filename": "map_Catacomb_stage_01",
+    "before_loading_id": 500010,
+    "after_loading_id": 500010
+  },
+  {
+    "id": 35,
+    "map_filename": "map_CGrave_stage_01",
+    "before_loading_id": 500014,
+    "after_loading_id": 500014
+  },
+  {
+    "id": 36,
+    "map_filename": "map_Chess_stage_01",
+    "before_loading_id": 500009,
+    "after_loading_id": 500009
+  },
+  {
+    "id": 37,
+    "map_filename": "map_Cliff_stage_01",
+    "before_loading_id": 500033,
+    "after_loading_id": 500033
+  },
+  {
+    "id": 38,
+    "map_filename": "map_common_forest_01",
+    "before_loading_id": 500046,
+    "after_loading_id": 500046
+  },
+  {
+    "id": 39,
+    "map_filename": "map_common_forest_02",
+    "before_loading_id": 500048,
+    "after_loading_id": 500048
+  },
+  {
+    "id": 40,
+    "map_filename": "map_common_forest_03",
+    "before_loading_id": 500008,
+    "after_loading_id": 500008
+  },
+  {
+    "id": 41,
+    "map_filename": "map_common_forest_04",
+    "before_loading_id": 500050,
+    "after_loading_id": 500050
+  },
+  {
+    "id": 42,
+    "map_filename": "map_common_grass_01",
+    "before_loading_id": 500052,
+    "after_loading_id": 500052
+  },
+  {
+    "id": 43,
+    "map_filename": "map_common_ground_01",
+    "before_loading_id": 500004,
+    "after_loading_id": 500004
+  },
+  {
+    "id": 44,
+    "map_filename": "map_common_soil_01",
+    "before_loading_id": 100008,
+    "after_loading_id": 100008
+  },
+  {
+    "id": 45,
+    "map_filename": "map_common_soilgrass_01",
+    "before_loading_id": 100011,
+    "after_loading_id": 100011
+  },
+  {
+    "id": 46,
+    "map_filename": "map_common_stonetile_01",
+    "before_loading_id": 100011,
+    "after_loading_id": 100011
+  },
+  {
+    "id": 47,
+    "map_filename": "map_common_town_01",
+    "before_loading_id": 500019,
+    "after_loading_id": 500019
+  },
+  {
+    "id": 48,
+    "map_filename": "map_DCquartz_stage_01",
+    "before_loading_id": 500023,
+    "after_loading_id": 500023
+  },
+  {
+    "id": 49,
+    "map_filename": "map_DCquartz_stage_02",
+    "before_loading_id": 500023,
+    "after_loading_id": 500023
+  },
+  {
+    "id": 50,
+    "map_filename": "map_DCtara_stage_01",
+    "before_loading_id": 500055,
+    "after_loading_id": 500055
+  },
+  {
+    "id": 51,
+    "map_filename": "map_DMRhouse_stage_01",
+    "before_loading_id": 500056,
+    "after_loading_id": 500056
+  },
+  {
+    "id": 52,
+    "map_filename": "map_DMRsquear_stage_01",
+    "before_loading_id": 500057,
+    "after_loading_id": 500057
+  },
+  {
+    "id": 53,
+    "map_filename": "map_EFburn_stage_01",
+    "before_loading_id": 500058,
+    "after_loading_id": 500058
+  },
+  {
+    "id": 54,
+    "map_filename": "map_EFspring_stage_01",
+    "before_loading_id": 500102,
+    "after_loading_id": 500102
+  },
+  {
+    "id": 55,
+    "map_filename": "map_gacha",
+    "before_loading_id": 310005,
+    "after_loading_id": 310005
+  },
+  {
+    "id": 56,
+    "map_filename": "map_garutum_stage_01",
+    "before_loading_id": 500062,
+    "after_loading_id": 500062
+  },
+  {
+    "id": 57,
+    "map_filename": "map_HarkLive_stage_01",
+    "before_loading_id": 500032,
+    "after_loading_id": 500032
+  },
+  {
+    "id": 58,
+    "map_filename": "map_IstalSP_stage_01",
+    "before_loading_id": 500041,
+    "after_loading_id": 500041
+  },
+  {
+    "id": 59,
+    "map_filename": "map_KIZforest_stage_01",
+    "before_loading_id": 500032,
+    "after_loading_id": 500032
+  },
+  {
+    "id": 60,
+    "map_filename": "map_KIZforest_stage_02",
+    "before_loading_id": 100010,
+    "after_loading_id": 100010
+  },
+  {
+    "id": 61,
+    "map_filename": "map_LCatOffice_stage_01",
+    "before_loading_id": 500001,
+    "after_loading_id": 500001
+  },
+  {
+    "id": 62,
+    "map_filename": "map_LONSBoss_stage_01",
+    "before_loading_id": 500063,
+    "after_loading_id": 500063
+  },
+  {
+    "id": 63,
+    "map_filename": "map_LONSdMagic_stage_01",
+    "before_loading_id": 500065,
+    "after_loading_id": 500065
+  },
+  {
+    "id": 64,
+    "map_filename": "map_LONSdSquare_stage_01",
+    "before_loading_id": 500066,
+    "after_loading_id": 500066
+  },
+  {
+    "id": 65,
+    "map_filename": "map_LONSdSquare_stage_02",
+    "before_loading_id": 500067,
+    "after_loading_id": 500067
+  },
+  {
+    "id": 66,
+    "map_filename": "map_LONSdTown_stage_01",
+    "before_loading_id": 500068,
+    "after_loading_id": 500068
+  },
+  {
+    "id": 67,
+    "map_filename": "map_LONSgate_stage_01",
+    "before_loading_id": 500069,
+    "after_loading_id": 500069
+  },
+  {
+    "id": 68,
+    "map_filename": "map_LONSgate_stage_02",
+    "before_loading_id": 500070,
+    "after_loading_id": 500070
+  },
+  {
+    "id": 69,
+    "map_filename": "map_LONSgrave_stage_01",
+    "before_loading_id": 500074,
+    "after_loading_id": 500074
+  },
+  {
+    "id": 70,
+    "map_filename": "map_LONSin_stage_01",
+    "before_loading_id": 500075,
+    "after_loading_id": 500075
+  },
+  {
+    "id": 71,
+    "map_filename": "map_LONSin_stage_02",
+    "before_loading_id": 500076,
+    "after_loading_id": 500076
+  },
+  {
+    "id": 72,
+    "map_filename": "map_LONSin_stage_03",
+    "before_loading_id": 500075,
+    "after_loading_id": 500075
+  },
+  {
+    "id": 73,
+    "map_filename": "map_LONSm_stage_01",
+    "before_loading_id": 500079,
+    "after_loading_id": 500079
+  },
+  {
+    "id": 74,
+    "map_filename": "map_LONSnorth_stage_01",
+    "before_loading_id": 500077,
+    "after_loading_id": 500077
+  },
+  {
+    "id": 75,
+    "map_filename": "map_LONSroom_stage_01",
+    "before_loading_id": 500078,
+    "after_loading_id": 500078
+  },
+  {
+    "id": 76,
+    "map_filename": "map_LONSsField_stage_01",
+    "before_loading_id": 500079,
+    "after_loading_id": 500079
+  },
+  {
+    "id": 77,
+    "map_filename": "map_LONSsouth_stage_01",
+    "before_loading_id": 500080,
+    "after_loading_id": 500080
+  },
+  {
+    "id": 78,
+    "map_filename": "map_LONStg_stage_01",
+    "before_loading_id": 600001,
+    "after_loading_id": 600001
+  },
+  {
+    "id": 79,
+    "map_filename": "map_LONStown_stage_01",
+    "before_loading_id": 500081,
+    "after_loading_id": 500081
+  },
+  {
+    "id": 80,
+    "map_filename": "map_LONStown_stage_02",
+    "before_loading_id": 500082,
+    "after_loading_id": 500082
+  },
+  {
+    "id": 81,
+    "map_filename": "map_LONStown_stage_03",
+    "before_loading_id": 500083,
+    "after_loading_id": 500083
+  },
+  {
+    "id": 82,
+    "map_filename": "map_LONStownCT_stage_01",
+    "before_loading_id": 200101,
+    "after_loading_id": 200102
+  },
+  {
+    "id": 83,
+    "map_filename": "map_MapleGil_stage_01",
+    "before_loading_id": 310005,
+    "after_loading_id": 310005
+  },
+  {
+    "id": 84,
+    "map_filename": "map_MapleTree_stage_01",
+    "before_loading_id": 310005,
+    "after_loading_id": 310005
+  },
+  {
+    "id": 85,
+    "map_filename": "map_MapleWay_stage_01",
+    "before_loading_id": 310005,
+    "after_loading_id": 310005
+  },
+  {
+    "id": 86,
+    "map_filename": "map_MGgrave_stage_01",
+    "before_loading_id": 500084,
+    "after_loading_id": 500084
+  },
+  {
+    "id": 87,
+    "map_filename": "map_MHut_stage_01",
+    "before_loading_id": 500006,
+    "after_loading_id": 500006
+  },
+  {
+    "id": 88,
+    "map_filename": "map_ODcenter_stage_01",
+    "before_loading_id": 500085,
+    "after_loading_id": 500085
+  },
+  {
+    "id": 89,
+    "map_filename": "map_ODcenter_stage_02",
+    "before_loading_id": 500047,
+    "after_loading_id": 500047
+  },
+  {
+    "id": 90,
+    "map_filename": "map_ODWind_stage_01",
+    "before_loading_id": 500086,
+    "after_loading_id": 500086
+  },
+  {
+    "id": 91,
+    "map_filename": "map_OutFort_stage_01",
+    "before_loading_id": 500014,
+    "after_loading_id": 500014
+  },
+  {
+    "id": 92,
+    "map_filename": "map_pigcapbar_stage_01",
+    "before_loading_id": 500104,
+    "after_loading_id": 500104
+  },
+  {
+    "id": 93,
+    "map_filename": "map_pigcapbar_stage_02",
+    "before_loading_id": 500087,
+    "after_loading_id": 500087
+  },
+  {
+    "id": 94,
+    "map_filename": "map_pigcapbarN_stage_01",
+    "before_loading_id": 500088,
+    "after_loading_id": 500088
+  },
+  {
+    "id": 95,
+    "map_filename": "map_RedMoon_stage_01",
+    "before_loading_id": 500089,
+    "after_loading_id": 500089
+  },
+  {
+    "id": 96,
+    "map_filename": "map_ScForest_stage_01",
+    "before_loading_id": 500025,
+    "after_loading_id": 500025
+  },
+  {
+    "id": 97,
+    "map_filename": "map_Sfarm_stage_01",
+    "before_loading_id": 500103,
+    "after_loading_id": 500103
+  },
+  {
+    "id": 98,
+    "map_filename": "map_SGFort_stage_01",
+    "before_loading_id": 500007,
+    "after_loading_id": 500007
+  },
+  {
+    "id": 99,
+    "map_filename": "map_SGFortDP_stage_01",
+    "before_loading_id": 500091,
+    "after_loading_id": 500091
+  },
+  {
+    "id": 100,
+    "map_filename": "map_SGFortIn_stage_01",
+    "before_loading_id": 500092,
+    "after_loading_id": 500092
+  },
+  {
+    "id": 101,
+    "map_filename": "map_SGFortOut_stage_01",
+    "before_loading_id": 500093,
+    "after_loading_id": 500093
+  },
+  {
+    "id": 102,
+    "map_filename": "map_SGFortOut_stage_02",
+    "before_loading_id": 500094,
+    "after_loading_id": 500094
+  },
+  {
+    "id": 103,
+    "map_filename": "map_SGFortTop_stage_01",
+    "before_loading_id": 500095,
+    "after_loading_id": 500095
+  },
+  {
+    "id": 104,
+    "map_filename": "map_SPassage_stage_01",
+    "before_loading_id": 500016,
+    "after_loading_id": 500016
+  },
+  {
+    "id": 105,
+    "map_filename": "map_SVtower_stage_01",
+    "before_loading_id": 500096,
+    "after_loading_id": 500096
+  },
+  {
+    "id": 106,
+    "map_filename": "map_WDforest_stage_01",
+    "before_loading_id": 500005,
+    "after_loading_id": 500005
+  },
+  {
+    "id": 107,
+    "map_filename": "town_BNAsquear",
+    "before_loading_id": 500003,
+    "after_loading_id": 500003
+  },
+  {
+    "id": 108,
+    "map_filename": "town_BZsquear",
+    "before_loading_id": 500027,
+    "after_loading_id": 500027
+  },
+  {
+    "id": 109,
+    "map_filename": "town_BZsquear_PVP",
+    "before_loading_id": 500028,
+    "after_loading_id": 500028
+  },
+  {
+    "id": 110,
+    "map_filename": "town_DCsquear",
+    "before_loading_id": 500021,
+    "after_loading_id": 500021
+  },
+  {
+    "id": 111,
+    "map_filename": "town_DMRsquear",
+    "before_loading_id": 500011,
+    "after_loading_id": 500011
+  },
+  {
+    "id": 112,
+    "map_filename": "town_Istal_01",
+    "before_loading_id": 100001,
+    "after_loading_id": 100001
+  },
+  {
+    "id": 113,
+    "map_filename": "town_LON_Guild",
+    "before_loading_id": 100001,
+    "after_loading_id": 100001
+  },
+  {
+    "id": 114,
+    "map_filename": "town_LONsquear",
+    "before_loading_id": 500100,
+    "after_loading_id": 500100
+  },
+  {
+    "id": 115,
+    "map_filename": "town_LONSwest_A",
+    "before_loading_id": 500083,
+    "after_loading_id": 500083
+  },
+  {
+    "id": 116,
+    "map_filename": "town_LONSwest_B",
+    "before_loading_id": 500063,
+    "after_loading_id": 500063
+  },
+  {
+    "id": 117,
+    "map_filename": "town_ODsquear",
+    "before_loading_id": 500101,
+    "after_loading_id": 500101
+  },
+  {
+    "id": 118,
+    "map_filename": "town_Event_Valentine_room",
+    "before_loading_id": 210032,
+    "after_loading_id": 210032
+  },
+  {
+    "id": 119,
+    "map_filename": "map_valentine_event_01",
+    "before_loading_id": 210032,
+    "after_loading_id": 210032
+  },
+  {
+    "id": 120,
+    "map_filename": "map_BTF_bar_stage_03",
+    "before_loading_id": 500169,
+    "after_loading_id": 500169
+  },
+  {
+    "id": 121,
+    "map_filename": "map_BTF_bar_stage_04",
+    "before_loading_id": 500172,
+    "after_loading_id": 500172
+  },
+  {
+    "id": 122,
+    "map_filename": "map_AW_disaster_01",
+    "before_loading_id": 600024,
+    "after_loading_id": 600024
+  },
+  {
+    "id": 123,
+    "map_filename": "map_disaster_stage_01",
+    "before_loading_id": 600025,
+    "after_loading_id": 600025
+  },
+  {
+    "id": 124,
+    "map_filename": "map_disaster_stage_02",
+    "before_loading_id": 600026,
+    "after_loading_id": 600026
+  },
+  {
+    "id": 125,
+    "map_filename": "map_disaster_stage_03",
+    "before_loading_id": 600027,
+    "after_loading_id": 600027
+  },
+  {
+    "id": 126,
+    "map_filename": "map_LONSMagicU",
+    "before_loading_id": 500112,
+    "after_loading_id": 500112
+  },
+  {
+    "id": 127,
+    "map_filename": "map_dark_cocoon_01",
+    "before_loading_id": 600011,
+    "after_loading_id": 600011
+  },
+  {
+    "id": 128,
+    "map_filename": "map_CGrave_stage_01",
+    "before_loading_id": 500167,
+    "after_loading_id": 500167
+  }
+]

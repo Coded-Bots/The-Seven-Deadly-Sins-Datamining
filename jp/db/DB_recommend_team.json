@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "type": "main",
+    "stage_id": 200401
+  },
+  {
+    "id": 2,
+    "type": "main",
+    "stage_id": 200611
+  },
+  {
+    "id": 3,
+    "type": "main",
+    "stage_id": 300401
+  },
+  {
+    "id": 4,
+    "type": "main",
+    "stage_id": 300421
+  },
+  {
+    "id": 5,
+    "type": "main",
+    "stage_id": 400601
+  },
+  {
+    "id": 6,
+    "type": "main",
+    "stage_id": 400621
+  },
+  {
+    "id": 7,
+    "type": "main",
+    "stage_id": 400641
+  },
+  {
+    "id": 8,
+    "type": "main",
+    "stage_id": 400651
+  },
+  {
+    "id": 9,
+    "type": "main",
+    "stage_id": 400661
+  },
+  {
+    "id": 10,
+    "type": "main",
+    "stage_id": 400681
+  },
+  {
+    "id": 11,
+    "type": "main",
+    "stage_id": 500401
+  },
+  {
+    "id": 12,
+    "type": "main",
+    "stage_id": 500411
+  },
+  {
+    "id": 13,
+    "type": "main",
+    "stage_id": 500421
+  },
+  {
+    "id": 14,
+    "type": "main",
+    "stage_id": 500431
+  },
+  {
+    "id": 15,
+    "type": "main",
+    "stage_id": 500441
+  },
+  {
+    "id": 16,
+    "type": "limited",
+    "stage_id": 5980
+  },
+  {
+    "id": 17,
+    "type": "limited",
+    "stage_id": 5990
+  },
+  {
+    "id": 18,
+    "type": "quest",
+    "stage_id": 16002
+  },
+  {
+    "id": 19,
+    "type": "quest",
+    "stage_id": 16004
+  },
+  {
+    "id": 20,
+    "type": "quest",
+    "stage_id": 16007
+  },
+  {
+    "id": 21,
+    "type": "quest",
+    "stage_id": 16009
+  },
+  {
+    "id": 22,
+    "type": "quest",
+    "stage_id": 16010
+  },
+  {
+    "id": 23,
+    "type": "quest",
+    "stage_id": 16011
+  },
+  {
+    "id": 24,
+    "type": "quest",
+    "stage_id": 16013
+  },
+  {
+    "id": 25,
+    "type": "quest",
+    "stage_id": 16019
+  },
+  {
+    "id": 26,
+    "type": "quest",
+    "stage_id": 16020
+  },
+  {
+    "id": 27,
+    "type": "quest",
+    "stage_id": 16021
+  },
+  {
+    "id": 28,
+    "type": "quest",
+    "stage_id": 16023
+  },
+  {
+    "id": 29,
+    "type": "main",
+    "stage_id": 600701
+  },
+  {
+    "id": 30,
+    "type": "main",
+    "stage_id": 600711
+  },
+  {
+    "id": 31,
+    "type": "main",
+    "stage_id": 600901
+  },
+  {
+    "id": 32,
+    "type": "main",
+    "stage_id": 600911
+  },
+  {
+    "id": 33,
+    "type": "main",
+    "stage_id": 601101
+  },
+  {
+    "id": 34,
+    "type": "main",
+    "stage_id": 601111
+  },
+  {
+    "id": 35,
+    "type": "limited",
+    "stage_id": 6511
+  },
+  {
+    "id": 36,
+    "type": "limited",
+    "stage_id": 6551
+  },
+  {
+    "id": 37,
+    "type": "limited",
+    "stage_id": 6552
+  },
+  {
+    "id": 38,
+    "type": "limited",
+    "stage_id": 6553
+  },
+  {
+    "id": 39,
+    "type": "limited",
+    "stage_id": 6554
+  },
+  {
+    "id": 40,
+    "type": "quest",
+    "stage_id": 16047
+  },
+  {
+    "id": 41,
+    "type": "quest",
+    "stage_id": 16051
+  },
+  {
+    "id": 42,
+    "type": "quest",
+    "stage_id": 16055
+  },
+  {
+    "id": 43,
+    "type": "quest",
+    "stage_id": 16054
+  },
+  {
+    "id": 44,
+    "type": "quest",
+    "stage_id": 16064
+  },
+  {
+    "id": 45,
+    "type": "quest",
+    "stage_id": 17003
+  },
+  {
+    "id": 46,
+    "type": "quest",
+    "stage_id": 17004
+  },
+  {
+    "id": 47,
+    "type": "quest",
+    "stage_id": 17005
+  },
+  {
+    "id": 48,
+    "type": "main",
+    "stage_id": 91100501
+  },
+  {
+    "id": 49,
+    "type": "main",
+    "stage_id": 91100511
+  },
+  {
+    "id": 50,
+    "type": "main",
+    "stage_id": 91100521
+  },
+  {
+    "id": 51,
+    "type": "main",
+    "stage_id": 700301
+  },
+  {
+    "id": 52,
+    "type": "main",
+    "stage_id": 700311
+  },
+  {
+    "id": 53,
+    "type": "main",
+    "stage_id": 700321
+  },
+  {
+    "id": 54,
+    "type": "main",
+    "stage_id": 700411
+  },
+  {
+    "id": 55,
+    "type": "main",
+    "stage_id": 700421
+  },
+  {
+    "id": 56,
+    "type": "main",
+    "stage_id": 700431
+  },
+  {
+    "id": 57,
+    "type": "main",
+    "stage_id": 91100601
+  },
+  {
+    "id": 58,
+    "type": "main",
+    "stage_id": 91100611
+  },
+  {
+    "id": 59,
+    "type": "main",
+    "stage_id": 91100621
+  },
+  {
+    "id": 60,
+    "type": "quest",
+    "stage_id": 18001
+  },
+  {
+    "id": 61,
+    "type": "main",
+    "stage_id": 91100901
+  },
+  {
+    "id": 62,
+    "type": "main",
+    "stage_id": 91100911
+  },
+  {
+    "id": 63,
+    "type": "quest",
+    "stage_id": 18006
+  },
+  {
+    "id": 64,
+    "type": "main",
+    "stage_id": 91101101
+  },
+  {
+    "id": 65,
+    "type": "main",
+    "stage_id": 91101111
+  },
+  {
+    "id": 66,
+    "type": "main",
+    "stage_id": 91101121
+  },
+  {
+    "id": 67,
+    "type": "quest",
+    "stage_id": 18010
+  },
+  {
+    "id": 68,
+    "type": "quest",
+    "stage_id": 18011
+  },
+  {
+    "id": 69,
+    "type": "quest",
+    "stage_id": 18012
+  },
+  {
+    "id": 70,
+    "type": "quest",
+    "stage_id": 18013
+  },
+  {
+    "id": 71,
+    "type": "quest",
+    "stage_id": 18014
+  },
+  {
+    "id": 72,
+    "type": "main",
+    "stage_id": 91101001
+  },
+  {
+    "id": 73,
+    "type": "main",
+    "stage_id": 91101011
+  },
+  {
+    "id": 74,
+    "type": "main",
+    "stage_id": 900211
+  },
+  {
+    "id": 75,
+    "type": "main",
+    "stage_id": 900221
+  },
+  {
+    "id": 76,
+    "type": "main",
+    "stage_id": 900231
+  },
+  {
+    "id": 77,
+    "type": "main",
+    "stage_id": 900241
+  },
+  {
+    "id": 78,
+    "type": "main",
+    "stage_id": 900301
+  },
+  {
+    "id": 79,
+    "type": "main",
+    "stage_id": 900401
+  },
+  {
+    "id": 80,
+    "type": "main",
+    "stage_id": 900411
+  },
+  {
+    "id": 81,
+    "type": "main",
+    "stage_id": 900421
+  },
+  {
+    "id": 82,
+    "type": "main",
+    "stage_id": 1000241
+  },
+  {
+    "id": 83,
+    "type": "main",
+    "stage_id": 1000421
+  },
+  {
+    "id": 84,
+    "type": "main",
+    "stage_id": 1000441
+  },
+  {
+    "id": 85,
+    "type": "main",
+    "stage_id": 1000461
+  },
+  {
+    "id": 86,
+    "type": "main",
+    "stage_id": 1000481
+  },
+  {
+    "id": 87,
+    "type": "main",
+    "stage_id": 1000501
+  },
+  {
+    "id": 88,
+    "type": "quest",
+    "stage_id": 20050
+  },
+  {
+    "id": 89,
+    "type": "quest",
+    "stage_id": 20051
+  },
+  {
+    "id": 90,
+    "type": "quest",
+    "stage_id": 20052
+  },
+  {
+    "id": 91,
+    "type": "quest",
+    "stage_id": 20054
+  },
+  {
+    "id": 92,
+    "type": "quest",
+    "stage_id": 20055
+  },
+  {
+    "id": 93,
+    "type": "quest",
+    "stage_id": 20056
+  },
+  {
+    "id": 94,
+    "type": "quest",
+    "stage_id": 20057
+  },
+  {
+    "id": 95,
+    "type": "quest",
+    "stage_id": 20059
+  },
+  {
+    "id": 96,
+    "type": "quest",
+    "stage_id": 20060
+  },
+  {
+    "id": 97,
+    "type": "main",
+    "stage_id": 91101701
+  },
+  {
+    "id": 98,
+    "type": "main",
+    "stage_id": 91101711
+  },
+  {
+    "id": 99,
+    "type": "main",
+    "stage_id": 1100201
+  },
+  {
+    "id": 100,
+    "type": "main",
+    "stage_id": 1100211
+  },
+  {
+    "id": 101,
+    "type": "main",
+    "stage_id": 91101801
+  },
+  {
+    "id": 102,
+    "type": "main",
+    "stage_id": 91101811
+  },
+  {
+    "id": 103,
+    "type": "main",
+    "stage_id": 1200201
+  },
+  {
+    "id": 104,
+    "type": "main",
+    "stage_id": 1200211
+  },
+  {
+    "id": 105,
+    "type": "quest",
+    "stage_id": 22001
+  },
+  {
+    "id": 106,
+    "type": "quest",
+    "stage_id": 22003
+  },
+  {
+    "id": 107,
+    "type": "quest",
+    "stage_id": 22004
+  },
+  {
+    "id": 108,
+    "type": "main",
+    "stage_id": 1200401
+  },
+  {
+    "id": 109,
+    "type": "main",
+    "stage_id": 1200411
+  },
+  {
+    "id": 110,
+    "type": "main",
+    "stage_id": 91101921
+  },
+  {
+    "id": 111,
+    "type": "quest",
+    "stage_id": 22013
+  },
+  {
+    "id": 112,
+    "type": "quest",
+    "stage_id": 22014
+  }
+]

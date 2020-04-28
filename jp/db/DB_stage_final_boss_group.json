@@ -1,0 +1,46 @@
+[
+  {
+    "group_id": 101,
+    "group_hero_id_1": 2350402,
+    "group_hero_id_2": 0,
+    "group_string": "13767",
+    "stage_string": "6760",
+    "info_image_1": "Finalboss_info_101",
+    "info_image_2": "",
+    "final_boss_pattern_phase01_desc": "11803",
+    "final_boss_pattern_phase02_desc": "11806"
+  },
+  {
+    "group_id": 201,
+    "group_hero_id_1": 2350102,
+    "group_hero_id_2": 0,
+    "group_string": "6757",
+    "stage_string": "6763",
+    "info_image_1": "Finalboss_info_102",
+    "info_image_2": "",
+    "final_boss_pattern_phase01_desc": "11804",
+    "final_boss_pattern_phase02_desc": "11807"
+  },
+  {
+    "group_id": 301,
+    "group_hero_id_1": 2350302,
+    "group_hero_id_2": 0,
+    "group_string": "6758",
+    "stage_string": "6764",
+    "info_image_1": "Finalboss_info_103",
+    "info_image_2": "",
+    "final_boss_pattern_phase01_desc": "11805",
+    "final_boss_pattern_phase02_desc": "11808"
+  },
+  {
+    "group_id": 401,
+    "group_hero_id_1": 2350113,
+    "group_hero_id_2": 2350114,
+    "group_string": "6759",
+    "stage_string": "6765",
+    "info_image_1": "Finalboss_info_104",
+    "info_image_2": "Finalboss_info_104_2",
+    "final_boss_pattern_phase01_desc": "6188",
+    "final_boss_pattern_phase02_desc": "6189"
+  }
+]

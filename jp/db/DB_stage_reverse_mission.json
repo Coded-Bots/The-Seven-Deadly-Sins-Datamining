@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "stage_id": 110101,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 40000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 2,
+    "stage_id": 110101,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 3,
+    "stage_id": 110101,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 4,
+    "stage_id": 110102,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 62000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 5,
+    "stage_id": 110102,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 6,
+    "stage_id": 110102,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 7,
+    "stage_id": 110103,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 95000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 8,
+    "stage_id": 110103,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 9,
+    "stage_id": 110103,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 10,
+    "stage_id": 110201,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 36000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 11,
+    "stage_id": 110201,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 12,
+    "stage_id": 110201,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 13,
+    "stage_id": 110202,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 42000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 14,
+    "stage_id": 110202,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 15,
+    "stage_id": 110202,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 16,
+    "stage_id": 110203,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 67000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 17,
+    "stage_id": 110203,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 18,
+    "stage_id": 110203,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 19,
+    "stage_id": 110301,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 65000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 20,
+    "stage_id": 110301,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 21,
+    "stage_id": 110301,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 22,
+    "stage_id": 110302,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 21000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 23,
+    "stage_id": 110302,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 24,
+    "stage_id": 110302,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 25,
+    "stage_id": 110303,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 74000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 26,
+    "stage_id": 110303,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 27,
+    "stage_id": 110303,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 28,
+    "stage_id": 110401,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 62000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 29,
+    "stage_id": 110401,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 30,
+    "stage_id": 110401,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 31,
+    "stage_id": 110402,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 85000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 32,
+    "stage_id": 110402,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 33,
+    "stage_id": 110402,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 34,
+    "stage_id": 110403,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 70000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 35,
+    "stage_id": 110403,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 36,
+    "stage_id": 110403,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 37,
+    "stage_id": 110404,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 42000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 38,
+    "stage_id": 110404,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 39,
+    "stage_id": 110404,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 40,
+    "stage_id": 110405,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 67000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 41,
+    "stage_id": 110405,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 42,
+    "stage_id": 110405,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 43,
+    "stage_id": 110406,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 50000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 44,
+    "stage_id": 110406,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 45,
+    "stage_id": 110406,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 46,
+    "stage_id": 110501,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 22000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 47,
+    "stage_id": 110501,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 48,
+    "stage_id": 110501,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 49,
+    "stage_id": 110502,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 43000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 50,
+    "stage_id": 110502,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 51,
+    "stage_id": 110502,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 52,
+    "stage_id": 110503,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 50000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 53,
+    "stage_id": 110503,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 54,
+    "stage_id": 110503,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 55,
+    "stage_id": 110601,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 80000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 56,
+    "stage_id": 110601,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 57,
+    "stage_id": 110601,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 58,
+    "stage_id": 110602,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 40000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 59,
+    "stage_id": 110602,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 60,
+    "stage_id": 110602,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 61,
+    "stage_id": 110603,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 45000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 62,
+    "stage_id": 110603,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 63,
+    "stage_id": 110603,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 64,
+    "stage_id": 110604,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 70000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 65,
+    "stage_id": 110604,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 66,
+    "stage_id": 110604,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 67,
+    "stage_id": 110605,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 95000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 68,
+    "stage_id": 110605,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 69,
+    "stage_id": 110605,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 70,
+    "stage_id": 110701,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 85000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 71,
+    "stage_id": 110701,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 72,
+    "stage_id": 110701,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  },
+  {
+    "id": 73,
+    "stage_id": 110702,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 90000,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37866"
+  },
+  {
+    "id": 74,
+    "stage_id": 110702,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "localize_display_type": 0,
+    "mission_name": "37867"
+  },
+  {
+    "id": 75,
+    "stage_id": 110702,
+    "seaon_id": 1,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 8,
+    "mission_target_value": 1,
+    "localize_display_type": 2,
+    "mission_name": "37868"
+  }
+]

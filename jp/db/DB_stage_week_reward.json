@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "stage_type": "upgrade",
+    "group": 1,
+    "need_exp": 7000,
+    "item_id_1": 541405,
+    "item_count_1": 1
+  },
+  {
+    "id": 2,
+    "stage_type": "upgrade",
+    "group": 2,
+    "need_exp": 7000,
+    "item_id_1": 541405,
+    "item_count_1": 1
+  },
+  {
+    "id": 3,
+    "stage_type": "upgrade",
+    "group": 3,
+    "need_exp": 7000,
+    "item_id_1": 541405,
+    "item_count_1": 1
+  },
+  {
+    "id": 4,
+    "stage_type": "evolution",
+    "group": 1,
+    "need_exp": 11200,
+    "item_id_1": 542205,
+    "item_count_1": 1
+  },
+  {
+    "id": 5,
+    "stage_type": "evolution",
+    "group": 2,
+    "need_exp": 11200,
+    "item_id_1": 542105,
+    "item_count_1": 1
+  },
+  {
+    "id": 6,
+    "stage_type": "evolution",
+    "group": 3,
+    "need_exp": 11200,
+    "item_id_1": 542305,
+    "item_count_1": 1
+  },
+  {
+    "id": 7,
+    "stage_type": "event",
+    "group": 4,
+    "need_exp": 24000,
+    "item_id_1": 542405,
+    "item_count_1": 1
+  },
+  {
+    "id": 8,
+    "stage_type": "gold",
+    "group": 5,
+    "need_exp": 7000,
+    "item_id_1": 900905,
+    "item_count_1": 1
+  }
+]

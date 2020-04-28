@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 1,
+    "item_id": 1000025,
+    "item_count": 1
+  },
+  {
+    "id": 2,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 2,
+    "item_id": 1000025,
+    "item_count": 1
+  },
+  {
+    "id": 3,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 3,
+    "item_id": 1000025,
+    "item_count": 1
+  },
+  {
+    "id": 4,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 4,
+    "item_id": 1000025,
+    "item_count": 1
+  },
+  {
+    "id": 5,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 5,
+    "item_id": 1000025,
+    "item_count": 1
+  },
+  {
+    "id": 6,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 6,
+    "item_id": 1000025,
+    "item_count": 1
+  },
+  {
+    "id": 7,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 7,
+    "item_id": 1000025,
+    "item_count": 1
+  },
+  {
+    "id": 8,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 8,
+    "item_id": 1000026,
+    "item_count": 1
+  },
+  {
+    "id": 9,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 9,
+    "item_id": 1000026,
+    "item_count": 1
+  },
+  {
+    "id": 10,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 10,
+    "item_id": 1000026,
+    "item_count": 1
+  },
+  {
+    "id": 11,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 11,
+    "item_id": 1000026,
+    "item_count": 1
+  },
+  {
+    "id": 12,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 12,
+    "item_id": 1000026,
+    "item_count": 1
+  },
+  {
+    "id": 13,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 13,
+    "item_id": 1000026,
+    "item_count": 1
+  },
+  {
+    "id": 14,
+    "event_sub_index": 1000,
+    "reward_type": "normal",
+    "day": 14,
+    "item_id": 1000026,
+    "item_count": 1
+  },
+  {
+    "id": 15,
+    "event_sub_index": 1010,
+    "reward_type": "newbie",
+    "day": 1,
+    "item_id": 500012,
+    "item_count": 20000
+  },
+  {
+    "id": 16,
+    "event_sub_index": 1010,
+    "reward_type": "newbie",
+    "day": 2,
+    "item_id": 500011,
+    "item_count": 3
+  },
+  {
+    "id": 17,
+    "event_sub_index": 1010,
+    "reward_type": "newbie",
+    "day": 3,
+    "item_id": 930003,
+    "item_count": 50
+  },
+  {
+    "id": 18,
+    "event_sub_index": 1010,
+    "reward_type": "newbie",
+    "day": 4,
+    "item_id": 500012,
+    "item_count": 40000
+  },
+  {
+    "id": 19,
+    "event_sub_index": 1010,
+    "reward_type": "newbie",
+    "day": 5,
+    "item_id": 500011,
+    "item_count": 6
+  },
+  {
+    "id": 20,
+    "event_sub_index": 1010,
+    "reward_type": "newbie",
+    "day": 6,
+    "item_id": 930003,
+    "item_count": 100
+  },
+  {
+    "id": 21,
+    "event_sub_index": 1010,
+    "reward_type": "newbie",
+    "day": 7,
+    "item_id": 1000021,
+    "item_count": 1
+  },
+  {
+    "id": 22,
+    "event_sub_index": 1020,
+    "reward_type": "day_fix",
+    "day": 1,
+    "item_id": 500030,
+    "item_count": 5
+  },
+  {
+    "id": 23,
+    "event_sub_index": 1020,
+    "reward_type": "day_fix",
+    "day": 2,
+    "item_id": 910704,
+    "item_count": 10
+  },
+  {
+    "id": 24,
+    "event_sub_index": 1020,
+    "reward_type": "day_fix",
+    "day": 3,
+    "item_id": 500030,
+    "item_count": 5
+  },
+  {
+    "id": 25,
+    "event_sub_index": 1020,
+    "reward_type": "day_fix",
+    "day": 4,
+    "item_id": 910704,
+    "item_count": 10
+  },
+  {
+    "id": 26,
+    "event_sub_index": 1020,
+    "reward_type": "day_fix",
+    "day": 5,
+    "item_id": 500030,
+    "item_count": 5
+  },
+  {
+    "id": 27,
+    "event_sub_index": 1020,
+    "reward_type": "day_fix",
+    "day": 6,
+    "item_id": 910704,
+    "item_count": 10
+  },
+  {
+    "id": 28,
+    "event_sub_index": 1020,
+    "reward_type": "day_fix",
+    "day": 7,
+    "item_id": 500030,
+    "item_count": 5
+  }
+]

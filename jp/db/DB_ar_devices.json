@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "device_model_name": "SM-G930",
+    "device_min_api_level": 26
+  },
+  {
+    "id": 2,
+    "device_model_name": "SM-G935",
+    "device_min_api_level": 26
+  }
+]

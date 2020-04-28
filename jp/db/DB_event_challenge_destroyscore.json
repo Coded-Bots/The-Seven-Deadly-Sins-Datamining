@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "challenge_destroy_id": 1,
+    "reward_need_count": 5,
+    "reward_item_id": 1200001,
+    "reward_item_count": 3
+  },
+  {
+    "id": 2,
+    "challenge_destroy_id": 1,
+    "reward_need_count": 10,
+    "reward_item_id": 1200002,
+    "reward_item_count": 3
+  },
+  {
+    "id": 3,
+    "challenge_destroy_id": 1,
+    "reward_need_count": 20,
+    "reward_item_id": 1200003,
+    "reward_item_count": 3
+  },
+  {
+    "id": 4,
+    "challenge_destroy_id": 1,
+    "reward_need_count": 30,
+    "reward_item_id": 15000351,
+    "reward_item_count": 1
+  },
+  {
+    "id": 5,
+    "challenge_destroy_id": 1,
+    "reward_need_count": 35,
+    "reward_item_id": 500011,
+    "reward_item_count": 10
+  }
+]

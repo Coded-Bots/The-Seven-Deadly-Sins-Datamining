@@ -1,0 +1,18 @@
+[
+  {
+    "id": 111000,
+    "need_story_quest_id": 19010,
+    "quest_alarm_name": "6312",
+    "quest_alarm_desc": "6310",
+    "large_popup_name": "m_banner_another_open_cinema_sky_01",
+    "direct_selector_id": 0
+  },
+  {
+    "id": 111013,
+    "need_story_quest_id": 0,
+    "quest_alarm_name": "6313",
+    "quest_alarm_desc": "6311",
+    "large_popup_name": "m_banner_another_open_cinema_sky_01",
+    "direct_selector_id": 0
+  }
+]

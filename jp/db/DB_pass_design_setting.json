@@ -1,0 +1,22 @@
+[
+  {
+    "setting_id": 1,
+    "bg_design": "seasonpass_bg_01",
+    "shop_btn_design": "icon_seasonpass_shop_button_01",
+    "food_design": "icon_seasonpass_food_00",
+    "food_empty_design": "icon_seasonpass_food_00_empty",
+    "food_special_design": "icon_seasonpass_food_01",
+    "food_special_empty_design": "icon_seasonpass_food_01_empty",
+    "ground_design": "icon_seasonpass_base_02"
+  },
+  {
+    "setting_id": 2,
+    "bg_design": "seasonpass_bg_01",
+    "shop_btn_design": "icon_seasonpass_shop_button_01",
+    "food_design": "icon_seasonpass_food_00",
+    "food_empty_design": "icon_seasonpass_food_00_empty",
+    "food_special_design": "icon_seasonpass_food_01",
+    "food_special_empty_design": "icon_seasonpass_food_01_empty",
+    "ground_design": "icon_seasonpass_base_02"
+  }
+]

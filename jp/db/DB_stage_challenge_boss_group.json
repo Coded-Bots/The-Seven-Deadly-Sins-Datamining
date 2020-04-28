@@ -1,0 +1,34 @@
+[
+  {
+    "group_id": 101,
+    "event_sub_index": 1000,
+    "group_hero_id": 2260151,
+    "group_string": "6421",
+    "info_image": "challenge_boss_event_info_101",
+    "challenge_boss_strong_skill_desc": "9829"
+  },
+  {
+    "group_id": 102,
+    "event_sub_index": 1000,
+    "group_hero_id": 2260161,
+    "group_string": "6422",
+    "info_image": "challenge_boss_event_info_102",
+    "challenge_boss_strong_skill_desc": "9830"
+  },
+  {
+    "group_id": 103,
+    "event_sub_index": 1000,
+    "group_hero_id": 2260171,
+    "group_string": "6423",
+    "info_image": "challenge_boss_event_info_103",
+    "challenge_boss_strong_skill_desc": "9831"
+  },
+  {
+    "group_id": 111,
+    "event_sub_index": 1001,
+    "group_hero_id": 2260175,
+    "group_string": "38579",
+    "info_image": "challengeboss_chimara_demon_01",
+    "challenge_boss_strong_skill_desc": "38580"
+  }
+]

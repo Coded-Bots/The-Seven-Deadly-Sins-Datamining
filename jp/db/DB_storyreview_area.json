@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "target_type": 1,
+    "target_region": 1,
+    "target_region_ep": 0,
+    "target_area_id": 100301,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 2,
+    "target_type": 1,
+    "target_region": 2,
+    "target_region_ep": 0,
+    "target_area_id": 200201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 3,
+    "target_type": 1,
+    "target_region": 3,
+    "target_region_ep": 0,
+    "target_area_id": 300201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 4,
+    "target_type": 1,
+    "target_region": 4,
+    "target_region_ep": 0,
+    "target_area_id": 400201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 5,
+    "target_type": 1,
+    "target_region": 5,
+    "target_region_ep": 0,
+    "target_area_id": 500201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 6,
+    "target_type": 1,
+    "target_region": 6,
+    "target_region_ep": 0,
+    "target_area_id": 600601,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 7,
+    "target_type": 1,
+    "target_region": 7,
+    "target_region_ep": 0,
+    "target_area_id": 700201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 8,
+    "target_type": 1,
+    "target_region": 8,
+    "target_region_ep": 0,
+    "target_area_id": 800201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 9,
+    "target_type": 1,
+    "target_region": 9,
+    "target_region_ep": 0,
+    "target_area_id": 900401,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 10,
+    "target_type": 1,
+    "target_region": 10,
+    "target_region_ep": 0,
+    "target_area_id": 1000401,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 11,
+    "target_type": 1,
+    "target_region": 11,
+    "target_region_ep": 0,
+    "target_area_id": 1100301,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 12,
+    "target_type": 1,
+    "target_region": 12,
+    "target_region_ep": 0,
+    "target_area_id": 1200301,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 13,
+    "target_type": 2,
+    "target_region": 1,
+    "target_region_ep": 0,
+    "target_area_id": 100301,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 14,
+    "target_type": 2,
+    "target_region": 2,
+    "target_region_ep": 0,
+    "target_area_id": 200201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 15,
+    "target_type": 2,
+    "target_region": 3,
+    "target_region_ep": 0,
+    "target_area_id": 300201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 16,
+    "target_type": 2,
+    "target_region": 4,
+    "target_region_ep": 0,
+    "target_area_id": 400201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 17,
+    "target_type": 2,
+    "target_region": 5,
+    "target_region_ep": 0,
+    "target_area_id": 500201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 18,
+    "target_type": 2,
+    "target_region": 6,
+    "target_region_ep": 0,
+    "target_area_id": 600601,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 19,
+    "target_type": 2,
+    "target_region": 7,
+    "target_region_ep": 0,
+    "target_area_id": 700201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 20,
+    "target_type": 2,
+    "target_region": 8,
+    "target_region_ep": 0,
+    "target_area_id": 800201,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 21,
+    "target_type": 2,
+    "target_region": 9,
+    "target_region_ep": 0,
+    "target_area_id": 900401,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 22,
+    "target_type": 2,
+    "target_region": 10,
+    "target_region_ep": 0,
+    "target_area_id": 1000401,
+    "target_area_icon": "",
+    "target_area_name": ""
+  },
+  {
+    "id": 23,
+    "target_type": 5,
+    "target_region": 111,
+    "target_region_ep": 1,
+    "target_area_id": 11100101,
+    "target_area_icon": "",
+    "target_area_name": "4143"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "6246",
+    "explain": "6237",
+    "mode_icon": "icon_pvp_mode_001"
+  },
+  {
+    "id": 2,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "6247",
+    "explain": "6238",
+    "mode_icon": "icon_pvp_mode_002"
+  },
+  {
+    "id": 3,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "6248",
+    "explain": "6239",
+    "mode_icon": "icon_pvp_mode_003"
+  },
+  {
+    "id": 4,
+    "mode_type": "pvp_battle_passive_lock",
+    "mode_type_value": 0,
+    "name": "6249",
+    "explain": "6240",
+    "mode_icon": "icon_pvp_mode_004"
+  },
+  {
+    "id": 5,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "6250",
+    "explain": "6241",
+    "mode_icon": "icon_pvp_mode_005"
+  },
+  {
+    "id": 6,
+    "mode_type": "pvp_battle_control_limited_time",
+    "mode_type_value": 10,
+    "name": "6251",
+    "explain": "6242",
+    "mode_icon": "icon_pvp_mode_006"
+  },
+  {
+    "id": 7,
+    "mode_type": "pvp_battle_set_atk_first_random",
+    "mode_type_value": 0,
+    "name": "6252",
+    "explain": "6243",
+    "mode_icon": "icon_pvp_mode_007"
+  },
+  {
+    "id": 8,
+    "mode_type": "pvp_battle_hero_set_all",
+    "mode_type_value": 0,
+    "name": "6253",
+    "explain": "6244",
+    "mode_icon": "icon_pvp_mode_008"
+  },
+  {
+    "id": 9,
+    "mode_type": "pvp_battle_sudden_death",
+    "mode_type_value": 3,
+    "name": "6254",
+    "explain": "6245",
+    "mode_icon": "icon_pvp_mode_009"
+  },
+  {
+    "id": 10,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "13262",
+    "explain": "12728",
+    "mode_icon": "icon_pvp_passive_005"
+  },
+  {
+    "id": 11,
+    "mode_type": "pvp_battle_atk_turn_death",
+    "mode_type_value": 4,
+    "name": "40611",
+    "explain": "40610",
+    "mode_icon": "icon_pvp_mode_011"
+  },
+  {
+    "id": 12,
+    "mode_type": "pvp_battle_start_passive",
+    "mode_type_value": 0,
+    "name": "13254",
+    "explain": "12720",
+    "mode_icon": "icon_pvp_passive_002"
+  }
+]

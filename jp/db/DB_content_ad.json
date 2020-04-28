@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "ad_type": "ad_daily_reward",
+    "ad_count": 3,
+    "value_type_1": 1000009,
+    "value_type_2": 0
+  },
+  {
+    "id": 4,
+    "ad_type": "ad_stage_roulette_reward",
+    "ad_count": 3,
+    "value_type_1": 20,
+    "value_type_2": 0
+  }
+]

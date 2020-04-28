@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "rating_id": 0,
+    "rating_name": "성공",
+    "rating_hero_rate": 70,
+    "rating_hero_value": 1,
+    "rating_skin_rate": 70,
+    "rating_skin_value": 1
+  },
+  {
+    "id": 2,
+    "rating_id": 1,
+    "rating_name": "대성공",
+    "rating_hero_rate": 25,
+    "rating_hero_value": 1.5,
+    "rating_skin_rate": 25,
+    "rating_skin_value": 1.5
+  },
+  {
+    "id": 3,
+    "rating_id": 2,
+    "rating_name": "초성공",
+    "rating_hero_rate": 5,
+    "rating_hero_value": 2,
+    "rating_skin_rate": 5,
+    "rating_skin_value": 2
+  }
+]

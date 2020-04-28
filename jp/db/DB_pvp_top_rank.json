@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "rank_min": 1,
+    "rank_max": 1,
+    "ranker_title": "679"
+  },
+  {
+    "id": 2,
+    "rank_min": 2,
+    "rank_max": 5,
+    "ranker_title": "680"
+  },
+  {
+    "id": 3,
+    "rank_min": 6,
+    "rank_max": 10,
+    "ranker_title": "681"
+  },
+  {
+    "id": 4,
+    "rank_min": 11,
+    "rank_max": 30,
+    "ranker_title": "682"
+  },
+  {
+    "id": 5,
+    "rank_min": 31,
+    "rank_max": 50,
+    "ranker_title": "683"
+  },
+  {
+    "id": 6,
+    "rank_min": 51,
+    "rank_max": 100,
+    "ranker_title": "684"
+  }
+]

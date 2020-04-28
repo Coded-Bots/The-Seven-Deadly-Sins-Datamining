@@ -1,0 +1,107 @@
+[
+  {
+    "id": 2001,
+    "sync_npc": 1,
+    "guest_id": 31
+  },
+  {
+    "id": 2002,
+    "sync_npc": 1,
+    "guest_id": 9999
+  },
+  {
+    "id": 2003,
+    "sync_npc": 1,
+    "guest_id": 1
+  },
+  {
+    "id": 2006,
+    "sync_npc": 1,
+    "guest_id": 4
+  },
+  {
+    "id": 2007,
+    "sync_npc": 1,
+    "guest_id": 5
+  },
+  {
+    "id": 2008,
+    "sync_npc": 1,
+    "guest_id": 3
+  },
+  {
+    "id": 2009,
+    "sync_npc": 1,
+    "guest_id": 6
+  },
+  {
+    "id": 2010,
+    "sync_npc": 1,
+    "guest_id": 7
+  },
+  {
+    "id": 2015,
+    "sync_npc": 0,
+    "guest_id": 0
+  },
+  {
+    "id": 3008,
+    "sync_npc": 0,
+    "guest_id": 0
+  },
+  {
+    "id": 3009,
+    "sync_npc": 0,
+    "guest_id": 0
+  },
+  {
+    "id": 3010,
+    "sync_npc": 0,
+    "guest_id": 0
+  },
+  {
+    "id": 4013,
+    "sync_npc": 1,
+    "guest_id": 0
+  },
+  {
+    "id": 4014,
+    "sync_npc": 1,
+    "guest_id": 0
+  },
+  {
+    "id": 4015,
+    "sync_npc": 1,
+    "guest_id": 0
+  },
+  {
+    "id": 4016,
+    "sync_npc": 1,
+    "guest_id": 0
+  },
+  {
+    "id": 4017,
+    "sync_npc": 1,
+    "guest_id": 0
+  },
+  {
+    "id": 4018,
+    "sync_npc": 1,
+    "guest_id": 0
+  },
+  {
+    "id": 4019,
+    "sync_npc": 1,
+    "guest_id": 0
+  },
+  {
+    "id": 4020,
+    "sync_npc": 1,
+    "guest_id": 0
+  },
+  {
+    "id": 4022,
+    "sync_npc": 1,
+    "guest_id": 0
+  }
+]

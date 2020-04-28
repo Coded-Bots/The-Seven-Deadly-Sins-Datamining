@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 2,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 3,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 999901,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 4,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 5,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 1002,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1004,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1003,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1008,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 6,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 7,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 1005,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1006,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1007,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 8,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 1009,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1011,
+    "time_slot": 0,
+    "region_type": "extra"
+  },
+  {
+    "id": 1010,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1016,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 9,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 1012,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1013,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1014,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1015,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 10,
+    "time_slot": 0,
+    "region_type": "main"
+  },
+  {
+    "id": 1017,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 11,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 1018,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 12,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
+    "id": 1019,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 1020,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 9201,
+    "time_slot": 1,
+    "region_type": "event"
+  },
+  {
+    "id": 9202,
+    "time_slot": 1,
+    "region_type": "event"
+  },
+  {
+    "id": 9301,
+    "time_slot": 1,
+    "region_type": "event"
+  },
+  {
+    "id": 9307,
+    "time_slot": 1,
+    "region_type": "event"
+  },
+  {
+    "id": 1000,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 111,
+    "time_slot": 1,
+    "region_type": "another"
+  },
+  {
+    "id": 112,
+    "time_slot": 1,
+    "region_type": "another"
+  },
+  {
+    "id": 5001,
+    "time_slot": 1,
+    "region_type": "extra"
+  }
+]

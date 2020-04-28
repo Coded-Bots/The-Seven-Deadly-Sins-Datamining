@@ -1,0 +1,200 @@
+[
+  {
+    "id": 100103,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 100030110
+  },
+  {
+    "id": 100303,
+    "bullet_speed": 1105199104,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 102020110
+  },
+  {
+    "id": 100502,
+    "bullet_speed": 1105199104,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 102020110
+  },
+  {
+    "id": 100504,
+    "bullet_speed": 0,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 102040310
+  },
+  {
+    "id": 110001,
+    "bullet_speed": 1105199104,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 211110110
+  },
+  {
+    "id": 103802,
+    "bullet_speed": 1106247680,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 201030110
+  },
+  {
+    "id": 100201,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 108010110
+  },
+  {
+    "id": 100202,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 102020110
+  },
+  {
+    "id": 101501,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 105010100
+  },
+  {
+    "id": 101502,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 102020110
+  },
+  {
+    "id": 100802,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 204020110
+  },
+  {
+    "id": 106502,
+    "bullet_speed": 1097859072,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 301020110
+  },
+  {
+    "id": 104002,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 204000001
+  },
+  {
+    "id": 100601,
+    "bullet_speed": 1105199104,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 104010110
+  },
+  {
+    "id": 199999,
+    "bullet_speed": 1140457472,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 100010110
+  },
+  {
+    "id": 210902,
+    "bullet_speed": 1112014848,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 224020110
+  },
+  {
+    "id": 101212,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 501020110
+  },
+  {
+    "id": 203702,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 232020110
+  },
+  {
+    "id": 100312,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 103120110
+  },
+  {
+    "id": 203701,
+    "bullet_speed": 1101004800,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 230010110
+  },
+  {
+    "id": 211701,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 234010110
+  },
+  {
+    "id": 313603,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 803015110
+  },
+  {
+    "id": 120821,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 204035110
+  },
+  {
+    "id": 120822,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 204040110
+  },
+  {
+    "id": 123521,
+    "bullet_speed": 1106247680,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 232020110
+  },
+  {
+    "id": 133001,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 226010110
+  },
+  {
+    "id": 133002,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 226020110
+  },
+  {
+    "id": 124111,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 226015101
+  },
+  {
+    "id": 124112,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 226030100
+  },
+  {
+    "id": 124132,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 226055102
+  },
+  {
+    "id": 233001,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 839020101
+  },
+  {
+    "id": 233101,
+    "bullet_speed": 1109393408,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 840020101
+  },
+  {
+    "id": 233401,
+    "bullet_speed": 1114636288,
+    "bullet_target_socket": "fx_spawn_center",
+    "fire_sfx_id": 1053
+  }
+]

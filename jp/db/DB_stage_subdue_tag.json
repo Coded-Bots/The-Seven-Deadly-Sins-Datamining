@@ -1,0 +1,110 @@
+[
+  {
+    "id": 101,
+    "tag_icon_file_name": "icon_puringpooh_main",
+    "tag_change_type_1": "subdue_tag_turn_count",
+    "tag_change_value_1": 3,
+    "tag_change_boss_1": "tag_index_sub2",
+    "tag_change_ani_1": "tag_change_a_type",
+    "tag_change_type_2": "subdue_user_give_dmg_boss",
+    "tag_change_value_2": 100000,
+    "tag_change_boss_2": "tag_index_sub1",
+    "tag_change_ani_2": "tag_change_b_type"
+  },
+  {
+    "id": 102,
+    "tag_icon_file_name": "icon_puringpooh_sub1",
+    "tag_change_type_1": "subdue_tag_turn_count",
+    "tag_change_value_1": 2,
+    "tag_change_boss_1": "tag_index_main",
+    "tag_change_ani_1": "tag_change_a_type",
+    "tag_change_type_2": "",
+    "tag_change_value_2": 0,
+    "tag_change_boss_2": "",
+    "tag_change_ani_2": ""
+  },
+  {
+    "id": 103,
+    "tag_icon_file_name": "icon_puringpooh_sub2",
+    "tag_change_type_1": "subdue_tag_turn_count",
+    "tag_change_value_1": 3,
+    "tag_change_boss_1": "tag_index_main",
+    "tag_change_ani_1": "tag_change_a_type",
+    "tag_change_type_2": "",
+    "tag_change_value_2": 0,
+    "tag_change_boss_2": "",
+    "tag_change_ani_2": ""
+  },
+  {
+    "id": 111,
+    "tag_icon_file_name": "icon_puringpooh_main",
+    "tag_change_type_1": "subdue_tag_turn_count",
+    "tag_change_value_1": 3,
+    "tag_change_boss_1": "tag_index_sub2",
+    "tag_change_ani_1": "tag_change_a_type",
+    "tag_change_type_2": "subdue_user_give_dmg_boss",
+    "tag_change_value_2": 200000,
+    "tag_change_boss_2": "tag_index_sub1",
+    "tag_change_ani_2": "tag_change_b_type"
+  },
+  {
+    "id": 112,
+    "tag_icon_file_name": "icon_puringpooh_sub1",
+    "tag_change_type_1": "subdue_tag_turn_count",
+    "tag_change_value_1": 2,
+    "tag_change_boss_1": "tag_index_main",
+    "tag_change_ani_1": "tag_change_a_type",
+    "tag_change_type_2": "",
+    "tag_change_value_2": 0,
+    "tag_change_boss_2": "",
+    "tag_change_ani_2": ""
+  },
+  {
+    "id": 113,
+    "tag_icon_file_name": "icon_puringpooh_sub2",
+    "tag_change_type_1": "subdue_tag_turn_count",
+    "tag_change_value_1": 3,
+    "tag_change_boss_1": "tag_index_main",
+    "tag_change_ani_1": "tag_change_a_type",
+    "tag_change_type_2": "",
+    "tag_change_value_2": 0,
+    "tag_change_boss_2": "",
+    "tag_change_ani_2": ""
+  },
+  {
+    "id": 121,
+    "tag_icon_file_name": "icon_puringpooh_main",
+    "tag_change_type_1": "subdue_tag_turn_count",
+    "tag_change_value_1": 3,
+    "tag_change_boss_1": "tag_index_sub2",
+    "tag_change_ani_1": "tag_change_a_type",
+    "tag_change_type_2": "subdue_user_give_dmg_boss",
+    "tag_change_value_2": 300000,
+    "tag_change_boss_2": "tag_index_sub1",
+    "tag_change_ani_2": "tag_change_b_type"
+  },
+  {
+    "id": 122,
+    "tag_icon_file_name": "icon_puringpooh_sub1",
+    "tag_change_type_1": "subdue_tag_turn_count",
+    "tag_change_value_1": 2,
+    "tag_change_boss_1": "tag_index_main",
+    "tag_change_ani_1": "tag_change_a_type",
+    "tag_change_type_2": "",
+    "tag_change_value_2": 0,
+    "tag_change_boss_2": "",
+    "tag_change_ani_2": ""
+  },
+  {
+    "id": 123,
+    "tag_icon_file_name": "icon_puringpooh_sub2",
+    "tag_change_type_1": "subdue_tag_turn_count",
+    "tag_change_value_1": 3,
+    "tag_change_boss_1": "tag_index_main",
+    "tag_change_ani_1": "tag_change_a_type",
+    "tag_change_type_2": "",
+    "tag_change_value_2": 0,
+    "tag_change_boss_2": "",
+    "tag_change_ani_2": ""
+  }
+]

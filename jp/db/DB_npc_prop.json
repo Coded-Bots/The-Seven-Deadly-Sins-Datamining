@@ -1,0 +1,830 @@
+[
+  {
+    "id": 1,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "tray",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": "elizabeth_tray"
+  },
+  {
+    "id": 2,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "prop_giftbox_01",
+    "type": 0,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": "prop_giftbox_01"
+  },
+  {
+    "id": 3,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "ban_cook_prop_ani",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "ban_cook_prop_ani"
+  },
+  {
+    "id": 4,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "ban_cook_cutting_boad",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "ban_cook_cutting_boad_appear"
+  },
+  {
+    "id": 5,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "ban_cook_pot",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "ban_cook_pot_appear"
+  },
+  {
+    "id": 6,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "ban_cook_frypan",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "ban_cook_frypan_appear"
+  },
+  {
+    "id": 7,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "meliodas_lobby_cook",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "meliodas_cook_1"
+  },
+  {
+    "id": 8,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "leftover",
+    "type": 1,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "hawk_bowl"
+  },
+  {
+    "id": 9,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "lobby_cup",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": "guest_cup"
+  },
+  {
+    "id": 10,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "king_lobby_pillow",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 11,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "lobby_cup",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": "guest_cup"
+  },
+  {
+    "id": 12,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "lobby_cup",
+    "type": 1,
+    "attach_name": "",
+    "attach": "attach_cup",
+    "ani_keyname": "guest_cup"
+  },
+  {
+    "id": 13,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "meliodas_bottle_prop",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "meliodas_bottle_appear"
+  },
+  {
+    "id": 14,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "meliodas_cook_prop_ani",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "meliodas_cook_prop_ani"
+  },
+  {
+    "id": 15,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "meliodas_lobby_ale_pour_prop",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "meliodas_lobby_ale_pour_prop"
+  },
+  {
+    "id": 16,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "meliodas_lobby_table_clean_prop",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "meliodas_lobby_table_clean_prop"
+  },
+  {
+    "id": 17,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "meliodas_lobby_dropbeer_prop",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "meliodas_lobby_dropbeer_prop"
+  },
+  {
+    "id": 18,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "prop_giftbox_01",
+    "type": 0,
+    "attach_name": "",
+    "attach": "move_root",
+    "ani_keyname": "prop_giftbox_01"
+  },
+  {
+    "id": 19,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "prop_attendance_specialevent_01",
+    "type": 0,
+    "attach_name": "",
+    "attach": "move_root",
+    "ani_keyname": "prop_attendance_specialevent_01"
+  },
+  {
+    "id": 20,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "meliodas_bna_prop_bucket",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "play_basepoint_action_1"
+  },
+  {
+    "id": 21,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "weapon_od_prop_bq",
+    "type": 0,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": "play_basepoint_action_5"
+  },
+  {
+    "id": 22,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "meliodas_food_prop",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "meliodas_food_prop"
+  },
+  {
+    "id": 23,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "weapon_king_101_prop",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": "weapon_king_101_prop"
+  },
+  {
+    "id": 24,
+    "path": "Weapon/Prefabs/hendrickson/",
+    "resource": "weapon_hendrickson_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 25,
+    "path": "Weapon/Prefabs/arthur/",
+    "resource": "weapon_arthur_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 26,
+    "path": "Weapon/Prefabs/gil_thunder/",
+    "resource": "weapon_gil_thunder_102",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 27,
+    "path": "Weapon/Prefabs/vivian/",
+    "resource": "weapon_vivian_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 28,
+    "path": "Weapon/Prefabs/meliodas/",
+    "resource": "weapon_meliodas_105",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 29,
+    "path": "Weapon/Prefabs/dreyfus/",
+    "resource": "weapon_dreyfus_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 30,
+    "path": "Weapon/Prefabs/howzer/",
+    "resource": "weapon_howzer_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 31,
+    "path": "Weapon/Prefabs/helbram/",
+    "resource": "weapon_helbram_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 32,
+    "path": "Weapon/Prefabs/guila/",
+    "resource": "weapon_guila_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 33,
+    "path": "Weapon/Prefabs/jericho/",
+    "resource": "weapon_jericho_102",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 34,
+    "path": "Weapon/Prefabs/helbram_fairy/",
+    "resource": "weapon_helbram_fairy_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 35,
+    "path": "Weapon/Prefabs/diane/",
+    "resource": "weapon_diane_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 36,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "meliodas_bna_prop_hammer",
+    "type": 0,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": "play_basepoint_action_6"
+  },
+  {
+    "id": 37,
+    "path": "Character/hero_deathpierce/ani/fbx/",
+    "resource": "prop_hero_deathpierce_basepoint_event_idle_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": ""
+  },
+  {
+    "id": 38,
+    "path": "Weapon/Prefabs/slader/",
+    "resource": "weapon_slader_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 39,
+    "path": "Weapon/Prefabs/galand/",
+    "resource": "weapon_galand_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 40,
+    "path": "Weapon/Prefabs/merlin/",
+    "resource": "weapon_merlin_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 41,
+    "path": "DialogueTool/Props/prefabs/",
+    "resource": "basepoint_prop_vivian_chain",
+    "type": 1,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": ""
+  },
+  {
+    "id": 42,
+    "path": "Weapon/Prefabs/humanbasics_normal/",
+    "resource": "weapon_humanbasics_normal_bow_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 43,
+    "path": "Weapon/Prefabs/humanbasics_normal/",
+    "resource": "weapon_humanbasics_normal_spear_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 44,
+    "path": "Weapon/Prefabs/humanbasics_normal/",
+    "resource": "weapon_humanbasics_normal_sword_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 45,
+    "path": "Weapon/Prefabs/humanbasics_muscle/",
+    "resource": "weapon_humanbasics_muscle_bow_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 46,
+    "path": "Weapon/Prefabs/humanbasics_muscle/",
+    "resource": "weapon_humanbasics_muscle_spear_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 47,
+    "path": "Weapon/Prefabs/humanbasics_muscle/",
+    "resource": "weapon_humanbasics_muscle_sword_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 48,
+    "path": "Weapon/Prefabs/slader/",
+    "resource": "weapon_slader_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 49,
+    "path": "Weapon/Prefabs/vivian/",
+    "resource": "weapon_vivian_000",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 50,
+    "path": "Character/hero_npc_groom_0010/ani/fbx/",
+    "resource": "prop_hero_npc_groom_0010",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 51,
+    "path": "Weapon/Prefabs/cutscene_prop/",
+    "resource": "3dcs_woodstick_001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 52,
+    "path": "DialogueTool/Props/prefabs/",
+    "resource": "dialog_prop_seed_bowl",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 53,
+    "path": "Weapon/Prefabs/npc_jenna_0010/",
+    "resource": "weapon_jenna_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 54,
+    "path": "DialogueTool/Props/prefabs/",
+    "resource": "prop_weapon_kingfat_101_npc",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 55,
+    "path": "Weapon/Prefabs/theo/",
+    "resource": "weapon_theo_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 56,
+    "path": "Character/hero_npc_cath_0001/prefabs/",
+    "resource": "prop_cath_idle01_town",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 57,
+    "path": "DialogueTool/Props/prefabs/",
+    "resource": "basepoint_1080_idle_slader_with",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 58,
+    "path": "DialogueTool/Props/prefabs/",
+    "resource": "3dcs_woodstick_002",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 59,
+    "path": "Weapon/Prefabs/estarossa/",
+    "resource": "weapon_estarossa_scene_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 60,
+    "path": "Lobby/Object/Prefabs/",
+    "resource": "escanor_slim_lobby_prop",
+    "type": 1,
+    "attach_name": "",
+    "attach": "root",
+    "ani_keyname": ""
+  },
+  {
+    "id": 65,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_04_mead",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 66,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_05_vaizel_taizoo",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 67,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_01_elizabeth",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 68,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_03_dianesmall",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 69,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_03_king",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 70,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_05_gowther",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 71,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_01_merlin",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 72,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_04_ban",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 73,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_02_escanor",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 74,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_02_griamore",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 75,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_01_howzer",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 76,
+    "path": "DialogueTool/Props/Prefabs/",
+    "resource": "prop_party_hat_03_hawk",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001_Head",
+    "ani_keyname": ""
+  },
+  {
+    "id": 77,
+    "path": "Weapon/Prefabs/gloxinia/",
+    "resource": "weapon_gloxinia_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 78,
+    "path": "Weapon/Prefabs/zeldris/",
+    "resource": "weapon_zeldris_0000",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Weapon_Sub2",
+    "ani_keyname": ""
+  },
+  {
+    "id": 79,
+    "path": "Weapon/Prefabs/humanbasics_pig/",
+    "resource": "weapon_humanbasics_pig_bow_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 80,
+    "path": "Weapon/Prefabs/humanbasics_pig/",
+    "resource": "weapon_humanbasics_pig_spear_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 81,
+    "path": "Weapon/Prefabs/humanbasics_pig/",
+    "resource": "weapon_humanbasics_pig_sword_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 82,
+    "path": "Weapon/Prefabs/marmas/",
+    "resource": "weapon_marmas_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 83,
+    "path": "Weapon/Prefabs/gilfrost/",
+    "resource": "weapon_gilfrost_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 84,
+    "path": "Weapon/Prefabs/simon/",
+    "resource": "weapon_simon_101",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 85,
+    "path": "Weapon/Prefabs/deldry/",
+    "resource": "weapon_deldry_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 86,
+    "path": "Weapon/Prefabs/arden/",
+    "resource": "weapon_deldry_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 87,
+    "path": "Weapon/Prefabs/marmas/",
+    "resource": "weapon_marmas_101_sub",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 88,
+    "path": "Weapon/Prefabs/hendrickson/",
+    "resource": "weapon_hendrickson_102",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 89,
+    "path": "Weapon/Prefabs/zaratras/",
+    "resource": "weapon_zaratras_02",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 90,
+    "path": "Weapon/Prefabs/meliodas/",
+    "resource": "weapon_meliodas_109",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 91,
+    "path": "Weapon/Prefabs/human_female_fighter/",
+    "resource": "weapon_hero_human_female_fighter_sword_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 92,
+    "path": "Weapon/Prefabs/titan_levi/",
+    "resource": "weapon_titan_levi_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 93,
+    "path": "Weapon/Prefabs/titan_levi/",
+    "resource": "weapon_titan_levi_0001_sub",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 94,
+    "path": "Weapon/Prefabs/titan_levi/",
+    "resource": "weapon_titan_levi_0001_sub2",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Weapon_Sub1",
+    "ani_keyname": ""
+  },
+  {
+    "id": 95,
+    "path": "Weapon/Prefabs/titan_levi/",
+    "resource": "weapon_titan_levi_0001_sub3",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Weapon_Sub2",
+    "ani_keyname": ""
+  },
+  {
+    "id": 96,
+    "path": "Weapon/Prefabs/escanor/",
+    "resource": "weapon_escanor_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  }
+]

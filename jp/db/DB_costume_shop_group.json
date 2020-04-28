@@ -1,0 +1,412 @@
+[
+  {
+    "id": 42,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 42,
+    "banner_image": "costumeshop_banner_42_newsemester2_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 41,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 41,
+    "banner_image": "costumeshop_banner_41_newsemester1_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 40,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 40,
+    "banner_image": "costumeshop_banner_39_roxy_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 39,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 39,
+    "banner_image": "costumeshop_banner_38_lostmeliodas_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 38,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 38,
+    "banner_image": "costumeshop_banner_37_dreyfus_demon_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 37,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 37,
+    "banner_image": "costumeshop_banner_36_eastinandmono_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 14,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 14,
+    "banner_image": "costumeshop_banner_11_darkflame01",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 36,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 36,
+    "banner_image": "costumeshop_banner_35_derieri_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 35,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 35,
+    "banner_image": "costumeshop_banner_34_valentine_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 34,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 34,
+    "banner_image": "costumeshop_banner_33_benevolence_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 33,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 33,
+    "banner_image": "costumeshop_banner_06_lionesknight",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 32,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 32,
+    "banner_image": "costumeshop_banner_32_erosion_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 31,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 31,
+    "banner_image": "costumeshop_banner_31_newyearcouple_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 30,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 30,
+    "banner_image": "costumeshop_banner_30_xmas_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 29,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 29,
+    "banner_image": "costumeshop_banner_29_wingoflight_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 28,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 28,
+    "banner_image": "costumeshop_banner_28_encore_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 27,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 27,
+    "banner_image": "costumeshop_banner_27_sabbath_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 26,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 26,
+    "banner_image": "costumeshop_banner_26_engineer_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 22,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 22,
+    "banner_image": "costumeshop_banner_22_brutal_knightage_002",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 25,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 25,
+    "banner_image": "costumeshop_banner_25_blind_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 21,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 21,
+    "banner_image": "costumeshop_banner_21_brutal_knightage_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 24,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 24,
+    "banner_image": "costumeshop_banner_24_melody_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 23,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 23,
+    "banner_image": "costumeshop_banner_23_silent_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 20,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 20,
+    "banner_image": "costumeshop_banner_20_iliahmagician_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 19,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 19,
+    "banner_image": "costumeshop_banner_19_2019halloween_002",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 18,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 18,
+    "banner_image": "costumeshop_banner_18_2019halloween_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 15,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 15,
+    "banner_image": "costumeshop_banner_15_backflame2nd_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 16,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 16,
+    "banner_image": "costumeshop_banner_16_onesun_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 17,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 17,
+    "banner_image": "costumeshop_banner_17_blindlove_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 12,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 12,
+    "banner_image": "costumeshop_banner_11_unbreakwill001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 3,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 3,
+    "banner_image": "costumeshop_banner_05_collabo_slime",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 1,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 1,
+    "banner_image": "costumeshop_banner_04_centurybeach",
+    "costume_story_id": 2,
+    "costume_resale": 1
+  },
+  {
+    "id": 2,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 2,
+    "banner_image": "costumeshop_banner_01",
+    "costume_story_id": 1,
+    "costume_resale": 0
+  },
+  {
+    "id": 6,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 6,
+    "banner_image": "costumeshop_banner_08_guardian_elaine",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 4,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 4,
+    "banner_image": "costumeshop_banner_06_lionesknight",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 5,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 5,
+    "banner_image": "costumeshop_banner_07_lionesknight02",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 7,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 7,
+    "banner_image": "costumeshop_banner_09_galrandthetruth",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 8,
+    "menu_type": "event_costume",
+    "menu_title": "3419",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 8,
+    "banner_image": "costumeshop_banner_10_king_arthur",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 9,
+    "menu_type": "weapon_costume",
+    "menu_title": "3418",
+    "scroll_type": "vertical_scroll",
+    "shop_type": 1,
+    "banner_image": "costumeshop_banner_04_centurybeach",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 10,
+    "menu_type": "skin_costume",
+    "menu_title": "3417",
+    "scroll_type": "vertical_scroll",
+    "shop_type": 2,
+    "banner_image": "costumeshop_banner_02",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 11,
+    "menu_type": "hair_costume",
+    "menu_title": "3420",
+    "scroll_type": "vertical_scroll",
+    "shop_type": 2,
+    "banner_image": "costumeshop_banner_02",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  }
+]

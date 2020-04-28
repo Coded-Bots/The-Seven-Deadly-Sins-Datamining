@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1001,
+    "group_id": 101,
+    "group_active": 1,
+    "active_start": "2019-08-30 00:00:00",
+    "active_end": "2019-09-27 23:59:00",
+    "season_id": 1,
+    "season_shop_boss_item_1": 500701,
+    "season_shop_boss_item_2": 0,
+    "season_shop_boss_item_3": 0
+  },
+  {
+    "id": 1002,
+    "group_id": 201,
+    "group_active": 1,
+    "active_start": "2019-09-30 00:00:00",
+    "active_end": "2019-10-30 23:59:00",
+    "season_id": 2,
+    "season_shop_boss_item_1": 500200,
+    "season_shop_boss_item_2": 500201,
+    "season_shop_boss_item_3": 500202
+  },
+  {
+    "id": 1003,
+    "group_id": 301,
+    "group_active": 1,
+    "active_start": "2019-12-04 00:00:00",
+    "active_end": "2019-12-05 23:59:00",
+    "season_id": 3,
+    "season_shop_boss_item_1": 500100,
+    "season_shop_boss_item_2": 500101,
+    "season_shop_boss_item_3": 500102
+  },
+  {
+    "id": 1004,
+    "group_id": 101,
+    "group_active": 1,
+    "active_start": "2020-01-02 00:00:00",
+    "active_end": "2020-01-03 23:59:00",
+    "season_id": 4,
+    "season_shop_boss_item_1": 500300,
+    "season_shop_boss_item_2": 500301,
+    "season_shop_boss_item_3": 500302
+  },
+  {
+    "id": 1005,
+    "group_id": 201,
+    "group_active": 1,
+    "active_start": "2020-01-02 00:00:00",
+    "active_end": "2020-01-03 23:59:00",
+    "season_id": 4,
+    "season_shop_boss_item_1": 500400,
+    "season_shop_boss_item_2": 500401,
+    "season_shop_boss_item_3": 500402
+  },
+  {
+    "id": 1006,
+    "group_id": 401,
+    "group_active": 1,
+    "active_start": "2020-01-30 00:00:00",
+    "active_end": "2020-02-27 23:59:00",
+    "season_id": 5,
+    "season_shop_boss_item_1": 500601,
+    "season_shop_boss_item_2": 0,
+    "season_shop_boss_item_3": 0
+  }
+]

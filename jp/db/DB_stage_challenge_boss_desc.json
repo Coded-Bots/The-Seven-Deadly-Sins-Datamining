@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2260141,
+    "challenge_boss_strong_skill_desc": "DB_guild_boss_skill_01",
+    "challenge_boss_pattern_desc": "DB_guild_boss_pattern_desc_001"
+  },
+  {
+    "id": 2260142,
+    "challenge_boss_strong_skill_desc": "DB_guild_boss_skill_01",
+    "challenge_boss_pattern_desc": "DB_guild_boss_pattern_desc_002"
+  },
+  {
+    "id": 2260143,
+    "challenge_boss_strong_skill_desc": "DB_guild_boss_skill_01",
+    "challenge_boss_pattern_desc": "DB_guild_boss_pattern_desc_003"
+  },
+  {
+    "id": 2260144,
+    "challenge_boss_strong_skill_desc": "DB_guild_boss_skill_01",
+    "challenge_boss_pattern_desc": "DB_guild_boss_pattern_desc_003"
+  },
+  {
+    "id": 2260191,
+    "challenge_boss_strong_skill_desc": "DB_guild_boss_skill_02",
+    "challenge_boss_pattern_desc": "DB_guild_boss_pattern_desc_005"
+  },
+  {
+    "id": 2260192,
+    "challenge_boss_strong_skill_desc": "DB_guild_boss_skill_02",
+    "challenge_boss_pattern_desc": "DB_guild_boss_pattern_desc_006"
+  },
+  {
+    "id": 2260193,
+    "challenge_boss_strong_skill_desc": "DB_guild_boss_skill_02",
+    "challenge_boss_pattern_desc": "DB_guild_boss_pattern_desc_007"
+  },
+  {
+    "id": 2260194,
+    "challenge_boss_strong_skill_desc": "DB_guild_boss_skill_02",
+    "challenge_boss_pattern_desc": "DB_guild_boss_pattern_desc_008"
+  }
+]

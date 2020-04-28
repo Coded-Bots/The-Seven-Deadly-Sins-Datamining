@@ -1,0 +1,4692 @@
+[
+  {
+    "id": 1,
+    "contents": "mailbox_item_save_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 2,
+    "contents": "mailbox_cash_item_date_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 90,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 3,
+    "contents": "mailbox_item_date_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 4,
+    "contents": "gamble_dia_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 5,
+    "contents": "friend_point_send",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 6,
+    "contents": "friend_point_mercenary",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 7,
+    "contents": "visit_friend_lobby",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 10,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 8,
+    "contents": "friend_point_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 9,
+    "contents": "weapon_storage",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 50,
+    "value_int_2": 200,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 10,
+    "contents": "weapon_storage_add",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 11,
+    "contents": "weapon_storage_add_cost",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 12,
+    "contents": "item_storage",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 400,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 13,
+    "contents": "item_storage_add",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 14,
+    "contents": "item_storage_add_cost",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 15,
+    "contents": "balance_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.85,
+    "value_float_2": 1.15
+  },
+  {
+    "id": 16,
+    "contents": "random_attack_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 1.1
+  },
+  {
+    "id": 17,
+    "contents": "random_heal_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 1.1
+  },
+  {
+    "id": 18,
+    "contents": "making_slot_add",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 19,
+    "contents": "making_slot_default",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 20,
+    "contents": "making_slot_merlin",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 21,
+    "contents": "making_reduce_rate_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 22,
+    "contents": "making_reduce_rate_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 0
+  },
+  {
+    "id": 23,
+    "contents": "making_reduce_rate_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 3,
+    "value_float_2": 0
+  },
+  {
+    "id": 24,
+    "contents": "making_reduce_rate_4",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 6,
+    "value_float_2": 0
+  },
+  {
+    "id": 25,
+    "contents": "making_reduce_rate_5",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 10,
+    "value_float_2": 0
+  },
+  {
+    "id": 26,
+    "contents": "power_atk_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 0
+  },
+  {
+    "id": 27,
+    "contents": "power_atk_fixed_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 28,
+    "contents": "power_def_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.8,
+    "value_float_2": 0
+  },
+  {
+    "id": 29,
+    "contents": "power_def_fixed_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 4,
+    "value_float_2": 0
+  },
+  {
+    "id": 30,
+    "contents": "power_crit_per_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 31,
+    "contents": "power_crit_atk_per_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 2.5,
+    "value_float_2": 0
+  },
+  {
+    "id": 32,
+    "contents": "power_crit_res_per_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 4,
+    "value_float_2": 0
+  },
+  {
+    "id": 33,
+    "contents": "power_crit_def_per_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 4,
+    "value_float_2": 0
+  },
+  {
+    "id": 34,
+    "contents": "power_hp_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.2,
+    "value_float_2": 0
+  },
+  {
+    "id": 35,
+    "contents": "power_hp_recovery_per_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 2.5,
+    "value_float_2": 0
+  },
+  {
+    "id": 36,
+    "contents": "power_hp_regen_per_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 37,
+    "contents": "power_hp_steal_per_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 38,
+    "contents": "create_guild_price",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 1000000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 39,
+    "contents": "change_guild_name_price",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 40,
+    "contents": "statistics_givedamage_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 0
+  },
+  {
+    "id": 41,
+    "contents": "statistics_receivedamage_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 0
+  },
+  {
+    "id": 42,
+    "contents": "statistics_heal_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 0
+  },
+  {
+    "id": 43,
+    "contents": "statistics_killcount_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.2,
+    "value_float_2": 0
+  },
+  {
+    "id": 44,
+    "contents": "statistics_death_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.5,
+    "value_float_2": 0
+  },
+  {
+    "id": 45,
+    "contents": "pvp_limited_time_min",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 46,
+    "contents": "battle_list_refresh_01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1800,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 47,
+    "contents": "battle_list_refresh_value_01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 48,
+    "contents": "rating_constant_win_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 33,
+    "value_float_2": 0.01
+  },
+  {
+    "id": 49,
+    "contents": "rating_constant_lose_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 33,
+    "value_float_2": 0.02
+  },
+  {
+    "id": 50,
+    "contents": "rating_under_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1000,
+    "value_float_2": 0.75
+  },
+  {
+    "id": 51,
+    "contents": "rating_under_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 950,
+    "value_float_2": 0.5
+  },
+  {
+    "id": 52,
+    "contents": "user_rank_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 53,
+    "contents": "hero_fellowship_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 54,
+    "contents": "victory_buff_time_01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1800,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 55,
+    "contents": "pvp_stamina",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 3600,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 56,
+    "contents": "pvp_stamina_play_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500017,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 57,
+    "contents": "group_item_id1_drop_per_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 58,
+    "contents": "group_item_id1_drop_per_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 55,
+    "value_float_2": 0
+  },
+  {
+    "id": 59,
+    "contents": "group_item_id1_drop_per_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 30,
+    "value_float_2": 0
+  },
+  {
+    "id": 60,
+    "contents": "group_item_id1_drop_per_4",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 10,
+    "value_float_2": 0
+  },
+  {
+    "id": 61,
+    "contents": "group_item_boss_drop_per_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 20,
+    "value_float_2": 0
+  },
+  {
+    "id": 62,
+    "contents": "group_item_boss_drop_per_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 80,
+    "value_float_2": 0
+  },
+  {
+    "id": 63,
+    "contents": "group_item_goldmanta_per_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 20,
+    "value_float_2": 10
+  },
+  {
+    "id": 64,
+    "contents": "pvp_point_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 30,
+    "value_int_2": -30,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 65,
+    "contents": "weapon_magic_price",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 50000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 66,
+    "contents": "gowther_weapon_magicbook",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 67,
+    "contents": "destroy_limited_time_min",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 60,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 68,
+    "contents": "crit_atk_add_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 69,
+    "contents": "battle_speed_acc",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1.4,
+    "value_float_2": 0
+  },
+  {
+    "id": 70,
+    "contents": "extra_damage",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 71,
+    "contents": "guest_hero_change",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 72,
+    "contents": "regen_turn_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 73,
+    "contents": "battle_card_move_possible",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 74,
+    "contents": "battle_card_move_use_cost",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 75,
+    "contents": "free_ale_oak",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 504003,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 76,
+    "contents": "skin_change_cost",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 5000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 77,
+    "contents": "change_level_5",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 60,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 78,
+    "contents": "change_level_4",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 60,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 79,
+    "contents": "change_level_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 60,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 80,
+    "contents": "research_factor1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 81,
+    "contents": "research_factor2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 82,
+    "contents": "skill_preview_monster",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2510301,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 83,
+    "contents": "buff_renewal_not_sfx",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 84,
+    "contents": "auto_register_delay",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 2,
+    "value_float_2": 0.5
+  },
+  {
+    "id": 85,
+    "contents": "random_shop_normal_slot_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 86,
+    "contents": "random_shop_normal_slot_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 87,
+    "contents": "random_shop_normal_slot_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 88,
+    "contents": "random_shop_normal_slot_4",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 89,
+    "contents": "random_shop_normal_slot_5",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 90,
+    "contents": "random_shop_normal_slot_6",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 91,
+    "contents": "random_shop_normal_slot_7",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 92,
+    "contents": "random_shop_normal_slot_8",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 93,
+    "contents": "random_shop_special_slot_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 94,
+    "contents": "random_shop_special_slot_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 95,
+    "contents": "random_shop_special_slot_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 96,
+    "contents": "realtime_pvp_start_money",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500018,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 97,
+    "contents": "realtime_pvp_end_money",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500018,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 98,
+    "contents": "card_auto_select_delay_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.5,
+    "value_float_2": 0.2
+  },
+  {
+    "id": 99,
+    "contents": "random_shop_reset",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 100,
+    "contents": "special_skip_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 101,
+    "contents": "random_box_town_rate_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 102,
+    "contents": "random_box_town_rate_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 103,
+    "contents": "random_box_town_rate_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 104,
+    "contents": "random_box_town_rate_4_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 105,
+    "contents": "random_box_town_rate_5",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 106,
+    "contents": "random_box_town_rate_6",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 107,
+    "contents": "ingame_pve_win_sound",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 91051,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 108,
+    "contents": "ingame_pvp_win_sound",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 91051,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 109,
+    "contents": "ingame_destroy_win_sound",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 91051,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 110,
+    "contents": "ugrade_drop_rateplus",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 111,
+    "contents": "nickname_change_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1440,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 112,
+    "contents": "meliodas_profile_unlock_lv_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 113,
+    "contents": "meliodas_profile_unlock_lv_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 15,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 114,
+    "contents": "meliodas_profile_unlock_lv_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 115,
+    "contents": "grind_evolution_stone",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 116,
+    "contents": "ingame_pve_lose_sound",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 91052,
+    "value_int_2": 91053,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 117,
+    "contents": "ingame_pvp_lose_sound",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 91052,
+    "value_int_2": 91053,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 118,
+    "contents": "ingame_destroy_lose_sound",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 91052,
+    "value_int_2": 91053,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 119,
+    "contents": "memorial_unlock_level",
+    "value_string_1": "0",
+    "value_string_2": "0",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 120,
+    "contents": "power_compare_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 121,
+    "contents": "fate_lock_info",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 122,
+    "contents": "fate_add_attack",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 123,
+    "contents": "fate_add_defence",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 124,
+    "contents": "fate_add_life",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 125,
+    "contents": "exclusive_skill_type",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 126,
+    "contents": "stamina_regen",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 120,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 127,
+    "contents": "not_friend_point_mercenary",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 128,
+    "contents": "random_box_town_rate_4_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 129,
+    "contents": "attribute_advantage_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.3,
+    "value_float_2": 0
+  },
+  {
+    "id": 130,
+    "contents": "attribute_disadvantage_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.2,
+    "value_float_2": 0
+  },
+  {
+    "id": 131,
+    "contents": "progress_charging_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.6,
+    "value_float_2": 1
+  },
+  {
+    "id": 132,
+    "contents": "progress_charging_velocity",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.35,
+    "value_float_2": 5
+  },
+  {
+    "id": 133,
+    "contents": "hero_auto_grind_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 134,
+    "contents": "hero_auto_grind_4",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 135,
+    "contents": "hero_auto_grind_5",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 136,
+    "contents": "hero_auto_grind_6",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 137,
+    "contents": "skin_upgrade_penalty",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 75,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 138,
+    "contents": "guest_hero_maximum_fellow",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 300000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 139,
+    "contents": "lobby_meliodas_interactive_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 100,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 140,
+    "contents": "item_all_check_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 141,
+    "contents": "limit_count_gold",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 142,
+    "contents": "limit_count_free_dia",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 143,
+    "contents": "limit_count_buy_dia",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 144,
+    "contents": "limit_count_pvp_coin",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 145,
+    "contents": "limit_count_achievement_potin",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 146,
+    "contents": "limit_count_stamina",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 147,
+    "contents": "limit_count_pvp_stamina",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 9999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 148,
+    "contents": "limit_count_friend_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 9999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 149,
+    "contents": "limit_count_common_item",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 150,
+    "contents": "fate_monster_strong",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.3,
+    "value_float_2": 0
+  },
+  {
+    "id": 151,
+    "contents": "fate_monster_weak",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.3,
+    "value_float_2": 0
+  },
+  {
+    "id": 152,
+    "contents": "limit_no_check_item_01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500020,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 153,
+    "contents": "limit_no_check_item_02",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500017,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 154,
+    "contents": "weekstage_key_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 155,
+    "contents": "weekstage_key_sale_show",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 156,
+    "contents": "random_box_town_rate_6_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 157,
+    "contents": "fpower_add_personality_passive",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 158,
+    "contents": "fpower_add_tribe_research",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 159,
+    "contents": "fpower_add_special_skill",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 400,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 160,
+    "contents": "evolution_break_level",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 99,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 161,
+    "contents": "auto_battle_unlock_stage",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100531,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 162,
+    "contents": "weapon_change_01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 1000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 163,
+    "contents": "weapon_change_02",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 3000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 164,
+    "contents": "weapon_change_03",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 6000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 165,
+    "contents": "weapon_change_04",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 10000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 166,
+    "contents": "weapon_change_05",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 167,
+    "contents": "weapon_change_06",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 168,
+    "contents": "weapon_option_change_01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 5000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 169,
+    "contents": "weapon_option_change_02",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 7000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 170,
+    "contents": "weapon_option_change_03",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500012,
+    "value_int_2": 10000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 171,
+    "contents": "weapon_option_change_04",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 172,
+    "contents": "weapon_option_change_05",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 173,
+    "contents": "weapon_option_change_06",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 174,
+    "contents": "content_open_guild",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 175,
+    "contents": "event_guide_mission_tabnumber",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 176,
+    "contents": "lobby_elizabeth_interactive_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 177,
+    "contents": "lobby_hawk_interactive_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 100,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 178,
+    "contents": "PvP_stamina_sale_show",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 179,
+    "contents": "grind_rating_notice",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 180,
+    "contents": "grind_enhance_notice",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 6,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 181,
+    "contents": "weapon_unequip_cost_01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 182,
+    "contents": "weapon_unequip_cost_02",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 183,
+    "contents": "weapon_unequip_cost_03",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 184,
+    "contents": "weapon_unequip_cost_04",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 185,
+    "contents": "weapon_unequip_cost_05",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 186,
+    "contents": "weapon_unequip_cost_06",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 187,
+    "contents": "week_event_stage_limit_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 188,
+    "contents": "random_box_lobby_rate",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 189,
+    "contents": "event_extra_stage_tabnumber",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 190,
+    "contents": "random_shop_spawn_section_01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 19,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 191,
+    "contents": "random_shop_spawn_prob",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 192,
+    "contents": "random_shop_open_fellow",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 193,
+    "contents": "time_box_random_rate",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 194,
+    "contents": "time_box_spawn_min",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 195,
+    "contents": "week_event_condition_quest_id",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 12015,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 196,
+    "contents": "hawk_recipe_show_on",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 221,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 197,
+    "contents": "storage_unlock_quest",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 11008,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 198,
+    "contents": "friend_point_daily_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 199,
+    "contents": "hero_gacha_one_dia",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 200,
+    "contents": "regen_div_value",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 201,
+    "contents": "loseguide_regoin_default",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 400601,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 202,
+    "contents": "enemy_boss_card_info",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 203,
+    "contents": "lobby_meliodas_barrel_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 204,
+    "contents": "Week_event_play_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 205,
+    "contents": "Week_event_play_reward",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 542405,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 206,
+    "contents": "item_storage_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 99,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 207,
+    "contents": "limit_count_final_boss_coin",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 208,
+    "contents": "destroy_limited_time_second",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 40,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 209,
+    "contents": "weekkey_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 210,
+    "contents": "week_gold_stage_limit_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 211,
+    "contents": "get_friend_point_food_eat",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 212,
+    "contents": "get_gold_food_eat",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 213,
+    "contents": "friend_room_food_eat_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 214,
+    "contents": "friend_room_sale_food_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 50,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 215,
+    "contents": "basepoint_weapon_shop_reset",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 216,
+    "contents": "basepoint_goods_shop_reset",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 217,
+    "contents": "pvp_shop_reset",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 218,
+    "contents": "food_eat_friend_list_keep_days",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 7,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 219,
+    "contents": "input_delay_effect_user_rank",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 220,
+    "contents": "input_delay_effect_appear_second",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 221,
+    "contents": "pvp_test_battle_01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20000,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 222,
+    "contents": "pvp_test_battle_02",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 25000,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 223,
+    "contents": "pvp_test_battle_03",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 30000,
+    "value_int_2": 3,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 224,
+    "contents": "pvp_test_battle_04",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 35000,
+    "value_int_2": 4,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 225,
+    "contents": "pvp_test_battle_05",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 40000,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 226,
+    "contents": "love_point_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 227,
+    "contents": "auto_replay_delay_second",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 228,
+    "contents": "exclusive_battle_power",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 16000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 229,
+    "contents": "dia_shop_buy_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 230,
+    "contents": "dia_shop_buy_total_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 231,
+    "contents": "energymanager_sleepmode_enable",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 232,
+    "contents": "energymanager_forcedfps_enable",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 233,
+    "contents": "energymanager_fps_sleepmode",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 15,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 234,
+    "contents": "energymanager_fps_low",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 20,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 235,
+    "contents": "energymanager_fps_mid",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 30,
+    "value_int_2": 30,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 236,
+    "contents": "energymanager_fps_high",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 60,
+    "value_int_2": 30,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 237,
+    "contents": "energymanager_fps_ultra",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 60,
+    "value_int_2": 60,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 238,
+    "contents": "energymanager_sleepmodetime_fast",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 30,
+    "value_float_2": 0
+  },
+  {
+    "id": 239,
+    "contents": "energymanager_sleepmodetime_normal",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 60,
+    "value_float_2": 0
+  },
+  {
+    "id": 240,
+    "contents": "energymanager_sleepmodetime_slow",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 180,
+    "value_float_2": 0
+  },
+  {
+    "id": 241,
+    "contents": "energymanager_xframe_enable",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 250,
+    "contents": "energymanager_xframe_resolution_ultra",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 0
+  },
+  {
+    "id": 251,
+    "contents": "energymanager_xframe_resolution_high",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 0
+  },
+  {
+    "id": 252,
+    "contents": "energymanager_xframe_resolution_mid",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.9,
+    "value_float_2": 0
+  },
+  {
+    "id": 253,
+    "contents": "energymanager_xframe_resolution_low",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.8,
+    "value_float_2": 0
+  },
+  {
+    "id": 254,
+    "contents": "energymanager_xframe_resolution_sleep",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.5,
+    "value_float_2": 0
+  },
+  {
+    "id": 301,
+    "contents": "limit_count_final_boss_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 302,
+    "contents": "active_asyncload",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 303,
+    "contents": "overlimit_buy_stamina_enable",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 304,
+    "contents": "pvp_limit_turn",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 305,
+    "contents": "pvp_limit_turn_decrease_hp_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 30,
+    "value_float_2": 5
+  },
+  {
+    "id": 306,
+    "contents": "weapon_upgrade_auto_option_1",
+    "value_string_1": "1/2/3/4/5",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 307,
+    "contents": "weapon_upgrade_auto_option_2",
+    "value_string_1": "5/10/15/20",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 308,
+    "contents": "pvp_losing_streak",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 309,
+    "contents": "pvp_limit_notice_turn",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 7,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 310,
+    "contents": "pvp_limit_notice_message_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 4,
+    "value_float_2": 0
+  },
+  {
+    "id": 311,
+    "contents": "shop_buy_limited_infinite_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 312,
+    "contents": "pvp_limit_turn_debuff_id",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 70001,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 313,
+    "contents": "coin_shop_standard_time",
+    "value_string_1": "2019-01-29 00:00:00",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 314,
+    "contents": "limit_count_guild_donation_money",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 315,
+    "contents": "limit_count_guild_gold",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 316,
+    "contents": "hawk_recipe_gold_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 317,
+    "contents": "limit_count_guild_contribution",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 318,
+    "contents": "westcity_channel_chat_icon_open",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 16076,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 319,
+    "contents": "pvp_limit_reset_btn",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 320,
+    "contents": "finalboss_tabnumber",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 321,
+    "contents": "season_pass_rank_sale_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500023,
+    "value_int_2": 10,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 322,
+    "contents": "season_pass_rank_sale_price",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 323,
+    "contents": "notice_tabnumber",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 324,
+    "contents": "guild_recommend_refresh_renewal_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 15,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 325,
+    "contents": "guildroom_sync_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 1
+  },
+  {
+    "id": 326,
+    "contents": "westcity_sync_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 1
+  },
+  {
+    "id": 327,
+    "contents": "destroy_friends_invite_limited",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 328,
+    "contents": "destroy_normal_invite_limited",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 329,
+    "contents": "ingame_pause_interval_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.3,
+    "value_float_2": 0
+  },
+  {
+    "id": 330,
+    "contents": "guild_shop_reset_dia",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 331,
+    "contents": "package_shop_base_time",
+    "value_string_1": "2019-05-05 00:00:00",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 332,
+    "contents": "reset_skill_card_time_limited",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 10,
+    "value_float_2": 0
+  },
+  {
+    "id": 333,
+    "contents": "food_material_sell_condition",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 16076,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 334,
+    "contents": "limit_count_training_ticket",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 335,
+    "contents": "training_dungeon_open_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10080,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 336,
+    "contents": "training_dungeon_fight_amber_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 337,
+    "contents": "training_stage_limit_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 338,
+    "contents": "training_stage_standard_date",
+    "value_string_1": "2019-07-31 00:00:00",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 339,
+    "contents": "training_stage_limit_count_reset_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 340,
+    "contents": "pvp_rankup_battle_silver",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 40000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 341,
+    "contents": "pvp_rankup_battle_gold",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 50000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 342,
+    "contents": "pvp_rankup_battle_platinum",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 60000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 343,
+    "contents": "pvp_rankup_battle_master",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 70000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 344,
+    "contents": "pvp_rankup_battle_champion",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 80000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 345,
+    "contents": "friend_point_destroy_ai",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 346,
+    "contents": "monthly_event_open_user_rank",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 347,
+    "contents": "exchange_tabnumber",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 348,
+    "contents": "invite_special_guest_price",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 349,
+    "contents": "invite_special_guest",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2112,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 350,
+    "contents": "invite_special_guest_free_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 351,
+    "contents": "pvp_dummy_ai_level_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 352,
+    "contents": "pvp_dummy_ai_level_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 4,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 353,
+    "contents": "pvp_dummy_ai_level_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 3,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 354,
+    "contents": "pvp_dummy_ai_level_4",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 355,
+    "contents": "pvp_dummy_ai_level_5",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 356,
+    "contents": "pvp_dummy_ai_level_6",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 357,
+    "contents": "pvp_dummy_ai_level_7",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 4,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 358,
+    "contents": "pvp_dummy_ai_level_8",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 3,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 359,
+    "contents": "pvp_dummy_ai_level_9",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 360,
+    "contents": "pvp_dummy_ai_level_10",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 361,
+    "contents": "pvp_dummy_ai_level_11",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 362,
+    "contents": "pvp_dummy_ai_level_12",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 4,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 363,
+    "contents": "pvp_dummy_ai_level_13",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 3,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 364,
+    "contents": "pvp_dummy_ai_level_14",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 365,
+    "contents": "pvp_dummy_ai_level_15",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 366,
+    "contents": "pvp_dummy_ai_level_16",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 367,
+    "contents": "pvp_dummy_ai_level_17",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 4,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 368,
+    "contents": "pvp_dummy_ai_level_18",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 3,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 369,
+    "contents": "pvp_dummy_ai_level_19",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 370,
+    "contents": "pvp_dummy_ai_level_20",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 371,
+    "contents": "pvp_dummy_ai_level_21",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 372,
+    "contents": "pvp_dummy_ai_level_22",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 4,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 373,
+    "contents": "pvp_dummy_ai_level_23",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 3,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 374,
+    "contents": "pvp_dummy_ai_level_24",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 375,
+    "contents": "pvp_dummy_ai_level_25",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 376,
+    "contents": "pvp_top_100_sat",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 2359,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 377,
+    "contents": "pvp_top_100_sun",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 2200,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 378,
+    "contents": "pvp_top_100_push",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 600,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 379,
+    "contents": "pvp_limit_pause_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 380,
+    "contents": "auto_replay_set_play_count_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 99,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 381,
+    "contents": "auto_replay_set_play_count_base",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 382,
+    "contents": "pvp_lose_bronze_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 383,
+    "contents": "pvp_lose_silver_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 384,
+    "contents": "pvp_lose_gold_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 385,
+    "contents": "pvp_lose_platinum_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 386,
+    "contents": "pvp_lose_master_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 387,
+    "contents": "pvp_lose_champion_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 388,
+    "contents": "pvp_lose_challenger_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 389,
+    "contents": "pvp_ai_team_power_bronze_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 300,
+    "value_int_2": 400,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 390,
+    "contents": "pvp_ai_team_power_silver_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 400,
+    "value_int_2": 500,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 391,
+    "contents": "pvp_ai_team_power_gold_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500,
+    "value_int_2": 600,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 392,
+    "contents": "pvp_ai_team_power_platinum_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 600,
+    "value_int_2": 700,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 393,
+    "contents": "pvp_ai_team_power_master_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 300,
+    "value_int_2": 400,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 394,
+    "contents": "pvp_ai_team_power_champion_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 300,
+    "value_int_2": 400,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 395,
+    "contents": "pvp_ai_team_power_challenger_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 300,
+    "value_int_2": 400,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 396,
+    "contents": "guild_boss_play_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 397,
+    "contents": "guild_boss_play_reward",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 3,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 398,
+    "contents": "guild_attendance_once_reward",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 399,
+    "contents": "limit_count_guild_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 400,
+    "contents": "limit_count_guild_skill_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 401,
+    "contents": "training_ticket",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 432000,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 402,
+    "contents": "weekstage_gauge_factor",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 403,
+    "contents": "guild_boss_week_reward",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 542405,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 404,
+    "contents": "guild_boss_week_reward_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 405,
+    "contents": "openworld_areaid_from_guild",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 600701,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 406,
+    "contents": "training_all_clear_reward",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 520001,
+    "value_int_2": 5,
+    "value_float_1": 9,
+    "value_float_2": 0
+  },
+  {
+    "id": 407,
+    "contents": "rhitta_event_daily_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 408,
+    "contents": "rhitta_event_free_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 409,
+    "contents": "rhitta_event_free_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 690,
+    "value_int_2": 750,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 410,
+    "contents": "guild_boss_start_date",
+    "value_string_1": "2019-09-15 00:30:00",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 411,
+    "contents": "evolution_break_end",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 412,
+    "contents": "openworld_areaid_from_training",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 600701,
+    "value_int_2": 800201,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 413,
+    "contents": "guild_donation_contribution_daily_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 50,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 414,
+    "contents": "guild_boss_open_guildlevel",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 415,
+    "contents": "pvp_playoff_giveup_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 120,
+    "value_float_2": 0
+  },
+  {
+    "id": 416,
+    "contents": "training_complete_clear_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 9,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 417,
+    "contents": "training_amber_slot_refresh",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 418,
+    "contents": "rhitta_event_daily_refresh",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 10,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 419,
+    "contents": "halloween_channel_chat_icon_open",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 90214,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 420,
+    "contents": "guild_representative_renewal_need_day",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 14,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 421,
+    "contents": "guild_sub_representative_renewal_need_day",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 14,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 422,
+    "contents": "ap_weekly_event",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 28800,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 423,
+    "contents": "ap_weekly_evolution",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 1800,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 424,
+    "contents": "ap_weekly_gold",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 5400,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 425,
+    "contents": "limit_count_weekly_event_stamina",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 426,
+    "contents": "limit_count_weekly_evolution_stamina",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 427,
+    "contents": "limit_count_weekly_gold_stamina",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 428,
+    "contents": "bingo_reset_cost",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 10,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 429,
+    "contents": "PVP_channel_chat_icon_open",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 14015,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 430,
+    "contents": "stage_training_point_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 431,
+    "contents": "pickup_bonus_rate",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.01,
+    "value_float_2": 0
+  },
+  {
+    "id": 432,
+    "contents": "gear_develop_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 433,
+    "contents": "event_time_attack_mission",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 21600,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 435,
+    "contents": "gb_random_shop_stay_minute",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 60,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 436,
+    "contents": "gb_random_shop_travel_minute",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 120,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 437,
+    "contents": "ladder_leg_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 438,
+    "contents": "ladder_auto_select_delay_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 15,
+    "value_float_2": 0
+  },
+  {
+    "id": 439,
+    "contents": "guest_special_open",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 440,
+    "contents": "ladder_start_cost_id",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 910702,
+    "value_int_2": 10,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 441,
+    "contents": "training_clear_reward01",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 520001,
+    "value_int_2": 2,
+    "value_float_1": 3,
+    "value_float_2": 0
+  },
+  {
+    "id": 442,
+    "contents": "training_clear_reward02",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 520001,
+    "value_int_2": 3,
+    "value_float_1": 6,
+    "value_float_2": 0
+  },
+  {
+    "id": 443,
+    "contents": "pvp_top_100_atk_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 30,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 444,
+    "contents": "pvp_top_100_def_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 30,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 445,
+    "contents": "guild_boss_bs_basic_normal",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 50,
+    "value_float_2": 0
+  },
+  {
+    "id": 446,
+    "contents": "guild_boss_bs_basic_hard",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 120,
+    "value_float_2": 0
+  },
+  {
+    "id": 447,
+    "contents": "guild_boss_bs_basic_extreme",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 240,
+    "value_float_2": 0
+  },
+  {
+    "id": 448,
+    "contents": "guild_boss_bs_card_move",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 0
+  },
+  {
+    "id": 449,
+    "contents": "guild_boss_bs_card_disuse",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 450,
+    "contents": "guild_boss_bs_card_union",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 2,
+    "value_float_2": 0
+  },
+  {
+    "id": 451,
+    "contents": "guild_boss_bs_card_use_rank1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1,
+    "value_float_2": 0
+  },
+  {
+    "id": 452,
+    "contents": "guild_boss_bs_card_use_rank2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 2,
+    "value_float_2": 0
+  },
+  {
+    "id": 453,
+    "contents": "guild_boss_bs_card_use_rank3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 8,
+    "value_float_2": 0
+  },
+  {
+    "id": 454,
+    "contents": "guild_boss_bs_card_use_special",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 10,
+    "value_float_2": 0
+  },
+  {
+    "id": 455,
+    "contents": "guild_boss_bs_enemy_debuff",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 456,
+    "contents": "guild_boss_bs_ally_buff",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 8,
+    "value_float_2": 0
+  },
+  {
+    "id": 457,
+    "contents": "guild_boss_bs_hero_survive",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 15,
+    "value_float_2": 0
+  },
+  {
+    "id": 458,
+    "contents": "guild_boss_bs_card_use_heal",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 5,
+    "value_float_2": 0
+  },
+  {
+    "id": 459,
+    "contents": "guild_boss_bs_hp_remain",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.0006,
+    "value_float_2": 0
+  },
+  {
+    "id": 460,
+    "contents": "guild_boss_bs_hit_critical",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 4,
+    "value_float_2": 0
+  },
+  {
+    "id": 461,
+    "contents": "guild_boss_bs_turn_use",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 3,
+    "value_float_2": 2
+  },
+  {
+    "id": 462,
+    "contents": "pvp_top_100_on_off_switch",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 463,
+    "contents": "jukebox_musical_compose_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 464,
+    "contents": "another_story_first_quest",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 111000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 465,
+    "contents": "DB_event_attendance_normal",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 466,
+    "contents": "DB_event_attendance_newbie",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 467,
+    "contents": "DB_event_attendance_dayfix",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 468,
+    "contents": "guide_list_hero_way_first_quest",
+    "value_string_1": "icon_shortcut_event_HeroRoad",
+    "value_string_2": "",
+    "value_int_1": 1001,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 469,
+    "contents": "guide_list_quest_all_clear_reward",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1000019,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 470,
+    "contents": "musical_compose_edit_save_need_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 471,
+    "contents": "musical_compose_edit_save_max_byte",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 472,
+    "contents": "pvp_tournament_ready_room_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1800,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 473,
+    "contents": "pvp_tournament_ready_room_start_count_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 474,
+    "contents": "pvp_tournament_ingame_turn_count_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 475,
+    "contents": "jukebox_musical_volume_size",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.35,
+    "value_float_2": 0
+  },
+  {
+    "id": 476,
+    "contents": "fpower_add_special_fate",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 477,
+    "contents": "gamble_probability_reset_time",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 478,
+    "contents": "gamble_probability_standard_time",
+    "value_string_1": "2020-01-02 00:00:00",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 479,
+    "contents": "gamble_probability_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.35,
+    "value_float_2": 0
+  },
+  {
+    "id": 480,
+    "contents": "jukebox_my_music_start_index",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 481,
+    "contents": "subdue_limited_time_second",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 482,
+    "contents": "subdue_retreat_response_wait_time_second",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 483,
+    "contents": "key_full_awaken_package",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 484,
+    "contents": "key_full_awaken_package_item",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500019,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 485,
+    "contents": "guild_war_region_point_bonus_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 486,
+    "contents": "guild_war_region_point_bonus_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1000,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 487,
+    "contents": "gulid_war_guild_level",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 488,
+    "contents": "gulid_war_defense_team_total_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 489,
+    "contents": "gulid_war_defense_team_bm_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 490,
+    "contents": "gulid_war_offense_slot_total_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 491,
+    "contents": "gulid_war_offense_slot_bm_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 8,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 492,
+    "contents": "reverse_stage_contents_quest_open",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 22015,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 493,
+    "contents": "tournament_contents_open_condition",
+    "value_string_1": "quest_end",
+    "value_string_2": "",
+    "value_int_1": 14001,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 494,
+    "contents": "guild_war_limited_time_second",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 30,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 495,
+    "contents": "guild_war_defense_add_item",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500052,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 496,
+    "contents": "guild_war_offense_add_item",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500053,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 497,
+    "contents": "pvp_top100_def_get_season_point_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 498,
+    "contents": "pvp_top100_atk_chance_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 499,
+    "contents": "bingo_number_gacha_number_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 910709,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 500,
+    "contents": "bingo_number_gacha_number_10",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 910709,
+    "value_int_2": 10,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 501,
+    "contents": "bingo_number_select_number_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 910710,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 502,
+    "contents": "bingo_all_bingo_complete",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 910736,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 503,
+    "contents": "bingo_number_select_exchange_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 504,
+    "contents": "gulid_war_enemy_ai",
+    "value_string_1": "AI_BT_Enemy_GuildWar",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 505,
+    "contents": "guild_war_rejoin_limited_time_min",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 508,
+    "contents": "disaster_destroy_limited_time_min",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 60,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 509,
+    "contents": "bingo_free_reset_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 6,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 510,
+    "contents": "bingo_reset_need_dia",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 10,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 511,
+    "contents": "bingo_dia_reset_need_dia",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 512,
+    "contents": "bingo_total_use_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 6,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 513,
+    "contents": "guest_special_off",
+    "value_string_1": "quest_end",
+    "value_string_2": "",
+    "value_int_1": 17014,
+    "value_int_2": 11002,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 514,
+    "contents": "pvp_smash_list_reload",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3600,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 515,
+    "contents": "ap_pvp_smash",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 28800,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 516,
+    "contents": "pvp_smash_rank_reward_reload",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 86400,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 517,
+    "contents": "limit_count_ap_pvp_smash",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 518,
+    "contents": "pvp_smash_win_reward_need_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 519,
+    "contents": "clear_ticket_open_quest",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 17014,
+    "value_int_2": 500024,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 520,
+    "contents": "pvp_smash_mode_list",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 10,
+    "value_int_2": 11,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 521,
+    "contents": "repeat_gacha_open",
+    "value_string_1": "quest_end",
+    "value_string_2": "",
+    "value_int_1": 11009,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 522,
+    "contents": "limit_count_pvp_smash_coin",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 999999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 523,
+    "contents": "lobby_timesale_icon_name",
+    "value_string_1": "icon_shortcut_event_TimeSale",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 524,
+    "contents": "lobby_event_icon_name",
+    "value_string_1": "icon_shortcut_special_EventPage",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 525,
+    "contents": "clear_ticket_playmax",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 526,
+    "contents": "lobby_special_price_icon_name",
+    "value_string_1": "icon_bigsale_01",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  }
+]

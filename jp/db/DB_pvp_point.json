@@ -1,0 +1,512 @@
+[
+  {
+    "id": 1,
+    "league_type": 2,
+    "rank_type": 7,
+    "rank_num": 1,
+    "rating": 4000,
+    "realtime_rate": 100,
+    "rating_icon": "icon_pvp_rating_01",
+    "rating_name": "2945"
+  },
+  {
+    "id": 2,
+    "league_type": 2,
+    "rank_type": 6,
+    "rank_num": 1,
+    "rating": 3900,
+    "realtime_rate": 95,
+    "rating_icon": "icon_pvp_rating_02",
+    "rating_name": "2946"
+  },
+  {
+    "id": 3,
+    "league_type": 2,
+    "rank_type": 6,
+    "rank_num": 2,
+    "rating": 3800,
+    "realtime_rate": 90,
+    "rating_icon": "icon_pvp_rating_03",
+    "rating_name": "2947"
+  },
+  {
+    "id": 4,
+    "league_type": 2,
+    "rank_type": 6,
+    "rank_num": 3,
+    "rating": 3700,
+    "realtime_rate": 85,
+    "rating_icon": "icon_pvp_rating_04",
+    "rating_name": "2948"
+  },
+  {
+    "id": 5,
+    "league_type": 2,
+    "rank_type": 6,
+    "rank_num": 4,
+    "rating": 3600,
+    "realtime_rate": 80,
+    "rating_icon": "icon_pvp_rating_05",
+    "rating_name": "2949"
+  },
+  {
+    "id": 6,
+    "league_type": 2,
+    "rank_type": 6,
+    "rank_num": 5,
+    "rating": 3500,
+    "realtime_rate": 75,
+    "rating_icon": "icon_pvp_rating_06",
+    "rating_name": "2950"
+  },
+  {
+    "id": 7,
+    "league_type": 2,
+    "rank_type": 5,
+    "rank_num": 1,
+    "rating": 3400,
+    "realtime_rate": 70,
+    "rating_icon": "icon_pvp_rating_07",
+    "rating_name": "2951"
+  },
+  {
+    "id": 8,
+    "league_type": 2,
+    "rank_type": 5,
+    "rank_num": 2,
+    "rating": 3300,
+    "realtime_rate": 65,
+    "rating_icon": "icon_pvp_rating_08",
+    "rating_name": "2952"
+  },
+  {
+    "id": 9,
+    "league_type": 2,
+    "rank_type": 5,
+    "rank_num": 3,
+    "rating": 3200,
+    "realtime_rate": 60,
+    "rating_icon": "icon_pvp_rating_09",
+    "rating_name": "2953"
+  },
+  {
+    "id": 10,
+    "league_type": 2,
+    "rank_type": 5,
+    "rank_num": 4,
+    "rating": 3100,
+    "realtime_rate": 55,
+    "rating_icon": "icon_pvp_rating_10",
+    "rating_name": "2954"
+  },
+  {
+    "id": 11,
+    "league_type": 2,
+    "rank_type": 5,
+    "rank_num": 5,
+    "rating": 3000,
+    "realtime_rate": 50,
+    "rating_icon": "icon_pvp_rating_11",
+    "rating_name": "2955"
+  },
+  {
+    "id": 12,
+    "league_type": 2,
+    "rank_type": 4,
+    "rank_num": 1,
+    "rating": 2900,
+    "realtime_rate": 45,
+    "rating_icon": "icon_pvp_rating_12",
+    "rating_name": "2956"
+  },
+  {
+    "id": 13,
+    "league_type": 2,
+    "rank_type": 4,
+    "rank_num": 2,
+    "rating": 2800,
+    "realtime_rate": 40,
+    "rating_icon": "icon_pvp_rating_13",
+    "rating_name": "2957"
+  },
+  {
+    "id": 14,
+    "league_type": 2,
+    "rank_type": 4,
+    "rank_num": 3,
+    "rating": 2700,
+    "realtime_rate": 35,
+    "rating_icon": "icon_pvp_rating_14",
+    "rating_name": "2958"
+  },
+  {
+    "id": 15,
+    "league_type": 2,
+    "rank_type": 4,
+    "rank_num": 4,
+    "rating": 2600,
+    "realtime_rate": 30,
+    "rating_icon": "icon_pvp_rating_15",
+    "rating_name": "2959"
+  },
+  {
+    "id": 16,
+    "league_type": 2,
+    "rank_type": 4,
+    "rank_num": 5,
+    "rating": 2500,
+    "realtime_rate": 25,
+    "rating_icon": "icon_pvp_rating_16",
+    "rating_name": "2960"
+  },
+  {
+    "id": 17,
+    "league_type": 2,
+    "rank_type": 3,
+    "rank_num": 1,
+    "rating": 2400,
+    "realtime_rate": 20,
+    "rating_icon": "icon_pvp_rating_17",
+    "rating_name": "2961"
+  },
+  {
+    "id": 18,
+    "league_type": 2,
+    "rank_type": 3,
+    "rank_num": 2,
+    "rating": 2300,
+    "realtime_rate": 15,
+    "rating_icon": "icon_pvp_rating_18",
+    "rating_name": "2962"
+  },
+  {
+    "id": 19,
+    "league_type": 2,
+    "rank_type": 3,
+    "rank_num": 3,
+    "rating": 2200,
+    "realtime_rate": 10,
+    "rating_icon": "icon_pvp_rating_19",
+    "rating_name": "2963"
+  },
+  {
+    "id": 20,
+    "league_type": 2,
+    "rank_type": 3,
+    "rank_num": 4,
+    "rating": 2100,
+    "realtime_rate": 5,
+    "rating_icon": "icon_pvp_rating_20",
+    "rating_name": "2964"
+  },
+  {
+    "id": 21,
+    "league_type": 2,
+    "rank_type": 3,
+    "rank_num": 5,
+    "rating": 2000,
+    "realtime_rate": 0,
+    "rating_icon": "icon_pvp_rating_21",
+    "rating_name": "2965"
+  },
+  {
+    "id": 22,
+    "league_type": 1,
+    "rank_type": 6,
+    "rank_num": 1,
+    "rating": 3900,
+    "realtime_rate": 100,
+    "rating_icon": "icon_pvp_rating_02",
+    "rating_name": "2946"
+  },
+  {
+    "id": 23,
+    "league_type": 1,
+    "rank_type": 6,
+    "rank_num": 2,
+    "rating": 3800,
+    "realtime_rate": 100,
+    "rating_icon": "icon_pvp_rating_03",
+    "rating_name": "2947"
+  },
+  {
+    "id": 24,
+    "league_type": 1,
+    "rank_type": 6,
+    "rank_num": 3,
+    "rating": 3700,
+    "realtime_rate": 100,
+    "rating_icon": "icon_pvp_rating_04",
+    "rating_name": "2948"
+  },
+  {
+    "id": 25,
+    "league_type": 1,
+    "rank_type": 6,
+    "rank_num": 4,
+    "rating": 3600,
+    "realtime_rate": 100,
+    "rating_icon": "icon_pvp_rating_05",
+    "rating_name": "2949"
+  },
+  {
+    "id": 26,
+    "league_type": 1,
+    "rank_type": 6,
+    "rank_num": 5,
+    "rating": 3500,
+    "realtime_rate": 95,
+    "rating_icon": "icon_pvp_rating_06",
+    "rating_name": "2950"
+  },
+  {
+    "id": 27,
+    "league_type": 1,
+    "rank_type": 5,
+    "rank_num": 1,
+    "rating": 3400,
+    "realtime_rate": 95,
+    "rating_icon": "icon_pvp_rating_07",
+    "rating_name": "2951"
+  },
+  {
+    "id": 28,
+    "league_type": 1,
+    "rank_type": 5,
+    "rank_num": 2,
+    "rating": 3300,
+    "realtime_rate": 95,
+    "rating_icon": "icon_pvp_rating_08",
+    "rating_name": "2952"
+  },
+  {
+    "id": 29,
+    "league_type": 1,
+    "rank_type": 5,
+    "rank_num": 3,
+    "rating": 3200,
+    "realtime_rate": 90,
+    "rating_icon": "icon_pvp_rating_09",
+    "rating_name": "2953"
+  },
+  {
+    "id": 30,
+    "league_type": 1,
+    "rank_type": 5,
+    "rank_num": 4,
+    "rating": 3100,
+    "realtime_rate": 85,
+    "rating_icon": "icon_pvp_rating_10",
+    "rating_name": "2954"
+  },
+  {
+    "id": 31,
+    "league_type": 1,
+    "rank_type": 5,
+    "rank_num": 5,
+    "rating": 3000,
+    "realtime_rate": 80,
+    "rating_icon": "icon_pvp_rating_11",
+    "rating_name": "2955"
+  },
+  {
+    "id": 32,
+    "league_type": 1,
+    "rank_type": 4,
+    "rank_num": 1,
+    "rating": 2900,
+    "realtime_rate": 75,
+    "rating_icon": "icon_pvp_rating_12",
+    "rating_name": "2956"
+  },
+  {
+    "id": 33,
+    "league_type": 1,
+    "rank_type": 4,
+    "rank_num": 2,
+    "rating": 2800,
+    "realtime_rate": 70,
+    "rating_icon": "icon_pvp_rating_13",
+    "rating_name": "2957"
+  },
+  {
+    "id": 34,
+    "league_type": 1,
+    "rank_type": 4,
+    "rank_num": 3,
+    "rating": 2700,
+    "realtime_rate": 65,
+    "rating_icon": "icon_pvp_rating_14",
+    "rating_name": "2958"
+  },
+  {
+    "id": 35,
+    "league_type": 1,
+    "rank_type": 4,
+    "rank_num": 4,
+    "rating": 2600,
+    "realtime_rate": 60,
+    "rating_icon": "icon_pvp_rating_15",
+    "rating_name": "2959"
+  },
+  {
+    "id": 36,
+    "league_type": 1,
+    "rank_type": 4,
+    "rank_num": 5,
+    "rating": 2500,
+    "realtime_rate": 55,
+    "rating_icon": "icon_pvp_rating_16",
+    "rating_name": "2960"
+  },
+  {
+    "id": 37,
+    "league_type": 1,
+    "rank_type": 3,
+    "rank_num": 1,
+    "rating": 2400,
+    "realtime_rate": 50,
+    "rating_icon": "icon_pvp_rating_17",
+    "rating_name": "2961"
+  },
+  {
+    "id": 38,
+    "league_type": 1,
+    "rank_type": 3,
+    "rank_num": 2,
+    "rating": 2300,
+    "realtime_rate": 45,
+    "rating_icon": "icon_pvp_rating_18",
+    "rating_name": "2962"
+  },
+  {
+    "id": 39,
+    "league_type": 1,
+    "rank_type": 3,
+    "rank_num": 3,
+    "rating": 2200,
+    "realtime_rate": 40,
+    "rating_icon": "icon_pvp_rating_19",
+    "rating_name": "2963"
+  },
+  {
+    "id": 40,
+    "league_type": 1,
+    "rank_type": 3,
+    "rank_num": 4,
+    "rating": 2100,
+    "realtime_rate": 35,
+    "rating_icon": "icon_pvp_rating_20",
+    "rating_name": "2964"
+  },
+  {
+    "id": 41,
+    "league_type": 1,
+    "rank_type": 3,
+    "rank_num": 5,
+    "rating": 2000,
+    "realtime_rate": 30,
+    "rating_icon": "icon_pvp_rating_21",
+    "rating_name": "2965"
+  },
+  {
+    "id": 42,
+    "league_type": 1,
+    "rank_type": 2,
+    "rank_num": 1,
+    "rating": 1900,
+    "realtime_rate": 25,
+    "rating_icon": "icon_pvp_rating_22",
+    "rating_name": "2966"
+  },
+  {
+    "id": 43,
+    "league_type": 1,
+    "rank_type": 2,
+    "rank_num": 2,
+    "rating": 1800,
+    "realtime_rate": 20,
+    "rating_icon": "icon_pvp_rating_23",
+    "rating_name": "2967"
+  },
+  {
+    "id": 44,
+    "league_type": 1,
+    "rank_type": 2,
+    "rank_num": 3,
+    "rating": 1700,
+    "realtime_rate": 15,
+    "rating_icon": "icon_pvp_rating_24",
+    "rating_name": "2968"
+  },
+  {
+    "id": 45,
+    "league_type": 1,
+    "rank_type": 2,
+    "rank_num": 4,
+    "rating": 1600,
+    "realtime_rate": 10,
+    "rating_icon": "icon_pvp_rating_25",
+    "rating_name": "2969"
+  },
+  {
+    "id": 46,
+    "league_type": 1,
+    "rank_type": 2,
+    "rank_num": 5,
+    "rating": 1500,
+    "realtime_rate": 5,
+    "rating_icon": "icon_pvp_rating_26",
+    "rating_name": "2970"
+  },
+  {
+    "id": 47,
+    "league_type": 1,
+    "rank_type": 1,
+    "rank_num": 1,
+    "rating": 1400,
+    "realtime_rate": 0,
+    "rating_icon": "icon_pvp_rating_27",
+    "rating_name": "2971"
+  },
+  {
+    "id": 48,
+    "league_type": 1,
+    "rank_type": 1,
+    "rank_num": 2,
+    "rating": 1300,
+    "realtime_rate": 0,
+    "rating_icon": "icon_pvp_rating_28",
+    "rating_name": "2972"
+  },
+  {
+    "id": 49,
+    "league_type": 1,
+    "rank_type": 1,
+    "rank_num": 3,
+    "rating": 1200,
+    "realtime_rate": 0,
+    "rating_icon": "icon_pvp_rating_29",
+    "rating_name": "2973"
+  },
+  {
+    "id": 50,
+    "league_type": 1,
+    "rank_type": 1,
+    "rank_num": 4,
+    "rating": 1100,
+    "realtime_rate": 0,
+    "rating_icon": "icon_pvp_rating_30",
+    "rating_name": "2974"
+  },
+  {
+    "id": 51,
+    "league_type": 1,
+    "rank_type": 1,
+    "rank_num": 5,
+    "rating": 1000,
+    "realtime_rate": 0,
+    "rating_icon": "icon_pvp_rating_31",
+    "rating_name": "2975"
+  }
+]

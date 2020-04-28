@@ -1,0 +1,436 @@
+[
+  {
+    "id": 500853,
+    "passive_type": "contents",
+    "passive_id": 10010,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500856,
+    "passive_type": "contents",
+    "passive_id": 10010,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500859,
+    "passive_type": "contents",
+    "passive_id": 10010,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500862,
+    "passive_type": "skill",
+    "passive_id": 510001,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500865,
+    "passive_type": "skill",
+    "passive_id": 510001,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500868,
+    "passive_type": "skill",
+    "passive_id": 510001,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500871,
+    "passive_type": "skill",
+    "passive_id": 510004,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500874,
+    "passive_type": "skill",
+    "passive_id": 510004,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500877,
+    "passive_type": "skill",
+    "passive_id": 510004,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500880,
+    "passive_type": "contents",
+    "passive_id": 10001,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500883,
+    "passive_type": "contents",
+    "passive_id": 10001,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500886,
+    "passive_type": "contents",
+    "passive_id": 10001,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500889,
+    "passive_type": "skill",
+    "passive_id": 510002,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500892,
+    "passive_type": "skill",
+    "passive_id": 510002,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500895,
+    "passive_type": "skill",
+    "passive_id": 510002,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500898,
+    "passive_type": "skill",
+    "passive_id": 510005,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500901,
+    "passive_type": "skill",
+    "passive_id": 510005,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500904,
+    "passive_type": "skill",
+    "passive_id": 510005,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500907,
+    "passive_type": "skill",
+    "passive_id": 510013,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500910,
+    "passive_type": "skill",
+    "passive_id": 510013,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500913,
+    "passive_type": "skill",
+    "passive_id": 510013,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500916,
+    "passive_type": "skill",
+    "passive_id": 510003,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500919,
+    "passive_type": "skill",
+    "passive_id": 510003,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500922,
+    "passive_type": "skill",
+    "passive_id": 510003,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500925,
+    "passive_type": "skill",
+    "passive_id": 510006,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500928,
+    "passive_type": "skill",
+    "passive_id": 510006,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500931,
+    "passive_type": "skill",
+    "passive_id": 510006,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500934,
+    "passive_type": "contents",
+    "passive_id": 10020,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500937,
+    "passive_type": "contents",
+    "passive_id": 10020,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500940,
+    "passive_type": "contents",
+    "passive_id": 10020,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500943,
+    "passive_type": "skill",
+    "passive_id": 510007,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500946,
+    "passive_type": "skill",
+    "passive_id": 510007,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500949,
+    "passive_type": "skill",
+    "passive_id": 510007,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500952,
+    "passive_type": "skill",
+    "passive_id": 510015,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500955,
+    "passive_type": "skill",
+    "passive_id": 510015,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500958,
+    "passive_type": "skill",
+    "passive_id": 510015,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500961,
+    "passive_type": "skill",
+    "passive_id": 510014,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500964,
+    "passive_type": "skill",
+    "passive_id": 510014,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500967,
+    "passive_type": "skill",
+    "passive_id": 510014,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500970,
+    "passive_type": "skill",
+    "passive_id": 510009,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500973,
+    "passive_type": "skill",
+    "passive_id": 510009,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500976,
+    "passive_type": "skill",
+    "passive_id": 510009,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500979,
+    "passive_type": "skill",
+    "passive_id": 510010,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500982,
+    "passive_type": "skill",
+    "passive_id": 510010,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500985,
+    "passive_type": "skill",
+    "passive_id": 510010,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500988,
+    "passive_type": "skill",
+    "passive_id": 510101,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500991,
+    "passive_type": "skill",
+    "passive_id": 510101,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500994,
+    "passive_type": "skill",
+    "passive_id": 510101,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 500997,
+    "passive_type": "skill",
+    "passive_id": 510017,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501000,
+    "passive_type": "skill",
+    "passive_id": 510017,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501003,
+    "passive_type": "skill",
+    "passive_id": 510017,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501006,
+    "passive_type": "skill",
+    "passive_id": 510012,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501009,
+    "passive_type": "skill",
+    "passive_id": 510012,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501012,
+    "passive_type": "skill",
+    "passive_id": 510012,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501015,
+    "passive_type": "skill",
+    "passive_id": 611310,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501016,
+    "passive_type": "contents",
+    "passive_id": 14001,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501017,
+    "passive_type": "contents",
+    "passive_id": 14010,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501020,
+    "passive_type": "contents",
+    "passive_id": 15001,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501023,
+    "passive_type": "contents",
+    "passive_id": 15011,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501026,
+    "passive_type": "contents",
+    "passive_id": 15021,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501027,
+    "passive_type": "contents",
+    "passive_id": 15031,
+    "use_count": 1,
+    "use_time_min": 0
+  },
+  {
+    "id": 501028,
+    "passive_type": "contents",
+    "passive_id": 15041,
+    "use_count": 1,
+    "use_time_min": 0
+  }
+]

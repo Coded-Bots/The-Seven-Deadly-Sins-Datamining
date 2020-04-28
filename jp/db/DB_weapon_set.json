@@ -1,0 +1,178 @@
+[
+  {
+    "set_id": 1,
+    "tab_on": 1,
+    "display_id": 1,
+    "set_priority": 1,
+    "set_icon": "set_weapon_icon_attack",
+    "set_name": "9093",
+    "set_desc": "9077",
+    "set_count": 4,
+    "set_passive_id": 200100
+  },
+  {
+    "set_id": 2,
+    "tab_on": 1,
+    "display_id": 3,
+    "set_priority": 3,
+    "set_icon": "set_weapon_icon_life",
+    "set_name": "9094",
+    "set_desc": "9078",
+    "set_count": 4,
+    "set_passive_id": 200300
+  },
+  {
+    "set_id": 3,
+    "tab_on": 1,
+    "display_id": 4,
+    "set_priority": 5,
+    "set_icon": "set_weapon_icon_chance",
+    "set_name": "9095",
+    "set_desc": "9079",
+    "set_count": 4,
+    "set_passive_id": 200700
+  },
+  {
+    "set_id": 4,
+    "tab_on": 0,
+    "display_id": 0,
+    "set_priority": 10,
+    "set_icon": "set_weapon_icon_endure",
+    "set_name": "9096",
+    "set_desc": "9080",
+    "set_count": 2,
+    "set_passive_id": 200500
+  },
+  {
+    "set_id": 5,
+    "tab_on": 0,
+    "display_id": 0,
+    "set_priority": 11,
+    "set_icon": "set_weapon_icon_penetration",
+    "set_name": "9097",
+    "set_desc": "9081",
+    "set_count": 4,
+    "set_passive_id": 200400
+  },
+  {
+    "set_id": 6,
+    "tab_on": 1,
+    "display_id": 5,
+    "set_priority": 6,
+    "set_icon": "set_weapon_icon_resist",
+    "set_name": "9098",
+    "set_desc": "9082",
+    "set_count": 2,
+    "set_passive_id": 200600
+  },
+  {
+    "set_id": 7,
+    "tab_on": 1,
+    "display_id": 2,
+    "set_priority": 2,
+    "set_icon": "set_weapon_icon_defence",
+    "set_name": "9099",
+    "set_desc": "9083",
+    "set_count": 2,
+    "set_passive_id": 200200
+  },
+  {
+    "set_id": 8,
+    "tab_on": 1,
+    "display_id": 7,
+    "set_priority": 4,
+    "set_icon": "set_weapon_icon_chance_dmg",
+    "set_name": "9100",
+    "set_desc": "9084",
+    "set_count": 2,
+    "set_passive_id": 200800
+  },
+  {
+    "set_id": 9,
+    "tab_on": 0,
+    "display_id": 0,
+    "set_priority": 15,
+    "set_icon": "set_weapon_icon_regenerate",
+    "set_name": "9101",
+    "set_desc": "9085",
+    "set_count": 4,
+    "set_passive_id": 201700
+  },
+  {
+    "set_id": 10,
+    "tab_on": 1,
+    "display_id": 6,
+    "set_priority": 7,
+    "set_icon": "set_weapon_icon_recovery",
+    "set_name": "9102",
+    "set_desc": "9086",
+    "set_count": 2,
+    "set_passive_id": 201000
+  },
+  {
+    "set_id": 11,
+    "tab_on": 1,
+    "display_id": 8,
+    "set_priority": 8,
+    "set_icon": "set_weapon_icon_chance_defence",
+    "set_name": "9103",
+    "set_desc": "9087",
+    "set_count": 2,
+    "set_passive_id": 201100
+  },
+  {
+    "set_id": 12,
+    "tab_on": 1,
+    "display_id": 9,
+    "set_priority": 9,
+    "set_icon": "set_weapon_icon_life_steal",
+    "set_name": "9104",
+    "set_desc": "9088",
+    "set_count": 2,
+    "set_passive_id": 200900
+  },
+  {
+    "set_id": 13,
+    "tab_on": 0,
+    "display_id": 0,
+    "set_priority": 12,
+    "set_icon": "set_weapon_icon_alchemi",
+    "set_name": "9105",
+    "set_desc": "9089",
+    "set_count": 2,
+    "set_passive_id": 201200
+  },
+  {
+    "set_id": 14,
+    "tab_on": 0,
+    "display_id": 0,
+    "set_priority": 13,
+    "set_icon": "set_weapon_icon_training",
+    "set_name": "9106",
+    "set_desc": "9090",
+    "set_count": 2,
+    "set_passive_id": 201300
+  },
+  {
+    "set_id": 15,
+    "tab_on": 0,
+    "display_id": 0,
+    "set_priority": 14,
+    "set_icon": "set_weapon_icon_luck",
+    "set_name": "9107",
+    "set_desc": "9091",
+    "set_count": 2,
+    "set_passive_id": 201400
+  },
+  {
+    "set_id": 50,
+    "tab_on": 0,
+    "display_id": 0,
+    "set_priority": 0,
+    "set_icon": "set_weapon_icon_event",
+    "set_name": "9108",
+    "set_desc": "9092",
+    "set_count": 0,
+    "set_passive_id": 0
+  }
+]

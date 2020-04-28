@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "gotcha_group": 2001,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 66,
+    "rating_4": 30,
+    "rating_5": 4,
+    "rating_6": 0
+  },
+  {
+    "id": 102,
+    "gotcha_group": 3002,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 80,
+    "rating_4": 18,
+    "rating_5": 2,
+    "rating_6": 0
+  },
+  {
+    "id": 103,
+    "gotcha_group": 3003,
+    "rating_1": 0,
+    "rating_2": 70,
+    "rating_3": 26,
+    "rating_4": 4,
+    "rating_5": 0,
+    "rating_6": 0
+  },
+  {
+    "id": 104,
+    "gotcha_group": 3004,
+    "rating_1": 60,
+    "rating_2": 32,
+    "rating_3": 8,
+    "rating_4": 0,
+    "rating_5": 0,
+    "rating_6": 0
+  }
+]
