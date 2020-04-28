@@ -1,0 +1,104 @@
+{
+    "world2": {
+        "world_info": [
+            {
+                "ip": "gs-nanatsunotaizai-real.netmarble.com", 
+                "region": "", 
+                "world_id": "", 
+                "name": "REAL", 
+                "port": 23071
+            }
+        ]
+    }, 
+    "redirect": {
+        "android": {
+            "1.1.37": "submit", 
+            "1.1.36": "submit"
+        }, 
+        "ios": {
+            "1.1.37": "submit", 
+            "1.1.36": "submit"
+        }
+    }, 
+    "patch": {
+        "android": {
+            "timeout_sec": 15, 
+            "relative_sub": "_c2uhic4fdzgkd4d", 
+            "download_retry_times": 5, 
+            "version": "1702"
+        }, 
+        "ios": {
+            "timeout_sec": 15, 
+            "relative_sub": "_c2uhic4fdzgkd4d", 
+            "download_retry_times": 5, 
+            "version": "1702"
+        }
+    }, 
+    "version": {
+        "android": {
+            "forced_update": "1.1.34", 
+            "max_allows": "1.1.35", 
+            "recommended_update": ""
+        }, 
+        "ios": {
+            "forced_update": "1.1.34", 
+            "max_allows": "1.1.35", 
+            "recommended_update": ""
+        }
+    }, 
+    "world": {
+        "world_info": [
+            {
+                "port": 23071, 
+                "ip": "gs-nanatsunotaizai-real.netmarble.com", 
+                "type": "live", 
+                "id": 1001, 
+                "name": "REAL"
+            }
+        ]
+    }, 
+    "contents": {
+        "android": {
+            "on_elizabeth_touch_interactive": false, 
+            "on_cooling_off": false, 
+            "fake_ad_location": 0, 
+            "check_security": true, 
+            "use_breadcrumb": true, 
+            "on_review": true, 
+            "update_due_date": "2019-06-19 05:00:00 GMT", 
+            "is_realzone": true, 
+            "on_kochava": true, 
+            "use_coupon": true, 
+            "on_fake_ad": false, 
+            "on_tune": true, 
+            "on_induce_connect_channel": true, 
+            "use_crash_report": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "on_live_streaming_platform": true, 
+            "on_open_probability": true, 
+            "on_secret_mode": false
+        }, 
+        "ios": {
+            "on_elizabeth_touch_interactive": false, 
+            "on_cooling_off": false, 
+            "fake_ad_location": 0, 
+            "check_security": true, 
+            "use_breadcrumb": true, 
+            "on_review": true, 
+            "update_due_date": "2019-06-19 05:00:00 GMT", 
+            "is_realzone": true, 
+            "on_kochava": true, 
+            "use_coupon": false, 
+            "on_fake_ad": false, 
+            "on_tune": true, 
+            "on_induce_connect_channel": true, 
+            "use_crash_report": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "on_live_streaming_platform": true, 
+            "on_open_probability": true, 
+            "on_secret_mode": false
+        }
+    }
+}
