@@ -386,7 +386,7 @@
   {
     "id": 1035002,
     "hero_list": 23,
-    "hero_display": 0,
+    "hero_display": 1,
     "open_start_date": "",
     "hero_group": 31,
     "npc_type": 1,
@@ -3682,7 +3682,7 @@
   {
     "id": 1645001,
     "hero_list": 221,
-    "hero_display": 0,
+    "hero_display": 1,
     "open_start_date": "",
     "hero_group": 60,
     "npc_type": 0,
@@ -3714,7 +3714,7 @@
   {
     "id": 1654001,
     "hero_list": 222,
-    "hero_display": 0,
+    "hero_display": 1,
     "open_start_date": "",
     "hero_group": 61,
     "npc_type": 0,

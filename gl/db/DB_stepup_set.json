@@ -43,7 +43,7 @@
     "bonus_reward_id_3": 0,
     "bonus_reward_count_3": 0,
     "reward_mileage_value": 10,
-    "stepup_add_event_icon_name": "",
+    "stepup_add_event_icon_name": "stepup_dia_icon",
     "stepup_add_event_name": "",
     "step_desc": "UI_stepup_gacha_gb_info2"
   },
@@ -163,7 +163,7 @@
     "bonus_reward_id_3": 0,
     "bonus_reward_count_3": 0,
     "reward_mileage_value": 10,
-    "stepup_add_event_icon_name": "",
+    "stepup_add_event_icon_name": "stepup_dia_icon",
     "stepup_add_event_name": "",
     "step_desc": "UI_stepup_gacha_gb_info2"
   },
@@ -283,7 +283,7 @@
     "bonus_reward_id_3": 0,
     "bonus_reward_count_3": 0,
     "reward_mileage_value": 10,
-    "stepup_add_event_icon_name": "",
+    "stepup_add_event_icon_name": "stepup_dia_icon",
     "stepup_add_event_name": "",
     "step_desc": "UI_stepup_gacha_gb_info2"
   },
@@ -403,7 +403,7 @@
     "bonus_reward_id_3": 0,
     "bonus_reward_count_3": 0,
     "reward_mileage_value": 10,
-    "stepup_add_event_icon_name": "",
+    "stepup_add_event_icon_name": "stepup_dia_icon",
     "stepup_add_event_name": "",
     "step_desc": "UI_stepup_gacha_gb_info2"
   },

@@ -183,5 +183,15 @@
     "id": 39,
     "hero_group": 57,
     "share_condition_count": 1
+  },
+  {
+    "id": 43,
+    "hero_group": 60,
+    "share_condition_count": 1
+  },
+  {
+    "id": 44,
+    "hero_group": 61,
+    "share_condition_count": 1
   }
 ]

@@ -2754,14 +2754,14 @@
     "id": 4099,
     "gamble_group": 1004,
     "skin_id": 337001,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
     "id": 4100,
     "gamble_group": 1004,
     "skin_id": 338001,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
@@ -4154,14 +4154,14 @@
     "id": 6099,
     "gamble_group": 1006,
     "skin_id": 337001,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
     "id": 6100,
     "gamble_group": 1006,
     "skin_id": 338001,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
