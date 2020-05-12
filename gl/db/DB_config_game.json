@@ -4378,5 +4378,55 @@
     "value_int_2": 0,
     "value_float_1": 0,
     "value_float_2": 0
+  },
+  {
+    "id": 494,
+    "contents": "number_to_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.01,
+    "value_float_2": 0
+  },
+  {
+    "id": 495,
+    "contents": "per_to_number",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 100,
+    "value_float_2": 0
+  },
+  {
+    "id": 496,
+    "contents": "weapon_server_value_to_client_value",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.1,
+    "value_float_2": 0
+  },
+  {
+    "id": 497,
+    "contents": "number_one_hundred",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 498,
+    "contents": "number_zero",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
   }
 ]

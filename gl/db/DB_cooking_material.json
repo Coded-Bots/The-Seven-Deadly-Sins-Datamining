@@ -84,6 +84,20 @@
     "recipe_exp": 0
   },
   {
+    "id": 7,
+    "category": "doenjang",
+    "category_string": "DB_item_name_cookingmainmaterial_0019",
+    "sub_category": 7,
+    "sub_category_type": 0,
+    "type": 1,
+    "quest_type": 0,
+    "material_id": 502019,
+    "renderer_icon": "FoodMainMaterialRenderer_19",
+    "object_type": 5,
+    "recipe_link": 0,
+    "recipe_exp": 0
+  },
+  {
     "id": 8,
     "category": "sub_vegetable",
     "category_string": "DB_item_name_cookingaddmaterial_0001",
@@ -205,6 +219,34 @@
     "quest_type": 0,
     "material_id": 503027,
     "renderer_icon": "FoodSubMaterialRenderer_4",
+    "object_type": 0,
+    "recipe_link": 0,
+    "recipe_exp": 0
+  },
+  {
+    "id": 17,
+    "category": "sub_tofu",
+    "category_string": "DB_item_name_cookingaddmaterial_0011",
+    "sub_category": 10,
+    "sub_category_type": 0,
+    "type": 2,
+    "quest_type": 0,
+    "material_id": 503028,
+    "renderer_icon": "FoodSubMaterialRenderer_11",
+    "object_type": 0,
+    "recipe_link": 0,
+    "recipe_exp": 0
+  },
+  {
+    "id": 19,
+    "category": "sub_fishcake",
+    "category_string": "DB_item_name_cookingaddmaterial_0013",
+    "sub_category": 12,
+    "sub_category_type": 0,
+    "type": 2,
+    "quest_type": 0,
+    "material_id": 503030,
+    "renderer_icon": "FoodSubMaterialRenderer_13",
     "object_type": 0,
     "recipe_link": 0,
     "recipe_exp": 0
@@ -457,6 +499,20 @@
     "quest_type": 0,
     "material_id": 503516,
     "renderer_icon": "FoodMaterialRenderer_19",
+    "object_type": 0,
+    "recipe_link": 0,
+    "recipe_exp": 0
+  },
+  {
+    "id": 38,
+    "category": "add_vegetable_6",
+    "category_string": "DB_item_name_cookingmaterial_0020",
+    "sub_category": 19,
+    "sub_category_type": 0,
+    "type": 3,
+    "quest_type": 0,
+    "material_id": 503519,
+    "renderer_icon": "FoodMaterialRenderer_20",
     "object_type": 0,
     "recipe_link": 0,
     "recipe_exp": 0
@@ -1227,20 +1283,6 @@
     "quest_type": 0,
     "material_id": 501015,
     "renderer_icon": "FoodMiniGameRenderer_255",
-    "object_type": 0,
-    "recipe_link": 0,
-    "recipe_exp": 0
-  },
-  {
-    "id": 156,
-    "category": "",
-    "category_string": "",
-    "sub_category": 0,
-    "sub_category_type": 0,
-    "type": 6,
-    "quest_type": 0,
-    "material_id": 501016,
-    "renderer_icon": "FoodMiniGameRenderer_256",
     "object_type": 0,
     "recipe_link": 0,
     "recipe_exp": 0

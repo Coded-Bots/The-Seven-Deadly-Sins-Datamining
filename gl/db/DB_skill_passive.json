@@ -8202,7 +8202,7 @@
   {
     "id": 611108,
     "name": "DB_skill_passive_name_610111",
-    "explain": "DB_skill_passive_desc_610511",
+    "explain": "DB_skill_passive_desc_611108",
     "icon": "icon_monster_passive_32",
     "first_stack": 1,
     "max_stack": 1,
@@ -8222,7 +8222,7 @@
   {
     "id": 611109,
     "name": "DB_skill_passive_name_610112",
-    "explain": "DB_skill_passive_desc_610512",
+    "explain": "DB_skill_passive_desc_611109",
     "icon": "icon_monster_passive_33",
     "first_stack": 1,
     "max_stack": 1,
@@ -8242,7 +8242,7 @@
   {
     "id": 611110,
     "name": "DB_skill_passive_name_610111",
-    "explain": "DB_skill_passive_desc_610521",
+    "explain": "DB_skill_passive_desc_611110",
     "icon": "icon_monster_passive_32",
     "first_stack": 1,
     "max_stack": 1,
@@ -8262,7 +8262,7 @@
   {
     "id": 611111,
     "name": "DB_skill_passive_name_610112",
-    "explain": "DB_skill_passive_desc_610522",
+    "explain": "DB_skill_passive_desc_611111",
     "icon": "icon_monster_passive_33",
     "first_stack": 1,
     "max_stack": 1,

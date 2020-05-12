@@ -4,31 +4,31 @@
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 1,
-    "item_id": 910700,
-    "item_count": 20
+    "item_id": 310601,
+    "item_count": 1
   },
   {
     "id": 2,
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 2,
-    "item_id": 542405,
-    "item_count": 1
+    "item_id": 930001,
+    "item_count": 3
   },
   {
     "id": 3,
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 3,
-    "item_id": 500012,
-    "item_count": 200000
+    "item_id": 4445002,
+    "item_count": 1
   },
   {
     "id": 4,
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 4,
-    "item_id": 542206,
+    "item_id": 500002,
     "item_count": 1
   },
   {
@@ -36,15 +36,15 @@
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 5,
-    "item_id": 542404,
-    "item_count": 5
+    "item_id": 854702,
+    "item_count": 1
   },
   {
     "id": 6,
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 6,
-    "item_id": 541405,
+    "item_id": 541404,
     "item_count": 5
   },
   {
@@ -52,7 +52,7 @@
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 7,
-    "item_id": 542206,
+    "item_id": 3310903,
     "item_count": 1
   },
   {
@@ -61,14 +61,14 @@
     "reward_type": "normal",
     "day": 8,
     "item_id": 542404,
-    "item_count": 5
+    "item_count": 3
   },
   {
     "id": 9,
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 9,
-    "item_id": 542206,
+    "item_id": 4445003,
     "item_count": 1
   },
   {
@@ -76,15 +76,15 @@
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 10,
-    "item_id": 500012,
-    "item_count": 200000
+    "item_id": 930001,
+    "item_count": 5
   },
   {
     "id": 11,
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 11,
-    "item_id": 510105,
+    "item_id": 854703,
     "item_count": 1
   },
   {
@@ -92,7 +92,7 @@
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 12,
-    "item_id": 941006,
+    "item_id": 500006,
     "item_count": 1
   },
   {
@@ -100,15 +100,15 @@
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 13,
-    "item_id": 941012,
-    "item_count": 1
+    "item_id": 500012,
+    "item_count": 100000
   },
   {
     "id": 14,
     "event_sub_index": 1000,
     "reward_type": "normal",
     "day": 14,
-    "item_id": 542405,
+    "item_id": 541406,
     "item_count": 1
   },
   {

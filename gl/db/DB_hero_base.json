@@ -2850,7 +2850,7 @@
   {
     "id": 1464001,
     "hero_list": 198,
-    "hero_display": 0,
+    "hero_display": 1,
     "open_start_date": "",
     "hero_group": 41,
     "npc_type": 0,
@@ -2882,7 +2882,7 @@
   {
     "id": 1465001,
     "hero_list": 199,
-    "hero_display": 0,
+    "hero_display": 1,
     "open_start_date": "",
     "hero_group": 41,
     "npc_type": 0,
@@ -2914,7 +2914,7 @@
   {
     "id": 1435001,
     "hero_list": 200,
-    "hero_display": 0,
+    "hero_display": 1,
     "open_start_date": "",
     "hero_group": 42,
     "npc_type": 0,
@@ -2946,7 +2946,7 @@
   {
     "id": 1445001,
     "hero_list": 201,
-    "hero_display": 0,
+    "hero_display": 1,
     "open_start_date": "",
     "hero_group": 43,
     "npc_type": 0,

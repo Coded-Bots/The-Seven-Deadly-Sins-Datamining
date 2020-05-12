@@ -44,6 +44,28 @@
     "end_content": "DB_video_end_content_102"
   },
   {
+    "id": 105,
+    "sub_path": "",
+    "name": "event_9201_opening_190627",
+    "screen": "Portrait",
+    "end_Prefab": "ChapterInfo_UIPanel",
+    "start_title": "DB_video_start_title_105",
+    "start_content": "DB_video_start_content_01",
+    "end_title": "",
+    "end_content": ""
+  },
+  {
+    "id": 106,
+    "sub_path": "",
+    "name": "event_9201_epilogue_160628",
+    "screen": "Portrait",
+    "end_Prefab": "ChapterInfo_UIPanel",
+    "start_title": "DB_video_start_title_105",
+    "start_content": "DB_video_end_content_01",
+    "end_title": "",
+    "end_content": ""
+  },
+  {
     "id": 107,
     "sub_path": "",
     "name": "chapter8_update_video",

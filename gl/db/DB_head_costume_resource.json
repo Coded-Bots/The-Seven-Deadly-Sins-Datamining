@@ -88,6 +88,14 @@
     "error_check_head_resource": "hero_meliodas_head_0504"
   },
   {
+    "id": 4004013,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0032",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0032"
+  },
+  {
     "id": 4004004,
     "head_attach_dummy": 0,
     "character_base": "meliodas",
@@ -182,6 +190,14 @@
     "resource_head": "hero_meliodas_head_0504",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_meliodas_head_0504"
+  },
+  {
+    "id": 4005013,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0032",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0032"
   },
   {
     "id": 4005004,

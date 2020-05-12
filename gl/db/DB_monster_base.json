@@ -5286,7 +5286,7 @@
     "hp_steal_per": 5,
     "atk_add": 60,
     "def_add": 30,
-    "hp_add": 650,
+    "hp_add": 700,
     "create_special_score": 5,
     "monster_drop_id": 0,
     "monster_group_id": 2260131

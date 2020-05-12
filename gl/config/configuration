@@ -78,24 +78,24 @@
             "timeout_sec": 15, 
             "relative_sub": "_dptmzkshfm3vocl", 
             "download_retry_times": 5, 
-            "version": "80"
+            "version": "86"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_dptmzkshfm3vocl", 
             "download_retry_times": 5, 
-            "version": "80"
+            "version": "86"
         }
     }, 
     "version": {
         "android": {
-            "forced_update": "1.0.2", 
-            "max_allows": "1.0.3", 
+            "forced_update": "1.0.8", 
+            "max_allows": "1.0.9", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.0.2", 
-            "max_allows": "1.0.3", 
+            "forced_update": "1.0.8", 
+            "max_allows": "1.0.9", 
             "recommended_update": ""
         }
     }, 

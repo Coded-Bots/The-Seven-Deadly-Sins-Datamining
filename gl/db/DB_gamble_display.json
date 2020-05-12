@@ -512,11 +512,11 @@
   {
     "id": 1012,
     "gamble_type": 2,
-    "gamble_pickup": 0,
+    "gamble_pickup": 1,
     "probability_check": 0,
     "gamble_control": 2,
     "gamble_group": 5012,
-    "gamble_background": 5011,
+    "gamble_background": 5012,
     "gamble_limit_count": 0,
     "fail_bonus_check": 0,
     "hero_gacha_fail_count": 0,

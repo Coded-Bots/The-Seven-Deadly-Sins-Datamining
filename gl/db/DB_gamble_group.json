@@ -2677,7 +2677,7 @@
     "id": 4088,
     "gamble_group": 1004,
     "skin_id": 312003,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
@@ -2873,7 +2873,7 @@
     "id": 5012,
     "gamble_group": 1005,
     "skin_id": 300211,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
@@ -4077,7 +4077,7 @@
     "id": 6088,
     "gamble_group": 1006,
     "skin_id": 312003,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
