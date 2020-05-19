@@ -2327,6 +2327,19 @@
     "content_link_check": 0
   },
   {
+    "id": 60013,
+    "quicklink_name": "",
+    "quicklink_icon": "",
+    "content_type": "town",
+    "region": 6,
+    "area_id": 600601,
+    "content_menu": "gift_talk",
+    "matching_area_end_id": 0,
+    "npc_id": 884,
+    "weapon_item_id": 0,
+    "content_link_check": 0
+  },
+  {
     "id": 60014,
     "quicklink_name": "",
     "quicklink_icon": "",

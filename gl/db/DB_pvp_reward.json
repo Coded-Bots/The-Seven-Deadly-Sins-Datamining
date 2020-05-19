@@ -10,7 +10,7 @@
     "reward_count_1": 6000,
     "reward_id_2": 500012,
     "reward_count_2": 2200000,
-    "reward_season_point": 1000
+    "reward_season_point": 0
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "reward_count_1": 5500,
     "reward_id_2": 500012,
     "reward_count_2": 2000000,
-    "reward_season_point": 750
+    "reward_season_point": 0
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "reward_count_1": 5000,
     "reward_id_2": 500012,
     "reward_count_2": 1800000,
-    "reward_season_point": 500
+    "reward_season_point": 0
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "reward_count_1": 4500,
     "reward_id_2": 500012,
     "reward_count_2": 1600000,
-    "reward_season_point": 300
+    "reward_season_point": 0
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
     "reward_count_1": 4000,
     "reward_id_2": 500012,
     "reward_count_2": 1400000,
-    "reward_season_point": 200
+    "reward_season_point": 0
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
     "reward_count_1": 3500,
     "reward_id_2": 500012,
     "reward_count_2": 1200000,
-    "reward_season_point": 100
+    "reward_season_point": 0
   },
   {
     "id": 7,

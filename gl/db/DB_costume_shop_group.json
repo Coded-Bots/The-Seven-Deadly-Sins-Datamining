@@ -108,5 +108,15 @@
     "banner_image": "costumeshop_banner_02",
     "costume_story_id": 3,
     "costume_resale": 1
+  },
+  {
+    "id": 12,
+    "menu_type": "event_costume",
+    "menu_title": "UI_shop_costume_sub_menu_03",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 12,
+    "banner_image": "costumeshop_banner_01_gb_liliah",
+    "costume_story_id": 3,
+    "costume_resale": 1
   }
 ]

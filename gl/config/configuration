@@ -78,13 +78,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_dptmzkshfm3vocl", 
             "download_retry_times": 5, 
-            "version": "86"
+            "version": "91"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_dptmzkshfm3vocl", 
             "download_retry_times": 5, 
-            "version": "86"
+            "version": "91"
         }
     }, 
     "version": {

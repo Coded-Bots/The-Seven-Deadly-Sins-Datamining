@@ -33232,7 +33232,7 @@
     "hp_steal_per": 0,
     "auto_sell_item_id": 500011,
     "auto_sell_item_count": 20,
-    "event_reward_index": 9201,
+    "event_reward_index": 0,
     "set_costume_id": 0
   },
   {
@@ -50116,7 +50116,7 @@
     "hp_steal_per": 2,
     "auto_sell_item_id": 500011,
     "auto_sell_item_count": 20,
-    "event_reward_index": 9201,
+    "event_reward_index": 0,
     "set_costume_id": 0
   },
   {

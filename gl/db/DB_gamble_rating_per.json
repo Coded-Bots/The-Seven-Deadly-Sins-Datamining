@@ -178,5 +178,32 @@
     "rating_3": 60,
     "rating_4": 37,
     "rating_5": 3
+  },
+  {
+    "id": 1014,
+    "gamble_group": 5014,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 1015,
+    "gamble_group": 5015,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 1016,
+    "gamble_group": 5016,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
   }
 ]

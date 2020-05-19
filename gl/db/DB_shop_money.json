@@ -874,6 +874,25 @@
     "icon": ""
   },
   {
+    "id": 6083,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 30000,
+    "price_jpy": 2940,
+    "price_usd": 23.99,
+    "netmarble_item_id": "7sins_gb_reserve_24tier_010",
+    "goods_name": "DB_package_name_costume_6083",
+    "goods_explain": "DB_package_desc_costume_6083",
+    "icon": ""
+  },
+  {
     "id": 6103,
     "type": "package",
     "shop_type": "shop_package",
