@@ -28,15 +28,5 @@
     "repulse_drop_item_id": 543103,
     "repulse_drop_item_value": 2,
     "repulse_drop_item_box": 1
-  },
-  {
-    "boss_id": 2260131,
-    "team_index": 104,
-    "change_hell_team_index": 0,
-    "event_type": 0,
-    "event_sub_index": 0,
-    "repulse_drop_item_id": 910633,
-    "repulse_drop_item_value": 2,
-    "repulse_drop_item_box": 1
   }
 ]

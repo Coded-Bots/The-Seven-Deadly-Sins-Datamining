@@ -3564,7 +3564,7 @@
     "contents": "evolution_break_end",
     "value_string_1": "",
     "value_string_2": "",
-    "value_int_1": 3,
+    "value_int_1": 4,
     "value_int_2": 0,
     "value_float_1": 0,
     "value_float_2": 0
@@ -3844,8 +3844,8 @@
     "contents": "ladder_start_cost_id",
     "value_string_1": "",
     "value_string_2": "",
-    "value_int_1": 910702,
-    "value_int_2": 10,
+    "value_int_1": 990105,
+    "value_int_2": 5,
     "value_float_1": 0,
     "value_float_2": 0
   },

@@ -3,35 +3,35 @@
     "id": 1,
     "type": 2,
     "facial_type_name": "story_agree",
-    "facial_name_local": "14684",
+    "facial_name_local": "14783",
     "sound_id": 0
   },
   {
     "id": 2,
     "type": 2,
     "facial_type_name": "story_deny",
-    "facial_name_local": "14686",
+    "facial_name_local": "14785",
     "sound_id": 0
   },
   {
     "id": 3,
     "type": 2,
     "facial_type_name": "story_sad",
-    "facial_name_local": "14688",
+    "facial_name_local": "14787",
     "sound_id": 0
   },
   {
     "id": 4,
     "type": 2,
     "facial_type_name": "story_angry",
-    "facial_name_local": "14685",
+    "facial_name_local": "14784",
     "sound_id": 0
   },
   {
     "id": 5,
     "type": 2,
     "facial_type_name": "story_embarrassed",
-    "facial_name_local": "14687",
+    "facial_name_local": "14786",
     "sound_id": 0
   }
 ]

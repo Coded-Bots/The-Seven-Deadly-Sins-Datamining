@@ -6,10 +6,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 1000,
-    "story_chapter_name": "27168",
-    "story_group_name": "26980",
+    "story_chapter_name": "27253",
+    "story_group_name": "27065",
     "replay_Image": "StoryReplay_region1_01",
-    "replay_list_summary": "27380"
+    "replay_list_summary": "27465"
   },
   {
     "id": 1002,
@@ -18,10 +18,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 1,
-    "story_chapter_name": "27169",
-    "story_group_name": "26981",
+    "story_chapter_name": "27254",
+    "story_group_name": "27066",
     "replay_Image": "StoryReplay_region1_02",
-    "replay_list_summary": "27381"
+    "replay_list_summary": "27466"
   },
   {
     "id": 1003,
@@ -30,10 +30,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 2,
-    "story_chapter_name": "27170",
-    "story_group_name": "26982",
+    "story_chapter_name": "27255",
+    "story_group_name": "27067",
     "replay_Image": "StoryReplay_region1_03",
-    "replay_list_summary": "27382"
+    "replay_list_summary": "27467"
   },
   {
     "id": 1004,
@@ -42,10 +42,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 3,
-    "story_chapter_name": "27171",
-    "story_group_name": "26983",
+    "story_chapter_name": "27256",
+    "story_group_name": "27068",
     "replay_Image": "StoryReplay_region1_04",
-    "replay_list_summary": "27383"
+    "replay_list_summary": "27468"
   },
   {
     "id": 1005,
@@ -54,10 +54,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 4,
-    "story_chapter_name": "27172",
-    "story_group_name": "26984",
+    "story_chapter_name": "27257",
+    "story_group_name": "27069",
     "replay_Image": "StoryReplay_region1_05",
-    "replay_list_summary": "27384"
+    "replay_list_summary": "27469"
   },
   {
     "id": 1006,
@@ -66,10 +66,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 5,
-    "story_chapter_name": "27173",
-    "story_group_name": "26985",
+    "story_chapter_name": "27258",
+    "story_group_name": "27070",
     "replay_Image": "StoryReplay_region1_06",
-    "replay_list_summary": "27385"
+    "replay_list_summary": "27470"
   },
   {
     "id": 1007,
@@ -78,10 +78,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 6,
-    "story_chapter_name": "27174",
-    "story_group_name": "26986",
+    "story_chapter_name": "27259",
+    "story_group_name": "27071",
     "replay_Image": "StoryReplay_region1_07",
-    "replay_list_summary": "27386"
+    "replay_list_summary": "27471"
   },
   {
     "id": 1008,
@@ -90,10 +90,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 7,
-    "story_chapter_name": "27175",
-    "story_group_name": "26987",
+    "story_chapter_name": "27260",
+    "story_group_name": "27072",
     "replay_Image": "StoryReplay_region1_08",
-    "replay_list_summary": "27387"
+    "replay_list_summary": "27472"
   },
   {
     "id": 1009,
@@ -102,10 +102,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 8,
-    "story_chapter_name": "27176",
-    "story_group_name": "26988",
+    "story_chapter_name": "27261",
+    "story_group_name": "27073",
     "replay_Image": "StoryReplay_region1_09",
-    "replay_list_summary": "27388"
+    "replay_list_summary": "27473"
   },
   {
     "id": 1010,
@@ -114,10 +114,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 9,
-    "story_chapter_name": "27177",
-    "story_group_name": "26989",
+    "story_chapter_name": "27262",
+    "story_group_name": "27074",
     "replay_Image": "StoryReplay_region2_01",
-    "replay_list_summary": "27389"
+    "replay_list_summary": "27474"
   },
   {
     "id": 1011,
@@ -126,10 +126,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 10,
-    "story_chapter_name": "27178",
-    "story_group_name": "26990",
+    "story_chapter_name": "27263",
+    "story_group_name": "27075",
     "replay_Image": "StoryReplay_region2_02",
-    "replay_list_summary": "27390"
+    "replay_list_summary": "27475"
   },
   {
     "id": 1012,
@@ -138,10 +138,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 11,
-    "story_chapter_name": "27179",
-    "story_group_name": "26991",
+    "story_chapter_name": "27264",
+    "story_group_name": "27076",
     "replay_Image": "StoryReplay_region2_03",
-    "replay_list_summary": "27391"
+    "replay_list_summary": "27476"
   },
   {
     "id": 1013,
@@ -150,10 +150,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 12,
-    "story_chapter_name": "27180",
-    "story_group_name": "26992",
+    "story_chapter_name": "27265",
+    "story_group_name": "27077",
     "replay_Image": "StoryReplay_region2_04",
-    "replay_list_summary": "27392"
+    "replay_list_summary": "27477"
   },
   {
     "id": 1014,
@@ -162,10 +162,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 13,
-    "story_chapter_name": "27181",
-    "story_group_name": "26993",
+    "story_chapter_name": "27266",
+    "story_group_name": "27078",
     "replay_Image": "StoryReplay_region2_05",
-    "replay_list_summary": "27393"
+    "replay_list_summary": "27478"
   },
   {
     "id": 1015,
@@ -174,10 +174,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 14,
-    "story_chapter_name": "27182",
-    "story_group_name": "26994",
+    "story_chapter_name": "27267",
+    "story_group_name": "27079",
     "replay_Image": "StoryReplay_region2_07",
-    "replay_list_summary": "27394"
+    "replay_list_summary": "27479"
   },
   {
     "id": 1016,
@@ -186,10 +186,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 15,
-    "story_chapter_name": "27183",
-    "story_group_name": "26995",
+    "story_chapter_name": "27268",
+    "story_group_name": "27080",
     "replay_Image": "StoryReplay_region6_13",
-    "replay_list_summary": "27395"
+    "replay_list_summary": "27480"
   },
   {
     "id": 1017,
@@ -198,10 +198,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 16,
-    "story_chapter_name": "27184",
-    "story_group_name": "26996",
+    "story_chapter_name": "27269",
+    "story_group_name": "27081",
     "replay_Image": "StoryReplay_region2_08",
-    "replay_list_summary": "27396"
+    "replay_list_summary": "27481"
   },
   {
     "id": 1018,
@@ -210,10 +210,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 17,
-    "story_chapter_name": "27185",
-    "story_group_name": "26997",
+    "story_chapter_name": "27270",
+    "story_group_name": "27082",
     "replay_Image": "StoryReplay_region2_09",
-    "replay_list_summary": "27397"
+    "replay_list_summary": "27482"
   },
   {
     "id": 1019,
@@ -222,10 +222,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 18,
-    "story_chapter_name": "27186",
-    "story_group_name": "26998",
+    "story_chapter_name": "27271",
+    "story_group_name": "27083",
     "replay_Image": "StoryReplay_region2_10",
-    "replay_list_summary": "27398"
+    "replay_list_summary": "27483"
   },
   {
     "id": 1020,
@@ -234,10 +234,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 19,
-    "story_chapter_name": "27187",
-    "story_group_name": "26999",
+    "story_chapter_name": "27272",
+    "story_group_name": "27084",
     "replay_Image": "StoryReplay_region2_11",
-    "replay_list_summary": "27399"
+    "replay_list_summary": "27484"
   },
   {
     "id": 1021,
@@ -246,10 +246,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 20,
-    "story_chapter_name": "27188",
-    "story_group_name": "27000",
+    "story_chapter_name": "27273",
+    "story_group_name": "27085",
     "replay_Image": "StoryReplay_region2_12",
-    "replay_list_summary": "27400"
+    "replay_list_summary": "27485"
   },
   {
     "id": 1022,
@@ -258,10 +258,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 21,
-    "story_chapter_name": "27189",
-    "story_group_name": "27003",
+    "story_chapter_name": "27274",
+    "story_group_name": "27088",
     "replay_Image": "StoryReplay_region3_01",
-    "replay_list_summary": "27401"
+    "replay_list_summary": "27486"
   },
   {
     "id": 1023,
@@ -270,10 +270,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 22,
-    "story_chapter_name": "27190",
-    "story_group_name": "27004",
+    "story_chapter_name": "27275",
+    "story_group_name": "27089",
     "replay_Image": "StoryReplay_region3_02",
-    "replay_list_summary": "27402"
+    "replay_list_summary": "27487"
   },
   {
     "id": 1024,
@@ -282,10 +282,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 23,
-    "story_chapter_name": "27191",
-    "story_group_name": "27005",
+    "story_chapter_name": "27276",
+    "story_group_name": "27090",
     "replay_Image": "StoryReplay_region3_03",
-    "replay_list_summary": "27403"
+    "replay_list_summary": "27488"
   },
   {
     "id": 1025,
@@ -294,10 +294,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 24,
-    "story_chapter_name": "27192",
-    "story_group_name": "27006",
+    "story_chapter_name": "27277",
+    "story_group_name": "27091",
     "replay_Image": "StoryReplay_region3_04",
-    "replay_list_summary": "27404"
+    "replay_list_summary": "27489"
   },
   {
     "id": 1026,
@@ -306,10 +306,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 25,
-    "story_chapter_name": "27193",
-    "story_group_name": "27007",
+    "story_chapter_name": "27278",
+    "story_group_name": "27092",
     "replay_Image": "StoryReplay_region3_05",
-    "replay_list_summary": "27405"
+    "replay_list_summary": "27490"
   },
   {
     "id": 1027,
@@ -318,10 +318,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 26,
-    "story_chapter_name": "27194",
-    "story_group_name": "27008",
+    "story_chapter_name": "27279",
+    "story_group_name": "27093",
     "replay_Image": "StoryReplay_region3_06",
-    "replay_list_summary": "27406"
+    "replay_list_summary": "27491"
   },
   {
     "id": 1028,
@@ -330,10 +330,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 27,
-    "story_chapter_name": "27195",
-    "story_group_name": "27104",
+    "story_chapter_name": "27280",
+    "story_group_name": "27189",
     "replay_Image": "StoryReplay_region3_08",
-    "replay_list_summary": "27480"
+    "replay_list_summary": "27565"
   },
   {
     "id": 1029,
@@ -342,10 +342,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 28,
-    "story_chapter_name": "27196",
-    "story_group_name": "27009",
+    "story_chapter_name": "27281",
+    "story_group_name": "27094",
     "replay_Image": "StoryReplay_region3_07",
-    "replay_list_summary": "27407"
+    "replay_list_summary": "27492"
   },
   {
     "id": 1030,
@@ -354,10 +354,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 29,
-    "story_chapter_name": "27197",
-    "story_group_name": "27010",
+    "story_chapter_name": "27282",
+    "story_group_name": "27095",
     "replay_Image": "StoryReplay_region4_01",
-    "replay_list_summary": "27408"
+    "replay_list_summary": "27493"
   },
   {
     "id": 1031,
@@ -366,10 +366,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 30,
-    "story_chapter_name": "27198",
-    "story_group_name": "27011",
+    "story_chapter_name": "27283",
+    "story_group_name": "27096",
     "replay_Image": "StoryReplay_region4_02",
-    "replay_list_summary": "27409"
+    "replay_list_summary": "27494"
   },
   {
     "id": 1032,
@@ -378,10 +378,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 31,
-    "story_chapter_name": "27199",
-    "story_group_name": "27012",
+    "story_chapter_name": "27284",
+    "story_group_name": "27097",
     "replay_Image": "StoryReplay_region4_03",
-    "replay_list_summary": "27410"
+    "replay_list_summary": "27495"
   },
   {
     "id": 1033,
@@ -390,10 +390,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 32,
-    "story_chapter_name": "27200",
-    "story_group_name": "27013",
+    "story_chapter_name": "27285",
+    "story_group_name": "27098",
     "replay_Image": "StoryReplay_region4_04",
-    "replay_list_summary": "27411"
+    "replay_list_summary": "27496"
   },
   {
     "id": 1034,
@@ -402,10 +402,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 33,
-    "story_chapter_name": "27201",
-    "story_group_name": "27014",
+    "story_chapter_name": "27286",
+    "story_group_name": "27099",
     "replay_Image": "StoryReplay_region4_05",
-    "replay_list_summary": "27412"
+    "replay_list_summary": "27497"
   },
   {
     "id": 1035,
@@ -414,10 +414,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 34,
-    "story_chapter_name": "27202",
-    "story_group_name": "27015",
+    "story_chapter_name": "27287",
+    "story_group_name": "27100",
     "replay_Image": "StoryReplay_region4_06",
-    "replay_list_summary": "27413"
+    "replay_list_summary": "27498"
   },
   {
     "id": 1036,
@@ -426,10 +426,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 35,
-    "story_chapter_name": "27203",
-    "story_group_name": "27016",
+    "story_chapter_name": "27288",
+    "story_group_name": "27101",
     "replay_Image": "StoryReplay_region4_07",
-    "replay_list_summary": "27414"
+    "replay_list_summary": "27499"
   },
   {
     "id": 1037,
@@ -438,10 +438,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 36,
-    "story_chapter_name": "27204",
-    "story_group_name": "27017",
+    "story_chapter_name": "27289",
+    "story_group_name": "27102",
     "replay_Image": "StoryReplay_region4_08",
-    "replay_list_summary": "27415"
+    "replay_list_summary": "27500"
   },
   {
     "id": 1038,
@@ -450,10 +450,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 37,
-    "story_chapter_name": "27205",
-    "story_group_name": "27018",
+    "story_chapter_name": "27290",
+    "story_group_name": "27103",
     "replay_Image": "StoryReplay_region4_09",
-    "replay_list_summary": "27416"
+    "replay_list_summary": "27501"
   },
   {
     "id": 1039,
@@ -462,10 +462,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 38,
-    "story_chapter_name": "27206",
-    "story_group_name": "27019",
+    "story_chapter_name": "27291",
+    "story_group_name": "27104",
     "replay_Image": "StoryReplay_region4_10",
-    "replay_list_summary": "27417"
+    "replay_list_summary": "27502"
   },
   {
     "id": 1040,
@@ -474,10 +474,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 39,
-    "story_chapter_name": "27207",
-    "story_group_name": "27020",
+    "story_chapter_name": "27292",
+    "story_group_name": "27105",
     "replay_Image": "StoryReplay_region4_11",
-    "replay_list_summary": "27418"
+    "replay_list_summary": "27503"
   },
   {
     "id": 1041,
@@ -486,10 +486,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 40,
-    "story_chapter_name": "27208",
-    "story_group_name": "27021",
+    "story_chapter_name": "27293",
+    "story_group_name": "27106",
     "replay_Image": "StoryReplay_region4_12",
-    "replay_list_summary": "27419"
+    "replay_list_summary": "27504"
   },
   {
     "id": 1042,
@@ -498,10 +498,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 41,
-    "story_chapter_name": "27209",
-    "story_group_name": "27022",
+    "story_chapter_name": "27294",
+    "story_group_name": "27107",
     "replay_Image": "StoryReplay_region5_01",
-    "replay_list_summary": "27420"
+    "replay_list_summary": "27505"
   },
   {
     "id": 1043,
@@ -510,10 +510,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 42,
-    "story_chapter_name": "27210",
-    "story_group_name": "27023",
+    "story_chapter_name": "27295",
+    "story_group_name": "27108",
     "replay_Image": "StoryReplay_region5_02",
-    "replay_list_summary": "27421"
+    "replay_list_summary": "27506"
   },
   {
     "id": 1044,
@@ -522,10 +522,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 43,
-    "story_chapter_name": "27211",
-    "story_group_name": "27024",
+    "story_chapter_name": "27296",
+    "story_group_name": "27109",
     "replay_Image": "StoryReplay_region5_03",
-    "replay_list_summary": "27422"
+    "replay_list_summary": "27507"
   },
   {
     "id": 1045,
@@ -534,10 +534,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 44,
-    "story_chapter_name": "27212",
-    "story_group_name": "27025",
+    "story_chapter_name": "27297",
+    "story_group_name": "27110",
     "replay_Image": "StoryReplay_region5_04",
-    "replay_list_summary": "27423"
+    "replay_list_summary": "27508"
   },
   {
     "id": 1046,
@@ -546,10 +546,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 45,
-    "story_chapter_name": "27213",
-    "story_group_name": "27490",
+    "story_chapter_name": "27298",
+    "story_group_name": "27575",
     "replay_Image": "StoryReplay_region5_07",
-    "replay_list_summary": "27476"
+    "replay_list_summary": "27561"
   },
   {
     "id": 1047,
@@ -558,10 +558,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 46,
-    "story_chapter_name": "27214",
-    "story_group_name": "27026",
+    "story_chapter_name": "27299",
+    "story_group_name": "27111",
     "replay_Image": "StoryReplay_region5_05",
-    "replay_list_summary": "27424"
+    "replay_list_summary": "27509"
   },
   {
     "id": 1048,
@@ -570,10 +570,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 47,
-    "story_chapter_name": "27215",
-    "story_group_name": "27029",
+    "story_chapter_name": "27300",
+    "story_group_name": "27114",
     "replay_Image": "StoryReplay_region5_06",
-    "replay_list_summary": "27425"
+    "replay_list_summary": "27510"
   },
   {
     "id": 1049,
@@ -582,10 +582,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 48,
-    "story_chapter_name": "27216",
-    "story_group_name": "27054",
+    "story_chapter_name": "27301",
+    "story_group_name": "27139",
     "replay_Image": "StoryReplay_region6_24",
-    "replay_list_summary": "27448"
+    "replay_list_summary": "27533"
   },
   {
     "id": 1050,
@@ -594,10 +594,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 49,
-    "story_chapter_name": "27217",
-    "story_group_name": "28911",
+    "story_chapter_name": "27302",
+    "story_group_name": "28996",
     "replay_Image": "StoryReplay_region6_08",
-    "replay_list_summary": "27481"
+    "replay_list_summary": "27566"
   },
   {
     "id": 1051,
@@ -606,10 +606,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 50,
-    "story_chapter_name": "27218",
-    "story_group_name": "27038",
+    "story_chapter_name": "27303",
+    "story_group_name": "27123",
     "replay_Image": "StoryReplay_region6_09",
-    "replay_list_summary": "27434"
+    "replay_list_summary": "27519"
   },
   {
     "id": 1052,
@@ -618,10 +618,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 51,
-    "story_chapter_name": "27219",
-    "story_group_name": "27039",
+    "story_chapter_name": "27304",
+    "story_group_name": "27124",
     "replay_Image": "StoryReplay_region6_10",
-    "replay_list_summary": "27435"
+    "replay_list_summary": "27520"
   },
   {
     "id": 1053,
@@ -630,10 +630,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 52,
-    "story_chapter_name": "27220",
-    "story_group_name": "27040",
+    "story_chapter_name": "27305",
+    "story_group_name": "27125",
     "replay_Image": "StoryReplay_region6_11",
-    "replay_list_summary": "27436"
+    "replay_list_summary": "27521"
   },
   {
     "id": 1054,
@@ -642,10 +642,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 53,
-    "story_chapter_name": "27221",
-    "story_group_name": "27042",
+    "story_chapter_name": "27306",
+    "story_group_name": "27127",
     "replay_Image": "StoryReplay_region6_58",
-    "replay_list_summary": "27437"
+    "replay_list_summary": "27522"
   },
   {
     "id": 1055,
@@ -654,10 +654,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 54,
-    "story_chapter_name": "27222",
-    "story_group_name": "27043",
+    "story_chapter_name": "27307",
+    "story_group_name": "27128",
     "replay_Image": "StoryReplay_region6_14",
-    "replay_list_summary": "27438"
+    "replay_list_summary": "27523"
   },
   {
     "id": 1056,
@@ -666,10 +666,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 55,
-    "story_chapter_name": "27223",
-    "story_group_name": "27044",
+    "story_chapter_name": "27308",
+    "story_group_name": "27129",
     "replay_Image": "StoryReplay_region6_15",
-    "replay_list_summary": "27439"
+    "replay_list_summary": "27524"
   },
   {
     "id": 1057,
@@ -678,10 +678,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 56,
-    "story_chapter_name": "27224",
-    "story_group_name": "27056",
+    "story_chapter_name": "27309",
+    "story_group_name": "27141",
     "replay_Image": "StoryReplay_region6_25",
-    "replay_list_summary": "27450"
+    "replay_list_summary": "27535"
   },
   {
     "id": 1058,
@@ -690,10 +690,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 57,
-    "story_chapter_name": "27225",
-    "story_group_name": "27030",
+    "story_chapter_name": "27310",
+    "story_group_name": "27115",
     "replay_Image": "StoryReplay_region6_01",
-    "replay_list_summary": "27426"
+    "replay_list_summary": "27511"
   },
   {
     "id": 1059,
@@ -702,10 +702,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 58,
-    "story_chapter_name": "27226",
-    "story_group_name": "27031",
+    "story_chapter_name": "27311",
+    "story_group_name": "27116",
     "replay_Image": "StoryReplay_region6_02",
-    "replay_list_summary": "27427"
+    "replay_list_summary": "27512"
   },
   {
     "id": 1060,
@@ -714,10 +714,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 59,
-    "story_chapter_name": "27227",
-    "story_group_name": "27055",
+    "story_chapter_name": "27312",
+    "story_group_name": "27140",
     "replay_Image": "StoryReplay_region6_26",
-    "replay_list_summary": "27449"
+    "replay_list_summary": "27534"
   },
   {
     "id": 1061,
@@ -726,10 +726,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 60,
-    "story_chapter_name": "27228",
-    "story_group_name": "27032",
+    "story_chapter_name": "27313",
+    "story_group_name": "27117",
     "replay_Image": "StoryReplay_region6_03",
-    "replay_list_summary": "27428"
+    "replay_list_summary": "27513"
   },
   {
     "id": 1062,
@@ -738,10 +738,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 61,
-    "story_chapter_name": "27229",
-    "story_group_name": "27033",
+    "story_chapter_name": "27314",
+    "story_group_name": "27118",
     "replay_Image": "StoryReplay_region6_04",
-    "replay_list_summary": "27429"
+    "replay_list_summary": "27514"
   },
   {
     "id": 1063,
@@ -750,10 +750,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 62,
-    "story_chapter_name": "27230",
-    "story_group_name": "27034",
+    "story_chapter_name": "27315",
+    "story_group_name": "27119",
     "replay_Image": "StoryReplay_region6_05",
-    "replay_list_summary": "27430"
+    "replay_list_summary": "27515"
   },
   {
     "id": 1064,
@@ -762,10 +762,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 63,
-    "story_chapter_name": "27231",
-    "story_group_name": "27035",
+    "story_chapter_name": "27316",
+    "story_group_name": "27120",
     "replay_Image": "StoryReplay_region6_06",
-    "replay_list_summary": "27431"
+    "replay_list_summary": "27516"
   },
   {
     "id": 1065,
@@ -774,10 +774,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 64,
-    "story_chapter_name": "27232",
-    "story_group_name": "27036",
+    "story_chapter_name": "27317",
+    "story_group_name": "27121",
     "replay_Image": "StoryReplay_region6_07",
-    "replay_list_summary": "27432"
+    "replay_list_summary": "27517"
   },
   {
     "id": 1066,
@@ -786,10 +786,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 65,
-    "story_chapter_name": "27233",
-    "story_group_name": "27045",
+    "story_chapter_name": "27318",
+    "story_group_name": "27130",
     "replay_Image": "StoryReplay_region6_16",
-    "replay_list_summary": "27440"
+    "replay_list_summary": "27525"
   },
   {
     "id": 1067,
@@ -798,10 +798,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 66,
-    "story_chapter_name": "27234",
-    "story_group_name": "27037",
+    "story_chapter_name": "27319",
+    "story_group_name": "27122",
     "replay_Image": "StoryReplay_region6_27",
-    "replay_list_summary": "27433"
+    "replay_list_summary": "27518"
   },
   {
     "id": 1068,
@@ -810,10 +810,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 67,
-    "story_chapter_name": "27235",
-    "story_group_name": "27046",
+    "story_chapter_name": "27320",
+    "story_group_name": "27131",
     "replay_Image": "StoryReplay_region6_17",
-    "replay_list_summary": "27441"
+    "replay_list_summary": "27526"
   },
   {
     "id": 1069,
@@ -822,10 +822,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 68,
-    "story_chapter_name": "27236",
-    "story_group_name": "27047",
+    "story_chapter_name": "27321",
+    "story_group_name": "27132",
     "replay_Image": "StoryReplay_region6_18",
-    "replay_list_summary": "27442"
+    "replay_list_summary": "27527"
   },
   {
     "id": 1070,
@@ -834,10 +834,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 69,
-    "story_chapter_name": "27237",
-    "story_group_name": "27048",
+    "story_chapter_name": "27322",
+    "story_group_name": "27133",
     "replay_Image": "StoryReplay_region6_19",
-    "replay_list_summary": "27443"
+    "replay_list_summary": "27528"
   },
   {
     "id": 1071,
@@ -846,10 +846,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 70,
-    "story_chapter_name": "27238",
-    "story_group_name": "27049",
+    "story_chapter_name": "27323",
+    "story_group_name": "27134",
     "replay_Image": "StoryReplay_region6_20",
-    "replay_list_summary": "27444"
+    "replay_list_summary": "27529"
   },
   {
     "id": 1072,
@@ -858,10 +858,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 71,
-    "story_chapter_name": "27239",
-    "story_group_name": "27050",
+    "story_chapter_name": "27324",
+    "story_group_name": "27135",
     "replay_Image": "StoryReplay_region6_21",
-    "replay_list_summary": "27445"
+    "replay_list_summary": "27530"
   },
   {
     "id": 1073,
@@ -870,10 +870,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 72,
-    "story_chapter_name": "27240",
-    "story_group_name": "27051",
+    "story_chapter_name": "27325",
+    "story_group_name": "27136",
     "replay_Image": "StoryReplay_region6_22",
-    "replay_list_summary": "27446"
+    "replay_list_summary": "27531"
   },
   {
     "id": 1074,
@@ -882,10 +882,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 73,
-    "story_chapter_name": "27241",
-    "story_group_name": "27053",
+    "story_chapter_name": "27326",
+    "story_group_name": "27138",
     "replay_Image": "StoryReplay_region6_28",
-    "replay_list_summary": "27447"
+    "replay_list_summary": "27532"
   },
   {
     "id": 1075,
@@ -894,10 +894,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 74,
-    "story_chapter_name": "27242",
-    "story_group_name": "27057",
+    "story_chapter_name": "27327",
+    "story_group_name": "27142",
     "replay_Image": "StoryReplay_region6_29",
-    "replay_list_summary": "27451"
+    "replay_list_summary": "27536"
   },
   {
     "id": 1076,
@@ -906,10 +906,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 75,
-    "story_chapter_name": "27243",
-    "story_group_name": "27058",
+    "story_chapter_name": "27328",
+    "story_group_name": "27143",
     "replay_Image": "StoryReplay_region6_30",
-    "replay_list_summary": "27452"
+    "replay_list_summary": "27537"
   },
   {
     "id": 1077,
@@ -918,10 +918,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 76,
-    "story_chapter_name": "27244",
-    "story_group_name": "27059",
+    "story_chapter_name": "27329",
+    "story_group_name": "27144",
     "replay_Image": "StoryReplay_region6_31",
-    "replay_list_summary": "27453"
+    "replay_list_summary": "27538"
   },
   {
     "id": 1078,
@@ -930,10 +930,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 77,
-    "story_chapter_name": "27245",
-    "story_group_name": "27060",
+    "story_chapter_name": "27330",
+    "story_group_name": "27145",
     "replay_Image": "StoryReplay_region6_32",
-    "replay_list_summary": "27454"
+    "replay_list_summary": "27539"
   },
   {
     "id": 1079,
@@ -942,10 +942,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 78,
-    "story_chapter_name": "27246",
-    "story_group_name": "27061",
+    "story_chapter_name": "27331",
+    "story_group_name": "27146",
     "replay_Image": "StoryReplay_region6_33",
-    "replay_list_summary": "27455"
+    "replay_list_summary": "27540"
   },
   {
     "id": 1080,
@@ -954,10 +954,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 79,
-    "story_chapter_name": "27247",
-    "story_group_name": "27062",
+    "story_chapter_name": "27332",
+    "story_group_name": "27147",
     "replay_Image": "StoryReplay_region6_34",
-    "replay_list_summary": "27456"
+    "replay_list_summary": "27541"
   },
   {
     "id": 1081,
@@ -966,10 +966,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 80,
-    "story_chapter_name": "27248",
-    "story_group_name": "27065",
+    "story_chapter_name": "27333",
+    "story_group_name": "27150",
     "replay_Image": "StoryReplay_region6_35",
-    "replay_list_summary": "27457"
+    "replay_list_summary": "27542"
   },
   {
     "id": 1082,
@@ -978,10 +978,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 81,
-    "story_chapter_name": "27249",
-    "story_group_name": "27066",
+    "story_chapter_name": "27334",
+    "story_group_name": "27151",
     "replay_Image": "StoryReplay_region6_36",
-    "replay_list_summary": "27458"
+    "replay_list_summary": "27543"
   },
   {
     "id": 1083,
@@ -990,10 +990,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 82,
-    "story_chapter_name": "27250",
-    "story_group_name": "27067",
+    "story_chapter_name": "27335",
+    "story_group_name": "27152",
     "replay_Image": "StoryReplay_region6_37",
-    "replay_list_summary": "27459"
+    "replay_list_summary": "27544"
   },
   {
     "id": 1084,
@@ -1002,10 +1002,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 83,
-    "story_chapter_name": "27251",
-    "story_group_name": "27072",
+    "story_chapter_name": "27336",
+    "story_group_name": "27157",
     "replay_Image": "StoryReplay_region6_38",
-    "replay_list_summary": "27460"
+    "replay_list_summary": "27545"
   },
   {
     "id": 1085,
@@ -1014,10 +1014,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 84,
-    "story_chapter_name": "27252",
-    "story_group_name": "27075",
+    "story_chapter_name": "27337",
+    "story_group_name": "27160",
     "replay_Image": "StoryReplay_region6_39",
-    "replay_list_summary": "27461"
+    "replay_list_summary": "27546"
   },
   {
     "id": 1086,
@@ -1026,10 +1026,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 85,
-    "story_chapter_name": "27253",
-    "story_group_name": "27076",
+    "story_chapter_name": "27338",
+    "story_group_name": "27161",
     "replay_Image": "StoryReplay_region6_40",
-    "replay_list_summary": "27462"
+    "replay_list_summary": "27547"
   },
   {
     "id": 1087,
@@ -1038,10 +1038,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 86,
-    "story_chapter_name": "27254",
-    "story_group_name": "27077",
+    "story_chapter_name": "27339",
+    "story_group_name": "27162",
     "replay_Image": "StoryReplay_region6_41",
-    "replay_list_summary": "27463"
+    "replay_list_summary": "27548"
   },
   {
     "id": 1088,
@@ -1050,10 +1050,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 87,
-    "story_chapter_name": "27255",
-    "story_group_name": "27078",
+    "story_chapter_name": "27340",
+    "story_group_name": "27163",
     "replay_Image": "StoryReplay_region6_42",
-    "replay_list_summary": "27464"
+    "replay_list_summary": "27549"
   },
   {
     "id": 1089,
@@ -1062,10 +1062,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 88,
-    "story_chapter_name": "27256",
-    "story_group_name": "27105",
+    "story_chapter_name": "27341",
+    "story_group_name": "27190",
     "replay_Image": "StoryReplay_region6_60",
-    "replay_list_summary": "27482"
+    "replay_list_summary": "27567"
   },
   {
     "id": 1090,
@@ -1074,10 +1074,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 89,
-    "story_chapter_name": "27257",
-    "story_group_name": "27106",
+    "story_chapter_name": "27342",
+    "story_group_name": "27191",
     "replay_Image": "StoryReplay_region6_61",
-    "replay_list_summary": "27483"
+    "replay_list_summary": "27568"
   },
   {
     "id": 1091,
@@ -1086,10 +1086,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 90,
-    "story_chapter_name": "27258",
-    "story_group_name": "27107",
+    "story_chapter_name": "27343",
+    "story_group_name": "27192",
     "replay_Image": "StoryReplay_region6_62",
-    "replay_list_summary": "27484"
+    "replay_list_summary": "27569"
   },
   {
     "id": 1092,
@@ -1098,10 +1098,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 91,
-    "story_chapter_name": "27259",
-    "story_group_name": "27108",
+    "story_chapter_name": "27344",
+    "story_group_name": "27193",
     "replay_Image": "StoryReplay_region6_63",
-    "replay_list_summary": "27485"
+    "replay_list_summary": "27570"
   },
   {
     "id": 1093,
@@ -1110,10 +1110,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 92,
-    "story_chapter_name": "27260",
-    "story_group_name": "27109",
+    "story_chapter_name": "27345",
+    "story_group_name": "27194",
     "replay_Image": "StoryReplay_region6_64",
-    "replay_list_summary": "27486"
+    "replay_list_summary": "27571"
   },
   {
     "id": 1094,
@@ -1122,10 +1122,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 93,
-    "story_chapter_name": "27261",
-    "story_group_name": "27110",
+    "story_chapter_name": "27346",
+    "story_group_name": "27195",
     "replay_Image": "StoryReplay_region6_65",
-    "replay_list_summary": "27487"
+    "replay_list_summary": "27572"
   },
   {
     "id": 1095,
@@ -1134,10 +1134,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 94,
-    "story_chapter_name": "27262",
-    "story_group_name": "27111",
+    "story_chapter_name": "27347",
+    "story_group_name": "27196",
     "replay_Image": "StoryReplay_region6_66",
-    "replay_list_summary": "27488"
+    "replay_list_summary": "27573"
   },
   {
     "id": 1096,
@@ -1146,10 +1146,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 95,
-    "story_chapter_name": "27263",
-    "story_group_name": "27112",
+    "story_chapter_name": "27348",
+    "story_group_name": "27197",
     "replay_Image": "StoryReplay_region6_67",
-    "replay_list_summary": "27489"
+    "replay_list_summary": "27574"
   },
   {
     "id": 1097,
@@ -1158,10 +1158,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 96,
-    "story_chapter_name": "27264",
-    "story_group_name": "27081",
+    "story_chapter_name": "27349",
+    "story_group_name": "27166",
     "replay_Image": "StoryReplay_region6_43",
-    "replay_list_summary": "27465"
+    "replay_list_summary": "27550"
   },
   {
     "id": 1098,
@@ -1170,10 +1170,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 97,
-    "story_chapter_name": "27265",
-    "story_group_name": "27082",
+    "story_chapter_name": "27350",
+    "story_group_name": "27167",
     "replay_Image": "StoryReplay_region6_44",
-    "replay_list_summary": "27466"
+    "replay_list_summary": "27551"
   },
   {
     "id": 1099,
@@ -1182,10 +1182,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 98,
-    "story_chapter_name": "27266",
-    "story_group_name": "27083",
+    "story_chapter_name": "27351",
+    "story_group_name": "27168",
     "replay_Image": "StoryReplay_region6_45",
-    "replay_list_summary": "27467"
+    "replay_list_summary": "27552"
   },
   {
     "id": 1100,
@@ -1194,10 +1194,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 99,
-    "story_chapter_name": "27267",
-    "story_group_name": "27101",
+    "story_chapter_name": "27352",
+    "story_group_name": "27186",
     "replay_Image": "StoryReplay_region6_55",
-    "replay_list_summary": "26463"
+    "replay_list_summary": "26548"
   },
   {
     "id": 1101,
@@ -1206,10 +1206,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 100,
-    "story_chapter_name": "27268",
-    "story_group_name": "27084",
+    "story_chapter_name": "27353",
+    "story_group_name": "27169",
     "replay_Image": "StoryReplay_region6_46",
-    "replay_list_summary": "27468"
+    "replay_list_summary": "27553"
   },
   {
     "id": 1102,
@@ -1218,10 +1218,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101,
-    "story_chapter_name": "27269",
-    "story_group_name": "27087",
+    "story_chapter_name": "27354",
+    "story_group_name": "27172",
     "replay_Image": "StoryReplay_region6_47",
-    "replay_list_summary": "27469"
+    "replay_list_summary": "27554"
   },
   {
     "id": 1103,
@@ -1230,10 +1230,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 102,
-    "story_chapter_name": "27270",
-    "story_group_name": "27090",
+    "story_chapter_name": "27355",
+    "story_group_name": "27175",
     "replay_Image": "StoryReplay_region6_48",
-    "replay_list_summary": "27470"
+    "replay_list_summary": "27555"
   },
   {
     "id": 1104,
@@ -1242,10 +1242,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 103,
-    "story_chapter_name": "27271",
-    "story_group_name": "27091",
+    "story_chapter_name": "27356",
+    "story_group_name": "27176",
     "replay_Image": "StoryReplay_region6_49",
-    "replay_list_summary": "27471"
+    "replay_list_summary": "27556"
   },
   {
     "id": 1105,
@@ -1254,10 +1254,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 104,
-    "story_chapter_name": "27272",
-    "story_group_name": "27094",
+    "story_chapter_name": "27357",
+    "story_group_name": "27179",
     "replay_Image": "StoryReplay_region6_50",
-    "replay_list_summary": "27472"
+    "replay_list_summary": "27557"
   },
   {
     "id": 1106,
@@ -1266,10 +1266,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 105,
-    "story_chapter_name": "27273",
-    "story_group_name": "27095",
+    "story_chapter_name": "27358",
+    "story_group_name": "27180",
     "replay_Image": "StoryReplay_region6_51",
-    "replay_list_summary": "27473"
+    "replay_list_summary": "27558"
   },
   {
     "id": 1107,
@@ -1278,10 +1278,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 106,
-    "story_chapter_name": "27274",
-    "story_group_name": "27102",
+    "story_chapter_name": "27359",
+    "story_group_name": "27187",
     "replay_Image": "StoryReplay_region6_56",
-    "replay_list_summary": "27477"
+    "replay_list_summary": "27562"
   },
   {
     "id": 1108,
@@ -1290,10 +1290,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 107,
-    "story_chapter_name": "27275",
-    "story_group_name": "27098",
+    "story_chapter_name": "27360",
+    "story_group_name": "27183",
     "replay_Image": "StoryReplay_region6_52",
-    "replay_list_summary": "27474"
+    "replay_list_summary": "27559"
   },
   {
     "id": 1109,
@@ -1302,10 +1302,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 108,
-    "story_chapter_name": "27276",
-    "story_group_name": "27099",
+    "story_chapter_name": "27361",
+    "story_group_name": "27184",
     "replay_Image": "StoryReplay_region6_57",
-    "replay_list_summary": "27478"
+    "replay_list_summary": "27563"
   },
   {
     "id": 1110,
@@ -1314,10 +1314,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 109,
-    "story_chapter_name": "27277",
-    "story_group_name": "27103",
+    "story_chapter_name": "27362",
+    "story_group_name": "27188",
     "replay_Image": "StoryReplay_region6_53",
-    "replay_list_summary": "27479"
+    "replay_list_summary": "27564"
   },
   {
     "id": 1111,
@@ -1326,10 +1326,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 110,
-    "story_chapter_name": "27278",
-    "story_group_name": "27100",
+    "story_chapter_name": "27363",
+    "story_group_name": "27185",
     "replay_Image": "StoryReplay_region6_54",
-    "replay_list_summary": "27475"
+    "replay_list_summary": "27560"
   },
   {
     "id": 1112,
@@ -1338,10 +1338,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 111,
-    "story_chapter_name": "27279",
-    "story_group_name": "27113",
+    "story_chapter_name": "27364",
+    "story_group_name": "27198",
     "replay_Image": "StoryReplay_region7_01",
-    "replay_list_summary": "25029"
+    "replay_list_summary": "25115"
   },
   {
     "id": 1113,
@@ -1350,10 +1350,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 112,
-    "story_chapter_name": "27280",
-    "story_group_name": "27114",
+    "story_chapter_name": "27365",
+    "story_group_name": "27199",
     "replay_Image": "StoryReplay_region7_02",
-    "replay_list_summary": "25030"
+    "replay_list_summary": "25116"
   },
   {
     "id": 1114,
@@ -1362,10 +1362,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 113,
-    "story_chapter_name": "27281",
-    "story_group_name": "27115",
+    "story_chapter_name": "27366",
+    "story_group_name": "27200",
     "replay_Image": "StoryReplay_region7_03",
-    "replay_list_summary": "25031"
+    "replay_list_summary": "25117"
   },
   {
     "id": 1115,
@@ -1374,10 +1374,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 114,
-    "story_chapter_name": "27282",
-    "story_group_name": "27116",
+    "story_chapter_name": "27367",
+    "story_group_name": "27201",
     "replay_Image": "StoryReplay_region7_04",
-    "replay_list_summary": "25032"
+    "replay_list_summary": "25118"
   },
   {
     "id": 1116,
@@ -1386,10 +1386,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 115,
-    "story_chapter_name": "27283",
-    "story_group_name": "29246",
+    "story_chapter_name": "27368",
+    "story_group_name": "29331",
     "replay_Image": "StoryReplay_region7_05",
-    "replay_list_summary": "25033"
+    "replay_list_summary": "25119"
   },
   {
     "id": 1117,
@@ -1398,10 +1398,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 116,
-    "story_chapter_name": "27284",
-    "story_group_name": "27118",
+    "story_chapter_name": "27369",
+    "story_group_name": "27203",
     "replay_Image": "StoryReplay_region7_06",
-    "replay_list_summary": "25034"
+    "replay_list_summary": "25120"
   },
   {
     "id": 1118,
@@ -1410,10 +1410,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 117,
-    "story_chapter_name": "27285",
-    "story_group_name": "27119",
+    "story_chapter_name": "27370",
+    "story_group_name": "27204",
     "replay_Image": "StoryReplay_region7_07",
-    "replay_list_summary": "25035"
+    "replay_list_summary": "25121"
   },
   {
     "id": 1119,
@@ -1422,10 +1422,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 118,
-    "story_chapter_name": "27286",
-    "story_group_name": "27120",
+    "story_chapter_name": "27371",
+    "story_group_name": "27205",
     "replay_Image": "StoryReplay_region7_08",
-    "replay_list_summary": "25036"
+    "replay_list_summary": "25122"
   },
   {
     "id": 1120,
@@ -1434,10 +1434,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 119,
-    "story_chapter_name": "27287",
-    "story_group_name": "27121",
+    "story_chapter_name": "27372",
+    "story_group_name": "27206",
     "replay_Image": "StoryReplay_region7_09",
-    "replay_list_summary": "25037"
+    "replay_list_summary": "25123"
   },
   {
     "id": 1121,
@@ -1446,10 +1446,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 120,
-    "story_chapter_name": "27288",
-    "story_group_name": "27122",
+    "story_chapter_name": "27373",
+    "story_group_name": "27207",
     "replay_Image": "StoryReplay_region7_10",
-    "replay_list_summary": "25038"
+    "replay_list_summary": "25124"
   },
   {
     "id": 1122,
@@ -1458,10 +1458,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 121,
-    "story_chapter_name": "27289",
-    "story_group_name": "27123",
+    "story_chapter_name": "27374",
+    "story_group_name": "27208",
     "replay_Image": "StoryReplay_region7_11",
-    "replay_list_summary": "25039"
+    "replay_list_summary": "25125"
   },
   {
     "id": 1130,
@@ -1470,10 +1470,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 122,
-    "story_chapter_name": "27290",
-    "story_group_name": "27124",
+    "story_chapter_name": "27375",
+    "story_group_name": "27209",
     "replay_Image": "StoryReplay_region8_01",
-    "replay_list_summary": "25040"
+    "replay_list_summary": "25126"
   },
   {
     "id": 1131,
@@ -1482,10 +1482,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 123,
-    "story_chapter_name": "27291",
-    "story_group_name": "27125",
+    "story_chapter_name": "27376",
+    "story_group_name": "27210",
     "replay_Image": "StoryReplay_region8_02",
-    "replay_list_summary": "25041"
+    "replay_list_summary": "25127"
   },
   {
     "id": 1132,
@@ -1494,10 +1494,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 124,
-    "story_chapter_name": "27292",
-    "story_group_name": "27126",
+    "story_chapter_name": "27377",
+    "story_group_name": "27211",
     "replay_Image": "StoryReplay_region8_03",
-    "replay_list_summary": "25042"
+    "replay_list_summary": "25128"
   },
   {
     "id": 1133,
@@ -1506,10 +1506,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 125,
-    "story_chapter_name": "27293",
-    "story_group_name": "27127",
+    "story_chapter_name": "27378",
+    "story_group_name": "27212",
     "replay_Image": "StoryReplay_region8_04",
-    "replay_list_summary": "25043"
+    "replay_list_summary": "25129"
   },
   {
     "id": 1134,
@@ -1518,10 +1518,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 126,
-    "story_chapter_name": "27294",
-    "story_group_name": "27128",
+    "story_chapter_name": "27379",
+    "story_group_name": "27213",
     "replay_Image": "StoryReplay_region8_05",
-    "replay_list_summary": "25044"
+    "replay_list_summary": "25130"
   },
   {
     "id": 1135,
@@ -1530,10 +1530,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 127,
-    "story_chapter_name": "27295",
-    "story_group_name": "27129",
+    "story_chapter_name": "27380",
+    "story_group_name": "27214",
     "replay_Image": "StoryReplay_region8_06",
-    "replay_list_summary": "25045"
+    "replay_list_summary": "25131"
   },
   {
     "id": 1136,
@@ -1542,10 +1542,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 128,
-    "story_chapter_name": "27296",
-    "story_group_name": "27130",
+    "story_chapter_name": "27381",
+    "story_group_name": "27215",
     "replay_Image": "StoryReplay_region8_07",
-    "replay_list_summary": "25046"
+    "replay_list_summary": "25132"
   },
   {
     "id": 1137,
@@ -1554,10 +1554,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 129,
-    "story_chapter_name": "27297",
-    "story_group_name": "27131",
+    "story_chapter_name": "27382",
+    "story_group_name": "27216",
     "replay_Image": "StoryReplay_region8_08",
-    "replay_list_summary": "25047"
+    "replay_list_summary": "25133"
   },
   {
     "id": 1138,
@@ -1566,10 +1566,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 130,
-    "story_chapter_name": "27298",
-    "story_group_name": "27132",
+    "story_chapter_name": "27383",
+    "story_group_name": "27217",
     "replay_Image": "StoryReplay_region8_09",
-    "replay_list_summary": "25048"
+    "replay_list_summary": "25134"
   },
   {
     "id": 1139,
@@ -1578,10 +1578,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 131,
-    "story_chapter_name": "27299",
-    "story_group_name": "27133",
+    "story_chapter_name": "27384",
+    "story_group_name": "27218",
     "replay_Image": "StoryReplay_region8_10",
-    "replay_list_summary": "25049"
+    "replay_list_summary": "25135"
   },
   {
     "id": 1140,
@@ -1590,10 +1590,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 132,
-    "story_chapter_name": "27300",
-    "story_group_name": "27134",
+    "story_chapter_name": "27385",
+    "story_group_name": "27219",
     "replay_Image": "StoryReplay_region8_11",
-    "replay_list_summary": "25050"
+    "replay_list_summary": "25136"
   },
   {
     "id": 1141,
@@ -1602,10 +1602,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 133,
-    "story_chapter_name": "27301",
-    "story_group_name": "27135",
+    "story_chapter_name": "27386",
+    "story_group_name": "27220",
     "replay_Image": "StoryReplay_region8_12",
-    "replay_list_summary": "25051"
+    "replay_list_summary": "25137"
   },
   {
     "id": 1142,
@@ -1614,10 +1614,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 134,
-    "story_chapter_name": "27302",
-    "story_group_name": "27136",
+    "story_chapter_name": "27387",
+    "story_group_name": "27221",
     "replay_Image": "StoryReplay_region8_13",
-    "replay_list_summary": "25052"
+    "replay_list_summary": "25138"
   },
   {
     "id": 1143,
@@ -1626,10 +1626,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 135,
-    "story_chapter_name": "27303",
-    "story_group_name": "27137",
+    "story_chapter_name": "27388",
+    "story_group_name": "27222",
     "replay_Image": "StoryReplay_region8_14",
-    "replay_list_summary": "25053"
+    "replay_list_summary": "25139"
   },
   {
     "id": 1144,
@@ -1638,10 +1638,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 136,
-    "story_chapter_name": "27304",
-    "story_group_name": "27138",
+    "story_chapter_name": "27389",
+    "story_group_name": "27223",
     "replay_Image": "StoryReplay_region8_15",
-    "replay_list_summary": "25054"
+    "replay_list_summary": "25140"
   },
   {
     "id": 1145,
@@ -1650,10 +1650,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 137,
-    "story_chapter_name": "27305",
-    "story_group_name": "27139",
+    "story_chapter_name": "27390",
+    "story_group_name": "27224",
     "replay_Image": "StoryReplay_region8_16",
-    "replay_list_summary": "25055"
+    "replay_list_summary": "25141"
   },
   {
     "id": 1146,
@@ -1662,10 +1662,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 138,
-    "story_chapter_name": "27306",
-    "story_group_name": "27140",
+    "story_chapter_name": "27391",
+    "story_group_name": "27225",
     "replay_Image": "StoryReplay_region8_17",
-    "replay_list_summary": "25056"
+    "replay_list_summary": "25142"
   },
   {
     "id": 1147,
@@ -1674,10 +1674,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 139,
-    "story_chapter_name": "27307",
-    "story_group_name": "27141",
+    "story_chapter_name": "27392",
+    "story_group_name": "27226",
     "replay_Image": "StoryReplay_region8_18",
-    "replay_list_summary": "25057"
+    "replay_list_summary": "25143"
   },
   {
     "id": 1148,
@@ -1686,10 +1686,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 140,
-    "story_chapter_name": "27308",
-    "story_group_name": "27142",
+    "story_chapter_name": "27393",
+    "story_group_name": "27227",
     "replay_Image": "StoryReplay_region8_19",
-    "replay_list_summary": "25058"
+    "replay_list_summary": "25144"
   },
   {
     "id": 1149,
@@ -1698,10 +1698,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 141,
-    "story_chapter_name": "27309",
-    "story_group_name": "27143",
+    "story_chapter_name": "27394",
+    "story_group_name": "27228",
     "replay_Image": "StoryReplay_region8_20",
-    "replay_list_summary": "25059"
+    "replay_list_summary": "25145"
   },
   {
     "id": 1150,
@@ -1710,10 +1710,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 142,
-    "story_chapter_name": "27310",
-    "story_group_name": "27144",
+    "story_chapter_name": "27395",
+    "story_group_name": "27229",
     "replay_Image": "StoryReplay_region8_21",
-    "replay_list_summary": "25060"
+    "replay_list_summary": "25146"
   },
   {
     "id": 1151,
@@ -1722,10 +1722,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 143,
-    "story_chapter_name": "27311",
-    "story_group_name": "27145",
+    "story_chapter_name": "27396",
+    "story_group_name": "27230",
     "replay_Image": "StoryReplay_region8_22",
-    "replay_list_summary": "25061"
+    "replay_list_summary": "25147"
   },
   {
     "id": 1152,
@@ -1734,10 +1734,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 144,
-    "story_chapter_name": "27312",
-    "story_group_name": "27146",
+    "story_chapter_name": "27397",
+    "story_group_name": "27231",
     "replay_Image": "StoryReplay_region8_23",
-    "replay_list_summary": "25062"
+    "replay_list_summary": "25148"
   },
   {
     "id": 1153,
@@ -1746,10 +1746,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 145,
-    "story_chapter_name": "27313",
-    "story_group_name": "27147",
+    "story_chapter_name": "27398",
+    "story_group_name": "27232",
     "replay_Image": "StoryReplay_region8_24",
-    "replay_list_summary": "25063"
+    "replay_list_summary": "25149"
   },
   {
     "id": 1154,
@@ -1758,10 +1758,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 146,
-    "story_chapter_name": "27314",
-    "story_group_name": "27148",
+    "story_chapter_name": "27399",
+    "story_group_name": "27233",
     "replay_Image": "StoryReplay_region8_25",
-    "replay_list_summary": "25064"
+    "replay_list_summary": "25150"
   },
   {
     "id": 1155,
@@ -1770,10 +1770,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 147,
-    "story_chapter_name": "27315",
-    "story_group_name": "27149",
+    "story_chapter_name": "27400",
+    "story_group_name": "27234",
     "replay_Image": "StoryReplay_region8_26",
-    "replay_list_summary": "25065"
+    "replay_list_summary": "25151"
   },
   {
     "id": 1156,
@@ -1782,10 +1782,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 148,
-    "story_chapter_name": "27316",
-    "story_group_name": "27150",
+    "story_chapter_name": "27401",
+    "story_group_name": "27235",
     "replay_Image": "StoryReplay_region8_27",
-    "replay_list_summary": "25066"
+    "replay_list_summary": "25152"
   },
   {
     "id": 1157,
@@ -1794,10 +1794,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 149,
-    "story_chapter_name": "27317",
-    "story_group_name": "27151",
+    "story_chapter_name": "27402",
+    "story_group_name": "27236",
     "replay_Image": "StoryReplay_region8_28",
-    "replay_list_summary": "25067"
+    "replay_list_summary": "25153"
   },
   {
     "id": 1158,
@@ -1806,10 +1806,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 150,
-    "story_chapter_name": "27318",
-    "story_group_name": "27152",
+    "story_chapter_name": "27403",
+    "story_group_name": "27237",
     "replay_Image": "StoryReplay_region8_29",
-    "replay_list_summary": "25068"
+    "replay_list_summary": "25154"
   },
   {
     "id": 1159,
@@ -1818,10 +1818,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 151,
-    "story_chapter_name": "27319",
-    "story_group_name": "27153",
+    "story_chapter_name": "27404",
+    "story_group_name": "27238",
     "replay_Image": "StoryReplay_region8_30",
-    "replay_list_summary": "25069"
+    "replay_list_summary": "25155"
   },
   {
     "id": 1160,
@@ -1830,10 +1830,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 152,
-    "story_chapter_name": "27320",
-    "story_group_name": "27154",
+    "story_chapter_name": "27405",
+    "story_group_name": "27239",
     "replay_Image": "StoryReplay_region8_31",
-    "replay_list_summary": "25070"
+    "replay_list_summary": "25156"
   },
   {
     "id": 1161,
@@ -1842,10 +1842,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 153,
-    "story_chapter_name": "27321",
-    "story_group_name": "27155",
+    "story_chapter_name": "27406",
+    "story_group_name": "27240",
     "replay_Image": "StoryReplay_region8_32",
-    "replay_list_summary": "25071"
+    "replay_list_summary": "25157"
   },
   {
     "id": 1162,
@@ -1854,10 +1854,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 154,
-    "story_chapter_name": "27322",
-    "story_group_name": "27156",
+    "story_chapter_name": "27407",
+    "story_group_name": "27241",
     "replay_Image": "StoryReplay_region8_33",
-    "replay_list_summary": "25072"
+    "replay_list_summary": "25158"
   },
   {
     "id": 1163,
@@ -1866,10 +1866,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 155,
-    "story_chapter_name": "27323",
-    "story_group_name": "27157",
+    "story_chapter_name": "27408",
+    "story_group_name": "27242",
     "replay_Image": "StoryReplay_region8_34",
-    "replay_list_summary": "25073"
+    "replay_list_summary": "25159"
   },
   {
     "id": 1164,
@@ -1878,10 +1878,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 156,
-    "story_chapter_name": "27324",
-    "story_group_name": "27158",
+    "story_chapter_name": "27409",
+    "story_group_name": "27243",
     "replay_Image": "StoryReplay_region8_35",
-    "replay_list_summary": "25074"
+    "replay_list_summary": "25160"
   },
   {
     "id": 1165,
@@ -1890,10 +1890,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 157,
-    "story_chapter_name": "27325",
-    "story_group_name": "27159",
+    "story_chapter_name": "27410",
+    "story_group_name": "27244",
     "replay_Image": "StoryReplay_region8_36",
-    "replay_list_summary": "25075"
+    "replay_list_summary": "25161"
   },
   {
     "id": 1166,
@@ -1902,10 +1902,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 158,
-    "story_chapter_name": "27326",
-    "story_group_name": "27160",
+    "story_chapter_name": "27411",
+    "story_group_name": "27245",
     "replay_Image": "StoryReplay_region8_37",
-    "replay_list_summary": "25076"
+    "replay_list_summary": "25162"
   },
   {
     "id": 1167,
@@ -1914,10 +1914,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 159,
-    "story_chapter_name": "27327",
-    "story_group_name": "27161",
+    "story_chapter_name": "27412",
+    "story_group_name": "27246",
     "replay_Image": "StoryReplay_region8_38",
-    "replay_list_summary": "25077"
+    "replay_list_summary": "25163"
   },
   {
     "id": 1168,
@@ -1926,10 +1926,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 160,
-    "story_chapter_name": "27328",
-    "story_group_name": "27162",
+    "story_chapter_name": "27413",
+    "story_group_name": "27247",
     "replay_Image": "StoryReplay_region8_39",
-    "replay_list_summary": "25078"
+    "replay_list_summary": "25164"
   },
   {
     "id": 1169,
@@ -1938,10 +1938,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 161,
-    "story_chapter_name": "27329",
-    "story_group_name": "27163",
+    "story_chapter_name": "27414",
+    "story_group_name": "27248",
     "replay_Image": "StoryReplay_region8_40",
-    "replay_list_summary": "25079"
+    "replay_list_summary": "25165"
   },
   {
     "id": 1170,
@@ -1950,10 +1950,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 162,
-    "story_chapter_name": "27330",
-    "story_group_name": "27164",
+    "story_chapter_name": "27415",
+    "story_group_name": "27249",
     "replay_Image": "StoryReplay_region8_41",
-    "replay_list_summary": "25080"
+    "replay_list_summary": "25166"
   },
   {
     "id": 1171,
@@ -1962,10 +1962,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 163,
-    "story_chapter_name": "27331",
-    "story_group_name": "27165",
+    "story_chapter_name": "27416",
+    "story_group_name": "27250",
     "replay_Image": "StoryReplay_region8_42",
-    "replay_list_summary": "25081"
+    "replay_list_summary": "25167"
   },
   {
     "id": 1172,
@@ -1974,10 +1974,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 164,
-    "story_chapter_name": "27332",
-    "story_group_name": "27166",
+    "story_chapter_name": "27417",
+    "story_group_name": "27251",
     "replay_Image": "StoryReplay_region8_43",
-    "replay_list_summary": "25082"
+    "replay_list_summary": "25168"
   },
   {
     "id": 1173,
@@ -1986,10 +1986,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 165,
-    "story_chapter_name": "27333",
-    "story_group_name": "27167",
+    "story_chapter_name": "27418",
+    "story_group_name": "27252",
     "replay_Image": "StoryReplay_region8_44",
-    "replay_list_summary": "25083"
+    "replay_list_summary": "25169"
   },
   {
     "id": 1174,
@@ -1998,10 +1998,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 166,
-    "story_chapter_name": "36712",
-    "story_group_name": "36686",
+    "story_chapter_name": "36797",
+    "story_group_name": "36771",
     "replay_Image": "StoryReplay_region8_45",
-    "replay_list_summary": "25084"
+    "replay_list_summary": "25170"
   },
   {
     "id": 1175,
@@ -2010,10 +2010,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 167,
-    "story_chapter_name": "36713",
-    "story_group_name": "36687",
+    "story_chapter_name": "36798",
+    "story_group_name": "36772",
     "replay_Image": "StoryReplay_region8_46",
-    "replay_list_summary": "25085"
+    "replay_list_summary": "25171"
   },
   {
     "id": 1176,
@@ -2022,10 +2022,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 168,
-    "story_chapter_name": "36714",
-    "story_group_name": "36688",
+    "story_chapter_name": "36799",
+    "story_group_name": "36773",
     "replay_Image": "StoryReplay_region8_47",
-    "replay_list_summary": "25086"
+    "replay_list_summary": "25172"
   },
   {
     "id": 1177,
@@ -2034,10 +2034,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 169,
-    "story_chapter_name": "36715",
-    "story_group_name": "36689",
+    "story_chapter_name": "36800",
+    "story_group_name": "36774",
     "replay_Image": "StoryReplay_region8_48",
-    "replay_list_summary": "25087"
+    "replay_list_summary": "25173"
   },
   {
     "id": 1178,
@@ -2046,10 +2046,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 170,
-    "story_chapter_name": "36716",
-    "story_group_name": "36690",
+    "story_chapter_name": "36801",
+    "story_group_name": "36775",
     "replay_Image": "StoryReplay_region8_49",
-    "replay_list_summary": "25088"
+    "replay_list_summary": "25174"
   },
   {
     "id": 1179,
@@ -2058,10 +2058,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 171,
-    "story_chapter_name": "36717",
-    "story_group_name": "36691",
+    "story_chapter_name": "36802",
+    "story_group_name": "36776",
     "replay_Image": "StoryReplay_region8_50",
-    "replay_list_summary": "25089"
+    "replay_list_summary": "25175"
   },
   {
     "id": 1180,
@@ -2070,10 +2070,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 172,
-    "story_chapter_name": "36718",
-    "story_group_name": "36692",
+    "story_chapter_name": "36803",
+    "story_group_name": "36777",
     "replay_Image": "StoryReplay_region8_51",
-    "replay_list_summary": "25090"
+    "replay_list_summary": "25176"
   },
   {
     "id": 1181,
@@ -2082,10 +2082,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 173,
-    "story_chapter_name": "36719",
-    "story_group_name": "36693",
+    "story_chapter_name": "36804",
+    "story_group_name": "36778",
     "replay_Image": "StoryReplay_region8_52",
-    "replay_list_summary": "25091"
+    "replay_list_summary": "25177"
   },
   {
     "id": 1182,
@@ -2094,10 +2094,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 174,
-    "story_chapter_name": "36720",
-    "story_group_name": "36694",
+    "story_chapter_name": "36805",
+    "story_group_name": "36779",
     "replay_Image": "StoryReplay_region8_53",
-    "replay_list_summary": "25092"
+    "replay_list_summary": "25178"
   },
   {
     "id": 1183,
@@ -2106,10 +2106,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 175,
-    "story_chapter_name": "36721",
-    "story_group_name": "36695",
+    "story_chapter_name": "36806",
+    "story_group_name": "36780",
     "replay_Image": "StoryReplay_region8_54",
-    "replay_list_summary": "25093"
+    "replay_list_summary": "25179"
   },
   {
     "id": 1184,
@@ -2118,10 +2118,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 176,
-    "story_chapter_name": "36722",
-    "story_group_name": "36696",
+    "story_chapter_name": "36807",
+    "story_group_name": "36781",
     "replay_Image": "StoryReplay_region8_55",
-    "replay_list_summary": "25094"
+    "replay_list_summary": "25180"
   },
   {
     "id": 1185,
@@ -2130,10 +2130,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 177,
-    "story_chapter_name": "36723",
-    "story_group_name": "36697",
+    "story_chapter_name": "36808",
+    "story_group_name": "36782",
     "replay_Image": "StoryReplay_region8_56",
-    "replay_list_summary": "25095"
+    "replay_list_summary": "25181"
   },
   {
     "id": 1186,
@@ -2142,10 +2142,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 178,
-    "story_chapter_name": "36724",
-    "story_group_name": "36698",
+    "story_chapter_name": "36809",
+    "story_group_name": "36783",
     "replay_Image": "StoryReplay_region8_57",
-    "replay_list_summary": "25096"
+    "replay_list_summary": "25182"
   },
   {
     "id": 1187,
@@ -2154,10 +2154,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 179,
-    "story_chapter_name": "36725",
-    "story_group_name": "36699",
+    "story_chapter_name": "36810",
+    "story_group_name": "36784",
     "replay_Image": "StoryReplay_region8_58",
-    "replay_list_summary": "25097"
+    "replay_list_summary": "25183"
   },
   {
     "id": 1188,
@@ -2166,10 +2166,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 180,
-    "story_chapter_name": "36726",
-    "story_group_name": "36700",
+    "story_chapter_name": "36811",
+    "story_group_name": "36785",
     "replay_Image": "StoryReplay_region8_59",
-    "replay_list_summary": "25098"
+    "replay_list_summary": "25184"
   },
   {
     "id": 1189,
@@ -2178,10 +2178,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 181,
-    "story_chapter_name": "36727",
-    "story_group_name": "36701",
+    "story_chapter_name": "36812",
+    "story_group_name": "36786",
     "replay_Image": "StoryReplay_region8_60",
-    "replay_list_summary": "25099"
+    "replay_list_summary": "25185"
   },
   {
     "id": 1190,
@@ -2190,10 +2190,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 182,
-    "story_chapter_name": "36728",
-    "story_group_name": "36702",
+    "story_chapter_name": "36813",
+    "story_group_name": "36787",
     "replay_Image": "StoryReplay_region8_61",
-    "replay_list_summary": "25100"
+    "replay_list_summary": "25186"
   },
   {
     "id": 1191,
@@ -2202,10 +2202,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 183,
-    "story_chapter_name": "36729",
-    "story_group_name": "36703",
+    "story_chapter_name": "36814",
+    "story_group_name": "36788",
     "replay_Image": "StoryReplay_region8_62",
-    "replay_list_summary": "25101"
+    "replay_list_summary": "25187"
   },
   {
     "id": 1192,
@@ -2214,10 +2214,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 184,
-    "story_chapter_name": "36730",
-    "story_group_name": "36704",
+    "story_chapter_name": "36815",
+    "story_group_name": "36789",
     "replay_Image": "StoryReplay_region8_63",
-    "replay_list_summary": "25102"
+    "replay_list_summary": "25188"
   },
   {
     "id": 1193,
@@ -2226,10 +2226,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 185,
-    "story_chapter_name": "36731",
-    "story_group_name": "36705",
+    "story_chapter_name": "36816",
+    "story_group_name": "36790",
     "replay_Image": "StoryReplay_region8_64",
-    "replay_list_summary": "25103"
+    "replay_list_summary": "25189"
   },
   {
     "id": 1194,
@@ -2238,10 +2238,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 186,
-    "story_chapter_name": "36732",
-    "story_group_name": "36706",
+    "story_chapter_name": "36817",
+    "story_group_name": "36791",
     "replay_Image": "StoryReplay_region8_65",
-    "replay_list_summary": "25104"
+    "replay_list_summary": "25190"
   },
   {
     "id": 1195,
@@ -2250,10 +2250,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 187,
-    "story_chapter_name": "36733",
-    "story_group_name": "36707",
+    "story_chapter_name": "36818",
+    "story_group_name": "36792",
     "replay_Image": "StoryReplay_region8_66",
-    "replay_list_summary": "25105"
+    "replay_list_summary": "25191"
   },
   {
     "id": 1196,
@@ -2262,10 +2262,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 188,
-    "story_chapter_name": "36734",
-    "story_group_name": "36708",
+    "story_chapter_name": "36819",
+    "story_group_name": "36793",
     "replay_Image": "StoryReplay_region8_67",
-    "replay_list_summary": "25106"
+    "replay_list_summary": "25192"
   },
   {
     "id": 1197,
@@ -2274,10 +2274,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 189,
-    "story_chapter_name": "36735",
-    "story_group_name": "36709",
+    "story_chapter_name": "36820",
+    "story_group_name": "36794",
     "replay_Image": "StoryReplay_region8_68",
-    "replay_list_summary": "25107"
+    "replay_list_summary": "25193"
   },
   {
     "id": 1198,
@@ -2286,10 +2286,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 190,
-    "story_chapter_name": "36736",
-    "story_group_name": "36710",
+    "story_chapter_name": "36821",
+    "story_group_name": "36795",
     "replay_Image": "StoryReplay_region8_69",
-    "replay_list_summary": "25108"
+    "replay_list_summary": "25194"
   },
   {
     "id": 1199,
@@ -2298,10 +2298,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 191,
-    "story_chapter_name": "27334",
-    "story_group_name": "36711",
+    "story_chapter_name": "27419",
+    "story_group_name": "36796",
     "replay_Image": "StoryReplay_region8_70",
-    "replay_list_summary": "25109"
+    "replay_list_summary": "25195"
   },
   {
     "id": 1200,
@@ -2310,10 +2310,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 192,
-    "story_chapter_name": "37756",
-    "story_group_name": "37741",
+    "story_chapter_name": "37841",
+    "story_group_name": "37826",
     "replay_Image": "StoryReplay_region8_71",
-    "replay_list_summary": "37706"
+    "replay_list_summary": "37791"
   },
   {
     "id": 1202,
@@ -2322,10 +2322,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 194,
-    "story_chapter_name": "37757",
-    "story_group_name": "37742",
+    "story_chapter_name": "37842",
+    "story_group_name": "37827",
     "replay_Image": "StoryReplay_region8_72",
-    "replay_list_summary": "37707"
+    "replay_list_summary": "37792"
   },
   {
     "id": 1203,
@@ -2334,10 +2334,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 195,
-    "story_chapter_name": "37758",
-    "story_group_name": "37743",
+    "story_chapter_name": "37843",
+    "story_group_name": "37828",
     "replay_Image": "StoryReplay_region8_73",
-    "replay_list_summary": "37708"
+    "replay_list_summary": "37793"
   },
   {
     "id": 1204,
@@ -2346,10 +2346,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 196,
-    "story_chapter_name": "37759",
-    "story_group_name": "37744",
+    "story_chapter_name": "37844",
+    "story_group_name": "37829",
     "replay_Image": "StoryReplay_region8_74",
-    "replay_list_summary": "37709"
+    "replay_list_summary": "37794"
   },
   {
     "id": 1205,
@@ -2358,10 +2358,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 197,
-    "story_chapter_name": "37760",
-    "story_group_name": "37745",
+    "story_chapter_name": "37845",
+    "story_group_name": "37830",
     "replay_Image": "StoryReplay_region8_75",
-    "replay_list_summary": "37710"
+    "replay_list_summary": "37795"
   },
   {
     "id": 1206,
@@ -2370,10 +2370,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 198,
-    "story_chapter_name": "37761",
-    "story_group_name": "37746",
+    "story_chapter_name": "37846",
+    "story_group_name": "37831",
     "replay_Image": "StoryReplay_region8_76",
-    "replay_list_summary": "37711"
+    "replay_list_summary": "37796"
   },
   {
     "id": 1207,
@@ -2382,10 +2382,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 199,
-    "story_chapter_name": "37762",
-    "story_group_name": "37747",
+    "story_chapter_name": "37847",
+    "story_group_name": "37832",
     "replay_Image": "StoryReplay_region8_77",
-    "replay_list_summary": "37712"
+    "replay_list_summary": "37797"
   },
   {
     "id": 1208,
@@ -2394,10 +2394,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 200,
-    "story_chapter_name": "37763",
-    "story_group_name": "37748",
+    "story_chapter_name": "37848",
+    "story_group_name": "37833",
     "replay_Image": "StoryReplay_region8_78",
-    "replay_list_summary": "37713"
+    "replay_list_summary": "37798"
   },
   {
     "id": 1209,
@@ -2406,10 +2406,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 201,
-    "story_chapter_name": "37764",
-    "story_group_name": "37749",
+    "story_chapter_name": "37849",
+    "story_group_name": "37834",
     "replay_Image": "StoryReplay_region8_79",
-    "replay_list_summary": "37714"
+    "replay_list_summary": "37799"
   },
   {
     "id": 1210,
@@ -2418,10 +2418,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 202,
-    "story_chapter_name": "37765",
-    "story_group_name": "37750",
+    "story_chapter_name": "37850",
+    "story_group_name": "37835",
     "replay_Image": "StoryReplay_region8_80",
-    "replay_list_summary": "37715"
+    "replay_list_summary": "37800"
   },
   {
     "id": 1211,
@@ -2430,10 +2430,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 203,
-    "story_chapter_name": "37766",
-    "story_group_name": "37751",
+    "story_chapter_name": "37851",
+    "story_group_name": "37836",
     "replay_Image": "StoryReplay_region8_81",
-    "replay_list_summary": "37716"
+    "replay_list_summary": "37801"
   },
   {
     "id": 1212,
@@ -2442,10 +2442,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 204,
-    "story_chapter_name": "37767",
-    "story_group_name": "37752",
+    "story_chapter_name": "37852",
+    "story_group_name": "37837",
     "replay_Image": "StoryReplay_region8_82",
-    "replay_list_summary": "37717"
+    "replay_list_summary": "37802"
   },
   {
     "id": 1213,
@@ -2454,10 +2454,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 205,
-    "story_chapter_name": "37768",
-    "story_group_name": "37753",
+    "story_chapter_name": "37853",
+    "story_group_name": "37838",
     "replay_Image": "StoryReplay_region8_83",
-    "replay_list_summary": "37718"
+    "replay_list_summary": "37803"
   },
   {
     "id": 1214,
@@ -2466,10 +2466,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 206,
-    "story_chapter_name": "37769",
-    "story_group_name": "37754",
+    "story_chapter_name": "37854",
+    "story_group_name": "37839",
     "replay_Image": "StoryReplay_region8_84",
-    "replay_list_summary": "37719"
+    "replay_list_summary": "37804"
   },
   {
     "id": 1215,
@@ -2478,10 +2478,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 207,
-    "story_chapter_name": "37770",
-    "story_group_name": "37755",
+    "story_chapter_name": "37855",
+    "story_group_name": "37840",
     "replay_Image": "StoryReplay_region8_85",
-    "replay_list_summary": "37720"
+    "replay_list_summary": "37805"
   },
   {
     "id": 1216,
@@ -2490,10 +2490,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 208,
-    "story_chapter_name": "40669",
-    "story_group_name": "40653",
+    "story_chapter_name": "40730",
+    "story_group_name": "40713",
     "replay_Image": "StoryReplay_region12_5_01",
-    "replay_list_summary": "40615"
+    "replay_list_summary": "40673"
   },
   {
     "id": 1217,
@@ -2502,10 +2502,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 209,
-    "story_chapter_name": "40670",
-    "story_group_name": "40654",
+    "story_chapter_name": "40731",
+    "story_group_name": "40714",
     "replay_Image": "StoryReplay_region12_5_02",
-    "replay_list_summary": "40616"
+    "replay_list_summary": "40674"
   },
   {
     "id": 1218,
@@ -2514,10 +2514,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 210,
-    "story_chapter_name": "40671",
-    "story_group_name": "40655",
+    "story_chapter_name": "40732",
+    "story_group_name": "40715",
     "replay_Image": "StoryReplay_region12_5_03",
-    "replay_list_summary": "40617"
+    "replay_list_summary": "40675"
   },
   {
     "id": 1219,
@@ -2526,10 +2526,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 211,
-    "story_chapter_name": "40672",
-    "story_group_name": "40656",
+    "story_chapter_name": "40733",
+    "story_group_name": "40716",
     "replay_Image": "StoryReplay_region12_5_04",
-    "replay_list_summary": "40618"
+    "replay_list_summary": "40676"
   },
   {
     "id": 1220,
@@ -2538,10 +2538,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 212,
-    "story_chapter_name": "40673",
-    "story_group_name": "40657",
+    "story_chapter_name": "40734",
+    "story_group_name": "40717",
     "replay_Image": "StoryReplay_region12_5_05",
-    "replay_list_summary": "40619"
+    "replay_list_summary": "40677"
   },
   {
     "id": 1221,
@@ -2550,10 +2550,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 213,
-    "story_chapter_name": "40674",
-    "story_group_name": "40658",
+    "story_chapter_name": "40735",
+    "story_group_name": "40718",
     "replay_Image": "StoryReplay_region12_5_06",
-    "replay_list_summary": "40620"
+    "replay_list_summary": "40678"
   },
   {
     "id": 1222,
@@ -2562,10 +2562,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 214,
-    "story_chapter_name": "40675",
-    "story_group_name": "40659",
+    "story_chapter_name": "40736",
+    "story_group_name": "40719",
     "replay_Image": "StoryReplay_region12_5_07",
-    "replay_list_summary": "40621"
+    "replay_list_summary": "40679"
   },
   {
     "id": 1223,
@@ -2574,10 +2574,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 215,
-    "story_chapter_name": "40676",
-    "story_group_name": "40660",
+    "story_chapter_name": "40737",
+    "story_group_name": "40720",
     "replay_Image": "StoryReplay_region12_5_08",
-    "replay_list_summary": "40622"
+    "replay_list_summary": "40680"
   },
   {
     "id": 1224,
@@ -2586,10 +2586,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 216,
-    "story_chapter_name": "40677",
-    "story_group_name": "40661",
+    "story_chapter_name": "40738",
+    "story_group_name": "40721",
     "replay_Image": "StoryReplay_region12_5_09",
-    "replay_list_summary": "40623"
+    "replay_list_summary": "40681"
   },
   {
     "id": 1225,
@@ -2598,10 +2598,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 217,
-    "story_chapter_name": "40678",
-    "story_group_name": "40662",
+    "story_chapter_name": "40739",
+    "story_group_name": "40722",
     "replay_Image": "StoryReplay_region12_5_10",
-    "replay_list_summary": "40624"
+    "replay_list_summary": "40682"
   },
   {
     "id": 1226,
@@ -2610,10 +2610,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 218,
-    "story_chapter_name": "40679",
-    "story_group_name": "40663",
+    "story_chapter_name": "40740",
+    "story_group_name": "40723",
     "replay_Image": "StoryReplay_region12_5_11",
-    "replay_list_summary": "40625"
+    "replay_list_summary": "40683"
   },
   {
     "id": 1227,
@@ -2622,10 +2622,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 219,
-    "story_chapter_name": "40680",
-    "story_group_name": "40664",
+    "story_chapter_name": "40741",
+    "story_group_name": "40724",
     "replay_Image": "StoryReplay_region12_5_12",
-    "replay_list_summary": "40626"
+    "replay_list_summary": "40684"
   },
   {
     "id": 1228,
@@ -2634,10 +2634,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 220,
-    "story_chapter_name": "40681",
-    "story_group_name": "40665",
+    "story_chapter_name": "40742",
+    "story_group_name": "40725",
     "replay_Image": "StoryReplay_region12_5_13",
-    "replay_list_summary": "40627"
+    "replay_list_summary": "40685"
   },
   {
     "id": 1229,
@@ -2646,10 +2646,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 221,
-    "story_chapter_name": "40682",
-    "story_group_name": "40666",
+    "story_chapter_name": "40743",
+    "story_group_name": "40726",
     "replay_Image": "StoryReplay_region12_5_14",
-    "replay_list_summary": "40628"
+    "replay_list_summary": "40686"
   },
   {
     "id": 1230,
@@ -2658,10 +2658,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 222,
-    "story_chapter_name": "40683",
-    "story_group_name": "40667",
+    "story_chapter_name": "40744",
+    "story_group_name": "40727",
     "replay_Image": "StoryReplay_region12_5_15",
-    "replay_list_summary": "40629"
+    "replay_list_summary": "40687"
   },
   {
     "id": 1231,
@@ -2670,10 +2670,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 223,
-    "story_chapter_name": "40684",
-    "story_group_name": "40668",
+    "story_chapter_name": "41130",
+    "story_group_name": "40728",
     "replay_Image": "StoryReplay_region12_5_16",
-    "replay_list_summary": "40630"
+    "replay_list_summary": "40688"
   },
   {
     "id": 101001,
@@ -2682,10 +2682,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101001,
-    "story_chapter_name": "27336",
-    "story_group_name": "27660",
+    "story_chapter_name": "27421",
+    "story_group_name": "27745",
     "replay_Image": "StoryReplay_sub_region1_01",
-    "replay_list_summary": "24940"
+    "replay_list_summary": "25026"
   },
   {
     "id": 101002,
@@ -2694,10 +2694,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101002,
-    "story_chapter_name": "27337",
-    "story_group_name": "27666",
+    "story_chapter_name": "27422",
+    "story_group_name": "27751",
     "replay_Image": "StoryReplay_sub_region1_02",
-    "replay_list_summary": "24941"
+    "replay_list_summary": "25027"
   },
   {
     "id": 101003,
@@ -2706,10 +2706,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101003,
-    "story_chapter_name": "27337",
-    "story_group_name": "27667",
+    "story_chapter_name": "27422",
+    "story_group_name": "27752",
     "replay_Image": "StoryReplay_sub_region1_03",
-    "replay_list_summary": "24942"
+    "replay_list_summary": "25028"
   },
   {
     "id": 101004,
@@ -2718,10 +2718,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101004,
-    "story_chapter_name": "27338",
-    "story_group_name": "27668",
+    "story_chapter_name": "27423",
+    "story_group_name": "27753",
     "replay_Image": "StoryReplay_sub_region1_04",
-    "replay_list_summary": "24943"
+    "replay_list_summary": "25029"
   },
   {
     "id": 101005,
@@ -2730,10 +2730,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101005,
-    "story_chapter_name": "27338",
-    "story_group_name": "27669",
+    "story_chapter_name": "27423",
+    "story_group_name": "27754",
     "replay_Image": "StoryReplay_sub_region1_05",
-    "replay_list_summary": "24944"
+    "replay_list_summary": "25030"
   },
   {
     "id": 101006,
@@ -2742,10 +2742,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101006,
-    "story_chapter_name": "27338",
-    "story_group_name": "27670",
+    "story_chapter_name": "27423",
+    "story_group_name": "27755",
     "replay_Image": "StoryReplay_sub_region1_06",
-    "replay_list_summary": "24945"
+    "replay_list_summary": "25031"
   },
   {
     "id": 101007,
@@ -2754,10 +2754,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101007,
-    "story_chapter_name": "27339",
-    "story_group_name": "27671",
+    "story_chapter_name": "27424",
+    "story_group_name": "27756",
     "replay_Image": "StoryReplay_sub_region1_07",
-    "replay_list_summary": "24946"
+    "replay_list_summary": "25032"
   },
   {
     "id": 101008,
@@ -2766,10 +2766,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101008,
-    "story_chapter_name": "27339",
-    "story_group_name": "27672",
+    "story_chapter_name": "27424",
+    "story_group_name": "27757",
     "replay_Image": "StoryReplay_sub_region1_08",
-    "replay_list_summary": "24947"
+    "replay_list_summary": "25033"
   },
   {
     "id": 101009,
@@ -2778,10 +2778,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101009,
-    "story_chapter_name": "27339",
-    "story_group_name": "27673",
+    "story_chapter_name": "27424",
+    "story_group_name": "27758",
     "replay_Image": "StoryReplay_sub_region1_09",
-    "replay_list_summary": "24948"
+    "replay_list_summary": "25034"
   },
   {
     "id": 101010,
@@ -2790,10 +2790,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101010,
-    "story_chapter_name": "27340",
-    "story_group_name": "27674",
+    "story_chapter_name": "27425",
+    "story_group_name": "27759",
     "replay_Image": "StoryReplay_sub_region1_10",
-    "replay_list_summary": "24949"
+    "replay_list_summary": "25035"
   },
   {
     "id": 101011,
@@ -2802,10 +2802,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101011,
-    "story_chapter_name": "27340",
-    "story_group_name": "27675",
+    "story_chapter_name": "27425",
+    "story_group_name": "27760",
     "replay_Image": "StoryReplay_sub_region1_11",
-    "replay_list_summary": "24950"
+    "replay_list_summary": "25036"
   },
   {
     "id": 101012,
@@ -2814,10 +2814,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101012,
-    "story_chapter_name": "27340",
-    "story_group_name": "27676",
+    "story_chapter_name": "27425",
+    "story_group_name": "27761",
     "replay_Image": "StoryReplay_sub_region1_12",
-    "replay_list_summary": "24951"
+    "replay_list_summary": "25037"
   },
   {
     "id": 101013,
@@ -2826,10 +2826,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101013,
-    "story_chapter_name": "27341",
-    "story_group_name": "28046",
+    "story_chapter_name": "27426",
+    "story_group_name": "28131",
     "replay_Image": "StoryReplay_sub_region2_01",
-    "replay_list_summary": "24952"
+    "replay_list_summary": "25038"
   },
   {
     "id": 101014,
@@ -2838,10 +2838,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101014,
-    "story_chapter_name": "27341",
-    "story_group_name": "28047",
+    "story_chapter_name": "27426",
+    "story_group_name": "28132",
     "replay_Image": "StoryReplay_sub_region2_02",
-    "replay_list_summary": "24953"
+    "replay_list_summary": "25039"
   },
   {
     "id": 101015,
@@ -2850,10 +2850,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101015,
-    "story_chapter_name": "27342",
-    "story_group_name": "28048",
+    "story_chapter_name": "27427",
+    "story_group_name": "28133",
     "replay_Image": "StoryReplay_sub_region2_03",
-    "replay_list_summary": "24954"
+    "replay_list_summary": "25040"
   },
   {
     "id": 101016,
@@ -2862,10 +2862,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101016,
-    "story_chapter_name": "27342",
-    "story_group_name": "28049",
+    "story_chapter_name": "27427",
+    "story_group_name": "28134",
     "replay_Image": "StoryReplay_sub_region2_04",
-    "replay_list_summary": "24955"
+    "replay_list_summary": "25041"
   },
   {
     "id": 101017,
@@ -2874,10 +2874,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101017,
-    "story_chapter_name": "27343",
-    "story_group_name": "28050",
+    "story_chapter_name": "27428",
+    "story_group_name": "28135",
     "replay_Image": "StoryReplay_sub_region2_05",
-    "replay_list_summary": "24956"
+    "replay_list_summary": "25042"
   },
   {
     "id": 101018,
@@ -2886,10 +2886,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101018,
-    "story_chapter_name": "27343",
-    "story_group_name": "28051",
+    "story_chapter_name": "27428",
+    "story_group_name": "28136",
     "replay_Image": "StoryReplay_sub_region2_06",
-    "replay_list_summary": "24957"
+    "replay_list_summary": "25043"
   },
   {
     "id": 101019,
@@ -2898,10 +2898,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101019,
-    "story_chapter_name": "27344",
-    "story_group_name": "28052",
+    "story_chapter_name": "27429",
+    "story_group_name": "28137",
     "replay_Image": "StoryReplay_sub_region2_07",
-    "replay_list_summary": "24958"
+    "replay_list_summary": "25044"
   },
   {
     "id": 101020,
@@ -2910,10 +2910,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101020,
-    "story_chapter_name": "27344",
-    "story_group_name": "28053",
+    "story_chapter_name": "27429",
+    "story_group_name": "28138",
     "replay_Image": "StoryReplay_sub_region2_08",
-    "replay_list_summary": "24959"
+    "replay_list_summary": "25045"
   },
   {
     "id": 101021,
@@ -2922,10 +2922,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101021,
-    "story_chapter_name": "27345",
-    "story_group_name": "28054",
+    "story_chapter_name": "27430",
+    "story_group_name": "28139",
     "replay_Image": "StoryReplay_sub_region2_09",
-    "replay_list_summary": "24960"
+    "replay_list_summary": "25046"
   },
   {
     "id": 101022,
@@ -2934,10 +2934,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101022,
-    "story_chapter_name": "27345",
-    "story_group_name": "28055",
+    "story_chapter_name": "27430",
+    "story_group_name": "28140",
     "replay_Image": "StoryReplay_sub_region2_10",
-    "replay_list_summary": "24961"
+    "replay_list_summary": "25047"
   },
   {
     "id": 101023,
@@ -2946,10 +2946,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101023,
-    "story_chapter_name": "27345",
-    "story_group_name": "28056",
+    "story_chapter_name": "27430",
+    "story_group_name": "28141",
     "replay_Image": "StoryReplay_sub_region2_11",
-    "replay_list_summary": "24962"
+    "replay_list_summary": "25048"
   },
   {
     "id": 101024,
@@ -2958,10 +2958,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101024,
-    "story_chapter_name": "27346",
-    "story_group_name": "28241",
+    "story_chapter_name": "27431",
+    "story_group_name": "28326",
     "replay_Image": "StoryReplay_sub_region3_01",
-    "replay_list_summary": "24963"
+    "replay_list_summary": "25049"
   },
   {
     "id": 101025,
@@ -2970,10 +2970,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101025,
-    "story_chapter_name": "27346",
-    "story_group_name": "28242",
+    "story_chapter_name": "27431",
+    "story_group_name": "28327",
     "replay_Image": "StoryReplay_sub_region3_02",
-    "replay_list_summary": "24964"
+    "replay_list_summary": "25050"
   },
   {
     "id": 101034,
@@ -2982,10 +2982,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101034,
-    "story_chapter_name": "27347",
-    "story_group_name": "28243",
+    "story_chapter_name": "27432",
+    "story_group_name": "28328",
     "replay_Image": "StoryReplay_sub_region3_11",
-    "replay_list_summary": "24973"
+    "replay_list_summary": "25059"
   },
   {
     "id": 101036,
@@ -2994,10 +2994,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101036,
-    "story_chapter_name": "27347",
-    "story_group_name": "28245",
+    "story_chapter_name": "27432",
+    "story_group_name": "28330",
     "replay_Image": "StoryReplay_sub_region3_13",
-    "replay_list_summary": "24975"
+    "replay_list_summary": "25061"
   },
   {
     "id": 101038,
@@ -3006,10 +3006,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101038,
-    "story_chapter_name": "27347",
-    "story_group_name": "28246",
+    "story_chapter_name": "27432",
+    "story_group_name": "28331",
     "replay_Image": "StoryReplay_sub_region3_15",
-    "replay_list_summary": "24977"
+    "replay_list_summary": "25063"
   },
   {
     "id": 101039,
@@ -3018,10 +3018,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101039,
-    "story_chapter_name": "27347",
-    "story_group_name": "28247",
+    "story_chapter_name": "27432",
+    "story_group_name": "28332",
     "replay_Image": "StoryReplay_sub_region3_16",
-    "replay_list_summary": "24978"
+    "replay_list_summary": "25064"
   },
   {
     "id": 101040,
@@ -3030,10 +3030,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101040,
-    "story_chapter_name": "27348",
-    "story_group_name": "28435",
+    "story_chapter_name": "27433",
+    "story_group_name": "28520",
     "replay_Image": "StoryReplay_sub_region4_01",
-    "replay_list_summary": "24979"
+    "replay_list_summary": "25065"
   },
   {
     "id": 101041,
@@ -3042,10 +3042,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101041,
-    "story_chapter_name": "27348",
-    "story_group_name": "28436",
+    "story_chapter_name": "27433",
+    "story_group_name": "28521",
     "replay_Image": "StoryReplay_sub_region4_02",
-    "replay_list_summary": "24980"
+    "replay_list_summary": "25066"
   },
   {
     "id": 101042,
@@ -3054,10 +3054,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101042,
-    "story_chapter_name": "27348",
-    "story_group_name": "28437",
+    "story_chapter_name": "27433",
+    "story_group_name": "28522",
     "replay_Image": "StoryReplay_sub_region4_03",
-    "replay_list_summary": "24981"
+    "replay_list_summary": "25067"
   },
   {
     "id": 101043,
@@ -3066,10 +3066,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101043,
-    "story_chapter_name": "27349",
-    "story_group_name": "28438",
+    "story_chapter_name": "27434",
+    "story_group_name": "28523",
     "replay_Image": "StoryReplay_sub_region4_04",
-    "replay_list_summary": "24982"
+    "replay_list_summary": "25068"
   },
   {
     "id": 101044,
@@ -3078,10 +3078,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101044,
-    "story_chapter_name": "27349",
-    "story_group_name": "28439",
+    "story_chapter_name": "27434",
+    "story_group_name": "28524",
     "replay_Image": "StoryReplay_sub_region4_05",
-    "replay_list_summary": "24983"
+    "replay_list_summary": "25069"
   },
   {
     "id": 101045,
@@ -3090,10 +3090,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101045,
-    "story_chapter_name": "27349",
-    "story_group_name": "28440",
+    "story_chapter_name": "27434",
+    "story_group_name": "28525",
     "replay_Image": "StoryReplay_sub_region4_06",
-    "replay_list_summary": "24984"
+    "replay_list_summary": "25070"
   },
   {
     "id": 101046,
@@ -3102,10 +3102,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101046,
-    "story_chapter_name": "27350",
-    "story_group_name": "28441",
+    "story_chapter_name": "27435",
+    "story_group_name": "28526",
     "replay_Image": "StoryReplay_sub_region4_07",
-    "replay_list_summary": "24985"
+    "replay_list_summary": "25071"
   },
   {
     "id": 101047,
@@ -3114,10 +3114,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101047,
-    "story_chapter_name": "27350",
-    "story_group_name": "28442",
+    "story_chapter_name": "27435",
+    "story_group_name": "28527",
     "replay_Image": "StoryReplay_sub_region4_08",
-    "replay_list_summary": "24986"
+    "replay_list_summary": "25072"
   },
   {
     "id": 101048,
@@ -3126,10 +3126,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101048,
-    "story_chapter_name": "27351",
-    "story_group_name": "28443",
+    "story_chapter_name": "27436",
+    "story_group_name": "28528",
     "replay_Image": "StoryReplay_sub_region4_09",
-    "replay_list_summary": "24987"
+    "replay_list_summary": "25073"
   },
   {
     "id": 101049,
@@ -3138,10 +3138,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101049,
-    "story_chapter_name": "27351",
-    "story_group_name": "28444",
+    "story_chapter_name": "27436",
+    "story_group_name": "28529",
     "replay_Image": "StoryReplay_sub_region4_10",
-    "replay_list_summary": "24988"
+    "replay_list_summary": "25074"
   },
   {
     "id": 101050,
@@ -3150,10 +3150,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101050,
-    "story_chapter_name": "27351",
-    "story_group_name": "28445",
+    "story_chapter_name": "27436",
+    "story_group_name": "28530",
     "replay_Image": "StoryReplay_sub_region4_11",
-    "replay_list_summary": "24989"
+    "replay_list_summary": "25075"
   },
   {
     "id": 101051,
@@ -3162,10 +3162,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101051,
-    "story_chapter_name": "27352",
-    "story_group_name": "28446",
+    "story_chapter_name": "27437",
+    "story_group_name": "28531",
     "replay_Image": "StoryReplay_sub_region4_12",
-    "replay_list_summary": "24990"
+    "replay_list_summary": "25076"
   },
   {
     "id": 101052,
@@ -3174,10 +3174,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101052,
-    "story_chapter_name": "27352",
-    "story_group_name": "28447",
+    "story_chapter_name": "27437",
+    "story_group_name": "28532",
     "replay_Image": "StoryReplay_sub_region4_13",
-    "replay_list_summary": "24991"
+    "replay_list_summary": "25077"
   },
   {
     "id": 101053,
@@ -3186,10 +3186,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101053,
-    "story_chapter_name": "27354",
-    "story_group_name": "28656",
+    "story_chapter_name": "27439",
+    "story_group_name": "28741",
     "replay_Image": "StoryReplay_sub_region5_01",
-    "replay_list_summary": "24999"
+    "replay_list_summary": "25085"
   },
   {
     "id": 101054,
@@ -3198,10 +3198,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101054,
-    "story_chapter_name": "27354",
-    "story_group_name": "28657",
+    "story_chapter_name": "27439",
+    "story_group_name": "28742",
     "replay_Image": "StoryReplay_sub_region5_02",
-    "replay_list_summary": "25000"
+    "replay_list_summary": "25086"
   },
   {
     "id": 101055,
@@ -3210,10 +3210,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101055,
-    "story_chapter_name": "27354",
-    "story_group_name": "28658",
+    "story_chapter_name": "27439",
+    "story_group_name": "28743",
     "replay_Image": "StoryReplay_sub_region5_03",
-    "replay_list_summary": "25001"
+    "replay_list_summary": "25087"
   },
   {
     "id": 101056,
@@ -3222,10 +3222,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101056,
-    "story_chapter_name": "27354",
-    "story_group_name": "28659",
+    "story_chapter_name": "27439",
+    "story_group_name": "28744",
     "replay_Image": "StoryReplay_sub_region5_04",
-    "replay_list_summary": "25002"
+    "replay_list_summary": "25088"
   },
   {
     "id": 101057,
@@ -3234,10 +3234,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101057,
-    "story_chapter_name": "27354",
-    "story_group_name": "28660",
+    "story_chapter_name": "27439",
+    "story_group_name": "28745",
     "replay_Image": "StoryReplay_sub_region5_05",
-    "replay_list_summary": "25003"
+    "replay_list_summary": "25089"
   },
   {
     "id": 101058,
@@ -3246,10 +3246,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101058,
-    "story_chapter_name": "27355",
-    "story_group_name": "28662",
+    "story_chapter_name": "27440",
+    "story_group_name": "28747",
     "replay_Image": "StoryReplay_sub_region5_06",
-    "replay_list_summary": "25005"
+    "replay_list_summary": "25091"
   },
   {
     "id": 101059,
@@ -3258,10 +3258,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101059,
-    "story_chapter_name": "27355",
-    "story_group_name": "28663",
+    "story_chapter_name": "27440",
+    "story_group_name": "28748",
     "replay_Image": "StoryReplay_sub_region5_07",
-    "replay_list_summary": "25006"
+    "replay_list_summary": "25092"
   },
   {
     "id": 101060,
@@ -3270,10 +3270,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101060,
-    "story_chapter_name": "27355",
-    "story_group_name": "28661",
+    "story_chapter_name": "27440",
+    "story_group_name": "28746",
     "replay_Image": "StoryReplay_sub_region5_08",
-    "replay_list_summary": "25004"
+    "replay_list_summary": "25090"
   },
   {
     "id": 101061,
@@ -3282,10 +3282,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101061,
-    "story_chapter_name": "27356",
-    "story_group_name": "28664",
+    "story_chapter_name": "27441",
+    "story_group_name": "28749",
     "replay_Image": "StoryReplay_sub_region5_09",
-    "replay_list_summary": "25007"
+    "replay_list_summary": "25093"
   },
   {
     "id": 101062,
@@ -3294,10 +3294,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101062,
-    "story_chapter_name": "27356",
-    "story_group_name": "28665",
+    "story_chapter_name": "27441",
+    "story_group_name": "28750",
     "replay_Image": "StoryReplay_sub_region5_10",
-    "replay_list_summary": "25008"
+    "replay_list_summary": "25094"
   },
   {
     "id": 101063,
@@ -3306,10 +3306,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101063,
-    "story_chapter_name": "27353",
-    "story_group_name": "28652",
+    "story_chapter_name": "27438",
+    "story_group_name": "28737",
     "replay_Image": "StoryReplay_sub_region5_11",
-    "replay_list_summary": "24992"
+    "replay_list_summary": "25078"
   },
   {
     "id": 101064,
@@ -3318,10 +3318,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101064,
-    "story_chapter_name": "27353",
-    "story_group_name": "28653",
+    "story_chapter_name": "27438",
+    "story_group_name": "28738",
     "replay_Image": "StoryReplay_sub_region5_12",
-    "replay_list_summary": "24993"
+    "replay_list_summary": "25079"
   },
   {
     "id": 101065,
@@ -3330,10 +3330,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101065,
-    "story_chapter_name": "27353",
-    "story_group_name": "28654",
+    "story_chapter_name": "27438",
+    "story_group_name": "28739",
     "replay_Image": "StoryReplay_sub_region5_13",
-    "replay_list_summary": "24994"
+    "replay_list_summary": "25080"
   },
   {
     "id": 101066,
@@ -3342,10 +3342,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101066,
-    "story_chapter_name": "27353",
-    "story_group_name": "28655",
+    "story_chapter_name": "27438",
+    "story_group_name": "28740",
     "replay_Image": "StoryReplay_sub_region5_14",
-    "replay_list_summary": "24995"
+    "replay_list_summary": "25081"
   },
   {
     "id": 101070,
@@ -3354,10 +3354,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101070,
-    "story_chapter_name": "27357",
-    "story_group_name": "28666",
+    "story_chapter_name": "27442",
+    "story_group_name": "28751",
     "replay_Image": "StoryReplay_sub_region5_18",
-    "replay_list_summary": "25009"
+    "replay_list_summary": "25095"
   },
   {
     "id": 101071,
@@ -3366,10 +3366,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101071,
-    "story_chapter_name": "27357",
-    "story_group_name": "28667",
+    "story_chapter_name": "27442",
+    "story_group_name": "28752",
     "replay_Image": "StoryReplay_sub_region5_19",
-    "replay_list_summary": "25010"
+    "replay_list_summary": "25096"
   },
   {
     "id": 101072,
@@ -3378,10 +3378,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101072,
-    "story_chapter_name": "27358",
-    "story_group_name": "28902",
+    "story_chapter_name": "27443",
+    "story_group_name": "28987",
     "replay_Image": "StoryReplay_sub_region6_01",
-    "replay_list_summary": "25011"
+    "replay_list_summary": "25097"
   },
   {
     "id": 101073,
@@ -3390,10 +3390,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101073,
-    "story_chapter_name": "27358",
-    "story_group_name": "28903",
+    "story_chapter_name": "27443",
+    "story_group_name": "28988",
     "replay_Image": "StoryReplay_sub_region6_02",
-    "replay_list_summary": "25012"
+    "replay_list_summary": "25098"
   },
   {
     "id": 101076,
@@ -3402,10 +3402,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101076,
-    "story_chapter_name": "27360",
-    "story_group_name": "28904",
+    "story_chapter_name": "27445",
+    "story_group_name": "28989",
     "replay_Image": "StoryReplay_sub_region6_05",
-    "replay_list_summary": "25016"
+    "replay_list_summary": "25102"
   },
   {
     "id": 101077,
@@ -3414,10 +3414,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101077,
-    "story_chapter_name": "27360",
-    "story_group_name": "28905",
+    "story_chapter_name": "27445",
+    "story_group_name": "28990",
     "replay_Image": "StoryReplay_sub_region6_06",
-    "replay_list_summary": "25017"
+    "replay_list_summary": "25103"
   },
   {
     "id": 101078,
@@ -3426,10 +3426,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101078,
-    "story_chapter_name": "27361",
-    "story_group_name": "28906",
+    "story_chapter_name": "27446",
+    "story_group_name": "28991",
     "replay_Image": "StoryReplay_sub_region6_07",
-    "replay_list_summary": "25019"
+    "replay_list_summary": "25105"
   },
   {
     "id": 101079,
@@ -3438,10 +3438,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101079,
-    "story_chapter_name": "27361",
-    "story_group_name": "28907",
+    "story_chapter_name": "27446",
+    "story_group_name": "28992",
     "replay_Image": "StoryReplay_sub_region6_08",
-    "replay_list_summary": "25020"
+    "replay_list_summary": "25106"
   },
   {
     "id": 101080,
@@ -3450,10 +3450,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101080,
-    "story_chapter_name": "27361",
-    "story_group_name": "28908",
+    "story_chapter_name": "27446",
+    "story_group_name": "28993",
     "replay_Image": "StoryReplay_sub_region6_09",
-    "replay_list_summary": "25021"
+    "replay_list_summary": "25107"
   },
   {
     "id": 101090,
@@ -3462,10 +3462,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101090,
-    "story_chapter_name": "27364",
-    "story_group_name": "29140",
+    "story_chapter_name": "27449",
+    "story_group_name": "29225",
     "replay_Image": "StoryReplay_sub_region6_13",
-    "replay_list_summary": "25028"
+    "replay_list_summary": "25114"
   },
   {
     "id": 101091,
@@ -3474,10 +3474,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101091,
-    "story_chapter_name": "27363",
-    "story_group_name": "29138",
+    "story_chapter_name": "27448",
+    "story_group_name": "29223",
     "replay_Image": "StoryReplay_sub_region6_14",
-    "replay_list_summary": "25026"
+    "replay_list_summary": "25112"
   },
   {
     "id": 101092,
@@ -3486,10 +3486,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101092,
-    "story_chapter_name": "27363",
-    "story_group_name": "29139",
+    "story_chapter_name": "27448",
+    "story_group_name": "29224",
     "replay_Image": "StoryReplay_sub_region6_15",
-    "replay_list_summary": "25027"
+    "replay_list_summary": "25113"
   },
   {
     "id": 101093,
@@ -3498,10 +3498,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101093,
-    "story_chapter_name": "27358",
-    "story_group_name": "29130",
+    "story_chapter_name": "27443",
+    "story_group_name": "29215",
     "replay_Image": "StoryReplay_sub_region6_16",
-    "replay_list_summary": "25013"
+    "replay_list_summary": "25099"
   },
   {
     "id": 101094,
@@ -3510,10 +3510,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101098,
-    "story_chapter_name": "27362",
-    "story_group_name": "29134",
+    "story_chapter_name": "27447",
+    "story_group_name": "29219",
     "replay_Image": "StoryReplay_sub_region6_17",
-    "replay_list_summary": "25022"
+    "replay_list_summary": "25108"
   },
   {
     "id": 101095,
@@ -3522,10 +3522,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101099,
-    "story_chapter_name": "27362",
-    "story_group_name": "29135",
+    "story_chapter_name": "27447",
+    "story_group_name": "29220",
     "replay_Image": "StoryReplay_sub_region6_18",
-    "replay_list_summary": "25023"
+    "replay_list_summary": "25109"
   },
   {
     "id": 101096,
@@ -3534,10 +3534,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101100,
-    "story_chapter_name": "27362",
-    "story_group_name": "29136",
+    "story_chapter_name": "27447",
+    "story_group_name": "29221",
     "replay_Image": "StoryReplay_sub_region6_19",
-    "replay_list_summary": "25024"
+    "replay_list_summary": "25110"
   },
   {
     "id": 101097,
@@ -3546,10 +3546,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101101,
-    "story_chapter_name": "27362",
-    "story_group_name": "29137",
+    "story_chapter_name": "27447",
+    "story_group_name": "29222",
     "replay_Image": "StoryReplay_sub_region6_20",
-    "replay_list_summary": "25025"
+    "replay_list_summary": "25111"
   },
   {
     "id": 101098,
@@ -3558,10 +3558,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101102,
-    "story_chapter_name": "27359",
-    "story_group_name": "29131",
+    "story_chapter_name": "27444",
+    "story_group_name": "29216",
     "replay_Image": "StoryReplay_sub_region6_21",
-    "replay_list_summary": "25014"
+    "replay_list_summary": "25100"
   },
   {
     "id": 101099,
@@ -3570,10 +3570,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101103,
-    "story_chapter_name": "27359",
-    "story_group_name": "29132",
+    "story_chapter_name": "27444",
+    "story_group_name": "29217",
     "replay_Image": "StoryReplay_sub_region6_22",
-    "replay_list_summary": "25015"
+    "replay_list_summary": "25101"
   },
   {
     "id": 101100,
@@ -3582,10 +3582,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101104,
-    "story_chapter_name": "27360",
-    "story_group_name": "29133",
+    "story_chapter_name": "27445",
+    "story_group_name": "29218",
     "replay_Image": "StoryReplay_sub_region6_23",
-    "replay_list_summary": "25018"
+    "replay_list_summary": "25104"
   },
   {
     "id": 200000,
@@ -3595,9 +3595,9 @@
     "story_region_ep": 1,
     "story_group": 1,
     "story_chapter_name": "",
-    "story_group_name": "29580",
+    "story_group_name": "29665",
     "replay_Image": "StoryReplay_another_region1_01",
-    "replay_list_summary": "25110"
+    "replay_list_summary": "25196"
   },
   {
     "id": 200001,
@@ -3607,9 +3607,9 @@
     "story_region_ep": 1,
     "story_group": 2,
     "story_chapter_name": "",
-    "story_group_name": "29581",
+    "story_group_name": "29666",
     "replay_Image": "StoryReplay_another_region1_02",
-    "replay_list_summary": "25111"
+    "replay_list_summary": "25197"
   },
   {
     "id": 200002,
@@ -3619,9 +3619,9 @@
     "story_region_ep": 1,
     "story_group": 3,
     "story_chapter_name": "",
-    "story_group_name": "29582",
+    "story_group_name": "29667",
     "replay_Image": "StoryReplay_another_region1_03",
-    "replay_list_summary": "25112"
+    "replay_list_summary": "25198"
   },
   {
     "id": 200003,
@@ -3631,9 +3631,9 @@
     "story_region_ep": 1,
     "story_group": 4,
     "story_chapter_name": "",
-    "story_group_name": "29583",
+    "story_group_name": "29668",
     "replay_Image": "StoryReplay_another_region1_04",
-    "replay_list_summary": "25113"
+    "replay_list_summary": "25199"
   },
   {
     "id": 200004,
@@ -3643,9 +3643,9 @@
     "story_region_ep": 1,
     "story_group": 5,
     "story_chapter_name": "",
-    "story_group_name": "29584",
+    "story_group_name": "29669",
     "replay_Image": "StoryReplay_another_region1_05",
-    "replay_list_summary": "25114"
+    "replay_list_summary": "25200"
   },
   {
     "id": 200005,
@@ -3655,9 +3655,9 @@
     "story_region_ep": 1,
     "story_group": 6,
     "story_chapter_name": "",
-    "story_group_name": "29585",
+    "story_group_name": "29670",
     "replay_Image": "StoryReplay_another_region1_06",
-    "replay_list_summary": "25115"
+    "replay_list_summary": "25201"
   },
   {
     "id": 200006,
@@ -3667,9 +3667,9 @@
     "story_region_ep": 1,
     "story_group": 7,
     "story_chapter_name": "",
-    "story_group_name": "29586",
+    "story_group_name": "29671",
     "replay_Image": "StoryReplay_another_region1_07",
-    "replay_list_summary": "25116"
+    "replay_list_summary": "25202"
   },
   {
     "id": 200007,
@@ -3679,9 +3679,9 @@
     "story_region_ep": 1,
     "story_group": 8,
     "story_chapter_name": "",
-    "story_group_name": "29587",
+    "story_group_name": "29672",
     "replay_Image": "StoryReplay_another_region1_08",
-    "replay_list_summary": "25117"
+    "replay_list_summary": "25203"
   },
   {
     "id": 200008,
@@ -3691,9 +3691,9 @@
     "story_region_ep": 1,
     "story_group": 9,
     "story_chapter_name": "",
-    "story_group_name": "29588",
+    "story_group_name": "29673",
     "replay_Image": "StoryReplay_another_region1_09",
-    "replay_list_summary": "25118"
+    "replay_list_summary": "25204"
   },
   {
     "id": 200009,
@@ -3703,9 +3703,9 @@
     "story_region_ep": 1,
     "story_group": 10,
     "story_chapter_name": "",
-    "story_group_name": "29589",
+    "story_group_name": "29674",
     "replay_Image": "StoryReplay_another_region1_10",
-    "replay_list_summary": "25119"
+    "replay_list_summary": "25205"
   },
   {
     "id": 200010,
@@ -3715,9 +3715,9 @@
     "story_region_ep": 1,
     "story_group": 11,
     "story_chapter_name": "",
-    "story_group_name": "29590",
+    "story_group_name": "29675",
     "replay_Image": "StoryReplay_another_region1_11",
-    "replay_list_summary": "25120"
+    "replay_list_summary": "25206"
   },
   {
     "id": 200011,
@@ -3727,9 +3727,9 @@
     "story_region_ep": 1,
     "story_group": 12,
     "story_chapter_name": "",
-    "story_group_name": "29591",
+    "story_group_name": "29676",
     "replay_Image": "StoryReplay_another_region1_12",
-    "replay_list_summary": "25121"
+    "replay_list_summary": "25207"
   },
   {
     "id": 200012,
@@ -3739,9 +3739,9 @@
     "story_region_ep": 1,
     "story_group": 13,
     "story_chapter_name": "",
-    "story_group_name": "29592",
+    "story_group_name": "29677",
     "replay_Image": "StoryReplay_another_region1_13",
-    "replay_list_summary": "25122"
+    "replay_list_summary": "25208"
   },
   {
     "id": 200013,
@@ -3751,9 +3751,9 @@
     "story_region_ep": 1,
     "story_group": 14,
     "story_chapter_name": "",
-    "story_group_name": "29593",
+    "story_group_name": "29678",
     "replay_Image": "StoryReplay_another_region1_14",
-    "replay_list_summary": "25123"
+    "replay_list_summary": "25209"
   },
   {
     "id": 200014,
@@ -3763,9 +3763,9 @@
     "story_region_ep": 1,
     "story_group": 15,
     "story_chapter_name": "",
-    "story_group_name": "29594",
+    "story_group_name": "29679",
     "replay_Image": "StoryReplay_another_region1_15",
-    "replay_list_summary": "25124"
+    "replay_list_summary": "25210"
   },
   {
     "id": 200015,
@@ -3775,9 +3775,9 @@
     "story_region_ep": 1,
     "story_group": 16,
     "story_chapter_name": "",
-    "story_group_name": "29595",
+    "story_group_name": "29680",
     "replay_Image": "StoryReplay_another_region1_16",
-    "replay_list_summary": "25125"
+    "replay_list_summary": "25211"
   },
   {
     "id": 200016,
@@ -3787,9 +3787,9 @@
     "story_region_ep": 1,
     "story_group": 17,
     "story_chapter_name": "",
-    "story_group_name": "29596",
+    "story_group_name": "29681",
     "replay_Image": "StoryReplay_another_region1_17",
-    "replay_list_summary": "25126"
+    "replay_list_summary": "25212"
   },
   {
     "id": 200017,
@@ -3799,9 +3799,9 @@
     "story_region_ep": 1,
     "story_group": 18,
     "story_chapter_name": "",
-    "story_group_name": "29597",
+    "story_group_name": "29682",
     "replay_Image": "StoryReplay_another_region1_18",
-    "replay_list_summary": "25127"
+    "replay_list_summary": "25213"
   },
   {
     "id": 200018,
@@ -3811,9 +3811,9 @@
     "story_region_ep": 1,
     "story_group": 19,
     "story_chapter_name": "",
-    "story_group_name": "29598",
+    "story_group_name": "29683",
     "replay_Image": "StoryReplay_another_region1_19",
-    "replay_list_summary": "25128"
+    "replay_list_summary": "25214"
   },
   {
     "id": 200019,
@@ -3823,9 +3823,9 @@
     "story_region_ep": 1,
     "story_group": 20,
     "story_chapter_name": "",
-    "story_group_name": "29599",
+    "story_group_name": "29684",
     "replay_Image": "StoryReplay_another_region1_20",
-    "replay_list_summary": "25129"
+    "replay_list_summary": "25215"
   },
   {
     "id": 200020,
@@ -3835,9 +3835,9 @@
     "story_region_ep": 1,
     "story_group": 21,
     "story_chapter_name": "",
-    "story_group_name": "29600",
+    "story_group_name": "29685",
     "replay_Image": "StoryReplay_another_region1_21",
-    "replay_list_summary": "25130"
+    "replay_list_summary": "25216"
   },
   {
     "id": 200021,
@@ -3847,9 +3847,9 @@
     "story_region_ep": 1,
     "story_group": 22,
     "story_chapter_name": "",
-    "story_group_name": "29601",
+    "story_group_name": "29686",
     "replay_Image": "StoryReplay_another_region1_22",
-    "replay_list_summary": "25131"
+    "replay_list_summary": "25217"
   },
   {
     "id": 900010,
@@ -3858,10 +3858,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900010,
-    "story_chapter_name": "14023",
-    "story_group_name": "30027",
+    "story_chapter_name": "14122",
+    "story_group_name": "30112",
     "replay_Image": "StoryReplay_ordeal_01",
-    "replay_list_summary": "25139"
+    "replay_list_summary": "25225"
   },
   {
     "id": 900020,
@@ -3870,10 +3870,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900020,
-    "story_chapter_name": "14024",
-    "story_group_name": "30028",
+    "story_chapter_name": "14123",
+    "story_group_name": "30113",
     "replay_Image": "StoryReplay_ordeal_03",
-    "replay_list_summary": "25140"
+    "replay_list_summary": "25226"
   },
   {
     "id": 900030,
@@ -3882,10 +3882,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900030,
-    "story_chapter_name": "14025",
-    "story_group_name": "30032",
+    "story_chapter_name": "14124",
+    "story_group_name": "30117",
     "replay_Image": "StoryReplay_ordeal_126",
-    "replay_list_summary": "25145"
+    "replay_list_summary": "25231"
   },
   {
     "id": 900040,
@@ -3894,10 +3894,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900040,
-    "story_chapter_name": "14026",
-    "story_group_name": "30029",
+    "story_chapter_name": "14125",
+    "story_group_name": "30114",
     "replay_Image": "StoryReplay_ordeal_04",
-    "replay_list_summary": "25141"
+    "replay_list_summary": "25227"
   },
   {
     "id": 900050,
@@ -3906,10 +3906,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900050,
-    "story_chapter_name": "14027",
-    "story_group_name": "30030",
+    "story_chapter_name": "14126",
+    "story_group_name": "30115",
     "replay_Image": "StoryReplay_ordeal_05",
-    "replay_list_summary": "25142"
+    "replay_list_summary": "25228"
   },
   {
     "id": 900060,
@@ -3918,10 +3918,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900060,
-    "story_chapter_name": "14028",
-    "story_group_name": "30033",
+    "story_chapter_name": "14127",
+    "story_group_name": "30118",
     "replay_Image": "StoryReplay_ordeal_06",
-    "replay_list_summary": "25144"
+    "replay_list_summary": "25230"
   },
   {
     "id": 900063,
@@ -3930,10 +3930,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900063,
-    "story_chapter_name": "38581",
-    "story_group_name": "39120",
+    "story_chapter_name": "38661",
+    "story_group_name": "39198",
     "replay_Image": "StoryReplay_ordeal_160",
-    "replay_list_summary": "38937"
+    "replay_list_summary": "39015"
   },
   {
     "id": 900070,
@@ -3942,10 +3942,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900070,
-    "story_chapter_name": "14029",
-    "story_group_name": "30034",
+    "story_chapter_name": "14128",
+    "story_group_name": "30119",
     "replay_Image": "StoryReplay_ordeal_08",
-    "replay_list_summary": "25146"
+    "replay_list_summary": "25232"
   },
   {
     "id": 900080,
@@ -3954,10 +3954,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900080,
-    "story_chapter_name": "14030",
-    "story_group_name": "30035",
+    "story_chapter_name": "14129",
+    "story_group_name": "30120",
     "replay_Image": "StoryReplay_ordeal_10",
-    "replay_list_summary": "25147"
+    "replay_list_summary": "25233"
   },
   {
     "id": 900090,
@@ -3966,10 +3966,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900090,
-    "story_chapter_name": "14031",
-    "story_group_name": "30036",
+    "story_chapter_name": "14130",
+    "story_group_name": "30121",
     "replay_Image": "StoryReplay_ordeal_11",
-    "replay_list_summary": "25148"
+    "replay_list_summary": "25234"
   },
   {
     "id": 900100,
@@ -3978,10 +3978,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900100,
-    "story_chapter_name": "14032",
-    "story_group_name": "30095",
+    "story_chapter_name": "14131",
+    "story_group_name": "30180",
     "replay_Image": "StoryReplay_ordeal_12",
-    "replay_list_summary": "25206"
+    "replay_list_summary": "25292"
   },
   {
     "id": 900110,
@@ -3990,10 +3990,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900110,
-    "story_chapter_name": "14033",
-    "story_group_name": "30094",
+    "story_chapter_name": "14132",
+    "story_group_name": "30179",
     "replay_Image": "StoryReplay_ordeal_13",
-    "replay_list_summary": "25205"
+    "replay_list_summary": "25291"
   },
   {
     "id": 900120,
@@ -4002,10 +4002,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900120,
-    "story_chapter_name": "14034",
-    "story_group_name": "30097",
+    "story_chapter_name": "14133",
+    "story_group_name": "30182",
     "replay_Image": "StoryReplay_ordeal_15",
-    "replay_list_summary": "25208"
+    "replay_list_summary": "25294"
   },
   {
     "id": 900130,
@@ -4014,10 +4014,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900130,
-    "story_chapter_name": "14035",
-    "story_group_name": "30098",
+    "story_chapter_name": "14134",
+    "story_group_name": "30183",
     "replay_Image": "StoryReplay_ordeal_141",
-    "replay_list_summary": "25209"
+    "replay_list_summary": "25295"
   },
   {
     "id": 900140,
@@ -4026,10 +4026,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900140,
-    "story_chapter_name": "14036",
-    "story_group_name": "30038",
+    "story_chapter_name": "14135",
+    "story_group_name": "30123",
     "replay_Image": "StoryReplay_ordeal_16",
-    "replay_list_summary": "25150"
+    "replay_list_summary": "25236"
   },
   {
     "id": 900150,
@@ -4038,10 +4038,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900150,
-    "story_chapter_name": "14037",
-    "story_group_name": "30040",
+    "story_chapter_name": "14136",
+    "story_group_name": "30125",
     "replay_Image": "StoryReplay_ordeal_18",
-    "replay_list_summary": "25152"
+    "replay_list_summary": "25238"
   },
   {
     "id": 900160,
@@ -4050,10 +4050,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900160,
-    "story_chapter_name": "14038",
-    "story_group_name": "30041",
+    "story_chapter_name": "14137",
+    "story_group_name": "30126",
     "replay_Image": "StoryReplay_ordeal_19",
-    "replay_list_summary": "25153"
+    "replay_list_summary": "25239"
   },
   {
     "id": 900170,
@@ -4062,10 +4062,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900170,
-    "story_chapter_name": "14039",
-    "story_group_name": "30066",
+    "story_chapter_name": "14138",
+    "story_group_name": "30151",
     "replay_Image": "StoryReplay_ordeal_20",
-    "replay_list_summary": "25178"
+    "replay_list_summary": "25264"
   },
   {
     "id": 900180,
@@ -4074,10 +4074,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900180,
-    "story_chapter_name": "14040",
-    "story_group_name": "30067",
+    "story_chapter_name": "14139",
+    "story_group_name": "30152",
     "replay_Image": "StoryReplay_ordeal_21",
-    "replay_list_summary": "25179"
+    "replay_list_summary": "25265"
   },
   {
     "id": 900190,
@@ -4086,10 +4086,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900190,
-    "story_chapter_name": "14041",
-    "story_group_name": "30068",
+    "story_chapter_name": "14140",
+    "story_group_name": "30153",
     "replay_Image": "StoryReplay_ordeal_22",
-    "replay_list_summary": "25180"
+    "replay_list_summary": "25266"
   },
   {
     "id": 900200,
@@ -4098,10 +4098,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900200,
-    "story_chapter_name": "14042",
-    "story_group_name": "30046",
+    "story_chapter_name": "14141",
+    "story_group_name": "30131",
     "replay_Image": "StoryReplay_ordeal_23",
-    "replay_list_summary": "25158"
+    "replay_list_summary": "25244"
   },
   {
     "id": 900210,
@@ -4110,10 +4110,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900210,
-    "story_chapter_name": "14043",
-    "story_group_name": "30048",
+    "story_chapter_name": "14142",
+    "story_group_name": "30133",
     "replay_Image": "StoryReplay_ordeal_24",
-    "replay_list_summary": "25160"
+    "replay_list_summary": "25246"
   },
   {
     "id": 900220,
@@ -4122,10 +4122,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900220,
-    "story_chapter_name": "14044",
-    "story_group_name": "30049",
+    "story_chapter_name": "14143",
+    "story_group_name": "30134",
     "replay_Image": "StoryReplay_ordeal_26",
-    "replay_list_summary": "25161"
+    "replay_list_summary": "25247"
   },
   {
     "id": 900230,
@@ -4134,10 +4134,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900230,
-    "story_chapter_name": "14045",
-    "story_group_name": "30050",
+    "story_chapter_name": "14144",
+    "story_group_name": "30135",
     "replay_Image": "StoryReplay_ordeal_27",
-    "replay_list_summary": "25162"
+    "replay_list_summary": "25248"
   },
   {
     "id": 900240,
@@ -4146,10 +4146,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900240,
-    "story_chapter_name": "14046",
-    "story_group_name": "30051",
+    "story_chapter_name": "14145",
+    "story_group_name": "30136",
     "replay_Image": "StoryReplay_ordeal_28",
-    "replay_list_summary": "25163"
+    "replay_list_summary": "25249"
   },
   {
     "id": 900250,
@@ -4158,10 +4158,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900250,
-    "story_chapter_name": "14047",
-    "story_group_name": "30052",
+    "story_chapter_name": "14146",
+    "story_group_name": "30137",
     "replay_Image": "StoryReplay_ordeal_29",
-    "replay_list_summary": "25164"
+    "replay_list_summary": "25250"
   },
   {
     "id": 900260,
@@ -4170,10 +4170,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900260,
-    "story_chapter_name": "14048",
-    "story_group_name": "30060",
+    "story_chapter_name": "14147",
+    "story_group_name": "30145",
     "replay_Image": "StoryReplay_ordeal_30",
-    "replay_list_summary": "25172"
+    "replay_list_summary": "25258"
   },
   {
     "id": 900270,
@@ -4182,10 +4182,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900270,
-    "story_chapter_name": "14049",
-    "story_group_name": "30061",
+    "story_chapter_name": "14148",
+    "story_group_name": "30146",
     "replay_Image": "StoryReplay_ordeal_31",
-    "replay_list_summary": "25173"
+    "replay_list_summary": "25259"
   },
   {
     "id": 900280,
@@ -4194,10 +4194,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900280,
-    "story_chapter_name": "14050",
-    "story_group_name": "30062",
+    "story_chapter_name": "14149",
+    "story_group_name": "30147",
     "replay_Image": "StoryReplay_ordeal_32",
-    "replay_list_summary": "25174"
+    "replay_list_summary": "25260"
   },
   {
     "id": 900290,
@@ -4206,10 +4206,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900290,
-    "story_chapter_name": "14051",
-    "story_group_name": "30091",
+    "story_chapter_name": "14150",
+    "story_group_name": "30176",
     "replay_Image": "StoryReplay_ordeal_33",
-    "replay_list_summary": "25202"
+    "replay_list_summary": "25288"
   },
   {
     "id": 900300,
@@ -4218,10 +4218,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900300,
-    "story_chapter_name": "14052",
-    "story_group_name": "30092",
+    "story_chapter_name": "14151",
+    "story_group_name": "30177",
     "replay_Image": "StoryReplay_ordeal_34",
-    "replay_list_summary": "25203"
+    "replay_list_summary": "25289"
   },
   {
     "id": 900310,
@@ -4230,10 +4230,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900310,
-    "story_chapter_name": "14053",
-    "story_group_name": "30093",
+    "story_chapter_name": "14152",
+    "story_group_name": "30178",
     "replay_Image": "StoryReplay_ordeal_35",
-    "replay_list_summary": "25204"
+    "replay_list_summary": "25290"
   },
   {
     "id": 900320,
@@ -4242,10 +4242,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900320,
-    "story_chapter_name": "14054",
-    "story_group_name": "30078",
+    "story_chapter_name": "14153",
+    "story_group_name": "30163",
     "replay_Image": "StoryReplay_ordeal_36",
-    "replay_list_summary": "25190"
+    "replay_list_summary": "25276"
   },
   {
     "id": 900330,
@@ -4254,10 +4254,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900330,
-    "story_chapter_name": "14055",
-    "story_group_name": "30080",
+    "story_chapter_name": "14154",
+    "story_group_name": "30165",
     "replay_Image": "StoryReplay_ordeal_38",
-    "replay_list_summary": "25192"
+    "replay_list_summary": "25278"
   },
   {
     "id": 900340,
@@ -4266,10 +4266,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900340,
-    "story_chapter_name": "14056",
-    "story_group_name": "30079",
+    "story_chapter_name": "14155",
+    "story_group_name": "30164",
     "replay_Image": "StoryReplay_ordeal_39",
-    "replay_list_summary": "25191"
+    "replay_list_summary": "25277"
   },
   {
     "id": 900350,
@@ -4278,10 +4278,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900350,
-    "story_chapter_name": "14060",
-    "story_group_name": "30099",
+    "story_chapter_name": "14159",
+    "story_group_name": "30184",
     "replay_Image": "StoryReplay_ordeal_40",
-    "replay_list_summary": "25210"
+    "replay_list_summary": "25296"
   },
   {
     "id": 900360,
@@ -4290,10 +4290,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900360,
-    "story_chapter_name": "14061",
-    "story_group_name": "30100",
+    "story_chapter_name": "14160",
+    "story_group_name": "30185",
     "replay_Image": "StoryReplay_ordeal_41",
-    "replay_list_summary": "25211"
+    "replay_list_summary": "25297"
   },
   {
     "id": 900370,
@@ -4302,10 +4302,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900370,
-    "story_chapter_name": "14062",
-    "story_group_name": "30102",
+    "story_chapter_name": "14161",
+    "story_group_name": "30187",
     "replay_Image": "StoryReplay_ordeal_42",
-    "replay_list_summary": "25213"
+    "replay_list_summary": "25299"
   },
   {
     "id": 900380,
@@ -4314,10 +4314,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900380,
-    "story_chapter_name": "14063",
-    "story_group_name": "30042",
+    "story_chapter_name": "14162",
+    "story_group_name": "30127",
     "replay_Image": "StoryReplay_ordeal_43",
-    "replay_list_summary": "25154"
+    "replay_list_summary": "25240"
   },
   {
     "id": 900390,
@@ -4326,10 +4326,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900390,
-    "story_chapter_name": "14064",
-    "story_group_name": "30045",
+    "story_chapter_name": "14163",
+    "story_group_name": "30130",
     "replay_Image": "StoryReplay_ordeal_47",
-    "replay_list_summary": "25157"
+    "replay_list_summary": "25243"
   },
   {
     "id": 900400,
@@ -4338,10 +4338,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900400,
-    "story_chapter_name": "14065",
-    "story_group_name": "30044",
+    "story_chapter_name": "14164",
+    "story_group_name": "30129",
     "replay_Image": "StoryReplay_ordeal_45",
-    "replay_list_summary": "25156"
+    "replay_list_summary": "25242"
   },
   {
     "id": 900410,
@@ -4350,10 +4350,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900410,
-    "story_chapter_name": "14066",
-    "story_group_name": "30063",
+    "story_chapter_name": "14165",
+    "story_group_name": "30148",
     "replay_Image": "StoryReplay_ordeal_49",
-    "replay_list_summary": "25175"
+    "replay_list_summary": "25261"
   },
   {
     "id": 900420,
@@ -4362,10 +4362,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900420,
-    "story_chapter_name": "14067",
-    "story_group_name": "30064",
+    "story_chapter_name": "14166",
+    "story_group_name": "30149",
     "replay_Image": "StoryReplay_ordeal_50",
-    "replay_list_summary": "25176"
+    "replay_list_summary": "25262"
   },
   {
     "id": 900430,
@@ -4374,10 +4374,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900430,
-    "story_chapter_name": "14068",
-    "story_group_name": "30065",
+    "story_chapter_name": "14167",
+    "story_group_name": "30150",
     "replay_Image": "StoryReplay_ordeal_127",
-    "replay_list_summary": "25177"
+    "replay_list_summary": "25263"
   },
   {
     "id": 900440,
@@ -4386,10 +4386,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900440,
-    "story_chapter_name": "14069",
-    "story_group_name": "30069",
+    "story_chapter_name": "14168",
+    "story_group_name": "30154",
     "replay_Image": "StoryReplay_ordeal_52",
-    "replay_list_summary": "25181"
+    "replay_list_summary": "25267"
   },
   {
     "id": 900450,
@@ -4398,10 +4398,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900450,
-    "story_chapter_name": "14070",
-    "story_group_name": "30070",
+    "story_chapter_name": "14169",
+    "story_group_name": "30155",
     "replay_Image": "StoryReplay_ordeal_53",
-    "replay_list_summary": "25182"
+    "replay_list_summary": "25268"
   },
   {
     "id": 900460,
@@ -4410,10 +4410,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900460,
-    "story_chapter_name": "14071",
-    "story_group_name": "30071",
+    "story_chapter_name": "14170",
+    "story_group_name": "30156",
     "replay_Image": "StoryReplay_ordeal_55",
-    "replay_list_summary": "25183"
+    "replay_list_summary": "25269"
   },
   {
     "id": 900470,
@@ -4422,10 +4422,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900470,
-    "story_chapter_name": "14073",
-    "story_group_name": "30072",
+    "story_chapter_name": "14172",
+    "story_group_name": "30157",
     "replay_Image": "StoryReplay_ordeal_56",
-    "replay_list_summary": "25184"
+    "replay_list_summary": "25270"
   },
   {
     "id": 900480,
@@ -4434,10 +4434,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900480,
-    "story_chapter_name": "14072",
-    "story_group_name": "30073",
+    "story_chapter_name": "14171",
+    "story_group_name": "30158",
     "replay_Image": "StoryReplay_ordeal_57",
-    "replay_list_summary": "25185"
+    "replay_list_summary": "25271"
   },
   {
     "id": 900490,
@@ -4446,10 +4446,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900490,
-    "story_chapter_name": "14074",
-    "story_group_name": "30076",
+    "story_chapter_name": "14173",
+    "story_group_name": "30161",
     "replay_Image": "StoryReplay_ordeal_60",
-    "replay_list_summary": "25188"
+    "replay_list_summary": "25274"
   },
   {
     "id": 900500,
@@ -4458,10 +4458,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900500,
-    "story_chapter_name": "14075",
-    "story_group_name": "30053",
+    "story_chapter_name": "14174",
+    "story_group_name": "30138",
     "replay_Image": "StoryReplay_ordeal_61",
-    "replay_list_summary": "25165"
+    "replay_list_summary": "25251"
   },
   {
     "id": 900510,
@@ -4470,10 +4470,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900510,
-    "story_chapter_name": "14076",
-    "story_group_name": "30054",
+    "story_chapter_name": "14175",
+    "story_group_name": "30139",
     "replay_Image": "StoryReplay_ordeal_64",
-    "replay_list_summary": "25166"
+    "replay_list_summary": "25252"
   },
   {
     "id": 900520,
@@ -4482,10 +4482,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900520,
-    "story_chapter_name": "14077",
-    "story_group_name": "30055",
+    "story_chapter_name": "14176",
+    "story_group_name": "30140",
     "replay_Image": "StoryReplay_ordeal_65",
-    "replay_list_summary": "25167"
+    "replay_list_summary": "25253"
   },
   {
     "id": 900530,
@@ -4494,10 +4494,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900530,
-    "story_chapter_name": "14078",
-    "story_group_name": "30056",
+    "story_chapter_name": "14177",
+    "story_group_name": "30141",
     "replay_Image": "StoryReplay_ordeal_140",
-    "replay_list_summary": "25168"
+    "replay_list_summary": "25254"
   },
   {
     "id": 900540,
@@ -4506,10 +4506,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900540,
-    "story_chapter_name": "14079",
-    "story_group_name": "30103",
+    "story_chapter_name": "14178",
+    "story_group_name": "30188",
     "replay_Image": "StoryReplay_ordeal_66",
-    "replay_list_summary": "25214"
+    "replay_list_summary": "25300"
   },
   {
     "id": 900550,
@@ -4518,10 +4518,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900550,
-    "story_chapter_name": "14080",
-    "story_group_name": "30104",
+    "story_chapter_name": "14179",
+    "story_group_name": "30189",
     "replay_Image": "StoryReplay_ordeal_67",
-    "replay_list_summary": "25215"
+    "replay_list_summary": "25301"
   },
   {
     "id": 900560,
@@ -4530,10 +4530,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900560,
-    "story_chapter_name": "14081",
-    "story_group_name": "30105",
+    "story_chapter_name": "14180",
+    "story_group_name": "30190",
     "replay_Image": "StoryReplay_ordeal_68",
-    "replay_list_summary": "25216"
+    "replay_list_summary": "25302"
   },
   {
     "id": 900570,
@@ -4542,10 +4542,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900570,
-    "story_chapter_name": "14082",
-    "story_group_name": "30111",
+    "story_chapter_name": "14181",
+    "story_group_name": "30196",
     "replay_Image": "StoryReplay_ordeal_70",
-    "replay_list_summary": "25222"
+    "replay_list_summary": "25308"
   },
   {
     "id": 900580,
@@ -4554,10 +4554,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900580,
-    "story_chapter_name": "14083",
-    "story_group_name": "30112",
+    "story_chapter_name": "14182",
+    "story_group_name": "30197",
     "replay_Image": "StoryReplay_ordeal_110",
-    "replay_list_summary": "25223"
+    "replay_list_summary": "25309"
   },
   {
     "id": 900590,
@@ -4566,10 +4566,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900590,
-    "story_chapter_name": "14084",
-    "story_group_name": "30057",
+    "story_chapter_name": "14183",
+    "story_group_name": "30142",
     "replay_Image": "StoryReplay_ordeal_73",
-    "replay_list_summary": "25169"
+    "replay_list_summary": "25255"
   },
   {
     "id": 900600,
@@ -4578,10 +4578,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900600,
-    "story_chapter_name": "14085",
-    "story_group_name": "30058",
+    "story_chapter_name": "14184",
+    "story_group_name": "30143",
     "replay_Image": "StoryReplay_ordeal_76",
-    "replay_list_summary": "25170"
+    "replay_list_summary": "25256"
   },
   {
     "id": 900610,
@@ -4590,10 +4590,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900610,
-    "story_chapter_name": "14086",
-    "story_group_name": "30113",
+    "story_chapter_name": "14185",
+    "story_group_name": "30198",
     "replay_Image": "StoryReplay_ordeal_80",
-    "replay_list_summary": "25224"
+    "replay_list_summary": "25310"
   },
   {
     "id": 900620,
@@ -4602,10 +4602,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900620,
-    "story_chapter_name": "14087",
-    "story_group_name": "30059",
+    "story_chapter_name": "14186",
+    "story_group_name": "30144",
     "replay_Image": "StoryReplay_ordeal_82",
-    "replay_list_summary": "25171"
+    "replay_list_summary": "25257"
   },
   {
     "id": 900630,
@@ -4614,10 +4614,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900630,
-    "story_chapter_name": "14088",
-    "story_group_name": "30077",
+    "story_chapter_name": "14187",
+    "story_group_name": "30162",
     "replay_Image": "StoryReplay_ordeal_84",
-    "replay_list_summary": "25189"
+    "replay_list_summary": "25275"
   },
   {
     "id": 900640,
@@ -4626,10 +4626,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900640,
-    "story_chapter_name": "14089",
-    "story_group_name": "30114",
+    "story_chapter_name": "14188",
+    "story_group_name": "30199",
     "replay_Image": "StoryReplay_ordeal_111",
-    "replay_list_summary": "25225"
+    "replay_list_summary": "25311"
   },
   {
     "id": 900650,
@@ -4638,10 +4638,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900650,
-    "story_chapter_name": "14090",
-    "story_group_name": "30106",
+    "story_chapter_name": "14189",
+    "story_group_name": "30191",
     "replay_Image": "StoryReplay_ordeal_88",
-    "replay_list_summary": "25217"
+    "replay_list_summary": "25303"
   },
   {
     "id": 900660,
@@ -4650,10 +4650,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900660,
-    "story_chapter_name": "14091",
-    "story_group_name": "30082",
+    "story_chapter_name": "14190",
+    "story_group_name": "30167",
     "replay_Image": "StoryReplay_ordeal_89",
-    "replay_list_summary": "25194"
+    "replay_list_summary": "25280"
   },
   {
     "id": 900670,
@@ -4662,10 +4662,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900670,
-    "story_chapter_name": "14092",
-    "story_group_name": "30081",
+    "story_chapter_name": "14191",
+    "story_group_name": "30166",
     "replay_Image": "StoryReplay_ordeal_90",
-    "replay_list_summary": "25193"
+    "replay_list_summary": "25279"
   },
   {
     "id": 900680,
@@ -4674,10 +4674,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900680,
-    "story_chapter_name": "14094",
-    "story_group_name": "30084",
+    "story_chapter_name": "14193",
+    "story_group_name": "30169",
     "replay_Image": "StoryReplay_ordeal_92",
-    "replay_list_summary": "25195"
+    "replay_list_summary": "25281"
   },
   {
     "id": 900690,
@@ -4686,10 +4686,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900690,
-    "story_chapter_name": "14095",
-    "story_group_name": "30085",
+    "story_chapter_name": "14194",
+    "story_group_name": "30170",
     "replay_Image": "StoryReplay_ordeal_96",
-    "replay_list_summary": "25196"
+    "replay_list_summary": "25282"
   },
   {
     "id": 900700,
@@ -4698,10 +4698,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900700,
-    "story_chapter_name": "14096",
-    "story_group_name": "30090",
+    "story_chapter_name": "14195",
+    "story_group_name": "30175",
     "replay_Image": "StoryReplay_ordeal_99",
-    "replay_list_summary": "25201"
+    "replay_list_summary": "25287"
   },
   {
     "id": 900710,
@@ -4710,10 +4710,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900710,
-    "story_chapter_name": "14098",
-    "story_group_name": "30086",
+    "story_chapter_name": "14197",
+    "story_group_name": "30171",
     "replay_Image": "StoryReplay_ordeal_101",
-    "replay_list_summary": "25197"
+    "replay_list_summary": "25283"
   },
   {
     "id": 900720,
@@ -4722,10 +4722,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900720,
-    "story_chapter_name": "14101",
-    "story_group_name": "30107",
+    "story_chapter_name": "14200",
+    "story_group_name": "30192",
     "replay_Image": "StoryReplay_ordeal_103",
-    "replay_list_summary": "25219"
+    "replay_list_summary": "25305"
   },
   {
     "id": 900730,
@@ -4734,10 +4734,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900730,
-    "story_chapter_name": "14102",
-    "story_group_name": "30108",
+    "story_chapter_name": "14201",
+    "story_group_name": "30193",
     "replay_Image": "StoryReplay_ordeal_104",
-    "replay_list_summary": "25218"
+    "replay_list_summary": "25304"
   },
   {
     "id": 900740,
@@ -4746,10 +4746,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900740,
-    "story_chapter_name": "14103",
-    "story_group_name": "30109",
+    "story_chapter_name": "14202",
+    "story_group_name": "30194",
     "replay_Image": "StoryReplay_ordeal_106",
-    "replay_list_summary": "25220"
+    "replay_list_summary": "25306"
   },
   {
     "id": 900750,
@@ -4758,10 +4758,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900750,
-    "story_chapter_name": "14104",
-    "story_group_name": "30110",
+    "story_chapter_name": "14203",
+    "story_group_name": "30195",
     "replay_Image": "StoryReplay_ordeal_108",
-    "replay_list_summary": "25221"
+    "replay_list_summary": "25307"
   },
   {
     "id": 900760,
@@ -4770,10 +4770,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900760,
-    "story_chapter_name": "14105",
-    "story_group_name": "30115",
+    "story_chapter_name": "14204",
+    "story_group_name": "30200",
     "replay_Image": "StoryReplay_ordeal_112",
-    "replay_list_summary": "25226"
+    "replay_list_summary": "25312"
   },
   {
     "id": 900770,
@@ -4782,10 +4782,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900770,
-    "story_chapter_name": "14609",
-    "story_group_name": "30116",
+    "story_chapter_name": "14708",
+    "story_group_name": "30201",
     "replay_Image": "StoryReplay_ordeal_113",
-    "replay_list_summary": "25227"
+    "replay_list_summary": "25313"
   },
   {
     "id": 900780,
@@ -4794,10 +4794,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900780,
-    "story_chapter_name": "14112",
-    "story_group_name": "30117",
+    "story_chapter_name": "14211",
+    "story_group_name": "30202",
     "replay_Image": "StoryReplay_ordeal_114",
-    "replay_list_summary": "25228"
+    "replay_list_summary": "25314"
   },
   {
     "id": 900781,
@@ -4806,10 +4806,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900781,
-    "story_chapter_name": "14113",
-    "story_group_name": "29865",
+    "story_chapter_name": "14212",
+    "story_group_name": "29950",
     "replay_Image": "StoryReplay_ordeal_157",
-    "replay_list_summary": "38636"
+    "replay_list_summary": "38716"
   },
   {
     "id": 900790,
@@ -4818,10 +4818,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900790,
-    "story_chapter_name": "14110",
-    "story_group_name": "30118",
+    "story_chapter_name": "14209",
+    "story_group_name": "30203",
     "replay_Image": "StoryReplay_ordeal_121",
-    "replay_list_summary": "25229"
+    "replay_list_summary": "25315"
   },
   {
     "id": 900800,
@@ -4830,10 +4830,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900800,
-    "story_chapter_name": "14117",
-    "story_group_name": "30119",
+    "story_chapter_name": "14216",
+    "story_group_name": "30204",
     "replay_Image": "StoryReplay_ordeal_119",
-    "replay_list_summary": "25230"
+    "replay_list_summary": "25316"
   },
   {
     "id": 900810,
@@ -4842,10 +4842,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900810,
-    "story_chapter_name": "14118",
-    "story_group_name": "30120",
+    "story_chapter_name": "14217",
+    "story_group_name": "30205",
     "replay_Image": "StoryReplay_ordeal_128",
-    "replay_list_summary": "25231"
+    "replay_list_summary": "25317"
   },
   {
     "id": 900820,
@@ -4854,10 +4854,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900820,
-    "story_chapter_name": "14119",
-    "story_group_name": "30008",
+    "story_chapter_name": "14218",
+    "story_group_name": "30093",
     "replay_Image": "StoryReplay_ordeal_115",
-    "replay_list_summary": "25252"
+    "replay_list_summary": "25338"
   },
   {
     "id": 900830,
@@ -4866,10 +4866,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900830,
-    "story_chapter_name": "14120",
-    "story_group_name": "30007",
+    "story_chapter_name": "14219",
+    "story_group_name": "30092",
     "replay_Image": "StoryReplay_ordeal_116",
-    "replay_list_summary": "25251"
+    "replay_list_summary": "25337"
   },
   {
     "id": 900840,
@@ -4878,10 +4878,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900840,
-    "story_chapter_name": "14115",
-    "story_group_name": "30010",
+    "story_chapter_name": "14214",
+    "story_group_name": "30095",
     "replay_Image": "StoryReplay_ordeal_117",
-    "replay_list_summary": "25254"
+    "replay_list_summary": "25340"
   },
   {
     "id": 900850,
@@ -4890,10 +4890,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900850,
-    "story_chapter_name": "14116",
-    "story_group_name": "30009",
+    "story_chapter_name": "14215",
+    "story_group_name": "30094",
     "replay_Image": "StoryReplay_ordeal_118",
-    "replay_list_summary": "25253"
+    "replay_list_summary": "25339"
   },
   {
     "id": 900860,
@@ -4902,10 +4902,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900860,
-    "story_chapter_name": "14114",
-    "story_group_name": "30037",
+    "story_chapter_name": "14213",
+    "story_group_name": "30122",
     "replay_Image": "StoryReplay_ordeal_120",
-    "replay_list_summary": "25149"
+    "replay_list_summary": "25235"
   },
   {
     "id": 900870,
@@ -4914,10 +4914,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900870,
-    "story_chapter_name": "14107",
-    "story_group_name": "30121",
+    "story_chapter_name": "14206",
+    "story_group_name": "30206",
     "replay_Image": "StoryReplay_ordeal_122",
-    "replay_list_summary": "25232"
+    "replay_list_summary": "25318"
   },
   {
     "id": 900880,
@@ -4926,10 +4926,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900880,
-    "story_chapter_name": "14109",
-    "story_group_name": "30122",
+    "story_chapter_name": "14208",
+    "story_group_name": "30207",
     "replay_Image": "StoryReplay_ordeal_129",
-    "replay_list_summary": "25233"
+    "replay_list_summary": "25319"
   },
   {
     "id": 900890,
@@ -4938,10 +4938,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900890,
-    "story_chapter_name": "14125",
-    "story_group_name": "30124",
+    "story_chapter_name": "14224",
+    "story_group_name": "30209",
     "replay_Image": "StoryReplay_ordeal_123",
-    "replay_list_summary": "25235"
+    "replay_list_summary": "25321"
   },
   {
     "id": 900900,
@@ -4950,10 +4950,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900900,
-    "story_chapter_name": "37797",
-    "story_group_name": "37783",
+    "story_chapter_name": "37882",
+    "story_group_name": "37868",
     "replay_Image": "StoryReplay_ordeal_148",
-    "replay_list_summary": "37721"
+    "replay_list_summary": "37806"
   },
   {
     "id": 900910,
@@ -4962,10 +4962,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900910,
-    "story_chapter_name": "14121",
-    "story_group_name": "30125",
+    "story_chapter_name": "14220",
+    "story_group_name": "30210",
     "replay_Image": "StoryReplay_ordeal_124",
-    "replay_list_summary": "25236"
+    "replay_list_summary": "25322"
   },
   {
     "id": 900920,
@@ -4974,10 +4974,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900920,
-    "story_chapter_name": "14122",
-    "story_group_name": "30126",
+    "story_chapter_name": "14221",
+    "story_group_name": "30211",
     "replay_Image": "StoryReplay_ordeal_125",
-    "replay_list_summary": "25237"
+    "replay_list_summary": "25323"
   },
   {
     "id": 900930,
@@ -4986,10 +4986,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900930,
-    "story_chapter_name": "14126",
-    "story_group_name": "30127",
+    "story_chapter_name": "14225",
+    "story_group_name": "30212",
     "replay_Image": "StoryReplay_ordeal_130",
-    "replay_list_summary": "25238"
+    "replay_list_summary": "25324"
   },
   {
     "id": 900940,
@@ -4998,10 +4998,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900940,
-    "story_chapter_name": "14127",
-    "story_group_name": "37784",
+    "story_chapter_name": "14226",
+    "story_group_name": "37869",
     "replay_Image": "StoryReplay_ordeal_149",
-    "replay_list_summary": "37722"
+    "replay_list_summary": "37807"
   },
   {
     "id": 900950,
@@ -5010,10 +5010,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900950,
-    "story_chapter_name": "14128",
-    "story_group_name": "30128",
+    "story_chapter_name": "14227",
+    "story_group_name": "30213",
     "replay_Image": "StoryReplay_ordeal_131",
-    "replay_list_summary": "25239"
+    "replay_list_summary": "25325"
   },
   {
     "id": 900960,
@@ -5022,10 +5022,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900960,
-    "story_chapter_name": "38518",
-    "story_group_name": "39461",
+    "story_chapter_name": "38598",
+    "story_group_name": "39539",
     "replay_Image": "StoryReplay_ordeal_150",
-    "replay_list_summary": "39424"
+    "replay_list_summary": "39502"
   },
   {
     "id": 900970,
@@ -5034,10 +5034,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900970,
-    "story_chapter_name": "14137",
-    "story_group_name": "30130",
+    "story_chapter_name": "14236",
+    "story_group_name": "30215",
     "replay_Image": "StoryReplay_ordeal_132",
-    "replay_list_summary": "25241"
+    "replay_list_summary": "25327"
   },
   {
     "id": 900980,
@@ -5046,10 +5046,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900980,
-    "story_chapter_name": "14136",
-    "story_group_name": "30131",
+    "story_chapter_name": "14235",
+    "story_group_name": "30216",
     "replay_Image": "StoryReplay_ordeal_133",
-    "replay_list_summary": "25242"
+    "replay_list_summary": "25328"
   },
   {
     "id": 900990,
@@ -5058,10 +5058,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900990,
-    "story_chapter_name": "14129",
-    "story_group_name": "30132",
+    "story_chapter_name": "14228",
+    "story_group_name": "30217",
     "replay_Image": "StoryReplay_ordeal_134",
-    "replay_list_summary": "25243"
+    "replay_list_summary": "25329"
   },
   {
     "id": 901000,
@@ -5070,10 +5070,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901000,
-    "story_chapter_name": "38519",
-    "story_group_name": "37865",
+    "story_chapter_name": "38599",
+    "story_group_name": "37950",
     "replay_Image": "StoryReplay_ordeal_151",
-    "replay_list_summary": "37806"
+    "replay_list_summary": "37891"
   },
   {
     "id": 901010,
@@ -5082,10 +5082,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901010,
-    "story_chapter_name": "14140",
-    "story_group_name": "30006",
+    "story_chapter_name": "14239",
+    "story_group_name": "30091",
     "replay_Image": "StoryReplay_ordeal_135",
-    "replay_list_summary": "21805"
+    "replay_list_summary": "21891"
   },
   {
     "id": 901020,
@@ -5094,10 +5094,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901020,
-    "story_chapter_name": "14139",
-    "story_group_name": "30133",
+    "story_chapter_name": "14238",
+    "story_group_name": "30218",
     "replay_Image": "StoryReplay_ordeal_136",
-    "replay_list_summary": "25244"
+    "replay_list_summary": "25330"
   },
   {
     "id": 901030,
@@ -5106,10 +5106,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901030,
-    "story_chapter_name": "14138",
-    "story_group_name": "30135",
+    "story_chapter_name": "14237",
+    "story_group_name": "30220",
     "replay_Image": "StoryReplay_ordeal_137",
-    "replay_list_summary": "21806"
+    "replay_list_summary": "21892"
   },
   {
     "id": 901040,
@@ -5118,10 +5118,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901040,
-    "story_chapter_name": "14143",
-    "story_group_name": "30138",
+    "story_chapter_name": "14242",
+    "story_group_name": "30223",
     "replay_Image": "StoryReplay_ordeal_138",
-    "replay_list_summary": "25247"
+    "replay_list_summary": "25333"
   },
   {
     "id": 901050,
@@ -5130,10 +5130,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901050,
-    "story_chapter_name": "14144",
-    "story_group_name": "30139",
+    "story_chapter_name": "14243",
+    "story_group_name": "30224",
     "replay_Image": "StoryReplay_ordeal_139",
-    "replay_list_summary": "25248"
+    "replay_list_summary": "25334"
   },
   {
     "id": 901060,
@@ -5142,10 +5142,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901060,
-    "story_chapter_name": "14131",
-    "story_group_name": "30140",
+    "story_chapter_name": "14230",
+    "story_group_name": "30225",
     "replay_Image": "StoryReplay_ordeal_147",
-    "replay_list_summary": "25249"
+    "replay_list_summary": "25335"
   },
   {
     "id": 901070,
@@ -5154,10 +5154,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901070,
-    "story_chapter_name": "14132",
-    "story_group_name": "37785",
+    "story_chapter_name": "14231",
+    "story_group_name": "37870",
     "replay_Image": "StoryReplay_ordeal_152",
-    "replay_list_summary": "37723"
+    "replay_list_summary": "37808"
   },
   {
     "id": 901080,
@@ -5166,10 +5166,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901080,
-    "story_chapter_name": "14123",
-    "story_group_name": "36773",
+    "story_chapter_name": "14222",
+    "story_group_name": "36858",
     "replay_Image": "StoryReplay_ordeal_142",
-    "replay_list_summary": "32800"
+    "replay_list_summary": "32885"
   },
   {
     "id": 901090,
@@ -5178,10 +5178,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901090,
-    "story_chapter_name": "14124",
-    "story_group_name": "30141",
+    "story_chapter_name": "14223",
+    "story_group_name": "30226",
     "replay_Image": "StoryReplay_ordeal_143",
-    "replay_list_summary": "25250"
+    "replay_list_summary": "25336"
   },
   {
     "id": 901100,
@@ -5190,10 +5190,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901100,
-    "story_chapter_name": "14108",
-    "story_group_name": "30123",
+    "story_chapter_name": "14207",
+    "story_group_name": "30208",
     "replay_Image": "StoryReplay_ordeal_146",
-    "replay_list_summary": "25234"
+    "replay_list_summary": "25320"
   },
   {
     "id": 901110,
@@ -5202,10 +5202,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901110,
-    "story_chapter_name": "14133",
-    "story_group_name": "30136",
+    "story_chapter_name": "14232",
+    "story_group_name": "30221",
     "replay_Image": "StoryReplay_ordeal_144",
-    "replay_list_summary": "30024"
+    "replay_list_summary": "30109"
   },
   {
     "id": 901120,
@@ -5214,10 +5214,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901120,
-    "story_chapter_name": "14134",
-    "story_group_name": "30137",
+    "story_chapter_name": "14233",
+    "story_group_name": "30222",
     "replay_Image": "StoryReplay_ordeal_145",
-    "replay_list_summary": "25246"
+    "replay_list_summary": "25332"
   },
   {
     "id": 901130,
@@ -5226,10 +5226,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901130,
-    "story_chapter_name": "38520",
-    "story_group_name": "39462",
+    "story_chapter_name": "38600",
+    "story_group_name": "39540",
     "replay_Image": "StoryReplay_ordeal_153",
-    "replay_list_summary": "39425"
+    "replay_list_summary": "39503"
   },
   {
     "id": 901140,
@@ -5238,10 +5238,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901140,
-    "story_chapter_name": "38521",
-    "story_group_name": "39463",
+    "story_chapter_name": "38601",
+    "story_group_name": "39541",
     "replay_Image": "StoryReplay_ordeal_154",
-    "replay_list_summary": "39426"
+    "replay_list_summary": "39504"
   },
   {
     "id": 901150,
@@ -5250,10 +5250,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901150,
-    "story_chapter_name": "14141",
-    "story_group_name": "38304",
+    "story_chapter_name": "14240",
+    "story_group_name": "38386",
     "replay_Image": "StoryReplay_ordeal_155",
-    "replay_list_summary": "38246"
+    "replay_list_summary": "38328"
   },
   {
     "id": 901160,
@@ -5262,10 +5262,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901160,
-    "story_chapter_name": "14142",
-    "story_group_name": "37786",
+    "story_chapter_name": "14241",
+    "story_group_name": "37871",
     "replay_Image": "StoryReplay_ordeal_156",
-    "replay_list_summary": "37724"
+    "replay_list_summary": "37809"
   },
   {
     "id": 901190,
@@ -5274,10 +5274,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901190,
-    "story_chapter_name": "39292",
-    "story_group_name": "39464",
+    "story_chapter_name": "39370",
+    "story_group_name": "39542",
     "replay_Image": "StoryReplay_ordeal_161",
-    "replay_list_summary": "39427"
+    "replay_list_summary": "39505"
   },
   {
     "id": 901200,
@@ -5286,10 +5286,22 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901200,
-    "story_chapter_name": "14135",
-    "story_group_name": "39422",
+    "story_chapter_name": "14234",
+    "story_group_name": "39500",
     "replay_Image": "StoryReplay_ordeal_162",
-    "replay_list_summary": "40633"
+    "replay_list_summary": "40691"
+  },
+  {
+    "id": 901220,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 901220,
+    "story_chapter_name": "41402",
+    "story_group_name": "40534",
+    "replay_Image": "StoryReplay_ordeal_164",
+    "replay_list_summary": "40531"
   },
   {
     "id": 901230,
@@ -5298,10 +5310,34 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901230,
-    "story_chapter_name": "39923",
-    "story_group_name": "40686",
+    "story_chapter_name": "39999",
+    "story_group_name": "40746",
     "replay_Image": "StoryReplay_ordeal_165",
-    "replay_list_summary": "40632"
+    "replay_list_summary": "40690"
+  },
+  {
+    "id": 901240,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 901240,
+    "story_chapter_name": "40000",
+    "story_group_name": "40505",
+    "replay_Image": "StoryReplay_ordeal_166",
+    "replay_list_summary": "40535"
+  },
+  {
+    "id": 901250,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 901250,
+    "story_chapter_name": "41403",
+    "story_group_name": "41218",
+    "replay_Image": "StoryReplay_ordeal_167",
+    "replay_list_summary": "41136"
   },
   {
     "id": 800000,
@@ -5311,9 +5347,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "27373",
+    "story_group_name": "27458",
     "replay_Image": "StoryReplay_event_01",
-    "replay_list_summary": "25132"
+    "replay_list_summary": "25218"
   },
   {
     "id": 800001,
@@ -5323,9 +5359,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "27374",
+    "story_group_name": "27459",
     "replay_Image": "StoryReplay_event_02",
-    "replay_list_summary": "25133"
+    "replay_list_summary": "25219"
   },
   {
     "id": 800002,
@@ -5335,9 +5371,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "27375",
+    "story_group_name": "27460",
     "replay_Image": "StoryReplay_event_03",
-    "replay_list_summary": "25134"
+    "replay_list_summary": "25220"
   },
   {
     "id": 800003,
@@ -5347,9 +5383,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "27376",
+    "story_group_name": "27461",
     "replay_Image": "StoryReplay_event_05",
-    "replay_list_summary": "25135"
+    "replay_list_summary": "25221"
   },
   {
     "id": 800004,
@@ -5359,9 +5395,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "27377",
+    "story_group_name": "27462",
     "replay_Image": "StoryReplay_event_06",
-    "replay_list_summary": "25136"
+    "replay_list_summary": "25222"
   },
   {
     "id": 800005,
@@ -5371,9 +5407,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "27378",
+    "story_group_name": "27463",
     "replay_Image": "StoryReplay_event_07",
-    "replay_list_summary": "25137"
+    "replay_list_summary": "25223"
   },
   {
     "id": 800006,
@@ -5383,8 +5419,8 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "6433",
+    "story_group_name": "6538",
     "replay_Image": "StoryReplay_event_08",
-    "replay_list_summary": "25138"
+    "replay_list_summary": "25224"
   }
 ]

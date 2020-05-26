@@ -766,5 +766,29 @@
     "map_filename": "map_CGrave_stage_01",
     "before_loading_id": 500167,
     "after_loading_id": 500167
+  },
+  {
+    "id": 129,
+    "map_filename": "map_LON_collapse_stage_01",
+    "before_loading_id": 500251,
+    "after_loading_id": 500251
+  },
+  {
+    "id": 130,
+    "map_filename": "town_LON_collapse_13chapter_01",
+    "before_loading_id": 500252,
+    "after_loading_id": 500252
+  },
+  {
+    "id": 131,
+    "map_filename": "map_LON_collapse_stage_02",
+    "before_loading_id": 500251,
+    "after_loading_id": 500251
+  },
+  {
+    "id": 132,
+    "map_filename": "map_LON_collapse_big_stage_01",
+    "before_loading_id": 500251,
+    "after_loading_id": 500251
   }
 ]

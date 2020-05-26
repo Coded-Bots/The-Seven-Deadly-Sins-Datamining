@@ -333,6 +333,15 @@
     "rating_5": 7
   },
   {
+    "id": 43,
+    "gamble_group": 1043,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
     "id": 44,
     "gamble_group": 1044,
     "rating_1": 0,
@@ -533,6 +542,24 @@
   {
     "id": 112,
     "gamble_group": 2013,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 113,
+    "gamble_group": 2014,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 114,
+    "gamble_group": 2015,
     "rating_1": 0,
     "rating_2": 0,
     "rating_3": 60,

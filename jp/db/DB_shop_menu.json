@@ -2,43 +2,43 @@
   {
     "id": 1,
     "shop_type": "FinalBossSeasonShop",
-    "shop_title": "3434",
-    "shop_desc": "3428"
+    "shop_title": "3430",
+    "shop_desc": "3424"
   },
   {
     "id": 2,
     "shop_type": "ItemGotchaShop",
-    "shop_title": "3439",
-    "shop_desc": "3437"
+    "shop_title": "3435",
+    "shop_desc": "3433"
   },
   {
     "id": 3,
     "shop_type": "PackageShop",
-    "shop_title": "3484",
-    "shop_desc": "3470"
+    "shop_title": "3480",
+    "shop_desc": "3466"
   },
   {
     "id": 4,
     "shop_type": "DiamondShop",
-    "shop_title": "3423",
-    "shop_desc": "3422"
+    "shop_title": "3419",
+    "shop_desc": "3418"
   },
   {
     "id": 5,
     "shop_type": "CostumeShop",
-    "shop_title": "3404",
-    "shop_desc": "3401"
+    "shop_title": "3400",
+    "shop_desc": "3397"
   },
   {
     "id": 6,
     "shop_type": "CoinShop",
-    "shop_title": "3383",
-    "shop_desc": "3364"
+    "shop_title": "3379",
+    "shop_desc": "3360"
   },
   {
     "id": 7,
     "shop_type": "ItemShop",
-    "shop_title": "3441",
-    "shop_desc": "3440"
+    "shop_title": "3437",
+    "shop_desc": "3436"
   }
 ]

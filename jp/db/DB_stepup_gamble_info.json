@@ -79,5 +79,23 @@
     "stepup_reset": 1,
     "mileage_group": 9,
     "mileage_reset": 0
+  },
+  {
+    "group_id": 10,
+    "stepup_background": 2010,
+    "stepup_BG_name": "gacha_banner_stepup_shin_01",
+    "stepup_m_banner_name": "m_banner_gacha_stepup_shin_01",
+    "stepup_reset": 1,
+    "mileage_group": 10,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 11,
+    "stepup_background": 2011,
+    "stepup_BG_name": "gacha_banner_stepup_matrona_01",
+    "stepup_m_banner_name": "m_banner_gacha_stepup_matrona_01",
+    "stepup_reset": 1,
+    "mileage_group": 11,
+    "mileage_reset": 0
   }
 ]

@@ -1,60 +1,69 @@
 [
   {
     "id": 2001,
-    "group_id": 1,
-    "season_group": 2,
-    "reward_order": 1,
-    "target_value": 300,
-    "reward_item_id": 900906,
-    "reward_item_count": 2
+    "group_id": 2,
+    "season_group": 1,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
   },
   {
-    "id": 2002,
-    "group_id": 1,
+    "id": 2,
+    "group_id": 2002,
     "season_group": 2,
+    "reward_order": 1,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2003,
     "reward_order": 2,
-    "target_value": 600,
-    "reward_item_id": 542404,
+    "target_value": 1,
+    "reward_item_id": 2,
     "reward_item_count": 3
   },
   {
-    "id": 2003,
-    "group_id": 1,
-    "season_group": 2,
-    "reward_order": 3,
-    "target_value": 900,
-    "reward_item_id": 510105,
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2004,
+    "target_value": 2,
+    "reward_item_id": 1,
+    "reward_item_count": 2
+  },
+  {
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2005,
+    "reward_item_id": 2,
     "reward_item_count": 1
   },
   {
-    "id": 2004,
-    "group_id": 1,
-    "season_group": 2,
-    "reward_order": 4,
-    "target_value": 1200,
-    "reward_item_id": 530001,
-    "reward_item_count": 50
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2006,
+    "reward_item_count": 2
   },
   {
-    "id": 2005,
-    "group_id": 1,
-    "season_group": 2,
-    "reward_order": 5,
-    "target_value": 1500,
-    "reward_item_id": 542405,
-    "reward_item_count": 1
+    "id": 1,
+    "group_id": 2,
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2007
   },
   {
-    "id": 2006,
-    "group_id": 1,
-    "season_group": 2,
-    "reward_order": 6,
-    "target_value": 1800,
-    "reward_item_id": 530001,
-    "reward_item_count": 50
-  },
-  {
-    "id": 2007,
+    "id": 2,
     "group_id": 1,
     "season_group": 2,
     "reward_order": 7,
@@ -66,58 +75,67 @@
     "id": 2008,
     "group_id": 2,
     "season_group": 2,
-    "reward_order": 1,
-    "target_value": 300,
-    "reward_item_id": 900906,
-    "reward_item_count": 2
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
   },
   {
-    "id": 2009,
-    "group_id": 2,
+    "id": 2,
+    "group_id": 2009,
     "season_group": 2,
     "reward_order": 2,
-    "target_value": 600,
-    "reward_item_id": 542404,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2010,
+    "reward_order": 2,
+    "target_value": 2,
+    "reward_item_id": 2,
     "reward_item_count": 3
   },
   {
-    "id": 2010,
-    "group_id": 2,
-    "season_group": 2,
-    "reward_order": 3,
-    "target_value": 900,
-    "reward_item_id": 510105,
-    "reward_item_count": 1
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2011,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 2
   },
   {
-    "id": 2011,
-    "group_id": 2,
-    "season_group": 2,
-    "reward_order": 4,
-    "target_value": 1200,
-    "reward_item_id": 530001,
-    "reward_item_count": 50
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2012,
+    "reward_item_id": 2,
+    "reward_item_count": 2
   },
   {
-    "id": 2012,
-    "group_id": 2,
-    "season_group": 2,
-    "reward_order": 5,
-    "target_value": 1500,
-    "reward_item_id": 542405,
-    "reward_item_count": 1
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2013,
+    "reward_item_count": 2
   },
   {
-    "id": 2013,
+    "id": 2,
     "group_id": 2,
-    "season_group": 2,
-    "reward_order": 6,
-    "target_value": 1800,
-    "reward_item_id": 530001,
-    "reward_item_count": 50
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2014
   },
   {
-    "id": 2014,
+    "id": 2,
     "group_id": 2,
     "season_group": 2,
     "reward_order": 7,
@@ -127,60 +145,69 @@
   },
   {
     "id": 2015,
-    "group_id": 3,
-    "season_group": 2,
-    "reward_order": 1,
-    "target_value": 300,
-    "reward_item_id": 900906,
-    "reward_item_count": 2
+    "group_id": 2,
+    "season_group": 3,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
   },
   {
-    "id": 2016,
-    "group_id": 3,
+    "id": 2,
+    "group_id": 2016,
     "season_group": 2,
+    "reward_order": 3,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2017,
     "reward_order": 2,
-    "target_value": 600,
-    "reward_item_id": 542404,
+    "target_value": 3,
+    "reward_item_id": 2,
     "reward_item_count": 3
   },
   {
-    "id": 2017,
-    "group_id": 3,
-    "season_group": 2,
-    "reward_order": 3,
-    "target_value": 900,
-    "reward_item_id": 510105,
-    "reward_item_count": 1
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2018,
+    "target_value": 2,
+    "reward_item_id": 3,
+    "reward_item_count": 2
   },
   {
-    "id": 2018,
-    "group_id": 3,
-    "season_group": 2,
-    "reward_order": 4,
-    "target_value": 1200,
-    "reward_item_id": 530001,
-    "reward_item_count": 50
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2019,
+    "reward_item_id": 2,
+    "reward_item_count": 3
   },
   {
-    "id": 2019,
-    "group_id": 3,
-    "season_group": 2,
-    "reward_order": 5,
-    "target_value": 1500,
-    "reward_item_id": 542405,
-    "reward_item_count": 1
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2020,
+    "reward_item_count": 2
   },
   {
-    "id": 2020,
-    "group_id": 3,
-    "season_group": 2,
-    "reward_order": 6,
-    "target_value": 1800,
-    "reward_item_id": 530001,
-    "reward_item_count": 50
+    "id": 3,
+    "group_id": 2,
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2021
   },
   {
-    "id": 2021,
+    "id": 2,
     "group_id": 3,
     "season_group": 2,
     "reward_order": 7,
@@ -190,65 +217,542 @@
   },
   {
     "id": 2022,
-    "group_id": 4,
-    "season_group": 2,
-    "reward_order": 1,
-    "target_value": 300,
-    "reward_item_id": 900906,
-    "reward_item_count": 2
+    "group_id": 2,
+    "season_group": 4,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
   },
   {
-    "id": 2023,
-    "group_id": 4,
+    "id": 2,
+    "group_id": 2023,
     "season_group": 2,
+    "reward_order": 4,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2024,
     "reward_order": 2,
-    "target_value": 600,
-    "reward_item_id": 542404,
+    "target_value": 4,
+    "reward_item_id": 2,
     "reward_item_count": 3
   },
   {
-    "id": 2024,
-    "group_id": 4,
-    "season_group": 2,
-    "reward_order": 3,
-    "target_value": 900,
-    "reward_item_id": 510105,
-    "reward_item_count": 1
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2025,
+    "target_value": 2,
+    "reward_item_id": 4,
+    "reward_item_count": 2
   },
   {
-    "id": 2025,
-    "group_id": 4,
-    "season_group": 2,
-    "reward_order": 4,
-    "target_value": 1200,
-    "reward_item_id": 530001,
-    "reward_item_count": 50
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2026,
+    "reward_item_id": 2,
+    "reward_item_count": 4
   },
   {
-    "id": 2026,
-    "group_id": 4,
-    "season_group": 2,
-    "reward_order": 5,
-    "target_value": 1500,
-    "reward_item_id": 542405,
-    "reward_item_count": 1
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2027,
+    "reward_item_count": 2
   },
   {
-    "id": 2027,
-    "group_id": 4,
-    "season_group": 2,
-    "reward_order": 6,
-    "target_value": 1800,
-    "reward_item_id": 530001,
-    "reward_item_count": 50
+    "id": 4,
+    "group_id": 2,
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2028
   },
   {
-    "id": 2028,
+    "id": 2,
     "group_id": 4,
     "season_group": 2,
     "reward_order": 7,
     "target_value": 2200,
     "reward_item_id": 542405,
     "reward_item_count": 1
+  },
+  {
+    "id": 2501,
+    "group_id": 3,
+    "season_group": 1,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
+  },
+  {
+    "id": 2,
+    "group_id": 2502,
+    "season_group": 3,
+    "reward_order": 1,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2503,
+    "reward_order": 3,
+    "target_value": 1,
+    "reward_item_id": 2,
+    "reward_item_count": 3
+  },
+  {
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2504,
+    "target_value": 3,
+    "reward_item_id": 1,
+    "reward_item_count": 2
+  },
+  {
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2505,
+    "reward_item_id": 3,
+    "reward_item_count": 1
+  },
+  {
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2506,
+    "reward_item_count": 3
+  },
+  {
+    "id": 1,
+    "group_id": 2,
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2507
+  },
+  {
+    "id": 3,
+    "group_id": 1,
+    "season_group": 2,
+    "reward_order": 7,
+    "target_value": 2200,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 2508,
+    "group_id": 3,
+    "season_group": 2,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
+  },
+  {
+    "id": 2,
+    "group_id": 2509,
+    "season_group": 3,
+    "reward_order": 2,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2510,
+    "reward_order": 3,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 3
+  },
+  {
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2511,
+    "target_value": 3,
+    "reward_item_id": 2,
+    "reward_item_count": 2
+  },
+  {
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2512,
+    "reward_item_id": 3,
+    "reward_item_count": 2
+  },
+  {
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2513,
+    "reward_item_count": 3
+  },
+  {
+    "id": 2,
+    "group_id": 2,
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2514
+  },
+  {
+    "id": 3,
+    "group_id": 2,
+    "season_group": 2,
+    "reward_order": 7,
+    "target_value": 2200,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 2515,
+    "group_id": 3,
+    "season_group": 3,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
+  },
+  {
+    "id": 2,
+    "group_id": 2516,
+    "season_group": 3,
+    "reward_order": 3,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2517,
+    "reward_order": 3,
+    "target_value": 3,
+    "reward_item_id": 2,
+    "reward_item_count": 3
+  },
+  {
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2518,
+    "target_value": 3,
+    "reward_item_id": 3,
+    "reward_item_count": 2
+  },
+  {
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2519,
+    "reward_item_id": 3,
+    "reward_item_count": 3
+  },
+  {
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2520,
+    "reward_item_count": 3
+  },
+  {
+    "id": 3,
+    "group_id": 2,
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2521
+  },
+  {
+    "id": 3,
+    "group_id": 3,
+    "season_group": 2,
+    "reward_order": 7,
+    "target_value": 2200,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 2522,
+    "group_id": 3,
+    "season_group": 4,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
+  },
+  {
+    "id": 2,
+    "group_id": 2523,
+    "season_group": 3,
+    "reward_order": 4,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2524,
+    "reward_order": 3,
+    "target_value": 4,
+    "reward_item_id": 2,
+    "reward_item_count": 3
+  },
+  {
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2525,
+    "target_value": 3,
+    "reward_item_id": 4,
+    "reward_item_count": 2
+  },
+  {
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2526,
+    "reward_item_id": 3,
+    "reward_item_count": 4
+  },
+  {
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2527,
+    "reward_item_count": 3
+  },
+  {
+    "id": 4,
+    "group_id": 2,
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2528
+  },
+  {
+    "id": 3,
+    "group_id": 4,
+    "season_group": 2,
+    "reward_order": 7,
+    "target_value": 2200,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 2601,
+    "group_id": 4,
+    "season_group": 1,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
+  },
+  {
+    "id": 2,
+    "group_id": 2602,
+    "season_group": 4,
+    "reward_order": 1,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2603,
+    "reward_order": 4,
+    "target_value": 1,
+    "reward_item_id": 2,
+    "reward_item_count": 3
+  },
+  {
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2604,
+    "target_value": 4,
+    "reward_item_id": 1,
+    "reward_item_count": 2
+  },
+  {
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2605,
+    "reward_item_id": 4,
+    "reward_item_count": 1
+  },
+  {
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2606,
+    "reward_item_count": 4
+  },
+  {
+    "id": 1,
+    "group_id": 2,
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2607
+  },
+  {
+    "id": 4,
+    "group_id": 1,
+    "season_group": 2,
+    "reward_order": 7,
+    "target_value": 2200,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 2608,
+    "group_id": 4,
+    "season_group": 2,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
+  },
+  {
+    "id": 2,
+    "group_id": 2609,
+    "season_group": 4,
+    "reward_order": 2,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2610,
+    "reward_order": 4,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 3
+  },
+  {
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2611,
+    "target_value": 4,
+    "reward_item_id": 2,
+    "reward_item_count": 2
+  },
+  {
+    "id": 4,
+    "group_id": 1200,
+    "season_group": 530001,
+    "reward_order": 50,
+    "target_value": 2612,
+    "reward_item_id": 4,
+    "reward_item_count": 2
+  },
+  {
+    "id": 2,
+    "group_id": 5,
+    "season_group": 1500,
+    "reward_order": 542405,
+    "target_value": 1,
+    "reward_item_id": 2613,
+    "reward_item_count": 4
+  },
+  {
+    "id": 2,
+    "group_id": 2,
+    "season_group": 6,
+    "reward_order": 1800,
+    "target_value": 530001,
+    "reward_item_id": 50,
+    "reward_item_count": 2614
+  },
+  {
+    "id": 4,
+    "group_id": 2,
+    "season_group": 2,
+    "reward_order": 7,
+    "target_value": 2200,
+    "reward_item_id": 542405,
+    "reward_item_count": 1
+  },
+  {
+    "id": 2615,
+    "group_id": 4,
+    "season_group": 3,
+    "reward_order": 2,
+    "target_value": 1,
+    "reward_item_id": 300,
+    "reward_item_count": 900906
+  },
+  {
+    "id": 2,
+    "group_id": 2616,
+    "season_group": 4,
+    "reward_order": 3,
+    "target_value": 2,
+    "reward_item_id": 2,
+    "reward_item_count": 600
+  },
+  {
+    "id": 542404,
+    "group_id": 3,
+    "season_group": 2617,
+    "reward_order": 4,
+    "target_value": 3,
+    "reward_item_id": 2,
+    "reward_item_count": 3
+  },
+  {
+    "id": 900,
+    "group_id": 510105,
+    "season_group": 1,
+    "reward_order": 2618,
+    "target_value": 4,
+    "reward_item_id": 3,
+    "reward_item_count": 2
   }
 ]

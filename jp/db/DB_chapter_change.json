@@ -4,7 +4,7 @@
     "chapter_id": 601,
     "change_move_matching_area": 600701,
     "change_capital_icon_matching_area": 600701,
-    "change_chapter_name": "7313",
+    "change_chapter_name": "7418",
     "change_chapter_resource": "chapter006_02",
     "open_type": "quest_start",
     "open_value": 16030
@@ -54,7 +54,7 @@
     "chapter_id": 1001,
     "change_move_matching_area": 1000501,
     "change_capital_icon_matching_area": 1000501,
-    "change_chapter_name": "27824",
+    "change_chapter_name": "27909",
     "change_chapter_resource": "chapter010_outro",
     "open_type": "quest_start",
     "open_value": 20012
@@ -64,7 +64,7 @@
     "chapter_id": 1201,
     "change_move_matching_area": 1200301,
     "change_capital_icon_matching_area": 1200301,
-    "change_chapter_name": "39711",
+    "change_chapter_name": "39789",
     "change_chapter_resource": "chapter013",
     "open_type": "quest_start",
     "open_value": 22051

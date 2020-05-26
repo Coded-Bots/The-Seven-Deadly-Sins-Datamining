@@ -558,5 +558,40 @@
     "id": 112,
     "type": "quest",
     "stage_id": 22014
+  },
+  {
+    "id": 113,
+    "type": "quest",
+    "stage_id": 22050
+  },
+  {
+    "id": 114,
+    "type": "quest",
+    "stage_id": 22051
+  },
+  {
+    "id": 115,
+    "type": "quest",
+    "stage_id": 22052
+  },
+  {
+    "id": 117,
+    "type": "quest",
+    "stage_id": 22055
+  },
+  {
+    "id": 118,
+    "type": "quest",
+    "stage_id": 22056
+  },
+  {
+    "id": 119,
+    "type": "quest",
+    "stage_id": 22057
+  },
+  {
+    "id": 120,
+    "type": "quest",
+    "stage_id": 22059
   }
 ]

@@ -96,7 +96,7 @@
   {
     "id": 101,
     "type": "main",
-    "stage_string": "6782",
+    "stage_string": "6887",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 0,
@@ -190,7 +190,7 @@
   {
     "id": 100101,
     "type": "main",
-    "stage_string": "6784",
+    "stage_string": "6889",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 1,
@@ -284,7 +284,7 @@
   {
     "id": 100102,
     "type": "main",
-    "stage_string": "6785",
+    "stage_string": "6890",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 1,
@@ -378,7 +378,7 @@
   {
     "id": 100201,
     "type": "sub_enemy",
-    "stage_string": "7192",
+    "stage_string": "7297",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 1,
@@ -472,7 +472,7 @@
   {
     "id": 100401,
     "type": "sub_enemy",
-    "stage_string": "7194",
+    "stage_string": "7299",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 1,
@@ -566,7 +566,7 @@
   {
     "id": 100402,
     "type": "sub_enemy",
-    "stage_string": "7194",
+    "stage_string": "7299",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 1,
@@ -660,7 +660,7 @@
   {
     "id": 100501,
     "type": "main",
-    "stage_string": "6786",
+    "stage_string": "6891",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 1,
@@ -754,7 +754,7 @@
   {
     "id": 100511,
     "type": "main",
-    "stage_string": "6787",
+    "stage_string": "6892",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 1,
@@ -848,7 +848,7 @@
   {
     "id": 100521,
     "type": "main",
-    "stage_string": "6788",
+    "stage_string": "6893",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 1,
@@ -942,7 +942,7 @@
   {
     "id": 100531,
     "type": "main",
-    "stage_string": "6789",
+    "stage_string": "6894",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 1,
@@ -1036,7 +1036,7 @@
   {
     "id": 100601,
     "type": "sub_enemy",
-    "stage_string": "7194",
+    "stage_string": "7299",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 1,
@@ -1130,7 +1130,7 @@
   {
     "id": 120101,
     "type": "sub_enemy",
-    "stage_string": "7193",
+    "stage_string": "7298",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 1,
@@ -1224,7 +1224,7 @@
   {
     "id": 120102,
     "type": "sub_enemy",
-    "stage_string": "7193",
+    "stage_string": "7298",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 1,
@@ -1318,7 +1318,7 @@
   {
     "id": 120301,
     "type": "sub_enemy",
-    "stage_string": "7197",
+    "stage_string": "7302",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 1,
@@ -1412,7 +1412,7 @@
   {
     "id": 120302,
     "type": "sub_enemy",
-    "stage_string": "7197",
+    "stage_string": "7302",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 1,
@@ -1506,7 +1506,7 @@
   {
     "id": 130101,
     "type": "sub_enemy",
-    "stage_string": "7193",
+    "stage_string": "7298",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 1,
@@ -1600,7 +1600,7 @@
   {
     "id": 130102,
     "type": "sub_enemy",
-    "stage_string": "7193",
+    "stage_string": "7298",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 1,
@@ -1694,7 +1694,7 @@
   {
     "id": 130301,
     "type": "sub_enemy",
-    "stage_string": "7193",
+    "stage_string": "7298",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 1,
@@ -1788,7 +1788,7 @@
   {
     "id": 130302,
     "type": "sub_enemy",
-    "stage_string": "7193",
+    "stage_string": "7298",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 1,
@@ -1882,7 +1882,7 @@
   {
     "id": 200102,
     "type": "sub_enemy",
-    "stage_string": "7195",
+    "stage_string": "7300",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 2,
@@ -1976,7 +1976,7 @@
   {
     "id": 200103,
     "type": "sub_enemy",
-    "stage_string": "7195",
+    "stage_string": "7300",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 2,
@@ -2070,7 +2070,7 @@
   {
     "id": 200301,
     "type": "sub_enemy",
-    "stage_string": "7195",
+    "stage_string": "7300",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 2,
@@ -2164,7 +2164,7 @@
   {
     "id": 200302,
     "type": "sub_enemy",
-    "stage_string": "7195",
+    "stage_string": "7300",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 2,
@@ -2258,7 +2258,7 @@
   {
     "id": 200401,
     "type": "main",
-    "stage_string": "6825",
+    "stage_string": "6930",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 2,
@@ -2352,7 +2352,7 @@
   {
     "id": 200411,
     "type": "main",
-    "stage_string": "6826",
+    "stage_string": "6931",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 2,
@@ -2446,7 +2446,7 @@
   {
     "id": 200421,
     "type": "main",
-    "stage_string": "6827",
+    "stage_string": "6932",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 2,
@@ -2540,7 +2540,7 @@
   {
     "id": 200501,
     "type": "sub_enemy",
-    "stage_string": "7196",
+    "stage_string": "7301",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 2,
@@ -2634,7 +2634,7 @@
   {
     "id": 200502,
     "type": "sub_enemy",
-    "stage_string": "7196",
+    "stage_string": "7301",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 2,
@@ -2728,7 +2728,7 @@
   {
     "id": 200601,
     "type": "main",
-    "stage_string": "6828",
+    "stage_string": "6933",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 2,
@@ -2822,7 +2822,7 @@
   {
     "id": 200611,
     "type": "main",
-    "stage_string": "6829",
+    "stage_string": "6934",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 2,
@@ -2916,7 +2916,7 @@
   {
     "id": 200621,
     "type": "main",
-    "stage_string": "6830",
+    "stage_string": "6935",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 2,
@@ -3010,7 +3010,7 @@
   {
     "id": 210101,
     "type": "sub_enemy",
-    "stage_string": "7195",
+    "stage_string": "7300",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -3104,7 +3104,7 @@
   {
     "id": 210102,
     "type": "sub_enemy",
-    "stage_string": "7195",
+    "stage_string": "7300",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -3198,7 +3198,7 @@
   {
     "id": 210301,
     "type": "sub_enemy",
-    "stage_string": "7198",
+    "stage_string": "7303",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -3292,7 +3292,7 @@
   {
     "id": 210302,
     "type": "sub_enemy",
-    "stage_string": "7198",
+    "stage_string": "7303",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -3386,7 +3386,7 @@
   {
     "id": 220101,
     "type": "sub_enemy",
-    "stage_string": "7199",
+    "stage_string": "7304",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -3480,7 +3480,7 @@
   {
     "id": 220102,
     "type": "sub_enemy",
-    "stage_string": "7199",
+    "stage_string": "7304",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -3574,7 +3574,7 @@
   {
     "id": 220301,
     "type": "sub_enemy",
-    "stage_string": "7200",
+    "stage_string": "7305",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -3668,7 +3668,7 @@
   {
     "id": 220302,
     "type": "sub_enemy",
-    "stage_string": "7200",
+    "stage_string": "7305",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -3762,7 +3762,7 @@
   {
     "id": 230101,
     "type": "sub_enemy",
-    "stage_string": "7195",
+    "stage_string": "7300",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -3856,7 +3856,7 @@
   {
     "id": 230102,
     "type": "sub_reward",
-    "stage_string": "7195",
+    "stage_string": "7300",
     "essen_hero_setting": 0,
     "control_type": "sub_reward",
     "region": 2,
@@ -3950,7 +3950,7 @@
   {
     "id": 230103,
     "type": "sub_enemy",
-    "stage_string": "7195",
+    "stage_string": "7300",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 2,
@@ -4044,7 +4044,7 @@
   {
     "id": 300102,
     "type": "sub_enemy",
-    "stage_string": "7203",
+    "stage_string": "7308",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 3,
@@ -4138,7 +4138,7 @@
   {
     "id": 300103,
     "type": "sub_enemy",
-    "stage_string": "7203",
+    "stage_string": "7308",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 3,
@@ -4232,7 +4232,7 @@
   {
     "id": 300301,
     "type": "sub_enemy",
-    "stage_string": "7204",
+    "stage_string": "7309",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 3,
@@ -4326,7 +4326,7 @@
   {
     "id": 300302,
     "type": "sub_enemy",
-    "stage_string": "7204",
+    "stage_string": "7309",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 3,
@@ -4420,7 +4420,7 @@
   {
     "id": 300303,
     "type": "sub_enemy",
-    "stage_string": "7204",
+    "stage_string": "7309",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 3,
@@ -4514,7 +4514,7 @@
   {
     "id": 300401,
     "type": "main",
-    "stage_string": "6857",
+    "stage_string": "6962",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 3,
@@ -4608,7 +4608,7 @@
   {
     "id": 300411,
     "type": "main",
-    "stage_string": "6858",
+    "stage_string": "6963",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 3,
@@ -4702,7 +4702,7 @@
   {
     "id": 300421,
     "type": "main",
-    "stage_string": "6859",
+    "stage_string": "6964",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 3,
@@ -4796,7 +4796,7 @@
   {
     "id": 300431,
     "type": "main",
-    "stage_string": "6860",
+    "stage_string": "6965",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 3,
@@ -4890,7 +4890,7 @@
   {
     "id": 300441,
     "type": "main",
-    "stage_string": "6861",
+    "stage_string": "6966",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 3,
@@ -4984,7 +4984,7 @@
   {
     "id": 300501,
     "type": "sub_enemy",
-    "stage_string": "7204",
+    "stage_string": "7309",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 3,
@@ -5078,7 +5078,7 @@
   {
     "id": 310101,
     "type": "sub_enemy",
-    "stage_string": "7202",
+    "stage_string": "7307",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -5172,7 +5172,7 @@
   {
     "id": 310102,
     "type": "sub_enemy",
-    "stage_string": "7202",
+    "stage_string": "7307",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -5266,7 +5266,7 @@
   {
     "id": 310301,
     "type": "sub_enemy",
-    "stage_string": "7201",
+    "stage_string": "7306",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -5360,7 +5360,7 @@
   {
     "id": 310302,
     "type": "sub_enemy",
-    "stage_string": "7201",
+    "stage_string": "7306",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -5454,7 +5454,7 @@
   {
     "id": 320101,
     "type": "sub_enemy",
-    "stage_string": "7203",
+    "stage_string": "7308",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -5548,7 +5548,7 @@
   {
     "id": 320102,
     "type": "sub_enemy",
-    "stage_string": "7203",
+    "stage_string": "7308",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -5642,7 +5642,7 @@
   {
     "id": 320301,
     "type": "sub_enemy",
-    "stage_string": "7206",
+    "stage_string": "7311",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -5736,7 +5736,7 @@
   {
     "id": 320302,
     "type": "sub_enemy",
-    "stage_string": "7203",
+    "stage_string": "7308",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -5830,7 +5830,7 @@
   {
     "id": 330101,
     "type": "sub_enemy",
-    "stage_string": "7205",
+    "stage_string": "7310",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -5924,7 +5924,7 @@
   {
     "id": 330102,
     "type": "sub_enemy",
-    "stage_string": "7205",
+    "stage_string": "7310",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -6018,7 +6018,7 @@
   {
     "id": 330301,
     "type": "sub_enemy",
-    "stage_string": "7205",
+    "stage_string": "7310",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -6112,7 +6112,7 @@
   {
     "id": 330302,
     "type": "sub_enemy",
-    "stage_string": "7205",
+    "stage_string": "7310",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 3,
@@ -6206,7 +6206,7 @@
   {
     "id": 400102,
     "type": "sub_enemy",
-    "stage_string": "7207",
+    "stage_string": "7312",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 4,
@@ -6300,7 +6300,7 @@
   {
     "id": 400103,
     "type": "sub_enemy",
-    "stage_string": "7207",
+    "stage_string": "7312",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 4,
@@ -6394,7 +6394,7 @@
   {
     "id": 400501,
     "type": "sub_enemy",
-    "stage_string": "7209",
+    "stage_string": "7314",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 4,
@@ -6488,7 +6488,7 @@
   {
     "id": 400502,
     "type": "sub_enemy",
-    "stage_string": "7209",
+    "stage_string": "7314",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 4,
@@ -6582,7 +6582,7 @@
   {
     "id": 400601,
     "type": "main",
-    "stage_string": "6889",
+    "stage_string": "6994",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -6676,7 +6676,7 @@
   {
     "id": 400611,
     "type": "main",
-    "stage_string": "6888",
+    "stage_string": "6993",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -6770,7 +6770,7 @@
   {
     "id": 400621,
     "type": "main",
-    "stage_string": "6890",
+    "stage_string": "6995",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -6864,7 +6864,7 @@
   {
     "id": 400631,
     "type": "main",
-    "stage_string": "6891",
+    "stage_string": "6996",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -6958,7 +6958,7 @@
   {
     "id": 400641,
     "type": "main",
-    "stage_string": "6892",
+    "stage_string": "6997",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -7052,7 +7052,7 @@
   {
     "id": 400651,
     "type": "main",
-    "stage_string": "6893",
+    "stage_string": "6998",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -7146,7 +7146,7 @@
   {
     "id": 400661,
     "type": "main",
-    "stage_string": "6894",
+    "stage_string": "6999",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -7240,7 +7240,7 @@
   {
     "id": 400671,
     "type": "main",
-    "stage_string": "6895",
+    "stage_string": "7000",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -7334,7 +7334,7 @@
   {
     "id": 400681,
     "type": "main",
-    "stage_string": "6896",
+    "stage_string": "7001",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -7428,7 +7428,7 @@
   {
     "id": 400691,
     "type": "main",
-    "stage_string": "6897",
+    "stage_string": "7002",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 4,
@@ -7522,7 +7522,7 @@
   {
     "id": 410101,
     "type": "sub_enemy",
-    "stage_string": "7210",
+    "stage_string": "7315",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -7616,7 +7616,7 @@
   {
     "id": 410102,
     "type": "sub_enemy",
-    "stage_string": "7210",
+    "stage_string": "7315",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -7710,7 +7710,7 @@
   {
     "id": 410301,
     "type": "sub_enemy",
-    "stage_string": "7210",
+    "stage_string": "7315",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -7804,7 +7804,7 @@
   {
     "id": 410302,
     "type": "sub_enemy",
-    "stage_string": "7210",
+    "stage_string": "7315",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -7898,7 +7898,7 @@
   {
     "id": 420101,
     "type": "sub_enemy",
-    "stage_string": "7207",
+    "stage_string": "7312",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -7992,7 +7992,7 @@
   {
     "id": 420102,
     "type": "sub_enemy",
-    "stage_string": "7207",
+    "stage_string": "7312",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -8086,7 +8086,7 @@
   {
     "id": 420301,
     "type": "sub_enemy",
-    "stage_string": "7211",
+    "stage_string": "7316",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -8180,7 +8180,7 @@
   {
     "id": 420302,
     "type": "sub_enemy",
-    "stage_string": "7211",
+    "stage_string": "7316",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -8274,7 +8274,7 @@
   {
     "id": 430101,
     "type": "sub_enemy",
-    "stage_string": "7209",
+    "stage_string": "7314",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -8368,7 +8368,7 @@
   {
     "id": 430102,
     "type": "sub_enemy",
-    "stage_string": "7209",
+    "stage_string": "7314",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 4,
@@ -8462,7 +8462,7 @@
   {
     "id": 500102,
     "type": "sub_enemy",
-    "stage_string": "7214",
+    "stage_string": "7319",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 5,
@@ -8556,7 +8556,7 @@
   {
     "id": 500103,
     "type": "sub_enemy",
-    "stage_string": "7214",
+    "stage_string": "7319",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 5,
@@ -8650,7 +8650,7 @@
   {
     "id": 500301,
     "type": "sub_enemy",
-    "stage_string": "7215",
+    "stage_string": "7320",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 5,
@@ -8744,7 +8744,7 @@
   {
     "id": 500302,
     "type": "sub_enemy",
-    "stage_string": "7215",
+    "stage_string": "7320",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 5,
@@ -8838,7 +8838,7 @@
   {
     "id": 500401,
     "type": "main",
-    "stage_string": "6926",
+    "stage_string": "7031",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 5,
@@ -8932,7 +8932,7 @@
   {
     "id": 500411,
     "type": "main",
-    "stage_string": "6927",
+    "stage_string": "7032",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 5,
@@ -9026,7 +9026,7 @@
   {
     "id": 500421,
     "type": "main",
-    "stage_string": "6928",
+    "stage_string": "7033",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 5,
@@ -9120,7 +9120,7 @@
   {
     "id": 500431,
     "type": "main",
-    "stage_string": "6929",
+    "stage_string": "7034",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 5,
@@ -9214,7 +9214,7 @@
   {
     "id": 500441,
     "type": "main",
-    "stage_string": "6930",
+    "stage_string": "7035",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 5,
@@ -9308,7 +9308,7 @@
   {
     "id": 510101,
     "type": "sub_enemy",
-    "stage_string": "7212",
+    "stage_string": "7317",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -9402,7 +9402,7 @@
   {
     "id": 510102,
     "type": "sub_reward",
-    "stage_string": "7212",
+    "stage_string": "7317",
     "essen_hero_setting": 0,
     "control_type": "sub_reward",
     "region": 5,
@@ -9496,7 +9496,7 @@
   {
     "id": 510103,
     "type": "sub_enemy",
-    "stage_string": "7212",
+    "stage_string": "7317",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -9590,7 +9590,7 @@
   {
     "id": 510301,
     "type": "sub_enemy",
-    "stage_string": "7218",
+    "stage_string": "7323",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -9684,7 +9684,7 @@
   {
     "id": 510302,
     "type": "sub_enemy",
-    "stage_string": "7218",
+    "stage_string": "7323",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -9778,7 +9778,7 @@
   {
     "id": 510501,
     "type": "sub_enemy",
-    "stage_string": "7217",
+    "stage_string": "7322",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -9872,7 +9872,7 @@
   {
     "id": 510502,
     "type": "sub_enemy",
-    "stage_string": "7217",
+    "stage_string": "7322",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -9966,7 +9966,7 @@
   {
     "id": 520101,
     "type": "sub_enemy",
-    "stage_string": "7213",
+    "stage_string": "7318",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -10060,7 +10060,7 @@
   {
     "id": 520102,
     "type": "sub_enemy",
-    "stage_string": "7213",
+    "stage_string": "7318",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -10154,7 +10154,7 @@
   {
     "id": 520301,
     "type": "sub_enemy",
-    "stage_string": "7216",
+    "stage_string": "7321",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -10248,7 +10248,7 @@
   {
     "id": 520302,
     "type": "sub_enemy",
-    "stage_string": "7216",
+    "stage_string": "7321",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -10342,7 +10342,7 @@
   {
     "id": 530101,
     "type": "sub_enemy",
-    "stage_string": "7219",
+    "stage_string": "7324",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -10436,7 +10436,7 @@
   {
     "id": 530102,
     "type": "sub_enemy",
-    "stage_string": "7219",
+    "stage_string": "7324",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 5,
@@ -10530,7 +10530,7 @@
   {
     "id": 600102,
     "type": "sub_enemy",
-    "stage_string": "7220",
+    "stage_string": "7325",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 6,
@@ -10624,7 +10624,7 @@
   {
     "id": 600201,
     "type": "main",
-    "stage_string": "6970",
+    "stage_string": "7075",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 6,
@@ -10718,7 +10718,7 @@
   {
     "id": 600211,
     "type": "main",
-    "stage_string": "6971",
+    "stage_string": "7076",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 6,
@@ -10812,7 +10812,7 @@
   {
     "id": 600301,
     "type": "sub_enemy",
-    "stage_string": "7225",
+    "stage_string": "7330",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 6,
@@ -10906,7 +10906,7 @@
   {
     "id": 600302,
     "type": "sub_enemy",
-    "stage_string": "7225",
+    "stage_string": "7330",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 6,
@@ -11000,7 +11000,7 @@
   {
     "id": 600501,
     "type": "sub_enemy",
-    "stage_string": "7221",
+    "stage_string": "7326",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 6,
@@ -11094,7 +11094,7 @@
   {
     "id": 600502,
     "type": "sub_enemy",
-    "stage_string": "7221",
+    "stage_string": "7326",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 6,
@@ -11188,7 +11188,7 @@
   {
     "id": 600701,
     "type": "main",
-    "stage_string": "6976",
+    "stage_string": "7081",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 6,
@@ -11282,7 +11282,7 @@
   {
     "id": 600711,
     "type": "main",
-    "stage_string": "6977",
+    "stage_string": "7082",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 6,
@@ -11376,7 +11376,7 @@
   {
     "id": 600801,
     "type": "sub_enemy",
-    "stage_string": "7226",
+    "stage_string": "7331",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 6,
@@ -11470,7 +11470,7 @@
   {
     "id": 600802,
     "type": "sub_reward",
-    "stage_string": "7226",
+    "stage_string": "7331",
     "essen_hero_setting": 0,
     "control_type": "sub_reward",
     "region": 6,
@@ -11564,7 +11564,7 @@
   {
     "id": 600803,
     "type": "sub_enemy",
-    "stage_string": "7226",
+    "stage_string": "7331",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 6,
@@ -11658,7 +11658,7 @@
   {
     "id": 600901,
     "type": "main",
-    "stage_string": "6987",
+    "stage_string": "7092",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 6,
@@ -11752,7 +11752,7 @@
   {
     "id": 600911,
     "type": "main",
-    "stage_string": "6988",
+    "stage_string": "7093",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 6,
@@ -11846,7 +11846,7 @@
   {
     "id": 601001,
     "type": "sub_enemy",
-    "stage_string": "7227",
+    "stage_string": "7332",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 6,
@@ -11940,7 +11940,7 @@
   {
     "id": 601002,
     "type": "sub_enemy",
-    "stage_string": "7227",
+    "stage_string": "7332",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_main",
     "region": 6,
@@ -12034,7 +12034,7 @@
   {
     "id": 601101,
     "type": "main",
-    "stage_string": "6989",
+    "stage_string": "7094",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 6,
@@ -12128,7 +12128,7 @@
   {
     "id": 601111,
     "type": "main",
-    "stage_string": "6990",
+    "stage_string": "7095",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 6,
@@ -12222,7 +12222,7 @@
   {
     "id": 610101,
     "type": "sub_enemy",
-    "stage_string": "7223",
+    "stage_string": "7328",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -12316,7 +12316,7 @@
   {
     "id": 610102,
     "type": "sub_enemy",
-    "stage_string": "7223",
+    "stage_string": "7328",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -12410,7 +12410,7 @@
   {
     "id": 620101,
     "type": "sub_enemy",
-    "stage_string": "7229",
+    "stage_string": "7334",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -12504,7 +12504,7 @@
   {
     "id": 620102,
     "type": "sub_enemy",
-    "stage_string": "7229",
+    "stage_string": "7334",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -12598,7 +12598,7 @@
   {
     "id": 620301,
     "type": "sub_enemy",
-    "stage_string": "7230",
+    "stage_string": "7335",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -12692,7 +12692,7 @@
   {
     "id": 620302,
     "type": "sub_enemy",
-    "stage_string": "7230",
+    "stage_string": "7335",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -12786,7 +12786,7 @@
   {
     "id": 630101,
     "type": "sub_enemy",
-    "stage_string": "7222",
+    "stage_string": "7327",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -12880,7 +12880,7 @@
   {
     "id": 630102,
     "type": "sub_enemy",
-    "stage_string": "7222",
+    "stage_string": "7327",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -12974,7 +12974,7 @@
   {
     "id": 630301,
     "type": "sub_enemy",
-    "stage_string": "7228",
+    "stage_string": "7333",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -13068,7 +13068,7 @@
   {
     "id": 630302,
     "type": "sub_enemy",
-    "stage_string": "7228",
+    "stage_string": "7333",
     "essen_hero_setting": 0,
     "control_type": "sub_enemy_sub",
     "region": 6,
@@ -13162,7 +13162,7 @@
   {
     "id": 11100101,
     "type": "another_main",
-    "stage_string": "7070",
+    "stage_string": "7175",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 111,
@@ -13256,7 +13256,7 @@
   {
     "id": 11100111,
     "type": "another_main",
-    "stage_string": "7071",
+    "stage_string": "7176",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 111,
@@ -13350,7 +13350,7 @@
   {
     "id": 11100301,
     "type": "another_main",
-    "stage_string": "7072",
+    "stage_string": "7177",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -13444,7 +13444,7 @@
   {
     "id": 11100401,
     "type": "another_main",
-    "stage_string": "7073",
+    "stage_string": "7178",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -13538,7 +13538,7 @@
   {
     "id": 11100501,
     "type": "another_main",
-    "stage_string": "7074",
+    "stage_string": "7179",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -13632,7 +13632,7 @@
   {
     "id": 11100601,
     "type": "another_main",
-    "stage_string": "7075",
+    "stage_string": "7180",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -13726,7 +13726,7 @@
   {
     "id": 11100611,
     "type": "another_main",
-    "stage_string": "7076",
+    "stage_string": "7181",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -13820,7 +13820,7 @@
   {
     "id": 11100701,
     "type": "another_main",
-    "stage_string": "7077",
+    "stage_string": "7182",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -13914,7 +13914,7 @@
   {
     "id": 11100711,
     "type": "another_main",
-    "stage_string": "7078",
+    "stage_string": "7183",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14008,7 +14008,7 @@
   {
     "id": 11100721,
     "type": "another_main",
-    "stage_string": "7079",
+    "stage_string": "7184",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14102,7 +14102,7 @@
   {
     "id": 11100801,
     "type": "another_main",
-    "stage_string": "7080",
+    "stage_string": "7185",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14196,7 +14196,7 @@
   {
     "id": 11100811,
     "type": "another_main",
-    "stage_string": "7081",
+    "stage_string": "7186",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14290,7 +14290,7 @@
   {
     "id": 11100901,
     "type": "another_main",
-    "stage_string": "7082",
+    "stage_string": "7187",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14384,7 +14384,7 @@
   {
     "id": 11100911,
     "type": "another_main",
-    "stage_string": "7083",
+    "stage_string": "7188",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14478,7 +14478,7 @@
   {
     "id": 11101001,
     "type": "another_main",
-    "stage_string": "7084",
+    "stage_string": "7189",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14572,7 +14572,7 @@
   {
     "id": 11101011,
     "type": "another_main",
-    "stage_string": "7085",
+    "stage_string": "7190",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14666,7 +14666,7 @@
   {
     "id": 11101101,
     "type": "another_main",
-    "stage_string": "7086",
+    "stage_string": "7191",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14760,7 +14760,7 @@
   {
     "id": 11101111,
     "type": "another_main",
-    "stage_string": "7087",
+    "stage_string": "7192",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14854,7 +14854,7 @@
   {
     "id": 11101121,
     "type": "another_main",
-    "stage_string": "7088",
+    "stage_string": "7193",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -14948,7 +14948,7 @@
   {
     "id": 11101131,
     "type": "another_main",
-    "stage_string": "7089",
+    "stage_string": "7194",
     "essen_hero_setting": 0,
     "control_type": "another_main",
     "region": 112,
@@ -15042,7 +15042,7 @@
   {
     "id": 90100101,
     "type": "event_main",
-    "stage_string": "6702",
+    "stage_string": "6807",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 1000,
@@ -15136,7 +15136,7 @@
   {
     "id": 90100111,
     "type": "event_main",
-    "stage_string": "6703",
+    "stage_string": "6808",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 1000,
@@ -15230,7 +15230,7 @@
   {
     "id": 90100201,
     "type": "event_sub_enemy",
-    "stage_string": "6717",
+    "stage_string": "6822",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 1000,
@@ -15324,7 +15324,7 @@
   {
     "id": 90100202,
     "type": "event_sub_enemy",
-    "stage_string": "6718",
+    "stage_string": "6823",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 1000,
@@ -15418,7 +15418,7 @@
   {
     "id": 90100301,
     "type": "event_main",
-    "stage_string": "6704",
+    "stage_string": "6809",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 1000,
@@ -15512,7 +15512,7 @@
   {
     "id": 90100302,
     "type": "event_main",
-    "stage_string": "6705",
+    "stage_string": "6810",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 1000,
@@ -15606,7 +15606,7 @@
   {
     "id": 90100303,
     "type": "event_main",
-    "stage_string": "6706",
+    "stage_string": "6811",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 1000,
@@ -15700,7 +15700,7 @@
   {
     "id": 90100401,
     "type": "event_sub_enemy",
-    "stage_string": "6719",
+    "stage_string": "6824",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 1000,
@@ -15794,7 +15794,7 @@
   {
     "id": 90100402,
     "type": "event_sub_enemy",
-    "stage_string": "6720",
+    "stage_string": "6825",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 1000,
@@ -15888,7 +15888,7 @@
   {
     "id": 90100501,
     "type": "event_main",
-    "stage_string": "6707",
+    "stage_string": "6812",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 1000,
@@ -15982,7 +15982,7 @@
   {
     "id": 90100511,
     "type": "event_main",
-    "stage_string": "6708",
+    "stage_string": "6813",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 1000,
@@ -16076,7 +16076,7 @@
   {
     "id": 90100521,
     "type": "event_main",
-    "stage_string": "6709",
+    "stage_string": "6814",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 1000,
@@ -16170,7 +16170,7 @@
   {
     "id": 91100101,
     "type": "extra",
-    "stage_string": "7139",
+    "stage_string": "7244",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 999901,
@@ -16264,7 +16264,7 @@
   {
     "id": 91100111,
     "type": "extra",
-    "stage_string": "7140",
+    "stage_string": "7245",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 999901,
@@ -16358,7 +16358,7 @@
   {
     "id": 91100121,
     "type": "extra",
-    "stage_string": "7141",
+    "stage_string": "7246",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 999901,
@@ -16452,7 +16452,7 @@
   {
     "id": 91100301,
     "type": "extra",
-    "stage_string": "7142",
+    "stage_string": "7247",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1003,
@@ -16546,7 +16546,7 @@
   {
     "id": 91100311,
     "type": "extra",
-    "stage_string": "7000",
+    "stage_string": "7105",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1003,
@@ -16640,7 +16640,7 @@
   {
     "id": 91100321,
     "type": "extra",
-    "stage_string": "6713",
+    "stage_string": "6818",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1003,
@@ -16734,7 +16734,7 @@
   {
     "id": 91100331,
     "type": "extra",
-    "stage_string": "6714",
+    "stage_string": "6819",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1003,
@@ -16828,7 +16828,7 @@
   {
     "id": 91100341,
     "type": "extra",
-    "stage_string": "6715",
+    "stage_string": "6820",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1003,
@@ -16922,7 +16922,7 @@
   {
     "id": 91100351,
     "type": "extra",
-    "stage_string": "6716",
+    "stage_string": "6821",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1003,
@@ -17016,7 +17016,7 @@
   {
     "id": 91100401,
     "type": "extra",
-    "stage_string": "7143",
+    "stage_string": "7248",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1004,
@@ -17110,7 +17110,7 @@
   {
     "id": 91100411,
     "type": "extra",
-    "stage_string": "7144",
+    "stage_string": "7249",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1004,
@@ -17204,7 +17204,7 @@
   {
     "id": 91100501,
     "type": "extra",
-    "stage_string": "7149",
+    "stage_string": "7254",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1005,
@@ -17298,7 +17298,7 @@
   {
     "id": 91100511,
     "type": "extra",
-    "stage_string": "7145",
+    "stage_string": "7250",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1005,
@@ -17392,7 +17392,7 @@
   {
     "id": 91100521,
     "type": "extra",
-    "stage_string": "7146",
+    "stage_string": "7251",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1005,
@@ -17486,7 +17486,7 @@
   {
     "id": 91100531,
     "type": "extra",
-    "stage_string": "7147",
+    "stage_string": "7252",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1005,
@@ -17580,7 +17580,7 @@
   {
     "id": 91100601,
     "type": "extra",
-    "stage_string": "7150",
+    "stage_string": "7255",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1006,
@@ -17674,7 +17674,7 @@
   {
     "id": 91100611,
     "type": "extra",
-    "stage_string": "7151",
+    "stage_string": "7256",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1006,
@@ -17768,7 +17768,7 @@
   {
     "id": 91100621,
     "type": "extra",
-    "stage_string": "7152",
+    "stage_string": "7257",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1006,
@@ -17862,7 +17862,7 @@
   {
     "id": 91100701,
     "type": "extra",
-    "stage_string": "7153",
+    "stage_string": "7258",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1007,
@@ -17956,7 +17956,7 @@
   {
     "id": 91100711,
     "type": "extra",
-    "stage_string": "7154",
+    "stage_string": "7259",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1007,
@@ -18050,7 +18050,7 @@
   {
     "id": 91100721,
     "type": "extra",
-    "stage_string": "7155",
+    "stage_string": "7260",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1007,
@@ -18144,7 +18144,7 @@
   {
     "id": 91100731,
     "type": "extra",
-    "stage_string": "7156",
+    "stage_string": "7261",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1007,
@@ -18238,7 +18238,7 @@
   {
     "id": 91100741,
     "type": "extra",
-    "stage_string": "7157",
+    "stage_string": "7262",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1007,
@@ -18332,7 +18332,7 @@
   {
     "id": 91100801,
     "type": "extra",
-    "stage_string": "7158",
+    "stage_string": "7263",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1008,
@@ -18426,7 +18426,7 @@
   {
     "id": 91100811,
     "type": "extra",
-    "stage_string": "7159",
+    "stage_string": "7264",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1008,
@@ -18520,7 +18520,7 @@
   {
     "id": 91100901,
     "type": "extra",
-    "stage_string": "7160",
+    "stage_string": "7265",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1009,
@@ -18614,7 +18614,7 @@
   {
     "id": 91100911,
     "type": "extra",
-    "stage_string": "7161",
+    "stage_string": "7266",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1009,
@@ -18708,7 +18708,7 @@
   {
     "id": 91100921,
     "type": "extra",
-    "stage_string": "7162",
+    "stage_string": "7267",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1009,
@@ -18802,7 +18802,7 @@
   {
     "id": 91100931,
     "type": "extra",
-    "stage_string": "7163",
+    "stage_string": "7268",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1009,
@@ -18896,7 +18896,7 @@
   {
     "id": 91101001,
     "type": "extra",
-    "stage_string": "7164",
+    "stage_string": "7269",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1010,
@@ -18990,7 +18990,7 @@
   {
     "id": 91101011,
     "type": "extra",
-    "stage_string": "7165",
+    "stage_string": "7270",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1010,
@@ -19084,7 +19084,7 @@
   {
     "id": 91101101,
     "type": "extra",
-    "stage_string": "7166",
+    "stage_string": "7271",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1011,
@@ -19178,7 +19178,7 @@
   {
     "id": 91101111,
     "type": "extra",
-    "stage_string": "7167",
+    "stage_string": "7272",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1011,
@@ -19272,7 +19272,7 @@
   {
     "id": 91101121,
     "type": "extra",
-    "stage_string": "7168",
+    "stage_string": "7273",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1011,
@@ -19366,7 +19366,7 @@
   {
     "id": 91101131,
     "type": "extra",
-    "stage_string": "7169",
+    "stage_string": "7274",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1011,
@@ -19460,7 +19460,7 @@
   {
     "id": 91101141,
     "type": "extra",
-    "stage_string": "7170",
+    "stage_string": "7275",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1011,
@@ -19554,7 +19554,7 @@
   {
     "id": 91101201,
     "type": "extra",
-    "stage_string": "7171",
+    "stage_string": "7276",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1012,
@@ -19648,7 +19648,7 @@
   {
     "id": 91101211,
     "type": "extra",
-    "stage_string": "7172",
+    "stage_string": "7277",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1012,
@@ -19742,7 +19742,7 @@
   {
     "id": 91101301,
     "type": "extra",
-    "stage_string": "7173",
+    "stage_string": "7278",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1013,
@@ -19836,7 +19836,7 @@
   {
     "id": 91101311,
     "type": "extra",
-    "stage_string": "7174",
+    "stage_string": "7279",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1013,
@@ -19930,7 +19930,7 @@
   {
     "id": 91101321,
     "type": "extra",
-    "stage_string": "7175",
+    "stage_string": "7280",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1013,
@@ -20024,7 +20024,7 @@
   {
     "id": 91101401,
     "type": "extra",
-    "stage_string": "7176",
+    "stage_string": "7281",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1014,
@@ -20118,7 +20118,7 @@
   {
     "id": 91101411,
     "type": "extra",
-    "stage_string": "7177",
+    "stage_string": "7282",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1014,
@@ -20212,7 +20212,7 @@
   {
     "id": 91101421,
     "type": "extra",
-    "stage_string": "7178",
+    "stage_string": "7283",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1014,
@@ -20306,7 +20306,7 @@
   {
     "id": 91101431,
     "type": "extra",
-    "stage_string": "7179",
+    "stage_string": "7284",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1014,
@@ -20400,7 +20400,7 @@
   {
     "id": 91101501,
     "type": "extra",
-    "stage_string": "7180",
+    "stage_string": "7285",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1015,
@@ -20494,7 +20494,7 @@
   {
     "id": 91101601,
     "type": "extra",
-    "stage_string": "7181",
+    "stage_string": "7286",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1016,
@@ -20588,7 +20588,7 @@
   {
     "id": 91101611,
     "type": "extra",
-    "stage_string": "7182",
+    "stage_string": "7287",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1016,
@@ -20682,7 +20682,7 @@
   {
     "id": 91101621,
     "type": "extra",
-    "stage_string": "7183",
+    "stage_string": "7288",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1016,
@@ -20776,7 +20776,7 @@
   {
     "id": 91101701,
     "type": "extra",
-    "stage_string": "27812",
+    "stage_string": "27897",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1017,
@@ -20870,7 +20870,7 @@
   {
     "id": 91101711,
     "type": "extra",
-    "stage_string": "27813",
+    "stage_string": "27898",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1017,
@@ -20964,7 +20964,7 @@
   {
     "id": 91101801,
     "type": "extra",
-    "stage_string": "27814",
+    "stage_string": "27899",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1018,
@@ -21058,7 +21058,7 @@
   {
     "id": 91101811,
     "type": "extra",
-    "stage_string": "27815",
+    "stage_string": "27900",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1018,
@@ -21152,7 +21152,7 @@
   {
     "id": 91101901,
     "type": "extra",
-    "stage_string": "7184",
+    "stage_string": "7289",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1019,
@@ -21246,7 +21246,7 @@
   {
     "id": 91101911,
     "type": "extra",
-    "stage_string": "7185",
+    "stage_string": "7290",
     "essen_hero_setting": 0,
     "control_type": "extra",
     "region": 1019,
@@ -21340,7 +21340,7 @@
   {
     "id": 91101921,
     "type": "extra",
-    "stage_string": "7186",
+    "stage_string": "7291",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1019,
@@ -21434,7 +21434,7 @@
   {
     "id": 91102001,
     "type": "extra",
-    "stage_string": "39632",
+    "stage_string": "39710",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1020,
@@ -21448,14 +21448,14 @@
     "need_stage_id": 0,
     "next_stage_side": 0,
     "next_stage_id": 91102011,
-    "start_cut": 3013031,
-    "end_cut": 3013032,
+    "start_cut": 3013220,
+    "end_cut": 3013230,
     "story_id_1": 0,
     "story_id_2": 0,
     "story_id_3": 0,
     "need_stamina_item_id": 500020,
-    "need_stamina_count": 12,
-    "team_power": 31500,
+    "need_stamina_count": 14,
+    "team_power": 169000,
     "monster_count": 0,
     "monster_atk_inc_per": 0,
     "monster_def_inc_per": 0,
@@ -21468,32 +21468,32 @@
     "monster_id_5": 0,
     "monster_id_6": 0,
     "is_turn_pivot": 1,
-    "set_boss_elite_ui": 1,
+    "set_boss_elite_ui": 0,
     "stage_placement": "",
     "stage_hero_entry_all": 0,
     "monster_ai_id": 100001,
-    "boss_atk_inc_per": 90,
-    "boss_def_inc_per": 130,
-    "boss_hp_inc_per": 150,
+    "boss_atk_inc_per": 320,
+    "boss_def_inc_per": 250,
+    "boss_hp_inc_per": 500,
     "boss_id_1": 5013501,
-    "boss_level_1": 136,
+    "boss_level_1": 189,
     "boss_id_2": 5013502,
-    "boss_level_2": 136,
+    "boss_level_2": 187,
     "boss_id_3": 5013503,
-    "boss_level_3": 136,
+    "boss_level_3": 187,
     "boss_id_4": 0,
     "boss_level_4": 0,
     "play_boss_spawn": 0,
     "boss_entry_type": "run",
-    "map_filename": "map_common_forest_05",
-    "spawn_prop_filename": "12_prop_Hawkmama",
+    "map_filename": "map_LONSgate_stage_02",
+    "spawn_prop_filename": "",
     "change_map_filename": "",
     "bgm_sound_id": 90071,
     "boss_sound_id": 90069,
-    "user_exp": 12,
-    "hero_exp": 24000,
-    "gold_value": 9000,
-    "reward_id_1": 542305,
+    "user_exp": 14,
+    "hero_exp": 28000,
+    "gold_value": 12000,
+    "reward_id_1": 900906,
     "reward_value_1": 1,
     "reward_value_box_1": 3,
     "reward_hero_lv_1": 0,
@@ -21501,7 +21501,7 @@
     "first_reward_value": 1,
     "first_reward_hero_lv": 0,
     "EssenCondition_1": "hero_group_check",
-    "EssenConditionValue_1": 1,
+    "EssenConditionValue_1": 10,
     "EssenCondition_2": "",
     "EssenConditionValue_2": 0,
     "EssenCondition_3": "",
@@ -21528,7 +21528,7 @@
   {
     "id": 91102011,
     "type": "extra",
-    "stage_string": "39633",
+    "stage_string": "39711",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 1020,
@@ -21542,14 +21542,14 @@
     "need_stage_id": 91102001,
     "next_stage_side": 0,
     "next_stage_id": 0,
-    "start_cut": 3013033,
-    "end_cut": 3013034,
+    "start_cut": 3013240,
+    "end_cut": 3013250,
     "story_id_1": 0,
     "story_id_2": 0,
     "story_id_3": 0,
     "need_stamina_item_id": 500020,
-    "need_stamina_count": 12,
-    "team_power": 31500,
+    "need_stamina_count": 14,
+    "team_power": 42500,
     "monster_count": 0,
     "monster_atk_inc_per": 0,
     "monster_def_inc_per": 0,
@@ -21566,11 +21566,11 @@
     "stage_placement": "",
     "stage_hero_entry_all": 0,
     "monster_ai_id": 100001,
-    "boss_atk_inc_per": 90,
-    "boss_def_inc_per": 130,
-    "boss_hp_inc_per": 150,
+    "boss_atk_inc_per": 150,
+    "boss_def_inc_per": 200,
+    "boss_hp_inc_per": 250,
     "boss_id_1": 5013009,
-    "boss_level_1": 136,
+    "boss_level_1": 190,
     "boss_id_2": 0,
     "boss_level_2": 0,
     "boss_id_3": 0,
@@ -21578,32 +21578,32 @@
     "boss_id_4": 0,
     "boss_level_4": 0,
     "play_boss_spawn": 0,
-    "boss_entry_type": "normal_drop",
-    "map_filename": "map_common_forest_05",
-    "spawn_prop_filename": "12_prop_Hawkmama",
+    "boss_entry_type": "run",
+    "map_filename": "map_LONStg_stage_01",
+    "spawn_prop_filename": "",
     "change_map_filename": "",
     "bgm_sound_id": 90071,
     "boss_sound_id": 90069,
-    "user_exp": 12,
-    "hero_exp": 24000,
-    "gold_value": 9000,
-    "reward_id_1": 542305,
-    "reward_value_1": 1,
+    "user_exp": 14,
+    "hero_exp": 28000,
+    "gold_value": 12000,
+    "reward_id_1": 530001,
+    "reward_value_1": 10,
     "reward_value_box_1": 3,
     "reward_hero_lv_1": 0,
     "first_reward_id": 500011,
     "first_reward_value": 1,
     "first_reward_hero_lv": 0,
-    "EssenCondition_1": "hero_group_check",
-    "EssenConditionValue_1": 1,
+    "EssenCondition_1": "",
+    "EssenConditionValue_1": 0,
     "EssenCondition_2": "",
     "EssenConditionValue_2": 0,
     "EssenCondition_3": "",
     "EssenConditionValue_3": 0,
     "EssenCondition_4": "",
     "EssenConditionValue_4": 0,
-    "BanCondition_1": "",
-    "BanConditionValue_1": 0,
+    "BanCondition_1": "hero_group_check",
+    "BanConditionValue_1": 22,
     "BanCondition_2": "",
     "BanConditionValue_2": 0,
     "BanCondition_3": "",
@@ -21617,12 +21617,12 @@
     "Hrun_reward_max_value": 0,
     "Hrun_map": "",
     "Hrun_bg": "",
-    "npc_team_id": 0
+    "npc_team_id": 50000099
   },
   {
     "id": 91500101,
     "type": "extra",
-    "stage_string": "7187",
+    "stage_string": "7292",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 5001,
@@ -21716,7 +21716,7 @@
   {
     "id": 91500111,
     "type": "extra",
-    "stage_string": "7188",
+    "stage_string": "7293",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 5001,
@@ -21810,7 +21810,7 @@
   {
     "id": 91500121,
     "type": "extra",
-    "stage_string": "7189",
+    "stage_string": "7294",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 5001,
@@ -21904,7 +21904,7 @@
   {
     "id": 91500131,
     "type": "extra",
-    "stage_string": "7190",
+    "stage_string": "7295",
     "essen_hero_setting": 0,
     "control_type": "extra_main",
     "region": 5001,
@@ -21998,7 +21998,7 @@
   {
     "id": 91300101,
     "type": "event_list_main",
-    "stage_string": "29879",
+    "stage_string": "29964",
     "essen_hero_setting": 0,
     "control_type": "event_list_main",
     "region": 3000,
@@ -22092,7 +22092,7 @@
   {
     "id": 91300102,
     "type": "event_list_main",
-    "stage_string": "29880",
+    "stage_string": "29965",
     "essen_hero_setting": 0,
     "control_type": "event_list_main",
     "region": 3000,
@@ -22186,7 +22186,7 @@
   {
     "id": 91300103,
     "type": "event_list_main",
-    "stage_string": "29881",
+    "stage_string": "29966",
     "essen_hero_setting": 0,
     "control_type": "event_list_main",
     "region": 3000,
@@ -22280,7 +22280,7 @@
   {
     "id": 91300104,
     "type": "event_list_main",
-    "stage_string": "29882",
+    "stage_string": "29967",
     "essen_hero_setting": 0,
     "control_type": "event_list_main",
     "region": 3000,
@@ -22374,7 +22374,7 @@
   {
     "id": 91300105,
     "type": "event_list_main",
-    "stage_string": "29883",
+    "stage_string": "29968",
     "essen_hero_setting": 0,
     "control_type": "event_list_main",
     "region": 3000,
@@ -22468,7 +22468,7 @@
   {
     "id": 91300106,
     "type": "event_list_main",
-    "stage_string": "29884",
+    "stage_string": "29969",
     "essen_hero_setting": 0,
     "control_type": "event_list_main",
     "region": 3000,
@@ -22562,7 +22562,7 @@
   {
     "id": 91300107,
     "type": "event_list_main",
-    "stage_string": "29885",
+    "stage_string": "29970",
     "essen_hero_setting": 0,
     "control_type": "event_list_main",
     "region": 3000,
@@ -22656,7 +22656,7 @@
   {
     "id": 91300108,
     "type": "event_list_main",
-    "stage_string": "29886",
+    "stage_string": "29971",
     "essen_hero_setting": 0,
     "control_type": "event_list_main",
     "region": 3000,
@@ -22750,7 +22750,7 @@
   {
     "id": 91300109,
     "type": "event_list_main",
-    "stage_string": "29887",
+    "stage_string": "29972",
     "essen_hero_setting": 0,
     "control_type": "event_list_main",
     "region": 3000,
@@ -22844,7 +22844,7 @@
   {
     "id": 92010101,
     "type": "event_main",
-    "stage_string": "6622",
+    "stage_string": "6727",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -22938,7 +22938,7 @@
   {
     "id": 92010111,
     "type": "event_main",
-    "stage_string": "6623",
+    "stage_string": "6728",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -23032,7 +23032,7 @@
   {
     "id": 92010201,
     "type": "event_sub_enemy",
-    "stage_string": "6660",
+    "stage_string": "6765",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -23126,7 +23126,7 @@
   {
     "id": 92010202,
     "type": "event_sub_enemy",
-    "stage_string": "6660",
+    "stage_string": "6765",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -23220,7 +23220,7 @@
   {
     "id": 92010301,
     "type": "event_main",
-    "stage_string": "6626",
+    "stage_string": "6731",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -23314,7 +23314,7 @@
   {
     "id": 92010311,
     "type": "event_main",
-    "stage_string": "6627",
+    "stage_string": "6732",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -23408,7 +23408,7 @@
   {
     "id": 92010321,
     "type": "event_main",
-    "stage_string": "6628",
+    "stage_string": "6733",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -23502,7 +23502,7 @@
   {
     "id": 92010331,
     "type": "event_main",
-    "stage_string": "6629",
+    "stage_string": "6734",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -23596,7 +23596,7 @@
   {
     "id": 92010401,
     "type": "event_sub_enemy",
-    "stage_string": "6661",
+    "stage_string": "6766",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -23690,7 +23690,7 @@
   {
     "id": 92010402,
     "type": "event_sub_enemy",
-    "stage_string": "6661",
+    "stage_string": "6766",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -23784,7 +23784,7 @@
   {
     "id": 92010501,
     "type": "event_main",
-    "stage_string": "6636",
+    "stage_string": "6741",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -23878,7 +23878,7 @@
   {
     "id": 92010511,
     "type": "event_main",
-    "stage_string": "6637",
+    "stage_string": "6742",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -23972,7 +23972,7 @@
   {
     "id": 92010521,
     "type": "event_main",
-    "stage_string": "6638",
+    "stage_string": "6743",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -24066,7 +24066,7 @@
   {
     "id": 92010601,
     "type": "event_sub_enemy",
-    "stage_string": "6662",
+    "stage_string": "6767",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -24160,7 +24160,7 @@
   {
     "id": 92010602,
     "type": "event_sub_enemy",
-    "stage_string": "6662",
+    "stage_string": "6767",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -24254,7 +24254,7 @@
   {
     "id": 92010701,
     "type": "event_main",
-    "stage_string": "6643",
+    "stage_string": "6748",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -24348,7 +24348,7 @@
   {
     "id": 92010711,
     "type": "event_main",
-    "stage_string": "6644",
+    "stage_string": "6749",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -24442,7 +24442,7 @@
   {
     "id": 92010721,
     "type": "event_main",
-    "stage_string": "6645",
+    "stage_string": "6750",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -24536,7 +24536,7 @@
   {
     "id": 92010801,
     "type": "event_sub_enemy",
-    "stage_string": "6663",
+    "stage_string": "6768",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -24630,7 +24630,7 @@
   {
     "id": 92010802,
     "type": "event_sub_enemy",
-    "stage_string": "6663",
+    "stage_string": "6768",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -24724,7 +24724,7 @@
   {
     "id": 92010901,
     "type": "event_main",
-    "stage_string": "6652",
+    "stage_string": "6757",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -24818,7 +24818,7 @@
   {
     "id": 92010911,
     "type": "event_main",
-    "stage_string": "6653",
+    "stage_string": "6758",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -24912,7 +24912,7 @@
   {
     "id": 92010921,
     "type": "event_main",
-    "stage_string": "6654",
+    "stage_string": "6759",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -25006,7 +25006,7 @@
   {
     "id": 92011001,
     "type": "event_sub_enemy",
-    "stage_string": "6664",
+    "stage_string": "6769",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -25100,7 +25100,7 @@
   {
     "id": 92011002,
     "type": "event_sub_enemy",
-    "stage_string": "6664",
+    "stage_string": "6769",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9201,
@@ -25194,7 +25194,7 @@
   {
     "id": 92011101,
     "type": "event_main",
-    "stage_string": "6658",
+    "stage_string": "6763",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -25288,7 +25288,7 @@
   {
     "id": 92011111,
     "type": "event_main",
-    "stage_string": "6659",
+    "stage_string": "6764",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9201,
@@ -26322,7 +26322,7 @@
   {
     "id": 93010101,
     "type": "event_main",
-    "stage_string": "6666",
+    "stage_string": "6771",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -26416,7 +26416,7 @@
   {
     "id": 93010111,
     "type": "event_main",
-    "stage_string": "6667",
+    "stage_string": "6772",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -26510,7 +26510,7 @@
   {
     "id": 93010201,
     "type": "event_sub_enemy",
-    "stage_string": "6685",
+    "stage_string": "6790",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9301,
@@ -26604,7 +26604,7 @@
   {
     "id": 93010202,
     "type": "event_sub_enemy",
-    "stage_string": "6685",
+    "stage_string": "6790",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9301,
@@ -26698,7 +26698,7 @@
   {
     "id": 93010401,
     "type": "event_sub_enemy",
-    "stage_string": "6686",
+    "stage_string": "6791",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9301,
@@ -26792,7 +26792,7 @@
   {
     "id": 93010402,
     "type": "event_sub_enemy",
-    "stage_string": "6686",
+    "stage_string": "6791",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9301,
@@ -26886,7 +26886,7 @@
   {
     "id": 93010501,
     "type": "event_main",
-    "stage_string": "6673",
+    "stage_string": "6778",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -26980,7 +26980,7 @@
   {
     "id": 93010511,
     "type": "event_main",
-    "stage_string": "6674",
+    "stage_string": "6779",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -27074,7 +27074,7 @@
   {
     "id": 93010521,
     "type": "event_main",
-    "stage_string": "6675",
+    "stage_string": "6780",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -27168,7 +27168,7 @@
   {
     "id": 93010531,
     "type": "event_main",
-    "stage_string": "6676",
+    "stage_string": "6781",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -27262,7 +27262,7 @@
   {
     "id": 93010601,
     "type": "event_sub_enemy",
-    "stage_string": "6687",
+    "stage_string": "6792",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9301,
@@ -27356,7 +27356,7 @@
   {
     "id": 93010602,
     "type": "event_sub_enemy",
-    "stage_string": "6687",
+    "stage_string": "6792",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9301,
@@ -27450,7 +27450,7 @@
   {
     "id": 93010701,
     "type": "event_main",
-    "stage_string": "6678",
+    "stage_string": "6783",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -27544,7 +27544,7 @@
   {
     "id": 93010711,
     "type": "event_main",
-    "stage_string": "6679",
+    "stage_string": "6784",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -27638,7 +27638,7 @@
   {
     "id": 93010801,
     "type": "event_sub_enemy",
-    "stage_string": "6688",
+    "stage_string": "6793",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9301,
@@ -27732,7 +27732,7 @@
   {
     "id": 93010802,
     "type": "event_sub_enemy",
-    "stage_string": "6688",
+    "stage_string": "6793",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9301,
@@ -27826,7 +27826,7 @@
   {
     "id": 93010901,
     "type": "event_main",
-    "stage_string": "6681",
+    "stage_string": "6786",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -27920,7 +27920,7 @@
   {
     "id": 93010911,
     "type": "event_main",
-    "stage_string": "6682",
+    "stage_string": "6787",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -28014,7 +28014,7 @@
   {
     "id": 93010921,
     "type": "event_main",
-    "stage_string": "6683",
+    "stage_string": "6788",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -28108,7 +28108,7 @@
   {
     "id": 93010931,
     "type": "event_main",
-    "stage_string": "6684",
+    "stage_string": "6789",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9301,
@@ -28202,7 +28202,7 @@
   {
     "id": 93070101,
     "type": "event_main",
-    "stage_string": "37578",
+    "stage_string": "37663",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9307,
@@ -28296,7 +28296,7 @@
   {
     "id": 93070111,
     "type": "event_main",
-    "stage_string": "37579",
+    "stage_string": "37664",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9307,
@@ -28390,7 +28390,7 @@
   {
     "id": 93070201,
     "type": "event_sub_enemy",
-    "stage_string": "37588",
+    "stage_string": "37673",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9307,
@@ -28484,7 +28484,7 @@
   {
     "id": 93070202,
     "type": "event_sub_enemy",
-    "stage_string": "37588",
+    "stage_string": "37673",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9307,
@@ -28578,7 +28578,7 @@
   {
     "id": 93070301,
     "type": "event_main",
-    "stage_string": "37583",
+    "stage_string": "37668",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9307,
@@ -28672,7 +28672,7 @@
   {
     "id": 93070311,
     "type": "event_main",
-    "stage_string": "37584",
+    "stage_string": "37669",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9307,
@@ -28766,7 +28766,7 @@
   {
     "id": 93070401,
     "type": "event_sub_enemy",
-    "stage_string": "37589",
+    "stage_string": "37674",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9307,
@@ -28860,7 +28860,7 @@
   {
     "id": 93070402,
     "type": "event_sub_enemy",
-    "stage_string": "37589",
+    "stage_string": "37674",
     "essen_hero_setting": 0,
     "control_type": "event_sub_enemy",
     "region": 9307,
@@ -28954,7 +28954,7 @@
   {
     "id": 93070501,
     "type": "event_main",
-    "stage_string": "37585",
+    "stage_string": "37670",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9307,
@@ -29048,7 +29048,7 @@
   {
     "id": 93070511,
     "type": "event_main",
-    "stage_string": "37586",
+    "stage_string": "37671",
     "essen_hero_setting": 0,
     "control_type": "event_main",
     "region": 9307,
@@ -29142,7 +29142,7 @@
   {
     "id": 99200101,
     "type": "event_final_boss_main",
-    "stage_string": "21829",
+    "stage_string": "21915",
     "essen_hero_setting": 0,
     "control_type": "event_final_boss_main",
     "region": 4000,
@@ -29236,7 +29236,7 @@
   {
     "id": 700301,
     "type": "main",
-    "stage_string": "7029",
+    "stage_string": "7134",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 7,
@@ -29330,7 +29330,7 @@
   {
     "id": 700311,
     "type": "main",
-    "stage_string": "7030",
+    "stage_string": "7135",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 7,
@@ -29424,7 +29424,7 @@
   {
     "id": 700321,
     "type": "main",
-    "stage_string": "7031",
+    "stage_string": "7136",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 7,
@@ -29518,7 +29518,7 @@
   {
     "id": 700401,
     "type": "main",
-    "stage_string": "7032",
+    "stage_string": "7137",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 7,
@@ -29612,7 +29612,7 @@
   {
     "id": 700411,
     "type": "main",
-    "stage_string": "7033",
+    "stage_string": "7138",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 7,
@@ -29706,7 +29706,7 @@
   {
     "id": 700421,
     "type": "main",
-    "stage_string": "7034",
+    "stage_string": "7139",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 7,
@@ -29800,7 +29800,7 @@
   {
     "id": 700431,
     "type": "main",
-    "stage_string": "7035",
+    "stage_string": "7140",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 7,
@@ -29894,7 +29894,7 @@
   {
     "id": 900201,
     "type": "main",
-    "stage_string": "7037",
+    "stage_string": "7142",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 9,
@@ -29988,7 +29988,7 @@
   {
     "id": 900211,
     "type": "main",
-    "stage_string": "7038",
+    "stage_string": "7143",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 9,
@@ -30082,7 +30082,7 @@
   {
     "id": 900221,
     "type": "main",
-    "stage_string": "7039",
+    "stage_string": "7144",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 9,
@@ -30176,7 +30176,7 @@
   {
     "id": 900231,
     "type": "main",
-    "stage_string": "7040",
+    "stage_string": "7145",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 9,
@@ -30270,7 +30270,7 @@
   {
     "id": 900241,
     "type": "main",
-    "stage_string": "7041",
+    "stage_string": "7146",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 9,
@@ -30364,7 +30364,7 @@
   {
     "id": 900301,
     "type": "main",
-    "stage_string": "7042",
+    "stage_string": "7147",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 9,
@@ -30458,7 +30458,7 @@
   {
     "id": 900401,
     "type": "main",
-    "stage_string": "7043",
+    "stage_string": "7148",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 9,
@@ -30552,7 +30552,7 @@
   {
     "id": 900411,
     "type": "main",
-    "stage_string": "7044",
+    "stage_string": "7149",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 9,
@@ -30646,7 +30646,7 @@
   {
     "id": 900421,
     "type": "main",
-    "stage_string": "7045",
+    "stage_string": "7150",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 9,
@@ -30740,7 +30740,7 @@
   {
     "id": 1000201,
     "type": "main",
-    "stage_string": "7046",
+    "stage_string": "7151",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -30834,7 +30834,7 @@
   {
     "id": 1000211,
     "type": "main",
-    "stage_string": "7047",
+    "stage_string": "7152",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -30928,7 +30928,7 @@
   {
     "id": 1000221,
     "type": "main",
-    "stage_string": "7048",
+    "stage_string": "7153",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31022,7 +31022,7 @@
   {
     "id": 1000231,
     "type": "main",
-    "stage_string": "7049",
+    "stage_string": "7154",
     "essen_hero_setting": 0,
     "control_type": "main_essential",
     "region": 10,
@@ -31116,7 +31116,7 @@
   {
     "id": 1000241,
     "type": "main",
-    "stage_string": "7050",
+    "stage_string": "7155",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31210,7 +31210,7 @@
   {
     "id": 1000301,
     "type": "main",
-    "stage_string": "7051",
+    "stage_string": "7156",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31304,7 +31304,7 @@
   {
     "id": 1000311,
     "type": "main",
-    "stage_string": "7052",
+    "stage_string": "7157",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31398,7 +31398,7 @@
   {
     "id": 1000401,
     "type": "main",
-    "stage_string": "7053",
+    "stage_string": "7158",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31492,7 +31492,7 @@
   {
     "id": 1000411,
     "type": "main",
-    "stage_string": "7054",
+    "stage_string": "7159",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31586,7 +31586,7 @@
   {
     "id": 1000421,
     "type": "main",
-    "stage_string": "7055",
+    "stage_string": "7160",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31680,7 +31680,7 @@
   {
     "id": 1000431,
     "type": "main",
-    "stage_string": "7056",
+    "stage_string": "7161",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31774,7 +31774,7 @@
   {
     "id": 1000441,
     "type": "main",
-    "stage_string": "7057",
+    "stage_string": "7162",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31868,7 +31868,7 @@
   {
     "id": 1000451,
     "type": "main",
-    "stage_string": "7058",
+    "stage_string": "7163",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -31962,7 +31962,7 @@
   {
     "id": 1000461,
     "type": "main",
-    "stage_string": "7059",
+    "stage_string": "7164",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -32056,7 +32056,7 @@
   {
     "id": 1000471,
     "type": "main",
-    "stage_string": "7060",
+    "stage_string": "7165",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -32150,7 +32150,7 @@
   {
     "id": 1000481,
     "type": "main",
-    "stage_string": "7061",
+    "stage_string": "7166",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -32244,7 +32244,7 @@
   {
     "id": 1000491,
     "type": "main",
-    "stage_string": "7062",
+    "stage_string": "7167",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -32338,7 +32338,7 @@
   {
     "id": 1000501,
     "type": "main",
-    "stage_string": "7063",
+    "stage_string": "7168",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 10,
@@ -32432,7 +32432,7 @@
   {
     "id": 1100201,
     "type": "main",
-    "stage_string": "7064",
+    "stage_string": "7169",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 11,
@@ -32526,7 +32526,7 @@
   {
     "id": 1100211,
     "type": "main",
-    "stage_string": "7065",
+    "stage_string": "7170",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 11,
@@ -32620,7 +32620,7 @@
   {
     "id": 1200201,
     "type": "main",
-    "stage_string": "7066",
+    "stage_string": "7171",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 12,
@@ -32714,7 +32714,7 @@
   {
     "id": 1200211,
     "type": "main",
-    "stage_string": "7067",
+    "stage_string": "7172",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 12,
@@ -32808,7 +32808,7 @@
   {
     "id": 1200401,
     "type": "main",
-    "stage_string": "7068",
+    "stage_string": "7173",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 12,
@@ -32902,7 +32902,7 @@
   {
     "id": 1200411,
     "type": "main",
-    "stage_string": "7069",
+    "stage_string": "7174",
     "essen_hero_setting": 0,
     "control_type": "main",
     "region": 12,

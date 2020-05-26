@@ -58,5 +58,17 @@
     "large_popup": "m_banner_realboss_04",
     "event_banner": "s_banner_real_boss_04",
     "season_info": "1455"
+  },
+  {
+    "id": 6,
+    "season_type": "rank",
+    "season_start": "2020-04-29 00:00:00",
+    "season_end": "2020-05-13 23:59:00",
+    "season_title": "5858",
+    "season_icon": "event_banner_world_final_boss",
+    "season_shop_end": "2020-05-16 23:59:00",
+    "large_popup": "m_banner_realboss_05",
+    "event_banner": "s_banner_real_boss_005",
+    "season_info": "6148"
   }
 ]

@@ -761,5 +761,33 @@
     "get_sound_1": 0,
     "get_sound_2": 0,
     "dp_sound_1": 238135
+  },
+  {
+    "id": 110,
+    "hero_id": 1595001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238077
+  },
+  {
+    "id": 111,
+    "hero_id": 1745001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238091
+  },
+  {
+    "id": 112,
+    "hero_id": 1705001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238165
+  },
+  {
+    "id": 113,
+    "hero_id": 1415001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238168
   }
 ]

@@ -4364,7 +4364,7 @@
     "contents": "reverse_stage_contents_quest_open",
     "value_string_1": "",
     "value_string_2": "",
-    "value_int_1": 22015,
+    "value_int_1": 18021,
     "value_int_2": 0,
     "value_float_1": 0,
     "value_float_2": 0
@@ -4614,7 +4614,7 @@
     "contents": "clear_ticket_open_quest",
     "value_string_1": "",
     "value_string_2": "",
-    "value_int_1": 17014,
+    "value_int_1": 15008,
     "value_int_2": 500024,
     "value_float_1": 0,
     "value_float_2": 0
@@ -4683,6 +4683,36 @@
     "id": 526,
     "contents": "lobby_special_price_icon_name",
     "value_string_1": "icon_bigsale_01",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 527,
+    "contents": "patrol_max_count",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 6,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 528,
+    "contents": "patrol_open_quest",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 15008,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 529,
+    "contents": "lobby_event_enquete_icon_name",
+    "value_string_1": "icon_shortcut_event_enquete",
     "value_string_2": "",
     "value_int_1": 0,
     "value_int_2": 0,

@@ -190,6 +190,26 @@
     "destroy_idle_path": "hero_crimson_demon/ani/crimsondemon_phase02/_common"
   },
   {
+    "id": 2260131,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_09",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_09",
+    "destroy_strong_skill_desc": "DB_destroy_skill_05",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_013",
+    "destroy_skill_desc": "DB_destroy_skill_desc_009",
+    "destroy_passive_desc": "DB_destroy_passive_desc_009",
+    "destroy_idle_path": "hero_slime_ifrit/ani/slimeifrit_phase01/_common"
+  },
+  {
+    "id": 2260132,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_09",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_09",
+    "destroy_strong_skill_desc": "DB_destroy_skill_05",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_014",
+    "destroy_skill_desc": "DB_destroy_skill_desc_009",
+    "destroy_passive_desc": "DB_destroy_passive_desc_009",
+    "destroy_idle_path": "hero_slime_ifrit/ani/slimeifrit_phase02/_common"
+  },
+  {
     "id": 2260181,
     "destroy_strong_tribe_desc": "DB_destroy_tribe_09",
     "destroy_weak_tribe_desc": "DB_destroy_tribe_09",

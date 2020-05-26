@@ -376,6 +376,14 @@
     "error_check_head_resource": "hero_elizabeth_hawk_head_0035"
   },
   {
+    "id": 4024014,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0050",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0050"
+  },
+  {
     "id": 4024004,
     "head_attach_dummy": 0,
     "character_base": "elizabeth_hawk",
@@ -478,6 +486,14 @@
     "resource_head": "hero_elizabeth_hawk_head_0035",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_elizabeth_hawk_head_0035"
+  },
+  {
+    "id": 4025014,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0050",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0050"
   },
   {
     "id": 4425004,
@@ -4208,6 +4224,38 @@
     "error_check_head_resource": "hero_disaster_roxy_head_0501"
   },
   {
+    "id": 4765001,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_shin",
+    "resource_head": "hero_disaster_shin_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_shin_head_0001"
+  },
+  {
+    "id": 4765002,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_shin",
+    "resource_head": "hero_disaster_shin_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_shin_head_0004"
+  },
+  {
+    "id": 4765003,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_shin",
+    "resource_head": "hero_disaster_shin_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_shin_head_0003"
+  },
+  {
+    "id": 4765004,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_shin",
+    "resource_head": "hero_disaster_shin_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_shin_head_0005"
+  },
+  {
     "id": 4465001,
     "head_attach_dummy": 0,
     "character_base": "escanor",
@@ -4699,9 +4747,9 @@
     "id": 4655002,
     "head_attach_dummy": 0,
     "character_base": "zeldris",
-    "resource_head": "hero_zeldris_head_0502",
+    "resource_head": "hero_zeldris_head_0003",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_zeldris_head_0502"
+    "error_check_head_resource": "hero_zeldris_head_0003"
   },
   {
     "id": 4655003,
@@ -4720,20 +4768,12 @@
     "error_check_head_resource": "hero_zeldris_head_0005"
   },
   {
-    "id": 4655005,
+    "id": 4655007,
     "head_attach_dummy": 0,
     "character_base": "zeldris",
-    "resource_head": "hero_zeldris_head_0501",
+    "resource_head": "hero_zeldris_head_0006",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_zeldris_head_0501"
-  },
-  {
-    "id": 4655006,
-    "head_attach_dummy": 0,
-    "character_base": "zeldris",
-    "resource_head": "hero_zeldris_head_0503",
-    "head_mixer_name": "",
-    "error_check_head_resource": "hero_zeldris_head_0503"
+    "error_check_head_resource": "hero_zeldris_head_0006"
   },
   {
     "id": 4495001,
@@ -4870,6 +4910,38 @@
     "resource_head": "hero_arden_head_0501",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_arden_head_0501"
+  },
+  {
+    "id": 4415001,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0001"
+  },
+  {
+    "id": 4415002,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0002"
+  },
+  {
+    "id": 4415003,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0004"
+  },
+  {
+    "id": 4415004,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0005"
   },
   {
     "id": 4685001,
@@ -5083,9 +5155,9 @@
     "id": 4734001,
     "head_attach_dummy": 0,
     "character_base": "titan_eren",
-    "resource_head": "hero_titan_eren_head_0001",
+    "resource_head": "hero_titan_eren_head_0010",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_titan_eren_head_0001"
+    "error_check_head_resource": "hero_titan_eren_head_0010"
   },
   {
     "id": 4734002,
@@ -5123,9 +5195,9 @@
     "id": 4735001,
     "head_attach_dummy": 0,
     "character_base": "titan_eren",
-    "resource_head": "hero_titan_eren_head_0002",
+    "resource_head": "hero_titan_eren_head_0010",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_titan_eren_head_0002"
+    "error_check_head_resource": "hero_titan_eren_head_0010"
   },
   {
     "id": 4735002,
@@ -5160,12 +5232,20 @@
     "error_check_head_resource": "hero_titan_eren_head_0503"
   },
   {
+    "id": 4739001,
+    "head_attach_dummy": 0,
+    "character_base": "titan_attack_titan",
+    "resource_head": "hero_titan_attack_titan_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_attack_titan_head_0001"
+  },
+  {
     "id": 4745001,
     "head_attach_dummy": 0,
     "character_base": "titan_levi",
-    "resource_head": "hero_titan_levi_head_0001",
+    "resource_head": "hero_titan_levi_head_0010",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_titan_levi_head_0001"
+    "error_check_head_resource": "hero_titan_levi_head_0010"
   },
   {
     "id": 4745002,
@@ -5203,9 +5283,9 @@
     "id": 4755001,
     "head_attach_dummy": 0,
     "character_base": "titan_mikasa",
-    "resource_head": "hero_titan_mikasa_head_0001",
+    "resource_head": "hero_titan_mikasa_head_0010",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_titan_mikasa_head_0001"
+    "error_check_head_resource": "hero_titan_mikasa_head_0010"
   },
   {
     "id": 4755002,
@@ -5238,22 +5318,6 @@
     "resource_head": "hero_titan_mikasa_head_0503",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_titan_mikasa_head_0503"
-  },
-  {
-    "id": 4415001,
-    "head_attach_dummy": 0,
-    "character_base": "matrona",
-    "resource_head": "hero_matrona_head_0001",
-    "head_mixer_name": "",
-    "error_check_head_resource": "hero_matrona_head_0001"
-  },
-  {
-    "id": 4415002,
-    "head_attach_dummy": 0,
-    "character_base": "matrona",
-    "resource_head": "hero_matrona_head_0002",
-    "head_mixer_name": "",
-    "error_check_head_resource": "hero_matrona_head_0002"
   },
   {
     "id": 4900001,

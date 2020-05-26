@@ -670,5 +670,53 @@
     "hero_icon_file_name": "estarossa",
     "hero_icon_name": "cut_in_special_estarossa_0003_01",
     "rotation_group": 16
+  },
+  {
+    "id": 85,
+    "gamble_group": 1051,
+    "skin_id": 301305,
+    "hero_icon_file_name": "merlin",
+    "hero_icon_name": "cut_in_special_merlin_0011_01",
+    "rotation_group": 17
+  },
+  {
+    "id": 86,
+    "gamble_group": 1051,
+    "skin_id": 346001,
+    "hero_icon_file_name": "prisoners_bellion",
+    "hero_icon_name": "cut_in_special_prisoners_bellion_0002_01",
+    "rotation_group": 17
+  },
+  {
+    "id": 87,
+    "gamble_group": 1051,
+    "skin_id": 349001,
+    "hero_icon_file_name": "zaratras",
+    "hero_icon_name": "cut_in_special_zaratras_0001_01",
+    "rotation_group": 17
+  },
+  {
+    "id": 88,
+    "gamble_group": 1051,
+    "skin_id": 322001,
+    "hero_icon_file_name": "zeldris",
+    "hero_icon_name": "cut_in_special_zeldris_0002_01",
+    "rotation_group": 18
+  },
+  {
+    "id": 89,
+    "gamble_group": 1051,
+    "skin_id": 300403,
+    "hero_icon_file_name": "bannunchaku",
+    "hero_icon_name": "cut_in_special_bannunchaku_0003_01",
+    "rotation_group": 18
+  },
+  {
+    "id": 90,
+    "gamble_group": 1051,
+    "skin_id": 316001,
+    "hero_icon_file_name": "gloxinia",
+    "hero_icon_name": "cut_in_special_gloxinia_0002_01",
+    "rotation_group": 18
   }
 ]

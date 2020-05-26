@@ -2417,7 +2417,7 @@
   {
     "item_id": 1625001,
     "item_icon": "icon_hero_denzel_0001_s",
-    "item_nickname": "dB_hero_nick_name_1625001",
+    "item_nickname": "DB_hero_nick_name_1625001",
     "item_name": "DB_hero_anim_name_1625001",
     "item_description": "DB_hero_desc_1625001",
     "item_type": "hero",
@@ -47042,7 +47042,7 @@
   {
     "item_id": 335001,
     "item_icon": "icon_skin_denzel_0001_s",
-    "item_nickname": "dB_hero_nick_name_1405002",
+    "item_nickname": "DB_hero_nick_name_1405002",
     "item_name": "DB_hero_anim_name_1405002",
     "item_description": "DB_hero_desc_335001",
     "item_type": "skin",
@@ -47063,7 +47063,7 @@
   {
     "item_id": 335002,
     "item_icon": "icon_skin_denzel_0002_s",
-    "item_nickname": "dB_hero_nick_name_1405002",
+    "item_nickname": "DB_hero_nick_name_1405002",
     "item_name": "DB_hero_anim_name_1405002",
     "item_description": "DB_hero_desc_335002",
     "item_type": "skin",
@@ -72009,6 +72009,27 @@
     "reward_rating": 0
   },
   {
+    "item_id": 990105,
+    "item_icon": "icon_item_gb_event_drop_02",
+    "item_nickname": "",
+    "item_name": "DB_item_name_event_990105",
+    "item_description": "DB_item_desc_event_990105",
+    "item_type": "event",
+    "item_type_description": "DB_item_type_event_item",
+    "item_display_group": 0,
+    "item_rating": 3,
+    "item_param_1": 0,
+    "item_param_2": 0,
+    "item_param_3": 0,
+    "item_param_4": 0,
+    "storage_on": 1,
+    "storage_group": 4,
+    "sell_on": 1,
+    "sell_id": 500012,
+    "sell_cost": 100,
+    "reward_rating": 0
+  },
+  {
     "item_id": 910646,
     "item_icon": "icon_item_event_drop_pumpkincookie",
     "item_nickname": "",
@@ -75636,9 +75657,9 @@
     "item_param_4": 0,
     "storage_on": 1,
     "storage_group": 3,
-    "sell_on": 0,
-    "sell_id": 0,
-    "sell_cost": 0,
+    "sell_on": 1,
+    "sell_id": 500012,
+    "sell_cost": 10000,
     "reward_rating": 0
   },
   {
@@ -75678,9 +75699,9 @@
     "item_param_4": 0,
     "storage_on": 1,
     "storage_group": 3,
-    "sell_on": 0,
-    "sell_id": 0,
-    "sell_cost": 0,
+    "sell_on": 1,
+    "sell_id": 500012,
+    "sell_cost": 100000,
     "reward_rating": 0
   },
   {

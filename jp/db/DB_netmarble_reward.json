@@ -556,5 +556,77 @@
     "contents_type": 61,
     "goods_name": "",
     "goods_explain": ""
+  },
+  {
+    "id": 110,
+    "item_id": 1000019,
+    "item_count": 1,
+    "netmarble_reward_id": "kr_ticket_ssr1_1",
+    "contents_type": 52,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 111,
+    "item_id": 1000020,
+    "item_count": 1,
+    "netmarble_reward_id": "kr_ticket_ssr2_1",
+    "contents_type": 52,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 112,
+    "item_id": 500024,
+    "item_count": 5,
+    "netmarble_reward_id": "kr_ticket_pass_5",
+    "contents_type": 52,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 113,
+    "item_id": 500024,
+    "item_count": 10,
+    "netmarble_reward_id": "kr_ticket_pass_10",
+    "contents_type": 52,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 114,
+    "item_id": 1000019,
+    "item_count": 1,
+    "netmarble_reward_id": "jp_ticket_ssr1_1",
+    "contents_type": 52,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 115,
+    "item_id": 1000020,
+    "item_count": 1,
+    "netmarble_reward_id": "jp_ticket_ssr2_1",
+    "contents_type": 52,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 116,
+    "item_id": 500024,
+    "item_count": 5,
+    "netmarble_reward_id": "jp_ticket_pass_5",
+    "contents_type": 52,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 117,
+    "item_id": 500024,
+    "item_count": 10,
+    "netmarble_reward_id": "jp_ticket_pass_10",
+    "contents_type": 52,
+    "goods_name": "",
+    "goods_explain": ""
   }
 ]

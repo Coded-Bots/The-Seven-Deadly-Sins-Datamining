@@ -318,6 +318,12 @@
     "weapon_model_type": 0
   },
   {
+    "id": 850215,
+    "character_base": "elizabeth_hawk",
+    "resource_weapon": "weapon_elizabeth_hawk_0044",
+    "weapon_model_type": 0
+  },
+  {
     "id": 850208,
     "character_base": "elizabeth_hawk",
     "resource_weapon": "weapon_elizabeth_hawk_0011",
@@ -399,6 +405,12 @@
     "id": 950214,
     "character_base": "elizabeth_hawk",
     "resource_weapon": "weapon_elizabeth_hawk_0019",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 950215,
+    "character_base": "elizabeth_hawk",
+    "resource_weapon": "weapon_elizabeth_hawk_0044",
     "weapon_model_type": 0
   },
   {
@@ -2964,6 +2976,30 @@
     "weapon_model_type": 0
   },
   {
+    "id": 857701,
+    "character_base": "disaster_shin",
+    "resource_weapon": "weapon_disaster_shin_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857702,
+    "character_base": "disaster_shin",
+    "resource_weapon": "weapon_disaster_shin_0004",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857703,
+    "character_base": "disaster_shin",
+    "resource_weapon": "weapon_disaster_shin_0003",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857704,
+    "character_base": "disaster_shin",
+    "resource_weapon": "weapon_disaster_shin_0005",
+    "weapon_model_type": 0
+  },
+  {
     "id": 855001,
     "character_base": "escanor",
     "resource_weapon": "weapon_escanor_0509",
@@ -3408,27 +3444,15 @@
     "weapon_model_type": 0
   },
   {
+    "id": 858109,
+    "character_base": "zeldris",
+    "resource_weapon": "weapon_zeldris_0006",
+    "weapon_model_type": 0
+  },
+  {
     "id": 858105,
     "character_base": "zeldris",
     "resource_weapon": "weapon_zeldris_0501",
-    "weapon_model_type": 0
-  },
-  {
-    "id": 858106,
-    "character_base": "zeldris",
-    "resource_weapon": "weapon_zeldris_0502",
-    "weapon_model_type": 0
-  },
-  {
-    "id": 858107,
-    "character_base": "zeldris",
-    "resource_weapon": "weapon_zeldris_0503",
-    "weapon_model_type": 0
-  },
-  {
-    "id": 858108,
-    "character_base": "zeldris",
-    "resource_weapon": "weapon_zeldris_0504",
     "weapon_model_type": 0
   },
   {
@@ -3532,6 +3556,36 @@
     "character_base": "arden",
     "resource_weapon": "weapon_arden_0001",
     "weapon_model_type": 0
+  },
+  {
+    "id": 857801,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0001",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 857802,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0002",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 857803,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0004",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 857804,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0005",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 857805,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0501",
+    "weapon_model_type": 1
   },
   {
     "id": 856801,
@@ -3663,30 +3717,6 @@
     "id": 857204,
     "character_base": "zaratras",
     "resource_weapon": "weapon_zaratras_0005",
-    "weapon_model_type": 0
-  },
-  {
-    "id": 857205,
-    "character_base": "zaratras",
-    "resource_weapon": "weapon_zaratras_0501",
-    "weapon_model_type": 0
-  },
-  {
-    "id": 857206,
-    "character_base": "zaratras",
-    "resource_weapon": "weapon_zaratras_0502",
-    "weapon_model_type": 0
-  },
-  {
-    "id": 857207,
-    "character_base": "zaratras",
-    "resource_weapon": "weapon_zaratras_0503",
-    "weapon_model_type": 0
-  },
-  {
-    "id": 857208,
-    "character_base": "zaratras",
-    "resource_weapon": "weapon_zaratras_0504",
     "weapon_model_type": 0
   },
   {

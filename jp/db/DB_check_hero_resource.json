@@ -6,7 +6,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1004000,
     "matching_skin_array": "300100",
-    "hero_name_localize": "14022",
+    "hero_name_localize": "14121",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_0016"
   },
@@ -17,7 +17,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1134000,
     "matching_skin_array": "301300",
-    "hero_name_localize": "14059",
+    "hero_name_localize": "14158",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "merlin_0001"
   },
@@ -28,7 +28,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1004001,
     "matching_skin_array": "300102",
-    "hero_name_localize": "14023",
+    "hero_name_localize": "14122",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_0016"
   },
@@ -39,7 +39,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1005001,
     "matching_skin_array": "300101",
-    "hero_name_localize": "14024",
+    "hero_name_localize": "14123",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_0016"
   },
@@ -50,7 +50,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024001,
     "matching_skin_array": "310204",
-    "hero_name_localize": "14029",
+    "hero_name_localize": "14128",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "hawk_0001"
   },
@@ -61,7 +61,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024002,
     "matching_skin_array": "310203",
-    "hero_name_localize": "14030",
+    "hero_name_localize": "14129",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "hawk_0001"
   },
@@ -72,7 +72,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1025002,
     "matching_skin_array": "310210",
-    "hero_name_localize": "14031",
+    "hero_name_localize": "14130",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "hawk_0001"
   },
@@ -83,7 +83,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1044001,
     "matching_skin_array": "300301",
-    "hero_name_localize": "14036",
+    "hero_name_localize": "14135",
     "hero_portrait_size": 0.42,
     "hero_potrait_base": "diane_0001"
   },
@@ -94,7 +94,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1045001,
     "matching_skin_array": "300304",
-    "hero_name_localize": "14037",
+    "hero_name_localize": "14136",
     "hero_portrait_size": 0.42,
     "hero_potrait_base": "diane_0001"
   },
@@ -105,7 +105,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1045002,
     "matching_skin_array": "300303",
-    "hero_name_localize": "14038",
+    "hero_name_localize": "14137",
     "hero_portrait_size": 0.42,
     "hero_potrait_base": "diane_0001"
   },
@@ -116,7 +116,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055001,
     "matching_skin_array": "310301",
-    "hero_name_localize": "14039",
+    "hero_name_localize": "14138",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "dianesmall_0003"
   },
@@ -127,7 +127,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055002,
     "matching_skin_array": "310304",
-    "hero_name_localize": "14040",
+    "hero_name_localize": "14139",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "dianesmall_0003"
   },
@@ -138,7 +138,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055003,
     "matching_skin_array": "310302",
-    "hero_name_localize": "14041",
+    "hero_name_localize": "14140",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "dianesmall_0003"
   },
@@ -149,7 +149,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1064001,
     "matching_skin_array": "310403",
-    "hero_name_localize": "14042",
+    "hero_name_localize": "14141",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "ban_0002"
   },
@@ -160,7 +160,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1065001,
     "matching_skin_array": "310402",
-    "hero_name_localize": "14043",
+    "hero_name_localize": "14142",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "ban_0002"
   },
@@ -171,7 +171,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1065002,
     "matching_skin_array": "310404",
-    "hero_name_localize": "14044",
+    "hero_name_localize": "14143",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "ban_0002"
   },
@@ -182,7 +182,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095001,
     "matching_skin_array": "300504",
-    "hero_name_localize": "14048",
+    "hero_name_localize": "14147",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0001"
   },
@@ -193,7 +193,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095002,
     "matching_skin_array": "300501",
-    "hero_name_localize": "14049",
+    "hero_name_localize": "14148",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0001"
   },
@@ -204,7 +204,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095003,
     "matching_skin_array": "300503",
-    "hero_name_localize": "14050",
+    "hero_name_localize": "14149",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0001"
   },
@@ -215,7 +215,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105001,
     "matching_skin_array": "310503",
-    "hero_name_localize": "14051",
+    "hero_name_localize": "14150",
     "hero_portrait_size": 0.8,
     "hero_potrait_base": "kingfat_0001"
   },
@@ -226,7 +226,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105002,
     "matching_skin_array": "310505",
-    "hero_name_localize": "14052",
+    "hero_name_localize": "14151",
     "hero_portrait_size": 0.8,
     "hero_potrait_base": "kingfat_0001"
   },
@@ -237,7 +237,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105003,
     "matching_skin_array": "310501",
-    "hero_name_localize": "14053",
+    "hero_name_localize": "14152",
     "hero_portrait_size": 0.8,
     "hero_potrait_base": "kingfat_0001"
   },
@@ -248,7 +248,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1114001,
     "matching_skin_array": "300604",
-    "hero_name_localize": "14054",
+    "hero_name_localize": "14153",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "gowther_0001"
   },
@@ -259,7 +259,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1115002,
     "matching_skin_array": "300605",
-    "hero_name_localize": "14055",
+    "hero_name_localize": "14154",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "gowther_0001"
   },
@@ -270,7 +270,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1115003,
     "matching_skin_array": "300601",
-    "hero_name_localize": "14056",
+    "hero_name_localize": "14155",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "gowther_0001"
   },
@@ -281,7 +281,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144001,
     "matching_skin_array": "300701",
-    "hero_name_localize": "14063",
+    "hero_name_localize": "14162",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0012"
   },
@@ -292,7 +292,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144002,
     "matching_skin_array": "300707",
-    "hero_name_localize": "14064",
+    "hero_name_localize": "14163",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0012"
   },
@@ -303,7 +303,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1145001,
     "matching_skin_array": "300704",
-    "hero_name_localize": "14065",
+    "hero_name_localize": "14164",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0012"
   },
@@ -314,7 +314,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1154002,
     "matching_skin_array": "300807",
-    "hero_name_localize": "14066",
+    "hero_name_localize": "14165",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0013"
   },
@@ -325,7 +325,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1155001,
     "matching_skin_array": "300805",
-    "hero_name_localize": "14067",
+    "hero_name_localize": "14166",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0013"
   },
@@ -336,7 +336,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164001,
     "matching_skin_array": "300901",
-    "hero_name_localize": "14069",
+    "hero_name_localize": "14168",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0001"
   },
@@ -347,7 +347,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164002,
     "matching_skin_array": "300904",
-    "hero_name_localize": "14070",
+    "hero_name_localize": "14169",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0001"
   },
@@ -358,7 +358,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1165001,
     "matching_skin_array": "300905",
-    "hero_name_localize": "14071",
+    "hero_name_localize": "14170",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0001"
   },
@@ -369,7 +369,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174001,
     "matching_skin_array": "301003",
-    "hero_name_localize": "14072",
+    "hero_name_localize": "14171",
     "hero_portrait_size": 0.9,
     "hero_potrait_base": "griamore_0001"
   },
@@ -380,7 +380,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174002,
     "matching_skin_array": "301010",
-    "hero_name_localize": "14073",
+    "hero_name_localize": "14172",
     "hero_portrait_size": 0.9,
     "hero_potrait_base": "griamore_0001"
   },
@@ -391,7 +391,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1175001,
     "matching_skin_array": "301005",
-    "hero_name_localize": "14074",
+    "hero_name_localize": "14173",
     "hero_portrait_size": 0.9,
     "hero_potrait_base": "griamore_0001"
   },
@@ -402,7 +402,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184001,
     "matching_skin_array": "301101",
-    "hero_name_localize": "14075",
+    "hero_name_localize": "14174",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0002"
   },
@@ -413,7 +413,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184002,
     "matching_skin_array": "301104",
-    "hero_name_localize": "14076",
+    "hero_name_localize": "14175",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0002"
   },
@@ -424,7 +424,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1185001,
     "matching_skin_array": "301111",
-    "hero_name_localize": "14077",
+    "hero_name_localize": "14176",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0002"
   },
@@ -435,7 +435,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1203001,
     "matching_skin_array": "302803",
-    "hero_name_localize": "14082",
+    "hero_name_localize": "14181",
     "hero_portrait_size": 1.07,
     "hero_potrait_base": "alioni_0001"
   },
@@ -446,7 +446,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1213001,
     "matching_skin_array": "302903",
-    "hero_name_localize": "14083",
+    "hero_name_localize": "14182",
     "hero_portrait_size": 0.78,
     "hero_potrait_base": "twigo_0011"
   },
@@ -457,7 +457,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1223001,
     "matching_skin_array": "303004",
-    "hero_name_localize": "14084",
+    "hero_name_localize": "14183",
     "hero_portrait_size": 1.08,
     "hero_potrait_base": "golgius_0011"
   },
@@ -468,7 +468,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1233001,
     "matching_skin_array": "303103",
-    "hero_name_localize": "14085",
+    "hero_name_localize": "14184",
     "hero_portrait_size": 0.96,
     "hero_potrait_base": "ruin_0001"
   },
@@ -479,7 +479,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1243001,
     "matching_skin_array": "303203",
-    "hero_name_localize": "14086",
+    "hero_name_localize": "14185",
     "hero_portrait_size": 0.96,
     "hero_potrait_base": "jude_0001"
   },
@@ -490,7 +490,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1254001,
     "matching_skin_array": "303302",
-    "hero_name_localize": "14087",
+    "hero_name_localize": "14186",
     "hero_portrait_size": 1,
     "hero_potrait_base": "freisia_0011"
   },
@@ -501,7 +501,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1264001,
     "matching_skin_array": "303502",
-    "hero_name_localize": "14088",
+    "hero_name_localize": "14187",
     "hero_portrait_size": 1,
     "hero_potrait_base": "cain_0001"
   },
@@ -512,7 +512,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1273001,
     "matching_skin_array": "303603",
-    "hero_name_localize": "14089",
+    "hero_name_localize": "14188",
     "hero_portrait_size": 1,
     "hero_potrait_base": "marmas_0001"
   },
@@ -523,7 +523,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1294001,
     "matching_skin_array": "303805",
-    "hero_name_localize": "14091",
+    "hero_name_localize": "14190",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "slader_0011"
   },
@@ -534,7 +534,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1303001,
     "matching_skin_array": "304004",
-    "hero_name_localize": "14094",
+    "hero_name_localize": "14193",
     "hero_portrait_size": 1,
     "hero_potrait_base": "simon_0011"
   },
@@ -545,7 +545,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1314001,
     "matching_skin_array": "304102",
-    "hero_name_localize": "14095",
+    "hero_name_localize": "14194",
     "hero_portrait_size": 1,
     "hero_potrait_base": "weinheidt_0011"
   },
@@ -556,7 +556,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1323001,
     "matching_skin_array": "304203",
-    "hero_name_localize": "14096",
+    "hero_name_localize": "14195",
     "hero_portrait_size": 0.7,
     "hero_potrait_base": "hugo_0011"
   },
@@ -567,7 +567,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1334001,
     "matching_skin_array": "304302",
-    "hero_name_localize": "14098",
+    "hero_name_localize": "14197",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jillian_0011"
   },
@@ -578,7 +578,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015001,
     "matching_skin_array": "310101",
-    "hero_name_localize": "14026",
+    "hero_name_localize": "14125",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_berserker_0001"
   },
@@ -589,7 +589,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015002,
     "matching_skin_array": "310102",
-    "hero_name_localize": "14027",
+    "hero_name_localize": "14126",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_berserker_0001"
   },
@@ -600,7 +600,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015003,
     "matching_skin_array": "310104",
-    "hero_name_localize": "14028",
+    "hero_name_localize": "14127",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_berserker_0001"
   },
@@ -611,7 +611,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1034001,
     "matching_skin_array": "300203",
-    "hero_name_localize": "14032",
+    "hero_name_localize": "14131",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "elizabeth_0001"
   },
@@ -622,7 +622,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1035001,
     "matching_skin_array": "300212",
-    "hero_name_localize": "14033",
+    "hero_name_localize": "14132",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "elizabeth_0001"
   },
@@ -633,7 +633,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1035002,
     "matching_skin_array": "300211",
-    "hero_name_localize": "14034",
+    "hero_name_localize": "14133",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "elizabeth_0001"
   },
@@ -644,7 +644,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075001,
     "matching_skin_array": "300403",
-    "hero_name_localize": "14045",
+    "hero_name_localize": "14144",
     "hero_portrait_size": 0.99,
     "hero_potrait_base": "bannunchaku_0011"
   },
@@ -655,7 +655,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075002,
     "matching_skin_array": "300406",
-    "hero_name_localize": "14046",
+    "hero_name_localize": "14145",
     "hero_portrait_size": 0.99,
     "hero_potrait_base": "bannunchaku_0011"
   },
@@ -666,7 +666,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075003,
     "matching_skin_array": "310407",
-    "hero_name_localize": "14047",
+    "hero_name_localize": "14146",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "bannunchaku_0011"
   },
@@ -677,7 +677,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1125001,
     "matching_skin_array": "310605",
-    "hero_name_localize": "14057",
+    "hero_name_localize": "14156",
     "hero_portrait_size": 0.6,
     "hero_potrait_base": "gowtherarmor_0001"
   },
@@ -688,7 +688,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1125002,
     "matching_skin_array": "310603",
-    "hero_name_localize": "14058",
+    "hero_name_localize": "14157",
     "hero_portrait_size": 0.6,
     "hero_potrait_base": "gowtherarmor_0001"
   },
@@ -699,7 +699,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135001,
     "matching_skin_array": "301302",
-    "hero_name_localize": "14060",
+    "hero_name_localize": "14159",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "merlin_0001"
   },
@@ -710,7 +710,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135002,
     "matching_skin_array": "301301",
-    "hero_name_localize": "14061",
+    "hero_name_localize": "14160",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "merlin_0001"
   },
@@ -721,7 +721,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135003,
     "matching_skin_array": "301305",
-    "hero_name_localize": "14062",
+    "hero_name_localize": "14161",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "merlin_0001"
   },
@@ -732,7 +732,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195001,
     "matching_skin_array": "301203",
-    "hero_name_localize": "14079",
+    "hero_name_localize": "14178",
     "hero_portrait_size": 0.94,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -743,7 +743,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195002,
     "matching_skin_array": "301204",
-    "hero_name_localize": "14080",
+    "hero_name_localize": "14179",
     "hero_portrait_size": 0.94,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -754,7 +754,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195003,
     "matching_skin_array": "301206",
-    "hero_name_localize": "14081",
+    "hero_name_localize": "14180",
     "hero_portrait_size": 0.94,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -765,7 +765,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1284001,
     "matching_skin_array": "303704",
-    "hero_name_localize": "14090",
+    "hero_name_localize": "14189",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "gustaf_0005"
   },
@@ -776,7 +776,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1295001,
     "matching_skin_array": "303806",
-    "hero_name_localize": "14092",
+    "hero_name_localize": "14191",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "slader_0011"
   },
@@ -787,7 +787,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1354001,
     "matching_skin_array": "304502",
-    "hero_name_localize": "14101",
+    "hero_name_localize": "14200",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "hendrickson_0011"
   },
@@ -798,7 +798,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1355001,
     "matching_skin_array": "304505",
-    "hero_name_localize": "14102",
+    "hero_name_localize": "14201",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "hendrickson_0011"
   },
@@ -809,7 +809,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364001,
     "matching_skin_array": "304604",
-    "hero_name_localize": "14103",
+    "hero_name_localize": "14202",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "dreyfus_0011"
   },
@@ -820,7 +820,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364002,
     "matching_skin_array": "304603",
-    "hero_name_localize": "14104",
+    "hero_name_localize": "14203",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "dreyfus_0011"
   },
@@ -831,7 +831,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1373001,
     "matching_skin_array": "304702",
-    "hero_name_localize": "14105",
+    "hero_name_localize": "14204",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vaizel_taizoo_0001"
   },
@@ -842,7 +842,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1004001,
     "matching_skin_array": "300102",
-    "hero_name_localize": "14023",
+    "hero_name_localize": "14122",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_0016"
   },
@@ -853,7 +853,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1005001,
     "matching_skin_array": "300101",
-    "hero_name_localize": "14024",
+    "hero_name_localize": "14123",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_0016"
   },
@@ -864,7 +864,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024001,
     "matching_skin_array": "310204",
-    "hero_name_localize": "14029",
+    "hero_name_localize": "14128",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "hawk_0001"
   },
@@ -875,7 +875,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024002,
     "matching_skin_array": "310203",
-    "hero_name_localize": "14030",
+    "hero_name_localize": "14129",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "hawk_0001"
   },
@@ -886,7 +886,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1025002,
     "matching_skin_array": "310210",
-    "hero_name_localize": "14031",
+    "hero_name_localize": "14130",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "hawk_0001"
   },
@@ -897,7 +897,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1044001,
     "matching_skin_array": "300301",
-    "hero_name_localize": "14036",
+    "hero_name_localize": "14135",
     "hero_portrait_size": 0.42,
     "hero_potrait_base": "diane_0001"
   },
@@ -908,7 +908,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1045001,
     "matching_skin_array": "300304",
-    "hero_name_localize": "14037",
+    "hero_name_localize": "14136",
     "hero_portrait_size": 0.42,
     "hero_potrait_base": "diane_0001"
   },
@@ -919,7 +919,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1045002,
     "matching_skin_array": "300303",
-    "hero_name_localize": "14038",
+    "hero_name_localize": "14137",
     "hero_portrait_size": 0.42,
     "hero_potrait_base": "diane_0001"
   },
@@ -930,7 +930,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055001,
     "matching_skin_array": "310301",
-    "hero_name_localize": "14039",
+    "hero_name_localize": "14138",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "dianesmall_0003"
   },
@@ -941,7 +941,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055002,
     "matching_skin_array": "310304",
-    "hero_name_localize": "14040",
+    "hero_name_localize": "14139",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "dianesmall_0003"
   },
@@ -952,7 +952,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055003,
     "matching_skin_array": "310302",
-    "hero_name_localize": "14041",
+    "hero_name_localize": "14140",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "dianesmall_0003"
   },
@@ -963,7 +963,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1064001,
     "matching_skin_array": "310403",
-    "hero_name_localize": "14042",
+    "hero_name_localize": "14141",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "ban_0002"
   },
@@ -974,7 +974,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1065001,
     "matching_skin_array": "310402",
-    "hero_name_localize": "14043",
+    "hero_name_localize": "14142",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "ban_0002"
   },
@@ -985,7 +985,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1065002,
     "matching_skin_array": "310404",
-    "hero_name_localize": "14044",
+    "hero_name_localize": "14143",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "ban_0002"
   },
@@ -996,7 +996,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095001,
     "matching_skin_array": "300504",
-    "hero_name_localize": "14048",
+    "hero_name_localize": "14147",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0001"
   },
@@ -1007,7 +1007,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095002,
     "matching_skin_array": "300501",
-    "hero_name_localize": "14049",
+    "hero_name_localize": "14148",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0001"
   },
@@ -1018,7 +1018,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095003,
     "matching_skin_array": "300503",
-    "hero_name_localize": "14050",
+    "hero_name_localize": "14149",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0001"
   },
@@ -1029,7 +1029,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105001,
     "matching_skin_array": "310503",
-    "hero_name_localize": "14051",
+    "hero_name_localize": "14150",
     "hero_portrait_size": 0.8,
     "hero_potrait_base": "kingfat_0001"
   },
@@ -1040,7 +1040,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105002,
     "matching_skin_array": "310505",
-    "hero_name_localize": "14052",
+    "hero_name_localize": "14151",
     "hero_portrait_size": 0.8,
     "hero_potrait_base": "kingfat_0001"
   },
@@ -1051,7 +1051,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105003,
     "matching_skin_array": "310501",
-    "hero_name_localize": "14053",
+    "hero_name_localize": "14152",
     "hero_portrait_size": 0.8,
     "hero_potrait_base": "kingfat_0001"
   },
@@ -1062,7 +1062,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1114001,
     "matching_skin_array": "300604",
-    "hero_name_localize": "14054",
+    "hero_name_localize": "14153",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "gowther_0001"
   },
@@ -1073,7 +1073,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1115002,
     "matching_skin_array": "300605",
-    "hero_name_localize": "14055",
+    "hero_name_localize": "14154",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "gowther_0001"
   },
@@ -1084,7 +1084,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1115003,
     "matching_skin_array": "300601",
-    "hero_name_localize": "14056",
+    "hero_name_localize": "14155",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "gowther_0001"
   },
@@ -1095,7 +1095,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144001,
     "matching_skin_array": "300701",
-    "hero_name_localize": "14063",
+    "hero_name_localize": "14162",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0012"
   },
@@ -1106,7 +1106,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144002,
     "matching_skin_array": "300707",
-    "hero_name_localize": "14064",
+    "hero_name_localize": "14163",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0012"
   },
@@ -1117,7 +1117,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1145001,
     "matching_skin_array": "300704",
-    "hero_name_localize": "14065",
+    "hero_name_localize": "14164",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0012"
   },
@@ -1128,7 +1128,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1154002,
     "matching_skin_array": "300807",
-    "hero_name_localize": "14066",
+    "hero_name_localize": "14165",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0013"
   },
@@ -1139,7 +1139,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1155001,
     "matching_skin_array": "300805",
-    "hero_name_localize": "14067",
+    "hero_name_localize": "14166",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0013"
   },
@@ -1150,7 +1150,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164001,
     "matching_skin_array": "300901",
-    "hero_name_localize": "14069",
+    "hero_name_localize": "14168",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0001"
   },
@@ -1161,7 +1161,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164002,
     "matching_skin_array": "300904",
-    "hero_name_localize": "14070",
+    "hero_name_localize": "14169",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0001"
   },
@@ -1172,7 +1172,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1165001,
     "matching_skin_array": "300905",
-    "hero_name_localize": "14071",
+    "hero_name_localize": "14170",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0001"
   },
@@ -1183,7 +1183,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174001,
     "matching_skin_array": "301003",
-    "hero_name_localize": "14072",
+    "hero_name_localize": "14171",
     "hero_portrait_size": 0.9,
     "hero_potrait_base": "griamore_0001"
   },
@@ -1194,7 +1194,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174002,
     "matching_skin_array": "301010",
-    "hero_name_localize": "14073",
+    "hero_name_localize": "14172",
     "hero_portrait_size": 0.9,
     "hero_potrait_base": "griamore_0001"
   },
@@ -1205,7 +1205,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1175001,
     "matching_skin_array": "301005",
-    "hero_name_localize": "14074",
+    "hero_name_localize": "14173",
     "hero_portrait_size": 0.9,
     "hero_potrait_base": "griamore_0001"
   },
@@ -1216,7 +1216,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184001,
     "matching_skin_array": "301101",
-    "hero_name_localize": "14075",
+    "hero_name_localize": "14174",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0002"
   },
@@ -1227,7 +1227,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184002,
     "matching_skin_array": "301104",
-    "hero_name_localize": "14076",
+    "hero_name_localize": "14175",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0002"
   },
@@ -1238,7 +1238,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1185001,
     "matching_skin_array": "301111",
-    "hero_name_localize": "14077",
+    "hero_name_localize": "14176",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0002"
   },
@@ -1249,7 +1249,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1203001,
     "matching_skin_array": "302803",
-    "hero_name_localize": "14082",
+    "hero_name_localize": "14181",
     "hero_portrait_size": 1.07,
     "hero_potrait_base": "alioni_0001"
   },
@@ -1260,7 +1260,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1213001,
     "matching_skin_array": "302903",
-    "hero_name_localize": "14083",
+    "hero_name_localize": "14182",
     "hero_portrait_size": 0.78,
     "hero_potrait_base": "twigo_0011"
   },
@@ -1271,7 +1271,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1223001,
     "matching_skin_array": "303004",
-    "hero_name_localize": "14084",
+    "hero_name_localize": "14183",
     "hero_portrait_size": 1.08,
     "hero_potrait_base": "golgius_0011"
   },
@@ -1282,7 +1282,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1233001,
     "matching_skin_array": "303103",
-    "hero_name_localize": "14085",
+    "hero_name_localize": "14184",
     "hero_portrait_size": 0.96,
     "hero_potrait_base": "ruin_0001"
   },
@@ -1293,7 +1293,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1243001,
     "matching_skin_array": "303203",
-    "hero_name_localize": "14086",
+    "hero_name_localize": "14185",
     "hero_portrait_size": 0.96,
     "hero_potrait_base": "jude_0001"
   },
@@ -1304,7 +1304,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1254001,
     "matching_skin_array": "303302",
-    "hero_name_localize": "14087",
+    "hero_name_localize": "14186",
     "hero_portrait_size": 1,
     "hero_potrait_base": "freisia_0011"
   },
@@ -1315,7 +1315,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1264001,
     "matching_skin_array": "303502",
-    "hero_name_localize": "14088",
+    "hero_name_localize": "14187",
     "hero_portrait_size": 1,
     "hero_potrait_base": "cain_0001"
   },
@@ -1326,7 +1326,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1273001,
     "matching_skin_array": "303603",
-    "hero_name_localize": "14089",
+    "hero_name_localize": "14188",
     "hero_portrait_size": 1,
     "hero_potrait_base": "marmas_0001"
   },
@@ -1337,7 +1337,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1294001,
     "matching_skin_array": "303805",
-    "hero_name_localize": "14091",
+    "hero_name_localize": "14190",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "slader_0011"
   },
@@ -1348,7 +1348,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1303001,
     "matching_skin_array": "304004",
-    "hero_name_localize": "14094",
+    "hero_name_localize": "14193",
     "hero_portrait_size": 1,
     "hero_potrait_base": "simon_0011"
   },
@@ -1359,7 +1359,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1314001,
     "matching_skin_array": "304102",
-    "hero_name_localize": "14095",
+    "hero_name_localize": "14194",
     "hero_portrait_size": 1,
     "hero_potrait_base": "weinheidt_0011"
   },
@@ -1370,7 +1370,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1323001,
     "matching_skin_array": "304203",
-    "hero_name_localize": "14096",
+    "hero_name_localize": "14195",
     "hero_portrait_size": 0.7,
     "hero_potrait_base": "hugo_0011"
   },
@@ -1381,7 +1381,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1334001,
     "matching_skin_array": "304302",
-    "hero_name_localize": "14098",
+    "hero_name_localize": "14197",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jillian_0011"
   },
@@ -1392,7 +1392,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015001,
     "matching_skin_array": "310101",
-    "hero_name_localize": "14026",
+    "hero_name_localize": "14125",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_berserker_0001"
   },
@@ -1403,7 +1403,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015002,
     "matching_skin_array": "310102",
-    "hero_name_localize": "14027",
+    "hero_name_localize": "14126",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_berserker_0001"
   },
@@ -1414,7 +1414,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015003,
     "matching_skin_array": "310104",
-    "hero_name_localize": "14028",
+    "hero_name_localize": "14127",
     "hero_portrait_size": 1.3,
     "hero_potrait_base": "meliodas_berserker_0001"
   },
@@ -1425,7 +1425,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1034001,
     "matching_skin_array": "300203",
-    "hero_name_localize": "14032",
+    "hero_name_localize": "14131",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "elizabeth_0001"
   },
@@ -1436,7 +1436,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1035001,
     "matching_skin_array": "300212",
-    "hero_name_localize": "14033",
+    "hero_name_localize": "14132",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "elizabeth_0001"
   },
@@ -1447,7 +1447,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1035002,
     "matching_skin_array": "300211",
-    "hero_name_localize": "14034",
+    "hero_name_localize": "14133",
     "hero_portrait_size": 1.15,
     "hero_potrait_base": "elizabeth_0001"
   },
@@ -1458,7 +1458,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075001,
     "matching_skin_array": "300403",
-    "hero_name_localize": "14045",
+    "hero_name_localize": "14144",
     "hero_portrait_size": 0.99,
     "hero_potrait_base": "bannunchaku_0011"
   },
@@ -1469,7 +1469,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075002,
     "matching_skin_array": "300406",
-    "hero_name_localize": "14046",
+    "hero_name_localize": "14145",
     "hero_portrait_size": 0.99,
     "hero_potrait_base": "bannunchaku_0011"
   },
@@ -1480,7 +1480,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075003,
     "matching_skin_array": "310407",
-    "hero_name_localize": "14047",
+    "hero_name_localize": "14146",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "bannunchaku_0011"
   },
@@ -1491,7 +1491,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1125001,
     "matching_skin_array": "310605",
-    "hero_name_localize": "14057",
+    "hero_name_localize": "14156",
     "hero_portrait_size": 0.6,
     "hero_potrait_base": "gowtherarmor_0001"
   },
@@ -1502,7 +1502,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1125002,
     "matching_skin_array": "310603",
-    "hero_name_localize": "14058",
+    "hero_name_localize": "14157",
     "hero_portrait_size": 0.6,
     "hero_potrait_base": "gowtherarmor_0001"
   },
@@ -1513,7 +1513,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135001,
     "matching_skin_array": "301302",
-    "hero_name_localize": "14060",
+    "hero_name_localize": "14159",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "merlin_0001"
   },
@@ -1524,7 +1524,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135002,
     "matching_skin_array": "301301",
-    "hero_name_localize": "14061",
+    "hero_name_localize": "14160",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "merlin_0001"
   },
@@ -1535,7 +1535,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135003,
     "matching_skin_array": "301305",
-    "hero_name_localize": "14062",
+    "hero_name_localize": "14161",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "merlin_0001"
   },
@@ -1546,7 +1546,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195001,
     "matching_skin_array": "301203",
-    "hero_name_localize": "14079",
+    "hero_name_localize": "14178",
     "hero_portrait_size": 0.94,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -1557,7 +1557,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195002,
     "matching_skin_array": "301204",
-    "hero_name_localize": "14080",
+    "hero_name_localize": "14179",
     "hero_portrait_size": 0.94,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -1568,7 +1568,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195003,
     "matching_skin_array": "301206",
-    "hero_name_localize": "14081",
+    "hero_name_localize": "14180",
     "hero_portrait_size": 0.94,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -1579,7 +1579,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1284001,
     "matching_skin_array": "303704",
-    "hero_name_localize": "14090",
+    "hero_name_localize": "14189",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "gustaf_0005"
   },
@@ -1590,7 +1590,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1295001,
     "matching_skin_array": "303806",
-    "hero_name_localize": "14092",
+    "hero_name_localize": "14191",
     "hero_portrait_size": 0.98,
     "hero_potrait_base": "slader_0011"
   },
@@ -1601,7 +1601,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1354001,
     "matching_skin_array": "304502",
-    "hero_name_localize": "14101",
+    "hero_name_localize": "14200",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "hendrickson_0011"
   },
@@ -1612,7 +1612,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1355001,
     "matching_skin_array": "304505",
-    "hero_name_localize": "14102",
+    "hero_name_localize": "14201",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "hendrickson_0011"
   },
@@ -1623,7 +1623,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364001,
     "matching_skin_array": "304604",
-    "hero_name_localize": "14103",
+    "hero_name_localize": "14202",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "dreyfus_0011"
   },
@@ -1634,7 +1634,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364002,
     "matching_skin_array": "304603",
-    "hero_name_localize": "14104",
+    "hero_name_localize": "14203",
     "hero_portrait_size": 1.1,
     "hero_potrait_base": "dreyfus_0011"
   },
@@ -1645,7 +1645,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1373001,
     "matching_skin_array": "304702",
-    "hero_name_localize": "14105",
+    "hero_name_localize": "14204",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vaizel_taizoo_0001"
   },
@@ -1656,7 +1656,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1343001,
     "matching_skin_array": "304407",
-    "hero_name_localize": "14099",
+    "hero_name_localize": "14198",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vivian_0007"
   },
@@ -1667,7 +1667,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1384001,
     "matching_skin_array": "304802",
-    "hero_name_localize": "14106",
+    "hero_name_localize": "14205",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elaine_0001"
   },
@@ -1678,7 +1678,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1404001,
     "matching_skin_array": "305002",
-    "hero_name_localize": "14110",
+    "hero_name_localize": "14209",
     "hero_portrait_size": 1,
     "hero_potrait_base": "arthur_0011"
   },
@@ -1689,7 +1689,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1404002,
     "matching_skin_array": "305006",
-    "hero_name_localize": "14111",
+    "hero_name_localize": "14210",
     "hero_portrait_size": 1,
     "hero_potrait_base": "arthur_0006"
   },
@@ -1700,7 +1700,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1445001,
     "matching_skin_array": "310901/310902",
-    "hero_name_localize": "14116",
+    "hero_name_localize": "14215",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slime_benimaru_0001"
   },
@@ -1711,7 +1711,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1435001,
     "matching_skin_array": "310801/310802",
-    "hero_name_localize": "14115",
+    "hero_name_localize": "14214",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slime_milim_0001"
   },
@@ -1744,7 +1744,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1445001,
     "matching_skin_array": "310902",
-    "hero_name_localize": "14116",
+    "hero_name_localize": "14215",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slime_benimaru_0001"
   },
@@ -1755,7 +1755,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1435001,
     "matching_skin_array": "310802",
-    "hero_name_localize": "14115",
+    "hero_name_localize": "14214",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slime_milim_0001"
   },
@@ -1799,7 +1799,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1455001,
     "matching_skin_array": "311001",
-    "hero_name_localize": "14117",
+    "hero_name_localize": "14216",
     "hero_portrait_size": 1,
     "hero_potrait_base": "liliahmagician_0001"
   },
@@ -1810,7 +1810,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1415001,
     "matching_skin_array": "305101",
-    "hero_name_localize": "36874",
+    "hero_name_localize": "36959",
     "hero_portrait_size": 0.5,
     "hero_potrait_base": "matrona_0001"
   },
@@ -1821,7 +1821,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1004001,
     "matching_skin_array": "300104",
-    "hero_name_localize": "14023",
+    "hero_name_localize": "14122",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_0016"
   },
@@ -1832,7 +1832,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1004001,
     "matching_skin_array": "300102",
-    "hero_name_localize": "14023",
+    "hero_name_localize": "14122",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_0016"
   },
@@ -1843,7 +1843,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1004001,
     "matching_skin_array": "300103",
-    "hero_name_localize": "14023",
+    "hero_name_localize": "14122",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_0016"
   },
@@ -1854,7 +1854,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1005001,
     "matching_skin_array": "300101",
-    "hero_name_localize": "14024",
+    "hero_name_localize": "14123",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_0007"
   },
@@ -1865,7 +1865,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1005001,
     "matching_skin_array": "300106",
-    "hero_name_localize": "14024",
+    "hero_name_localize": "14123",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_0007"
   },
@@ -1876,7 +1876,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015001,
     "matching_skin_array": "310101",
-    "hero_name_localize": "14026",
+    "hero_name_localize": "14125",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_1004"
   },
@@ -1887,7 +1887,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015001,
     "matching_skin_array": "310103",
-    "hero_name_localize": "14026",
+    "hero_name_localize": "14125",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_1004"
   },
@@ -1898,7 +1898,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015002,
     "matching_skin_array": "310102",
-    "hero_name_localize": "14027",
+    "hero_name_localize": "14126",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_1005"
   },
@@ -1909,7 +1909,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015002,
     "matching_skin_array": "310105",
-    "hero_name_localize": "14027",
+    "hero_name_localize": "14126",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_1005"
   },
@@ -1920,7 +1920,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015003,
     "matching_skin_array": "310104",
-    "hero_name_localize": "14028",
+    "hero_name_localize": "14127",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_1007"
   },
@@ -1931,7 +1931,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1015003,
     "matching_skin_array": "310106",
-    "hero_name_localize": "14028",
+    "hero_name_localize": "14127",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_1007"
   },
@@ -1942,7 +1942,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024001,
     "matching_skin_array": "310201",
-    "hero_name_localize": "14029",
+    "hero_name_localize": "14128",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_hawk_0016"
   },
@@ -1953,7 +1953,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024001,
     "matching_skin_array": "310204",
-    "hero_name_localize": "14029",
+    "hero_name_localize": "14128",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_hawk_0016"
   },
@@ -1964,7 +1964,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024001,
     "matching_skin_array": "310206",
-    "hero_name_localize": "14029",
+    "hero_name_localize": "14128",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_hawk_0016"
   },
@@ -1975,7 +1975,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024002,
     "matching_skin_array": "310202",
-    "hero_name_localize": "14030",
+    "hero_name_localize": "14129",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_hawk_0011"
   },
@@ -1986,7 +1986,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024002,
     "matching_skin_array": "310203",
-    "hero_name_localize": "14030",
+    "hero_name_localize": "14129",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_hawk_0011"
   },
@@ -1997,7 +1997,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1024002,
     "matching_skin_array": "310205",
-    "hero_name_localize": "14030",
+    "hero_name_localize": "14129",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_hawk_0011"
   },
@@ -2008,7 +2008,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1034001,
     "matching_skin_array": "300201",
-    "hero_name_localize": "14032",
+    "hero_name_localize": "14131",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_0021"
   },
@@ -2019,7 +2019,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1034001,
     "matching_skin_array": "300203",
-    "hero_name_localize": "14032",
+    "hero_name_localize": "14131",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_0021"
   },
@@ -2030,7 +2030,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1034001,
     "matching_skin_array": "300207",
-    "hero_name_localize": "14032",
+    "hero_name_localize": "14131",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_0021"
   },
@@ -2041,7 +2041,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1035001,
     "matching_skin_array": "300212",
-    "hero_name_localize": "14033",
+    "hero_name_localize": "14132",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_0026"
   },
@@ -2052,7 +2052,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1035001,
     "matching_skin_array": "300204",
-    "hero_name_localize": "14033",
+    "hero_name_localize": "14132",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_0026"
   },
@@ -2063,7 +2063,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1035002,
     "matching_skin_array": "300211",
-    "hero_name_localize": "14034",
+    "hero_name_localize": "14133",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_0025"
   },
@@ -2074,7 +2074,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1035002,
     "matching_skin_array": "300205",
-    "hero_name_localize": "14034",
+    "hero_name_localize": "14133",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_0025"
   },
@@ -2085,7 +2085,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1044001,
     "matching_skin_array": "300310",
-    "hero_name_localize": "14036",
+    "hero_name_localize": "14135",
     "hero_portrait_size": 1,
     "hero_potrait_base": "diane_0001"
   },
@@ -2096,7 +2096,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1044001,
     "matching_skin_array": "300301",
-    "hero_name_localize": "14036",
+    "hero_name_localize": "14135",
     "hero_portrait_size": 1,
     "hero_potrait_base": "diane_0001"
   },
@@ -2107,7 +2107,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1044001,
     "matching_skin_array": "300306",
-    "hero_name_localize": "14036",
+    "hero_name_localize": "14135",
     "hero_portrait_size": 1,
     "hero_potrait_base": "diane_0001"
   },
@@ -2118,7 +2118,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1045001,
     "matching_skin_array": "300304",
-    "hero_name_localize": "14037",
+    "hero_name_localize": "14136",
     "hero_portrait_size": 1,
     "hero_potrait_base": "diane_0001"
   },
@@ -2129,7 +2129,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1045001,
     "matching_skin_array": "300305",
-    "hero_name_localize": "14037",
+    "hero_name_localize": "14136",
     "hero_portrait_size": 1,
     "hero_potrait_base": "diane_0001"
   },
@@ -2140,7 +2140,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1045002,
     "matching_skin_array": "300303",
-    "hero_name_localize": "14038",
+    "hero_name_localize": "14137",
     "hero_portrait_size": 1,
     "hero_potrait_base": "diane_0016"
   },
@@ -2151,7 +2151,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1045002,
     "matching_skin_array": "300308",
-    "hero_name_localize": "14038",
+    "hero_name_localize": "14137",
     "hero_portrait_size": 1,
     "hero_potrait_base": "diane_0016"
   },
@@ -2162,7 +2162,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055001,
     "matching_skin_array": "310301",
-    "hero_name_localize": "14039",
+    "hero_name_localize": "14138",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dianesmall_0002"
   },
@@ -2173,7 +2173,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055001,
     "matching_skin_array": "310305",
-    "hero_name_localize": "14039",
+    "hero_name_localize": "14138",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dianesmall_0002"
   },
@@ -2184,7 +2184,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055002,
     "matching_skin_array": "310304",
-    "hero_name_localize": "14040",
+    "hero_name_localize": "14139",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dianesmall_0006"
   },
@@ -2195,7 +2195,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055002,
     "matching_skin_array": "310306",
-    "hero_name_localize": "14040",
+    "hero_name_localize": "14139",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dianesmall_0006"
   },
@@ -2206,7 +2206,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055003,
     "matching_skin_array": "310302",
-    "hero_name_localize": "14041",
+    "hero_name_localize": "14140",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dianesmall_0005"
   },
@@ -2217,7 +2217,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1055003,
     "matching_skin_array": "310309",
-    "hero_name_localize": "14041",
+    "hero_name_localize": "14140",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dianesmall_0005"
   },
@@ -2228,7 +2228,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1064001,
     "matching_skin_array": "310401",
-    "hero_name_localize": "14042",
+    "hero_name_localize": "14141",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0001"
   },
@@ -2239,7 +2239,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1064001,
     "matching_skin_array": "310403",
-    "hero_name_localize": "14042",
+    "hero_name_localize": "14141",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0001"
   },
@@ -2250,7 +2250,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1064001,
     "matching_skin_array": "310410",
-    "hero_name_localize": "14042",
+    "hero_name_localize": "14141",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0001"
   },
@@ -2261,7 +2261,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1065001,
     "matching_skin_array": "310402",
-    "hero_name_localize": "14043",
+    "hero_name_localize": "14142",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0018"
   },
@@ -2272,7 +2272,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1065001,
     "matching_skin_array": "310408",
-    "hero_name_localize": "14043",
+    "hero_name_localize": "14142",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0018"
   },
@@ -2283,7 +2283,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1065002,
     "matching_skin_array": "310404",
-    "hero_name_localize": "14044",
+    "hero_name_localize": "14143",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0018"
   },
@@ -2294,7 +2294,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1065002,
     "matching_skin_array": "310406",
-    "hero_name_localize": "14044",
+    "hero_name_localize": "14143",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0018"
   },
@@ -2305,7 +2305,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075001,
     "matching_skin_array": "300403",
-    "hero_name_localize": "14045",
+    "hero_name_localize": "14144",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0006"
   },
@@ -2316,7 +2316,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075001,
     "matching_skin_array": "310405",
-    "hero_name_localize": "14045",
+    "hero_name_localize": "14144",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0006"
   },
@@ -2327,7 +2327,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075002,
     "matching_skin_array": "300406",
-    "hero_name_localize": "14046",
+    "hero_name_localize": "14145",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0011"
   },
@@ -2338,7 +2338,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075002,
     "matching_skin_array": "300408",
-    "hero_name_localize": "14046",
+    "hero_name_localize": "14145",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0011"
   },
@@ -2349,7 +2349,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075003,
     "matching_skin_array": "310407",
-    "hero_name_localize": "14047",
+    "hero_name_localize": "14146",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0017"
   },
@@ -2360,7 +2360,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1075003,
     "matching_skin_array": "300405",
-    "hero_name_localize": "14047",
+    "hero_name_localize": "14146",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ban_0017"
   },
@@ -2371,7 +2371,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095001,
     "matching_skin_array": "300504",
-    "hero_name_localize": "14048",
+    "hero_name_localize": "14147",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0001"
   },
@@ -2382,7 +2382,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095001,
     "matching_skin_array": "300505",
-    "hero_name_localize": "14048",
+    "hero_name_localize": "14147",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0001"
   },
@@ -2393,7 +2393,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095002,
     "matching_skin_array": "300501",
-    "hero_name_localize": "14049",
+    "hero_name_localize": "14148",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0009"
   },
@@ -2404,7 +2404,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095002,
     "matching_skin_array": "300506",
-    "hero_name_localize": "14049",
+    "hero_name_localize": "14148",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0009"
   },
@@ -2415,7 +2415,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095003,
     "matching_skin_array": "300503",
-    "hero_name_localize": "14050",
+    "hero_name_localize": "14149",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0003"
   },
@@ -2426,7 +2426,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1095003,
     "matching_skin_array": "300508",
-    "hero_name_localize": "14050",
+    "hero_name_localize": "14149",
     "hero_portrait_size": 1,
     "hero_potrait_base": "king_0003"
   },
@@ -2437,7 +2437,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105001,
     "matching_skin_array": "310503",
-    "hero_name_localize": "14051",
+    "hero_name_localize": "14150",
     "hero_portrait_size": 1,
     "hero_potrait_base": "kingfat_0001"
   },
@@ -2448,7 +2448,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105001,
     "matching_skin_array": "310506",
-    "hero_name_localize": "14051",
+    "hero_name_localize": "14150",
     "hero_portrait_size": 1,
     "hero_potrait_base": "kingfat_0001"
   },
@@ -2459,7 +2459,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105002,
     "matching_skin_array": "310505",
-    "hero_name_localize": "14052",
+    "hero_name_localize": "14151",
     "hero_portrait_size": 1,
     "hero_potrait_base": "kingfat_0003"
   },
@@ -2470,7 +2470,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105002,
     "matching_skin_array": "310507",
-    "hero_name_localize": "14052",
+    "hero_name_localize": "14151",
     "hero_portrait_size": 1,
     "hero_potrait_base": "kingfat_0003"
   },
@@ -2481,7 +2481,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105003,
     "matching_skin_array": "310501",
-    "hero_name_localize": "14053",
+    "hero_name_localize": "14152",
     "hero_portrait_size": 1,
     "hero_potrait_base": "kingfat_0004"
   },
@@ -2492,7 +2492,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1105003,
     "matching_skin_array": "310504",
-    "hero_name_localize": "14053",
+    "hero_name_localize": "14152",
     "hero_portrait_size": 1,
     "hero_potrait_base": "kingfat_0004"
   },
@@ -2503,7 +2503,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1114001,
     "matching_skin_array": "300602",
-    "hero_name_localize": "14054",
+    "hero_name_localize": "14153",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gowther_0002"
   },
@@ -2514,7 +2514,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1114001,
     "matching_skin_array": "300604",
-    "hero_name_localize": "14054",
+    "hero_name_localize": "14153",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gowther_0002"
   },
@@ -2525,7 +2525,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1114001,
     "matching_skin_array": "300611",
-    "hero_name_localize": "14054",
+    "hero_name_localize": "14153",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gowther_0002"
   },
@@ -2536,7 +2536,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1115002,
     "matching_skin_array": "300605",
-    "hero_name_localize": "14055",
+    "hero_name_localize": "14154",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gowther_0008"
   },
@@ -2547,7 +2547,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1115002,
     "matching_skin_array": "300609",
-    "hero_name_localize": "14055",
+    "hero_name_localize": "14154",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gowther_0008"
   },
@@ -2558,7 +2558,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1115003,
     "matching_skin_array": "300601",
-    "hero_name_localize": "14056",
+    "hero_name_localize": "14155",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gowther_0001"
   },
@@ -2569,7 +2569,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1115003,
     "matching_skin_array": "300606",
-    "hero_name_localize": "14056",
+    "hero_name_localize": "14155",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gowther_0001"
   },
@@ -2580,7 +2580,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135001,
     "matching_skin_array": "301302",
-    "hero_name_localize": "14060",
+    "hero_name_localize": "14159",
     "hero_portrait_size": 1,
     "hero_potrait_base": "merlin_0003"
   },
@@ -2591,7 +2591,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135001,
     "matching_skin_array": "301303",
-    "hero_name_localize": "14060",
+    "hero_name_localize": "14159",
     "hero_portrait_size": 1,
     "hero_potrait_base": "merlin_0003"
   },
@@ -2602,7 +2602,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135002,
     "matching_skin_array": "301301",
-    "hero_name_localize": "14061",
+    "hero_name_localize": "14160",
     "hero_portrait_size": 1,
     "hero_potrait_base": "merlin_0002"
   },
@@ -2613,7 +2613,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135002,
     "matching_skin_array": "301307",
-    "hero_name_localize": "14061",
+    "hero_name_localize": "14160",
     "hero_portrait_size": 1,
     "hero_potrait_base": "merlin_0002"
   },
@@ -2624,7 +2624,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135003,
     "matching_skin_array": "301305",
-    "hero_name_localize": "14062",
+    "hero_name_localize": "14161",
     "hero_portrait_size": 1,
     "hero_potrait_base": "merlin_0001"
   },
@@ -2635,7 +2635,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1135003,
     "matching_skin_array": "301306",
-    "hero_name_localize": "14062",
+    "hero_name_localize": "14161",
     "hero_portrait_size": 1,
     "hero_potrait_base": "merlin_0001"
   },
@@ -2646,7 +2646,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144001,
     "matching_skin_array": "300702",
-    "hero_name_localize": "14063",
+    "hero_name_localize": "14162",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0001"
   },
@@ -2657,7 +2657,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144001,
     "matching_skin_array": "300701",
-    "hero_name_localize": "14063",
+    "hero_name_localize": "14162",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0001"
   },
@@ -2668,7 +2668,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144001,
     "matching_skin_array": "300705",
-    "hero_name_localize": "14063",
+    "hero_name_localize": "14162",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0001"
   },
@@ -2679,7 +2679,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144002,
     "matching_skin_array": "300703",
-    "hero_name_localize": "14064",
+    "hero_name_localize": "14163",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0005"
   },
@@ -2690,7 +2690,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144002,
     "matching_skin_array": "300707",
-    "hero_name_localize": "14064",
+    "hero_name_localize": "14163",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0005"
   },
@@ -2701,7 +2701,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1144002,
     "matching_skin_array": "300708",
-    "hero_name_localize": "14064",
+    "hero_name_localize": "14163",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0005"
   },
@@ -2712,7 +2712,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1145001,
     "matching_skin_array": "300704",
-    "hero_name_localize": "14065",
+    "hero_name_localize": "14164",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0004"
   },
@@ -2723,7 +2723,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1145001,
     "matching_skin_array": "300706",
-    "hero_name_localize": "14065",
+    "hero_name_localize": "14164",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gil_thunder_0004"
   },
@@ -2734,7 +2734,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1154002,
     "matching_skin_array": "300801",
-    "hero_name_localize": "14066",
+    "hero_name_localize": "14165",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0011"
   },
@@ -2745,7 +2745,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1154002,
     "matching_skin_array": "300807",
-    "hero_name_localize": "14066",
+    "hero_name_localize": "14165",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0011"
   },
@@ -2756,7 +2756,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1154002,
     "matching_skin_array": "300809",
-    "hero_name_localize": "14066",
+    "hero_name_localize": "14165",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0011"
   },
@@ -2767,7 +2767,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1155001,
     "matching_skin_array": "300805",
-    "hero_name_localize": "14067",
+    "hero_name_localize": "14166",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0013"
   },
@@ -2778,7 +2778,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1155001,
     "matching_skin_array": "300808",
-    "hero_name_localize": "14067",
+    "hero_name_localize": "14166",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0013"
   },
@@ -2789,7 +2789,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164001,
     "matching_skin_array": "300902",
-    "hero_name_localize": "14069",
+    "hero_name_localize": "14168",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0002"
   },
@@ -2800,7 +2800,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164001,
     "matching_skin_array": "300901",
-    "hero_name_localize": "14069",
+    "hero_name_localize": "14168",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0002"
   },
@@ -2811,7 +2811,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164001,
     "matching_skin_array": "300906",
-    "hero_name_localize": "14069",
+    "hero_name_localize": "14168",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0002"
   },
@@ -2822,7 +2822,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164002,
     "matching_skin_array": "300903",
-    "hero_name_localize": "14070",
+    "hero_name_localize": "14169",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0004"
   },
@@ -2833,7 +2833,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164002,
     "matching_skin_array": "300904",
-    "hero_name_localize": "14070",
+    "hero_name_localize": "14169",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0004"
   },
@@ -2844,7 +2844,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1164002,
     "matching_skin_array": "300910",
-    "hero_name_localize": "14070",
+    "hero_name_localize": "14169",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0004"
   },
@@ -2855,7 +2855,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1165001,
     "matching_skin_array": "300905",
-    "hero_name_localize": "14071",
+    "hero_name_localize": "14170",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0008"
   },
@@ -2866,7 +2866,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1165001,
     "matching_skin_array": "300911",
-    "hero_name_localize": "14071",
+    "hero_name_localize": "14170",
     "hero_portrait_size": 1,
     "hero_potrait_base": "howzer_0008"
   },
@@ -2877,7 +2877,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174001,
     "matching_skin_array": "301001",
-    "hero_name_localize": "14072",
+    "hero_name_localize": "14171",
     "hero_portrait_size": 1,
     "hero_potrait_base": "griamore_0001"
   },
@@ -2888,7 +2888,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174001,
     "matching_skin_array": "301003",
-    "hero_name_localize": "14072",
+    "hero_name_localize": "14171",
     "hero_portrait_size": 1,
     "hero_potrait_base": "griamore_0001"
   },
@@ -2899,7 +2899,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174001,
     "matching_skin_array": "301007",
-    "hero_name_localize": "14072",
+    "hero_name_localize": "14171",
     "hero_portrait_size": 1,
     "hero_potrait_base": "griamore_0001"
   },
@@ -2910,7 +2910,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174002,
     "matching_skin_array": "301002",
-    "hero_name_localize": "14073",
+    "hero_name_localize": "14172",
     "hero_portrait_size": 1,
     "hero_potrait_base": "griamore_0012"
   },
@@ -2921,7 +2921,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174002,
     "matching_skin_array": "301010",
-    "hero_name_localize": "14073",
+    "hero_name_localize": "14172",
     "hero_portrait_size": 1,
     "hero_potrait_base": "griamore_0012"
   },
@@ -2932,7 +2932,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1174002,
     "matching_skin_array": "301004",
-    "hero_name_localize": "14073",
+    "hero_name_localize": "14172",
     "hero_portrait_size": 1,
     "hero_potrait_base": "griamore_0012"
   },
@@ -2943,7 +2943,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1175001,
     "matching_skin_array": "301005",
-    "hero_name_localize": "14074",
+    "hero_name_localize": "14173",
     "hero_portrait_size": 1,
     "hero_potrait_base": "griamore_0011"
   },
@@ -2954,7 +2954,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1175001,
     "matching_skin_array": "301008",
-    "hero_name_localize": "14074",
+    "hero_name_localize": "14173",
     "hero_portrait_size": 1,
     "hero_potrait_base": "griamore_0011"
   },
@@ -2965,7 +2965,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184001,
     "matching_skin_array": "301103",
-    "hero_name_localize": "14075",
+    "hero_name_localize": "14174",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0004"
   },
@@ -2976,7 +2976,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184001,
     "matching_skin_array": "301101",
-    "hero_name_localize": "14075",
+    "hero_name_localize": "14174",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0004"
   },
@@ -2987,7 +2987,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184001,
     "matching_skin_array": "301105",
-    "hero_name_localize": "14075",
+    "hero_name_localize": "14174",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0004"
   },
@@ -2998,7 +2998,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184002,
     "matching_skin_array": "301110",
-    "hero_name_localize": "14076",
+    "hero_name_localize": "14175",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0018"
   },
@@ -3009,7 +3009,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184002,
     "matching_skin_array": "301104",
-    "hero_name_localize": "14076",
+    "hero_name_localize": "14175",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0018"
   },
@@ -3020,7 +3020,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1184002,
     "matching_skin_array": "301106",
-    "hero_name_localize": "14076",
+    "hero_name_localize": "14175",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0018"
   },
@@ -3031,7 +3031,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1185001,
     "matching_skin_array": "301111",
-    "hero_name_localize": "14077",
+    "hero_name_localize": "14176",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0008"
   },
@@ -3042,7 +3042,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1185001,
     "matching_skin_array": "301109",
-    "hero_name_localize": "14077",
+    "hero_name_localize": "14176",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jericho_0008"
   },
@@ -3053,7 +3053,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195001,
     "matching_skin_array": "301203",
-    "hero_name_localize": "14079",
+    "hero_name_localize": "14178",
     "hero_portrait_size": 1,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -3064,7 +3064,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195001,
     "matching_skin_array": "301209",
-    "hero_name_localize": "14079",
+    "hero_name_localize": "14178",
     "hero_portrait_size": 1,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -3075,7 +3075,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195002,
     "matching_skin_array": "301204",
-    "hero_name_localize": "14080",
+    "hero_name_localize": "14179",
     "hero_portrait_size": 1,
     "hero_potrait_base": "helbram_fairy_0007"
   },
@@ -3086,7 +3086,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195002,
     "matching_skin_array": "301205",
-    "hero_name_localize": "14080",
+    "hero_name_localize": "14179",
     "hero_portrait_size": 1,
     "hero_potrait_base": "helbram_fairy_0007"
   },
@@ -3097,7 +3097,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195003,
     "matching_skin_array": "301206",
-    "hero_name_localize": "14081",
+    "hero_name_localize": "14180",
     "hero_portrait_size": 1,
     "hero_potrait_base": "helbram_fairy_0008"
   },
@@ -3108,7 +3108,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1195003,
     "matching_skin_array": "301208",
-    "hero_name_localize": "14081",
+    "hero_name_localize": "14180",
     "hero_portrait_size": 1,
     "hero_potrait_base": "helbram_fairy_0008"
   },
@@ -3119,7 +3119,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1203001,
     "matching_skin_array": "302801",
-    "hero_name_localize": "14082",
+    "hero_name_localize": "14181",
     "hero_portrait_size": 1,
     "hero_potrait_base": "alioni_0002"
   },
@@ -3130,7 +3130,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1203001,
     "matching_skin_array": "302802",
-    "hero_name_localize": "14082",
+    "hero_name_localize": "14181",
     "hero_portrait_size": 1,
     "hero_potrait_base": "alioni_0002"
   },
@@ -3141,7 +3141,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1203001,
     "matching_skin_array": "302803",
-    "hero_name_localize": "14082",
+    "hero_name_localize": "14181",
     "hero_portrait_size": 1,
     "hero_potrait_base": "alioni_0002"
   },
@@ -3152,7 +3152,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1203001,
     "matching_skin_array": "302804",
-    "hero_name_localize": "14082",
+    "hero_name_localize": "14181",
     "hero_portrait_size": 1,
     "hero_potrait_base": "alioni_0002"
   },
@@ -3163,7 +3163,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1213001,
     "matching_skin_array": "302901",
-    "hero_name_localize": "14083",
+    "hero_name_localize": "14182",
     "hero_portrait_size": 1,
     "hero_potrait_base": "twigo_0001"
   },
@@ -3174,7 +3174,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1213001,
     "matching_skin_array": "302902",
-    "hero_name_localize": "14083",
+    "hero_name_localize": "14182",
     "hero_portrait_size": 1,
     "hero_potrait_base": "twigo_0001"
   },
@@ -3185,7 +3185,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1213001,
     "matching_skin_array": "302903",
-    "hero_name_localize": "14083",
+    "hero_name_localize": "14182",
     "hero_portrait_size": 1,
     "hero_potrait_base": "twigo_0001"
   },
@@ -3196,7 +3196,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1213001,
     "matching_skin_array": "302904",
-    "hero_name_localize": "14083",
+    "hero_name_localize": "14182",
     "hero_portrait_size": 1,
     "hero_potrait_base": "twigo_0001"
   },
@@ -3207,7 +3207,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1223001,
     "matching_skin_array": "303001",
-    "hero_name_localize": "14084",
+    "hero_name_localize": "14183",
     "hero_portrait_size": 1,
     "hero_potrait_base": "golgius_0001"
   },
@@ -3218,7 +3218,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1223001,
     "matching_skin_array": "303002",
-    "hero_name_localize": "14084",
+    "hero_name_localize": "14183",
     "hero_portrait_size": 1,
     "hero_potrait_base": "golgius_0001"
   },
@@ -3229,7 +3229,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1223001,
     "matching_skin_array": "303004",
-    "hero_name_localize": "14084",
+    "hero_name_localize": "14183",
     "hero_portrait_size": 1,
     "hero_potrait_base": "golgius_0001"
   },
@@ -3240,7 +3240,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1223001,
     "matching_skin_array": "303003",
-    "hero_name_localize": "14084",
+    "hero_name_localize": "14183",
     "hero_portrait_size": 1,
     "hero_potrait_base": "golgius_0001"
   },
@@ -3251,7 +3251,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1233001,
     "matching_skin_array": "303101",
-    "hero_name_localize": "14085",
+    "hero_name_localize": "14184",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ruin_0002"
   },
@@ -3262,7 +3262,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1233001,
     "matching_skin_array": "303102",
-    "hero_name_localize": "14085",
+    "hero_name_localize": "14184",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ruin_0002"
   },
@@ -3273,7 +3273,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1233001,
     "matching_skin_array": "303103",
-    "hero_name_localize": "14085",
+    "hero_name_localize": "14184",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ruin_0002"
   },
@@ -3284,7 +3284,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1233001,
     "matching_skin_array": "303104",
-    "hero_name_localize": "14085",
+    "hero_name_localize": "14184",
     "hero_portrait_size": 1,
     "hero_potrait_base": "ruin_0002"
   },
@@ -3295,7 +3295,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1243001,
     "matching_skin_array": "303201",
-    "hero_name_localize": "14086",
+    "hero_name_localize": "14185",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jude_0003"
   },
@@ -3306,7 +3306,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1243001,
     "matching_skin_array": "303202",
-    "hero_name_localize": "14086",
+    "hero_name_localize": "14185",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jude_0003"
   },
@@ -3317,7 +3317,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1243001,
     "matching_skin_array": "303203",
-    "hero_name_localize": "14086",
+    "hero_name_localize": "14185",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jude_0003"
   },
@@ -3328,7 +3328,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1243001,
     "matching_skin_array": "303204",
-    "hero_name_localize": "14086",
+    "hero_name_localize": "14185",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jude_0003"
   },
@@ -3339,7 +3339,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1254001,
     "matching_skin_array": "303301",
-    "hero_name_localize": "14087",
+    "hero_name_localize": "14186",
     "hero_portrait_size": 1,
     "hero_potrait_base": "freisia_0001"
   },
@@ -3350,7 +3350,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1254001,
     "matching_skin_array": "303302",
-    "hero_name_localize": "14087",
+    "hero_name_localize": "14186",
     "hero_portrait_size": 1,
     "hero_potrait_base": "freisia_0001"
   },
@@ -3361,7 +3361,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1254001,
     "matching_skin_array": "303303",
-    "hero_name_localize": "14087",
+    "hero_name_localize": "14186",
     "hero_portrait_size": 1,
     "hero_potrait_base": "freisia_0001"
   },
@@ -3372,7 +3372,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1264001,
     "matching_skin_array": "303501",
-    "hero_name_localize": "14088",
+    "hero_name_localize": "14187",
     "hero_portrait_size": 1,
     "hero_potrait_base": "cain_0001"
   },
@@ -3383,7 +3383,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1264001,
     "matching_skin_array": "303502",
-    "hero_name_localize": "14088",
+    "hero_name_localize": "14187",
     "hero_portrait_size": 1,
     "hero_potrait_base": "cain_0001"
   },
@@ -3394,7 +3394,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1264001,
     "matching_skin_array": "303503",
-    "hero_name_localize": "14088",
+    "hero_name_localize": "14187",
     "hero_portrait_size": 1,
     "hero_potrait_base": "cain_0001"
   },
@@ -3405,7 +3405,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1273001,
     "matching_skin_array": "303601",
-    "hero_name_localize": "14089",
+    "hero_name_localize": "14188",
     "hero_portrait_size": 1,
     "hero_potrait_base": "marmas_0002"
   },
@@ -3416,7 +3416,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1273001,
     "matching_skin_array": "303602",
-    "hero_name_localize": "14089",
+    "hero_name_localize": "14188",
     "hero_portrait_size": 1,
     "hero_potrait_base": "marmas_0002"
   },
@@ -3427,7 +3427,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1273001,
     "matching_skin_array": "303603",
-    "hero_name_localize": "14089",
+    "hero_name_localize": "14188",
     "hero_portrait_size": 1,
     "hero_potrait_base": "marmas_0002"
   },
@@ -3438,7 +3438,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1273001,
     "matching_skin_array": "303604",
-    "hero_name_localize": "14089",
+    "hero_name_localize": "14188",
     "hero_portrait_size": 1,
     "hero_potrait_base": "marmas_0002"
   },
@@ -3449,7 +3449,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1284001,
     "matching_skin_array": "303702",
-    "hero_name_localize": "14090",
+    "hero_name_localize": "14189",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gustaf_0011"
   },
@@ -3460,7 +3460,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1284001,
     "matching_skin_array": "303704",
-    "hero_name_localize": "14090",
+    "hero_name_localize": "14189",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gustaf_0011"
   },
@@ -3471,7 +3471,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1284001,
     "matching_skin_array": "303703",
-    "hero_name_localize": "14090",
+    "hero_name_localize": "14189",
     "hero_portrait_size": 1,
     "hero_potrait_base": "gustaf_0011"
   },
@@ -3482,7 +3482,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1294001,
     "matching_skin_array": "303801",
-    "hero_name_localize": "14091",
+    "hero_name_localize": "14190",
     "hero_portrait_size": 1,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -3493,7 +3493,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1294001,
     "matching_skin_array": "303805",
-    "hero_name_localize": "14091",
+    "hero_name_localize": "14190",
     "hero_portrait_size": 1,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -3504,7 +3504,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1294001,
     "matching_skin_array": "303807",
-    "hero_name_localize": "14091",
+    "hero_name_localize": "14190",
     "hero_portrait_size": 1,
     "hero_potrait_base": "helbram_fairy_0001"
   },
@@ -3515,7 +3515,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1295001,
     "matching_skin_array": "303806",
-    "hero_name_localize": "14092",
+    "hero_name_localize": "14191",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slader_0007"
   },
@@ -3526,7 +3526,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1295001,
     "matching_skin_array": "303803",
-    "hero_name_localize": "14092",
+    "hero_name_localize": "14191",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slader_0007"
   },
@@ -3537,7 +3537,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1303001,
     "matching_skin_array": "304001",
-    "hero_name_localize": "14094",
+    "hero_name_localize": "14193",
     "hero_portrait_size": 1,
     "hero_potrait_base": "simon_0001"
   },
@@ -3548,7 +3548,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1303001,
     "matching_skin_array": "304002",
-    "hero_name_localize": "14094",
+    "hero_name_localize": "14193",
     "hero_portrait_size": 1,
     "hero_potrait_base": "simon_0001"
   },
@@ -3559,7 +3559,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1303001,
     "matching_skin_array": "304004",
-    "hero_name_localize": "14094",
+    "hero_name_localize": "14193",
     "hero_portrait_size": 1,
     "hero_potrait_base": "simon_0001"
   },
@@ -3570,7 +3570,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1303001,
     "matching_skin_array": "304003",
-    "hero_name_localize": "14094",
+    "hero_name_localize": "14193",
     "hero_portrait_size": 1,
     "hero_potrait_base": "simon_0001"
   },
@@ -3581,7 +3581,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1314001,
     "matching_skin_array": "304101",
-    "hero_name_localize": "14095",
+    "hero_name_localize": "14194",
     "hero_portrait_size": 1,
     "hero_potrait_base": "weinheidt_0001"
   },
@@ -3592,7 +3592,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1314001,
     "matching_skin_array": "304102",
-    "hero_name_localize": "14095",
+    "hero_name_localize": "14194",
     "hero_portrait_size": 1,
     "hero_potrait_base": "weinheidt_0001"
   },
@@ -3603,7 +3603,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1314001,
     "matching_skin_array": "304103",
-    "hero_name_localize": "14095",
+    "hero_name_localize": "14194",
     "hero_portrait_size": 1,
     "hero_potrait_base": "weinheidt_0001"
   },
@@ -3614,7 +3614,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1323001,
     "matching_skin_array": "304201",
-    "hero_name_localize": "14096",
+    "hero_name_localize": "14195",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hugo_0001"
   },
@@ -3625,7 +3625,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1323001,
     "matching_skin_array": "304202",
-    "hero_name_localize": "14096",
+    "hero_name_localize": "14195",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hugo_0001"
   },
@@ -3636,7 +3636,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1323001,
     "matching_skin_array": "304203",
-    "hero_name_localize": "14096",
+    "hero_name_localize": "14195",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hugo_0001"
   },
@@ -3647,7 +3647,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1323001,
     "matching_skin_array": "304204",
-    "hero_name_localize": "14096",
+    "hero_name_localize": "14195",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hugo_0001"
   },
@@ -3658,7 +3658,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1334001,
     "matching_skin_array": "304301",
-    "hero_name_localize": "14098",
+    "hero_name_localize": "14197",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jillian_0001"
   },
@@ -3669,7 +3669,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1334001,
     "matching_skin_array": "304302",
-    "hero_name_localize": "14098",
+    "hero_name_localize": "14197",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jillian_0001"
   },
@@ -3680,7 +3680,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1334001,
     "matching_skin_array": "304303",
-    "hero_name_localize": "14098",
+    "hero_name_localize": "14197",
     "hero_portrait_size": 1,
     "hero_potrait_base": "jillian_0001"
   },
@@ -3691,7 +3691,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1344001,
     "matching_skin_array": "304406",
-    "hero_name_localize": "14100",
+    "hero_name_localize": "14199",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vivian_0011"
   },
@@ -3702,7 +3702,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1344001,
     "matching_skin_array": "304407",
-    "hero_name_localize": "14100",
+    "hero_name_localize": "14199",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vivian_0011"
   },
@@ -3713,7 +3713,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1344001,
     "matching_skin_array": "304408",
-    "hero_name_localize": "14100",
+    "hero_name_localize": "14199",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vivian_0011"
   },
@@ -3724,7 +3724,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1354001,
     "matching_skin_array": "304501",
-    "hero_name_localize": "14101",
+    "hero_name_localize": "14200",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hendrickson_0001"
   },
@@ -3735,7 +3735,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1354001,
     "matching_skin_array": "304502",
-    "hero_name_localize": "14101",
+    "hero_name_localize": "14200",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hendrickson_0001"
   },
@@ -3746,7 +3746,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1354001,
     "matching_skin_array": "304508",
-    "hero_name_localize": "14101",
+    "hero_name_localize": "14200",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hendrickson_0001"
   },
@@ -3757,7 +3757,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1355001,
     "matching_skin_array": "304505",
-    "hero_name_localize": "14102",
+    "hero_name_localize": "14201",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hendrickson_0011"
   },
@@ -3768,7 +3768,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1355001,
     "matching_skin_array": "304510",
-    "hero_name_localize": "14102",
+    "hero_name_localize": "14201",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hendrickson_0011"
   },
@@ -3779,7 +3779,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364001,
     "matching_skin_array": "304601",
-    "hero_name_localize": "14103",
+    "hero_name_localize": "14202",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dreyfus_0004"
   },
@@ -3790,7 +3790,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364001,
     "matching_skin_array": "304604",
-    "hero_name_localize": "14103",
+    "hero_name_localize": "14202",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dreyfus_0004"
   },
@@ -3801,7 +3801,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364001,
     "matching_skin_array": "304606",
-    "hero_name_localize": "14103",
+    "hero_name_localize": "14202",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dreyfus_0004"
   },
@@ -3812,7 +3812,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364002,
     "matching_skin_array": "304602",
-    "hero_name_localize": "14104",
+    "hero_name_localize": "14203",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dreyfus_0007"
   },
@@ -3823,7 +3823,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364002,
     "matching_skin_array": "304603",
-    "hero_name_localize": "14104",
+    "hero_name_localize": "14203",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dreyfus_0007"
   },
@@ -3834,7 +3834,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1364002,
     "matching_skin_array": "304605",
-    "hero_name_localize": "14104",
+    "hero_name_localize": "14203",
     "hero_portrait_size": 1,
     "hero_potrait_base": "dreyfus_0007"
   },
@@ -3845,7 +3845,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1373001,
     "matching_skin_array": "304701",
-    "hero_name_localize": "14105",
+    "hero_name_localize": "14204",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vaizel_taizoo_0001"
   },
@@ -3856,7 +3856,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1373001,
     "matching_skin_array": "304702",
-    "hero_name_localize": "14105",
+    "hero_name_localize": "14204",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vaizel_taizoo_0001"
   },
@@ -3867,7 +3867,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1373001,
     "matching_skin_array": "304704",
-    "hero_name_localize": "14105",
+    "hero_name_localize": "14204",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vaizel_taizoo_0001"
   },
@@ -3878,7 +3878,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1373001,
     "matching_skin_array": "304705",
-    "hero_name_localize": "14105",
+    "hero_name_localize": "14204",
     "hero_portrait_size": 1,
     "hero_potrait_base": "vaizel_taizoo_0001"
   },
@@ -3889,7 +3889,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1384001,
     "matching_skin_array": "304801",
-    "hero_name_localize": "14106",
+    "hero_name_localize": "14205",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elaine_0001"
   },
@@ -3900,7 +3900,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1384001,
     "matching_skin_array": "304802",
-    "hero_name_localize": "14106",
+    "hero_name_localize": "14205",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elaine_0001"
   },
@@ -3911,7 +3911,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1384001,
     "matching_skin_array": "304803",
-    "hero_name_localize": "14106",
+    "hero_name_localize": "14205",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elaine_0001"
   },
@@ -3922,7 +3922,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1385001,
     "matching_skin_array": "304804",
-    "hero_name_localize": "14107",
+    "hero_name_localize": "14206",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elaine_0001"
   },
@@ -3933,7 +3933,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1385001,
     "matching_skin_array": "304805",
-    "hero_name_localize": "14107",
+    "hero_name_localize": "14206",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elaine_0001"
   },
@@ -3944,7 +3944,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1395001,
     "matching_skin_array": "304901",
-    "hero_name_localize": "38581",
+    "hero_name_localize": "38661",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_0003"
   },
@@ -3955,7 +3955,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1395001,
     "matching_skin_array": "304902",
-    "hero_name_localize": "38581",
+    "hero_name_localize": "38661",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_0003"
   },
@@ -3988,7 +3988,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1405001,
     "matching_skin_array": "305001",
-    "hero_name_localize": "14112",
+    "hero_name_localize": "14211",
     "hero_portrait_size": 1,
     "hero_potrait_base": "arthur_0005"
   },
@@ -3999,7 +3999,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1405001,
     "matching_skin_array": "305002",
-    "hero_name_localize": "14112",
+    "hero_name_localize": "14211",
     "hero_portrait_size": 1,
     "hero_potrait_base": "arthur_0005"
   },
@@ -4010,7 +4010,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1415001,
     "matching_skin_array": "305101",
-    "hero_name_localize": "36874",
+    "hero_name_localize": "36959",
     "hero_portrait_size": 0.3,
     "hero_potrait_base": "matrona_0001"
   },
@@ -4021,7 +4021,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1415001,
     "matching_skin_array": "305102",
-    "hero_name_localize": "36874",
+    "hero_name_localize": "36959",
     "hero_portrait_size": 0.3,
     "hero_potrait_base": "matrona_0001"
   },
@@ -4032,7 +4032,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1425002,
     "matching_skin_array": "310210",
-    "hero_name_localize": "14114",
+    "hero_name_localize": "14213",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_hawk_0040"
   },
@@ -4043,7 +4043,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1425002,
     "matching_skin_array": "310211",
-    "hero_name_localize": "14114",
+    "hero_name_localize": "14213",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_hawk_0040"
   },
@@ -4109,7 +4109,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1435001,
     "matching_skin_array": "310801",
-    "hero_name_localize": "14115",
+    "hero_name_localize": "14214",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slime_milim_0001"
   },
@@ -4120,7 +4120,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1435001,
     "matching_skin_array": "310802",
-    "hero_name_localize": "14115",
+    "hero_name_localize": "14214",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slime_milim_0001"
   },
@@ -4131,7 +4131,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1445001,
     "matching_skin_array": "310901",
-    "hero_name_localize": "14116",
+    "hero_name_localize": "14215",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slime_benimaru_0001"
   },
@@ -4142,7 +4142,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1445001,
     "matching_skin_array": "310902",
-    "hero_name_localize": "14116",
+    "hero_name_localize": "14215",
     "hero_portrait_size": 1,
     "hero_potrait_base": "slime_benimaru_0001"
   },
@@ -4153,7 +4153,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1455001,
     "matching_skin_array": "311001",
-    "hero_name_localize": "14117",
+    "hero_name_localize": "14216",
     "hero_portrait_size": 1,
     "hero_potrait_base": "liliahmagician_0001"
   },
@@ -4164,7 +4164,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1455001,
     "matching_skin_array": "311002",
-    "hero_name_localize": "14117",
+    "hero_name_localize": "14216",
     "hero_portrait_size": 1,
     "hero_potrait_base": "liliahmagician_0001"
   },
@@ -4175,7 +4175,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1425002,
     "matching_skin_array": "310210",
-    "hero_name_localize": "14114",
+    "hero_name_localize": "14213",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elizabeth_hawk_0040"
   },
@@ -4186,7 +4186,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1384001,
     "matching_skin_array": "304801",
-    "hero_name_localize": "14106",
+    "hero_name_localize": "14205",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elaine_0001"
   },
@@ -4197,7 +4197,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1385001,
     "matching_skin_array": "304804",
-    "hero_name_localize": "14107",
+    "hero_name_localize": "14206",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elaine_0001"
   },
@@ -4208,7 +4208,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1405001,
     "matching_skin_array": "305001",
-    "hero_name_localize": "14112",
+    "hero_name_localize": "14211",
     "hero_portrait_size": 1,
     "hero_potrait_base": "arthur_0005"
   },
@@ -4219,7 +4219,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1404001,
     "matching_skin_array": "305004",
-    "hero_name_localize": "14110",
+    "hero_name_localize": "14209",
     "hero_portrait_size": 1,
     "hero_potrait_base": "arthur_0006"
   },
@@ -4230,7 +4230,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1505001,
     "matching_skin_array": "313001",
-    "hero_name_localize": "14125",
+    "hero_name_localize": "14224",
     "hero_portrait_size": 0.5,
     "hero_potrait_base": "galand_0001"
   },
@@ -4241,7 +4241,7 @@
     "skill_preview_on": 1,
     "matching_hero_id": 1515001,
     "matching_skin_array": "314001",
-    "hero_name_localize": "14126",
+    "hero_name_localize": "14225",
     "hero_portrait_size": 1,
     "hero_potrait_base": "melascula_0001"
   },
@@ -4252,7 +4252,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1475001,
     "matching_skin_array": "312001",
-    "hero_name_localize": "14121",
+    "hero_name_localize": "14220",
     "hero_portrait_size": 0.7,
     "hero_potrait_base": ""
   },
@@ -4263,7 +4263,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1475002,
     "matching_skin_array": "312003",
-    "hero_name_localize": "14122",
+    "hero_name_localize": "14221",
     "hero_portrait_size": 0.7,
     "hero_potrait_base": ""
   },
@@ -4274,7 +4274,7 @@
     "skill_preview_on": 1,
     "matching_hero_id": 1525001,
     "matching_skin_array": "315001",
-    "hero_name_localize": "14128",
+    "hero_name_localize": "14227",
     "hero_portrait_size": 1,
     "hero_potrait_base": "monspeet_0001"
   },
@@ -4285,7 +4285,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1535001,
     "matching_skin_array": "304701",
-    "hero_name_localize": "14129",
+    "hero_name_localize": "14228",
     "hero_portrait_size": 1,
     "hero_potrait_base": ""
   },
@@ -4296,7 +4296,7 @@
     "skill_preview_on": 1,
     "matching_hero_id": 1545001,
     "matching_skin_array": "304701",
-    "hero_name_localize": "14130",
+    "hero_name_localize": "14229",
     "hero_portrait_size": 0.3,
     "hero_potrait_base": ""
   },
@@ -4307,7 +4307,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1555001,
     "matching_skin_array": "304701",
-    "hero_name_localize": "38520",
+    "hero_name_localize": "38600",
     "hero_portrait_size": 1,
     "hero_potrait_base": ""
   },
@@ -4329,7 +4329,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1575001,
     "matching_skin_array": "304701",
-    "hero_name_localize": "14131",
+    "hero_name_localize": "14230",
     "hero_portrait_size": 1,
     "hero_potrait_base": ""
   },
@@ -4340,7 +4340,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1585001,
     "matching_skin_array": "304701",
-    "hero_name_localize": "14133",
+    "hero_name_localize": "14232",
     "hero_portrait_size": 1,
     "hero_potrait_base": ""
   },
@@ -4351,7 +4351,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1595001,
     "matching_skin_array": "304701",
-    "hero_name_localize": "14135",
+    "hero_name_localize": "14234",
     "hero_portrait_size": 1,
     "hero_potrait_base": ""
   },
@@ -4362,7 +4362,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1455002,
     "matching_skin_array": "311005",
-    "hero_name_localize": "14118",
+    "hero_name_localize": "14217",
     "hero_portrait_size": 1,
     "hero_potrait_base": "liliahmagician_0001"
   },
@@ -4373,7 +4373,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1005003,
     "matching_skin_array": "300181",
-    "hero_name_localize": "14025",
+    "hero_name_localize": "14124",
     "hero_portrait_size": 1,
     "hero_potrait_base": "meliodas_0014"
   },
@@ -4384,7 +4384,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1155003,
     "matching_skin_array": "300881",
-    "hero_name_localize": "14068",
+    "hero_name_localize": "14167",
     "hero_portrait_size": 1,
     "hero_potrait_base": "guila_0011"
   },
@@ -4395,7 +4395,7 @@
     "skill_preview_on": 0,
     "matching_hero_id": 1385003,
     "matching_skin_array": "304881",
-    "hero_name_localize": "14109",
+    "hero_name_localize": "14208",
     "hero_portrait_size": 1,
     "hero_potrait_base": "elaine_0015"
   },
@@ -4406,7 +4406,7 @@
     "skill_preview_on": 1,
     "matching_hero_id": 1605001,
     "matching_skin_array": "333001",
-    "hero_name_localize": "14136",
+    "hero_name_localize": "14235",
     "hero_portrait_size": 1,
     "hero_potrait_base": "deathpierce_0001"
   },
@@ -4417,7 +4417,7 @@
     "skill_preview_on": 1,
     "matching_hero_id": 1614001,
     "matching_skin_array": "334001",
-    "hero_name_localize": "14137",
+    "hero_name_localize": "14236",
     "hero_portrait_size": 1,
     "hero_potrait_base": "hero_dogedo_0001"
   },
@@ -4450,7 +4450,7 @@
     "skill_preview_on": 1,
     "matching_hero_id": 1645001,
     "matching_skin_array": "337001",
-    "hero_name_localize": "14138",
+    "hero_name_localize": "14237",
     "hero_portrait_size": 1,
     "hero_potrait_base": "deldry_0001"
   },
@@ -4461,7 +4461,7 @@
     "skill_preview_on": 1,
     "matching_hero_id": 1654001,
     "matching_skin_array": "338001",
-    "hero_name_localize": "14139",
+    "hero_name_localize": "14238",
     "hero_portrait_size": 1,
     "hero_potrait_base": "arden_0001"
   }

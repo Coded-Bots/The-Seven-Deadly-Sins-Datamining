@@ -64,5 +64,16 @@
     "season_shop_boss_item_1": 500601,
     "season_shop_boss_item_2": 0,
     "season_shop_boss_item_3": 0
+  },
+  {
+    "id": 1007,
+    "group_id": 501,
+    "group_active": 1,
+    "active_start": "2020-04-29 00:00:00",
+    "active_end": "2020-05-13 23:59:00",
+    "season_id": 6,
+    "season_shop_boss_item_1": 500801,
+    "season_shop_boss_item_2": 0,
+    "season_shop_boss_item_3": 0
   }
 ]

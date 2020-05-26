@@ -361,7 +361,7 @@
     "reward_id_1": 520001,
     "reward_count_1": 10,
     "reward_id_2": 530001,
-    "reward_count_2": 100
+    "reward_count_2": 150
   },
   {
     "id": 207,
@@ -372,10 +372,10 @@
     "rank_percentage_min": 16,
     "rank_percentage_max": 30,
     "rank_reward_score": 0,
-    "reward_id_1": 500011,
-    "reward_count_1": 50,
-    "reward_id_2": 0,
-    "reward_count_2": 0
+    "reward_id_1": 941012,
+    "reward_count_1": 3,
+    "reward_id_2": 941006,
+    "reward_count_2": 3
   },
   {
     "id": 208,

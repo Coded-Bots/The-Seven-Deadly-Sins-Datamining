@@ -3597,6 +3597,28 @@
     "open_value": 0
   },
   {
+    "id": 7051,
+    "contents_type": "stage",
+    "type": "extra",
+    "stage_ID": 91102001,
+    "before_loading_id": 500100,
+    "after_loading_id": 500100,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 7052,
+    "contents_type": "stage",
+    "type": "extra",
+    "stage_ID": 91102011,
+    "before_loading_id": 500100,
+    "after_loading_id": 500100,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
     "id": 8001,
     "contents_type": "stage",
     "type": "event_final_boss_main",
@@ -4649,6 +4671,94 @@
     "before_loading_id": 500204,
     "after_loading_id": 500202,
     "loading_tip_group": 0,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10075,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 22050,
+    "before_loading_id": 500251,
+    "after_loading_id": 500251,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10076,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 22051,
+    "before_loading_id": 500251,
+    "after_loading_id": 500251,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10077,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 22052,
+    "before_loading_id": 500251,
+    "after_loading_id": 500251,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10078,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 22053,
+    "before_loading_id": 500251,
+    "after_loading_id": 500251,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10079,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 22055,
+    "before_loading_id": 500251,
+    "after_loading_id": 500251,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10080,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 22056,
+    "before_loading_id": 500251,
+    "after_loading_id": 500251,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10081,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 22057,
+    "before_loading_id": 500251,
+    "after_loading_id": 500251,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10082,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 22059,
+    "before_loading_id": 500251,
+    "after_loading_id": 500251,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -12914,6 +13024,39 @@
     "open_value": 0
   },
   {
+    "id": 24009,
+    "contents_type": "stage",
+    "type": "challenge_boss",
+    "stage_ID": 1031,
+    "before_loading_id": 600010,
+    "after_loading_id": 600010,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 24010,
+    "contents_type": "stage",
+    "type": "challenge_boss",
+    "stage_ID": 1032,
+    "before_loading_id": 600010,
+    "after_loading_id": 600010,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 24011,
+    "contents_type": "stage",
+    "type": "challenge_boss",
+    "stage_ID": 1033,
+    "before_loading_id": 600010,
+    "after_loading_id": 600010,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
     "id": 25001,
     "contents_type": "stage",
     "type": "extra_siege",
@@ -16506,7 +16649,7 @@
     "stage_ID": 1695001,
     "before_loading_id": 316046,
     "after_loading_id": 316046,
-    "loading_tip_group": 2,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -16517,7 +16660,7 @@
     "stage_ID": 1745001,
     "before_loading_id": 316047,
     "after_loading_id": 316047,
-    "loading_tip_group": 3,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -16528,7 +16671,7 @@
     "stage_ID": 1595001,
     "before_loading_id": 316048,
     "after_loading_id": 316048,
-    "loading_tip_group": 4,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -16539,7 +16682,7 @@
     "stage_ID": 1705001,
     "before_loading_id": 316049,
     "after_loading_id": 316049,
-    "loading_tip_group": 5,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -16550,7 +16693,7 @@
     "stage_ID": 1415001,
     "before_loading_id": 316050,
     "after_loading_id": 316050,
-    "loading_tip_group": 6,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -16561,7 +16704,7 @@
     "stage_ID": 1545001,
     "before_loading_id": 316051,
     "after_loading_id": 316051,
-    "loading_tip_group": 7,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -16572,7 +16715,7 @@
     "stage_ID": 1545002,
     "before_loading_id": 316052,
     "after_loading_id": 316052,
-    "loading_tip_group": 8,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -16583,7 +16726,7 @@
     "stage_ID": 1595002,
     "before_loading_id": 316053,
     "after_loading_id": 316053,
-    "loading_tip_group": 9,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -16887,6 +17030,17 @@
   {
     "id": 33012,
     "contents_type": "area",
+    "type": "basepoint_room",
+    "stage_ID": 1202,
+    "before_loading_id": 500202,
+    "after_loading_id": 500251,
+    "loading_tip_group": 3,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 33013,
+    "contents_type": "area",
     "type": "training_basepoint",
     "stage_ID": 803,
     "before_loading_id": 500149,
@@ -16896,7 +17050,7 @@
     "open_value": 0
   },
   {
-    "id": 33013,
+    "id": 33014,
     "contents_type": "area",
     "type": "training_basepoint",
     "stage_ID": 604,
@@ -19087,6 +19241,17 @@
   {
     "id": 34200,
     "contents_type": "area",
+    "type": "basepoint",
+    "stage_ID": 1200301,
+    "before_loading_id": 500251,
+    "after_loading_id": 500251,
+    "loading_tip_group": 3,
+    "open_type": "quest_end",
+    "open_value": 22015
+  },
+  {
+    "id": 34201,
+    "contents_type": "area",
     "type": "main",
     "stage_ID": 1200401,
     "before_loading_id": 500199,
@@ -19096,7 +19261,7 @@
     "open_value": 0
   },
   {
-    "id": 34201,
+    "id": 34202,
     "contents_type": "area",
     "type": "main",
     "stage_ID": 1200402,
@@ -19107,10 +19272,32 @@
     "open_value": 0
   },
   {
-    "id": 34202,
+    "id": 34203,
+    "contents_type": "area",
+    "type": "basepoint",
+    "stage_ID": 1200501,
+    "before_loading_id": 500254,
+    "after_loading_id": 500254,
+    "loading_tip_group": 0,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 34204,
+    "contents_type": "area",
+    "type": "basepoint",
+    "stage_ID": 1200501,
+    "before_loading_id": 100002,
+    "after_loading_id": 100002,
+    "loading_tip_group": 3,
+    "open_type": "quest_end",
+    "open_value": 22064
+  },
+  {
+    "id": 34205,
     "contents_type": "area",
     "type": "warp",
-    "stage_ID": 1200501,
+    "stage_ID": 1200601,
     "before_loading_id": 100001,
     "after_loading_id": 100001,
     "loading_tip_group": 0,
@@ -19795,6 +19982,116 @@
     "stage_ID": 90300025,
     "before_loading_id": 700005,
     "after_loading_id": 700005,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39045,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044001,
+    "before_loading_id": 500104,
+    "after_loading_id": 500104,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39046,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044002,
+    "before_loading_id": 500104,
+    "after_loading_id": 500104,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39047,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044003,
+    "before_loading_id": 500104,
+    "after_loading_id": 500104,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39048,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044004,
+    "before_loading_id": 600001,
+    "after_loading_id": 600001,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39049,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044005,
+    "before_loading_id": 600001,
+    "after_loading_id": 600001,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39050,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044011,
+    "before_loading_id": 500104,
+    "after_loading_id": 500104,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39051,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044012,
+    "before_loading_id": 500104,
+    "after_loading_id": 500104,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39052,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044013,
+    "before_loading_id": 500104,
+    "after_loading_id": 500104,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39053,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044014,
+    "before_loading_id": 600001,
+    "after_loading_id": 600001,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39054,
+    "contents_type": "area",
+    "type": "event_stage_free",
+    "stage_ID": 90044015,
+    "before_loading_id": 600001,
+    "after_loading_id": 600001,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0

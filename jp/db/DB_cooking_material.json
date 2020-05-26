@@ -2,7 +2,7 @@
   {
     "id": 1,
     "category": "meat",
-    "category_string": "8484",
+    "category_string": "8588",
     "sub_category": 1,
     "sub_category_type": 0,
     "type": 1,
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "category": "milk",
-    "category_string": "8485",
+    "category_string": "8589",
     "sub_category": 2,
     "sub_category_type": 0,
     "type": 1,
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "category": "vegetable",
-    "category_string": "8486",
+    "category_string": "8590",
     "sub_category": 3,
     "sub_category_type": 0,
     "type": 1,
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "category": "bird",
-    "category_string": "8487",
+    "category_string": "8591",
     "sub_category": 4,
     "sub_category_type": 0,
     "type": 1,
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "category": "grain",
-    "category_string": "8488",
+    "category_string": "8592",
     "sub_category": 5,
     "sub_category_type": 0,
     "type": 1,
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "category": "processedmeat",
-    "category_string": "8489",
+    "category_string": "8593",
     "sub_category": 6,
     "sub_category_type": 0,
     "type": 1,
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "category": "sub_vegetable",
-    "category_string": "8472",
+    "category_string": "8576",
     "sub_category": 1,
     "sub_category_type": 0,
     "type": 2,
@@ -100,7 +100,7 @@
   {
     "id": 9,
     "category": "sub_butter",
-    "category_string": "8474",
+    "category_string": "8578",
     "sub_category": 2,
     "sub_category_type": 0,
     "type": 2,
@@ -114,7 +114,7 @@
   {
     "id": 10,
     "category": "sub_milK",
-    "category_string": "8479",
+    "category_string": "8583",
     "sub_category": 3,
     "sub_category_type": 0,
     "type": 2,
@@ -128,7 +128,7 @@
   {
     "id": 11,
     "category": "sub_salt",
-    "category_string": "8478",
+    "category_string": "8582",
     "sub_category": 4,
     "sub_category_type": 0,
     "type": 2,
@@ -142,7 +142,7 @@
   {
     "id": 12,
     "category": "sub_pepper",
-    "category_string": "8476",
+    "category_string": "8580",
     "sub_category": 5,
     "sub_category_type": 0,
     "type": 2,
@@ -156,7 +156,7 @@
   {
     "id": 13,
     "category": "sub_herb",
-    "category_string": "8480",
+    "category_string": "8584",
     "sub_category": 6,
     "sub_category_type": 0,
     "type": 2,
@@ -170,7 +170,7 @@
   {
     "id": 14,
     "category": "sub_sugar",
-    "category_string": "8477",
+    "category_string": "8581",
     "sub_category": 7,
     "sub_category_type": 0,
     "type": 2,
@@ -184,7 +184,7 @@
   {
     "id": 15,
     "category": "sub_honey",
-    "category_string": "8473",
+    "category_string": "8577",
     "sub_category": 8,
     "sub_category_type": 0,
     "type": 2,
@@ -198,7 +198,7 @@
   {
     "id": 16,
     "category": "sub_egg",
-    "category_string": "8475",
+    "category_string": "8579",
     "sub_category": 9,
     "sub_category_type": 0,
     "type": 2,
@@ -212,7 +212,7 @@
   {
     "id": 20,
     "category": "add_vegetable_1",
-    "category_string": "8491",
+    "category_string": "8595",
     "sub_category": 1,
     "sub_category_type": 0,
     "type": 3,
@@ -226,7 +226,7 @@
   {
     "id": 21,
     "category": "add_vegetable_2",
-    "category_string": "8496",
+    "category_string": "8600",
     "sub_category": 2,
     "sub_category_type": 0,
     "type": 3,
@@ -240,7 +240,7 @@
   {
     "id": 22,
     "category": "add_vegetable_3",
-    "category_string": "8500",
+    "category_string": "8604",
     "sub_category": 3,
     "sub_category_type": 0,
     "type": 3,
@@ -254,7 +254,7 @@
   {
     "id": 23,
     "category": "add_product_1",
-    "category_string": "8497",
+    "category_string": "8601",
     "sub_category": 4,
     "sub_category_type": 0,
     "type": 3,
@@ -268,7 +268,7 @@
   {
     "id": 24,
     "category": "add_vegetable_4",
-    "category_string": "8498",
+    "category_string": "8602",
     "sub_category": 5,
     "sub_category_type": 0,
     "type": 3,
@@ -282,7 +282,7 @@
   {
     "id": 25,
     "category": "add_goods_1",
-    "category_string": "8492",
+    "category_string": "8596",
     "sub_category": 6,
     "sub_category_type": 0,
     "type": 3,
@@ -296,7 +296,7 @@
   {
     "id": 26,
     "category": "add_fruit_1",
-    "category_string": "8499",
+    "category_string": "8603",
     "sub_category": 7,
     "sub_category_type": 0,
     "type": 3,
@@ -310,7 +310,7 @@
   {
     "id": 27,
     "category": "add_fruit_2",
-    "category_string": "8501",
+    "category_string": "8605",
     "sub_category": 8,
     "sub_category_type": 0,
     "type": 3,
@@ -324,7 +324,7 @@
   {
     "id": 28,
     "category": "add_product_2",
-    "category_string": "8493",
+    "category_string": "8597",
     "sub_category": 9,
     "sub_category_type": 0,
     "type": 3,
@@ -338,7 +338,7 @@
   {
     "id": 29,
     "category": "add_goods_2",
-    "category_string": "8494",
+    "category_string": "8598",
     "sub_category": 10,
     "sub_category_type": 0,
     "type": 3,
@@ -352,7 +352,7 @@
   {
     "id": 30,
     "category": "add_fruit_3",
-    "category_string": "8495",
+    "category_string": "8599",
     "sub_category": 11,
     "sub_category_type": 0,
     "type": 3,
@@ -366,7 +366,7 @@
   {
     "id": 31,
     "category": "add_fruit_4",
-    "category_string": "8502",
+    "category_string": "8606",
     "sub_category": 12,
     "sub_category_type": 0,
     "type": 3,
@@ -380,7 +380,7 @@
   {
     "id": 32,
     "category": "add_goods_2",
-    "category_string": "8503",
+    "category_string": "8607",
     "sub_category": 13,
     "sub_category_type": 0,
     "type": 3,
@@ -394,7 +394,7 @@
   {
     "id": 33,
     "category": "add_goods_3",
-    "category_string": "8504",
+    "category_string": "8608",
     "sub_category": 14,
     "sub_category_type": 0,
     "type": 3,
@@ -408,7 +408,7 @@
   {
     "id": 34,
     "category": "add_product_3",
-    "category_string": "8505",
+    "category_string": "8609",
     "sub_category": 15,
     "sub_category_type": 0,
     "type": 3,
@@ -422,7 +422,7 @@
   {
     "id": 35,
     "category": "add_goods_2",
-    "category_string": "8506",
+    "category_string": "8610",
     "sub_category": 16,
     "sub_category_type": 0,
     "type": 3,
@@ -436,7 +436,7 @@
   {
     "id": 36,
     "category": "add_product_2",
-    "category_string": "8507",
+    "category_string": "8611",
     "sub_category": 17,
     "sub_category_type": 0,
     "type": 3,
@@ -450,7 +450,7 @@
   {
     "id": 37,
     "category": "add_vegetable_5",
-    "category_string": "8508",
+    "category_string": "8612",
     "sub_category": 18,
     "sub_category_type": 0,
     "type": 3,

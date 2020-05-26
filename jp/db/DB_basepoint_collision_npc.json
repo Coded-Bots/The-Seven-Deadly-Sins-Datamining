@@ -747,7 +747,7 @@
     "npc_role": "warp_final_boss_shop",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "3431"
+    "guide_local": "3427"
   },
   {
     "id": 100601,
@@ -2142,7 +2142,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 1201,
     "npc_cinema_id": 0,
-    "guide_local": "5511"
+    "guide_local": "5510"
   },
   {
     "id": 111204,
@@ -2157,7 +2157,7 @@
     "npc_role": "warp_town_12",
     "npc_content_id": 1200301,
     "npc_cinema_id": 0,
-    "guide_local": "5512"
+    "guide_local": "5511"
   },
   {
     "id": 101301,
@@ -2194,36 +2194,6 @@
     "basepoint_id": 1200301,
     "collision_index": 0,
     "collision_count": 0,
-    "collision_resource": "fx_ui_trigger_exit_b",
-    "open_type": "",
-    "open_value": 0,
-    "close_type": "",
-    "close_value": 0,
-    "npc_role": "Exit",
-    "npc_content_id": 0,
-    "npc_cinema_id": 0,
-    "guide_local": "580"
-  },
-  {
-    "id": 101304,
-    "basepoint_id": 1200301,
-    "collision_index": 0,
-    "collision_count": 0,
-    "collision_resource": "",
-    "open_type": "",
-    "open_value": 0,
-    "close_type": "",
-    "close_value": 0,
-    "npc_role": "warp_lobby",
-    "npc_content_id": 0,
-    "npc_cinema_id": 0,
-    "guide_local": "581"
-  },
-  {
-    "id": 101305,
-    "basepoint_id": 1200301,
-    "collision_index": 0,
-    "collision_count": 0,
     "collision_resource": "",
     "open_type": "quest_start",
     "open_value": 22016,
@@ -2235,7 +2205,7 @@
     "guide_local": ""
   },
   {
-    "id": 101306,
+    "id": 101304,
     "basepoint_id": 1200301,
     "collision_index": 0,
     "collision_count": 0,
@@ -2250,7 +2220,7 @@
     "guide_local": ""
   },
   {
-    "id": 101307,
+    "id": 101305,
     "basepoint_id": 1200301,
     "collision_index": 0,
     "collision_count": 0,
@@ -2265,7 +2235,22 @@
     "guide_local": ""
   },
   {
-    "id": 101308,
+    "id": 101306,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22054,
+    "close_type": "quest_end",
+    "close_value": 22054,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101307,
     "basepoint_id": 1200301,
     "collision_index": 0,
     "collision_count": 0,
@@ -2280,7 +2265,7 @@
     "guide_local": ""
   },
   {
-    "id": 101309,
+    "id": 101308,
     "basepoint_id": 1200301,
     "collision_index": 0,
     "collision_count": 0,
@@ -2289,6 +2274,21 @@
     "open_value": 22056,
     "close_type": "quest_end",
     "close_value": 22056,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101309,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22057,
+    "close_type": "quest_end",
+    "close_value": 22057,
     "npc_role": "Quest_Player_Move_Collision",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
@@ -2355,21 +2355,6 @@
     "guide_local": ""
   },
   {
-    "id": 101314,
-    "basepoint_id": 1200301,
-    "collision_index": 0,
-    "collision_count": 0,
-    "collision_resource": "",
-    "open_type": "quest_start",
-    "open_value": 22057,
-    "close_type": "quest_end",
-    "close_value": 22057,
-    "npc_role": "Quest_Player_Move_Collision",
-    "npc_content_id": 0,
-    "npc_cinema_id": 0,
-    "guide_local": ""
-  },
-  {
     "id": 101315,
     "basepoint_id": 1200501,
     "collision_index": 1,
@@ -2404,6 +2389,21 @@
     "basepoint_id": 1200501,
     "collision_index": 0,
     "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22062,
+    "close_type": "quest_end",
+    "close_value": 22062,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101320,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
     "collision_resource": "fx_ui_trigger_exit_b",
     "open_type": "",
     "open_value": 0,
@@ -2415,8 +2415,8 @@
     "guide_local": "580"
   },
   {
-    "id": 101318,
-    "basepoint_id": 1200501,
+    "id": 101321,
+    "basepoint_id": 1200301,
     "collision_index": 0,
     "collision_count": 0,
     "collision_resource": "fx_ui_trigger_warp_hat_b",
@@ -2430,19 +2430,34 @@
     "guide_local": "581"
   },
   {
-    "id": 101319,
+    "id": 101322,
     "basepoint_id": 1200501,
     "collision_index": 0,
     "collision_count": 0,
-    "collision_resource": "",
-    "open_type": "quest_start",
-    "open_value": 22062,
-    "close_type": "quest_end",
-    "close_value": 22062,
-    "npc_role": "Quest_Player_Move_Collision",
+    "collision_resource": "fx_ui_trigger_exit_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": ""
+    "guide_local": "580"
+  },
+  {
+    "id": 101323,
+    "basepoint_id": 1200501,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_warp_hat_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "warp_lobby",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": "581"
   },
   {
     "id": 301011,
@@ -2846,6 +2861,21 @@
     "close_value": 91005,
     "npc_role": "Story_Quest",
     "npc_content_id": 91005,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 120102,
+    "basepoint_id": 92020401,
+    "collision_index": 1,
+    "collision_count": 1,
+    "collision_resource": "fx_ui_trigger_complection_m",
+    "open_type": "quest_start",
+    "open_value": 91010,
+    "close_type": "quest_end",
+    "close_value": 91010,
+    "npc_role": "Story_Quest",
+    "npc_content_id": 91010,
     "npc_cinema_id": 0,
     "guide_local": ""
   },

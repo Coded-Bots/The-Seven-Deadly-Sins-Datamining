@@ -7,8 +7,8 @@
     "end_Prefab": "ChapterInfo_UIPanel",
     "start_title": "",
     "start_content": "",
-    "end_title": "23855",
-    "end_content": "23838"
+    "end_title": "23941",
+    "end_content": "23924"
   },
   {
     "id": 102,
@@ -16,10 +16,10 @@
     "name": "chapter6_update_video.mp4",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23849",
+    "start_title": "23935",
     "start_content": "",
-    "end_title": "23842",
-    "end_content": "23840"
+    "end_title": "23928",
+    "end_content": "23926"
   },
   {
     "id": 103,
@@ -27,10 +27,10 @@
     "name": "chapter6add_update_video.mp4",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23850",
+    "start_title": "23936",
     "start_content": "",
-    "end_title": "23843",
-    "end_content": "23841"
+    "end_title": "23929",
+    "end_content": "23927"
   },
   {
     "id": 104,
@@ -38,10 +38,10 @@
     "name": "chapter7_update_video.mp4",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23850",
+    "start_title": "23936",
     "start_content": "",
-    "end_title": "23844",
-    "end_content": "23840"
+    "end_title": "23930",
+    "end_content": "23926"
   },
   {
     "id": 105,
@@ -49,8 +49,8 @@
     "name": "event_9201_opening_190627_dXrAVNvn.mp4",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23851",
-    "start_content": "23848",
+    "start_title": "23937",
+    "start_content": "23934",
     "end_title": "",
     "end_content": ""
   },
@@ -60,8 +60,8 @@
     "name": "event_9201_epilogue_160627_QXvV-dI9.mp4",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23851",
-    "start_content": "23839",
+    "start_title": "23937",
+    "start_content": "23925",
     "end_title": "",
     "end_content": ""
   },
@@ -71,10 +71,10 @@
     "name": "chapter8_update_video_7p87me8k",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23850",
+    "start_title": "23936",
     "start_content": "",
-    "end_title": "23845",
-    "end_content": "23840"
+    "end_title": "23931",
+    "end_content": "23926"
   },
   {
     "id": 108,
@@ -82,10 +82,10 @@
     "name": "chapter9_update_video_nfo3qswz",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23850",
+    "start_title": "23936",
     "start_content": "",
-    "end_title": "23846",
-    "end_content": "23840"
+    "end_title": "23932",
+    "end_content": "23926"
   },
   {
     "id": 109,
@@ -93,10 +93,10 @@
     "name": "chapter10_update_video_ttwmkayf",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23850",
+    "start_title": "23936",
     "start_content": "",
-    "end_title": "23847",
-    "end_content": "23840"
+    "end_title": "23933",
+    "end_content": "23926"
   },
   {
     "id": 110,
@@ -104,7 +104,7 @@
     "name": "event_9301_opening_tqb6tiqm",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23853",
+    "start_title": "23939",
     "start_content": "",
     "end_title": "",
     "end_content": ""
@@ -115,7 +115,7 @@
     "name": "event_half_anni_opening_m1avfi4l",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "23854",
+    "start_title": "23940",
     "start_content": "",
     "end_title": "",
     "end_content": ""
@@ -126,7 +126,7 @@
     "name": "another01_opening_6oqttewl",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "30023",
+    "start_title": "30108",
     "start_content": "",
     "end_title": "",
     "end_content": ""
@@ -137,7 +137,7 @@
     "name": "event_777DL_opening_hvmnrqyw",
     "screen": "Portrait",
     "end_Prefab": "ChapterInfo_UIPanel",
-    "start_title": "39642",
+    "start_title": "39720",
     "start_content": "",
     "end_title": "",
     "end_content": ""

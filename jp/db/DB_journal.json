@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "journal_name": "14181",
+    "journal_name": "14280",
     "journal_resource": "icon_quest_hero_hawk",
     "journal_tap_index": 1,
     "journal_type": "journal_guide",
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "journal_name": "14509",
+    "journal_name": "14608",
     "journal_resource": "icon_quest_hero_board_sales",
     "journal_tap_index": 1,
     "journal_type": "journal_guide",
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "journal_name": "14181",
+    "journal_name": "14280",
     "journal_resource": "icon_quest_hero_hawk",
     "journal_tap_index": 1,
     "journal_type": "journal_guide",
@@ -71,7 +71,7 @@
   },
   {
     "id": 6,
-    "journal_name": "14147",
+    "journal_name": "14246",
     "journal_resource": "icon_quest_hero_elizabeth",
     "journal_tap_index": 1,
     "journal_type": "journal_guide",
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "journal_name": "14179",
+    "journal_name": "14278",
     "journal_resource": "icon_quest_hero_diane",
     "journal_tap_index": 1,
     "journal_type": "journal_guide",
@@ -99,7 +99,7 @@
   },
   {
     "id": 8,
-    "journal_name": "14183",
+    "journal_name": "14282",
     "journal_resource": "icon_quest_hero_ban",
     "journal_tap_index": 1,
     "journal_type": "journal_guide",
@@ -113,7 +113,7 @@
   },
   {
     "id": 9,
-    "journal_name": "14219",
+    "journal_name": "14318",
     "journal_resource": "icon_quest_hero_king",
     "journal_tap_index": 1,
     "journal_type": "journal_guide",
@@ -127,7 +127,7 @@
   },
   {
     "id": 10,
-    "journal_name": "14150",
+    "journal_name": "14249",
     "journal_resource": "icon_quest_hero_gowther",
     "journal_tap_index": 1,
     "journal_type": "journal_guide",
@@ -207,11 +207,11 @@
     "blind_open_type": "quest_start",
     "blind_open_value": 91001,
     "close_type": "event_end",
-    "close_value": 91017
+    "close_value": 91021
   },
   {
     "id": 101,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_area_01",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -225,7 +225,7 @@
   },
   {
     "id": 201,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_02",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -239,7 +239,7 @@
   },
   {
     "id": 301,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_03",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -253,7 +253,7 @@
   },
   {
     "id": 401,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_04",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -267,7 +267,7 @@
   },
   {
     "id": 501,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_05",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -281,7 +281,7 @@
   },
   {
     "id": 601,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_06",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -295,7 +295,7 @@
   },
   {
     "id": 701,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_07_02",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -309,7 +309,7 @@
   },
   {
     "id": 801,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_area_57",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -323,7 +323,7 @@
   },
   {
     "id": 901,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_area_09_03",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -337,7 +337,7 @@
   },
   {
     "id": 1001,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_10_01",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -351,7 +351,7 @@
   },
   {
     "id": 1101,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_11_02",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -365,7 +365,7 @@
   },
   {
     "id": 1201,
-    "journal_name": "4141",
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_12_01",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -378,8 +378,8 @@
     "close_value": 22051
   },
   {
-    "id": 1301,
-    "journal_name": "",
+    "id": 1202,
+    "journal_name": "4137",
     "journal_resource": "icon_basepoint_13_01",
     "journal_tap_index": 0,
     "journal_type": "journal_story",
@@ -393,7 +393,7 @@
   },
   {
     "id": 21000,
-    "journal_name": "13644",
+    "journal_name": "13743",
     "journal_resource": "icon_journal_root_11",
     "journal_tap_index": 2,
     "journal_type": "journal_another_root",

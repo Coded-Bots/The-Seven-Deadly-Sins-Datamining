@@ -278,5 +278,69 @@
     "stepup_mileage_value": 140,
     "reward_item_id": 520001,
     "reward_item_count": 10
+  },
+  {
+    "id": 36,
+    "mileage_group": 10,
+    "reward_order": 1,
+    "stepup_mileage_value": 50,
+    "reward_item_id": 510001,
+    "reward_item_count": 500
+  },
+  {
+    "id": 37,
+    "mileage_group": 10,
+    "reward_order": 2,
+    "stepup_mileage_value": 80,
+    "reward_item_id": 510105,
+    "reward_item_count": 10
+  },
+  {
+    "id": 38,
+    "mileage_group": 10,
+    "reward_order": 3,
+    "stepup_mileage_value": 110,
+    "reward_item_id": 530001,
+    "reward_item_count": 100
+  },
+  {
+    "id": 39,
+    "mileage_group": 10,
+    "reward_order": 4,
+    "stepup_mileage_value": 140,
+    "reward_item_id": 520001,
+    "reward_item_count": 10
+  },
+  {
+    "id": 40,
+    "mileage_group": 11,
+    "reward_order": 1,
+    "stepup_mileage_value": 50,
+    "reward_item_id": 510001,
+    "reward_item_count": 500
+  },
+  {
+    "id": 41,
+    "mileage_group": 11,
+    "reward_order": 2,
+    "stepup_mileage_value": 80,
+    "reward_item_id": 510105,
+    "reward_item_count": 10
+  },
+  {
+    "id": 42,
+    "mileage_group": 11,
+    "reward_order": 3,
+    "stepup_mileage_value": 110,
+    "reward_item_id": 530001,
+    "reward_item_count": 100
+  },
+  {
+    "id": 43,
+    "mileage_group": 11,
+    "reward_order": 4,
+    "stepup_mileage_value": 140,
+    "reward_item_id": 520001,
+    "reward_item_count": 10
   }
 ]

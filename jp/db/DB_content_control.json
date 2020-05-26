@@ -102,7 +102,7 @@
   {
     "id": 21,
     "contents": "clear_ticket",
-    "value_int_1": 0
+    "value_int_1": 1
   },
   {
     "id": 22,
@@ -112,6 +112,11 @@
   {
     "id": 23,
     "contents": "guild_war",
-    "value_int_1": 0
+    "value_int_1": 1
+  },
+  {
+    "id": 24,
+    "contents": "patrol",
+    "value_int_1": 1
   }
 ]

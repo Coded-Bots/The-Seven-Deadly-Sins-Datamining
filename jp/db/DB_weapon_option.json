@@ -2,121 +2,121 @@
   {
     "id": 1,
     "random_option_group": 1,
-    "random_option_name": "6269",
+    "random_option_name": "6374",
     "option_effect_id": 200100,
     "option_effect_min": 1,
     "option_effect_max": 3,
     "option_upgrade_value": 0,
-    "option_name": "6281"
+    "option_name": "6386"
   },
   {
     "id": 2,
     "random_option_group": 1,
-    "random_option_name": "6270",
+    "random_option_name": "6375",
     "option_effect_id": 200400,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6285"
+    "option_name": "6390"
   },
   {
     "id": 3,
     "random_option_group": 1,
-    "random_option_name": "6271",
+    "random_option_name": "6376",
     "option_effect_id": 200700,
     "option_effect_min": 1.5,
     "option_effect_max": 4.5,
     "option_upgrade_value": 0,
-    "option_name": "6286"
+    "option_name": "6391"
   },
   {
     "id": 4,
     "random_option_group": 1,
-    "random_option_name": "6272",
+    "random_option_name": "6377",
     "option_effect_id": 200800,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6287"
+    "option_name": "6392"
   },
   {
     "id": 5,
     "random_option_group": 2,
-    "random_option_name": "6273",
+    "random_option_name": "6378",
     "option_effect_id": 200200,
     "option_effect_min": 1,
     "option_effect_max": 3,
     "option_upgrade_value": 0,
-    "option_name": "6288"
+    "option_name": "6393"
   },
   {
     "id": 6,
     "random_option_group": 2,
-    "random_option_name": "6274",
+    "random_option_name": "6379",
     "option_effect_id": 200500,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6289"
+    "option_name": "6394"
   },
   {
     "id": 7,
     "random_option_group": 2,
-    "random_option_name": "6275",
+    "random_option_name": "6380",
     "option_effect_id": 200600,
     "option_effect_min": 1.5,
     "option_effect_max": 4.5,
     "option_upgrade_value": 0,
-    "option_name": "6290"
+    "option_name": "6395"
   },
   {
     "id": 8,
     "random_option_group": 2,
-    "random_option_name": "6276",
+    "random_option_name": "6381",
     "option_effect_id": 201100,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6291"
+    "option_name": "6396"
   },
   {
     "id": 9,
     "random_option_group": 3,
-    "random_option_name": "6277",
+    "random_option_name": "6382",
     "option_effect_id": 200300,
     "option_effect_min": 1,
     "option_effect_max": 3,
     "option_upgrade_value": 0,
-    "option_name": "6292"
+    "option_name": "6397"
   },
   {
     "id": 10,
     "random_option_group": 3,
-    "random_option_name": "6278",
+    "random_option_name": "6383",
     "option_effect_id": 201700,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6282"
+    "option_name": "6387"
   },
   {
     "id": 11,
     "random_option_group": 3,
-    "random_option_name": "6279",
+    "random_option_name": "6384",
     "option_effect_id": 201000,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6283"
+    "option_name": "6388"
   },
   {
     "id": 12,
     "random_option_group": 3,
-    "random_option_name": "6280",
+    "random_option_name": "6385",
     "option_effect_id": 200900,
     "option_effect_min": 1.5,
     "option_effect_max": 4.5,
     "option_upgrade_value": 0,
-    "option_name": "6284"
+    "option_name": "6389"
   }
 ]
