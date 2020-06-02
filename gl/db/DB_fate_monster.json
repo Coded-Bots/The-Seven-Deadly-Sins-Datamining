@@ -38,5 +38,13 @@
     "potrait": "icon_hero_merlin_0013_s",
     "hero_name": "DB_hero_name_101300",
     "desc": "DB_fate_monster_desc_6010600"
+  },
+  {
+    "id": 6010601,
+    "type": "weak",
+    "monster_group_id": 2260133,
+    "potrait": "icon_hero_meliodas_0005_s",
+    "hero_name": "DB_hero_name_100100",
+    "desc": "DB_fate_monster_desc_6010700"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "mission_group_id": 1011,
-    "mission_name": "DB_final_boss_mission_101101",
+    "mission_name": "41326",
     "mission_type": "Stage_Battle_Team_Power_Win",
     "mission_type_value": 80000,
     "localize_display_type": 2,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "mission_group_id": 1011,
-    "mission_name": "DB_final_boss_mission_101102",
+    "mission_name": "41327",
     "mission_type": "Stage_Battle_Type_Attack",
     "mission_type_value": 5,
     "localize_display_type": 2,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "mission_group_id": 1011,
-    "mission_name": "DB_final_boss_mission_101103",
+    "mission_name": "41328",
     "mission_type": "Stage_Battle_Hero_Attribute",
     "mission_type_value": 2,
     "localize_display_type": 0,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "mission_group_id": 1012,
-    "mission_name": "DB_final_boss_mission_101204",
+    "mission_name": "41329",
     "mission_type": "Stage_Battle_Turn_Count",
     "mission_type_value": 12,
     "localize_display_type": 2,
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "mission_group_id": 1012,
-    "mission_name": "DB_final_boss_mission_101205",
+    "mission_name": "41330",
     "mission_type": "stage_battle_over_skill_dissipation_count",
     "mission_type_value": 4,
     "localize_display_type": 2,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "mission_group_id": 1012,
-    "mission_name": "DB_final_boss_mission_101206",
+    "mission_name": "41331",
     "mission_type": "Stage_Battle_CardUse_Special",
     "mission_type_value": 6,
     "localize_display_type": 2,
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "mission_group_id": 1013,
-    "mission_name": "DB_final_boss_mission_101307",
+    "mission_name": "41332",
     "mission_type": "Stage_Battle_CardUse_Heal",
     "mission_type_value": 3,
     "localize_display_type": 2,
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "mission_group_id": 1013,
-    "mission_name": "DB_final_boss_mission_101308",
+    "mission_name": "41333",
     "mission_type": "Stage_Battle_Rank_Down",
     "mission_type_value": 6,
     "localize_display_type": 2,
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "mission_group_id": 1013,
-    "mission_name": "DB_final_boss_mission_101309",
+    "mission_name": "41334",
     "mission_type": "stage_battle_over_decrease_gauge_count",
     "mission_type_value": 12,
     "localize_display_type": 2,
@@ -83,16 +83,106 @@
   {
     "id": 10,
     "mission_group_id": 1013,
-    "mission_name": "DB_final_boss_mission_101310",
+    "mission_name": "41335",
     "mission_type": "stage_battle_over_erase_buff_count",
     "mission_type_value": 3,
     "localize_display_type": 2,
     "mission_reward_value": 310
   },
   {
+    "id": 11,
+    "mission_group_id": 2011,
+    "mission_name": "41326",
+    "mission_type": "Stage_Battle_Team_Power_Win",
+    "mission_type_value": 80000,
+    "localize_display_type": 2,
+    "mission_reward_value": 15
+  },
+  {
+    "id": 12,
+    "mission_group_id": 2011,
+    "mission_name": "40595",
+    "mission_type": "stage_battle_over_debuff_preventpose_count",
+    "mission_type_value": 3,
+    "localize_display_type": 2,
+    "mission_reward_value": 20
+  },
+  {
+    "id": 13,
+    "mission_group_id": 2011,
+    "mission_name": "41331",
+    "mission_type": "Stage_Battle_CardUse_Special",
+    "mission_type_value": 5,
+    "localize_display_type": 2,
+    "mission_reward_value": 25
+  },
+  {
+    "id": 14,
+    "mission_group_id": 2012,
+    "mission_name": "41332",
+    "mission_type": "Stage_Battle_CardUse_Heal",
+    "mission_type_value": 3,
+    "localize_display_type": 2,
+    "mission_reward_value": 80
+  },
+  {
+    "id": 15,
+    "mission_group_id": 2012,
+    "mission_name": "41327",
+    "mission_type": "Stage_Battle_Type_Attack",
+    "mission_type_value": 5,
+    "localize_display_type": 2,
+    "mission_reward_value": 90
+  },
+  {
+    "id": 16,
+    "mission_group_id": 2012,
+    "mission_name": "24142",
+    "mission_type": "Stage_Battle_Max_Damage",
+    "mission_type_value": 100000,
+    "localize_display_type": 2,
+    "mission_reward_value": 90
+  },
+  {
+    "id": 17,
+    "mission_group_id": 2013,
+    "mission_name": "24138",
+    "mission_type": "Stage_Battle_Hero_Kind",
+    "mission_type_value": 3,
+    "localize_display_type": 0,
+    "mission_reward_value": 190
+  },
+  {
+    "id": 18,
+    "mission_group_id": 2013,
+    "mission_name": "40604",
+    "mission_type": "stage_battle_over_recovery_debuff_count",
+    "mission_type_value": 10,
+    "localize_display_type": 2,
+    "mission_reward_value": 230
+  },
+  {
+    "id": 19,
+    "mission_group_id": 2013,
+    "mission_name": "24151",
+    "mission_type": "Stage_Battle_Over_HP",
+    "mission_type_value": 50,
+    "localize_display_type": 2,
+    "mission_reward_value": 270
+  },
+  {
+    "id": 20,
+    "mission_group_id": 2013,
+    "mission_name": "24180",
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "localize_display_type": 0,
+    "mission_reward_value": 310
+  },
+  {
     "id": 37,
     "mission_group_id": 3011,
-    "mission_name": "DB_final_boss_mission_014",
+    "mission_name": "40606",
     "mission_type": "Stage_Battle_CardUse_Abnormal",
     "mission_type_value": 5,
     "localize_display_type": 2,
@@ -101,7 +191,7 @@
   {
     "id": 38,
     "mission_group_id": 3011,
-    "mission_name": "DB_final_boss_mission_002",
+    "mission_name": "40594",
     "mission_type": "stage_battle_over_debuff_freezing_count",
     "mission_type_value": 3,
     "localize_display_type": 2,
@@ -110,7 +200,7 @@
   {
     "id": 39,
     "mission_group_id": 3011,
-    "mission_name": "DB_final_boss_mission_015",
+    "mission_name": "40607",
     "mission_type": "Stage_Battle_Under_Special_Count",
     "mission_type_value": 4,
     "localize_display_type": 2,
@@ -119,7 +209,7 @@
   {
     "id": 40,
     "mission_group_id": 3012,
-    "mission_name": "DB_final_boss_mission_020",
+    "mission_name": "40612",
     "mission_type": "Stage_Battle_Under_NoMove_count",
     "mission_type_value": 5,
     "localize_display_type": 2,
@@ -128,7 +218,7 @@
   {
     "id": 41,
     "mission_group_id": 3012,
-    "mission_name": "DB_guild_boss_mission_080",
+    "mission_name": "24180",
     "mission_type": "Stage_Battle_Hero_Alive",
     "mission_type_value": 0,
     "localize_display_type": 0,
@@ -137,7 +227,7 @@
   {
     "id": 42,
     "mission_group_id": 3012,
-    "mission_name": "DB_final_boss_mission_003",
+    "mission_name": "40595",
     "mission_type": "stage_battle_over_debuff_preventpose_count",
     "mission_type_value": 2,
     "localize_display_type": 2,
@@ -146,7 +236,7 @@
   {
     "id": 43,
     "mission_group_id": 3013,
-    "mission_name": "DB_final_boss_mission_022",
+    "mission_name": "40614",
     "mission_type": "Stage_Battle_Hero_Kind",
     "mission_type_value": 6,
     "localize_display_type": 0,
@@ -155,7 +245,7 @@
   {
     "id": 44,
     "mission_group_id": 3013,
-    "mission_name": "DB_final_boss_mission_004",
+    "mission_name": "40596",
     "mission_type": "stage_battle_over_debuff_infection_count",
     "mission_type_value": 3,
     "localize_display_type": 2,
@@ -164,7 +254,7 @@
   {
     "id": 45,
     "mission_group_id": 3013,
-    "mission_name": "DB_final_boss_mission_010",
+    "mission_name": "40602",
     "mission_type": "stage_battle_over_erase_buff_count",
     "mission_type_value": 2,
     "localize_display_type": 2,
@@ -173,7 +263,7 @@
   {
     "id": 46,
     "mission_group_id": 3013,
-    "mission_name": "DB_final_boss_mission_017",
+    "mission_name": "40609",
     "mission_type": "Stage_Battle_Max_Damage",
     "mission_type_value": 300000,
     "localize_display_type": 2,

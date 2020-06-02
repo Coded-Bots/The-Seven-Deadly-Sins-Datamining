@@ -7,10 +7,10 @@
     "passive_value": 4,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_life",
-    "play_title": "DB_play_title_13",
-    "play_title_mission_name": "DB_play_title_mission_name_13",
-    "play_title_mission_desc": "DB_play_title_mission_desc_13",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_13"
+    "play_title": "41716",
+    "play_title_mission_name": "41802",
+    "play_title_mission_desc": "41768",
+    "play_title_passive_desc": "41835"
   },
   {
     "id": 14,
@@ -20,10 +20,10 @@
     "passive_value": 5,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_life",
-    "play_title": "DB_play_title_14",
-    "play_title_mission_name": "DB_play_title_mission_name_14",
-    "play_title_mission_desc": "DB_play_title_mission_desc_14",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_14"
+    "play_title": "41717",
+    "play_title_mission_name": "41803",
+    "play_title_mission_desc": "41769",
+    "play_title_passive_desc": "41836"
   },
   {
     "id": 23,
@@ -33,10 +33,10 @@
     "passive_value": 8,
     "play_title_point": 5,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "DB_play_title_23",
-    "play_title_mission_name": "DB_play_title_mission_name_23",
-    "play_title_mission_desc": "DB_play_title_mission_desc_23",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_23"
+    "play_title": "41726",
+    "play_title_mission_name": "41812",
+    "play_title_mission_desc": "41778",
+    "play_title_passive_desc": "41841"
   },
   {
     "id": 24,
@@ -46,10 +46,10 @@
     "passive_value": 0,
     "play_title_point": 5,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "DB_play_title_24",
-    "play_title_mission_name": "DB_play_title_mission_name_24",
-    "play_title_mission_desc": "DB_play_title_mission_desc_24",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_00"
+    "play_title": "41727",
+    "play_title_mission_name": "41813",
+    "play_title_mission_desc": "41779",
+    "play_title_passive_desc": "41824"
   },
   {
     "id": 26,
@@ -59,10 +59,10 @@
     "passive_value": 0,
     "play_title_point": 5,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "DB_play_title_26",
-    "play_title_mission_name": "DB_play_title_mission_name_26",
-    "play_title_mission_desc": "DB_play_title_mission_desc_26",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_00"
+    "play_title": "41729",
+    "play_title_mission_name": "41815",
+    "play_title_mission_desc": "41781",
+    "play_title_passive_desc": "41824"
   },
   {
     "id": 28,
@@ -72,10 +72,10 @@
     "passive_value": 0,
     "play_title_point": 5,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "DB_play_title_28",
-    "play_title_mission_name": "DB_play_title_mission_name_28",
-    "play_title_mission_desc": "DB_play_title_mission_desc_28",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_00"
+    "play_title": "41731",
+    "play_title_mission_name": "41817",
+    "play_title_mission_desc": "41783",
+    "play_title_passive_desc": "41824"
   },
   {
     "id": 29,
@@ -85,10 +85,10 @@
     "passive_value": 0,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "DB_play_title_29",
-    "play_title_mission_name": "DB_play_title_mission_name_29",
-    "play_title_mission_desc": "DB_play_title_mission_desc_29",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_00"
+    "play_title": "41732",
+    "play_title_mission_name": "41818",
+    "play_title_mission_desc": "41784",
+    "play_title_passive_desc": "41824"
   },
   {
     "id": 30,
@@ -98,10 +98,10 @@
     "passive_value": 0,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "DB_play_title_30",
-    "play_title_mission_name": "DB_play_title_mission_name_30",
-    "play_title_mission_desc": "DB_play_title_mission_desc_30",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_00"
+    "play_title": "41733",
+    "play_title_mission_name": "41819",
+    "play_title_mission_desc": "41785",
+    "play_title_passive_desc": "41824"
   },
   {
     "id": 31,
@@ -111,10 +111,10 @@
     "passive_value": 0,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "DB_play_title_31",
-    "play_title_mission_name": "DB_play_title_mission_name_31",
-    "play_title_mission_desc": "DB_play_title_mission_desc_31",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_00"
+    "play_title": "41734",
+    "play_title_mission_name": "41820",
+    "play_title_mission_desc": "41786",
+    "play_title_passive_desc": "41824"
   },
   {
     "id": 32,
@@ -124,9 +124,100 @@
     "passive_value": 0,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "DB_play_title_32",
-    "play_title_mission_name": "DB_play_title_mission_name_32",
-    "play_title_mission_desc": "DB_play_title_mission_desc_32",
-    "play_title_passive_desc": "DB_play_title_mission_passive_desc_00"
+    "play_title": "41735",
+    "play_title_mission_name": "41821",
+    "play_title_mission_desc": "41787",
+    "play_title_passive_desc": "41824"
+  },
+  {
+    "id": 34,
+    "category": 34,
+    "passive_type": "skill",
+    "passive_id": 500001,
+    "passive_value": 1.5,
+    "play_title_point": 0,
+    "play_title_icon": "icon_play_title_category_account_power",
+    "play_title": "41737",
+    "play_title_mission_name": "41823",
+    "play_title_mission_desc": "41789",
+    "play_title_passive_desc": "41842"
+  },
+  {
+    "id": 35,
+    "category": 35,
+    "passive_type": "skill",
+    "passive_id": 500021,
+    "passive_value": 2,
+    "play_title_point": 0,
+    "play_title_icon": "icon_play_title_category_account_power",
+    "play_title": "46341",
+    "play_title_mission_name": "41823",
+    "play_title_mission_desc": "41789",
+    "play_title_passive_desc": "41842"
+  },
+  {
+    "id": 36,
+    "category": 36,
+    "passive_type": "skill",
+    "passive_id": 500002,
+    "passive_value": 3,
+    "play_title_point": 0,
+    "play_title_icon": "icon_play_title_category_account_power",
+    "play_title": "41738",
+    "play_title_mission_name": "41823",
+    "play_title_mission_desc": "41789",
+    "play_title_passive_desc": "41842"
+  },
+  {
+    "id": 37,
+    "category": 37,
+    "passive_type": "skill",
+    "passive_id": 500022,
+    "passive_value": 3.5,
+    "play_title_point": 0,
+    "play_title_icon": "icon_play_title_category_account_power",
+    "play_title": "46342",
+    "play_title_mission_name": "41823",
+    "play_title_mission_desc": "41789",
+    "play_title_passive_desc": "41842"
+  },
+  {
+    "id": 38,
+    "category": 38,
+    "passive_type": "skill",
+    "passive_id": 500003,
+    "passive_value": 4.5,
+    "play_title_point": 0,
+    "play_title_icon": "icon_play_title_category_account_power",
+    "play_title": "41739",
+    "play_title_mission_name": "41823",
+    "play_title_mission_desc": "41789",
+    "play_title_passive_desc": "41842"
+  },
+  {
+    "id": 39,
+    "category": 39,
+    "passive_type": "skill",
+    "passive_id": 500023,
+    "passive_value": 5,
+    "play_title_point": 0,
+    "play_title_icon": "icon_play_title_category_account_power",
+    "play_title": "46343",
+    "play_title_mission_name": "41823",
+    "play_title_mission_desc": "41789",
+    "play_title_passive_desc": "41842"
+  },
+  {
+    "id": 40,
+    "category": 40,
+    "passive_type": "skill",
+    "passive_id": 500004,
+    "passive_value": 6,
+    "play_title_point": 0,
+    "play_title_icon": "icon_play_title_category_account_power",
+    "play_title": "41740",
+    "play_title_mission_name": "41823",
+    "play_title_mission_desc": "41789",
+    "play_title_passive_desc": "41842"
   }
 ]

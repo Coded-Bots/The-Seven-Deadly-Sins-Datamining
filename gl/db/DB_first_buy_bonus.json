@@ -4,8 +4,8 @@
     "shop_type": "shop_dia",
     "first_buy_bonus_m_banner": "m_banner_gb_first_buy_bonus_01",
     "first_buy_bonus_s_banner": "S_banner_gb_first_buy_bonus_01",
-    "first_buy_bonus_name": "DB_GB_first_buy_name_01",
-    "first_buy_bonus_desc": "DB_GB_first_buy_desc_01",
+    "first_buy_bonus_name": "40000",
+    "first_buy_bonus_desc": "40001",
     "bonus_item_id_1": 1000019,
     "bonus_item_count_1": 1,
     "contents_type": 10000

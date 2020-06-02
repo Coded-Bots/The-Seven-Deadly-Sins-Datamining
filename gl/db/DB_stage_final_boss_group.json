@@ -3,33 +3,33 @@
     "group_id": 101,
     "group_hero_id_1": 2350402,
     "group_hero_id_2": 0,
-    "group_string": "DB_final_boss_group_title_101",
-    "stage_string": "DB_final_boss_stage_title_101",
+    "group_string": "16995",
+    "stage_string": "10467",
     "info_image_1": "Finalboss_info_101",
     "info_image_2": "",
-    "final_boss_pattern_phase01_desc": "DB_finalboss_phase01_desc_101",
-    "final_boss_pattern_phase02_desc": "DB_finalboss_phase02_desc_101"
+    "final_boss_pattern_phase01_desc": "15162",
+    "final_boss_pattern_phase02_desc": "15165"
   },
   {
     "group_id": 201,
     "group_hero_id_1": 2350102,
     "group_hero_id_2": 0,
-    "group_string": "DB_final_boss_group_title_201",
-    "stage_string": "DB_final_boss_stage_title_201",
+    "group_string": "10465",
+    "stage_string": "10470",
     "info_image_1": "Finalboss_info_102",
     "info_image_2": "",
-    "final_boss_pattern_phase01_desc": "DB_finalboss_phase01_desc_201",
-    "final_boss_pattern_phase02_desc": "DB_finalboss_phase02_desc_201"
+    "final_boss_pattern_phase01_desc": "15163",
+    "final_boss_pattern_phase02_desc": "15166"
   },
   {
     "group_id": 301,
     "group_hero_id_1": 2350302,
     "group_hero_id_2": 0,
-    "group_string": "DB_final_boss_group_title_301",
-    "stage_string": "DB_final_boss_stage_title_301",
+    "group_string": "10466",
+    "stage_string": "10471",
     "info_image_1": "Finalboss_info_103",
     "info_image_2": "",
-    "final_boss_pattern_phase01_desc": "DB_finalboss_phase01_desc_301",
-    "final_boss_pattern_phase02_desc": "DB_finalboss_phase02_desc_301"
+    "final_boss_pattern_phase01_desc": "15164",
+    "final_boss_pattern_phase02_desc": "15167"
   }
 ]

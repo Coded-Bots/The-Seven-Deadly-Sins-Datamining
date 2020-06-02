@@ -2,12 +2,12 @@
   {
     "id": 1,
     "winning_type": "win",
-    "battle_point_min": -500,
-    "battle_point_max": -476,
+    "battle_point_min": -3000,
+    "battle_point_max": -2001,
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 4,
+    "challenger_battle_point": 10,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
     "challenger_win_season_point": 1
@@ -15,12 +15,12 @@
   {
     "id": 2,
     "winning_type": "win",
-    "battle_point_min": -475,
-    "battle_point_max": -451,
+    "battle_point_min": -2000,
+    "battle_point_max": -1001,
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 4,
+    "challenger_battle_point": 11,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
     "challenger_win_season_point": 1
@@ -28,12 +28,12 @@
   {
     "id": 3,
     "winning_type": "win",
-    "battle_point_min": -450,
-    "battle_point_max": -426,
+    "battle_point_min": -1000,
+    "battle_point_max": -501,
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 5,
+    "challenger_battle_point": 12,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
     "challenger_win_season_point": 1
@@ -41,15 +41,15 @@
   {
     "id": 4,
     "winning_type": "win",
-    "battle_point_min": -425,
+    "battle_point_min": -500,
     "battle_point_max": -401,
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 5,
+    "challenger_battle_point": 13,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 2
+    "challenger_win_season_point": 1
   },
   {
     "id": 5,
@@ -59,10 +59,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 6,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 2
+    "challenger_win_season_point": 1
   },
   {
     "id": 6,
@@ -72,10 +72,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 6,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 2
+    "challenger_win_season_point": 1
   },
   {
     "id": 7,
@@ -85,10 +85,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 7,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 8,
@@ -98,10 +98,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 7,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 9,
@@ -111,10 +111,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 8,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 10,
@@ -124,10 +124,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 8,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 11,
@@ -137,10 +137,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 10,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 12,
@@ -150,10 +150,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 10,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 4
+    "challenger_win_season_point": 1
   },
   {
     "id": 13,
@@ -163,10 +163,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 12,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 4
+    "challenger_win_season_point": 1
   },
   {
     "id": 14,
@@ -176,10 +176,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 12,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 4
+    "challenger_win_season_point": 1
   },
   {
     "id": 15,
@@ -189,10 +189,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 14,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 4
+    "challenger_win_season_point": 1
   },
   {
     "id": 16,
@@ -202,10 +202,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 14,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
     "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
     "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 19,
@@ -241,10 +241,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 16,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 20,
@@ -254,10 +254,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 16,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 21,
@@ -267,10 +267,10 @@
     "add_battle_point": 15,
     "bronze_battle_point": 15,
     "silver_battle_point": 15,
-    "challenger_battle_point": 17,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 15,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 22,
@@ -280,10 +280,10 @@
     "add_battle_point": 16,
     "bronze_battle_point": 16,
     "silver_battle_point": 16,
-    "challenger_battle_point": 18,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 16,
     "top100_def_battle_point": 16,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 23,
@@ -293,10 +293,10 @@
     "add_battle_point": 17,
     "bronze_battle_point": 17,
     "silver_battle_point": 17,
-    "challenger_battle_point": 20,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 17,
     "top100_def_battle_point": 17,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 24,
@@ -306,10 +306,10 @@
     "add_battle_point": 18,
     "bronze_battle_point": 18,
     "silver_battle_point": 18,
-    "challenger_battle_point": 21,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 18,
     "top100_def_battle_point": 18,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 25,
@@ -319,10 +319,10 @@
     "add_battle_point": 19,
     "bronze_battle_point": 19,
     "silver_battle_point": 19,
-    "challenger_battle_point": 22,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 19,
     "top100_def_battle_point": 19,
-    "challenger_win_season_point": 5
+    "challenger_win_season_point": 1
   },
   {
     "id": 26,
@@ -332,10 +332,10 @@
     "add_battle_point": 20,
     "bronze_battle_point": 20,
     "silver_battle_point": 20,
-    "challenger_battle_point": 23,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 20,
     "top100_def_battle_point": 20,
-    "challenger_win_season_point": 4
+    "challenger_win_season_point": 1
   },
   {
     "id": 27,
@@ -345,10 +345,10 @@
     "add_battle_point": 21,
     "bronze_battle_point": 21,
     "silver_battle_point": 21,
-    "challenger_battle_point": 24,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 21,
     "top100_def_battle_point": 21,
-    "challenger_win_season_point": 4
+    "challenger_win_season_point": 1
   },
   {
     "id": 28,
@@ -358,10 +358,10 @@
     "add_battle_point": 22,
     "bronze_battle_point": 22,
     "silver_battle_point": 22,
-    "challenger_battle_point": 25,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 22,
     "top100_def_battle_point": 22,
-    "challenger_win_season_point": 4
+    "challenger_win_season_point": 1
   },
   {
     "id": 29,
@@ -371,10 +371,10 @@
     "add_battle_point": 23,
     "bronze_battle_point": 23,
     "silver_battle_point": 23,
-    "challenger_battle_point": 26,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 23,
     "top100_def_battle_point": 23,
-    "challenger_win_season_point": 4
+    "challenger_win_season_point": 1
   },
   {
     "id": 30,
@@ -384,10 +384,10 @@
     "add_battle_point": 24,
     "bronze_battle_point": 24,
     "silver_battle_point": 24,
-    "challenger_battle_point": 28,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 24,
     "top100_def_battle_point": 24,
-    "challenger_win_season_point": 4
+    "challenger_win_season_point": 1
   },
   {
     "id": 31,
@@ -397,10 +397,10 @@
     "add_battle_point": 25,
     "bronze_battle_point": 25,
     "silver_battle_point": 25,
-    "challenger_battle_point": 30,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 25,
     "top100_def_battle_point": 25,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 32,
@@ -410,10 +410,10 @@
     "add_battle_point": 26,
     "bronze_battle_point": 26,
     "silver_battle_point": 26,
-    "challenger_battle_point": 32,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 26,
     "top100_def_battle_point": 26,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 33,
@@ -423,10 +423,10 @@
     "add_battle_point": 27,
     "bronze_battle_point": 27,
     "silver_battle_point": 27,
-    "challenger_battle_point": 34,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 27,
     "top100_def_battle_point": 27,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 34,
@@ -436,10 +436,10 @@
     "add_battle_point": 28,
     "bronze_battle_point": 28,
     "silver_battle_point": 28,
-    "challenger_battle_point": 36,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 28,
     "top100_def_battle_point": 28,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 35,
@@ -449,10 +449,10 @@
     "add_battle_point": 29,
     "bronze_battle_point": 29,
     "silver_battle_point": 29,
-    "challenger_battle_point": 38,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 29,
     "top100_def_battle_point": 29,
-    "challenger_win_season_point": 3
+    "challenger_win_season_point": 1
   },
   {
     "id": 36,
@@ -462,59 +462,59 @@
     "add_battle_point": 30,
     "bronze_battle_point": 30,
     "silver_battle_point": 30,
-    "challenger_battle_point": 40,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 30,
     "top100_def_battle_point": 30,
-    "challenger_win_season_point": 2
+    "challenger_win_season_point": 1
   },
   {
     "id": 37,
     "winning_type": "win",
     "battle_point_min": 401,
-    "battle_point_max": 425,
+    "battle_point_max": 500,
     "add_battle_point": 31,
     "bronze_battle_point": 31,
     "silver_battle_point": 31,
-    "challenger_battle_point": 42,
+    "challenger_battle_point": 17,
     "top100_atk_battle_point": 31,
     "top100_def_battle_point": 31,
-    "challenger_win_season_point": 2
+    "challenger_win_season_point": 1
   },
   {
     "id": 38,
     "winning_type": "win",
-    "battle_point_min": 426,
-    "battle_point_max": 450,
+    "battle_point_min": 501,
+    "battle_point_max": 1000,
     "add_battle_point": 32,
     "bronze_battle_point": 32,
     "silver_battle_point": 32,
-    "challenger_battle_point": 44,
+    "challenger_battle_point": 18,
     "top100_atk_battle_point": 32,
     "top100_def_battle_point": 32,
-    "challenger_win_season_point": 2
+    "challenger_win_season_point": 1
   },
   {
     "id": 39,
     "winning_type": "win",
-    "battle_point_min": 451,
-    "battle_point_max": 475,
+    "battle_point_min": 1001,
+    "battle_point_max": 2000,
     "add_battle_point": 33,
     "bronze_battle_point": 33,
     "silver_battle_point": 33,
-    "challenger_battle_point": 46,
+    "challenger_battle_point": 19,
     "top100_atk_battle_point": 33,
     "top100_def_battle_point": 33,
-    "challenger_win_season_point": 2
+    "challenger_win_season_point": 1
   },
   {
     "id": 40,
     "winning_type": "win",
-    "battle_point_min": 476,
-    "battle_point_max": 500,
+    "battle_point_min": 2001,
+    "battle_point_max": 3000,
     "add_battle_point": 34,
     "bronze_battle_point": 34,
     "silver_battle_point": 34,
-    "challenger_battle_point": 48,
+    "challenger_battle_point": 20,
     "top100_atk_battle_point": 34,
     "top100_def_battle_point": 34,
     "challenger_win_season_point": 1
@@ -522,12 +522,12 @@
   {
     "id": 41,
     "winning_type": "lose",
-    "battle_point_min": -500,
-    "battle_point_max": -476,
+    "battle_point_min": -3000,
+    "battle_point_max": -2001,
     "add_battle_point": 11,
     "bronze_battle_point": 1,
     "silver_battle_point": 4,
-    "challenger_battle_point": 4,
+    "challenger_battle_point": 10,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -535,12 +535,12 @@
   {
     "id": 42,
     "winning_type": "lose",
-    "battle_point_min": -475,
-    "battle_point_max": -451,
+    "battle_point_min": -2000,
+    "battle_point_max": -1001,
     "add_battle_point": 11,
     "bronze_battle_point": 1,
     "silver_battle_point": 4,
-    "challenger_battle_point": 4,
+    "challenger_battle_point": 11,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -548,12 +548,12 @@
   {
     "id": 43,
     "winning_type": "lose",
-    "battle_point_min": -450,
-    "battle_point_max": -426,
+    "battle_point_min": -1000,
+    "battle_point_max": -501,
     "add_battle_point": 11,
     "bronze_battle_point": 1,
     "silver_battle_point": 4,
-    "challenger_battle_point": 5,
+    "challenger_battle_point": 12,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -561,12 +561,12 @@
   {
     "id": 44,
     "winning_type": "lose",
-    "battle_point_min": -425,
+    "battle_point_min": -500,
     "battle_point_max": -401,
     "add_battle_point": 12,
     "bronze_battle_point": 2,
     "silver_battle_point": 5,
-    "challenger_battle_point": 5,
+    "challenger_battle_point": 13,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -579,7 +579,7 @@
     "add_battle_point": 12,
     "bronze_battle_point": 2,
     "silver_battle_point": 5,
-    "challenger_battle_point": 6,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -592,7 +592,7 @@
     "add_battle_point": 12,
     "bronze_battle_point": 2,
     "silver_battle_point": 5,
-    "challenger_battle_point": 6,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -605,7 +605,7 @@
     "add_battle_point": 12,
     "bronze_battle_point": 2,
     "silver_battle_point": 5,
-    "challenger_battle_point": 7,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -618,7 +618,7 @@
     "add_battle_point": 12,
     "bronze_battle_point": 2,
     "silver_battle_point": 5,
-    "challenger_battle_point": 7,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -631,7 +631,7 @@
     "add_battle_point": 13,
     "bronze_battle_point": 3,
     "silver_battle_point": 6,
-    "challenger_battle_point": 8,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -644,7 +644,7 @@
     "add_battle_point": 13,
     "bronze_battle_point": 3,
     "silver_battle_point": 6,
-    "challenger_battle_point": 8,
+    "challenger_battle_point": 14,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -657,7 +657,7 @@
     "add_battle_point": 13,
     "bronze_battle_point": 3,
     "silver_battle_point": 6,
-    "challenger_battle_point": 10,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -670,7 +670,7 @@
     "add_battle_point": 13,
     "bronze_battle_point": 3,
     "silver_battle_point": 6,
-    "challenger_battle_point": 10,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -683,7 +683,7 @@
     "add_battle_point": 13,
     "bronze_battle_point": 3,
     "silver_battle_point": 6,
-    "challenger_battle_point": 12,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -696,7 +696,7 @@
     "add_battle_point": 14,
     "bronze_battle_point": 4,
     "silver_battle_point": 7,
-    "challenger_battle_point": 12,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -709,7 +709,7 @@
     "add_battle_point": 14,
     "bronze_battle_point": 4,
     "silver_battle_point": 7,
-    "challenger_battle_point": 14,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -722,7 +722,7 @@
     "add_battle_point": 14,
     "bronze_battle_point": 4,
     "silver_battle_point": 7,
-    "challenger_battle_point": 14,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -761,7 +761,7 @@
     "add_battle_point": 15,
     "bronze_battle_point": 5,
     "silver_battle_point": 8,
-    "challenger_battle_point": 16,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -774,7 +774,7 @@
     "add_battle_point": 15,
     "bronze_battle_point": 5,
     "silver_battle_point": 8,
-    "challenger_battle_point": 16,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -787,7 +787,7 @@
     "add_battle_point": 15,
     "bronze_battle_point": 5,
     "silver_battle_point": 8,
-    "challenger_battle_point": 17,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 15,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -800,7 +800,7 @@
     "add_battle_point": 16,
     "bronze_battle_point": 6,
     "silver_battle_point": 8,
-    "challenger_battle_point": 18,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 16,
     "top100_def_battle_point": 7,
     "challenger_win_season_point": 0
@@ -813,7 +813,7 @@
     "add_battle_point": 17,
     "bronze_battle_point": 6,
     "silver_battle_point": 9,
-    "challenger_battle_point": 20,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 17,
     "top100_def_battle_point": 8,
     "challenger_win_season_point": 0
@@ -826,7 +826,7 @@
     "add_battle_point": 18,
     "bronze_battle_point": 6,
     "silver_battle_point": 9,
-    "challenger_battle_point": 21,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 18,
     "top100_def_battle_point": 8,
     "challenger_win_season_point": 0
@@ -839,7 +839,7 @@
     "add_battle_point": 19,
     "bronze_battle_point": 7,
     "silver_battle_point": 10,
-    "challenger_battle_point": 22,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 19,
     "top100_def_battle_point": 8,
     "challenger_win_season_point": 0
@@ -852,7 +852,7 @@
     "add_battle_point": 20,
     "bronze_battle_point": 7,
     "silver_battle_point": 10,
-    "challenger_battle_point": 23,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 20,
     "top100_def_battle_point": 9,
     "challenger_win_season_point": 0
@@ -865,7 +865,7 @@
     "add_battle_point": 21,
     "bronze_battle_point": 7,
     "silver_battle_point": 11,
-    "challenger_battle_point": 24,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 21,
     "top100_def_battle_point": 9,
     "challenger_win_season_point": 0
@@ -878,7 +878,7 @@
     "add_battle_point": 22,
     "bronze_battle_point": 8,
     "silver_battle_point": 11,
-    "challenger_battle_point": 25,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 22,
     "top100_def_battle_point": 9,
     "challenger_win_season_point": 0
@@ -891,7 +891,7 @@
     "add_battle_point": 23,
     "bronze_battle_point": 8,
     "silver_battle_point": 12,
-    "challenger_battle_point": 26,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 23,
     "top100_def_battle_point": 10,
     "challenger_win_season_point": 0
@@ -904,7 +904,7 @@
     "add_battle_point": 24,
     "bronze_battle_point": 8,
     "silver_battle_point": 12,
-    "challenger_battle_point": 28,
+    "challenger_battle_point": 15,
     "top100_atk_battle_point": 24,
     "top100_def_battle_point": 10,
     "challenger_win_season_point": 0
@@ -917,7 +917,7 @@
     "add_battle_point": 25,
     "bronze_battle_point": 9,
     "silver_battle_point": 13,
-    "challenger_battle_point": 30,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 25,
     "top100_def_battle_point": 10,
     "challenger_win_season_point": 0
@@ -930,7 +930,7 @@
     "add_battle_point": 26,
     "bronze_battle_point": 9,
     "silver_battle_point": 13,
-    "challenger_battle_point": 32,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 26,
     "top100_def_battle_point": 10,
     "challenger_win_season_point": 0
@@ -943,7 +943,7 @@
     "add_battle_point": 27,
     "bronze_battle_point": 9,
     "silver_battle_point": 14,
-    "challenger_battle_point": 34,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 27,
     "top100_def_battle_point": 11,
     "challenger_win_season_point": 0
@@ -956,7 +956,7 @@
     "add_battle_point": 28,
     "bronze_battle_point": 10,
     "silver_battle_point": 14,
-    "challenger_battle_point": 36,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 28,
     "top100_def_battle_point": 11,
     "challenger_win_season_point": 0
@@ -969,7 +969,7 @@
     "add_battle_point": 29,
     "bronze_battle_point": 10,
     "silver_battle_point": 15,
-    "challenger_battle_point": 38,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 29,
     "top100_def_battle_point": 11,
     "challenger_win_season_point": 0
@@ -982,7 +982,7 @@
     "add_battle_point": 30,
     "bronze_battle_point": 10,
     "silver_battle_point": 15,
-    "challenger_battle_point": 40,
+    "challenger_battle_point": 16,
     "top100_atk_battle_point": 30,
     "top100_def_battle_point": 11,
     "challenger_win_season_point": 0
@@ -991,11 +991,11 @@
     "id": 77,
     "winning_type": "lose",
     "battle_point_min": 401,
-    "battle_point_max": 425,
+    "battle_point_max": 500,
     "add_battle_point": 31,
     "bronze_battle_point": 11,
     "silver_battle_point": 16,
-    "challenger_battle_point": 42,
+    "challenger_battle_point": 17,
     "top100_atk_battle_point": 31,
     "top100_def_battle_point": 12,
     "challenger_win_season_point": 0
@@ -1003,12 +1003,12 @@
   {
     "id": 78,
     "winning_type": "lose",
-    "battle_point_min": 426,
-    "battle_point_max": 450,
+    "battle_point_min": 501,
+    "battle_point_max": 1000,
     "add_battle_point": 32,
     "bronze_battle_point": 11,
     "silver_battle_point": 16,
-    "challenger_battle_point": 44,
+    "challenger_battle_point": 18,
     "top100_atk_battle_point": 32,
     "top100_def_battle_point": 12,
     "challenger_win_season_point": 0
@@ -1016,12 +1016,12 @@
   {
     "id": 79,
     "winning_type": "lose",
-    "battle_point_min": 451,
-    "battle_point_max": 475,
+    "battle_point_min": 1001,
+    "battle_point_max": 2000,
     "add_battle_point": 33,
     "bronze_battle_point": 11,
     "silver_battle_point": 17,
-    "challenger_battle_point": 46,
+    "challenger_battle_point": 19,
     "top100_atk_battle_point": 33,
     "top100_def_battle_point": 12,
     "challenger_win_season_point": 0
@@ -1029,12 +1029,12 @@
   {
     "id": 80,
     "winning_type": "lose",
-    "battle_point_min": 476,
-    "battle_point_max": 500,
+    "battle_point_min": 2001,
+    "battle_point_max": 3000,
     "add_battle_point": 34,
     "bronze_battle_point": 12,
     "silver_battle_point": 17,
-    "challenger_battle_point": 48,
+    "challenger_battle_point": 20,
     "top100_atk_battle_point": 34,
     "top100_def_battle_point": 12,
     "challenger_win_season_point": 0

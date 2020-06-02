@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title_local": "UI_guild_attendance_label_03",
+    "title_local": "1669",
     "attendance_count": 5,
     "reward_item_id_1": 900901,
     "reward_item_count_1": 32,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "title_local": "UI_guild_attendance_label_03",
+    "title_local": "1669",
     "attendance_count": 10,
     "reward_item_id_1": 900902,
     "reward_item_count_1": 16,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "title_local": "UI_guild_attendance_label_03",
+    "title_local": "1669",
     "attendance_count": 15,
     "reward_item_id_1": 900903,
     "reward_item_count_1": 8,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "title_local": "UI_guild_attendance_label_03",
+    "title_local": "1669",
     "attendance_count": 20,
     "reward_item_id_1": 900904,
     "reward_item_count_1": 4,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "title_local": "UI_guild_attendance_label_03",
+    "title_local": "1669",
     "attendance_count": 25,
     "reward_item_id_1": 900905,
     "reward_item_count_1": 2,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "title_local": "UI_guild_attendance_label_04",
+    "title_local": "1670",
     "attendance_count": 30,
     "reward_item_id_1": 900906,
     "reward_item_count_1": 1,

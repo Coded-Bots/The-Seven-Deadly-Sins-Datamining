@@ -1708,5 +1708,41 @@
     "contents_type": 10023,
     "goods_name": "",
     "goods_explain": ""
+  },
+  {
+    "id": 622,
+    "item_id": 500024,
+    "item_count": 2,
+    "netmarble_reward_id": "gb_AutoClear_2",
+    "contents_type": 10021,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 623,
+    "item_id": 500024,
+    "item_count": 5,
+    "netmarble_reward_id": "gb_AutoClear_5",
+    "contents_type": 10021,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 624,
+    "item_id": 500024,
+    "item_count": 10,
+    "netmarble_reward_id": "gb_AutoClear_10",
+    "contents_type": 10021,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 625,
+    "item_id": 500024,
+    "item_count": 20,
+    "netmarble_reward_id": "gb_AutoClear_20",
+    "contents_type": 10021,
+    "goods_name": "",
+    "goods_explain": ""
   }
 ]

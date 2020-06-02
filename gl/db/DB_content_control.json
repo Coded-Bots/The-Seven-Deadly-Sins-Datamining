@@ -98,5 +98,25 @@
     "id": 20,
     "contents": "wide_mode",
     "value_int_1": 1
+  },
+  {
+    "id": 21,
+    "contents": "clear_ticket",
+    "value_int_1": 1
+  },
+  {
+    "id": 22,
+    "contents": "pvp_smash",
+    "value_int_1": 0
+  },
+  {
+    "id": 23,
+    "contents": "guild_war",
+    "value_int_1": 0
+  },
+  {
+    "id": 24,
+    "contents": "patrol",
+    "value_int_1": 1
   }
 ]

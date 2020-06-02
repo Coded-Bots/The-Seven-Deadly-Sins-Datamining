@@ -1,253 +1,274 @@
 [
   {
     "id": 1,
-    "loading_tip_localize": "UI_loading_tip_15",
+    "loading_tip_localize": "2126",
     "group_id": 1,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 2,
-    "loading_tip_localize": "UI_loading_tip_47",
+    "loading_tip_localize": "2139",
     "group_id": 1,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 3,
-    "loading_tip_localize": "UI_loading_tip_17",
+    "loading_tip_localize": "2127",
     "group_id": 1,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 4,
-    "loading_tip_localize": "UI_loading_tip_06",
+    "loading_tip_localize": "2121",
     "group_id": 1,
     "open_type": "user_rank",
     "open_value": 10
   },
   {
     "id": 5,
-    "loading_tip_localize": "UI_loading_tip_09",
+    "loading_tip_localize": "2122",
     "group_id": 1,
     "open_type": "quest_end",
     "open_value": 15003
   },
   {
     "id": 6,
-    "loading_tip_localize": "UI_loading_tip_2",
+    "loading_tip_localize": "2129",
     "group_id": 1,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 7,
-    "loading_tip_localize": "UI_loading_tip_3",
+    "loading_tip_localize": "2133",
     "group_id": 1,
     "open_type": "stage",
     "open_value": 500103
   },
   {
     "id": 8,
-    "loading_tip_localize": "UI_loading_tip_10",
+    "loading_tip_localize": "2124",
     "group_id": 1,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 9,
-    "loading_tip_localize": "UI_loading_tip_37",
+    "loading_tip_localize": "2135",
     "group_id": 2,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 10,
-    "loading_tip_localize": "UI_loading_tip_38",
+    "loading_tip_localize": "2136",
     "group_id": 2,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 11,
-    "loading_tip_localize": "UI_loading_tip_39",
+    "loading_tip_localize": "2137",
     "group_id": 2,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 12,
-    "loading_tip_localize": "UI_loading_tip_41",
+    "loading_tip_localize": "2138",
     "group_id": 2,
     "open_type": "quest_end",
     "open_value": 11009
   },
   {
     "id": 13,
-    "loading_tip_localize": "UI_loading_tip_25",
+    "loading_tip_localize": "2130",
     "group_id": 2,
     "open_type": "quest_end",
     "open_value": 11008
   },
   {
     "id": 14,
-    "loading_tip_localize": "UI_loading_tip_18",
+    "loading_tip_localize": "2128",
     "group_id": 2,
     "open_type": "stage",
     "open_value": 300441
   },
   {
     "id": 15,
-    "loading_tip_localize": "UI_loading_tip_26",
+    "loading_tip_localize": "2131",
     "group_id": 3,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 16,
-    "loading_tip_localize": "UI_loading_tip_27",
+    "loading_tip_localize": "2132",
     "group_id": 3,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 17,
-    "loading_tip_localize": "UI_loading_tip_11",
+    "loading_tip_localize": "2125",
     "group_id": 3,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 18,
-    "loading_tip_localize": "UI_loading_tip_30",
+    "loading_tip_localize": "2134",
     "group_id": 4,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 19,
-    "loading_tip_localize": "UI_loading_tip_1",
+    "loading_tip_localize": "2123",
     "group_id": 4,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 20,
-    "loading_tip_localize": "UI_loading_tip_15",
+    "loading_tip_localize": "2126",
     "group_id": 5,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 21,
-    "loading_tip_localize": "UI_loading_tip_47",
+    "loading_tip_localize": "2139",
     "group_id": 5,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 22,
-    "loading_tip_localize": "UI_loading_tip_17",
+    "loading_tip_localize": "2127",
     "group_id": 5,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 23,
-    "loading_tip_localize": "UI_loading_tip_06",
+    "loading_tip_localize": "2121",
     "group_id": 5,
     "open_type": "user_rank",
     "open_value": 10
   },
   {
     "id": 24,
-    "loading_tip_localize": "UI_loading_tip_09",
+    "loading_tip_localize": "2122",
     "group_id": 5,
     "open_type": "quest_end",
     "open_value": 15003
   },
   {
     "id": 25,
-    "loading_tip_localize": "UI_loading_tip_2",
+    "loading_tip_localize": "2129",
     "group_id": 5,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 26,
-    "loading_tip_localize": "UI_loading_tip_3",
+    "loading_tip_localize": "2133",
     "group_id": 5,
     "open_type": "stage",
     "open_value": 500103
   },
   {
     "id": 27,
-    "loading_tip_localize": "UI_loading_tip_04",
+    "loading_tip_localize": "2120",
     "group_id": 5,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 28,
-    "loading_tip_localize": "UI_loading_tip_50",
+    "loading_tip_localize": "2140",
     "group_id": 6,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 29,
-    "loading_tip_localize": "UI_loading_tip_51",
+    "loading_tip_localize": "2141",
     "group_id": 6,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 30,
-    "loading_tip_localize": "UI_loading_tip_52",
+    "loading_tip_localize": "2142",
     "group_id": 6,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 31,
-    "loading_tip_localize": "UI_loading_tip_60",
+    "loading_tip_localize": "5302",
     "group_id": 7,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 32,
-    "loading_tip_localize": "UI_loading_tip_61",
+    "loading_tip_localize": "5304",
     "group_id": 7,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 33,
-    "loading_tip_localize": "UI_loading_tip_62",
+    "loading_tip_localize": "5304",
     "group_id": 7,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 34,
-    "loading_tip_localize": "UI_loading_tip_70",
+    "loading_tip_localize": "5305",
     "group_id": 8,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 35,
-    "loading_tip_localize": "UI_loading_tip_15",
+    "loading_tip_localize": "2126",
     "group_id": 8,
     "open_type": "",
     "open_value": 0
   },
   {
     "id": 36,
-    "loading_tip_localize": "UI_loading_tip_17",
+    "loading_tip_localize": "2127",
     "group_id": 8,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 37,
+    "loading_tip_localize": "6106",
+    "group_id": 9,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 38,
+    "loading_tip_localize": "6107",
+    "group_id": 9,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 39,
+    "loading_tip_localize": "6108",
+    "group_id": 9,
     "open_type": "",
     "open_value": 0
   }

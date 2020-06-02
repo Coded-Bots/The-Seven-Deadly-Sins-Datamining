@@ -7,7 +7,7 @@
     "rating": 4000,
     "realtime_rate": 100,
     "rating_icon": "icon_pvp_rating_01",
-    "rating_name": "UI_pvp_level_01"
+    "rating_name": "2739"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "rating": 3900,
     "realtime_rate": 95,
     "rating_icon": "icon_pvp_rating_02",
-    "rating_name": "UI_pvp_level_02"
+    "rating_name": "2740"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "rating": 3800,
     "realtime_rate": 90,
     "rating_icon": "icon_pvp_rating_03",
-    "rating_name": "UI_pvp_level_03"
+    "rating_name": "2741"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "rating": 3700,
     "realtime_rate": 85,
     "rating_icon": "icon_pvp_rating_04",
-    "rating_name": "UI_pvp_level_04"
+    "rating_name": "2742"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "rating": 3600,
     "realtime_rate": 80,
     "rating_icon": "icon_pvp_rating_05",
-    "rating_name": "UI_pvp_level_05"
+    "rating_name": "2743"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "rating": 3500,
     "realtime_rate": 75,
     "rating_icon": "icon_pvp_rating_06",
-    "rating_name": "UI_pvp_level_06"
+    "rating_name": "2744"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "rating": 3400,
     "realtime_rate": 70,
     "rating_icon": "icon_pvp_rating_07",
-    "rating_name": "UI_pvp_level_07"
+    "rating_name": "2745"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "rating": 3300,
     "realtime_rate": 65,
     "rating_icon": "icon_pvp_rating_08",
-    "rating_name": "UI_pvp_level_08"
+    "rating_name": "2746"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "rating": 3200,
     "realtime_rate": 60,
     "rating_icon": "icon_pvp_rating_09",
-    "rating_name": "UI_pvp_level_09"
+    "rating_name": "2747"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "rating": 3100,
     "realtime_rate": 55,
     "rating_icon": "icon_pvp_rating_10",
-    "rating_name": "UI_pvp_level_10"
+    "rating_name": "2748"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "rating": 3000,
     "realtime_rate": 50,
     "rating_icon": "icon_pvp_rating_11",
-    "rating_name": "UI_pvp_level_11"
+    "rating_name": "2749"
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "rating": 2900,
     "realtime_rate": 45,
     "rating_icon": "icon_pvp_rating_12",
-    "rating_name": "UI_pvp_level_12"
+    "rating_name": "2750"
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "rating": 2800,
     "realtime_rate": 40,
     "rating_icon": "icon_pvp_rating_13",
-    "rating_name": "UI_pvp_level_13"
+    "rating_name": "2751"
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "rating": 2700,
     "realtime_rate": 35,
     "rating_icon": "icon_pvp_rating_14",
-    "rating_name": "UI_pvp_level_14"
+    "rating_name": "2752"
   },
   {
     "id": 15,
@@ -147,7 +147,7 @@
     "rating": 2600,
     "realtime_rate": 30,
     "rating_icon": "icon_pvp_rating_15",
-    "rating_name": "UI_pvp_level_15"
+    "rating_name": "2753"
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "rating": 2500,
     "realtime_rate": 25,
     "rating_icon": "icon_pvp_rating_16",
-    "rating_name": "UI_pvp_level_16"
+    "rating_name": "2754"
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "rating": 2400,
     "realtime_rate": 20,
     "rating_icon": "icon_pvp_rating_17",
-    "rating_name": "UI_pvp_level_17"
+    "rating_name": "2755"
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "rating": 2300,
     "realtime_rate": 15,
     "rating_icon": "icon_pvp_rating_18",
-    "rating_name": "UI_pvp_level_18"
+    "rating_name": "2756"
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@
     "rating": 2200,
     "realtime_rate": 10,
     "rating_icon": "icon_pvp_rating_19",
-    "rating_name": "UI_pvp_level_19"
+    "rating_name": "2757"
   },
   {
     "id": 20,
@@ -197,7 +197,7 @@
     "rating": 2100,
     "realtime_rate": 5,
     "rating_icon": "icon_pvp_rating_20",
-    "rating_name": "UI_pvp_level_20"
+    "rating_name": "2758"
   },
   {
     "id": 21,
@@ -207,7 +207,7 @@
     "rating": 2000,
     "realtime_rate": 0,
     "rating_icon": "icon_pvp_rating_21",
-    "rating_name": "UI_pvp_level_21"
+    "rating_name": "2759"
   },
   {
     "id": 22,
@@ -217,7 +217,7 @@
     "rating": 3900,
     "realtime_rate": 100,
     "rating_icon": "icon_pvp_rating_02",
-    "rating_name": "UI_pvp_level_02"
+    "rating_name": "2740"
   },
   {
     "id": 23,
@@ -227,7 +227,7 @@
     "rating": 3800,
     "realtime_rate": 100,
     "rating_icon": "icon_pvp_rating_03",
-    "rating_name": "UI_pvp_level_03"
+    "rating_name": "2741"
   },
   {
     "id": 24,
@@ -237,7 +237,7 @@
     "rating": 3700,
     "realtime_rate": 100,
     "rating_icon": "icon_pvp_rating_04",
-    "rating_name": "UI_pvp_level_04"
+    "rating_name": "2742"
   },
   {
     "id": 25,
@@ -247,7 +247,7 @@
     "rating": 3600,
     "realtime_rate": 100,
     "rating_icon": "icon_pvp_rating_05",
-    "rating_name": "UI_pvp_level_05"
+    "rating_name": "2743"
   },
   {
     "id": 26,
@@ -257,7 +257,7 @@
     "rating": 3500,
     "realtime_rate": 95,
     "rating_icon": "icon_pvp_rating_06",
-    "rating_name": "UI_pvp_level_06"
+    "rating_name": "2744"
   },
   {
     "id": 27,
@@ -267,7 +267,7 @@
     "rating": 3400,
     "realtime_rate": 95,
     "rating_icon": "icon_pvp_rating_07",
-    "rating_name": "UI_pvp_level_07"
+    "rating_name": "2745"
   },
   {
     "id": 28,
@@ -277,7 +277,7 @@
     "rating": 3300,
     "realtime_rate": 95,
     "rating_icon": "icon_pvp_rating_08",
-    "rating_name": "UI_pvp_level_08"
+    "rating_name": "2746"
   },
   {
     "id": 29,
@@ -287,7 +287,7 @@
     "rating": 3200,
     "realtime_rate": 90,
     "rating_icon": "icon_pvp_rating_09",
-    "rating_name": "UI_pvp_level_09"
+    "rating_name": "2747"
   },
   {
     "id": 30,
@@ -297,7 +297,7 @@
     "rating": 3100,
     "realtime_rate": 85,
     "rating_icon": "icon_pvp_rating_10",
-    "rating_name": "UI_pvp_level_10"
+    "rating_name": "2748"
   },
   {
     "id": 31,
@@ -307,7 +307,7 @@
     "rating": 3000,
     "realtime_rate": 80,
     "rating_icon": "icon_pvp_rating_11",
-    "rating_name": "UI_pvp_level_11"
+    "rating_name": "2749"
   },
   {
     "id": 32,
@@ -317,7 +317,7 @@
     "rating": 2900,
     "realtime_rate": 75,
     "rating_icon": "icon_pvp_rating_12",
-    "rating_name": "UI_pvp_level_12"
+    "rating_name": "2750"
   },
   {
     "id": 33,
@@ -327,7 +327,7 @@
     "rating": 2800,
     "realtime_rate": 70,
     "rating_icon": "icon_pvp_rating_13",
-    "rating_name": "UI_pvp_level_13"
+    "rating_name": "2751"
   },
   {
     "id": 34,
@@ -337,7 +337,7 @@
     "rating": 2700,
     "realtime_rate": 65,
     "rating_icon": "icon_pvp_rating_14",
-    "rating_name": "UI_pvp_level_14"
+    "rating_name": "2752"
   },
   {
     "id": 35,
@@ -347,7 +347,7 @@
     "rating": 2600,
     "realtime_rate": 60,
     "rating_icon": "icon_pvp_rating_15",
-    "rating_name": "UI_pvp_level_15"
+    "rating_name": "2753"
   },
   {
     "id": 36,
@@ -357,7 +357,7 @@
     "rating": 2500,
     "realtime_rate": 55,
     "rating_icon": "icon_pvp_rating_16",
-    "rating_name": "UI_pvp_level_16"
+    "rating_name": "2754"
   },
   {
     "id": 37,
@@ -367,7 +367,7 @@
     "rating": 2400,
     "realtime_rate": 50,
     "rating_icon": "icon_pvp_rating_17",
-    "rating_name": "UI_pvp_level_17"
+    "rating_name": "2755"
   },
   {
     "id": 38,
@@ -377,7 +377,7 @@
     "rating": 2300,
     "realtime_rate": 45,
     "rating_icon": "icon_pvp_rating_18",
-    "rating_name": "UI_pvp_level_18"
+    "rating_name": "2756"
   },
   {
     "id": 39,
@@ -387,7 +387,7 @@
     "rating": 2200,
     "realtime_rate": 40,
     "rating_icon": "icon_pvp_rating_19",
-    "rating_name": "UI_pvp_level_19"
+    "rating_name": "2757"
   },
   {
     "id": 40,
@@ -397,7 +397,7 @@
     "rating": 2100,
     "realtime_rate": 35,
     "rating_icon": "icon_pvp_rating_20",
-    "rating_name": "UI_pvp_level_20"
+    "rating_name": "2758"
   },
   {
     "id": 41,
@@ -407,7 +407,7 @@
     "rating": 2000,
     "realtime_rate": 30,
     "rating_icon": "icon_pvp_rating_21",
-    "rating_name": "UI_pvp_level_21"
+    "rating_name": "2759"
   },
   {
     "id": 42,
@@ -417,7 +417,7 @@
     "rating": 1900,
     "realtime_rate": 25,
     "rating_icon": "icon_pvp_rating_22",
-    "rating_name": "UI_pvp_level_22"
+    "rating_name": "2760"
   },
   {
     "id": 43,
@@ -427,7 +427,7 @@
     "rating": 1800,
     "realtime_rate": 20,
     "rating_icon": "icon_pvp_rating_23",
-    "rating_name": "UI_pvp_level_23"
+    "rating_name": "2761"
   },
   {
     "id": 44,
@@ -437,7 +437,7 @@
     "rating": 1700,
     "realtime_rate": 15,
     "rating_icon": "icon_pvp_rating_24",
-    "rating_name": "UI_pvp_level_24"
+    "rating_name": "2762"
   },
   {
     "id": 45,
@@ -447,7 +447,7 @@
     "rating": 1600,
     "realtime_rate": 10,
     "rating_icon": "icon_pvp_rating_25",
-    "rating_name": "UI_pvp_level_25"
+    "rating_name": "2763"
   },
   {
     "id": 46,
@@ -457,7 +457,7 @@
     "rating": 1500,
     "realtime_rate": 5,
     "rating_icon": "icon_pvp_rating_26",
-    "rating_name": "UI_pvp_level_26"
+    "rating_name": "2764"
   },
   {
     "id": 47,
@@ -467,7 +467,7 @@
     "rating": 1400,
     "realtime_rate": 0,
     "rating_icon": "icon_pvp_rating_27",
-    "rating_name": "UI_pvp_level_27"
+    "rating_name": "2765"
   },
   {
     "id": 48,
@@ -477,7 +477,7 @@
     "rating": 1300,
     "realtime_rate": 0,
     "rating_icon": "icon_pvp_rating_28",
-    "rating_name": "UI_pvp_level_28"
+    "rating_name": "2766"
   },
   {
     "id": 49,
@@ -487,7 +487,7 @@
     "rating": 1200,
     "realtime_rate": 0,
     "rating_icon": "icon_pvp_rating_29",
-    "rating_name": "UI_pvp_level_29"
+    "rating_name": "2767"
   },
   {
     "id": 50,
@@ -497,7 +497,7 @@
     "rating": 1100,
     "realtime_rate": 0,
     "rating_icon": "icon_pvp_rating_30",
-    "rating_name": "UI_pvp_level_30"
+    "rating_name": "2768"
   },
   {
     "id": 51,
@@ -507,6 +507,6 @@
     "rating": 1000,
     "realtime_rate": 0,
     "rating_icon": "icon_pvp_rating_31",
-    "rating_name": "UI_pvp_level_31"
+    "rating_name": "2769"
   }
 ]

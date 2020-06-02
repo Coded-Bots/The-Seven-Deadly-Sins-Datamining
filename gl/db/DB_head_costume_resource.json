@@ -392,6 +392,14 @@
     "error_check_head_resource": "hero_elizabeth_hawk_head_0035"
   },
   {
+    "id": 4024014,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0050",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0050"
+  },
+  {
     "id": 4024004,
     "head_attach_dummy": 0,
     "character_base": "elizabeth_hawk",
@@ -494,6 +502,14 @@
     "resource_head": "hero_elizabeth_hawk_head_0035",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_elizabeth_hawk_head_0035"
+  },
+  {
+    "id": 4025014,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_hawk",
+    "resource_head": "hero_elizabeth_hawk_head_0050",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_hawk_head_0050"
   },
   {
     "id": 4425004,
@@ -928,6 +944,14 @@
     "error_check_head_resource": "hero_diane_head_0501"
   },
   {
+    "id": 4044012,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0027",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0027"
+  },
+  {
     "id": 4045001,
     "head_attach_dummy": 0,
     "character_base": "diane",
@@ -1006,6 +1030,14 @@
     "resource_head": "hero_diane_head_0501",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_diane_head_0501"
+  },
+  {
+    "id": 4045012,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0027",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0027"
   },
   {
     "id": 4055001,
@@ -1758,6 +1790,14 @@
     "resource_head": "hero_gowther_head_0028",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_gowther_head_0028"
+  },
+  {
+    "id": 4125001,
+    "head_attach_dummy": 0,
+    "character_base": "helbram",
+    "resource_head": "hero_helbram_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_helbram_head_0002"
   },
   {
     "id": 4135001,
@@ -3835,9 +3875,33 @@
     "id": 4395001,
     "head_attach_dummy": 0,
     "character_base": "meliodas_lostvayne",
-    "resource_head": "hero_meliodas_head_0001",
+    "resource_head": "hero_meliodas_lostvayne_head_0001",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_meliodas_head_0001"
+    "error_check_head_resource": "hero_meliodas_lostvayne_head_0001"
+  },
+  {
+    "id": 4395003,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_lostvayne",
+    "resource_head": "hero_meliodas_lostvayne_head_0043",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_lostvayne_head_0043"
+  },
+  {
+    "id": 4395004,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_lostvayne",
+    "resource_head": "hero_meliodas_lostvayne_head_0031",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_lostvayne_head_0031"
+  },
+  {
+    "id": 4395006,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas_lostvayne",
+    "resource_head": "hero_meliodas_lostvayne_head_0045",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_lostvayne_head_0045"
   },
   {
     "id": 4424001,
@@ -4136,6 +4200,78 @@
     "error_check_head_resource": "hero_disaster_mono_head_0501"
   },
   {
+    "id": 4675001,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_roxy",
+    "resource_head": "hero_disaster_roxy_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_roxy_head_0001"
+  },
+  {
+    "id": 4675002,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_roxy",
+    "resource_head": "hero_disaster_roxy_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_roxy_head_0003"
+  },
+  {
+    "id": 4675003,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_roxy",
+    "resource_head": "hero_disaster_roxy_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_roxy_head_0004"
+  },
+  {
+    "id": 4675004,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_roxy",
+    "resource_head": "hero_disaster_roxy_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_roxy_head_0005"
+  },
+  {
+    "id": 4675005,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_roxy",
+    "resource_head": "hero_disaster_roxy_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_roxy_head_0501"
+  },
+  {
+    "id": 4765001,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_shin",
+    "resource_head": "hero_disaster_shin_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_shin_head_0001"
+  },
+  {
+    "id": 4765002,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_shin",
+    "resource_head": "hero_disaster_shin_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_shin_head_0004"
+  },
+  {
+    "id": 4765003,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_shin",
+    "resource_head": "hero_disaster_shin_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_shin_head_0003"
+  },
+  {
+    "id": 4765004,
+    "head_attach_dummy": 0,
+    "character_base": "disaster_shin",
+    "resource_head": "hero_disaster_shin_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_disaster_shin_head_0005"
+  },
+  {
     "id": 4465001,
     "head_attach_dummy": 0,
     "character_base": "escanor",
@@ -4240,6 +4376,14 @@
     "error_check_head_resource": "hero_galand_head_0007"
   },
   {
+    "id": 4475007,
+    "head_attach_dummy": 1,
+    "character_base": "galand",
+    "resource_head": "hero_galand_head_0010",
+    "head_mixer_name": "AudioMixer_Helmet_B",
+    "error_check_head_resource": "hero_galand_head_0010"
+  },
+  {
     "id": 4475005,
     "head_attach_dummy": 1,
     "character_base": "galand",
@@ -4286,6 +4430,14 @@
     "resource_head": "hero_melascula_head_0007",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_melascula_head_0007"
+  },
+  {
+    "id": 4485007,
+    "head_attach_dummy": 0,
+    "character_base": "melascula",
+    "resource_head": "hero_melascula_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_melascula_head_0010"
   },
   {
     "id": 4485005,
@@ -4336,6 +4488,14 @@
     "error_check_head_resource": "hero_monspeet_head_0006"
   },
   {
+    "id": 4555007,
+    "head_attach_dummy": 0,
+    "character_base": "monspeet",
+    "resource_head": "hero_monspeet_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_monspeet_head_0009"
+  },
+  {
     "id": 4555005,
     "head_attach_dummy": 0,
     "character_base": "monspeet",
@@ -4384,6 +4544,14 @@
     "error_check_head_resource": "hero_gloxinia_head_0006"
   },
   {
+    "id": 4565007,
+    "head_attach_dummy": 0,
+    "character_base": "gloxinia",
+    "resource_head": "hero_gloxinia_head_0009",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_gloxinia_head_0009"
+  },
+  {
     "id": 4565005,
     "head_attach_dummy": 0,
     "character_base": "gloxinia",
@@ -4398,6 +4566,94 @@
     "resource_head": "hero_drole_head_0001",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_drole_head_0001"
+  },
+  {
+    "id": 4575002,
+    "head_attach_dummy": 0,
+    "character_base": "drole",
+    "resource_head": "hero_drole_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_drole_head_0005"
+  },
+  {
+    "id": 4575003,
+    "head_attach_dummy": 0,
+    "character_base": "drole",
+    "resource_head": "hero_drole_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_drole_head_0505"
+  },
+  {
+    "id": 4575004,
+    "head_attach_dummy": 0,
+    "character_base": "drole",
+    "resource_head": "hero_drole_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_drole_head_0004"
+  },
+  {
+    "id": 4575005,
+    "head_attach_dummy": 0,
+    "character_base": "drole",
+    "resource_head": "hero_drole_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_drole_head_0002"
+  },
+  {
+    "id": 4575006,
+    "head_attach_dummy": 0,
+    "character_base": "drole",
+    "resource_head": "hero_drole_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_drole_head_0501"
+  },
+  {
+    "id": 4585001,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus_demon",
+    "resource_head": "hero_dreyfus_demon_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_demon_head_0002"
+  },
+  {
+    "id": 4585002,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus_demon",
+    "resource_head": "hero_dreyfus_demon_head_0024",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_demon_head_0024"
+  },
+  {
+    "id": 4585003,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus_demon",
+    "resource_head": "hero_dreyfus_demon_head_0016",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_demon_head_0016"
+  },
+  {
+    "id": 4585004,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus_demon",
+    "resource_head": "hero_dreyfus_demon_head_0506",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_demon_head_0506"
+  },
+  {
+    "id": 4585006,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus_demon",
+    "resource_head": "hero_dreyfus_demon_head_0027",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_demon_head_0027"
+  },
+  {
+    "id": 4585005,
+    "head_attach_dummy": 0,
+    "character_base": "dreyfus_demon",
+    "resource_head": "hero_dreyfus_demon_head_0505",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_dreyfus_demon_head_0505"
   },
   {
     "id": 4635001,
@@ -4430,6 +4686,14 @@
     "resource_head": "hero_derieri_head_0006",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_derieri_head_0006"
+  },
+  {
+    "id": 4635006,
+    "head_attach_dummy": 0,
+    "character_base": "derieri",
+    "resource_head": "hero_derieri_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_derieri_head_0010"
   },
   {
     "id": 4635005,
@@ -4472,6 +4736,14 @@
     "error_check_head_resource": "hero_estarossa_head_0005"
   },
   {
+    "id": 4615006,
+    "head_attach_dummy": 0,
+    "character_base": "estarossa",
+    "resource_head": "hero_estarossa_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_estarossa_head_0010"
+  },
+  {
     "id": 4615005,
     "head_attach_dummy": 0,
     "character_base": "estarossa",
@@ -4486,6 +4758,38 @@
     "resource_head": "hero_zeldris_head_0001",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_zeldris_head_0001"
+  },
+  {
+    "id": 4655002,
+    "head_attach_dummy": 0,
+    "character_base": "zeldris",
+    "resource_head": "hero_zeldris_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zeldris_head_0003"
+  },
+  {
+    "id": 4655003,
+    "head_attach_dummy": 0,
+    "character_base": "zeldris",
+    "resource_head": "hero_zeldris_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zeldris_head_0004"
+  },
+  {
+    "id": 4655004,
+    "head_attach_dummy": 0,
+    "character_base": "zeldris",
+    "resource_head": "hero_zeldris_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zeldris_head_0005"
+  },
+  {
+    "id": 4655007,
+    "head_attach_dummy": 0,
+    "character_base": "zeldris",
+    "resource_head": "hero_zeldris_head_0006",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zeldris_head_0006"
   },
   {
     "id": 4495001,
@@ -4622,6 +4926,38 @@
     "resource_head": "hero_arden_head_0501",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_arden_head_0501"
+  },
+  {
+    "id": 4415001,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0001"
+  },
+  {
+    "id": 4415002,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0002",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0002"
+  },
+  {
+    "id": 4415003,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0004"
+  },
+  {
+    "id": 4415004,
+    "head_attach_dummy": 0,
+    "character_base": "matrona",
+    "resource_head": "hero_matrona_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_matrona_head_0005"
   },
   {
     "id": 4685001,
@@ -4803,9 +5139,9 @@
     "id": 4725001,
     "head_attach_dummy": 0,
     "character_base": "zaratras",
-    "resource_head": "hero_zaratras_hair_0001_ingame",
+    "resource_head": "hero_zaratras_head_0001",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_zaratras_hair_0001_ingame"
+    "error_check_head_resource": "hero_zaratras_head_0001"
   },
   {
     "id": 4725002,
@@ -4819,9 +5155,9 @@
     "id": 4725003,
     "head_attach_dummy": 0,
     "character_base": "zaratras",
-    "resource_head": "hero_zaratras_head_0002",
+    "resource_head": "hero_zaratras_head_0501",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_zaratras_head_0002"
+    "error_check_head_resource": "hero_zaratras_head_0501"
   },
   {
     "id": 4725004,
@@ -4832,20 +5168,172 @@
     "error_check_head_resource": "hero_zaratras_head_0005"
   },
   {
-    "id": 4415001,
+    "id": 4734001,
     "head_attach_dummy": 0,
-    "character_base": "matrona",
-    "resource_head": "hero_matrona_head_0001",
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0010",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_matrona_head_0001"
+    "error_check_head_resource": "hero_titan_eren_head_0010"
   },
   {
-    "id": 4415002,
+    "id": 4734002,
     "head_attach_dummy": 0,
-    "character_base": "matrona",
-    "resource_head": "hero_matrona_head_0002",
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0502",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_matrona_head_0002"
+    "error_check_head_resource": "hero_titan_eren_head_0502"
+  },
+  {
+    "id": 4734003,
+    "head_attach_dummy": 0,
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_eren_head_0504"
+  },
+  {
+    "id": 4734004,
+    "head_attach_dummy": 0,
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_eren_head_0501"
+  },
+  {
+    "id": 4734005,
+    "head_attach_dummy": 0,
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_eren_head_0503"
+  },
+  {
+    "id": 4735001,
+    "head_attach_dummy": 0,
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_eren_head_0010"
+  },
+  {
+    "id": 4735002,
+    "head_attach_dummy": 0,
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_eren_head_0502"
+  },
+  {
+    "id": 4735003,
+    "head_attach_dummy": 0,
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_eren_head_0504"
+  },
+  {
+    "id": 4735004,
+    "head_attach_dummy": 0,
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_eren_head_0501"
+  },
+  {
+    "id": 4735005,
+    "head_attach_dummy": 0,
+    "character_base": "titan_eren",
+    "resource_head": "hero_titan_eren_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_eren_head_0503"
+  },
+  {
+    "id": 4739001,
+    "head_attach_dummy": 0,
+    "character_base": "titan_attack_titan",
+    "resource_head": "hero_titan_attack_titan_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_attack_titan_head_0001"
+  },
+  {
+    "id": 4745001,
+    "head_attach_dummy": 0,
+    "character_base": "titan_levi",
+    "resource_head": "hero_titan_levi_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_levi_head_0010"
+  },
+  {
+    "id": 4745002,
+    "head_attach_dummy": 0,
+    "character_base": "titan_levi",
+    "resource_head": "hero_titan_levi_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_levi_head_0501"
+  },
+  {
+    "id": 4745003,
+    "head_attach_dummy": 0,
+    "character_base": "titan_levi",
+    "resource_head": "hero_titan_levi_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_levi_head_0504"
+  },
+  {
+    "id": 4745004,
+    "head_attach_dummy": 0,
+    "character_base": "titan_levi",
+    "resource_head": "hero_titan_levi_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_levi_head_0502"
+  },
+  {
+    "id": 4745005,
+    "head_attach_dummy": 0,
+    "character_base": "titan_levi",
+    "resource_head": "hero_titan_levi_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_levi_head_0503"
+  },
+  {
+    "id": 4755001,
+    "head_attach_dummy": 0,
+    "character_base": "titan_mikasa",
+    "resource_head": "hero_titan_mikasa_head_0010",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_mikasa_head_0010"
+  },
+  {
+    "id": 4755002,
+    "head_attach_dummy": 0,
+    "character_base": "titan_mikasa",
+    "resource_head": "hero_titan_mikasa_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_mikasa_head_0501"
+  },
+  {
+    "id": 4755003,
+    "head_attach_dummy": 0,
+    "character_base": "titan_mikasa",
+    "resource_head": "hero_titan_mikasa_head_0502",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_mikasa_head_0502"
+  },
+  {
+    "id": 4755004,
+    "head_attach_dummy": 0,
+    "character_base": "titan_mikasa",
+    "resource_head": "hero_titan_mikasa_head_0504",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_mikasa_head_0504"
+  },
+  {
+    "id": 4755005,
+    "head_attach_dummy": 0,
+    "character_base": "titan_mikasa",
+    "resource_head": "hero_titan_mikasa_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_titan_mikasa_head_0503"
   },
   {
     "id": 4900001,

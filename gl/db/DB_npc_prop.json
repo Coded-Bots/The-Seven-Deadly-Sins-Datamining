@@ -754,5 +754,77 @@
     "attach_name": "",
     "attach": "righthand",
     "ani_keyname": ""
+  },
+  {
+    "id": 89,
+    "path": "Weapon/Prefabs/zaratras/",
+    "resource": "weapon_zaratras_02",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 90,
+    "path": "Weapon/Prefabs/meliodas/",
+    "resource": "weapon_meliodas_109",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 91,
+    "path": "Weapon/Prefabs/human_female_fighter/",
+    "resource": "weapon_hero_human_female_fighter_sword_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 92,
+    "path": "Weapon/Prefabs/titan_levi/",
+    "resource": "weapon_titan_levi_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 93,
+    "path": "Weapon/Prefabs/titan_levi/",
+    "resource": "weapon_titan_levi_0001_sub",
+    "type": 1,
+    "attach_name": "",
+    "attach": "lefthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 94,
+    "path": "Weapon/Prefabs/titan_levi/",
+    "resource": "weapon_titan_levi_0001_sub2",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Weapon_Sub1",
+    "ani_keyname": ""
+  },
+  {
+    "id": 95,
+    "path": "Weapon/Prefabs/titan_levi/",
+    "resource": "weapon_titan_levi_0001_sub3",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Weapon_Sub2",
+    "ani_keyname": ""
+  },
+  {
+    "id": 96,
+    "path": "Weapon/Prefabs/escanor/",
+    "resource": "weapon_escanor_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
   }
 ]

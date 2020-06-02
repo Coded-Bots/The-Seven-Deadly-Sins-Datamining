@@ -2,121 +2,121 @@
   {
     "id": 1,
     "random_option_group": 1,
-    "random_option_name": "DB_weapon_option_name_01",
+    "random_option_name": "10080",
     "option_effect_id": 200100,
     "option_effect_min": 1,
     "option_effect_max": 3,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_1"
+    "option_name": "38564"
   },
   {
     "id": 2,
     "random_option_group": 1,
-    "random_option_name": "DB_weapon_option_name_02",
+    "random_option_name": "10081",
     "option_effect_id": 200400,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_2"
+    "option_name": "38568"
   },
   {
     "id": 3,
     "random_option_group": 1,
-    "random_option_name": "DB_weapon_option_name_03",
+    "random_option_name": "10082",
     "option_effect_id": 200700,
     "option_effect_min": 1.5,
     "option_effect_max": 4.5,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_3"
+    "option_name": "38569"
   },
   {
     "id": 4,
     "random_option_group": 1,
-    "random_option_name": "DB_weapon_option_name_04",
+    "random_option_name": "10083",
     "option_effect_id": 200800,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_4"
+    "option_name": "38570"
   },
   {
     "id": 5,
     "random_option_group": 2,
-    "random_option_name": "DB_weapon_option_name_05",
+    "random_option_name": "10084",
     "option_effect_id": 200200,
     "option_effect_min": 1,
     "option_effect_max": 3,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_5"
+    "option_name": "38571"
   },
   {
     "id": 6,
     "random_option_group": 2,
-    "random_option_name": "DB_weapon_option_name_06",
+    "random_option_name": "10085",
     "option_effect_id": 200500,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_6"
+    "option_name": "38572"
   },
   {
     "id": 7,
     "random_option_group": 2,
-    "random_option_name": "DB_weapon_option_name_07",
+    "random_option_name": "10086",
     "option_effect_id": 200600,
     "option_effect_min": 1.5,
     "option_effect_max": 4.5,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_7"
+    "option_name": "38573"
   },
   {
     "id": 8,
     "random_option_group": 2,
-    "random_option_name": "DB_weapon_option_name_08",
+    "random_option_name": "10087",
     "option_effect_id": 201100,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_8"
+    "option_name": "38574"
   },
   {
     "id": 9,
     "random_option_group": 3,
-    "random_option_name": "DB_weapon_option_name_09",
+    "random_option_name": "10088",
     "option_effect_id": 200300,
     "option_effect_min": 1,
     "option_effect_max": 3,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_9"
+    "option_name": "38575"
   },
   {
     "id": 10,
     "random_option_group": 3,
-    "random_option_name": "DB_weapon_option_name_10",
+    "random_option_name": "10089",
     "option_effect_id": 201700,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_10"
+    "option_name": "38565"
   },
   {
     "id": 11,
     "random_option_group": 3,
-    "random_option_name": "DB_weapon_option_name_11",
+    "random_option_name": "10090",
     "option_effect_id": 201000,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_11"
+    "option_name": "38566"
   },
   {
     "id": 12,
     "random_option_group": 3,
-    "random_option_name": "DB_weapon_option_name_12",
+    "random_option_name": "10091",
     "option_effect_id": 200900,
     "option_effect_min": 1.5,
     "option_effect_max": 4.5,
     "option_upgrade_value": 0,
-    "option_name": "DB_weapon_stat_12"
+    "option_name": "38567"
   }
 ]

@@ -77,20 +77,6 @@
     "frame_skip_count": 0
   },
   {
-    "id": 10008,
-    "fade_gui": "FadeInOut_0",
-    "in_anim_name": "FadeIn_0",
-    "out_anim_name": "FadeOut_0",
-    "frame_skip_count": 0
-  },
-  {
-    "id": 10009,
-    "fade_gui": "FadeInOut_0",
-    "in_anim_name": "",
-    "out_anim_name": "",
-    "frame_skip_count": 0
-  },
-  {
     "id": 10010,
     "fade_gui": "FadeInOut_0",
     "in_anim_name": "",
@@ -214,20 +200,6 @@
     "fade_gui": "FadeInOut_3",
     "in_anim_name": "FadeIn_3",
     "out_anim_name": "FadeOut_3",
-    "frame_skip_count": 0
-  },
-  {
-    "id": 50100,
-    "fade_gui": "FadeInOut_0",
-    "in_anim_name": "FadeIn_0",
-    "out_anim_name": "FadeOut_0",
-    "frame_skip_count": 0
-  },
-  {
-    "id": 50101,
-    "fade_gui": "FadeInOut_0",
-    "in_anim_name": "FadeIn_0",
-    "out_anim_name": "FadeOut_0",
     "frame_skip_count": 0
   },
   {

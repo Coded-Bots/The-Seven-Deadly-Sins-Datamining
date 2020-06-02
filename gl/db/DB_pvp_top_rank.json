@@ -3,36 +3,36 @@
     "id": 1,
     "rank_min": 1,
     "rank_max": 1,
-    "ranker_title": "SYS_pvp_ranker_title_01"
+    "ranker_title": "635"
   },
   {
     "id": 2,
     "rank_min": 2,
     "rank_max": 5,
-    "ranker_title": "SYS_pvp_ranker_title_02"
+    "ranker_title": "636"
   },
   {
     "id": 3,
     "rank_min": 6,
     "rank_max": 10,
-    "ranker_title": "SYS_pvp_ranker_title_03"
+    "ranker_title": "637"
   },
   {
     "id": 4,
     "rank_min": 11,
     "rank_max": 30,
-    "ranker_title": "SYS_pvp_ranker_title_04"
+    "ranker_title": "638"
   },
   {
     "id": 5,
     "rank_min": 31,
     "rank_max": 50,
-    "ranker_title": "SYS_pvp_ranker_title_05"
+    "ranker_title": "639"
   },
   {
     "id": 6,
     "rank_min": 51,
     "rank_max": 100,
-    "ranker_title": "SYS_pvp_ranker_title_06"
+    "ranker_title": "640"
   }
 ]

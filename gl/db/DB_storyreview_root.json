@@ -6,10 +6,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 1000,
-    "story_chapter_name": "DB_replay_number_1001",
-    "story_group_name": "DB_replay_name_1001",
+    "story_chapter_name": "28661",
+    "story_group_name": "28473",
     "replay_Image": "StoryReplay_region1_01",
-    "replay_list_summary": "DB_cutscene_replay_list_1001"
+    "replay_list_summary": "28872"
   },
   {
     "id": 1002,
@@ -18,10 +18,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 1,
-    "story_chapter_name": "DB_replay_number_1002",
-    "story_group_name": "DB_replay_name_1002",
+    "story_chapter_name": "28662",
+    "story_group_name": "28474",
     "replay_Image": "StoryReplay_region1_02",
-    "replay_list_summary": "DB_cutscene_replay_list_1002"
+    "replay_list_summary": "28873"
   },
   {
     "id": 1003,
@@ -30,10 +30,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 2,
-    "story_chapter_name": "DB_replay_number_1003",
-    "story_group_name": "DB_replay_name_1003",
+    "story_chapter_name": "28663",
+    "story_group_name": "28475",
     "replay_Image": "StoryReplay_region1_03",
-    "replay_list_summary": "DB_cutscene_replay_list_1003"
+    "replay_list_summary": "28874"
   },
   {
     "id": 1004,
@@ -42,10 +42,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 3,
-    "story_chapter_name": "DB_replay_number_1004",
-    "story_group_name": "DB_replay_name_1004",
+    "story_chapter_name": "28664",
+    "story_group_name": "28476",
     "replay_Image": "StoryReplay_region1_04",
-    "replay_list_summary": "DB_cutscene_replay_list_1004"
+    "replay_list_summary": "28875"
   },
   {
     "id": 1005,
@@ -54,10 +54,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 4,
-    "story_chapter_name": "DB_replay_number_1005",
-    "story_group_name": "DB_replay_name_1005",
+    "story_chapter_name": "28665",
+    "story_group_name": "28477",
     "replay_Image": "StoryReplay_region1_05",
-    "replay_list_summary": "DB_cutscene_replay_list_1005"
+    "replay_list_summary": "28876"
   },
   {
     "id": 1006,
@@ -66,10 +66,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 5,
-    "story_chapter_name": "DB_replay_number_1006",
-    "story_group_name": "DB_replay_name_1006",
+    "story_chapter_name": "28666",
+    "story_group_name": "28478",
     "replay_Image": "StoryReplay_region1_06",
-    "replay_list_summary": "DB_cutscene_replay_list_1006"
+    "replay_list_summary": "28877"
   },
   {
     "id": 1007,
@@ -78,10 +78,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 6,
-    "story_chapter_name": "DB_replay_number_1007",
-    "story_group_name": "DB_replay_name_1007",
+    "story_chapter_name": "28667",
+    "story_group_name": "28479",
     "replay_Image": "StoryReplay_region1_07",
-    "replay_list_summary": "DB_cutscene_replay_list_1007"
+    "replay_list_summary": "28878"
   },
   {
     "id": 1008,
@@ -90,10 +90,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 7,
-    "story_chapter_name": "DB_replay_number_1008",
-    "story_group_name": "DB_replay_name_1008",
+    "story_chapter_name": "28668",
+    "story_group_name": "28480",
     "replay_Image": "StoryReplay_region1_08",
-    "replay_list_summary": "DB_cutscene_replay_list_1008"
+    "replay_list_summary": "28879"
   },
   {
     "id": 1009,
@@ -102,10 +102,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 8,
-    "story_chapter_name": "DB_replay_number_1009",
-    "story_group_name": "DB_replay_name_1009",
+    "story_chapter_name": "28669",
+    "story_group_name": "28481",
     "replay_Image": "StoryReplay_region1_09",
-    "replay_list_summary": "DB_cutscene_replay_list_1009"
+    "replay_list_summary": "28880"
   },
   {
     "id": 1010,
@@ -114,10 +114,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 9,
-    "story_chapter_name": "DB_replay_number_1010",
-    "story_group_name": "DB_replay_name_1010",
+    "story_chapter_name": "28670",
+    "story_group_name": "28482",
     "replay_Image": "StoryReplay_region2_01",
-    "replay_list_summary": "DB_cutscene_replay_list_1010"
+    "replay_list_summary": "28881"
   },
   {
     "id": 1011,
@@ -126,10 +126,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 10,
-    "story_chapter_name": "DB_replay_number_1011",
-    "story_group_name": "DB_replay_name_1011",
+    "story_chapter_name": "28671",
+    "story_group_name": "28483",
     "replay_Image": "StoryReplay_region2_02",
-    "replay_list_summary": "DB_cutscene_replay_list_1011"
+    "replay_list_summary": "28882"
   },
   {
     "id": 1012,
@@ -138,10 +138,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 11,
-    "story_chapter_name": "DB_replay_number_1012",
-    "story_group_name": "DB_replay_name_1012",
+    "story_chapter_name": "28672",
+    "story_group_name": "28484",
     "replay_Image": "StoryReplay_region2_03",
-    "replay_list_summary": "DB_cutscene_replay_list_1012"
+    "replay_list_summary": "28883"
   },
   {
     "id": 1013,
@@ -150,10 +150,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 12,
-    "story_chapter_name": "DB_replay_number_1013",
-    "story_group_name": "DB_replay_name_1013",
+    "story_chapter_name": "28673",
+    "story_group_name": "28485",
     "replay_Image": "StoryReplay_region2_04",
-    "replay_list_summary": "DB_cutscene_replay_list_1013"
+    "replay_list_summary": "28884"
   },
   {
     "id": 1014,
@@ -162,10 +162,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 13,
-    "story_chapter_name": "DB_replay_number_1014",
-    "story_group_name": "DB_replay_name_1014",
+    "story_chapter_name": "28674",
+    "story_group_name": "28486",
     "replay_Image": "StoryReplay_region2_05",
-    "replay_list_summary": "DB_cutscene_replay_list_1014"
+    "replay_list_summary": "28885"
   },
   {
     "id": 1015,
@@ -174,10 +174,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 14,
-    "story_chapter_name": "DB_replay_number_1015",
-    "story_group_name": "DB_replay_name_1015",
+    "story_chapter_name": "28675",
+    "story_group_name": "28487",
     "replay_Image": "StoryReplay_region2_07",
-    "replay_list_summary": "DB_cutscene_replay_list_1015"
+    "replay_list_summary": "28886"
   },
   {
     "id": 1016,
@@ -186,10 +186,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 15,
-    "story_chapter_name": "DB_replay_number_1016",
-    "story_group_name": "DB_replay_name_1016",
+    "story_chapter_name": "28676",
+    "story_group_name": "28488",
     "replay_Image": "StoryReplay_region6_13",
-    "replay_list_summary": "DB_cutscene_replay_list_1016"
+    "replay_list_summary": "28887"
   },
   {
     "id": 1017,
@@ -198,10 +198,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 16,
-    "story_chapter_name": "DB_replay_number_1017",
-    "story_group_name": "DB_replay_name_1017",
+    "story_chapter_name": "28677",
+    "story_group_name": "28489",
     "replay_Image": "StoryReplay_region2_08",
-    "replay_list_summary": "DB_cutscene_replay_list_1017"
+    "replay_list_summary": "28888"
   },
   {
     "id": 1018,
@@ -210,10 +210,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 17,
-    "story_chapter_name": "DB_replay_number_1018",
-    "story_group_name": "DB_replay_name_1018",
+    "story_chapter_name": "28678",
+    "story_group_name": "28490",
     "replay_Image": "StoryReplay_region2_09",
-    "replay_list_summary": "DB_cutscene_replay_list_1018"
+    "replay_list_summary": "28889"
   },
   {
     "id": 1019,
@@ -222,10 +222,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 18,
-    "story_chapter_name": "DB_replay_number_1019",
-    "story_group_name": "DB_replay_name_1019",
+    "story_chapter_name": "28679",
+    "story_group_name": "28491",
     "replay_Image": "StoryReplay_region2_10",
-    "replay_list_summary": "DB_cutscene_replay_list_1019"
+    "replay_list_summary": "28890"
   },
   {
     "id": 1020,
@@ -234,10 +234,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 19,
-    "story_chapter_name": "DB_replay_number_1020",
-    "story_group_name": "DB_replay_name_1020",
+    "story_chapter_name": "28680",
+    "story_group_name": "28492",
     "replay_Image": "StoryReplay_region2_11",
-    "replay_list_summary": "DB_cutscene_replay_list_1020"
+    "replay_list_summary": "28891"
   },
   {
     "id": 1021,
@@ -246,10 +246,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 20,
-    "story_chapter_name": "DB_replay_number_1021",
-    "story_group_name": "DB_replay_name_1021",
+    "story_chapter_name": "28681",
+    "story_group_name": "28493",
     "replay_Image": "StoryReplay_region2_12",
-    "replay_list_summary": "DB_cutscene_replay_list_1021"
+    "replay_list_summary": "28892"
   },
   {
     "id": 1022,
@@ -258,10 +258,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 21,
-    "story_chapter_name": "DB_replay_number_1022",
-    "story_group_name": "DB_replay_name_1022",
+    "story_chapter_name": "28682",
+    "story_group_name": "28496",
     "replay_Image": "StoryReplay_region3_01",
-    "replay_list_summary": "DB_cutscene_replay_list_1022"
+    "replay_list_summary": "28893"
   },
   {
     "id": 1023,
@@ -270,10 +270,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 22,
-    "story_chapter_name": "DB_replay_number_1023",
-    "story_group_name": "DB_replay_name_1023",
+    "story_chapter_name": "28683",
+    "story_group_name": "28497",
     "replay_Image": "StoryReplay_region3_02",
-    "replay_list_summary": "DB_cutscene_replay_list_1023"
+    "replay_list_summary": "28894"
   },
   {
     "id": 1024,
@@ -282,10 +282,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 23,
-    "story_chapter_name": "DB_replay_number_1024",
-    "story_group_name": "DB_replay_name_1024",
+    "story_chapter_name": "28684",
+    "story_group_name": "28498",
     "replay_Image": "StoryReplay_region3_03",
-    "replay_list_summary": "DB_cutscene_replay_list_1024"
+    "replay_list_summary": "28895"
   },
   {
     "id": 1025,
@@ -294,10 +294,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 24,
-    "story_chapter_name": "DB_replay_number_1025",
-    "story_group_name": "DB_replay_name_1025",
+    "story_chapter_name": "28685",
+    "story_group_name": "28499",
     "replay_Image": "StoryReplay_region3_04",
-    "replay_list_summary": "DB_cutscene_replay_list_1025"
+    "replay_list_summary": "28896"
   },
   {
     "id": 1026,
@@ -306,10 +306,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 25,
-    "story_chapter_name": "DB_replay_number_1026",
-    "story_group_name": "DB_replay_name_1026",
+    "story_chapter_name": "28686",
+    "story_group_name": "28500",
     "replay_Image": "StoryReplay_region3_05",
-    "replay_list_summary": "DB_cutscene_replay_list_1026"
+    "replay_list_summary": "28897"
   },
   {
     "id": 1027,
@@ -318,10 +318,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 26,
-    "story_chapter_name": "DB_replay_number_1027",
-    "story_group_name": "DB_replay_name_1027",
+    "story_chapter_name": "28687",
+    "story_group_name": "28501",
     "replay_Image": "StoryReplay_region3_06",
-    "replay_list_summary": "DB_cutscene_replay_list_1027"
+    "replay_list_summary": "28898"
   },
   {
     "id": 1028,
@@ -330,10 +330,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 27,
-    "story_chapter_name": "DB_replay_number_1028",
-    "story_group_name": "DB_replay_name_1104",
+    "story_chapter_name": "28688",
+    "story_group_name": "28597",
     "replay_Image": "StoryReplay_region3_08",
-    "replay_list_summary": "DB_cutscene_replay_list_1103"
+    "replay_list_summary": "28972"
   },
   {
     "id": 1029,
@@ -342,10 +342,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 28,
-    "story_chapter_name": "DB_replay_number_1029",
-    "story_group_name": "DB_replay_name_1028",
+    "story_chapter_name": "28689",
+    "story_group_name": "28502",
     "replay_Image": "StoryReplay_region3_07",
-    "replay_list_summary": "DB_cutscene_replay_list_1028"
+    "replay_list_summary": "28899"
   },
   {
     "id": 1030,
@@ -354,10 +354,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 29,
-    "story_chapter_name": "DB_replay_number_1030",
-    "story_group_name": "DB_replay_name_1029",
+    "story_chapter_name": "28690",
+    "story_group_name": "28503",
     "replay_Image": "StoryReplay_region4_01",
-    "replay_list_summary": "DB_cutscene_replay_list_1029"
+    "replay_list_summary": "28900"
   },
   {
     "id": 1031,
@@ -366,10 +366,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 30,
-    "story_chapter_name": "DB_replay_number_1031",
-    "story_group_name": "DB_replay_name_1030",
+    "story_chapter_name": "28691",
+    "story_group_name": "28504",
     "replay_Image": "StoryReplay_region4_02",
-    "replay_list_summary": "DB_cutscene_replay_list_1030"
+    "replay_list_summary": "28901"
   },
   {
     "id": 1032,
@@ -378,10 +378,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 31,
-    "story_chapter_name": "DB_replay_number_1032",
-    "story_group_name": "DB_replay_name_1031",
+    "story_chapter_name": "28692",
+    "story_group_name": "28505",
     "replay_Image": "StoryReplay_region4_03",
-    "replay_list_summary": "DB_cutscene_replay_list_1031"
+    "replay_list_summary": "28902"
   },
   {
     "id": 1033,
@@ -390,10 +390,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 32,
-    "story_chapter_name": "DB_replay_number_1033",
-    "story_group_name": "DB_replay_name_1032",
+    "story_chapter_name": "28693",
+    "story_group_name": "28506",
     "replay_Image": "StoryReplay_region4_04",
-    "replay_list_summary": "DB_cutscene_replay_list_1032"
+    "replay_list_summary": "28903"
   },
   {
     "id": 1034,
@@ -402,10 +402,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 33,
-    "story_chapter_name": "DB_replay_number_1034",
-    "story_group_name": "DB_replay_name_1033",
+    "story_chapter_name": "28694",
+    "story_group_name": "28507",
     "replay_Image": "StoryReplay_region4_05",
-    "replay_list_summary": "DB_cutscene_replay_list_1033"
+    "replay_list_summary": "28904"
   },
   {
     "id": 1035,
@@ -414,10 +414,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 34,
-    "story_chapter_name": "DB_replay_number_1035",
-    "story_group_name": "DB_replay_name_1034",
+    "story_chapter_name": "28695",
+    "story_group_name": "28508",
     "replay_Image": "StoryReplay_region4_06",
-    "replay_list_summary": "DB_cutscene_replay_list_1034"
+    "replay_list_summary": "28905"
   },
   {
     "id": 1036,
@@ -426,10 +426,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 35,
-    "story_chapter_name": "DB_replay_number_1036",
-    "story_group_name": "DB_replay_name_1035",
+    "story_chapter_name": "28696",
+    "story_group_name": "28509",
     "replay_Image": "StoryReplay_region4_07",
-    "replay_list_summary": "DB_cutscene_replay_list_1035"
+    "replay_list_summary": "28906"
   },
   {
     "id": 1037,
@@ -438,10 +438,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 36,
-    "story_chapter_name": "DB_replay_number_1037",
-    "story_group_name": "DB_replay_name_1036",
+    "story_chapter_name": "28697",
+    "story_group_name": "28510",
     "replay_Image": "StoryReplay_region4_08",
-    "replay_list_summary": "DB_cutscene_replay_list_1036"
+    "replay_list_summary": "28907"
   },
   {
     "id": 1038,
@@ -450,10 +450,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 37,
-    "story_chapter_name": "DB_replay_number_1038",
-    "story_group_name": "DB_replay_name_1037",
+    "story_chapter_name": "28698",
+    "story_group_name": "28511",
     "replay_Image": "StoryReplay_region4_09",
-    "replay_list_summary": "DB_cutscene_replay_list_1037"
+    "replay_list_summary": "28908"
   },
   {
     "id": 1039,
@@ -462,10 +462,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 38,
-    "story_chapter_name": "DB_replay_number_1039",
-    "story_group_name": "DB_replay_name_1038",
+    "story_chapter_name": "28699",
+    "story_group_name": "28512",
     "replay_Image": "StoryReplay_region4_10",
-    "replay_list_summary": "DB_cutscene_replay_list_1038"
+    "replay_list_summary": "28909"
   },
   {
     "id": 1040,
@@ -474,10 +474,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 39,
-    "story_chapter_name": "DB_replay_number_1040",
-    "story_group_name": "DB_replay_name_1039",
+    "story_chapter_name": "28700",
+    "story_group_name": "28513",
     "replay_Image": "StoryReplay_region4_11",
-    "replay_list_summary": "DB_cutscene_replay_list_1039"
+    "replay_list_summary": "28910"
   },
   {
     "id": 1041,
@@ -486,10 +486,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 40,
-    "story_chapter_name": "DB_replay_number_1041",
-    "story_group_name": "DB_replay_name_1040",
+    "story_chapter_name": "28701",
+    "story_group_name": "28514",
     "replay_Image": "StoryReplay_region4_12",
-    "replay_list_summary": "DB_cutscene_replay_list_1040"
+    "replay_list_summary": "28911"
   },
   {
     "id": 1042,
@@ -498,10 +498,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 41,
-    "story_chapter_name": "DB_replay_number_1042",
-    "story_group_name": "DB_replay_name_1041",
+    "story_chapter_name": "28702",
+    "story_group_name": "28515",
     "replay_Image": "StoryReplay_region5_01",
-    "replay_list_summary": "DB_cutscene_replay_list_1041"
+    "replay_list_summary": "28912"
   },
   {
     "id": 1043,
@@ -510,10 +510,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 42,
-    "story_chapter_name": "DB_replay_number_1043",
-    "story_group_name": "DB_replay_name_1042",
+    "story_chapter_name": "28703",
+    "story_group_name": "28516",
     "replay_Image": "StoryReplay_region5_02",
-    "replay_list_summary": "DB_cutscene_replay_list_1042"
+    "replay_list_summary": "28913"
   },
   {
     "id": 1044,
@@ -522,10 +522,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 43,
-    "story_chapter_name": "DB_replay_number_1044",
-    "story_group_name": "DB_replay_name_1043",
+    "story_chapter_name": "28704",
+    "story_group_name": "28517",
     "replay_Image": "StoryReplay_region5_03",
-    "replay_list_summary": "DB_cutscene_replay_list_1043"
+    "replay_list_summary": "28914"
   },
   {
     "id": 1045,
@@ -534,10 +534,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 44,
-    "story_chapter_name": "DB_replay_number_1045",
-    "story_group_name": "DB_replay_name_1044",
+    "story_chapter_name": "28705",
+    "story_group_name": "28518",
     "replay_Image": "StoryReplay_region5_04",
-    "replay_list_summary": "DB_cutscene_replay_list_1044"
+    "replay_list_summary": "28915"
   },
   {
     "id": 1046,
@@ -546,10 +546,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 45,
-    "story_chapter_name": "DB_replay_number_1046",
-    "story_group_name": "DB_replay_name_1099",
+    "story_chapter_name": "28706",
+    "story_group_name": "28982",
     "replay_Image": "StoryReplay_region5_07",
-    "replay_list_summary": "DB_cutscene_replay_list_1099"
+    "replay_list_summary": "28968"
   },
   {
     "id": 1047,
@@ -558,10 +558,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 46,
-    "story_chapter_name": "DB_replay_number_1047",
-    "story_group_name": "DB_replay_name_1045",
+    "story_chapter_name": "28707",
+    "story_group_name": "28519",
     "replay_Image": "StoryReplay_region5_05",
-    "replay_list_summary": "DB_cutscene_replay_list_1045"
+    "replay_list_summary": "28916"
   },
   {
     "id": 1048,
@@ -570,10 +570,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 47,
-    "story_chapter_name": "DB_replay_number_1048",
-    "story_group_name": "DB_replay_name_1046",
+    "story_chapter_name": "28708",
+    "story_group_name": "28522",
     "replay_Image": "StoryReplay_region5_06",
-    "replay_list_summary": "DB_cutscene_replay_list_1046"
+    "replay_list_summary": "28917"
   },
   {
     "id": 1049,
@@ -582,10 +582,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 48,
-    "story_chapter_name": "DB_replay_number_1049",
-    "story_group_name": "DB_replay_name_1070",
+    "story_chapter_name": "28709",
+    "story_group_name": "28547",
     "replay_Image": "StoryReplay_region6_24",
-    "replay_list_summary": "DB_cutscene_replay_list_1070"
+    "replay_list_summary": "28940"
   },
   {
     "id": 1050,
@@ -594,10 +594,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 49,
-    "story_chapter_name": "DB_replay_number_1050",
-    "story_group_name": "DB_stage_cut_name_3005081",
+    "story_chapter_name": "28710",
+    "story_group_name": "30362",
     "replay_Image": "StoryReplay_region6_08",
-    "replay_list_summary": "DB_cutscene_replay_list_1104"
+    "replay_list_summary": "28973"
   },
   {
     "id": 1051,
@@ -606,10 +606,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 50,
-    "story_chapter_name": "DB_replay_number_1051",
-    "story_group_name": "DB_replay_name_1055",
+    "story_chapter_name": "28711",
+    "story_group_name": "28531",
     "replay_Image": "StoryReplay_region6_09",
-    "replay_list_summary": "DB_cutscene_replay_list_1055"
+    "replay_list_summary": "28926"
   },
   {
     "id": 1052,
@@ -618,10 +618,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 51,
-    "story_chapter_name": "DB_replay_number_1052",
-    "story_group_name": "DB_replay_name_1056",
+    "story_chapter_name": "28712",
+    "story_group_name": "28532",
     "replay_Image": "StoryReplay_region6_10",
-    "replay_list_summary": "DB_cutscene_replay_list_1056"
+    "replay_list_summary": "28927"
   },
   {
     "id": 1053,
@@ -630,10 +630,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 52,
-    "story_chapter_name": "DB_replay_number_1053",
-    "story_group_name": "DB_replay_name_1057",
+    "story_chapter_name": "28713",
+    "story_group_name": "28533",
     "replay_Image": "StoryReplay_region6_11",
-    "replay_list_summary": "DB_cutscene_replay_list_1057"
+    "replay_list_summary": "28928"
   },
   {
     "id": 1054,
@@ -642,10 +642,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 53,
-    "story_chapter_name": "DB_replay_number_1054",
-    "story_group_name": "DB_replay_name_1059",
+    "story_chapter_name": "28714",
+    "story_group_name": "28535",
     "replay_Image": "StoryReplay_region6_58",
-    "replay_list_summary": "DB_cutscene_replay_list_1059"
+    "replay_list_summary": "28929"
   },
   {
     "id": 1055,
@@ -654,10 +654,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 54,
-    "story_chapter_name": "DB_replay_number_1055",
-    "story_group_name": "DB_replay_name_1060",
+    "story_chapter_name": "28715",
+    "story_group_name": "28536",
     "replay_Image": "StoryReplay_region6_14",
-    "replay_list_summary": "DB_cutscene_replay_list_1060"
+    "replay_list_summary": "28930"
   },
   {
     "id": 1056,
@@ -666,10 +666,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 55,
-    "story_chapter_name": "DB_replay_number_1056",
-    "story_group_name": "DB_replay_name_1061",
+    "story_chapter_name": "28716",
+    "story_group_name": "28537",
     "replay_Image": "StoryReplay_region6_15",
-    "replay_list_summary": "DB_cutscene_replay_list_1061"
+    "replay_list_summary": "28931"
   },
   {
     "id": 1057,
@@ -678,10 +678,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 56,
-    "story_chapter_name": "DB_replay_number_1057",
-    "story_group_name": "DB_replay_name_1072",
+    "story_chapter_name": "28717",
+    "story_group_name": "28549",
     "replay_Image": "StoryReplay_region6_25",
-    "replay_list_summary": "DB_cutscene_replay_list_1072"
+    "replay_list_summary": "28942"
   },
   {
     "id": 1058,
@@ -690,10 +690,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 57,
-    "story_chapter_name": "DB_replay_number_1058",
-    "story_group_name": "DB_replay_name_1047",
+    "story_chapter_name": "28718",
+    "story_group_name": "28523",
     "replay_Image": "StoryReplay_region6_01",
-    "replay_list_summary": "DB_cutscene_replay_list_1047"
+    "replay_list_summary": "28918"
   },
   {
     "id": 1059,
@@ -702,10 +702,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 58,
-    "story_chapter_name": "DB_replay_number_1059",
-    "story_group_name": "DB_replay_name_1048",
+    "story_chapter_name": "28719",
+    "story_group_name": "28524",
     "replay_Image": "StoryReplay_region6_02",
-    "replay_list_summary": "DB_cutscene_replay_list_1048"
+    "replay_list_summary": "28919"
   },
   {
     "id": 1060,
@@ -714,10 +714,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 59,
-    "story_chapter_name": "DB_replay_number_1060",
-    "story_group_name": "DB_replay_name_1071",
+    "story_chapter_name": "28720",
+    "story_group_name": "28548",
     "replay_Image": "StoryReplay_region6_26",
-    "replay_list_summary": "DB_cutscene_replay_list_1071"
+    "replay_list_summary": "28941"
   },
   {
     "id": 1061,
@@ -726,10 +726,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 60,
-    "story_chapter_name": "DB_replay_number_1061",
-    "story_group_name": "DB_replay_name_1049",
+    "story_chapter_name": "28721",
+    "story_group_name": "28525",
     "replay_Image": "StoryReplay_region6_03",
-    "replay_list_summary": "DB_cutscene_replay_list_1049"
+    "replay_list_summary": "28920"
   },
   {
     "id": 1062,
@@ -738,10 +738,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 61,
-    "story_chapter_name": "DB_replay_number_1062",
-    "story_group_name": "DB_replay_name_1050",
+    "story_chapter_name": "28722",
+    "story_group_name": "28526",
     "replay_Image": "StoryReplay_region6_04",
-    "replay_list_summary": "DB_cutscene_replay_list_1050"
+    "replay_list_summary": "28921"
   },
   {
     "id": 1063,
@@ -750,10 +750,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 62,
-    "story_chapter_name": "DB_replay_number_1063",
-    "story_group_name": "DB_replay_name_1051",
+    "story_chapter_name": "28723",
+    "story_group_name": "28527",
     "replay_Image": "StoryReplay_region6_05",
-    "replay_list_summary": "DB_cutscene_replay_list_1051"
+    "replay_list_summary": "28922"
   },
   {
     "id": 1064,
@@ -762,10 +762,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 63,
-    "story_chapter_name": "DB_replay_number_1064",
-    "story_group_name": "DB_replay_name_1052",
+    "story_chapter_name": "28724",
+    "story_group_name": "28528",
     "replay_Image": "StoryReplay_region6_06",
-    "replay_list_summary": "DB_cutscene_replay_list_1052"
+    "replay_list_summary": "28923"
   },
   {
     "id": 1065,
@@ -774,10 +774,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 64,
-    "story_chapter_name": "DB_replay_number_1065",
-    "story_group_name": "DB_replay_name_1053",
+    "story_chapter_name": "28725",
+    "story_group_name": "28529",
     "replay_Image": "StoryReplay_region6_07",
-    "replay_list_summary": "DB_cutscene_replay_list_1053"
+    "replay_list_summary": "28924"
   },
   {
     "id": 1066,
@@ -786,10 +786,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 65,
-    "story_chapter_name": "DB_replay_number_1066",
-    "story_group_name": "DB_replay_name_1062",
+    "story_chapter_name": "28726",
+    "story_group_name": "28538",
     "replay_Image": "StoryReplay_region6_16",
-    "replay_list_summary": "DB_cutscene_replay_list_1062"
+    "replay_list_summary": "28932"
   },
   {
     "id": 1067,
@@ -798,10 +798,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 66,
-    "story_chapter_name": "DB_replay_number_1067",
-    "story_group_name": "DB_replay_name_1054",
+    "story_chapter_name": "28727",
+    "story_group_name": "28530",
     "replay_Image": "StoryReplay_region6_27",
-    "replay_list_summary": "DB_cutscene_replay_list_1054"
+    "replay_list_summary": "28925"
   },
   {
     "id": 1068,
@@ -810,10 +810,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 67,
-    "story_chapter_name": "DB_replay_number_1068",
-    "story_group_name": "DB_replay_name_1063",
+    "story_chapter_name": "28728",
+    "story_group_name": "28539",
     "replay_Image": "StoryReplay_region6_17",
-    "replay_list_summary": "DB_cutscene_replay_list_1063"
+    "replay_list_summary": "28933"
   },
   {
     "id": 1069,
@@ -822,10 +822,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 68,
-    "story_chapter_name": "DB_replay_number_1069",
-    "story_group_name": "DB_replay_name_1064",
+    "story_chapter_name": "28729",
+    "story_group_name": "28540",
     "replay_Image": "StoryReplay_region6_18",
-    "replay_list_summary": "DB_cutscene_replay_list_1064"
+    "replay_list_summary": "28934"
   },
   {
     "id": 1070,
@@ -834,10 +834,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 69,
-    "story_chapter_name": "DB_replay_number_1070",
-    "story_group_name": "DB_replay_name_1065",
+    "story_chapter_name": "28730",
+    "story_group_name": "28541",
     "replay_Image": "StoryReplay_region6_19",
-    "replay_list_summary": "DB_cutscene_replay_list_1065"
+    "replay_list_summary": "28935"
   },
   {
     "id": 1071,
@@ -846,10 +846,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 70,
-    "story_chapter_name": "DB_replay_number_1071",
-    "story_group_name": "DB_replay_name_1066",
+    "story_chapter_name": "28731",
+    "story_group_name": "28542",
     "replay_Image": "StoryReplay_region6_20",
-    "replay_list_summary": "DB_cutscene_replay_list_1066"
+    "replay_list_summary": "28936"
   },
   {
     "id": 1072,
@@ -858,10 +858,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 71,
-    "story_chapter_name": "DB_replay_number_1072",
-    "story_group_name": "DB_replay_name_1067",
+    "story_chapter_name": "28732",
+    "story_group_name": "28543",
     "replay_Image": "StoryReplay_region6_21",
-    "replay_list_summary": "DB_cutscene_replay_list_1067"
+    "replay_list_summary": "28937"
   },
   {
     "id": 1073,
@@ -870,10 +870,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 72,
-    "story_chapter_name": "DB_replay_number_1073",
-    "story_group_name": "DB_replay_name_1068",
+    "story_chapter_name": "28733",
+    "story_group_name": "28544",
     "replay_Image": "StoryReplay_region6_22",
-    "replay_list_summary": "DB_cutscene_replay_list_1068"
+    "replay_list_summary": "28938"
   },
   {
     "id": 1074,
@@ -882,10 +882,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 73,
-    "story_chapter_name": "DB_replay_number_1074",
-    "story_group_name": "DB_replay_name_1069",
+    "story_chapter_name": "28734",
+    "story_group_name": "28546",
     "replay_Image": "StoryReplay_region6_28",
-    "replay_list_summary": "DB_cutscene_replay_list_1069"
+    "replay_list_summary": "28939"
   },
   {
     "id": 1075,
@@ -894,10 +894,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 74,
-    "story_chapter_name": "DB_replay_number_1075",
-    "story_group_name": "DB_replay_name_1073",
+    "story_chapter_name": "28735",
+    "story_group_name": "28550",
     "replay_Image": "StoryReplay_region6_29",
-    "replay_list_summary": "DB_cutscene_replay_list_1073"
+    "replay_list_summary": "28943"
   },
   {
     "id": 1076,
@@ -906,10 +906,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 75,
-    "story_chapter_name": "DB_replay_number_1076",
-    "story_group_name": "DB_replay_name_1074",
+    "story_chapter_name": "28736",
+    "story_group_name": "28551",
     "replay_Image": "StoryReplay_region6_30",
-    "replay_list_summary": "DB_cutscene_replay_list_1074"
+    "replay_list_summary": "28944"
   },
   {
     "id": 1077,
@@ -918,10 +918,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 76,
-    "story_chapter_name": "DB_replay_number_1077",
-    "story_group_name": "DB_replay_name_1075",
+    "story_chapter_name": "28737",
+    "story_group_name": "28552",
     "replay_Image": "StoryReplay_region6_31",
-    "replay_list_summary": "DB_cutscene_replay_list_1075"
+    "replay_list_summary": "28945"
   },
   {
     "id": 1078,
@@ -930,10 +930,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 77,
-    "story_chapter_name": "DB_replay_number_1078",
-    "story_group_name": "DB_replay_name_1076",
+    "story_chapter_name": "28738",
+    "story_group_name": "28553",
     "replay_Image": "StoryReplay_region6_32",
-    "replay_list_summary": "DB_cutscene_replay_list_1076"
+    "replay_list_summary": "28946"
   },
   {
     "id": 1079,
@@ -942,10 +942,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 78,
-    "story_chapter_name": "DB_replay_number_1079",
-    "story_group_name": "DB_replay_name_1077",
+    "story_chapter_name": "28739",
+    "story_group_name": "28554",
     "replay_Image": "StoryReplay_region6_33",
-    "replay_list_summary": "DB_cutscene_replay_list_1077"
+    "replay_list_summary": "28947"
   },
   {
     "id": 1080,
@@ -954,10 +954,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 79,
-    "story_chapter_name": "DB_replay_number_1080",
-    "story_group_name": "DB_replay_name_1078",
+    "story_chapter_name": "28740",
+    "story_group_name": "28555",
     "replay_Image": "StoryReplay_region6_34",
-    "replay_list_summary": "DB_cutscene_replay_list_1078"
+    "replay_list_summary": "28948"
   },
   {
     "id": 1081,
@@ -966,10 +966,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 80,
-    "story_chapter_name": "DB_replay_number_1081",
-    "story_group_name": "DB_replay_name_1079",
+    "story_chapter_name": "28741",
+    "story_group_name": "28558",
     "replay_Image": "StoryReplay_region6_35",
-    "replay_list_summary": "DB_cutscene_replay_list_1079"
+    "replay_list_summary": "28949"
   },
   {
     "id": 1082,
@@ -978,10 +978,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 81,
-    "story_chapter_name": "DB_replay_number_1082",
-    "story_group_name": "DB_replay_name_1080",
+    "story_chapter_name": "28742",
+    "story_group_name": "28559",
     "replay_Image": "StoryReplay_region6_36",
-    "replay_list_summary": "DB_cutscene_replay_list_1080"
+    "replay_list_summary": "28950"
   },
   {
     "id": 1083,
@@ -990,10 +990,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 82,
-    "story_chapter_name": "DB_replay_number_1083",
-    "story_group_name": "DB_replay_name_1081",
+    "story_chapter_name": "28743",
+    "story_group_name": "28560",
     "replay_Image": "StoryReplay_region6_37",
-    "replay_list_summary": "DB_cutscene_replay_list_1081"
+    "replay_list_summary": "28951"
   },
   {
     "id": 1084,
@@ -1002,10 +1002,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 83,
-    "story_chapter_name": "DB_replay_number_1084",
-    "story_group_name": "DB_replay_name_1082",
+    "story_chapter_name": "28744",
+    "story_group_name": "28565",
     "replay_Image": "StoryReplay_region6_38",
-    "replay_list_summary": "DB_cutscene_replay_list_1082"
+    "replay_list_summary": "28952"
   },
   {
     "id": 1085,
@@ -1014,10 +1014,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 84,
-    "story_chapter_name": "DB_replay_number_1085",
-    "story_group_name": "DB_replay_name_1083",
+    "story_chapter_name": "28745",
+    "story_group_name": "28568",
     "replay_Image": "StoryReplay_region6_39",
-    "replay_list_summary": "DB_cutscene_replay_list_1083"
+    "replay_list_summary": "28953"
   },
   {
     "id": 1086,
@@ -1026,10 +1026,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 85,
-    "story_chapter_name": "DB_replay_number_1086",
-    "story_group_name": "DB_replay_name_1084",
+    "story_chapter_name": "28746",
+    "story_group_name": "28569",
     "replay_Image": "StoryReplay_region6_40",
-    "replay_list_summary": "DB_cutscene_replay_list_1084"
+    "replay_list_summary": "28954"
   },
   {
     "id": 1087,
@@ -1038,10 +1038,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 86,
-    "story_chapter_name": "DB_replay_number_1087",
-    "story_group_name": "DB_replay_name_1085",
+    "story_chapter_name": "28747",
+    "story_group_name": "28570",
     "replay_Image": "StoryReplay_region6_41",
-    "replay_list_summary": "DB_cutscene_replay_list_1085"
+    "replay_list_summary": "28955"
   },
   {
     "id": 1088,
@@ -1050,10 +1050,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 87,
-    "story_chapter_name": "DB_replay_number_1088",
-    "story_group_name": "DB_replay_name_1086",
+    "story_chapter_name": "28748",
+    "story_group_name": "28571",
     "replay_Image": "StoryReplay_region6_42",
-    "replay_list_summary": "DB_cutscene_replay_list_1086"
+    "replay_list_summary": "28956"
   },
   {
     "id": 1089,
@@ -1062,10 +1062,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 88,
-    "story_chapter_name": "DB_replay_number_1089",
-    "story_group_name": "DB_replay_name_1105",
+    "story_chapter_name": "28749",
+    "story_group_name": "28598",
     "replay_Image": "StoryReplay_region6_60",
-    "replay_list_summary": "DB_cutscene_replay_list_1105"
+    "replay_list_summary": "28974"
   },
   {
     "id": 1090,
@@ -1074,10 +1074,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 89,
-    "story_chapter_name": "DB_replay_number_1090",
-    "story_group_name": "DB_replay_name_1106",
+    "story_chapter_name": "28750",
+    "story_group_name": "28599",
     "replay_Image": "StoryReplay_region6_61",
-    "replay_list_summary": "DB_cutscene_replay_list_1106"
+    "replay_list_summary": "28975"
   },
   {
     "id": 1091,
@@ -1086,10 +1086,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 90,
-    "story_chapter_name": "DB_replay_number_1091",
-    "story_group_name": "DB_replay_name_1107",
+    "story_chapter_name": "28751",
+    "story_group_name": "28600",
     "replay_Image": "StoryReplay_region6_62",
-    "replay_list_summary": "DB_cutscene_replay_list_1107"
+    "replay_list_summary": "28976"
   },
   {
     "id": 1092,
@@ -1098,10 +1098,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 91,
-    "story_chapter_name": "DB_replay_number_1092",
-    "story_group_name": "DB_replay_name_1108",
+    "story_chapter_name": "28752",
+    "story_group_name": "28601",
     "replay_Image": "StoryReplay_region6_63",
-    "replay_list_summary": "DB_cutscene_replay_list_1108"
+    "replay_list_summary": "28977"
   },
   {
     "id": 1093,
@@ -1110,10 +1110,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 92,
-    "story_chapter_name": "DB_replay_number_1093",
-    "story_group_name": "DB_replay_name_1109",
+    "story_chapter_name": "28753",
+    "story_group_name": "28602",
     "replay_Image": "StoryReplay_region6_64",
-    "replay_list_summary": "DB_cutscene_replay_list_1109"
+    "replay_list_summary": "28978"
   },
   {
     "id": 1094,
@@ -1122,10 +1122,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 93,
-    "story_chapter_name": "DB_replay_number_1094",
-    "story_group_name": "DB_replay_name_1110",
+    "story_chapter_name": "28754",
+    "story_group_name": "28603",
     "replay_Image": "StoryReplay_region6_65",
-    "replay_list_summary": "DB_cutscene_replay_list_1110"
+    "replay_list_summary": "28979"
   },
   {
     "id": 1095,
@@ -1134,10 +1134,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 94,
-    "story_chapter_name": "DB_replay_number_1095",
-    "story_group_name": "DB_replay_name_1111",
+    "story_chapter_name": "28755",
+    "story_group_name": "28604",
     "replay_Image": "StoryReplay_region6_66",
-    "replay_list_summary": "DB_cutscene_replay_list_1111"
+    "replay_list_summary": "28980"
   },
   {
     "id": 1096,
@@ -1146,10 +1146,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 95,
-    "story_chapter_name": "DB_replay_number_1096",
-    "story_group_name": "DB_replay_name_1112",
+    "story_chapter_name": "28756",
+    "story_group_name": "28605",
     "replay_Image": "StoryReplay_region6_67",
-    "replay_list_summary": "DB_cutscene_replay_list_1112"
+    "replay_list_summary": "28981"
   },
   {
     "id": 1097,
@@ -1158,10 +1158,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 96,
-    "story_chapter_name": "DB_replay_number_1097",
-    "story_group_name": "DB_replay_name_1087",
+    "story_chapter_name": "28757",
+    "story_group_name": "28574",
     "replay_Image": "StoryReplay_region6_43",
-    "replay_list_summary": "DB_cutscene_replay_list_1087"
+    "replay_list_summary": "28957"
   },
   {
     "id": 1098,
@@ -1170,10 +1170,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 97,
-    "story_chapter_name": "DB_replay_number_1098",
-    "story_group_name": "DB_replay_name_1088",
+    "story_chapter_name": "28758",
+    "story_group_name": "28575",
     "replay_Image": "StoryReplay_region6_44",
-    "replay_list_summary": "DB_cutscene_replay_list_1088"
+    "replay_list_summary": "28958"
   },
   {
     "id": 1099,
@@ -1182,10 +1182,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 98,
-    "story_chapter_name": "DB_replay_number_1099",
-    "story_group_name": "DB_replay_name_1089",
+    "story_chapter_name": "28759",
+    "story_group_name": "28576",
     "replay_Image": "StoryReplay_region6_45",
-    "replay_list_summary": "DB_cutscene_replay_list_1089"
+    "replay_list_summary": "28959"
   },
   {
     "id": 1100,
@@ -1194,10 +1194,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 99,
-    "story_chapter_name": "DB_replay_number_1100",
-    "story_group_name": "DB_replay_name_1100",
+    "story_chapter_name": "28760",
+    "story_group_name": "28594",
     "replay_Image": "StoryReplay_region6_55",
-    "replay_list_summary": "DB_cutscene_summary_3006532"
+    "replay_list_summary": "28011"
   },
   {
     "id": 1101,
@@ -1206,10 +1206,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 100,
-    "story_chapter_name": "DB_replay_number_1101",
-    "story_group_name": "DB_replay_name_1090",
+    "story_chapter_name": "28761",
+    "story_group_name": "28577",
     "replay_Image": "StoryReplay_region6_46",
-    "replay_list_summary": "DB_cutscene_replay_list_1090"
+    "replay_list_summary": "28960"
   },
   {
     "id": 1102,
@@ -1218,10 +1218,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101,
-    "story_chapter_name": "DB_replay_number_1102",
-    "story_group_name": "DB_replay_name_1091",
+    "story_chapter_name": "28762",
+    "story_group_name": "28580",
     "replay_Image": "StoryReplay_region6_47",
-    "replay_list_summary": "DB_cutscene_replay_list_1091"
+    "replay_list_summary": "28961"
   },
   {
     "id": 1103,
@@ -1230,10 +1230,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 102,
-    "story_chapter_name": "DB_replay_number_1103",
-    "story_group_name": "DB_replay_name_1092",
+    "story_chapter_name": "28763",
+    "story_group_name": "28583",
     "replay_Image": "StoryReplay_region6_48",
-    "replay_list_summary": "DB_cutscene_replay_list_1092"
+    "replay_list_summary": "28962"
   },
   {
     "id": 1104,
@@ -1242,10 +1242,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 103,
-    "story_chapter_name": "DB_replay_number_1104",
-    "story_group_name": "DB_replay_name_1093",
+    "story_chapter_name": "28764",
+    "story_group_name": "28584",
     "replay_Image": "StoryReplay_region6_49",
-    "replay_list_summary": "DB_cutscene_replay_list_1093"
+    "replay_list_summary": "28963"
   },
   {
     "id": 1105,
@@ -1254,10 +1254,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 104,
-    "story_chapter_name": "DB_replay_number_1105",
-    "story_group_name": "DB_replay_name_1094",
+    "story_chapter_name": "28765",
+    "story_group_name": "28587",
     "replay_Image": "StoryReplay_region6_50",
-    "replay_list_summary": "DB_cutscene_replay_list_1094"
+    "replay_list_summary": "28964"
   },
   {
     "id": 1106,
@@ -1266,10 +1266,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 105,
-    "story_chapter_name": "DB_replay_number_1106",
-    "story_group_name": "DB_replay_name_1095",
+    "story_chapter_name": "28766",
+    "story_group_name": "28588",
     "replay_Image": "StoryReplay_region6_51",
-    "replay_list_summary": "DB_cutscene_replay_list_1095"
+    "replay_list_summary": "28965"
   },
   {
     "id": 1107,
@@ -1278,10 +1278,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 106,
-    "story_chapter_name": "DB_replay_number_1107",
-    "story_group_name": "DB_replay_name_1101",
+    "story_chapter_name": "28767",
+    "story_group_name": "28595",
     "replay_Image": "StoryReplay_region6_56",
-    "replay_list_summary": "DB_cutscene_replay_list_1100"
+    "replay_list_summary": "28969"
   },
   {
     "id": 1108,
@@ -1290,10 +1290,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 107,
-    "story_chapter_name": "DB_replay_number_1108",
-    "story_group_name": "DB_replay_name_1096",
+    "story_chapter_name": "28768",
+    "story_group_name": "28591",
     "replay_Image": "StoryReplay_region6_52",
-    "replay_list_summary": "DB_cutscene_replay_list_1096"
+    "replay_list_summary": "28966"
   },
   {
     "id": 1109,
@@ -1302,10 +1302,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 108,
-    "story_chapter_name": "DB_replay_number_1109",
-    "story_group_name": "DB_replay_name_1097",
+    "story_chapter_name": "28769",
+    "story_group_name": "28592",
     "replay_Image": "StoryReplay_region6_57",
-    "replay_list_summary": "DB_cutscene_replay_list_1101"
+    "replay_list_summary": "28970"
   },
   {
     "id": 1110,
@@ -1314,10 +1314,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 109,
-    "story_chapter_name": "DB_replay_number_1110",
-    "story_group_name": "DB_replay_name_1103",
+    "story_chapter_name": "28770",
+    "story_group_name": "28596",
     "replay_Image": "StoryReplay_region6_53",
-    "replay_list_summary": "DB_cutscene_replay_list_1102"
+    "replay_list_summary": "28971"
   },
   {
     "id": 1111,
@@ -1326,10 +1326,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 110,
-    "story_chapter_name": "DB_replay_number_1111",
-    "story_group_name": "DB_replay_name_1098",
+    "story_chapter_name": "28771",
+    "story_group_name": "28593",
     "replay_Image": "StoryReplay_region6_54",
-    "replay_list_summary": "DB_cutscene_replay_list_1098"
+    "replay_list_summary": "28967"
   },
   {
     "id": 1112,
@@ -1338,10 +1338,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 111,
-    "story_chapter_name": "DB_replay_number_1112",
-    "story_group_name": "DB_replay_name_1113",
+    "story_chapter_name": "28772",
+    "story_group_name": "28606",
     "replay_Image": "StoryReplay_region7_01",
-    "replay_list_summary": "DB_cutscene_replay_list_1114"
+    "replay_list_summary": "26733"
   },
   {
     "id": 1113,
@@ -1350,10 +1350,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 112,
-    "story_chapter_name": "DB_replay_number_1113",
-    "story_group_name": "DB_replay_name_1114",
+    "story_chapter_name": "28773",
+    "story_group_name": "28607",
     "replay_Image": "StoryReplay_region7_02",
-    "replay_list_summary": "DB_cutscene_replay_list_1115"
+    "replay_list_summary": "26734"
   },
   {
     "id": 1114,
@@ -1362,10 +1362,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 113,
-    "story_chapter_name": "DB_replay_number_1114",
-    "story_group_name": "DB_replay_name_1115",
+    "story_chapter_name": "28774",
+    "story_group_name": "28608",
     "replay_Image": "StoryReplay_region7_03",
-    "replay_list_summary": "DB_cutscene_replay_list_1116"
+    "replay_list_summary": "26735"
   },
   {
     "id": 1115,
@@ -1374,10 +1374,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 114,
-    "story_chapter_name": "DB_replay_number_1115",
-    "story_group_name": "DB_replay_name_1116",
+    "story_chapter_name": "28775",
+    "story_group_name": "28609",
     "replay_Image": "StoryReplay_region7_04",
-    "replay_list_summary": "DB_cutscene_replay_list_1117"
+    "replay_list_summary": "26736"
   },
   {
     "id": 1116,
@@ -1386,10 +1386,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 115,
-    "story_chapter_name": "DB_replay_number_1116",
-    "story_group_name": "DB_stage_cut_name_3007040",
+    "story_chapter_name": "28776",
+    "story_group_name": "30697",
     "replay_Image": "StoryReplay_region7_05",
-    "replay_list_summary": "DB_cutscene_replay_list_1118"
+    "replay_list_summary": "26737"
   },
   {
     "id": 1117,
@@ -1398,10 +1398,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 116,
-    "story_chapter_name": "DB_replay_number_1117",
-    "story_group_name": "DB_replay_name_1118",
+    "story_chapter_name": "28777",
+    "story_group_name": "28611",
     "replay_Image": "StoryReplay_region7_06",
-    "replay_list_summary": "DB_cutscene_replay_list_1119"
+    "replay_list_summary": "26738"
   },
   {
     "id": 1118,
@@ -1410,10 +1410,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 117,
-    "story_chapter_name": "DB_replay_number_1118",
-    "story_group_name": "DB_replay_name_1119",
+    "story_chapter_name": "28778",
+    "story_group_name": "28612",
     "replay_Image": "StoryReplay_region7_07",
-    "replay_list_summary": "DB_cutscene_replay_list_1120"
+    "replay_list_summary": "26739"
   },
   {
     "id": 1119,
@@ -1422,10 +1422,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 118,
-    "story_chapter_name": "DB_replay_number_1119",
-    "story_group_name": "DB_replay_name_1120",
+    "story_chapter_name": "28779",
+    "story_group_name": "28613",
     "replay_Image": "StoryReplay_region7_08",
-    "replay_list_summary": "DB_cutscene_replay_list_1121"
+    "replay_list_summary": "26740"
   },
   {
     "id": 1120,
@@ -1434,10 +1434,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 119,
-    "story_chapter_name": "DB_replay_number_1120",
-    "story_group_name": "DB_replay_name_1121",
+    "story_chapter_name": "28780",
+    "story_group_name": "28614",
     "replay_Image": "StoryReplay_region7_09",
-    "replay_list_summary": "DB_cutscene_replay_list_1122"
+    "replay_list_summary": "26741"
   },
   {
     "id": 1121,
@@ -1446,10 +1446,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 120,
-    "story_chapter_name": "DB_replay_number_1121",
-    "story_group_name": "DB_replay_name_1122",
+    "story_chapter_name": "28781",
+    "story_group_name": "28615",
     "replay_Image": "StoryReplay_region7_10",
-    "replay_list_summary": "DB_cutscene_replay_list_1123"
+    "replay_list_summary": "26742"
   },
   {
     "id": 1122,
@@ -1458,10 +1458,10 @@
     "story_region": 7,
     "story_region_ep": 0,
     "story_group": 121,
-    "story_chapter_name": "DB_replay_number_1122",
-    "story_group_name": "DB_replay_name_1123",
+    "story_chapter_name": "28782",
+    "story_group_name": "28616",
     "replay_Image": "StoryReplay_region7_11",
-    "replay_list_summary": "DB_cutscene_replay_list_1124"
+    "replay_list_summary": "26743"
   },
   {
     "id": 1130,
@@ -1470,10 +1470,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 122,
-    "story_chapter_name": "DB_replay_number_1130",
-    "story_group_name": "DB_replay_name_1130",
+    "story_chapter_name": "28783",
+    "story_group_name": "28617",
     "replay_Image": "StoryReplay_region8_01",
-    "replay_list_summary": "DB_cutscene_replay_list_1130"
+    "replay_list_summary": "26744"
   },
   {
     "id": 1131,
@@ -1482,10 +1482,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 123,
-    "story_chapter_name": "DB_replay_number_1131",
-    "story_group_name": "DB_replay_name_1131",
+    "story_chapter_name": "28784",
+    "story_group_name": "28618",
     "replay_Image": "StoryReplay_region8_02",
-    "replay_list_summary": "DB_cutscene_replay_list_1131"
+    "replay_list_summary": "26745"
   },
   {
     "id": 1132,
@@ -1494,10 +1494,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 124,
-    "story_chapter_name": "DB_replay_number_1132",
-    "story_group_name": "DB_replay_name_1132",
+    "story_chapter_name": "28785",
+    "story_group_name": "28619",
     "replay_Image": "StoryReplay_region8_03",
-    "replay_list_summary": "DB_cutscene_replay_list_1132"
+    "replay_list_summary": "26746"
   },
   {
     "id": 1133,
@@ -1506,10 +1506,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 125,
-    "story_chapter_name": "DB_replay_number_1133",
-    "story_group_name": "DB_replay_name_1133",
+    "story_chapter_name": "28786",
+    "story_group_name": "28620",
     "replay_Image": "StoryReplay_region8_04",
-    "replay_list_summary": "DB_cutscene_replay_list_1133"
+    "replay_list_summary": "26747"
   },
   {
     "id": 1134,
@@ -1518,10 +1518,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 126,
-    "story_chapter_name": "DB_replay_number_1134",
-    "story_group_name": "DB_replay_name_1134",
+    "story_chapter_name": "28787",
+    "story_group_name": "28621",
     "replay_Image": "StoryReplay_region8_05",
-    "replay_list_summary": "DB_cutscene_replay_list_1134"
+    "replay_list_summary": "26748"
   },
   {
     "id": 1135,
@@ -1530,10 +1530,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 127,
-    "story_chapter_name": "DB_replay_number_1135",
-    "story_group_name": "DB_replay_name_1135",
+    "story_chapter_name": "28788",
+    "story_group_name": "28622",
     "replay_Image": "StoryReplay_region8_06",
-    "replay_list_summary": "DB_cutscene_replay_list_1135"
+    "replay_list_summary": "26749"
   },
   {
     "id": 1136,
@@ -1542,10 +1542,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 128,
-    "story_chapter_name": "DB_replay_number_1136",
-    "story_group_name": "DB_replay_name_1136",
+    "story_chapter_name": "28789",
+    "story_group_name": "28623",
     "replay_Image": "StoryReplay_region8_07",
-    "replay_list_summary": "DB_cutscene_replay_list_1136"
+    "replay_list_summary": "26750"
   },
   {
     "id": 1137,
@@ -1554,10 +1554,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 129,
-    "story_chapter_name": "DB_replay_number_1137",
-    "story_group_name": "DB_replay_name_1137",
+    "story_chapter_name": "28790",
+    "story_group_name": "28624",
     "replay_Image": "StoryReplay_region8_08",
-    "replay_list_summary": "DB_cutscene_replay_list_1137"
+    "replay_list_summary": "26751"
   },
   {
     "id": 1138,
@@ -1566,10 +1566,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 130,
-    "story_chapter_name": "DB_replay_number_1138",
-    "story_group_name": "DB_replay_name_1138",
+    "story_chapter_name": "28791",
+    "story_group_name": "28625",
     "replay_Image": "StoryReplay_region8_09",
-    "replay_list_summary": "DB_cutscene_replay_list_1138"
+    "replay_list_summary": "26752"
   },
   {
     "id": 1139,
@@ -1578,10 +1578,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 131,
-    "story_chapter_name": "DB_replay_number_1139",
-    "story_group_name": "DB_replay_name_1139",
+    "story_chapter_name": "28792",
+    "story_group_name": "28626",
     "replay_Image": "StoryReplay_region8_10",
-    "replay_list_summary": "DB_cutscene_replay_list_1139"
+    "replay_list_summary": "26753"
   },
   {
     "id": 1140,
@@ -1590,10 +1590,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 132,
-    "story_chapter_name": "DB_replay_number_1140",
-    "story_group_name": "DB_replay_name_1140",
+    "story_chapter_name": "28793",
+    "story_group_name": "28627",
     "replay_Image": "StoryReplay_region8_11",
-    "replay_list_summary": "DB_cutscene_replay_list_1140"
+    "replay_list_summary": "26754"
   },
   {
     "id": 1141,
@@ -1602,10 +1602,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 133,
-    "story_chapter_name": "DB_replay_number_1141",
-    "story_group_name": "DB_replay_name_1141",
+    "story_chapter_name": "28794",
+    "story_group_name": "28628",
     "replay_Image": "StoryReplay_region8_12",
-    "replay_list_summary": "DB_cutscene_replay_list_1141"
+    "replay_list_summary": "26755"
   },
   {
     "id": 1142,
@@ -1614,10 +1614,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 134,
-    "story_chapter_name": "DB_replay_number_1142",
-    "story_group_name": "DB_replay_name_1142",
+    "story_chapter_name": "28795",
+    "story_group_name": "28629",
     "replay_Image": "StoryReplay_region8_13",
-    "replay_list_summary": "DB_cutscene_replay_list_1142"
+    "replay_list_summary": "26756"
   },
   {
     "id": 1143,
@@ -1626,10 +1626,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 135,
-    "story_chapter_name": "DB_replay_number_1143",
-    "story_group_name": "DB_replay_name_1143",
+    "story_chapter_name": "28796",
+    "story_group_name": "28630",
     "replay_Image": "StoryReplay_region8_14",
-    "replay_list_summary": "DB_cutscene_replay_list_1143"
+    "replay_list_summary": "26757"
   },
   {
     "id": 1144,
@@ -1638,10 +1638,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 136,
-    "story_chapter_name": "DB_replay_number_1144",
-    "story_group_name": "DB_replay_name_1144",
+    "story_chapter_name": "28797",
+    "story_group_name": "28631",
     "replay_Image": "StoryReplay_region8_15",
-    "replay_list_summary": "DB_cutscene_replay_list_1144"
+    "replay_list_summary": "26758"
   },
   {
     "id": 1145,
@@ -1650,10 +1650,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 137,
-    "story_chapter_name": "DB_replay_number_1145",
-    "story_group_name": "DB_replay_name_1145",
+    "story_chapter_name": "28798",
+    "story_group_name": "28632",
     "replay_Image": "StoryReplay_region8_16",
-    "replay_list_summary": "DB_cutscene_replay_list_1145"
+    "replay_list_summary": "26759"
   },
   {
     "id": 1146,
@@ -1662,10 +1662,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 138,
-    "story_chapter_name": "DB_replay_number_1146",
-    "story_group_name": "DB_replay_name_1146",
+    "story_chapter_name": "28799",
+    "story_group_name": "28633",
     "replay_Image": "StoryReplay_region8_17",
-    "replay_list_summary": "DB_cutscene_replay_list_1146"
+    "replay_list_summary": "26760"
   },
   {
     "id": 1147,
@@ -1674,10 +1674,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 139,
-    "story_chapter_name": "DB_replay_number_1147",
-    "story_group_name": "DB_replay_name_1147",
+    "story_chapter_name": "28800",
+    "story_group_name": "28634",
     "replay_Image": "StoryReplay_region8_18",
-    "replay_list_summary": "DB_cutscene_replay_list_1147"
+    "replay_list_summary": "26761"
   },
   {
     "id": 1148,
@@ -1686,10 +1686,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 140,
-    "story_chapter_name": "DB_replay_number_1148",
-    "story_group_name": "DB_replay_name_1148",
+    "story_chapter_name": "28801",
+    "story_group_name": "28635",
     "replay_Image": "StoryReplay_region8_19",
-    "replay_list_summary": "DB_cutscene_replay_list_1148"
+    "replay_list_summary": "26762"
   },
   {
     "id": 1149,
@@ -1698,10 +1698,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 141,
-    "story_chapter_name": "DB_replay_number_1149",
-    "story_group_name": "DB_replay_name_1149",
+    "story_chapter_name": "28802",
+    "story_group_name": "28636",
     "replay_Image": "StoryReplay_region8_20",
-    "replay_list_summary": "DB_cutscene_replay_list_1149"
+    "replay_list_summary": "26763"
   },
   {
     "id": 1150,
@@ -1710,10 +1710,10 @@
     "story_region": 8,
     "story_region_ep": 0,
     "story_group": 142,
-    "story_chapter_name": "DB_replay_number_1150",
-    "story_group_name": "DB_replay_name_1150",
+    "story_chapter_name": "28803",
+    "story_group_name": "28637",
     "replay_Image": "StoryReplay_region8_21",
-    "replay_list_summary": "DB_cutscene_replay_list_1150"
+    "replay_list_summary": "26764"
   },
   {
     "id": 1151,
@@ -1722,10 +1722,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 143,
-    "story_chapter_name": "DB_replay_number_1151",
-    "story_group_name": "DB_replay_name_1151",
+    "story_chapter_name": "28804",
+    "story_group_name": "28638",
     "replay_Image": "StoryReplay_region8_22",
-    "replay_list_summary": "DB_cutscene_replay_list_1151"
+    "replay_list_summary": "26765"
   },
   {
     "id": 1152,
@@ -1734,10 +1734,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 144,
-    "story_chapter_name": "DB_replay_number_1152",
-    "story_group_name": "DB_replay_name_1152",
+    "story_chapter_name": "28805",
+    "story_group_name": "28639",
     "replay_Image": "StoryReplay_region8_23",
-    "replay_list_summary": "DB_cutscene_replay_list_1152"
+    "replay_list_summary": "26766"
   },
   {
     "id": 1153,
@@ -1746,10 +1746,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 145,
-    "story_chapter_name": "DB_replay_number_1153",
-    "story_group_name": "DB_replay_name_1153",
+    "story_chapter_name": "28806",
+    "story_group_name": "28640",
     "replay_Image": "StoryReplay_region8_24",
-    "replay_list_summary": "DB_cutscene_replay_list_1153"
+    "replay_list_summary": "26767"
   },
   {
     "id": 1154,
@@ -1758,10 +1758,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 146,
-    "story_chapter_name": "DB_replay_number_1154",
-    "story_group_name": "DB_replay_name_1154",
+    "story_chapter_name": "28807",
+    "story_group_name": "28641",
     "replay_Image": "StoryReplay_region8_25",
-    "replay_list_summary": "DB_cutscene_replay_list_1154"
+    "replay_list_summary": "26768"
   },
   {
     "id": 1155,
@@ -1770,10 +1770,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 147,
-    "story_chapter_name": "DB_replay_number_1155",
-    "story_group_name": "DB_replay_name_1155",
+    "story_chapter_name": "28808",
+    "story_group_name": "28642",
     "replay_Image": "StoryReplay_region8_26",
-    "replay_list_summary": "DB_cutscene_replay_list_1155"
+    "replay_list_summary": "26769"
   },
   {
     "id": 1156,
@@ -1782,10 +1782,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 148,
-    "story_chapter_name": "DB_replay_number_1156",
-    "story_group_name": "DB_replay_name_1156",
+    "story_chapter_name": "28809",
+    "story_group_name": "28643",
     "replay_Image": "StoryReplay_region8_27",
-    "replay_list_summary": "DB_cutscene_replay_list_1156"
+    "replay_list_summary": "26770"
   },
   {
     "id": 1157,
@@ -1794,10 +1794,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 149,
-    "story_chapter_name": "DB_replay_number_1157",
-    "story_group_name": "DB_replay_name_1157",
+    "story_chapter_name": "28810",
+    "story_group_name": "28644",
     "replay_Image": "StoryReplay_region8_28",
-    "replay_list_summary": "DB_cutscene_replay_list_1157"
+    "replay_list_summary": "26771"
   },
   {
     "id": 1158,
@@ -1806,10 +1806,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 150,
-    "story_chapter_name": "DB_replay_number_1158",
-    "story_group_name": "DB_replay_name_1158",
+    "story_chapter_name": "28811",
+    "story_group_name": "28645",
     "replay_Image": "StoryReplay_region8_29",
-    "replay_list_summary": "DB_cutscene_replay_list_1158"
+    "replay_list_summary": "26772"
   },
   {
     "id": 1159,
@@ -1818,10 +1818,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 151,
-    "story_chapter_name": "DB_replay_number_1159",
-    "story_group_name": "DB_replay_name_1159",
+    "story_chapter_name": "28812",
+    "story_group_name": "28646",
     "replay_Image": "StoryReplay_region8_30",
-    "replay_list_summary": "DB_cutscene_replay_list_1159"
+    "replay_list_summary": "26773"
   },
   {
     "id": 1160,
@@ -1830,10 +1830,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 152,
-    "story_chapter_name": "DB_replay_number_1160",
-    "story_group_name": "DB_replay_name_1160",
+    "story_chapter_name": "28813",
+    "story_group_name": "28647",
     "replay_Image": "StoryReplay_region8_31",
-    "replay_list_summary": "DB_cutscene_replay_list_1160"
+    "replay_list_summary": "26774"
   },
   {
     "id": 1161,
@@ -1842,10 +1842,10 @@
     "story_region": 9,
     "story_region_ep": 0,
     "story_group": 153,
-    "story_chapter_name": "DB_replay_number_1161",
-    "story_group_name": "DB_replay_name_1161",
+    "story_chapter_name": "28814",
+    "story_group_name": "28648",
     "replay_Image": "StoryReplay_region8_32",
-    "replay_list_summary": "DB_cutscene_replay_list_1161"
+    "replay_list_summary": "26775"
   },
   {
     "id": 1162,
@@ -1854,10 +1854,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 154,
-    "story_chapter_name": "DB_replay_number_1162",
-    "story_group_name": "DB_replay_name_1162",
+    "story_chapter_name": "28815",
+    "story_group_name": "28649",
     "replay_Image": "StoryReplay_region8_33",
-    "replay_list_summary": "DB_cutscene_replay_list_1162"
+    "replay_list_summary": "26776"
   },
   {
     "id": 1163,
@@ -1866,10 +1866,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 155,
-    "story_chapter_name": "DB_replay_number_1163",
-    "story_group_name": "DB_replay_name_1163",
+    "story_chapter_name": "28816",
+    "story_group_name": "28650",
     "replay_Image": "StoryReplay_region8_34",
-    "replay_list_summary": "DB_cutscene_replay_list_1163"
+    "replay_list_summary": "26777"
   },
   {
     "id": 1164,
@@ -1878,10 +1878,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 156,
-    "story_chapter_name": "DB_replay_number_1164",
-    "story_group_name": "DB_replay_name_1164",
+    "story_chapter_name": "28817",
+    "story_group_name": "28651",
     "replay_Image": "StoryReplay_region8_35",
-    "replay_list_summary": "DB_cutscene_replay_list_1164"
+    "replay_list_summary": "26778"
   },
   {
     "id": 1165,
@@ -1890,10 +1890,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 157,
-    "story_chapter_name": "DB_replay_number_1165",
-    "story_group_name": "DB_replay_name_1165",
+    "story_chapter_name": "28818",
+    "story_group_name": "28652",
     "replay_Image": "StoryReplay_region8_36",
-    "replay_list_summary": "DB_cutscene_replay_list_1165"
+    "replay_list_summary": "26779"
   },
   {
     "id": 1166,
@@ -1902,10 +1902,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 158,
-    "story_chapter_name": "DB_replay_number_1166",
-    "story_group_name": "DB_replay_name_1166",
+    "story_chapter_name": "28819",
+    "story_group_name": "28653",
     "replay_Image": "StoryReplay_region8_37",
-    "replay_list_summary": "DB_cutscene_replay_list_1166"
+    "replay_list_summary": "26780"
   },
   {
     "id": 1167,
@@ -1914,10 +1914,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 159,
-    "story_chapter_name": "DB_replay_number_1167",
-    "story_group_name": "DB_replay_name_1167",
+    "story_chapter_name": "28820",
+    "story_group_name": "28654",
     "replay_Image": "StoryReplay_region8_38",
-    "replay_list_summary": "DB_cutscene_replay_list_1167"
+    "replay_list_summary": "26781"
   },
   {
     "id": 1168,
@@ -1926,10 +1926,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 160,
-    "story_chapter_name": "DB_replay_number_1168",
-    "story_group_name": "DB_replay_name_1168",
+    "story_chapter_name": "28821",
+    "story_group_name": "28655",
     "replay_Image": "StoryReplay_region8_39",
-    "replay_list_summary": "DB_cutscene_replay_list_1168"
+    "replay_list_summary": "26782"
   },
   {
     "id": 1169,
@@ -1938,10 +1938,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 161,
-    "story_chapter_name": "DB_replay_number_1169",
-    "story_group_name": "DB_replay_name_1169",
+    "story_chapter_name": "28822",
+    "story_group_name": "28656",
     "replay_Image": "StoryReplay_region8_40",
-    "replay_list_summary": "DB_cutscene_replay_list_1169"
+    "replay_list_summary": "26783"
   },
   {
     "id": 1170,
@@ -1950,10 +1950,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 162,
-    "story_chapter_name": "DB_replay_number_1170",
-    "story_group_name": "DB_replay_name_1170",
+    "story_chapter_name": "28823",
+    "story_group_name": "28657",
     "replay_Image": "StoryReplay_region8_41",
-    "replay_list_summary": "DB_cutscene_replay_list_1170"
+    "replay_list_summary": "26784"
   },
   {
     "id": 1171,
@@ -1962,10 +1962,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 163,
-    "story_chapter_name": "DB_replay_number_1171",
-    "story_group_name": "DB_replay_name_1171",
+    "story_chapter_name": "28824",
+    "story_group_name": "28658",
     "replay_Image": "StoryReplay_region8_42",
-    "replay_list_summary": "DB_cutscene_replay_list_1171"
+    "replay_list_summary": "26785"
   },
   {
     "id": 1172,
@@ -1974,10 +1974,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 164,
-    "story_chapter_name": "DB_replay_number_1172",
-    "story_group_name": "DB_replay_name_1172",
+    "story_chapter_name": "28825",
+    "story_group_name": "28659",
     "replay_Image": "StoryReplay_region8_43",
-    "replay_list_summary": "DB_cutscene_replay_list_1172"
+    "replay_list_summary": "26786"
   },
   {
     "id": 1173,
@@ -1986,10 +1986,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 165,
-    "story_chapter_name": "DB_replay_number_1173",
-    "story_group_name": "DB_replay_name_1173",
+    "story_chapter_name": "28826",
+    "story_group_name": "28660",
     "replay_Image": "StoryReplay_region8_44",
-    "replay_list_summary": "DB_cutscene_replay_list_1173"
+    "replay_list_summary": "26787"
   },
   {
     "id": 1174,
@@ -1998,10 +1998,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 166,
-    "story_chapter_name": "DB_replay_number_1174",
-    "story_group_name": "DB_replay_name_1174",
+    "story_chapter_name": "39750",
+    "story_group_name": "39724",
     "replay_Image": "StoryReplay_region8_45",
-    "replay_list_summary": "DB_cutscene_replay_list_1174"
+    "replay_list_summary": "39220"
   },
   {
     "id": 1175,
@@ -2010,10 +2010,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 167,
-    "story_chapter_name": "DB_replay_number_1175",
-    "story_group_name": "DB_replay_name_1175",
+    "story_chapter_name": "39751",
+    "story_group_name": "39725",
     "replay_Image": "StoryReplay_region8_46",
-    "replay_list_summary": "DB_cutscene_replay_list_1175"
+    "replay_list_summary": "39221"
   },
   {
     "id": 1176,
@@ -2022,10 +2022,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 168,
-    "story_chapter_name": "DB_replay_number_1176",
-    "story_group_name": "DB_replay_name_1176",
+    "story_chapter_name": "39752",
+    "story_group_name": "39726",
     "replay_Image": "StoryReplay_region8_47",
-    "replay_list_summary": "DB_cutscene_replay_list_1176"
+    "replay_list_summary": "39222"
   },
   {
     "id": 1177,
@@ -2034,10 +2034,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 169,
-    "story_chapter_name": "DB_replay_number_1177",
-    "story_group_name": "DB_replay_name_1177",
+    "story_chapter_name": "39753",
+    "story_group_name": "39727",
     "replay_Image": "StoryReplay_region8_48",
-    "replay_list_summary": "DB_cutscene_replay_list_1177"
+    "replay_list_summary": "39223"
   },
   {
     "id": 1178,
@@ -2046,10 +2046,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 170,
-    "story_chapter_name": "DB_replay_number_1178",
-    "story_group_name": "DB_replay_name_1178",
+    "story_chapter_name": "39754",
+    "story_group_name": "39728",
     "replay_Image": "StoryReplay_region8_49",
-    "replay_list_summary": "DB_cutscene_replay_list_1178"
+    "replay_list_summary": "39224"
   },
   {
     "id": 1179,
@@ -2058,10 +2058,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 171,
-    "story_chapter_name": "DB_replay_number_1179",
-    "story_group_name": "DB_replay_name_1179",
+    "story_chapter_name": "39755",
+    "story_group_name": "39729",
     "replay_Image": "StoryReplay_region8_50",
-    "replay_list_summary": "DB_cutscene_replay_list_1179"
+    "replay_list_summary": "39225"
   },
   {
     "id": 1180,
@@ -2070,10 +2070,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 172,
-    "story_chapter_name": "DB_replay_number_1180",
-    "story_group_name": "DB_replay_name_1180",
+    "story_chapter_name": "39756",
+    "story_group_name": "39730",
     "replay_Image": "StoryReplay_region8_51",
-    "replay_list_summary": "DB_cutscene_replay_list_1180"
+    "replay_list_summary": "39226"
   },
   {
     "id": 1181,
@@ -2082,10 +2082,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 173,
-    "story_chapter_name": "DB_replay_number_1181",
-    "story_group_name": "DB_replay_name_1181",
+    "story_chapter_name": "39757",
+    "story_group_name": "39731",
     "replay_Image": "StoryReplay_region8_52",
-    "replay_list_summary": "DB_cutscene_replay_list_1181"
+    "replay_list_summary": "39227"
   },
   {
     "id": 1182,
@@ -2094,10 +2094,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 174,
-    "story_chapter_name": "DB_replay_number_1182",
-    "story_group_name": "DB_replay_name_1182",
+    "story_chapter_name": "39758",
+    "story_group_name": "39732",
     "replay_Image": "StoryReplay_region8_53",
-    "replay_list_summary": "DB_cutscene_replay_list_1182"
+    "replay_list_summary": "39228"
   },
   {
     "id": 1183,
@@ -2106,10 +2106,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 175,
-    "story_chapter_name": "DB_replay_number_1183",
-    "story_group_name": "DB_replay_name_1183",
+    "story_chapter_name": "39759",
+    "story_group_name": "39733",
     "replay_Image": "StoryReplay_region8_54",
-    "replay_list_summary": "DB_cutscene_replay_list_1183"
+    "replay_list_summary": "39229"
   },
   {
     "id": 1184,
@@ -2118,10 +2118,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 176,
-    "story_chapter_name": "DB_replay_number_1184",
-    "story_group_name": "DB_replay_name_1184",
+    "story_chapter_name": "39760",
+    "story_group_name": "39734",
     "replay_Image": "StoryReplay_region8_55",
-    "replay_list_summary": "DB_cutscene_replay_list_1184"
+    "replay_list_summary": "39230"
   },
   {
     "id": 1185,
@@ -2130,10 +2130,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 177,
-    "story_chapter_name": "DB_replay_number_1185",
-    "story_group_name": "DB_replay_name_1185",
+    "story_chapter_name": "39761",
+    "story_group_name": "39735",
     "replay_Image": "StoryReplay_region8_56",
-    "replay_list_summary": "DB_cutscene_replay_list_1185"
+    "replay_list_summary": "39231"
   },
   {
     "id": 1186,
@@ -2142,10 +2142,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 178,
-    "story_chapter_name": "DB_replay_number_1186",
-    "story_group_name": "DB_replay_name_1186",
+    "story_chapter_name": "39762",
+    "story_group_name": "39736",
     "replay_Image": "StoryReplay_region8_57",
-    "replay_list_summary": "DB_cutscene_replay_list_1186"
+    "replay_list_summary": "39232"
   },
   {
     "id": 1187,
@@ -2154,10 +2154,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 179,
-    "story_chapter_name": "DB_replay_number_1187",
-    "story_group_name": "DB_replay_name_1187",
+    "story_chapter_name": "39763",
+    "story_group_name": "39737",
     "replay_Image": "StoryReplay_region8_58",
-    "replay_list_summary": "DB_cutscene_replay_list_1187"
+    "replay_list_summary": "39233"
   },
   {
     "id": 1188,
@@ -2166,10 +2166,10 @@
     "story_region": 10,
     "story_region_ep": 0,
     "story_group": 180,
-    "story_chapter_name": "DB_replay_number_1188",
-    "story_group_name": "DB_replay_name_1188",
+    "story_chapter_name": "39764",
+    "story_group_name": "39738",
     "replay_Image": "StoryReplay_region8_59",
-    "replay_list_summary": "DB_cutscene_replay_list_1188"
+    "replay_list_summary": "39234"
   },
   {
     "id": 1189,
@@ -2178,10 +2178,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 181,
-    "story_chapter_name": "DB_replay_number_1189",
-    "story_group_name": "DB_replay_name_1189",
+    "story_chapter_name": "39765",
+    "story_group_name": "39739",
     "replay_Image": "StoryReplay_region8_60",
-    "replay_list_summary": "DB_cutscene_replay_list_1189"
+    "replay_list_summary": "39235"
   },
   {
     "id": 1190,
@@ -2190,10 +2190,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 182,
-    "story_chapter_name": "DB_replay_number_1190",
-    "story_group_name": "DB_replay_name_1190",
+    "story_chapter_name": "39766",
+    "story_group_name": "39740",
     "replay_Image": "StoryReplay_region8_61",
-    "replay_list_summary": "DB_cutscene_replay_list_1190"
+    "replay_list_summary": "39236"
   },
   {
     "id": 1191,
@@ -2202,10 +2202,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 183,
-    "story_chapter_name": "DB_replay_number_1191",
-    "story_group_name": "DB_replay_name_1191",
+    "story_chapter_name": "39767",
+    "story_group_name": "39741",
     "replay_Image": "StoryReplay_region8_62",
-    "replay_list_summary": "DB_cutscene_replay_list_1191"
+    "replay_list_summary": "39237"
   },
   {
     "id": 1192,
@@ -2214,10 +2214,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 184,
-    "story_chapter_name": "DB_replay_number_1192",
-    "story_group_name": "DB_replay_name_1192",
+    "story_chapter_name": "39768",
+    "story_group_name": "39742",
     "replay_Image": "StoryReplay_region8_63",
-    "replay_list_summary": "DB_cutscene_replay_list_1192"
+    "replay_list_summary": "39238"
   },
   {
     "id": 1193,
@@ -2226,10 +2226,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 185,
-    "story_chapter_name": "DB_replay_number_1193",
-    "story_group_name": "DB_replay_name_1193",
+    "story_chapter_name": "39769",
+    "story_group_name": "39743",
     "replay_Image": "StoryReplay_region8_64",
-    "replay_list_summary": "DB_cutscene_replay_list_1193"
+    "replay_list_summary": "39239"
   },
   {
     "id": 1194,
@@ -2238,10 +2238,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 186,
-    "story_chapter_name": "DB_replay_number_1194",
-    "story_group_name": "DB_replay_name_1194",
+    "story_chapter_name": "39770",
+    "story_group_name": "39744",
     "replay_Image": "StoryReplay_region8_65",
-    "replay_list_summary": "DB_cutscene_replay_list_1194"
+    "replay_list_summary": "39240"
   },
   {
     "id": 1195,
@@ -2250,10 +2250,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 187,
-    "story_chapter_name": "DB_replay_number_1195",
-    "story_group_name": "DB_replay_name_1195",
+    "story_chapter_name": "39771",
+    "story_group_name": "39745",
     "replay_Image": "StoryReplay_region8_66",
-    "replay_list_summary": "DB_cutscene_replay_list_1195"
+    "replay_list_summary": "39241"
   },
   {
     "id": 1196,
@@ -2262,10 +2262,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 188,
-    "story_chapter_name": "DB_replay_number_1196",
-    "story_group_name": "DB_replay_name_1196",
+    "story_chapter_name": "39772",
+    "story_group_name": "39746",
     "replay_Image": "StoryReplay_region8_67",
-    "replay_list_summary": "DB_cutscene_replay_list_1196"
+    "replay_list_summary": "39242"
   },
   {
     "id": 1197,
@@ -2274,10 +2274,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 189,
-    "story_chapter_name": "DB_replay_number_1197",
-    "story_group_name": "DB_replay_name_1197",
+    "story_chapter_name": "39773",
+    "story_group_name": "39747",
     "replay_Image": "StoryReplay_region8_68",
-    "replay_list_summary": "DB_cutscene_replay_list_1197"
+    "replay_list_summary": "39243"
   },
   {
     "id": 1198,
@@ -2286,10 +2286,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 190,
-    "story_chapter_name": "DB_replay_number_1198",
-    "story_group_name": "DB_replay_name_1198",
+    "story_chapter_name": "39774",
+    "story_group_name": "39748",
     "replay_Image": "StoryReplay_region8_69",
-    "replay_list_summary": "DB_cutscene_replay_list_1198"
+    "replay_list_summary": "39244"
   },
   {
     "id": 1199,
@@ -2298,10 +2298,10 @@
     "story_region": 11,
     "story_region_ep": 0,
     "story_group": 191,
-    "story_chapter_name": "DB_replay_number_1199",
-    "story_group_name": "DB_replay_name_1199",
+    "story_chapter_name": "39941",
+    "story_group_name": "39749",
     "replay_Image": "StoryReplay_region8_70",
-    "replay_list_summary": "DB_cutscene_replay_list_1199"
+    "replay_list_summary": "39245"
   },
   {
     "id": 1200,
@@ -2310,10 +2310,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 192,
-    "story_chapter_name": "DB_replay_number_1200",
-    "story_group_name": "DB_replay_name_1200",
+    "story_chapter_name": "45607",
+    "story_group_name": "45576",
     "replay_Image": "StoryReplay_region8_71",
-    "replay_list_summary": "DB_cutscene_replay_list_1200"
+    "replay_list_summary": "42954"
   },
   {
     "id": 1202,
@@ -2322,10 +2322,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 194,
-    "story_chapter_name": "DB_replay_number_1202",
-    "story_group_name": "DB_replay_name_1202",
+    "story_chapter_name": "45608",
+    "story_group_name": "45577",
     "replay_Image": "StoryReplay_region8_72",
-    "replay_list_summary": "DB_cutscene_replay_list_1202"
+    "replay_list_summary": "42955"
   },
   {
     "id": 1203,
@@ -2334,10 +2334,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 195,
-    "story_chapter_name": "DB_replay_number_1203",
-    "story_group_name": "DB_replay_name_1203",
+    "story_chapter_name": "45609",
+    "story_group_name": "45578",
     "replay_Image": "StoryReplay_region8_73",
-    "replay_list_summary": "DB_cutscene_replay_list_1203"
+    "replay_list_summary": "42956"
   },
   {
     "id": 1204,
@@ -2346,10 +2346,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 196,
-    "story_chapter_name": "DB_replay_number_1204",
-    "story_group_name": "DB_replay_name_1204",
+    "story_chapter_name": "45610",
+    "story_group_name": "45579",
     "replay_Image": "StoryReplay_region8_74",
-    "replay_list_summary": "DB_cutscene_replay_list_1204"
+    "replay_list_summary": "42957"
   },
   {
     "id": 1205,
@@ -2358,10 +2358,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 197,
-    "story_chapter_name": "DB_replay_number_1205",
-    "story_group_name": "DB_replay_name_1205",
+    "story_chapter_name": "45611",
+    "story_group_name": "45580",
     "replay_Image": "StoryReplay_region8_75",
-    "replay_list_summary": "DB_cutscene_replay_list_1205"
+    "replay_list_summary": "42958"
   },
   {
     "id": 1206,
@@ -2370,10 +2370,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 198,
-    "story_chapter_name": "DB_replay_number_1206",
-    "story_group_name": "DB_replay_name_1206",
+    "story_chapter_name": "45612",
+    "story_group_name": "45581",
     "replay_Image": "StoryReplay_region8_76",
-    "replay_list_summary": "DB_cutscene_replay_list_1206"
+    "replay_list_summary": "42959"
   },
   {
     "id": 1207,
@@ -2382,10 +2382,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 199,
-    "story_chapter_name": "DB_replay_number_1207",
-    "story_group_name": "DB_replay_name_1207",
+    "story_chapter_name": "45613",
+    "story_group_name": "45582",
     "replay_Image": "StoryReplay_region8_77",
-    "replay_list_summary": "DB_cutscene_replay_list_1207"
+    "replay_list_summary": "42960"
   },
   {
     "id": 1208,
@@ -2394,10 +2394,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 200,
-    "story_chapter_name": "DB_replay_number_1208",
-    "story_group_name": "DB_replay_name_1208",
+    "story_chapter_name": "45614",
+    "story_group_name": "45583",
     "replay_Image": "StoryReplay_region8_78",
-    "replay_list_summary": "DB_cutscene_replay_list_1208"
+    "replay_list_summary": "42961"
   },
   {
     "id": 1209,
@@ -2406,10 +2406,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 201,
-    "story_chapter_name": "DB_replay_number_1209",
-    "story_group_name": "DB_replay_name_1209",
+    "story_chapter_name": "45615",
+    "story_group_name": "45584",
     "replay_Image": "StoryReplay_region8_79",
-    "replay_list_summary": "DB_cutscene_replay_list_1209"
+    "replay_list_summary": "42962"
   },
   {
     "id": 1210,
@@ -2418,10 +2418,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 202,
-    "story_chapter_name": "DB_replay_number_1210",
-    "story_group_name": "DB_replay_name_1210",
+    "story_chapter_name": "45616",
+    "story_group_name": "45585",
     "replay_Image": "StoryReplay_region8_80",
-    "replay_list_summary": "DB_cutscene_replay_list_1210"
+    "replay_list_summary": "42963"
   },
   {
     "id": 1211,
@@ -2430,10 +2430,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 203,
-    "story_chapter_name": "DB_replay_number_1211",
-    "story_group_name": "DB_replay_name_1211",
+    "story_chapter_name": "45617",
+    "story_group_name": "45586",
     "replay_Image": "StoryReplay_region8_81",
-    "replay_list_summary": "DB_cutscene_replay_list_1211"
+    "replay_list_summary": "42964"
   },
   {
     "id": 1212,
@@ -2442,10 +2442,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 204,
-    "story_chapter_name": "DB_replay_number_1212",
-    "story_group_name": "DB_replay_name_1212",
+    "story_chapter_name": "45618",
+    "story_group_name": "45587",
     "replay_Image": "StoryReplay_region8_82",
-    "replay_list_summary": "DB_cutscene_replay_list_1212"
+    "replay_list_summary": "42965"
   },
   {
     "id": 1213,
@@ -2454,10 +2454,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 205,
-    "story_chapter_name": "DB_replay_number_1213",
-    "story_group_name": "DB_replay_name_1213",
+    "story_chapter_name": "45619",
+    "story_group_name": "45588",
     "replay_Image": "StoryReplay_region8_83",
-    "replay_list_summary": "DB_cutscene_replay_list_1213"
+    "replay_list_summary": "42966"
   },
   {
     "id": 1214,
@@ -2466,10 +2466,10 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 206,
-    "story_chapter_name": "DB_replay_number_1214",
-    "story_group_name": "DB_replay_name_1214",
+    "story_chapter_name": "45620",
+    "story_group_name": "45589",
     "replay_Image": "StoryReplay_region8_84",
-    "replay_list_summary": "DB_cutscene_replay_list_1214"
+    "replay_list_summary": "42967"
   },
   {
     "id": 1215,
@@ -2478,10 +2478,202 @@
     "story_region": 12,
     "story_region_ep": 0,
     "story_group": 207,
-    "story_chapter_name": "DB_replay_number_1215",
-    "story_group_name": "DB_replay_name_1215",
+    "story_chapter_name": "45621",
+    "story_group_name": "45590",
     "replay_Image": "StoryReplay_region8_85",
-    "replay_list_summary": "DB_cutscene_replay_list_1215"
+    "replay_list_summary": "42968"
+  },
+  {
+    "id": 1216,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 208,
+    "story_chapter_name": "45623",
+    "story_group_name": "45591",
+    "replay_Image": "StoryReplay_region12_5_01",
+    "replay_list_summary": "42969"
+  },
+  {
+    "id": 1217,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 209,
+    "story_chapter_name": "45624",
+    "story_group_name": "45592",
+    "replay_Image": "StoryReplay_region12_5_02",
+    "replay_list_summary": "42970"
+  },
+  {
+    "id": 1218,
+    "show_list": 1,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 210,
+    "story_chapter_name": "45625",
+    "story_group_name": "45593",
+    "replay_Image": "StoryReplay_region12_5_03",
+    "replay_list_summary": "42971"
+  },
+  {
+    "id": 1219,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 211,
+    "story_chapter_name": "45626",
+    "story_group_name": "45594",
+    "replay_Image": "StoryReplay_region12_5_04",
+    "replay_list_summary": "42972"
+  },
+  {
+    "id": 1220,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 212,
+    "story_chapter_name": "45627",
+    "story_group_name": "45595",
+    "replay_Image": "StoryReplay_region12_5_05",
+    "replay_list_summary": "42973"
+  },
+  {
+    "id": 1221,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 213,
+    "story_chapter_name": "45628",
+    "story_group_name": "45596",
+    "replay_Image": "StoryReplay_region12_5_06",
+    "replay_list_summary": "42974"
+  },
+  {
+    "id": 1222,
+    "show_list": 1,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 214,
+    "story_chapter_name": "45629",
+    "story_group_name": "45597",
+    "replay_Image": "StoryReplay_region12_5_07",
+    "replay_list_summary": "42975"
+  },
+  {
+    "id": 1223,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 215,
+    "story_chapter_name": "45630",
+    "story_group_name": "45598",
+    "replay_Image": "StoryReplay_region12_5_08",
+    "replay_list_summary": "42976"
+  },
+  {
+    "id": 1224,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 216,
+    "story_chapter_name": "45631",
+    "story_group_name": "45599",
+    "replay_Image": "StoryReplay_region12_5_09",
+    "replay_list_summary": "42977"
+  },
+  {
+    "id": 1225,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 217,
+    "story_chapter_name": "45632",
+    "story_group_name": "45600",
+    "replay_Image": "StoryReplay_region12_5_10",
+    "replay_list_summary": "42978"
+  },
+  {
+    "id": 1226,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 218,
+    "story_chapter_name": "45633",
+    "story_group_name": "45601",
+    "replay_Image": "StoryReplay_region12_5_11",
+    "replay_list_summary": "42979"
+  },
+  {
+    "id": 1227,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 219,
+    "story_chapter_name": "45634",
+    "story_group_name": "45602",
+    "replay_Image": "StoryReplay_region12_5_12",
+    "replay_list_summary": "42980"
+  },
+  {
+    "id": 1228,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 220,
+    "story_chapter_name": "45635",
+    "story_group_name": "45603",
+    "replay_Image": "StoryReplay_region12_5_13",
+    "replay_list_summary": "42981"
+  },
+  {
+    "id": 1229,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 221,
+    "story_chapter_name": "45636",
+    "story_group_name": "45604",
+    "replay_Image": "StoryReplay_region12_5_14",
+    "replay_list_summary": "42982"
+  },
+  {
+    "id": 1230,
+    "show_list": 1,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 222,
+    "story_chapter_name": "45637",
+    "story_group_name": "45605",
+    "replay_Image": "StoryReplay_region12_5_15",
+    "replay_list_summary": "42983"
+  },
+  {
+    "id": 1231,
+    "show_list": 0,
+    "story_type": 1,
+    "story_region": 12,
+    "story_region_ep": 0,
+    "story_group": 223,
+    "story_chapter_name": "45638",
+    "story_group_name": "45606",
+    "replay_Image": "StoryReplay_region12_5_16",
+    "replay_list_summary": "42984"
   },
   {
     "id": 101001,
@@ -2490,10 +2682,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101001,
-    "story_chapter_name": "DB_stage_cut_ch_no_10105060",
-    "story_group_name": "DB_stage_cut_name_10105060",
+    "story_chapter_name": "28828",
+    "story_group_name": "29152",
     "replay_Image": "StoryReplay_sub_region1_01",
-    "replay_list_summary": "DB_cutscene_replay_list_10105060"
+    "replay_list_summary": "26644"
   },
   {
     "id": 101002,
@@ -2502,10 +2694,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101002,
-    "story_chapter_name": "DB_stage_cut_ch_no_10150010",
-    "story_group_name": "DB_stage_cut_name_10150010",
+    "story_chapter_name": "28829",
+    "story_group_name": "29158",
     "replay_Image": "StoryReplay_sub_region1_02",
-    "replay_list_summary": "DB_cutscene_replay_list_10150010"
+    "replay_list_summary": "26645"
   },
   {
     "id": 101003,
@@ -2514,10 +2706,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101003,
-    "story_chapter_name": "DB_stage_cut_ch_no_10150010",
-    "story_group_name": "DB_stage_cut_name_10150030",
+    "story_chapter_name": "28829",
+    "story_group_name": "29159",
     "replay_Image": "StoryReplay_sub_region1_03",
-    "replay_list_summary": "DB_cutscene_replay_list_10150030"
+    "replay_list_summary": "26646"
   },
   {
     "id": 101004,
@@ -2526,10 +2718,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101004,
-    "story_chapter_name": "DB_stage_cut_ch_no_10151010",
-    "story_group_name": "DB_stage_cut_name_10151010",
+    "story_chapter_name": "28830",
+    "story_group_name": "29160",
     "replay_Image": "StoryReplay_sub_region1_04",
-    "replay_list_summary": "DB_cutscene_replay_list_10151010"
+    "replay_list_summary": "26647"
   },
   {
     "id": 101005,
@@ -2538,10 +2730,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101005,
-    "story_chapter_name": "DB_stage_cut_ch_no_10151010",
-    "story_group_name": "DB_stage_cut_name_10151030",
+    "story_chapter_name": "28830",
+    "story_group_name": "29161",
     "replay_Image": "StoryReplay_sub_region1_05",
-    "replay_list_summary": "DB_cutscene_replay_list_10151030"
+    "replay_list_summary": "26648"
   },
   {
     "id": 101006,
@@ -2550,10 +2742,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101006,
-    "story_chapter_name": "DB_stage_cut_ch_no_10151010",
-    "story_group_name": "DB_stage_cut_name_10151050",
+    "story_chapter_name": "28830",
+    "story_group_name": "29162",
     "replay_Image": "StoryReplay_sub_region1_06",
-    "replay_list_summary": "DB_cutscene_replay_list_10151050"
+    "replay_list_summary": "26649"
   },
   {
     "id": 101007,
@@ -2562,10 +2754,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101007,
-    "story_chapter_name": "DB_stage_cut_ch_no_10152010",
-    "story_group_name": "DB_stage_cut_name_10152010",
+    "story_chapter_name": "28831",
+    "story_group_name": "29163",
     "replay_Image": "StoryReplay_sub_region1_07",
-    "replay_list_summary": "DB_cutscene_replay_list_10152010"
+    "replay_list_summary": "26650"
   },
   {
     "id": 101008,
@@ -2574,10 +2766,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101008,
-    "story_chapter_name": "DB_stage_cut_ch_no_10152010",
-    "story_group_name": "DB_stage_cut_name_10152030",
+    "story_chapter_name": "28831",
+    "story_group_name": "29164",
     "replay_Image": "StoryReplay_sub_region1_08",
-    "replay_list_summary": "DB_cutscene_replay_list_10152030"
+    "replay_list_summary": "26651"
   },
   {
     "id": 101009,
@@ -2586,10 +2778,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101009,
-    "story_chapter_name": "DB_stage_cut_ch_no_10152010",
-    "story_group_name": "DB_stage_cut_name_10152050",
+    "story_chapter_name": "28831",
+    "story_group_name": "29165",
     "replay_Image": "StoryReplay_sub_region1_09",
-    "replay_list_summary": "DB_cutscene_replay_list_10152050"
+    "replay_list_summary": "26652"
   },
   {
     "id": 101010,
@@ -2598,10 +2790,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101010,
-    "story_chapter_name": "DB_stage_cut_ch_no_10153010",
-    "story_group_name": "DB_stage_cut_name_10153010",
+    "story_chapter_name": "28832",
+    "story_group_name": "29166",
     "replay_Image": "StoryReplay_sub_region1_10",
-    "replay_list_summary": "DB_cutscene_replay_list_10153010"
+    "replay_list_summary": "26653"
   },
   {
     "id": 101011,
@@ -2610,10 +2802,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101011,
-    "story_chapter_name": "DB_stage_cut_ch_no_10153010",
-    "story_group_name": "DB_stage_cut_name_10153030",
+    "story_chapter_name": "28832",
+    "story_group_name": "29167",
     "replay_Image": "StoryReplay_sub_region1_11",
-    "replay_list_summary": "DB_cutscene_replay_list_10153030"
+    "replay_list_summary": "26654"
   },
   {
     "id": 101012,
@@ -2622,10 +2814,10 @@
     "story_region": 1,
     "story_region_ep": 0,
     "story_group": 101012,
-    "story_chapter_name": "DB_stage_cut_ch_no_10153010",
-    "story_group_name": "DB_stage_cut_name_10153050",
+    "story_chapter_name": "28832",
+    "story_group_name": "29168",
     "replay_Image": "StoryReplay_sub_region1_12",
-    "replay_list_summary": "DB_cutscene_replay_list_10153050"
+    "replay_list_summary": "26655"
   },
   {
     "id": 101013,
@@ -2634,10 +2826,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101013,
-    "story_chapter_name": "DB_stage_cut_ch_no_10250010",
-    "story_group_name": "DB_stage_cut_name_10250010",
+    "story_chapter_name": "28833",
+    "story_group_name": "29497",
     "replay_Image": "StoryReplay_sub_region2_01",
-    "replay_list_summary": "DB_cutscene_replay_list_10250010"
+    "replay_list_summary": "26656"
   },
   {
     "id": 101014,
@@ -2646,10 +2838,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101014,
-    "story_chapter_name": "DB_stage_cut_ch_no_10250010",
-    "story_group_name": "DB_stage_cut_name_10250030",
+    "story_chapter_name": "28833",
+    "story_group_name": "29498",
     "replay_Image": "StoryReplay_sub_region2_02",
-    "replay_list_summary": "DB_cutscene_replay_list_10250030"
+    "replay_list_summary": "26657"
   },
   {
     "id": 101015,
@@ -2658,10 +2850,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101015,
-    "story_chapter_name": "DB_stage_cut_ch_no_10251010",
-    "story_group_name": "DB_stage_cut_name_10251010",
+    "story_chapter_name": "28834",
+    "story_group_name": "29499",
     "replay_Image": "StoryReplay_sub_region2_03",
-    "replay_list_summary": "DB_cutscene_replay_list_10251010"
+    "replay_list_summary": "26658"
   },
   {
     "id": 101016,
@@ -2670,10 +2862,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101016,
-    "story_chapter_name": "DB_stage_cut_ch_no_10251010",
-    "story_group_name": "DB_stage_cut_name_10251030",
+    "story_chapter_name": "28834",
+    "story_group_name": "29500",
     "replay_Image": "StoryReplay_sub_region2_04",
-    "replay_list_summary": "DB_cutscene_replay_list_10251030"
+    "replay_list_summary": "26659"
   },
   {
     "id": 101017,
@@ -2682,10 +2874,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101017,
-    "story_chapter_name": "DB_stage_cut_ch_no_10252010",
-    "story_group_name": "DB_stage_cut_name_10252010",
+    "story_chapter_name": "28835",
+    "story_group_name": "29501",
     "replay_Image": "StoryReplay_sub_region2_05",
-    "replay_list_summary": "DB_cutscene_replay_list_10252010"
+    "replay_list_summary": "26660"
   },
   {
     "id": 101018,
@@ -2694,10 +2886,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101018,
-    "story_chapter_name": "DB_stage_cut_ch_no_10252010",
-    "story_group_name": "DB_stage_cut_name_10252030",
+    "story_chapter_name": "28835",
+    "story_group_name": "29502",
     "replay_Image": "StoryReplay_sub_region2_06",
-    "replay_list_summary": "DB_cutscene_replay_list_10252030"
+    "replay_list_summary": "26661"
   },
   {
     "id": 101019,
@@ -2706,10 +2898,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101019,
-    "story_chapter_name": "DB_stage_cut_ch_no_10253010",
-    "story_group_name": "DB_stage_cut_name_10253010",
+    "story_chapter_name": "28836",
+    "story_group_name": "29503",
     "replay_Image": "StoryReplay_sub_region2_07",
-    "replay_list_summary": "DB_cutscene_replay_list_10253010"
+    "replay_list_summary": "26662"
   },
   {
     "id": 101020,
@@ -2718,10 +2910,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101020,
-    "story_chapter_name": "DB_stage_cut_ch_no_10253010",
-    "story_group_name": "DB_stage_cut_name_10253030",
+    "story_chapter_name": "28836",
+    "story_group_name": "29504",
     "replay_Image": "StoryReplay_sub_region2_08",
-    "replay_list_summary": "DB_cutscene_replay_list_10253030"
+    "replay_list_summary": "26663"
   },
   {
     "id": 101021,
@@ -2730,10 +2922,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101021,
-    "story_chapter_name": "DB_stage_cut_ch_no_10254010",
-    "story_group_name": "DB_stage_cut_name_10254010",
+    "story_chapter_name": "28837",
+    "story_group_name": "29505",
     "replay_Image": "StoryReplay_sub_region2_09",
-    "replay_list_summary": "DB_cutscene_replay_list_10254010"
+    "replay_list_summary": "26664"
   },
   {
     "id": 101022,
@@ -2742,10 +2934,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101022,
-    "story_chapter_name": "DB_stage_cut_ch_no_10254010",
-    "story_group_name": "DB_stage_cut_name_10254030",
+    "story_chapter_name": "28837",
+    "story_group_name": "29506",
     "replay_Image": "StoryReplay_sub_region2_10",
-    "replay_list_summary": "DB_cutscene_replay_list_10254030"
+    "replay_list_summary": "26665"
   },
   {
     "id": 101023,
@@ -2754,10 +2946,10 @@
     "story_region": 2,
     "story_region_ep": 0,
     "story_group": 101023,
-    "story_chapter_name": "DB_stage_cut_ch_no_10254010",
-    "story_group_name": "DB_stage_cut_name_10254050",
+    "story_chapter_name": "28837",
+    "story_group_name": "29507",
     "replay_Image": "StoryReplay_sub_region2_11",
-    "replay_list_summary": "DB_cutscene_replay_list_10254050"
+    "replay_list_summary": "26666"
   },
   {
     "id": 101024,
@@ -2766,10 +2958,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101024,
-    "story_chapter_name": "DB_stage_cut_ch_no_10305010",
-    "story_group_name": "DB_stage_cut_name_10305010",
+    "story_chapter_name": "28838",
+    "story_group_name": "29692",
     "replay_Image": "StoryReplay_sub_region3_01",
-    "replay_list_summary": "DB_cutscene_replay_list_10305010"
+    "replay_list_summary": "26667"
   },
   {
     "id": 101025,
@@ -2778,10 +2970,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101025,
-    "story_chapter_name": "DB_stage_cut_ch_no_10305010",
-    "story_group_name": "DB_stage_cut_name_10305030",
+    "story_chapter_name": "28838",
+    "story_group_name": "29693",
     "replay_Image": "StoryReplay_sub_region3_02",
-    "replay_list_summary": "DB_cutscene_replay_list_10305030"
+    "replay_list_summary": "26668"
   },
   {
     "id": 101034,
@@ -2790,10 +2982,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101034,
-    "story_chapter_name": "DB_stage_cut_ch_no_10354010",
-    "story_group_name": "DB_stage_cut_name_10354010",
+    "story_chapter_name": "28839",
+    "story_group_name": "29694",
     "replay_Image": "StoryReplay_sub_region3_11",
-    "replay_list_summary": "DB_cutscene_replay_list_10354010"
+    "replay_list_summary": "26677"
   },
   {
     "id": 101036,
@@ -2802,10 +2994,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101036,
-    "story_chapter_name": "DB_stage_cut_ch_no_10354010",
-    "story_group_name": "DB_stage_cut_name_10354050",
+    "story_chapter_name": "28839",
+    "story_group_name": "29696",
     "replay_Image": "StoryReplay_sub_region3_13",
-    "replay_list_summary": "DB_cutscene_replay_list_10354050"
+    "replay_list_summary": "26679"
   },
   {
     "id": 101038,
@@ -2814,10 +3006,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101038,
-    "story_chapter_name": "DB_stage_cut_ch_no_10354010",
-    "story_group_name": "DB_stage_cut_name_10355030",
+    "story_chapter_name": "28839",
+    "story_group_name": "29697",
     "replay_Image": "StoryReplay_sub_region3_15",
-    "replay_list_summary": "DB_cutscene_replay_list_10355030"
+    "replay_list_summary": "26681"
   },
   {
     "id": 101039,
@@ -2826,10 +3018,10 @@
     "story_region": 3,
     "story_region_ep": 0,
     "story_group": 101039,
-    "story_chapter_name": "DB_stage_cut_ch_no_10354010",
-    "story_group_name": "DB_stage_cut_name_10355050",
+    "story_chapter_name": "28839",
+    "story_group_name": "29698",
     "replay_Image": "StoryReplay_sub_region3_16",
-    "replay_list_summary": "DB_cutscene_replay_list_10355050"
+    "replay_list_summary": "26682"
   },
   {
     "id": 101040,
@@ -2838,10 +3030,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101040,
-    "story_chapter_name": "DB_stage_cut_ch_no_10450010",
-    "story_group_name": "DB_stage_cut_name_10450010",
+    "story_chapter_name": "28840",
+    "story_group_name": "29886",
     "replay_Image": "StoryReplay_sub_region4_01",
-    "replay_list_summary": "DB_cutscene_replay_list_10450010"
+    "replay_list_summary": "26683"
   },
   {
     "id": 101041,
@@ -2850,10 +3042,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101041,
-    "story_chapter_name": "DB_stage_cut_ch_no_10450010",
-    "story_group_name": "DB_stage_cut_name_10450030",
+    "story_chapter_name": "28840",
+    "story_group_name": "29887",
     "replay_Image": "StoryReplay_sub_region4_02",
-    "replay_list_summary": "DB_cutscene_replay_list_10450030"
+    "replay_list_summary": "26684"
   },
   {
     "id": 101042,
@@ -2862,10 +3054,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101042,
-    "story_chapter_name": "DB_stage_cut_ch_no_10450010",
-    "story_group_name": "DB_stage_cut_name_10450050",
+    "story_chapter_name": "28840",
+    "story_group_name": "29888",
     "replay_Image": "StoryReplay_sub_region4_03",
-    "replay_list_summary": "DB_cutscene_replay_list_10450050"
+    "replay_list_summary": "26685"
   },
   {
     "id": 101043,
@@ -2874,10 +3066,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101043,
-    "story_chapter_name": "DB_stage_cut_ch_no_10451010",
-    "story_group_name": "DB_stage_cut_name_10451010",
+    "story_chapter_name": "28841",
+    "story_group_name": "29889",
     "replay_Image": "StoryReplay_sub_region4_04",
-    "replay_list_summary": "DB_cutscene_replay_list_10451010"
+    "replay_list_summary": "26686"
   },
   {
     "id": 101044,
@@ -2886,10 +3078,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101044,
-    "story_chapter_name": "DB_stage_cut_ch_no_10451010",
-    "story_group_name": "DB_stage_cut_name_10451030",
+    "story_chapter_name": "28841",
+    "story_group_name": "29890",
     "replay_Image": "StoryReplay_sub_region4_05",
-    "replay_list_summary": "DB_cutscene_replay_list_10451030"
+    "replay_list_summary": "26687"
   },
   {
     "id": 101045,
@@ -2898,10 +3090,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101045,
-    "story_chapter_name": "DB_stage_cut_ch_no_10451010",
-    "story_group_name": "DB_stage_cut_name_10451050",
+    "story_chapter_name": "28841",
+    "story_group_name": "29891",
     "replay_Image": "StoryReplay_sub_region4_06",
-    "replay_list_summary": "DB_cutscene_replay_list_10451050"
+    "replay_list_summary": "26688"
   },
   {
     "id": 101046,
@@ -2910,10 +3102,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101046,
-    "story_chapter_name": "DB_stage_cut_ch_no_10452010",
-    "story_group_name": "DB_stage_cut_name_10452010",
+    "story_chapter_name": "28842",
+    "story_group_name": "29892",
     "replay_Image": "StoryReplay_sub_region4_07",
-    "replay_list_summary": "DB_cutscene_replay_list_10452010"
+    "replay_list_summary": "26689"
   },
   {
     "id": 101047,
@@ -2922,10 +3114,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101047,
-    "story_chapter_name": "DB_stage_cut_ch_no_10452010",
-    "story_group_name": "DB_stage_cut_name_10452030",
+    "story_chapter_name": "28842",
+    "story_group_name": "29893",
     "replay_Image": "StoryReplay_sub_region4_08",
-    "replay_list_summary": "DB_cutscene_replay_list_10452030"
+    "replay_list_summary": "26690"
   },
   {
     "id": 101048,
@@ -2934,10 +3126,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101048,
-    "story_chapter_name": "DB_stage_cut_ch_no_10453010",
-    "story_group_name": "DB_stage_cut_name_10453010",
+    "story_chapter_name": "28843",
+    "story_group_name": "29894",
     "replay_Image": "StoryReplay_sub_region4_09",
-    "replay_list_summary": "DB_cutscene_replay_list_10453010"
+    "replay_list_summary": "26691"
   },
   {
     "id": 101049,
@@ -2946,10 +3138,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101049,
-    "story_chapter_name": "DB_stage_cut_ch_no_10453010",
-    "story_group_name": "DB_stage_cut_name_10453030",
+    "story_chapter_name": "28843",
+    "story_group_name": "29895",
     "replay_Image": "StoryReplay_sub_region4_10",
-    "replay_list_summary": "DB_cutscene_replay_list_10453030"
+    "replay_list_summary": "26692"
   },
   {
     "id": 101050,
@@ -2958,10 +3150,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101050,
-    "story_chapter_name": "DB_stage_cut_ch_no_10453010",
-    "story_group_name": "DB_stage_cut_name_10453050",
+    "story_chapter_name": "28843",
+    "story_group_name": "29896",
     "replay_Image": "StoryReplay_sub_region4_11",
-    "replay_list_summary": "DB_cutscene_replay_list_10453050"
+    "replay_list_summary": "26693"
   },
   {
     "id": 101051,
@@ -2970,10 +3162,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101051,
-    "story_chapter_name": "DB_stage_cut_ch_no_10454010",
-    "story_group_name": "DB_stage_cut_name_10454010",
+    "story_chapter_name": "28844",
+    "story_group_name": "29897",
     "replay_Image": "StoryReplay_sub_region4_12",
-    "replay_list_summary": "DB_cutscene_replay_list_10454010"
+    "replay_list_summary": "26694"
   },
   {
     "id": 101052,
@@ -2982,10 +3174,10 @@
     "story_region": 4,
     "story_region_ep": 0,
     "story_group": 101052,
-    "story_chapter_name": "DB_stage_cut_ch_no_10454010",
-    "story_group_name": "DB_stage_cut_name_10454030",
+    "story_chapter_name": "28844",
+    "story_group_name": "29898",
     "replay_Image": "StoryReplay_sub_region4_13",
-    "replay_list_summary": "DB_cutscene_replay_list_10454030"
+    "replay_list_summary": "26695"
   },
   {
     "id": 101053,
@@ -2994,10 +3186,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101053,
-    "story_chapter_name": "DB_stage_cut_ch_no_10552010",
-    "story_group_name": "DB_stage_cut_name_10552010",
+    "story_chapter_name": "28846",
+    "story_group_name": "30107",
     "replay_Image": "StoryReplay_sub_region5_01",
-    "replay_list_summary": "DB_cutscene_replay_list_10552010"
+    "replay_list_summary": "26703"
   },
   {
     "id": 101054,
@@ -3006,10 +3198,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101054,
-    "story_chapter_name": "DB_stage_cut_ch_no_10552010",
-    "story_group_name": "DB_stage_cut_name_10552030",
+    "story_chapter_name": "28846",
+    "story_group_name": "30108",
     "replay_Image": "StoryReplay_sub_region5_02",
-    "replay_list_summary": "DB_cutscene_replay_list_10552030"
+    "replay_list_summary": "26704"
   },
   {
     "id": 101055,
@@ -3018,10 +3210,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101055,
-    "story_chapter_name": "DB_stage_cut_ch_no_10552010",
-    "story_group_name": "DB_stage_cut_name_10552050",
+    "story_chapter_name": "28846",
+    "story_group_name": "30109",
     "replay_Image": "StoryReplay_sub_region5_03",
-    "replay_list_summary": "DB_cutscene_replay_list_10552050"
+    "replay_list_summary": "26705"
   },
   {
     "id": 101056,
@@ -3030,10 +3222,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101056,
-    "story_chapter_name": "DB_stage_cut_ch_no_10552010",
-    "story_group_name": "DB_stage_cut_name_10552070",
+    "story_chapter_name": "28846",
+    "story_group_name": "30110",
     "replay_Image": "StoryReplay_sub_region5_04",
-    "replay_list_summary": "DB_cutscene_replay_list_10552070"
+    "replay_list_summary": "26706"
   },
   {
     "id": 101057,
@@ -3042,10 +3234,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101057,
-    "story_chapter_name": "DB_stage_cut_ch_no_10552010",
-    "story_group_name": "DB_stage_cut_name_10552080",
+    "story_chapter_name": "28846",
+    "story_group_name": "30111",
     "replay_Image": "StoryReplay_sub_region5_05",
-    "replay_list_summary": "DB_cutscene_replay_list_10552080"
+    "replay_list_summary": "26707"
   },
   {
     "id": 101058,
@@ -3054,10 +3246,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101058,
-    "story_chapter_name": "DB_stage_cut_ch_no_10553010",
-    "story_group_name": "DB_stage_cut_name_10553010",
+    "story_chapter_name": "28847",
+    "story_group_name": "30113",
     "replay_Image": "StoryReplay_sub_region5_06",
-    "replay_list_summary": "DB_cutscene_replay_list_10553010"
+    "replay_list_summary": "26709"
   },
   {
     "id": 101059,
@@ -3066,10 +3258,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101059,
-    "story_chapter_name": "DB_stage_cut_ch_no_10553010",
-    "story_group_name": "DB_stage_cut_name_10553030",
+    "story_chapter_name": "28847",
+    "story_group_name": "30114",
     "replay_Image": "StoryReplay_sub_region5_07",
-    "replay_list_summary": "DB_cutscene_replay_list_10553030"
+    "replay_list_summary": "26710"
   },
   {
     "id": 101060,
@@ -3078,10 +3270,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101060,
-    "story_chapter_name": "DB_stage_cut_ch_no_10553010",
-    "story_group_name": "DB_stage_cut_name_10552100",
+    "story_chapter_name": "28847",
+    "story_group_name": "30112",
     "replay_Image": "StoryReplay_sub_region5_08",
-    "replay_list_summary": "DB_cutscene_replay_list_10552100"
+    "replay_list_summary": "26708"
   },
   {
     "id": 101061,
@@ -3090,10 +3282,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101061,
-    "story_chapter_name": "DB_stage_cut_ch_no_10554010",
-    "story_group_name": "DB_stage_cut_name_10554010",
+    "story_chapter_name": "28848",
+    "story_group_name": "30115",
     "replay_Image": "StoryReplay_sub_region5_09",
-    "replay_list_summary": "DB_cutscene_replay_list_10554010"
+    "replay_list_summary": "26711"
   },
   {
     "id": 101062,
@@ -3102,10 +3294,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101062,
-    "story_chapter_name": "DB_stage_cut_ch_no_10554010",
-    "story_group_name": "DB_stage_cut_name_10554030",
+    "story_chapter_name": "28848",
+    "story_group_name": "30116",
     "replay_Image": "StoryReplay_sub_region5_10",
-    "replay_list_summary": "DB_cutscene_replay_list_10554030"
+    "replay_list_summary": "26712"
   },
   {
     "id": 101063,
@@ -3114,10 +3306,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101063,
-    "story_chapter_name": "DB_stage_cut_ch_no_10550010",
-    "story_group_name": "DB_stage_cut_name_10550010",
+    "story_chapter_name": "28845",
+    "story_group_name": "30103",
     "replay_Image": "StoryReplay_sub_region5_11",
-    "replay_list_summary": "DB_cutscene_replay_list_10550010"
+    "replay_list_summary": "26696"
   },
   {
     "id": 101064,
@@ -3126,10 +3318,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101064,
-    "story_chapter_name": "DB_stage_cut_ch_no_10550010",
-    "story_group_name": "DB_stage_cut_name_10550030",
+    "story_chapter_name": "28845",
+    "story_group_name": "30104",
     "replay_Image": "StoryReplay_sub_region5_12",
-    "replay_list_summary": "DB_cutscene_replay_list_10550030"
+    "replay_list_summary": "26697"
   },
   {
     "id": 101065,
@@ -3138,10 +3330,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101065,
-    "story_chapter_name": "DB_stage_cut_ch_no_10550010",
-    "story_group_name": "DB_stage_cut_name_10550050",
+    "story_chapter_name": "28845",
+    "story_group_name": "30105",
     "replay_Image": "StoryReplay_sub_region5_13",
-    "replay_list_summary": "DB_cutscene_replay_list_10550050"
+    "replay_list_summary": "26698"
   },
   {
     "id": 101066,
@@ -3150,10 +3342,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101066,
-    "story_chapter_name": "DB_stage_cut_ch_no_10550010",
-    "story_group_name": "DB_stage_cut_name_10550070",
+    "story_chapter_name": "28845",
+    "story_group_name": "30106",
     "replay_Image": "StoryReplay_sub_region5_14",
-    "replay_list_summary": "DB_cutscene_replay_list_10550070"
+    "replay_list_summary": "26699"
   },
   {
     "id": 101070,
@@ -3162,10 +3354,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101070,
-    "story_chapter_name": "DB_stage_cut_ch_no_10555010",
-    "story_group_name": "DB_stage_cut_name_10555010",
+    "story_chapter_name": "28849",
+    "story_group_name": "30117",
     "replay_Image": "StoryReplay_sub_region5_18",
-    "replay_list_summary": "DB_cutscene_replay_list_10555010"
+    "replay_list_summary": "26713"
   },
   {
     "id": 101071,
@@ -3174,10 +3366,10 @@
     "story_region": 5,
     "story_region_ep": 0,
     "story_group": 101071,
-    "story_chapter_name": "DB_stage_cut_ch_no_10555010",
-    "story_group_name": "DB_stage_cut_name_10555030",
+    "story_chapter_name": "28849",
+    "story_group_name": "30118",
     "replay_Image": "StoryReplay_sub_region5_19",
-    "replay_list_summary": "DB_cutscene_replay_list_10555030"
+    "replay_list_summary": "26714"
   },
   {
     "id": 101072,
@@ -3186,10 +3378,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101072,
-    "story_chapter_name": "DB_stage_cut_ch_no_10651010",
-    "story_group_name": "DB_stage_cut_name_10651010",
+    "story_chapter_name": "28850",
+    "story_group_name": "30353",
     "replay_Image": "StoryReplay_sub_region6_01",
-    "replay_list_summary": "DB_cutscene_replay_list_10651010"
+    "replay_list_summary": "26715"
   },
   {
     "id": 101073,
@@ -3198,10 +3390,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101073,
-    "story_chapter_name": "DB_stage_cut_ch_no_10651010",
-    "story_group_name": "DB_stage_cut_name_10651030",
+    "story_chapter_name": "28850",
+    "story_group_name": "30354",
     "replay_Image": "StoryReplay_sub_region6_02",
-    "replay_list_summary": "DB_cutscene_replay_list_10651030"
+    "replay_list_summary": "26716"
   },
   {
     "id": 101076,
@@ -3210,10 +3402,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101076,
-    "story_chapter_name": "DB_stage_cut_ch_no_10653010",
-    "story_group_name": "DB_stage_cut_name_10653010",
+    "story_chapter_name": "28852",
+    "story_group_name": "30355",
     "replay_Image": "StoryReplay_sub_region6_05",
-    "replay_list_summary": "DB_cutscene_replay_list_10653010"
+    "replay_list_summary": "26720"
   },
   {
     "id": 101077,
@@ -3222,10 +3414,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101077,
-    "story_chapter_name": "DB_stage_cut_ch_no_10653010",
-    "story_group_name": "DB_stage_cut_name_10653030",
+    "story_chapter_name": "28852",
+    "story_group_name": "30356",
     "replay_Image": "StoryReplay_sub_region6_06",
-    "replay_list_summary": "DB_cutscene_replay_list_10653030"
+    "replay_list_summary": "26721"
   },
   {
     "id": 101078,
@@ -3234,10 +3426,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101078,
-    "story_chapter_name": "DB_stage_cut_ch_no_10654010",
-    "story_group_name": "DB_stage_cut_name_10654010",
+    "story_chapter_name": "28853",
+    "story_group_name": "30357",
     "replay_Image": "StoryReplay_sub_region6_07",
-    "replay_list_summary": "DB_cutscene_replay_list_10654010"
+    "replay_list_summary": "26723"
   },
   {
     "id": 101079,
@@ -3246,10 +3438,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101079,
-    "story_chapter_name": "DB_stage_cut_ch_no_10654010",
-    "story_group_name": "DB_stage_cut_name_10654030",
+    "story_chapter_name": "28853",
+    "story_group_name": "30358",
     "replay_Image": "StoryReplay_sub_region6_08",
-    "replay_list_summary": "DB_cutscene_replay_list_10654030"
+    "replay_list_summary": "26724"
   },
   {
     "id": 101080,
@@ -3258,10 +3450,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101080,
-    "story_chapter_name": "DB_stage_cut_ch_no_10654010",
-    "story_group_name": "DB_stage_cut_name_10654050",
+    "story_chapter_name": "28853",
+    "story_group_name": "30359",
     "replay_Image": "StoryReplay_sub_region6_09",
-    "replay_list_summary": "DB_cutscene_replay_list_10654050"
+    "replay_list_summary": "26725"
   },
   {
     "id": 101090,
@@ -3270,10 +3462,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101090,
-    "story_chapter_name": "DB_stage_cut_ch_no_10657010",
-    "story_group_name": "DB_stage_cut_name_10657010",
+    "story_chapter_name": "28856",
+    "story_group_name": "30591",
     "replay_Image": "StoryReplay_sub_region6_13",
-    "replay_list_summary": "DB_cutscene_replay_list_10657010"
+    "replay_list_summary": "26732"
   },
   {
     "id": 101091,
@@ -3282,10 +3474,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101091,
-    "story_chapter_name": "DB_stage_cut_ch_no_10656010",
-    "story_group_name": "DB_stage_cut_name_10656010",
+    "story_chapter_name": "28855",
+    "story_group_name": "30589",
     "replay_Image": "StoryReplay_sub_region6_14",
-    "replay_list_summary": "DB_cutscene_replay_list_10656010"
+    "replay_list_summary": "26730"
   },
   {
     "id": 101092,
@@ -3294,10 +3486,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101092,
-    "story_chapter_name": "DB_stage_cut_ch_no_10656010",
-    "story_group_name": "DB_stage_cut_name_10656030",
+    "story_chapter_name": "28855",
+    "story_group_name": "30590",
     "replay_Image": "StoryReplay_sub_region6_15",
-    "replay_list_summary": "DB_cutscene_replay_list_10656030"
+    "replay_list_summary": "26731"
   },
   {
     "id": 101093,
@@ -3306,10 +3498,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101093,
-    "story_chapter_name": "DB_stage_cut_ch_no_10651010",
-    "story_group_name": "DB_stage_cut_name_10651050",
+    "story_chapter_name": "28850",
+    "story_group_name": "30581",
     "replay_Image": "StoryReplay_sub_region6_16",
-    "replay_list_summary": "DB_cutscene_replay_list_10651050"
+    "replay_list_summary": "26717"
   },
   {
     "id": 101094,
@@ -3318,10 +3510,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101098,
-    "story_chapter_name": "DB_stage_cut_ch_no_10655010",
-    "story_group_name": "DB_stage_cut_name_10655070",
+    "story_chapter_name": "28854",
+    "story_group_name": "30585",
     "replay_Image": "StoryReplay_sub_region6_17",
-    "replay_list_summary": "DB_cutscene_replay_list_10655070"
+    "replay_list_summary": "26726"
   },
   {
     "id": 101095,
@@ -3330,10 +3522,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101099,
-    "story_chapter_name": "DB_stage_cut_ch_no_10655010",
-    "story_group_name": "DB_stage_cut_name_10655090",
+    "story_chapter_name": "28854",
+    "story_group_name": "30586",
     "replay_Image": "StoryReplay_sub_region6_18",
-    "replay_list_summary": "DB_cutscene_replay_list_10655090"
+    "replay_list_summary": "26727"
   },
   {
     "id": 101096,
@@ -3342,10 +3534,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101100,
-    "story_chapter_name": "DB_stage_cut_ch_no_10655010",
-    "story_group_name": "DB_stage_cut_name_10655110",
+    "story_chapter_name": "28854",
+    "story_group_name": "30587",
     "replay_Image": "StoryReplay_sub_region6_19",
-    "replay_list_summary": "DB_cutscene_replay_list_10655110"
+    "replay_list_summary": "26728"
   },
   {
     "id": 101097,
@@ -3354,10 +3546,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101101,
-    "story_chapter_name": "DB_stage_cut_ch_no_10655010",
-    "story_group_name": "DB_stage_cut_name_10655130",
+    "story_chapter_name": "28854",
+    "story_group_name": "30588",
     "replay_Image": "StoryReplay_sub_region6_20",
-    "replay_list_summary": "DB_cutscene_replay_list_10655130"
+    "replay_list_summary": "26729"
   },
   {
     "id": 101098,
@@ -3366,10 +3558,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101102,
-    "story_chapter_name": "DB_stage_cut_ch_no_10652010",
-    "story_group_name": "DB_stage_cut_name_10652050",
+    "story_chapter_name": "28851",
+    "story_group_name": "30582",
     "replay_Image": "StoryReplay_sub_region6_21",
-    "replay_list_summary": "DB_cutscene_replay_list_10652050"
+    "replay_list_summary": "26718"
   },
   {
     "id": 101099,
@@ -3378,10 +3570,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101103,
-    "story_chapter_name": "DB_stage_cut_ch_no_10652010",
-    "story_group_name": "DB_stage_cut_name_10652070",
+    "story_chapter_name": "28851",
+    "story_group_name": "30583",
     "replay_Image": "StoryReplay_sub_region6_22",
-    "replay_list_summary": "DB_cutscene_replay_list_10652070"
+    "replay_list_summary": "26719"
   },
   {
     "id": 101100,
@@ -3390,10 +3582,10 @@
     "story_region": 6,
     "story_region_ep": 0,
     "story_group": 101104,
-    "story_chapter_name": "DB_stage_cut_ch_no_10653010",
-    "story_group_name": "DB_stage_cut_name_10653050",
+    "story_chapter_name": "28852",
+    "story_group_name": "30584",
     "replay_Image": "StoryReplay_sub_region6_23",
-    "replay_list_summary": "DB_cutscene_replay_list_10653050"
+    "replay_list_summary": "26722"
   },
   {
     "id": 200000,
@@ -3403,9 +3595,9 @@
     "story_region_ep": 1,
     "story_group": 1,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111000",
+    "story_group_name": "31004",
     "replay_Image": "StoryReplay_another_region1_01",
-    "replay_list_summary": "DB_cutscene_replay_list_200000"
+    "replay_list_summary": "26788"
   },
   {
     "id": 200001,
@@ -3415,9 +3607,9 @@
     "story_region_ep": 1,
     "story_group": 2,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111001",
+    "story_group_name": "31005",
     "replay_Image": "StoryReplay_another_region1_02",
-    "replay_list_summary": "DB_cutscene_replay_list_200001"
+    "replay_list_summary": "26789"
   },
   {
     "id": 200002,
@@ -3427,9 +3619,9 @@
     "story_region_ep": 1,
     "story_group": 3,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111002",
+    "story_group_name": "31006",
     "replay_Image": "StoryReplay_another_region1_03",
-    "replay_list_summary": "DB_cutscene_replay_list_200002"
+    "replay_list_summary": "26790"
   },
   {
     "id": 200003,
@@ -3439,9 +3631,9 @@
     "story_region_ep": 1,
     "story_group": 4,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111003",
+    "story_group_name": "31007",
     "replay_Image": "StoryReplay_another_region1_04",
-    "replay_list_summary": "DB_cutscene_replay_list_200003"
+    "replay_list_summary": "26791"
   },
   {
     "id": 200004,
@@ -3451,9 +3643,9 @@
     "story_region_ep": 1,
     "story_group": 5,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111004",
+    "story_group_name": "31008",
     "replay_Image": "StoryReplay_another_region1_05",
-    "replay_list_summary": "DB_cutscene_replay_list_200004"
+    "replay_list_summary": "26792"
   },
   {
     "id": 200005,
@@ -3463,9 +3655,9 @@
     "story_region_ep": 1,
     "story_group": 6,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111005",
+    "story_group_name": "31009",
     "replay_Image": "StoryReplay_another_region1_06",
-    "replay_list_summary": "DB_cutscene_replay_list_200005"
+    "replay_list_summary": "26793"
   },
   {
     "id": 200006,
@@ -3475,9 +3667,9 @@
     "story_region_ep": 1,
     "story_group": 7,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111006",
+    "story_group_name": "31010",
     "replay_Image": "StoryReplay_another_region1_07",
-    "replay_list_summary": "DB_cutscene_replay_list_200006"
+    "replay_list_summary": "26794"
   },
   {
     "id": 200007,
@@ -3487,9 +3679,9 @@
     "story_region_ep": 1,
     "story_group": 8,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111007",
+    "story_group_name": "31011",
     "replay_Image": "StoryReplay_another_region1_08",
-    "replay_list_summary": "DB_cutscene_replay_list_200007"
+    "replay_list_summary": "26795"
   },
   {
     "id": 200008,
@@ -3499,9 +3691,9 @@
     "story_region_ep": 1,
     "story_group": 9,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111008",
+    "story_group_name": "31012",
     "replay_Image": "StoryReplay_another_region1_09",
-    "replay_list_summary": "DB_cutscene_replay_list_200008"
+    "replay_list_summary": "26796"
   },
   {
     "id": 200009,
@@ -3511,9 +3703,9 @@
     "story_region_ep": 1,
     "story_group": 10,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111009",
+    "story_group_name": "31013",
     "replay_Image": "StoryReplay_another_region1_10",
-    "replay_list_summary": "DB_cutscene_replay_list_200009"
+    "replay_list_summary": "26797"
   },
   {
     "id": 200010,
@@ -3523,9 +3715,9 @@
     "story_region_ep": 1,
     "story_group": 11,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111010",
+    "story_group_name": "31014",
     "replay_Image": "StoryReplay_another_region1_11",
-    "replay_list_summary": "DB_cutscene_replay_list_200010"
+    "replay_list_summary": "26798"
   },
   {
     "id": 200011,
@@ -3535,9 +3727,9 @@
     "story_region_ep": 1,
     "story_group": 12,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111011",
+    "story_group_name": "31015",
     "replay_Image": "StoryReplay_another_region1_12",
-    "replay_list_summary": "DB_cutscene_replay_list_200011"
+    "replay_list_summary": "26799"
   },
   {
     "id": 200012,
@@ -3547,9 +3739,9 @@
     "story_region_ep": 1,
     "story_group": 13,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111012",
+    "story_group_name": "31016",
     "replay_Image": "StoryReplay_another_region1_13",
-    "replay_list_summary": "DB_cutscene_replay_list_200012"
+    "replay_list_summary": "26800"
   },
   {
     "id": 200013,
@@ -3559,9 +3751,9 @@
     "story_region_ep": 1,
     "story_group": 14,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111013",
+    "story_group_name": "31017",
     "replay_Image": "StoryReplay_another_region1_14",
-    "replay_list_summary": "DB_cutscene_replay_list_200013"
+    "replay_list_summary": "37743"
   },
   {
     "id": 200014,
@@ -3571,9 +3763,9 @@
     "story_region_ep": 1,
     "story_group": 15,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111014",
+    "story_group_name": "31018",
     "replay_Image": "StoryReplay_another_region1_15",
-    "replay_list_summary": "DB_cutscene_replay_list_200014"
+    "replay_list_summary": "37744"
   },
   {
     "id": 200015,
@@ -3583,9 +3775,9 @@
     "story_region_ep": 1,
     "story_group": 16,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111015",
+    "story_group_name": "31019",
     "replay_Image": "StoryReplay_another_region1_16",
-    "replay_list_summary": "DB_cutscene_replay_list_200015"
+    "replay_list_summary": "37745"
   },
   {
     "id": 200016,
@@ -3595,9 +3787,9 @@
     "story_region_ep": 1,
     "story_group": 17,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111016",
+    "story_group_name": "31020",
     "replay_Image": "StoryReplay_another_region1_17",
-    "replay_list_summary": "DB_cutscene_replay_list_200016"
+    "replay_list_summary": "37746"
   },
   {
     "id": 200017,
@@ -3607,9 +3799,9 @@
     "story_region_ep": 1,
     "story_group": 18,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111017",
+    "story_group_name": "31021",
     "replay_Image": "StoryReplay_another_region1_18",
-    "replay_list_summary": "DB_cutscene_replay_list_200017"
+    "replay_list_summary": "37747"
   },
   {
     "id": 200018,
@@ -3619,9 +3811,9 @@
     "story_region_ep": 1,
     "story_group": 19,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111018",
+    "story_group_name": "31022",
     "replay_Image": "StoryReplay_another_region1_19",
-    "replay_list_summary": "DB_cutscene_replay_list_200018"
+    "replay_list_summary": "37748"
   },
   {
     "id": 200019,
@@ -3631,9 +3823,9 @@
     "story_region_ep": 1,
     "story_group": 20,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111019",
+    "story_group_name": "31023",
     "replay_Image": "StoryReplay_another_region1_20",
-    "replay_list_summary": "DB_cutscene_replay_list_200019"
+    "replay_list_summary": "37749"
   },
   {
     "id": 200020,
@@ -3643,9 +3835,9 @@
     "story_region_ep": 1,
     "story_group": 21,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111020",
+    "story_group_name": "31024",
     "replay_Image": "StoryReplay_another_region1_21",
-    "replay_list_summary": "DB_cutscene_replay_list_200020"
+    "replay_list_summary": "37750"
   },
   {
     "id": 200021,
@@ -3655,9 +3847,9 @@
     "story_region_ep": 1,
     "story_group": 22,
     "story_chapter_name": "",
-    "story_group_name": "DB_quest_name_111021",
+    "story_group_name": "31025",
     "replay_Image": "StoryReplay_another_region1_22",
-    "replay_list_summary": "DB_cutscene_replay_list_200021"
+    "replay_list_summary": "37751"
   },
   {
     "id": 900010,
@@ -3666,10 +3858,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900010,
-    "story_chapter_name": "DB_hero_group_name_1004001",
-    "story_group_name": "DB_stage_cut_name_91010110",
+    "story_chapter_name": "17238",
+    "story_group_name": "31395",
     "replay_Image": "StoryReplay_ordeal_01",
-    "replay_list_summary": "DB_cutscene_replay_list_91010110"
+    "replay_list_summary": "26808"
   },
   {
     "id": 900020,
@@ -3678,10 +3870,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900020,
-    "story_chapter_name": "DB_hero_group_name_1005001",
-    "story_group_name": "DB_stage_cut_name_91010210",
+    "story_chapter_name": "17239",
+    "story_group_name": "31396",
     "replay_Image": "StoryReplay_ordeal_03",
-    "replay_list_summary": "DB_cutscene_replay_list_91010210"
+    "replay_list_summary": "26809"
   },
   {
     "id": 900030,
@@ -3690,10 +3882,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900030,
-    "story_chapter_name": "DB_hero_group_name_1005003",
-    "story_group_name": "DB_stage_cut_name_91010610",
+    "story_chapter_name": "17240",
+    "story_group_name": "31400",
     "replay_Image": "StoryReplay_ordeal_126",
-    "replay_list_summary": "DB_cutscene_replay_list_9101610"
+    "replay_list_summary": "26814"
   },
   {
     "id": 900040,
@@ -3702,10 +3894,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900040,
-    "story_chapter_name": "DB_hero_group_name_1015001",
-    "story_group_name": "DB_stage_cut_name_91010310",
+    "story_chapter_name": "17241",
+    "story_group_name": "31397",
     "replay_Image": "StoryReplay_ordeal_04",
-    "replay_list_summary": "DB_cutscene_replay_list_91010310"
+    "replay_list_summary": "26810"
   },
   {
     "id": 900050,
@@ -3714,10 +3906,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900050,
-    "story_chapter_name": "DB_hero_group_name_1015002",
-    "story_group_name": "DB_stage_cut_name_91010410",
+    "story_chapter_name": "17242",
+    "story_group_name": "31398",
     "replay_Image": "StoryReplay_ordeal_05",
-    "replay_list_summary": "DB_cutscene_replay_list_91010410"
+    "replay_list_summary": "26811"
   },
   {
     "id": 900060,
@@ -3726,10 +3918,22 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900060,
-    "story_chapter_name": "DB_hero_group_name_1015003",
-    "story_group_name": "DB_stage_cut_name_91010710",
+    "story_chapter_name": "17243",
+    "story_group_name": "31401",
     "replay_Image": "StoryReplay_ordeal_06",
-    "replay_list_summary": "DB_cutscene_replay_list_91010710"
+    "replay_list_summary": "26813"
+  },
+  {
+    "id": 900063,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 900063,
+    "story_chapter_name": "44064",
+    "story_group_name": "46037",
+    "replay_Image": "StoryReplay_ordeal_160",
+    "replay_list_summary": "42986"
   },
   {
     "id": 900070,
@@ -3738,10 +3942,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900070,
-    "story_chapter_name": "DB_hero_group_name_1024001",
-    "story_group_name": "DB_stage_cut_name_91020110",
+    "story_chapter_name": "17244",
+    "story_group_name": "31402",
     "replay_Image": "StoryReplay_ordeal_08",
-    "replay_list_summary": "DB_cutscene_replay_list_91020110"
+    "replay_list_summary": "26815"
   },
   {
     "id": 900080,
@@ -3750,10 +3954,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900080,
-    "story_chapter_name": "DB_hero_group_name_1024002",
-    "story_group_name": "DB_stage_cut_name_91020210",
+    "story_chapter_name": "17245",
+    "story_group_name": "31403",
     "replay_Image": "StoryReplay_ordeal_10",
-    "replay_list_summary": "DB_cutscene_replay_list_91020210"
+    "replay_list_summary": "26816"
   },
   {
     "id": 900090,
@@ -3762,10 +3966,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900090,
-    "story_chapter_name": "DB_hero_group_name_1025002",
-    "story_group_name": "DB_stage_cut_name_91020310",
+    "story_chapter_name": "17246",
+    "story_group_name": "31404",
     "replay_Image": "StoryReplay_ordeal_11",
-    "replay_list_summary": "DB_cutscene_replay_list_91020310"
+    "replay_list_summary": "26817"
   },
   {
     "id": 900100,
@@ -3774,10 +3978,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900100,
-    "story_chapter_name": "DB_hero_group_name_1034001",
-    "story_group_name": "DB_stage_cut_name_91240130",
+    "story_chapter_name": "17247",
+    "story_group_name": "31463",
     "replay_Image": "StoryReplay_ordeal_12",
-    "replay_list_summary": "DB_cutscene_replay_list_91240130"
+    "replay_list_summary": "26875"
   },
   {
     "id": 900110,
@@ -3786,10 +3990,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900110,
-    "story_chapter_name": "DB_hero_group_name_1035001",
-    "story_group_name": "DB_stage_cut_name_91240110",
+    "story_chapter_name": "17248",
+    "story_group_name": "31462",
     "replay_Image": "StoryReplay_ordeal_13",
-    "replay_list_summary": "DB_cutscene_replay_list_91240110"
+    "replay_list_summary": "26874"
   },
   {
     "id": 900120,
@@ -3798,10 +4002,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900120,
-    "story_chapter_name": "DB_hero_group_name_1035002",
-    "story_group_name": "DB_stage_cut_name_91240310",
+    "story_chapter_name": "17249",
+    "story_group_name": "31465",
     "replay_Image": "StoryReplay_ordeal_15",
-    "replay_list_summary": "DB_cutscene_replay_list_91240310"
+    "replay_list_summary": "26877"
   },
   {
     "id": 900130,
@@ -3810,10 +4014,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900130,
-    "story_chapter_name": "DB_hero_group_name_1035003",
-    "story_group_name": "DB_stage_cut_name_91240410",
+    "story_chapter_name": "17250",
+    "story_group_name": "31466",
     "replay_Image": "StoryReplay_ordeal_141",
-    "replay_list_summary": "DB_cutscene_replay_list_91240410"
+    "replay_list_summary": "26878"
   },
   {
     "id": 900140,
@@ -3822,10 +4026,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900140,
-    "story_chapter_name": "DB_hero_group_name_1044001",
-    "story_group_name": "DB_stage_cut_name_91030110",
+    "story_chapter_name": "17251",
+    "story_group_name": "31406",
     "replay_Image": "StoryReplay_ordeal_16",
-    "replay_list_summary": "DB_cutscene_replay_list_91030110"
+    "replay_list_summary": "26819"
   },
   {
     "id": 900150,
@@ -3834,10 +4038,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900150,
-    "story_chapter_name": "DB_hero_group_name_1045001",
-    "story_group_name": "DB_stage_cut_name_91030210",
+    "story_chapter_name": "17252",
+    "story_group_name": "31408",
     "replay_Image": "StoryReplay_ordeal_18",
-    "replay_list_summary": "DB_cutscene_replay_list_91030210"
+    "replay_list_summary": "26821"
   },
   {
     "id": 900160,
@@ -3846,10 +4050,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900160,
-    "story_chapter_name": "DB_hero_group_name_1045002",
-    "story_group_name": "DB_stage_cut_name_91030310",
+    "story_chapter_name": "17253",
+    "story_group_name": "31409",
     "replay_Image": "StoryReplay_ordeal_19",
-    "replay_list_summary": "DB_cutscene_replay_list_91030310"
+    "replay_list_summary": "26822"
   },
   {
     "id": 900170,
@@ -3858,10 +4062,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900170,
-    "story_chapter_name": "DB_hero_group_name_1055001",
-    "story_group_name": "DB_stage_cut_name_91130110",
+    "story_chapter_name": "17254",
+    "story_group_name": "31434",
     "replay_Image": "StoryReplay_ordeal_20",
-    "replay_list_summary": "DB_cutscene_replay_list_91130110"
+    "replay_list_summary": "26847"
   },
   {
     "id": 900180,
@@ -3870,10 +4074,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900180,
-    "story_chapter_name": "DB_hero_group_name_1055002",
-    "story_group_name": "DB_stage_cut_name_91130210",
+    "story_chapter_name": "17255",
+    "story_group_name": "31435",
     "replay_Image": "StoryReplay_ordeal_21",
-    "replay_list_summary": "DB_cutscene_replay_list_91130210"
+    "replay_list_summary": "26848"
   },
   {
     "id": 900190,
@@ -3882,10 +4086,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900190,
-    "story_chapter_name": "DB_hero_group_name_1055003",
-    "story_group_name": "DB_stage_cut_name_91130310",
+    "story_chapter_name": "17256",
+    "story_group_name": "31436",
     "replay_Image": "StoryReplay_ordeal_22",
-    "replay_list_summary": "DB_cutscene_replay_list_91130310"
+    "replay_list_summary": "26849"
   },
   {
     "id": 900200,
@@ -3894,10 +4098,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900200,
-    "story_chapter_name": "DB_hero_group_name_1064001",
-    "story_group_name": "DB_stage_cut_name_91050110",
+    "story_chapter_name": "17257",
+    "story_group_name": "31414",
     "replay_Image": "StoryReplay_ordeal_23",
-    "replay_list_summary": "DB_cutscene_replay_list_91050110"
+    "replay_list_summary": "26827"
   },
   {
     "id": 900210,
@@ -3906,10 +4110,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900210,
-    "story_chapter_name": "DB_hero_group_name_1065001",
-    "story_group_name": "DB_stage_cut_name_91050211",
+    "story_chapter_name": "17258",
+    "story_group_name": "31416",
     "replay_Image": "StoryReplay_ordeal_24",
-    "replay_list_summary": "DB_cutscene_replay_list_91050211"
+    "replay_list_summary": "26829"
   },
   {
     "id": 900220,
@@ -3918,10 +4122,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900220,
-    "story_chapter_name": "DB_hero_group_name_1065002",
-    "story_group_name": "DB_stage_cut_name_91050310",
+    "story_chapter_name": "17259",
+    "story_group_name": "31417",
     "replay_Image": "StoryReplay_ordeal_26",
-    "replay_list_summary": "DB_cutscene_replay_list_91050310"
+    "replay_list_summary": "26830"
   },
   {
     "id": 900230,
@@ -3930,10 +4134,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900230,
-    "story_chapter_name": "DB_hero_group_name_1075001",
-    "story_group_name": "DB_stage_cut_name_91050510",
+    "story_chapter_name": "17260",
+    "story_group_name": "31418",
     "replay_Image": "StoryReplay_ordeal_27",
-    "replay_list_summary": "DB_cutscene_replay_list_91050510"
+    "replay_list_summary": "26831"
   },
   {
     "id": 900240,
@@ -3942,10 +4146,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900240,
-    "story_chapter_name": "DB_hero_group_name_1075002",
-    "story_group_name": "DB_stage_cut_name_91050610",
+    "story_chapter_name": "17261",
+    "story_group_name": "31419",
     "replay_Image": "StoryReplay_ordeal_28",
-    "replay_list_summary": "DB_cutscene_replay_list_91050610"
+    "replay_list_summary": "26832"
   },
   {
     "id": 900250,
@@ -3954,10 +4158,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900250,
-    "story_chapter_name": "DB_hero_group_name_1075003",
-    "story_group_name": "DB_stage_cut_name_91050710",
+    "story_chapter_name": "17262",
+    "story_group_name": "31420",
     "replay_Image": "StoryReplay_ordeal_29",
-    "replay_list_summary": "DB_cutscene_replay_list_91050710"
+    "replay_list_summary": "26833"
   },
   {
     "id": 900260,
@@ -3966,10 +4170,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900260,
-    "story_chapter_name": "DB_hero_group_name_1095001",
-    "story_group_name": "DB_stage_cut_name_91110110",
+    "story_chapter_name": "17263",
+    "story_group_name": "31428",
     "replay_Image": "StoryReplay_ordeal_30",
-    "replay_list_summary": "DB_cutscene_replay_list_91110110"
+    "replay_list_summary": "26841"
   },
   {
     "id": 900270,
@@ -3978,10 +4182,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900270,
-    "story_chapter_name": "DB_hero_group_name_1095002",
-    "story_group_name": "DB_stage_cut_name_91110210",
+    "story_chapter_name": "17264",
+    "story_group_name": "31429",
     "replay_Image": "StoryReplay_ordeal_31",
-    "replay_list_summary": "DB_cutscene_replay_list_91110210"
+    "replay_list_summary": "26842"
   },
   {
     "id": 900280,
@@ -3990,10 +4194,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900280,
-    "story_chapter_name": "DB_hero_group_name_1095003",
-    "story_group_name": "DB_stage_cut_name_91110310",
+    "story_chapter_name": "17265",
+    "story_group_name": "31430",
     "replay_Image": "StoryReplay_ordeal_32",
-    "replay_list_summary": "DB_cutscene_replay_list_91110310"
+    "replay_list_summary": "26843"
   },
   {
     "id": 900290,
@@ -4002,10 +4206,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900290,
-    "story_chapter_name": "DB_hero_group_name_1105001",
-    "story_group_name": "DB_stage_cut_name_91230110",
+    "story_chapter_name": "17266",
+    "story_group_name": "31459",
     "replay_Image": "StoryReplay_ordeal_33",
-    "replay_list_summary": "DB_cutscene_replay_list_91230110"
+    "replay_list_summary": "26871"
   },
   {
     "id": 900300,
@@ -4014,10 +4218,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900300,
-    "story_chapter_name": "DB_hero_group_name_1105002",
-    "story_group_name": "DB_stage_cut_name_91230210",
+    "story_chapter_name": "17267",
+    "story_group_name": "31460",
     "replay_Image": "StoryReplay_ordeal_34",
-    "replay_list_summary": "DB_cutscene_replay_list_91230210"
+    "replay_list_summary": "26872"
   },
   {
     "id": 900310,
@@ -4026,10 +4230,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900310,
-    "story_chapter_name": "DB_hero_group_name_1105003",
-    "story_group_name": "DB_stage_cut_name_91230310",
+    "story_chapter_name": "17268",
+    "story_group_name": "31461",
     "replay_Image": "StoryReplay_ordeal_35",
-    "replay_list_summary": "DB_cutscene_replay_list_91230310"
+    "replay_list_summary": "26873"
   },
   {
     "id": 900320,
@@ -4038,10 +4242,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900320,
-    "story_chapter_name": "DB_hero_group_name_1114001",
-    "story_group_name": "DB_stage_cut_name_91170110",
+    "story_chapter_name": "17269",
+    "story_group_name": "31446",
     "replay_Image": "StoryReplay_ordeal_36",
-    "replay_list_summary": "DB_cutscene_replay_list_91170110"
+    "replay_list_summary": "26859"
   },
   {
     "id": 900330,
@@ -4050,10 +4254,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900330,
-    "story_chapter_name": "DB_hero_group_name_1115002",
-    "story_group_name": "DB_stage_cut_name_91170410",
+    "story_chapter_name": "17270",
+    "story_group_name": "31448",
     "replay_Image": "StoryReplay_ordeal_38",
-    "replay_list_summary": "DB_cutscene_replay_list_91170410"
+    "replay_list_summary": "26861"
   },
   {
     "id": 900340,
@@ -4062,10 +4266,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900340,
-    "story_chapter_name": "DB_hero_group_name_1115003",
-    "story_group_name": "DB_stage_cut_name_91170310",
+    "story_chapter_name": "17271",
+    "story_group_name": "31447",
     "replay_Image": "StoryReplay_ordeal_39",
-    "replay_list_summary": "DB_cutscene_replay_list_91170310"
+    "replay_list_summary": "26860"
   },
   {
     "id": 900350,
@@ -4074,10 +4278,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900350,
-    "story_chapter_name": "DB_hero_group_name_1135001",
-    "story_group_name": "DB_stage_cut_name_91250110",
+    "story_chapter_name": "17275",
+    "story_group_name": "31467",
     "replay_Image": "StoryReplay_ordeal_40",
-    "replay_list_summary": "DB_cutscene_replay_list_91250110"
+    "replay_list_summary": "26879"
   },
   {
     "id": 900360,
@@ -4086,10 +4290,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900360,
-    "story_chapter_name": "DB_hero_group_name_1135002",
-    "story_group_name": "DB_stage_cut_name_91250210",
+    "story_chapter_name": "17276",
+    "story_group_name": "31468",
     "replay_Image": "StoryReplay_ordeal_41",
-    "replay_list_summary": "DB_cutscene_replay_list_91250210"
+    "replay_list_summary": "26880"
   },
   {
     "id": 900370,
@@ -4098,10 +4302,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900370,
-    "story_chapter_name": "DB_hero_group_name_1135003",
-    "story_group_name": "DB_stage_cut_name_91250410",
+    "story_chapter_name": "17277",
+    "story_group_name": "31470",
     "replay_Image": "StoryReplay_ordeal_42",
-    "replay_list_summary": "DB_cutscene_replay_list_91250410"
+    "replay_list_summary": "26882"
   },
   {
     "id": 900380,
@@ -4110,10 +4314,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900380,
-    "story_chapter_name": "DB_hero_group_name_1144001",
-    "story_group_name": "DB_stage_cut_name_91040110",
+    "story_chapter_name": "17278",
+    "story_group_name": "31410",
     "replay_Image": "StoryReplay_ordeal_43",
-    "replay_list_summary": "DB_cutscene_replay_list_91040110"
+    "replay_list_summary": "26823"
   },
   {
     "id": 900390,
@@ -4122,10 +4326,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900390,
-    "story_chapter_name": "DB_hero_group_name_1144002",
-    "story_group_name": "DB_stage_cut_name_91040310",
+    "story_chapter_name": "17279",
+    "story_group_name": "31413",
     "replay_Image": "StoryReplay_ordeal_47",
-    "replay_list_summary": "DB_cutscene_replay_list_91040310"
+    "replay_list_summary": "26826"
   },
   {
     "id": 900400,
@@ -4134,10 +4338,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900400,
-    "story_chapter_name": "DB_hero_group_name_1145001",
-    "story_group_name": "DB_stage_cut_name_91040210",
+    "story_chapter_name": "17280",
+    "story_group_name": "31412",
     "replay_Image": "StoryReplay_ordeal_45",
-    "replay_list_summary": "DB_cutscene_replay_list_91040210"
+    "replay_list_summary": "26825"
   },
   {
     "id": 900410,
@@ -4146,10 +4350,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900410,
-    "story_chapter_name": "DB_hero_group_name_1154002",
-    "story_group_name": "DB_stage_cut_name_91120130",
+    "story_chapter_name": "17281",
+    "story_group_name": "31431",
     "replay_Image": "StoryReplay_ordeal_49",
-    "replay_list_summary": "DB_cutscene_replay_list_91120130"
+    "replay_list_summary": "26844"
   },
   {
     "id": 900420,
@@ -4158,10 +4362,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900420,
-    "story_chapter_name": "DB_hero_group_name_1155001",
-    "story_group_name": "DB_stage_cut_name_91120210",
+    "story_chapter_name": "17282",
+    "story_group_name": "31432",
     "replay_Image": "StoryReplay_ordeal_50",
-    "replay_list_summary": "DB_cutscene_replay_list_91120210"
+    "replay_list_summary": "26845"
   },
   {
     "id": 900430,
@@ -4170,10 +4374,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900430,
-    "story_chapter_name": "DB_hero_group_name_1155003",
-    "story_group_name": "DB_stage_cut_name_91120310",
+    "story_chapter_name": "17283",
+    "story_group_name": "31433",
     "replay_Image": "StoryReplay_ordeal_127",
-    "replay_list_summary": "DB_cutscene_replay_list_91120310"
+    "replay_list_summary": "26846"
   },
   {
     "id": 900440,
@@ -4182,10 +4386,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900440,
-    "story_chapter_name": "DB_hero_group_name_1164001",
-    "story_group_name": "DB_stage_cut_name_91140130",
+    "story_chapter_name": "17284",
+    "story_group_name": "31437",
     "replay_Image": "StoryReplay_ordeal_52",
-    "replay_list_summary": "DB_cutscene_replay_list_91140130"
+    "replay_list_summary": "26850"
   },
   {
     "id": 900450,
@@ -4194,10 +4398,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900450,
-    "story_chapter_name": "DB_hero_group_name_1164002",
-    "story_group_name": "DB_stage_cut_name_91140210",
+    "story_chapter_name": "17285",
+    "story_group_name": "31438",
     "replay_Image": "StoryReplay_ordeal_53",
-    "replay_list_summary": "DB_cutscene_replay_list_91140210"
+    "replay_list_summary": "26851"
   },
   {
     "id": 900460,
@@ -4206,10 +4410,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900460,
-    "story_chapter_name": "DB_hero_group_name_1165001",
-    "story_group_name": "DB_stage_cut_name_91140310",
+    "story_chapter_name": "17286",
+    "story_group_name": "31439",
     "replay_Image": "StoryReplay_ordeal_55",
-    "replay_list_summary": "DB_cutscene_replay_list_91140310"
+    "replay_list_summary": "26852"
   },
   {
     "id": 900470,
@@ -4218,10 +4422,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900470,
-    "story_chapter_name": "DB_hero_group_name_1174002",
-    "story_group_name": "DB_stage_cut_name_91150110",
+    "story_chapter_name": "17288",
+    "story_group_name": "31440",
     "replay_Image": "StoryReplay_ordeal_56",
-    "replay_list_summary": "DB_cutscene_replay_list_91150110"
+    "replay_list_summary": "26853"
   },
   {
     "id": 900480,
@@ -4230,10 +4434,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900480,
-    "story_chapter_name": "DB_hero_group_name_1174001",
-    "story_group_name": "DB_stage_cut_name_91150130",
+    "story_chapter_name": "17287",
+    "story_group_name": "31441",
     "replay_Image": "StoryReplay_ordeal_57",
-    "replay_list_summary": "DB_cutscene_replay_list_91150130"
+    "replay_list_summary": "26854"
   },
   {
     "id": 900490,
@@ -4242,10 +4446,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900490,
-    "story_chapter_name": "DB_hero_group_name_1175001",
-    "story_group_name": "DB_stage_cut_name_91150310",
+    "story_chapter_name": "17289",
+    "story_group_name": "31444",
     "replay_Image": "StoryReplay_ordeal_60",
-    "replay_list_summary": "DB_cutscene_replay_list_91150310"
+    "replay_list_summary": "26857"
   },
   {
     "id": 900500,
@@ -4254,10 +4458,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900500,
-    "story_chapter_name": "DB_hero_group_name_1184001",
-    "story_group_name": "DB_stage_cut_name_91070110",
+    "story_chapter_name": "17290",
+    "story_group_name": "31421",
     "replay_Image": "StoryReplay_ordeal_61",
-    "replay_list_summary": "DB_cutscene_replay_list_91070110"
+    "replay_list_summary": "26834"
   },
   {
     "id": 900510,
@@ -4266,10 +4470,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900510,
-    "story_chapter_name": "DB_hero_group_name_1184002",
-    "story_group_name": "DB_stage_cut_name_91070230",
+    "story_chapter_name": "17291",
+    "story_group_name": "31422",
     "replay_Image": "StoryReplay_ordeal_64",
-    "replay_list_summary": "DB_cutscene_replay_list_91070230"
+    "replay_list_summary": "26835"
   },
   {
     "id": 900520,
@@ -4278,10 +4482,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900520,
-    "story_chapter_name": "DB_hero_group_name_1185001",
-    "story_group_name": "DB_stage_cut_name_91070310",
+    "story_chapter_name": "17292",
+    "story_group_name": "31423",
     "replay_Image": "StoryReplay_ordeal_65",
-    "replay_list_summary": "DB_cutscene_replay_list_91070310"
+    "replay_list_summary": "26836"
   },
   {
     "id": 900530,
@@ -4290,10 +4494,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900530,
-    "story_chapter_name": "DB_hero_group_name_1185002",
-    "story_group_name": "DB_stage_cut_name_91070410",
+    "story_chapter_name": "17293",
+    "story_group_name": "31424",
     "replay_Image": "StoryReplay_ordeal_140",
-    "replay_list_summary": "DB_cutscene_replay_list_91070410"
+    "replay_list_summary": "26837"
   },
   {
     "id": 900540,
@@ -4302,10 +4506,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900540,
-    "story_chapter_name": "DB_hero_group_name_1195001",
-    "story_group_name": "DB_stage_cut_name_91260110",
+    "story_chapter_name": "17294",
+    "story_group_name": "31471",
     "replay_Image": "StoryReplay_ordeal_66",
-    "replay_list_summary": "DB_cutscene_replay_list_91260110"
+    "replay_list_summary": "26883"
   },
   {
     "id": 900550,
@@ -4314,10 +4518,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900550,
-    "story_chapter_name": "DB_hero_group_name_1195002",
-    "story_group_name": "DB_stage_cut_name_91260210",
+    "story_chapter_name": "17295",
+    "story_group_name": "31472",
     "replay_Image": "StoryReplay_ordeal_67",
-    "replay_list_summary": "DB_cutscene_replay_list_91260210"
+    "replay_list_summary": "26884"
   },
   {
     "id": 900560,
@@ -4326,10 +4530,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900560,
-    "story_chapter_name": "DB_hero_group_name_1195003",
-    "story_group_name": "DB_stage_cut_name_91260310",
+    "story_chapter_name": "17296",
+    "story_group_name": "31473",
     "replay_Image": "StoryReplay_ordeal_68",
-    "replay_list_summary": "DB_cutscene_replay_list_91260310"
+    "replay_list_summary": "26885"
   },
   {
     "id": 900570,
@@ -4338,10 +4542,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900570,
-    "story_chapter_name": "DB_hero_group_name_1203001",
-    "story_group_name": "DB_stage_cut_name_91300130",
+    "story_chapter_name": "17297",
+    "story_group_name": "31479",
     "replay_Image": "StoryReplay_ordeal_70",
-    "replay_list_summary": "DB_cutscene_replay_list_91300130"
+    "replay_list_summary": "26891"
   },
   {
     "id": 900580,
@@ -4350,10 +4554,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900580,
-    "story_chapter_name": "DB_hero_group_name_1213001",
-    "story_group_name": "DB_stage_cut_name_91310150",
+    "story_chapter_name": "17298",
+    "story_group_name": "31480",
     "replay_Image": "StoryReplay_ordeal_110",
-    "replay_list_summary": "DB_cutscene_replay_list_91310150"
+    "replay_list_summary": "26892"
   },
   {
     "id": 900590,
@@ -4362,10 +4566,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900590,
-    "story_chapter_name": "DB_hero_group_name_1223001",
-    "story_group_name": "DB_stage_cut_name_91080130",
+    "story_chapter_name": "17299",
+    "story_group_name": "31425",
     "replay_Image": "StoryReplay_ordeal_73",
-    "replay_list_summary": "DB_cutscene_replay_list_91080130"
+    "replay_list_summary": "26838"
   },
   {
     "id": 900600,
@@ -4374,10 +4578,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900600,
-    "story_chapter_name": "DB_hero_group_name_1233001",
-    "story_group_name": "DB_stage_cut_name_91090130",
+    "story_chapter_name": "17300",
+    "story_group_name": "31426",
     "replay_Image": "StoryReplay_ordeal_76",
-    "replay_list_summary": "DB_cutscene_replay_list_91090130"
+    "replay_list_summary": "26839"
   },
   {
     "id": 900610,
@@ -4386,10 +4590,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900610,
-    "story_chapter_name": "DB_hero_group_name_1243001",
-    "story_group_name": "DB_stage_cut_name_91320030",
+    "story_chapter_name": "17301",
+    "story_group_name": "31481",
     "replay_Image": "StoryReplay_ordeal_80",
-    "replay_list_summary": "DB_cutscene_replay_list_91320030"
+    "replay_list_summary": "26893"
   },
   {
     "id": 900620,
@@ -4398,10 +4602,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900620,
-    "story_chapter_name": "DB_hero_group_name_1254001",
-    "story_group_name": "DB_stage_cut_name_91100110",
+    "story_chapter_name": "17302",
+    "story_group_name": "31427",
     "replay_Image": "StoryReplay_ordeal_82",
-    "replay_list_summary": "DB_cutscene_replay_list_91100110"
+    "replay_list_summary": "26840"
   },
   {
     "id": 900630,
@@ -4410,10 +4614,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900630,
-    "story_chapter_name": "DB_hero_group_name_1264001",
-    "story_group_name": "DB_stage_cut_name_91160130",
+    "story_chapter_name": "17303",
+    "story_group_name": "31445",
     "replay_Image": "StoryReplay_ordeal_84",
-    "replay_list_summary": "DB_cutscene_replay_list_91160130"
+    "replay_list_summary": "26858"
   },
   {
     "id": 900640,
@@ -4422,10 +4626,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900640,
-    "story_chapter_name": "DB_hero_group_name_1273001",
-    "story_group_name": "DB_stage_cut_name_91330050",
+    "story_chapter_name": "17304",
+    "story_group_name": "31482",
     "replay_Image": "StoryReplay_ordeal_111",
-    "replay_list_summary": "DB_cutscene_replay_list_91330050"
+    "replay_list_summary": "26894"
   },
   {
     "id": 900650,
@@ -4434,10 +4638,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900650,
-    "story_chapter_name": "DB_hero_group_name_1284001",
-    "story_group_name": "DB_stage_cut_name_91270110",
+    "story_chapter_name": "17305",
+    "story_group_name": "31474",
     "replay_Image": "StoryReplay_ordeal_88",
-    "replay_list_summary": "DB_cutscene_replay_list_91270110"
+    "replay_list_summary": "26886"
   },
   {
     "id": 900660,
@@ -4446,10 +4650,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900660,
-    "story_chapter_name": "DB_hero_group_name_1294001",
-    "story_group_name": "DB_stage_cut_name_91180130",
+    "story_chapter_name": "17306",
+    "story_group_name": "31450",
     "replay_Image": "StoryReplay_ordeal_89",
-    "replay_list_summary": "DB_cutscene_replay_list_91180130"
+    "replay_list_summary": "26863"
   },
   {
     "id": 900670,
@@ -4458,10 +4662,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900670,
-    "story_chapter_name": "DB_hero_group_name_1295001",
-    "story_group_name": "DB_stage_cut_name_91180110",
+    "story_chapter_name": "17307",
+    "story_group_name": "31449",
     "replay_Image": "StoryReplay_ordeal_90",
-    "replay_list_summary": "DB_cutscene_replay_list_91180110"
+    "replay_list_summary": "26862"
   },
   {
     "id": 900680,
@@ -4470,10 +4674,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900680,
-    "story_chapter_name": "DB_hero_group_name_1303001",
-    "story_group_name": "DB_stage_cut_name_91190130",
+    "story_chapter_name": "17309",
+    "story_group_name": "31452",
     "replay_Image": "StoryReplay_ordeal_92",
-    "replay_list_summary": "DB_cutscene_replay_list_91190130"
+    "replay_list_summary": "26864"
   },
   {
     "id": 900690,
@@ -4482,10 +4686,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900690,
-    "story_chapter_name": "DB_hero_group_name_1314001",
-    "story_group_name": "DB_stage_cut_name_91200110",
+    "story_chapter_name": "17310",
+    "story_group_name": "31453",
     "replay_Image": "StoryReplay_ordeal_96",
-    "replay_list_summary": "DB_cutscene_replay_list_91200110"
+    "replay_list_summary": "26865"
   },
   {
     "id": 900700,
@@ -4494,10 +4698,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900700,
-    "story_chapter_name": "DB_hero_group_name_1323001",
-    "story_group_name": "DB_stage_cut_name_91220150",
+    "story_chapter_name": "17311",
+    "story_group_name": "31458",
     "replay_Image": "StoryReplay_ordeal_99",
-    "replay_list_summary": "DB_cutscene_replay_list_91220150"
+    "replay_list_summary": "26870"
   },
   {
     "id": 900710,
@@ -4506,10 +4710,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900710,
-    "story_chapter_name": "DB_hero_group_name_1334001",
-    "story_group_name": "DB_stage_cut_name_91210110",
+    "story_chapter_name": "17313",
+    "story_group_name": "31454",
     "replay_Image": "StoryReplay_ordeal_101",
-    "replay_list_summary": "DB_cutscene_replay_list_91210110"
+    "replay_list_summary": "26866"
   },
   {
     "id": 900720,
@@ -4518,10 +4722,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900720,
-    "story_chapter_name": "DB_hero_group_name_1354001",
-    "story_group_name": "DB_stage_cut_name_91280110",
+    "story_chapter_name": "17316",
+    "story_group_name": "31475",
     "replay_Image": "StoryReplay_ordeal_103",
-    "replay_list_summary": "DB_cutscene_replay_list_91280210"
+    "replay_list_summary": "26888"
   },
   {
     "id": 900730,
@@ -4530,10 +4734,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900730,
-    "story_chapter_name": "DB_hero_group_name_1355001",
-    "story_group_name": "DB_stage_cut_name_91280210",
+    "story_chapter_name": "17317",
+    "story_group_name": "31476",
     "replay_Image": "StoryReplay_ordeal_104",
-    "replay_list_summary": "DB_cutscene_replay_list_91280110"
+    "replay_list_summary": "26887"
   },
   {
     "id": 900740,
@@ -4542,10 +4746,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900740,
-    "story_chapter_name": "DB_hero_group_name_1364001",
-    "story_group_name": "DB_stage_cut_name_91290110",
+    "story_chapter_name": "17318",
+    "story_group_name": "31477",
     "replay_Image": "StoryReplay_ordeal_106",
-    "replay_list_summary": "DB_cutscene_replay_list_91290110"
+    "replay_list_summary": "26889"
   },
   {
     "id": 900750,
@@ -4554,10 +4758,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900750,
-    "story_chapter_name": "DB_hero_group_name_1364002",
-    "story_group_name": "DB_stage_cut_name_91290210",
+    "story_chapter_name": "17319",
+    "story_group_name": "31478",
     "replay_Image": "StoryReplay_ordeal_108",
-    "replay_list_summary": "DB_cutscene_replay_list_91290210"
+    "replay_list_summary": "26890"
   },
   {
     "id": 900760,
@@ -4566,10 +4770,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900760,
-    "story_chapter_name": "DB_hero_group_name_1373001",
-    "story_group_name": "DB_stage_cut_name_91340030",
+    "story_chapter_name": "17320",
+    "story_group_name": "31483",
     "replay_Image": "StoryReplay_ordeal_112",
-    "replay_list_summary": "DB_cutscene_replay_list_91340030"
+    "replay_list_summary": "26895"
   },
   {
     "id": 900770,
@@ -4578,10 +4782,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900770,
-    "story_chapter_name": "DB_hero_nick_name_1343001",
-    "story_group_name": "DB_stage_cut_name_91350050",
+    "story_chapter_name": "17808",
+    "story_group_name": "31484",
     "replay_Image": "StoryReplay_ordeal_113",
-    "replay_list_summary": "DB_cutscene_replay_list_91350050"
+    "replay_list_summary": "26896"
   },
   {
     "id": 900780,
@@ -4590,10 +4794,22 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900780,
-    "story_chapter_name": "DB_hero_group_name_1405001",
-    "story_group_name": "DB_stage_cut_name_91360010",
+    "story_chapter_name": "17327",
+    "story_group_name": "31485",
     "replay_Image": "StoryReplay_ordeal_114",
-    "replay_list_summary": "DB_cutscene_replay_list_91360010"
+    "replay_list_summary": "26897"
+  },
+  {
+    "id": 900781,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 900781,
+    "story_chapter_name": "39860",
+    "story_group_name": "31235",
+    "replay_Image": "StoryReplay_ordeal_157",
+    "replay_list_summary": "42985"
   },
   {
     "id": 900790,
@@ -4602,10 +4818,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900790,
-    "story_chapter_name": "DB_hero_group_name_1404001",
-    "story_group_name": "DB_stage_cut_name_91360030",
+    "story_chapter_name": "17325",
+    "story_group_name": "31486",
     "replay_Image": "StoryReplay_ordeal_121",
-    "replay_list_summary": "DB_cutscene_replay_list_91360030"
+    "replay_list_summary": "26898"
   },
   {
     "id": 900800,
@@ -4614,10 +4830,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900800,
-    "story_chapter_name": "DB_hero_group_name_1455001",
-    "story_group_name": "DB_stage_cut_name_91370010",
+    "story_chapter_name": "17331",
+    "story_group_name": "31487",
     "replay_Image": "StoryReplay_ordeal_119",
-    "replay_list_summary": "DB_cutscene_replay_list_91370010"
+    "replay_list_summary": "26899"
   },
   {
     "id": 900810,
@@ -4626,10 +4842,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900810,
-    "story_chapter_name": "DB_hero_group_name_1455002",
-    "story_group_name": "DB_stage_cut_name_91370030",
+    "story_chapter_name": "17332",
+    "story_group_name": "31488",
     "replay_Image": "StoryReplay_ordeal_128",
-    "replay_list_summary": "DB_cutscene_replay_list_91370030"
+    "replay_list_summary": "26900"
   },
   {
     "id": 900820,
@@ -4638,10 +4854,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900820,
-    "story_chapter_name": "DB_hero_group_name_1464001",
-    "story_group_name": "DB_stage_cut_name_91990030",
+    "story_chapter_name": "17333",
+    "story_group_name": "31376",
     "replay_Image": "StoryReplay_ordeal_115",
-    "replay_list_summary": "DB_cutscene_replay_list_91990030"
+    "replay_list_summary": "26919"
   },
   {
     "id": 900830,
@@ -4650,10 +4866,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900830,
-    "story_chapter_name": "DB_hero_group_name_1465001",
-    "story_group_name": "DB_stage_cut_name_91990010",
+    "story_chapter_name": "17334",
+    "story_group_name": "31375",
     "replay_Image": "StoryReplay_ordeal_116",
-    "replay_list_summary": "DB_cutscene_replay_list_91990010"
+    "replay_list_summary": "26918"
   },
   {
     "id": 900840,
@@ -4662,10 +4878,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900840,
-    "story_chapter_name": "DB_hero_group_name_1435001",
-    "story_group_name": "DB_stage_cut_name_91990070",
+    "story_chapter_name": "17329",
+    "story_group_name": "31378",
     "replay_Image": "StoryReplay_ordeal_117",
-    "replay_list_summary": "DB_cutscene_replay_list_91990070"
+    "replay_list_summary": "26921"
   },
   {
     "id": 900850,
@@ -4674,10 +4890,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900850,
-    "story_chapter_name": "DB_hero_group_name_1445001",
-    "story_group_name": "DB_stage_cut_name_91990050",
+    "story_chapter_name": "17330",
+    "story_group_name": "31377",
     "replay_Image": "StoryReplay_ordeal_118",
-    "replay_list_summary": "DB_cutscene_replay_list_91990050"
+    "replay_list_summary": "26920"
   },
   {
     "id": 900860,
@@ -4686,10 +4902,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900860,
-    "story_chapter_name": "DB_hero_group_name_1425002",
-    "story_group_name": "DB_stage_cut_name_91020330",
+    "story_chapter_name": "17328",
+    "story_group_name": "31405",
     "replay_Image": "StoryReplay_ordeal_120",
-    "replay_list_summary": "DB_cutscene_replay_list_91020330"
+    "replay_list_summary": "26818"
   },
   {
     "id": 900870,
@@ -4698,10 +4914,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900870,
-    "story_chapter_name": "DB_hero_group_name_1385001",
-    "story_group_name": "DB_stage_cut_name_91380010",
+    "story_chapter_name": "17322",
+    "story_group_name": "31489",
     "replay_Image": "StoryReplay_ordeal_122",
-    "replay_list_summary": "DB_cutscene_replay_list_91380010"
+    "replay_list_summary": "26901"
   },
   {
     "id": 900880,
@@ -4710,10 +4926,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900880,
-    "story_chapter_name": "DB_hero_group_name_1385003",
-    "story_group_name": "DB_stage_cut_name_91380110",
+    "story_chapter_name": "17324",
+    "story_group_name": "31490",
     "replay_Image": "StoryReplay_ordeal_129",
-    "replay_list_summary": "DB_cutscene_replay_list_91380110"
+    "replay_list_summary": "26902"
   },
   {
     "id": 900890,
@@ -4722,10 +4938,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900890,
-    "story_chapter_name": "DB_hero_group_name_1505001",
-    "story_group_name": "DB_stage_cut_name_91390010",
+    "story_chapter_name": "17339",
+    "story_group_name": "31491",
     "replay_Image": "StoryReplay_ordeal_123",
-    "replay_list_summary": "DB_cutscene_replay_list_91390010"
+    "replay_list_summary": "26903"
   },
   {
     "id": 900900,
@@ -4734,10 +4950,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900900,
-    "story_chapter_name": "DB_hero_group_name_1505002",
-    "story_group_name": "DB_stage_cut_name_91390110",
+    "story_chapter_name": "40640",
+    "story_group_name": "41133",
     "replay_Image": "StoryReplay_ordeal_148",
-    "replay_list_summary": "DB_cutscene_replay_list_91390110"
+    "replay_list_summary": "41862"
   },
   {
     "id": 900910,
@@ -4746,10 +4962,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900910,
-    "story_chapter_name": "DB_hero_group_name_1475001",
-    "story_group_name": "DB_stage_cut_name_91400010",
+    "story_chapter_name": "17335",
+    "story_group_name": "31492",
     "replay_Image": "StoryReplay_ordeal_124",
-    "replay_list_summary": "DB_cutscene_replay_list_91400010"
+    "replay_list_summary": "26904"
   },
   {
     "id": 900920,
@@ -4758,10 +4974,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900920,
-    "story_chapter_name": "DB_hero_group_name_1475002",
-    "story_group_name": "DB_stage_cut_name_91400030",
+    "story_chapter_name": "17336",
+    "story_group_name": "31493",
     "replay_Image": "StoryReplay_ordeal_125",
-    "replay_list_summary": "DB_cutscene_replay_list_91400030"
+    "replay_list_summary": "26905"
   },
   {
     "id": 900930,
@@ -4770,10 +4986,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900930,
-    "story_chapter_name": "DB_hero_group_name_1515001",
-    "story_group_name": "DB_stage_cut_name_91410010",
+    "story_chapter_name": "17340",
+    "story_group_name": "31494",
     "replay_Image": "StoryReplay_ordeal_130",
-    "replay_list_summary": "DB_cutscene_replay_list_91410010"
+    "replay_list_summary": "26906"
   },
   {
     "id": 900940,
@@ -4782,10 +4998,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900940,
-    "story_chapter_name": "DB_hero_group_name_1515002",
-    "story_group_name": "DB_stage_cut_name_91410110",
+    "story_chapter_name": "44066",
+    "story_group_name": "41134",
     "replay_Image": "StoryReplay_ordeal_149",
-    "replay_list_summary": "DB_cutscene_replay_list_91410110"
+    "replay_list_summary": "42990"
   },
   {
     "id": 900950,
@@ -4794,10 +5010,22 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900950,
-    "story_chapter_name": "DB_hero_group_name_1525001",
-    "story_group_name": "DB_stage_cut_name_91420010",
+    "story_chapter_name": "17341",
+    "story_group_name": "31495",
     "replay_Image": "StoryReplay_ordeal_131",
-    "replay_list_summary": "DB_cutscene_replay_list_91420010"
+    "replay_list_summary": "26907"
+  },
+  {
+    "id": 900960,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 900960,
+    "story_chapter_name": "44067",
+    "story_group_name": "46040",
+    "replay_Image": "StoryReplay_ordeal_150",
+    "replay_list_summary": "42991"
   },
   {
     "id": 900970,
@@ -4806,10 +5034,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900970,
-    "story_chapter_name": "DB_hero_group_name_1614001",
-    "story_group_name": "DB_stage_cut_name_91440010",
+    "story_chapter_name": "17349",
+    "story_group_name": "31497",
     "replay_Image": "StoryReplay_ordeal_132",
-    "replay_list_summary": "DB_cutscene_replay_list_91440010"
+    "replay_list_summary": "26909"
   },
   {
     "id": 900980,
@@ -4818,10 +5046,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900980,
-    "story_chapter_name": "DB_hero_group_name_1605001",
-    "story_group_name": "DB_stage_cut_name_91450010",
+    "story_chapter_name": "17348",
+    "story_group_name": "31498",
     "replay_Image": "StoryReplay_ordeal_133",
-    "replay_list_summary": "DB_cutscene_replay_list_91450010"
+    "replay_list_summary": "26910"
   },
   {
     "id": 900990,
@@ -4830,10 +5058,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 900990,
-    "story_chapter_name": "DB_hero_group_name_1535001",
-    "story_group_name": "DB_stage_cut_name_91480010",
+    "story_chapter_name": "17342",
+    "story_group_name": "31499",
     "replay_Image": "StoryReplay_ordeal_134",
-    "replay_list_summary": "DB_cutscene_replay_list_91480010"
+    "replay_list_summary": "26911"
   },
   {
     "id": 901010,
@@ -4842,10 +5070,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901010,
-    "story_chapter_name": "DB_hero_group_name_1665001",
-    "story_group_name": "DB_stage_cut_name_91460010",
+    "story_chapter_name": "17352",
+    "story_group_name": "31374",
     "replay_Image": "StoryReplay_ordeal_135",
-    "replay_list_summary": "DB_cutscene_replay_list_91460010"
+    "replay_list_summary": "23902"
   },
   {
     "id": 901020,
@@ -4854,10 +5082,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901020,
-    "story_chapter_name": "DB_hero_group_name_1654001",
-    "story_group_name": "DB_stage_cut_name_91490010",
+    "story_chapter_name": "17351",
+    "story_group_name": "31500",
     "replay_Image": "StoryReplay_ordeal_136",
-    "replay_list_summary": "DB_cutscene_replay_list_91490010"
+    "replay_list_summary": "26912"
   },
   {
     "id": 901030,
@@ -4866,10 +5094,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901030,
-    "story_chapter_name": "DB_hero_group_name_1645001",
-    "story_group_name": "DB_stage_cut_name_91510010",
+    "story_chapter_name": "17350",
+    "story_group_name": "31502",
     "replay_Image": "StoryReplay_ordeal_137",
-    "replay_list_summary": "DB_cutscene_replay_list_91510010"
+    "replay_list_summary": "23903"
   },
   {
     "id": 901040,
@@ -4878,10 +5106,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901040,
-    "story_chapter_name": "DB_hero_group_name_1725001",
-    "story_group_name": "DB_stage_cut_name_91530010",
+    "story_chapter_name": "17353",
+    "story_group_name": "31504",
     "replay_Image": "StoryReplay_ordeal_138",
-    "replay_list_summary": "DB_cutscene_replay_list_91530010"
+    "replay_list_summary": "26914"
   },
   {
     "id": 901050,
@@ -4890,10 +5118,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901050,
-    "story_chapter_name": "DB_hero_group_name_1735001",
-    "story_group_name": "DB_stage_cut_name_91540010",
+    "story_chapter_name": "17354",
+    "story_group_name": "31505",
     "replay_Image": "StoryReplay_ordeal_139",
-    "replay_list_summary": "DB_cutscene_replay_list_91540010"
+    "replay_list_summary": "26915"
   },
   {
     "id": 901060,
@@ -4902,10 +5130,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901060,
-    "story_chapter_name": "DB_hero_group_name_1575001",
-    "story_group_name": "DB_stage_cut_name_91560010",
+    "story_chapter_name": "17344",
+    "story_group_name": "31506",
     "replay_Image": "StoryReplay_ordeal_147",
-    "replay_list_summary": "DB_cutscene_replay_list_91560010"
+    "replay_list_summary": "26916"
   },
   {
     "id": 901070,
@@ -4914,10 +5142,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901070,
-    "story_chapter_name": "DB_hero_group_name_1575002",
-    "story_group_name": "DB_stage_cut_name_91560110",
+    "story_chapter_name": "44071",
+    "story_group_name": "41136",
     "replay_Image": "StoryReplay_ordeal_152",
-    "replay_list_summary": "DB_cutscene_replay_list_91560110"
+    "replay_list_summary": "42993"
   },
   {
     "id": 901080,
@@ -4926,10 +5154,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901080,
-    "story_chapter_name": "DB_hero_group_name_1485001",
-    "story_group_name": "DB_stage_cut_name_91550010",
+    "story_chapter_name": "17337",
+    "story_group_name": "39807",
     "replay_Image": "StoryReplay_ordeal_142",
-    "replay_list_summary": "DB_cutscene_replay_list_91550010"
+    "replay_list_summary": "39682"
   },
   {
     "id": 901090,
@@ -4938,10 +5166,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901090,
-    "story_chapter_name": "DB_hero_group_name_1495001",
-    "story_group_name": "DB_stage_cut_name_91570010",
+    "story_chapter_name": "17338",
+    "story_group_name": "31507",
     "replay_Image": "StoryReplay_ordeal_143",
-    "replay_list_summary": "DB_cutscene_replay_list_91570010"
+    "replay_list_summary": "26917"
   },
   {
     "id": 901100,
@@ -4950,10 +5178,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901100,
-    "story_chapter_name": "DB_hero_group_name_1385003",
-    "story_group_name": "DB_stage_cut_name_91380210",
+    "story_chapter_name": "17323",
+    "story_group_name": "41132",
     "replay_Image": "StoryReplay_ordeal_146",
-    "replay_list_summary": "DB_cutscene_replay_list_91380210"
+    "replay_list_summary": "42989"
   },
   {
     "id": 901110,
@@ -4962,10 +5190,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901110,
-    "story_chapter_name": "DB_hero_group_name_1585001",
-    "story_group_name": "DB_stage_cut_name_91520010",
+    "story_chapter_name": "17345",
+    "story_group_name": "31503",
     "replay_Image": "StoryReplay_ordeal_144",
-    "replay_list_summary": "DB_cutscene_replay_list_91520010"
+    "replay_list_summary": "31392"
   },
   {
     "id": 901120,
@@ -4974,10 +5202,34 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901120,
-    "story_chapter_name": "DB_hero_group_name_1585002",
-    "story_group_name": "DB_stage_cut_name_91520110",
+    "story_chapter_name": "17346",
+    "story_group_name": "39943",
     "replay_Image": "StoryReplay_ordeal_145",
-    "replay_list_summary": "DB_cutscene_replay_list_91520110"
+    "replay_list_summary": "39246"
+  },
+  {
+    "id": 901130,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 901130,
+    "story_chapter_name": "44069",
+    "story_group_name": "46042",
+    "replay_Image": "StoryReplay_ordeal_153",
+    "replay_list_summary": "42996"
+  },
+  {
+    "id": 901140,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 901140,
+    "story_chapter_name": "44070",
+    "story_group_name": "46043",
+    "replay_Image": "StoryReplay_ordeal_154",
+    "replay_list_summary": "42997"
   },
   {
     "id": 901150,
@@ -4986,10 +5238,10 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901150,
-    "story_chapter_name": "DB_hero_group_name_1675001",
-    "story_group_name": "DB_stage_cut_name_91580010",
+    "story_chapter_name": "44072",
+    "story_group_name": "46041",
     "replay_Image": "StoryReplay_ordeal_155",
-    "replay_list_summary": "DB_cutscene_replay_list_91580010"
+    "replay_list_summary": "42994"
   },
   {
     "id": 901160,
@@ -4998,10 +5250,46 @@
     "story_region": 0,
     "story_region_ep": 0,
     "story_group": 901160,
-    "story_chapter_name": "DB_hero_group_name_1685001",
-    "story_group_name": "DB_stage_cut_name_91590010",
+    "story_chapter_name": "44073",
+    "story_group_name": "41137",
     "replay_Image": "StoryReplay_ordeal_156",
-    "replay_list_summary": "DB_cutscene_replay_list_91590010"
+    "replay_list_summary": "42995"
+  },
+  {
+    "id": 901190,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 901190,
+    "story_chapter_name": "44077",
+    "story_group_name": "46046",
+    "replay_Image": "StoryReplay_ordeal_161",
+    "replay_list_summary": "43000"
+  },
+  {
+    "id": 901200,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 901200,
+    "story_chapter_name": "17347",
+    "story_group_name": "46050",
+    "replay_Image": "StoryReplay_ordeal_162",
+    "replay_list_summary": "43004"
+  },
+  {
+    "id": 901240,
+    "show_list": 0,
+    "story_type": 3,
+    "story_region": 0,
+    "story_region_ep": 0,
+    "story_group": 901240,
+    "story_chapter_name": "44076",
+    "story_group_name": "46044",
+    "replay_Image": "StoryReplay_ordeal_166",
+    "replay_list_summary": "42998"
   },
   {
     "id": 800000,
@@ -5011,9 +5299,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "DB_stage_cut_name_800000",
+    "story_group_name": "28865",
     "replay_Image": "StoryReplay_event_01",
-    "replay_list_summary": "DB_cutscene_replay_list_800000"
+    "replay_list_summary": "26801"
   },
   {
     "id": 800001,
@@ -5023,9 +5311,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "DB_stage_cut_name_800001",
+    "story_group_name": "28866",
     "replay_Image": "StoryReplay_event_02",
-    "replay_list_summary": "DB_cutscene_replay_list_800001"
+    "replay_list_summary": "26802"
   },
   {
     "id": 800002,
@@ -5035,9 +5323,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "DB_stage_cut_name_800002",
+    "story_group_name": "28867",
     "replay_Image": "StoryReplay_event_03",
-    "replay_list_summary": "DB_cutscene_replay_list_800002"
+    "replay_list_summary": "26803"
   },
   {
     "id": 800003,
@@ -5047,9 +5335,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "DB_stage_cut_name_800004",
+    "story_group_name": "28868",
     "replay_Image": "StoryReplay_event_05",
-    "replay_list_summary": "DB_cutscene_replay_list_800004"
+    "replay_list_summary": "26804"
   },
   {
     "id": 800004,
@@ -5059,9 +5347,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "DB_stage_cut_name_800005",
+    "story_group_name": "28869",
     "replay_Image": "StoryReplay_event_06",
-    "replay_list_summary": "DB_cutscene_replay_list_800005"
+    "replay_list_summary": "26805"
   },
   {
     "id": 800005,
@@ -5071,9 +5359,9 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "DB_stage_cut_name_800006",
+    "story_group_name": "28870",
     "replay_Image": "StoryReplay_event_07",
-    "replay_list_summary": "DB_cutscene_replay_list_800006"
+    "replay_list_summary": "26806"
   },
   {
     "id": 800006,
@@ -5083,8 +5371,8 @@
     "story_region_ep": 0,
     "story_group": 0,
     "story_chapter_name": "",
-    "story_group_name": "DB_event_first_main_title_08_04",
+    "story_group_name": "10221",
     "replay_Image": "StoryReplay_event_08",
-    "replay_list_summary": "DB_cutscene_replay_list_800007"
+    "replay_list_summary": "26807"
   }
 ]

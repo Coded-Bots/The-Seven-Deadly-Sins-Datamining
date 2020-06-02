@@ -1,58 +1,58 @@
 [
   {
     "id": 1,
-    "notice_title": "UI_GB_SYS_Ingame_Notice_Title_01",
-    "notice_desc1": "UI_GB_SYS_Ingame_Notice_Desc_01_1",
+    "notice_title": "1596",
+    "notice_desc1": "1582",
     "notice_desc2": "",
     "notice_type": 1
   },
   {
     "id": 2,
-    "notice_title": "UI_GB_SYS_Ingame_Notice_Title_02",
-    "notice_desc1": "UI_GB_SYS_Ingame_Notice_Desc_02_1",
+    "notice_title": "1597",
+    "notice_desc1": "1584",
     "notice_desc2": "",
     "notice_type": 2
   },
   {
     "id": 3,
-    "notice_title": "UI_GB_SYS_Ingame_Notice_Title_03",
-    "notice_desc1": "UI_GB_SYS_Ingame_Notice_Desc_03_1",
-    "notice_desc2": "UI_GB_SYS_Ingame_Notice_Desc_03_2",
+    "notice_title": "1598",
+    "notice_desc1": "1586",
+    "notice_desc2": "1587",
     "notice_type": 3
   },
   {
     "id": 4,
-    "notice_title": "UI_GB_SYS_Ingame_Notice_Title_04",
-    "notice_desc1": "UI_GB_SYS_Ingame_Notice_Desc_04_1",
-    "notice_desc2": "UI_GB_SYS_Ingame_Notice_Desc_04_2",
+    "notice_title": "1599",
+    "notice_desc1": "1588",
+    "notice_desc2": "1589",
     "notice_type": 4
   },
   {
     "id": 5,
-    "notice_title": "UI_GB_SYS_Ingame_Notice_Title_04",
-    "notice_desc1": "UI_GB_SYS_Ingame_Notice_Desc_05_1",
-    "notice_desc2": "UI_GB_SYS_Ingame_Notice_Desc_05_2",
+    "notice_title": "1599",
+    "notice_desc1": "1590",
+    "notice_desc2": "1591",
     "notice_type": 5
   },
   {
     "id": 6,
-    "notice_title": "UI_GB_SYS_Ingame_Notice_Title_05",
-    "notice_desc1": "UI_GB_SYS_Ingame_Notice_Desc_06_1",
-    "notice_desc2": "UI_GB_SYS_Ingame_Notice_Desc_06_2",
+    "notice_title": "1600",
+    "notice_desc1": "1592",
+    "notice_desc2": "1593",
     "notice_type": 6
   },
   {
     "id": 7,
-    "notice_title": "UI_GB_SYS_Ingame_Notice_Title_06",
-    "notice_desc1": "UI_GB_SYS_Ingame_Notice_Desc_07_1",
-    "notice_desc2": "UI_GB_SYS_Ingame_Notice_Desc_07_2",
+    "notice_title": "1601",
+    "notice_desc1": "1594",
+    "notice_desc2": "1595",
     "notice_type": 7
   },
   {
     "id": 8,
-    "notice_title": "UI_GB_SYS_Ingame_Notice_Title_09",
-    "notice_desc1": "UI_GB_SYS_Ingame_Notice_Desc_09_1",
-    "notice_desc2": "UI_GB_SYS_Ingame_Notice_Desc_09_2",
+    "notice_title": "5111",
+    "notice_desc1": "5109",
+    "notice_desc2": "5110",
     "notice_type": 8
   }
 ]

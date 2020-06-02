@@ -2,7 +2,7 @@
   {
     "id": 1,
     "category": "meat",
-    "category_string": "DB_item_name_cookingmainmaterial_0007",
+    "category_string": "12068",
     "sub_category": 1,
     "sub_category_type": 0,
     "type": 1,
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "category": "milk",
-    "category_string": "DB_item_name_cookingmainmaterial_0008",
+    "category_string": "12069",
     "sub_category": 2,
     "sub_category_type": 0,
     "type": 1,
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "category": "vegetable",
-    "category_string": "DB_item_name_cookingmainmaterial_0009",
+    "category_string": "12070",
     "sub_category": 3,
     "sub_category_type": 0,
     "type": 1,
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "category": "bird",
-    "category_string": "DB_item_name_cookingmainmaterial_0012",
+    "category_string": "12071",
     "sub_category": 4,
     "sub_category_type": 0,
     "type": 1,
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "category": "grain",
-    "category_string": "DB_item_name_cookingmainmaterial_0015",
+    "category_string": "12072",
     "sub_category": 5,
     "sub_category_type": 0,
     "type": 1,
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "category": "processedmeat",
-    "category_string": "DB_item_name_cookingmainmaterial_0018",
+    "category_string": "12073",
     "sub_category": 6,
     "sub_category_type": 0,
     "type": 1,
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "category": "sub_vegetable",
-    "category_string": "DB_item_name_cookingaddmaterial_0001",
+    "category_string": "12056",
     "sub_category": 1,
     "sub_category_type": 0,
     "type": 2,
@@ -100,7 +100,7 @@
   {
     "id": 9,
     "category": "sub_butter",
-    "category_string": "DB_item_name_cookingaddmaterial_0003",
+    "category_string": "12058",
     "sub_category": 2,
     "sub_category_type": 0,
     "type": 2,
@@ -114,7 +114,7 @@
   {
     "id": 10,
     "category": "sub_milK",
-    "category_string": "DB_item_name_cookingaddmaterial_0008",
+    "category_string": "12063",
     "sub_category": 3,
     "sub_category_type": 0,
     "type": 2,
@@ -128,7 +128,7 @@
   {
     "id": 11,
     "category": "sub_salt",
-    "category_string": "DB_item_name_cookingaddmaterial_0007",
+    "category_string": "12062",
     "sub_category": 4,
     "sub_category_type": 0,
     "type": 2,
@@ -142,7 +142,7 @@
   {
     "id": 12,
     "category": "sub_pepper",
-    "category_string": "DB_item_name_cookingaddmaterial_0005",
+    "category_string": "12060",
     "sub_category": 5,
     "sub_category_type": 0,
     "type": 2,
@@ -156,7 +156,7 @@
   {
     "id": 13,
     "category": "sub_herb",
-    "category_string": "DB_item_name_cookingaddmaterial_0009",
+    "category_string": "12064",
     "sub_category": 6,
     "sub_category_type": 0,
     "type": 2,
@@ -170,7 +170,7 @@
   {
     "id": 14,
     "category": "sub_sugar",
-    "category_string": "DB_item_name_cookingaddmaterial_0006",
+    "category_string": "12061",
     "sub_category": 7,
     "sub_category_type": 0,
     "type": 2,
@@ -184,7 +184,7 @@
   {
     "id": 15,
     "category": "sub_honey",
-    "category_string": "DB_item_name_cookingaddmaterial_0002",
+    "category_string": "12057",
     "sub_category": 8,
     "sub_category_type": 0,
     "type": 2,
@@ -198,7 +198,7 @@
   {
     "id": 16,
     "category": "sub_egg",
-    "category_string": "DB_item_name_cookingaddmaterial_0004",
+    "category_string": "12059",
     "sub_category": 9,
     "sub_category_type": 0,
     "type": 2,
@@ -212,7 +212,7 @@
   {
     "id": 20,
     "category": "add_vegetable_1",
-    "category_string": "DB_item_name_cookingmaterial_0001",
+    "category_string": "12075",
     "sub_category": 1,
     "sub_category_type": 0,
     "type": 3,
@@ -226,7 +226,7 @@
   {
     "id": 21,
     "category": "add_vegetable_2",
-    "category_string": "DB_item_name_cookingmaterial_0006",
+    "category_string": "12080",
     "sub_category": 2,
     "sub_category_type": 0,
     "type": 3,
@@ -240,7 +240,7 @@
   {
     "id": 22,
     "category": "add_vegetable_3",
-    "category_string": "DB_item_name_cookingmaterial_0010",
+    "category_string": "12084",
     "sub_category": 3,
     "sub_category_type": 0,
     "type": 3,
@@ -254,7 +254,7 @@
   {
     "id": 23,
     "category": "add_product_1",
-    "category_string": "DB_item_name_cookingmaterial_0007",
+    "category_string": "12081",
     "sub_category": 4,
     "sub_category_type": 0,
     "type": 3,
@@ -268,7 +268,7 @@
   {
     "id": 24,
     "category": "add_vegetable_4",
-    "category_string": "DB_item_name_cookingmaterial_0008",
+    "category_string": "12082",
     "sub_category": 5,
     "sub_category_type": 0,
     "type": 3,
@@ -282,7 +282,7 @@
   {
     "id": 25,
     "category": "add_goods_1",
-    "category_string": "DB_item_name_cookingmaterial_0002",
+    "category_string": "12076",
     "sub_category": 6,
     "sub_category_type": 0,
     "type": 3,
@@ -296,7 +296,7 @@
   {
     "id": 26,
     "category": "add_fruit_1",
-    "category_string": "DB_item_name_cookingmaterial_0009",
+    "category_string": "12083",
     "sub_category": 7,
     "sub_category_type": 0,
     "type": 3,
@@ -310,7 +310,7 @@
   {
     "id": 27,
     "category": "add_fruit_2",
-    "category_string": "DB_item_name_cookingmaterial_0011",
+    "category_string": "12085",
     "sub_category": 8,
     "sub_category_type": 0,
     "type": 3,
@@ -324,7 +324,7 @@
   {
     "id": 28,
     "category": "add_product_2",
-    "category_string": "DB_item_name_cookingmaterial_0003",
+    "category_string": "12077",
     "sub_category": 9,
     "sub_category_type": 0,
     "type": 3,
@@ -338,7 +338,7 @@
   {
     "id": 29,
     "category": "add_goods_2",
-    "category_string": "DB_item_name_cookingmaterial_0004",
+    "category_string": "12078",
     "sub_category": 10,
     "sub_category_type": 0,
     "type": 3,
@@ -352,7 +352,7 @@
   {
     "id": 30,
     "category": "add_fruit_3",
-    "category_string": "DB_item_name_cookingmaterial_0005",
+    "category_string": "12079",
     "sub_category": 11,
     "sub_category_type": 0,
     "type": 3,
@@ -366,7 +366,7 @@
   {
     "id": 31,
     "category": "add_fruit_4",
-    "category_string": "DB_item_name_cookingmaterial_0012",
+    "category_string": "12086",
     "sub_category": 12,
     "sub_category_type": 0,
     "type": 3,
@@ -380,7 +380,7 @@
   {
     "id": 32,
     "category": "add_goods_2",
-    "category_string": "DB_item_name_cookingmaterial_0013",
+    "category_string": "12087",
     "sub_category": 13,
     "sub_category_type": 0,
     "type": 3,
@@ -394,7 +394,7 @@
   {
     "id": 33,
     "category": "add_goods_3",
-    "category_string": "DB_item_name_cookingmaterial_0014",
+    "category_string": "12088",
     "sub_category": 14,
     "sub_category_type": 0,
     "type": 3,
@@ -408,7 +408,7 @@
   {
     "id": 34,
     "category": "add_product_3",
-    "category_string": "DB_item_name_cookingmaterial_0015",
+    "category_string": "12089",
     "sub_category": 15,
     "sub_category_type": 0,
     "type": 3,
@@ -422,7 +422,7 @@
   {
     "id": 35,
     "category": "add_goods_2",
-    "category_string": "DB_item_name_cookingmaterial_0016",
+    "category_string": "12090",
     "sub_category": 16,
     "sub_category_type": 0,
     "type": 3,
@@ -436,7 +436,7 @@
   {
     "id": 36,
     "category": "add_product_2",
-    "category_string": "DB_item_name_cookingmaterial_0017",
+    "category_string": "12091",
     "sub_category": 17,
     "sub_category_type": 0,
     "type": 3,
@@ -450,7 +450,7 @@
   {
     "id": 37,
     "category": "add_vegetable_5",
-    "category_string": "DB_item_name_cookingmaterial_0018",
+    "category_string": "12092",
     "sub_category": 18,
     "sub_category_type": 0,
     "type": 3,

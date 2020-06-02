@@ -639,1111 +639,1118 @@
   {
     "id": 920,
     "base_id": "low_rank_soldier04",
+    "localize": "DB_hero_name_501351",
+    "icon": "merlin_0013",
+    "icon_type": ""
+  },
+  {
+    "id": 930,
+    "base_id": "low_rank_soldier04",
     "localize": "DB_hero_name_501360",
     "icon": "low_rank_soldier04_0001",
     "icon_type": ""
   },
   {
-    "id": 930,
+    "id": 940,
     "base_id": "low_rank_soldier04",
     "localize": "DB_hero_name_501370",
     "icon": "low_rank_soldier04_0001",
     "icon_type": ""
   },
   {
-    "id": 940,
+    "id": 950,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501380",
     "icon": "npc_common_child02",
     "icon_type": ""
   },
   {
-    "id": 950,
+    "id": 960,
     "base_id": "fiercedragon",
     "localize": "DB_hero_name_501390",
     "icon": "fiercedragon_0010",
     "icon_type": ""
   },
   {
-    "id": 960,
+    "id": 970,
     "base_id": "meliodas",
     "localize": "DB_hero_name_501410",
     "icon": "meliodas_0016",
     "icon_type": ""
   },
   {
-    "id": 970,
+    "id": 980,
     "base_id": "npc_common_adult_0004",
     "localize": "DB_hero_name_501430",
     "icon": "npc_base_man_0001",
     "icon_type": ""
   },
   {
-    "id": 980,
+    "id": 990,
     "base_id": "npc_common_adult_0004",
     "localize": "DB_hero_name_501440",
     "icon": "npc_base_man_0005",
     "icon_type": ""
   },
   {
-    "id": 990,
+    "id": 1000,
     "base_id": "npc_common_adult_0005",
     "localize": "DB_hero_name_501450",
     "icon": "npc_common_adult_0004",
     "icon_type": ""
   },
   {
-    "id": 1000,
+    "id": 1010,
     "base_id": "npc_common_adult_0003",
     "localize": "DB_hero_name_501460",
     "icon": "npc_base_man_0004",
     "icon_type": ""
   },
   {
-    "id": 1010,
+    "id": 1020,
     "base_id": "hawk",
     "localize": "DB_hero_name_501480",
     "icon": "hawk_0001",
     "icon_type": ""
   },
   {
-    "id": 1020,
+    "id": 1030,
     "base_id": "rust_knight",
     "localize": "DB_hero_name_501490",
     "icon": "rust_knight_0010",
     "icon_type": ""
   },
   {
-    "id": 1030,
+    "id": 1040,
     "base_id": "npc_common_adult_0004",
     "localize": "DB_hero_name_501500",
     "icon": "npc_base_man_0004",
     "icon_type": ""
   },
   {
-    "id": 1040,
+    "id": 1050,
     "base_id": "elizabeth",
     "localize": "DB_hero_name_501510",
     "icon": "elizabeth_0001",
     "icon_type": ""
   },
   {
-    "id": 1050,
+    "id": 1060,
     "base_id": "npc_common_adult_0004",
     "localize": "DB_hero_name_501570",
     "icon": "npc_base_man_0005",
     "icon_type": ""
   },
   {
-    "id": 1060,
+    "id": 1070,
     "base_id": "golgius",
     "localize": "DB_hero_name_501580",
     "icon": "golgius_0011",
     "icon_type": ""
   },
   {
-    "id": 1070,
+    "id": 1080,
     "base_id": "npc_shepherd_man",
     "localize": "DB_hero_name_501600",
     "icon": "npc_shepherd_man_0001",
     "icon_type": ""
   },
   {
-    "id": 1080,
+    "id": 1090,
     "base_id": "npc_shepherd_boy",
     "localize": "DB_hero_name_501610",
     "icon": "npc_shepherd_boy_0001",
     "icon_type": ""
   },
   {
-    "id": 1090,
+    "id": 1100,
     "base_id": "npc_shepherd_man",
     "localize": "DB_hero_name_501620",
     "icon": "npc_shepherd_man_0001",
     "icon_type": ""
   },
   {
-    "id": 1100,
+    "id": 1110,
     "base_id": "low_rank_soldier04",
     "localize": "DB_hero_name_501630",
     "icon": "humanbasics_pig_0010",
     "icon_type": ""
   },
   {
-    "id": 1110,
+    "id": 1120,
     "base_id": "guila",
     "localize": "DB_hero_name_501640",
     "icon": "guila_0013",
     "icon_type": ""
   },
   {
-    "id": 1120,
+    "id": 1130,
     "base_id": "alioni",
     "localize": "DB_hero_name_501650",
     "icon": "alioni_0001",
     "icon_type": ""
   },
   {
-    "id": 1130,
+    "id": 1140,
     "base_id": "",
     "localize": "DB_hero_name_501670",
     "icon": "king_0001",
     "icon_type": ""
   },
   {
-    "id": 1140,
+    "id": 1150,
     "base_id": "hero_vaizel_fighter02",
     "localize": "DB_hero_name_501730",
     "icon": "npc_common_adult02",
     "icon_type": ""
   },
   {
-    "id": 1150,
+    "id": 1160,
     "base_id": "npc_common_adult_0001",
     "localize": "DB_hero_name_501770",
     "icon": "meliodas_0016",
     "icon_type": ""
   },
   {
-    "id": 1160,
+    "id": 1170,
     "base_id": "low_rank_soldier04",
     "localize": "DB_hero_name_501790",
     "icon": "npc_tourist_0001",
     "icon_type": ""
   },
   {
-    "id": 1170,
+    "id": 1180,
     "base_id": "npc_common_adult03",
     "localize": "DB_hero_name_501800",
     "icon": "npc_drug_0001",
     "icon_type": ""
   },
   {
-    "id": 1180,
+    "id": 1190,
     "base_id": "npc_common_adult02",
     "localize": "DB_hero_name_501810",
     "icon": "npc_base_man_0002",
     "icon_type": ""
   },
   {
-    "id": 1190,
+    "id": 1200,
     "base_id": "npc_common_adult02",
     "localize": "DB_hero_name_501830",
     "icon": "vaizel_fighter01_0001",
     "icon_type": ""
   },
   {
-    "id": 1200,
+    "id": 1210,
     "base_id": "vaizel_fighter02",
     "localize": "DB_hero_name_501840",
     "icon": "npc_base_man_0001",
     "icon_type": ""
   },
   {
-    "id": 1210,
+    "id": 1220,
     "base_id": "npc_bna_chief",
     "localize": "DB_hero_name_501850",
     "icon": "ghola_0020",
     "icon_type": ""
   },
   {
-    "id": 1220,
+    "id": 1230,
     "base_id": "ghola_0020",
     "localize": "DB_hero_name_501860",
     "icon": "base_dealer_short001_0020",
     "icon_type": ""
   },
   {
-    "id": 1230,
+    "id": 1240,
     "base_id": "npc_dmr_dana",
     "localize": "DB_hero_name_501870",
     "icon": "base_man_tall002_0030",
     "icon_type": ""
   },
   {
-    "id": 1240,
+    "id": 1250,
     "base_id": "npc_common_adult_0004",
     "localize": "DB_hero_name_501880",
     "icon": "dianesmall_0003",
     "icon_type": ""
   },
   {
-    "id": 1250,
+    "id": 1260,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501900",
     "icon": "npc_liones_zeal_0001",
     "icon_type": ""
   },
   {
-    "id": 1260,
+    "id": 1270,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501910",
     "icon": "unknown_0001",
     "icon_type": ""
   },
   {
-    "id": 1270,
+    "id": 1280,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501920",
     "icon": "npc_liz_0002",
     "icon_type": ""
   },
   {
-    "id": 1280,
+    "id": 1290,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501940",
     "icon": "npc_base_woman_0003",
     "icon_type": ""
   },
   {
-    "id": 1290,
+    "id": 1300,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501950",
     "icon": "npc_oldman_0010",
     "icon_type": ""
   },
   {
-    "id": 1300,
+    "id": 1310,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501960",
     "icon": "npc_base_man_tall001_0010",
     "icon_type": ""
   },
   {
-    "id": 1310,
+    "id": 1320,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501970",
     "icon": "npc_common_child02",
     "icon_type": ""
   },
   {
-    "id": 1320,
+    "id": 1330,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501980",
     "icon": "npc_blindman_0010",
     "icon_type": ""
   },
   {
-    "id": 1330,
+    "id": 1340,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_501990",
     "icon": "npc_base_woman_0004",
     "icon_type": ""
   },
   {
-    "id": 1340,
+    "id": 1350,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_502000",
     "icon": "npc_base_dealer_short001_0020",
     "icon_type": ""
   },
   {
-    "id": 1350,
+    "id": 1360,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_502010",
     "icon": "npc_base_woman_tall002_0020",
     "icon_type": ""
   },
   {
-    "id": 1360,
+    "id": 1370,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_502020",
     "icon": "npc_oldwoman_0010",
     "icon_type": ""
   },
   {
-    "id": 1370,
+    "id": 1380,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_502040",
     "icon": "bug01_0010",
     "icon_type": ""
   },
   {
-    "id": 1380,
+    "id": 1390,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_502050",
     "icon": "wolfsword_0010",
     "icon_type": ""
   },
   {
-    "id": 1390,
+    "id": 1400,
     "base_id": "npc_common_child02",
     "localize": "DB_hero_name_502060",
     "icon": "prankster_imp_0001",
     "icon_type": ""
   },
   {
-    "id": 1400,
+    "id": 1410,
     "base_id": "prankster_imp_brown",
     "localize": "DB_hero_name_502070",
     "icon": "hawk_0001",
     "icon_type": ""
   },
   {
-    "id": 1410,
+    "id": 1420,
     "base_id": "hawk",
     "localize": "DB_hero_name_502080",
     "icon": "marmas_0001",
     "icon_type": ""
   },
   {
-    "id": 1420,
+    "id": 1430,
     "base_id": "hawk",
     "localize": "DB_hero_name_502090",
     "icon": "npc_vaizel_oldman_0010",
     "icon_type": ""
   },
   {
-    "id": 1430,
+    "id": 1440,
     "base_id": "hawk",
     "localize": "DB_hero_name_502100",
     "icon": "npc_tourist_0001",
     "icon_type": ""
   },
   {
-    "id": 1440,
+    "id": 1450,
     "base_id": "hawk",
     "localize": "DB_hero_name_502110",
     "icon": "npc_woman_fat_0010",
     "icon_type": ""
   },
   {
-    "id": 1450,
+    "id": 1460,
     "base_id": "hawk",
     "localize": "DB_hero_name_502120",
     "icon": "npc_base_man_tall002_0030",
     "icon_type": ""
   },
   {
-    "id": 1460,
+    "id": 1470,
     "base_id": "hawk",
     "localize": "DB_hero_name_502130",
     "icon": "npc_base_man_0008",
     "icon_type": ""
   },
   {
-    "id": 1470,
+    "id": 1480,
     "base_id": "hawk",
     "localize": "DB_hero_name_502140",
     "icon": "npc_man_knight_0010",
     "icon_type": ""
   },
   {
-    "id": 1480,
+    "id": 1490,
     "base_id": "hawk",
     "localize": "DB_hero_name_502150",
     "icon": "npc_tourist_0002",
     "icon_type": ""
   },
   {
-    "id": 1490,
+    "id": 1500,
     "base_id": "hawk",
     "localize": "DB_hero_name_502160",
     "icon": "npc_common_child_0003",
     "icon_type": ""
   },
   {
-    "id": 1500,
+    "id": 1510,
     "base_id": "hawk",
     "localize": "DB_hero_name_502170",
     "icon": "npc_common_adult_0004",
     "icon_type": ""
   },
   {
-    "id": 1510,
+    "id": 1520,
     "base_id": "hawk",
     "localize": "DB_hero_name_502190",
     "icon": "bug01_0010",
     "icon_type": ""
   },
   {
-    "id": 1520,
+    "id": 1530,
     "base_id": "hawk",
     "localize": "DB_hero_name_502200",
     "icon": "npc_common_child02",
     "icon_type": ""
   },
   {
-    "id": 1530,
+    "id": 1540,
     "base_id": "hawk",
     "localize": "DB_hero_name_502210",
     "icon": "npc_tourist_0002",
     "icon_type": ""
   },
   {
-    "id": 1540,
+    "id": 1550,
     "base_id": "hawk",
     "localize": "DB_hero_name_502220",
     "icon": "npc_base_woman_tall001_0010",
     "icon_type": ""
   },
   {
-    "id": 1550,
+    "id": 1560,
     "base_id": "hawk",
     "localize": "DB_hero_name_502230",
     "icon": "npc_base_man_0003",
     "icon_type": ""
   },
   {
-    "id": 1560,
+    "id": 1570,
     "base_id": "hawk",
     "localize": "DB_hero_name_502240",
     "icon": "npc_base_man_0001",
     "icon_type": ""
   },
   {
-    "id": 1570,
+    "id": 1580,
     "base_id": "hawk",
     "localize": "DB_hero_name_502250",
     "icon": "npc_man_knight_0011",
     "icon_type": ""
   },
   {
-    "id": 1580,
+    "id": 1590,
     "base_id": "hawk",
     "localize": "DB_hero_name_502260",
     "icon": "npc_base_woman_tall002_0020",
     "icon_type": ""
   },
   {
-    "id": 1590,
+    "id": 1600,
     "base_id": "hawk",
     "localize": "DB_hero_name_502280",
     "icon": "npc_base_man_short001_0020",
     "icon_type": ""
   },
   {
-    "id": 1600,
+    "id": 1610,
     "base_id": "hawk",
     "localize": "DB_hero_name_502290",
     "icon": "npc_base_dealer_tall001_0010",
     "icon_type": ""
   },
   {
-    "id": 1610,
+    "id": 1620,
     "base_id": "hawk",
     "localize": "DB_hero_name_502340",
     "icon": "hendrickson_0011",
     "icon_type": ""
   },
   {
-    "id": 1620,
+    "id": 1630,
     "base_id": "hawk",
     "localize": "DB_hero_name_502350",
     "icon": "arthur_0001",
     "icon_type": ""
   },
   {
-    "id": 1630,
+    "id": 1640,
     "base_id": "hawk",
     "localize": "DB_hero_name_502360",
     "icon": "dreyfus_0011",
     "icon_type": ""
   },
   {
-    "id": 1640,
+    "id": 1650,
     "base_id": "hawk",
     "localize": "DB_hero_name_502370",
     "icon": "merlin_0001",
     "icon_type": ""
   },
   {
-    "id": 1650,
+    "id": 1660,
     "base_id": "hawk",
     "localize": "DB_hero_name_502380",
     "icon": "helbram_0001",
     "icon_type": ""
   },
   {
-    "id": 1660,
+    "id": 1670,
     "base_id": "hawk",
     "localize": "DB_hero_name_502390",
     "icon": "helbram_fairy_0001",
     "icon_type": ""
   },
   {
-    "id": 1670,
+    "id": 1680,
     "base_id": "hawk",
     "localize": "DB_hero_name_502400",
     "icon": "demon_knight01_body_0001",
     "icon_type": ""
   },
   {
-    "id": 1680,
+    "id": 1690,
     "base_id": "hawk",
     "localize": "DB_hero_name_502410",
     "icon": "demon_knight02_body_0001",
     "icon_type": ""
   },
   {
-    "id": 1690,
+    "id": 1700,
     "base_id": "hawk",
     "localize": "DB_hero_name_502420",
     "icon": "npc_knight_dale_0001",
     "icon_type": ""
   },
   {
-    "id": 1700,
+    "id": 1710,
     "base_id": "hawk",
     "localize": "DB_hero_name_502430",
     "icon": "npc_marchant_0001",
     "icon_type": ""
   },
   {
-    "id": 1710,
+    "id": 1720,
     "base_id": "hawk",
     "localize": "DB_hero_name_502440",
     "icon": "npc_base_dealer_short001_0020",
     "icon_type": ""
   },
   {
-    "id": 1720,
+    "id": 1730,
     "base_id": "hawk",
     "localize": "DB_hero_name_502450",
     "icon": "humanbasics_0090",
     "icon_type": ""
   },
   {
-    "id": 1730,
+    "id": 1740,
     "base_id": "hawk",
     "localize": "DB_hero_name_502460",
     "icon": "npc_liones_adult_0003",
     "icon_type": ""
   },
   {
-    "id": 1740,
+    "id": 1750,
     "base_id": "hawk",
     "localize": "DB_hero_name_502470",
     "icon": "npc_base_man_0002",
     "icon_type": ""
   },
   {
-    "id": 1750,
+    "id": 1760,
     "base_id": "hawk",
     "localize": "DB_hero_name_502480",
     "icon": "npc_liones_adult_0001",
     "icon_type": ""
   },
   {
-    "id": 1760,
+    "id": 1770,
     "base_id": "hawk",
     "localize": "DB_hero_name_502500",
     "icon": "npc_liones_adult_0002",
     "icon_type": ""
   },
   {
-    "id": 1770,
+    "id": 1780,
     "base_id": "hawk",
     "localize": "DB_hero_name_502510",
     "icon": "npc_base_man_0006",
     "icon_type": ""
   },
   {
-    "id": 1780,
+    "id": 1790,
     "base_id": "hawk",
     "localize": "DB_hero_name_502520",
     "icon": "npc_base_man_0002",
     "icon_type": ""
   },
   {
-    "id": 1790,
+    "id": 1800,
     "base_id": "hawk",
     "localize": "DB_hero_name_502530",
     "icon": "humanbasics_0040",
     "icon_type": ""
   },
   {
-    "id": 1800,
+    "id": 1810,
     "base_id": "hawk",
     "localize": "DB_hero_name_502540",
     "icon": "humanbasics_0020",
     "icon_type": ""
   },
   {
-    "id": 1810,
+    "id": 1820,
     "base_id": "hawk",
     "localize": "DB_hero_name_502550",
     "icon": "npc_common_adult_0001",
     "icon_type": ""
   },
   {
-    "id": 1820,
+    "id": 1830,
     "base_id": "hawk",
     "localize": "DB_hero_name_502560",
     "icon": "npc_base_woman_short001_0030",
     "icon_type": ""
   },
   {
-    "id": 1830,
+    "id": 1840,
     "base_id": "hawk",
     "localize": "DB_hero_name_502570",
     "icon": "npc_base_woman_tall001_0010",
     "icon_type": ""
   },
   {
-    "id": 1840,
+    "id": 1850,
     "base_id": "hawk",
     "localize": "DB_hero_name_502580",
     "icon": "npc_base_woman_tall002_0020",
     "icon_type": ""
   },
   {
-    "id": 1850,
+    "id": 1860,
     "base_id": "hawk",
     "localize": "DB_hero_name_502590",
     "icon": "npc_base_man_0006",
     "icon_type": ""
   },
   {
-    "id": 1860,
+    "id": 1870,
     "base_id": "hawk",
     "localize": "DB_hero_name_502600",
     "icon": "npc_base_man_0002",
     "icon_type": ""
   },
   {
-    "id": 1870,
+    "id": 1880,
     "base_id": "hawk",
     "localize": "DB_hero_name_502610",
     "icon": "npc_common_adult_0001",
     "icon_type": ""
   },
   {
-    "id": 1880,
+    "id": 1890,
     "base_id": "hawk",
     "localize": "DB_hero_name_502620",
     "icon": "npc_base_man_0006",
     "icon_type": ""
   },
   {
-    "id": 1890,
+    "id": 1900,
     "base_id": "hawk",
     "localize": "DB_hero_name_502630",
     "icon": "humanbasics_normal_0010",
     "icon_type": ""
   },
   {
-    "id": 1900,
+    "id": 1910,
     "base_id": "hawk",
     "localize": "DB_hero_name_502640",
     "icon": "npc_base_man_short001_0020",
     "icon_type": ""
   },
   {
-    "id": 1910,
+    "id": 1920,
     "base_id": "hawk",
     "localize": "DB_hero_name_502650",
     "icon": "humanbasics_0090",
     "icon_type": ""
   },
   {
-    "id": 1920,
+    "id": 1930,
     "base_id": "hawk",
     "localize": "DB_hero_name_502660",
     "icon": "meliodas_0016",
     "icon_type": ""
   },
   {
-    "id": 1930,
+    "id": 1940,
     "base_id": "hawk",
     "localize": "DB_hero_name_502670",
     "icon": "goddess_horn",
     "icon_type": ""
   },
   {
-    "id": 1940,
+    "id": 1950,
     "base_id": "hawk",
     "localize": "DB_hero_name_502680",
     "icon": "humanbasics_0090",
     "icon_type": ""
   },
   {
-    "id": 1950,
+    "id": 1960,
     "base_id": "hawk",
     "localize": "DB_hero_name_502690",
     "icon": "dreyfus_0011",
     "icon_type": ""
   },
   {
-    "id": 1960,
+    "id": 1970,
     "base_id": "hawk",
     "localize": "DB_hero_name_502700",
     "icon": "npc_common_child_0001",
     "icon_type": ""
   },
   {
-    "id": 1970,
+    "id": 1980,
     "base_id": "hawk",
     "localize": "DB_hero_name_502710",
     "icon": "npc_base_man_tall002_0030",
     "icon_type": ""
   },
   {
-    "id": 1980,
+    "id": 1990,
     "base_id": "hawk",
     "localize": "DB_hero_name_502720",
     "icon": "npc_base_man_0006",
     "icon_type": ""
   },
   {
-    "id": 1990,
+    "id": 2000,
     "base_id": "hawk",
     "localize": "DB_hero_name_502730",
     "icon": "npc_base_man_0002",
     "icon_type": ""
   },
   {
-    "id": 2000,
+    "id": 2010,
     "base_id": "hawk",
     "localize": "DB_hero_name_502740",
     "icon": "npc_priest_0001",
     "icon_type": "quest"
   },
   {
-    "id": 2010,
+    "id": 2020,
     "base_id": "hawk",
     "localize": "DB_hero_name_502750",
     "icon": "npc_groom_0001",
     "icon_type": "quest"
   },
   {
-    "id": 2020,
+    "id": 2030,
     "base_id": "hawk",
     "localize": "DB_hero_name_502760",
     "icon": "npc_bride_0001",
     "icon_type": "quest"
   },
   {
-    "id": 2030,
+    "id": 2040,
     "base_id": "hawk",
     "localize": "DB_hero_name_502770",
     "icon": "npc_bride_0001",
     "icon_type": "quest"
   },
   {
-    "id": 2040,
+    "id": 2050,
     "base_id": "hawk",
     "localize": "DB_hero_name_502810",
     "icon": "gustaf_0011",
     "icon_type": ""
   },
   {
-    "id": 2050,
+    "id": 2060,
     "base_id": "hawk",
     "localize": "DB_hero_name_502820",
     "icon": "npc_base_man_0006",
     "icon_type": ""
   },
   {
-    "id": 2060,
+    "id": 2070,
     "base_id": "hawk",
     "localize": "DB_hero_name_502830",
     "icon": "npc_base_man_0002",
     "icon_type": ""
   },
   {
-    "id": 2070,
+    "id": 2080,
     "base_id": "hawk",
     "localize": "DB_hero_name_502860",
     "icon": "npc_base_woman_tall001_0010",
     "icon_type": ""
   },
   {
-    "id": 2080,
+    "id": 2090,
     "base_id": "hawk",
     "localize": "DB_hero_name_502870",
     "icon": "npc_base_man_tall002_0030",
     "icon_type": ""
   },
   {
-    "id": 2090,
+    "id": 2100,
     "base_id": "hawk",
     "localize": "DB_hero_name_502880",
     "icon": "npc_base_man_0006",
     "icon_type": ""
   },
   {
-    "id": 2100,
+    "id": 2110,
     "base_id": "hawk",
     "localize": "DB_hero_name_502890",
     "icon": "demon_knight07_0001",
     "icon_type": ""
   },
   {
-    "id": 2110,
+    "id": 2120,
     "base_id": "hawk",
     "localize": "DB_hero_name_502900",
     "icon": "king_0001",
     "icon_type": ""
   },
   {
-    "id": 2120,
+    "id": 2130,
     "base_id": "hawk",
     "localize": "DB_hero_name_502910",
     "icon": "meliodas_0016",
     "icon_type": ""
   },
   {
-    "id": 2130,
+    "id": 2140,
     "base_id": "hawk",
     "localize": "DB_hero_name_502920",
     "icon": "humanbasics_0090",
     "icon_type": ""
   },
   {
-    "id": 2140,
+    "id": 2150,
     "base_id": "hawk",
     "localize": "DB_hero_name_502930",
     "icon": "zeldris_0001",
     "icon_type": ""
   },
   {
-    "id": 2150,
+    "id": 2160,
     "base_id": "hawk",
     "localize": "DB_hero_name_502940",
     "icon": "npc_base_man_0008",
     "icon_type": ""
   },
   {
-    "id": 2160,
+    "id": 2170,
     "base_id": "hawk",
     "localize": "DB_hero_name_502950",
     "icon": "npc_base_man_0001",
     "icon_type": ""
   },
   {
-    "id": 2170,
+    "id": 2180,
     "base_id": "hawk",
     "localize": "DB_hero_name_502960",
     "icon": "npc_base_dealer_tall001_0010",
     "icon_type": ""
   },
   {
-    "id": 2180,
+    "id": 2190,
     "base_id": "hawk",
     "localize": "DB_hero_name_502970",
     "icon": "npc_base_dealer_short001",
     "icon_type": ""
   },
   {
-    "id": 2190,
+    "id": 2200,
     "base_id": "hawk",
     "localize": "DB_hero_name_502980",
     "icon": "npc_base_boy_0001",
     "icon_type": ""
   },
   {
-    "id": 2200,
+    "id": 2210,
     "base_id": "hawk",
     "localize": "DB_hero_name_502990",
     "icon": "npc_base_man_0006",
     "icon_type": ""
   },
   {
-    "id": 2210,
+    "id": 2220,
     "base_id": "hawk",
     "localize": "DB_hero_name_503010",
     "icon": "npc_base_woman_0003",
     "icon_type": ""
   },
   {
-    "id": 2220,
+    "id": 2230,
     "base_id": "hawk",
     "localize": "DB_hero_name_503020",
     "icon": "npc_woman_fat_0010",
     "icon_type": ""
   },
   {
-    "id": 2230,
+    "id": 2240,
     "base_id": "hawk",
     "localize": "DB_hero_name_503030",
     "icon": "npc_liones_adult_0002",
     "icon_type": ""
   },
   {
-    "id": 2240,
+    "id": 2250,
     "base_id": "hawk",
     "localize": "DB_hero_name_503040",
     "icon": "dogedo_0001",
     "icon_type": ""
   },
   {
-    "id": 2250,
+    "id": 2260,
     "base_id": "hawk",
     "localize": "DB_hero_name_503050",
     "icon": "deathpierce_0001",
     "icon_type": ""
   },
   {
-    "id": 2260,
+    "id": 2270,
     "base_id": "hawk",
     "localize": "DB_hero_name_503060",
     "icon": "waillo_0001",
     "icon_type": ""
   },
   {
-    "id": 2270,
+    "id": 2280,
     "base_id": "hawk",
     "localize": "DB_hero_name_503070",
     "icon": "helbram_helmet_0001",
     "icon_type": ""
   },
   {
-    "id": 2280,
+    "id": 2290,
     "base_id": "hawk",
     "localize": "DB_hero_name_503080",
     "icon": "gil_thunder_kid_0001",
     "icon_type": ""
   },
   {
-    "id": 2290,
+    "id": 2300,
     "base_id": "hawk",
     "localize": "DB_hero_name_503090",
     "icon": "cain_0012",
     "icon_type": ""
   },
   {
-    "id": 2300,
+    "id": 2310,
     "base_id": "hawk",
     "localize": "DB_hero_name_503100",
     "icon": "danafor_soldier_normal_0010",
     "icon_type": ""
   },
   {
-    "id": 2310,
+    "id": 2320,
     "base_id": "hawk",
     "localize": "DB_hero_name_503110",
     "icon": "vivian_0003",
     "icon_type": ""
   },
   {
-    "id": 2320,
+    "id": 2330,
     "base_id": "hawk",
     "localize": "DB_hero_name_503120",
     "icon": "npc_elf_child_0004",
     "icon_type": ""
   },
   {
-    "id": 2330,
+    "id": 2340,
     "base_id": "hawk",
     "localize": "DB_hero_name_503130",
     "icon": "diane_kid_0001",
     "icon_type": ""
   },
   {
-    "id": 2340,
+    "id": 2350,
     "base_id": "hawk",
     "localize": "DB_hero_name_503140",
     "icon": "diane_kid_0002",
     "icon_type": ""
   },
   {
-    "id": 2350,
+    "id": 2360,
     "base_id": "hawk",
     "localize": "DB_hero_name_503150",
     "icon": "camelot_knight_muscle_0010",
     "icon_type": ""
   },
   {
-    "id": 2360,
+    "id": 2370,
     "base_id": "hawk",
     "localize": "DB_hero_name_503160",
     "icon": "camelot_knight_normal_0011",
     "icon_type": ""
   },
   {
-    "id": 2370,
+    "id": 2380,
     "base_id": "hawk",
     "localize": "DB_hero_name_503170",
     "icon": "npc_jenna_0010",
     "icon_type": ""
   },
   {
-    "id": 2380,
+    "id": 2390,
     "base_id": "hawk",
     "localize": "DB_hero_name_503180",
     "icon": "npc_zaneri_0010",
     "icon_type": ""
   },
   {
-    "id": 2390,
+    "id": 2400,
     "base_id": "hawk",
     "localize": "DB_hero_name_503190",
     "icon": "npc_wandle_0001",
     "icon_type": ""
   },
   {
-    "id": 2400,
+    "id": 2410,
     "base_id": "hawk",
     "localize": "DB_hero_name_503200",
     "icon": "npc_base_man_tall001_0010",
     "icon_type": ""
   },
   {
-    "id": 2410,
+    "id": 2420,
     "base_id": "hawk",
     "localize": "DB_hero_name_503210",
     "icon": "npc_ravens_innceo_0001",
     "icon_type": ""
   },
   {
-    "id": 2420,
+    "id": 2430,
     "base_id": "hawk",
     "localize": "DB_hero_name_503220",
     "icon": "ravens_thief_0030",
     "icon_type": ""
   },
   {
-    "id": 2430,
+    "id": 2440,
     "base_id": "hawk",
     "localize": "DB_hero_name_503230",
     "icon": "npc_zhivago_fox_0002",
     "icon_type": ""
   },
   {
-    "id": 2440,
+    "id": 2450,
     "base_id": "hawk",
     "localize": "DB_hero_name_503240",
     "icon": "npc_common_adult_0005",
     "icon_type": ""
   },
   {
-    "id": 2450,
+    "id": 2460,
     "base_id": "hawk",
     "localize": "DB_hero_name_503250",
     "icon": "human_vigilante_normal_0010",
     "icon_type": ""
   },
   {
-    "id": 2460,
+    "id": 2470,
     "base_id": "hawk",
     "localize": "DB_hero_name_503260",
     "icon": "npc_zhivago_0001",
     "icon_type": ""
   },
   {
-    "id": 2470,
+    "id": 2480,
     "base_id": "hawk",
     "localize": "DB_hero_name_503270",
     "icon": "npc_selion_0001",
     "icon_type": ""
   },
   {
-    "id": 2480,
+    "id": 2490,
     "base_id": "hawk",
     "localize": "DB_hero_name_503280",
     "icon": "npc_bna_mead_mother_0020",
     "icon_type": ""
   },
   {
-    "id": 2490,
+    "id": 2500,
     "base_id": "hawk",
     "localize": "DB_hero_name_503290",
     "icon": "npc_base_man_0006",
     "icon_type": ""
   },
   {
-    "id": 2500,
+    "id": 2510,
     "base_id": "hawk",
     "localize": "DB_hero_name_503300",
     "icon": "zombie_0010",
@@ -2067,246 +2074,267 @@
   {
     "id": 2970,
     "base_id": "hawk",
+    "localize": "DB_hero_name_503760",
+    "icon": "helbram_helmet_0001",
+    "icon_type": ""
+  },
+  {
+    "id": 2980,
+    "base_id": "hawk",
+    "localize": "DB_hero_name_503770",
+    "icon": "helbram_helmet_0001",
+    "icon_type": ""
+  },
+  {
+    "id": 3000,
+    "base_id": "hawk",
     "localize": "DB_hero_name_509013",
     "icon": "camelot_knight_muscle_0011",
     "icon_type": ""
   },
   {
-    "id": 2980,
+    "id": 3010,
     "base_id": "hawk",
     "localize": "DB_hero_name_509014",
     "icon": "pelliot_0001",
     "icon_type": ""
   },
   {
-    "id": 2990,
+    "id": 3020,
     "base_id": "hawk",
     "localize": "DB_hero_name_509015",
     "icon": "npc_pelliot_dad_0001",
     "icon_type": ""
   },
   {
-    "id": 3000,
+    "id": 3030,
     "base_id": "hawk",
     "localize": "DB_hero_name_509016",
     "icon": "galand_0001",
     "icon_type": ""
   },
   {
-    "id": 3010,
+    "id": 3040,
     "base_id": "hawk",
     "localize": "DB_hero_name_509017",
     "icon": "melascula_0001",
     "icon_type": ""
   },
   {
-    "id": 3020,
+    "id": 3050,
     "base_id": "hawk",
     "localize": "DB_hero_name_509018",
     "icon": "gloxinia_0001",
     "icon_type": ""
   },
   {
-    "id": 3030,
+    "id": 3060,
     "base_id": "hawk",
     "localize": "DB_hero_name_509019",
     "icon": "monspeet_0001",
     "icon_type": ""
   },
   {
-    "id": 3040,
+    "id": 3070,
     "base_id": "hawk",
     "localize": "DB_hero_name_509020",
     "icon": "derieri_0001",
     "icon_type": ""
   },
   {
-    "id": 3050,
+    "id": 3080,
     "base_id": "hawk",
     "localize": "DB_hero_name_509021",
     "icon": "grayroad_0001",
     "icon_type": ""
   },
   {
-    "id": 3060,
+    "id": 3090,
     "base_id": "hawk",
     "localize": "DB_hero_name_509022",
     "icon": "drole_0001",
     "icon_type": ""
   },
   {
-    "id": 3070,
+    "id": 3100,
     "base_id": "hawk",
     "localize": "DB_hero_name_509023",
     "icon": "estarossa_0001",
     "icon_type": ""
   },
   {
-    "id": 3080,
+    "id": 3110,
     "base_id": "hawk",
     "localize": "DB_hero_name_509024",
     "icon": "meliodas_0016",
     "icon_type": ""
   },
   {
-    "id": 3090,
+    "id": 3120,
     "base_id": "hawk",
     "localize": "DB_hero_name_509025",
     "icon": "npc_waitress_0001",
     "icon_type": ""
   },
   {
-    "id": 3100,
+    "id": 3130,
     "base_id": "hawk",
     "localize": "DB_hero_name_509026",
     "icon": "vivian_0000",
     "icon_type": ""
   },
   {
-    "id": 3110,
+    "id": 3140,
     "base_id": "hawk",
     "localize": "DB_hero_name_509027",
     "icon": "npc_gerheade_0001",
     "icon_type": ""
   },
   {
-    "id": 3120,
+    "id": 3150,
     "base_id": "hawk",
     "localize": "DB_hero_name_509028",
     "icon": "npc_elf_child_0002",
     "icon_type": ""
   },
   {
-    "id": 3130,
+    "id": 3160,
     "base_id": "hawk",
     "localize": "DB_hero_name_509029",
     "icon": "npc_elf_child_0001",
     "icon_type": ""
   },
   {
-    "id": 3140,
+    "id": 3170,
     "base_id": "hawk",
     "localize": "DB_hero_name_509030",
     "icon": "npc_elf_child_0004",
     "icon_type": ""
   },
   {
-    "id": 3150,
+    "id": 3180,
     "base_id": "hawk",
     "localize": "DB_hero_name_509031",
     "icon": "npc_puola_0001",
     "icon_type": ""
   },
   {
-    "id": 3160,
+    "id": 3190,
     "base_id": "hawk",
     "localize": "DB_hero_name_509032",
     "icon": "npc_elf_child_0003",
     "icon_type": ""
   },
   {
-    "id": 3170,
+    "id": 3200,
     "base_id": "hawk",
     "localize": "DB_hero_name_509033",
     "icon": "fraudrin_0001",
     "icon_type": ""
   },
   {
-    "id": 3180,
+    "id": 3210,
     "base_id": "hawk",
     "localize": "DB_hero_name_509034",
     "icon": "gil_thunder_0001",
     "icon_type": ""
   },
   {
-    "id": 3190,
+    "id": 3220,
     "base_id": "hawk",
     "localize": "DB_hero_name_509035",
     "icon": "north_baba_boss_0010",
     "icon_type": ""
   },
   {
-    "id": 3200,
+    "id": 3230,
     "base_id": "hawk",
     "localize": "DB_hero_name_509036",
     "icon": "dumbelbas_0010",
     "icon_type": ""
   },
   {
-    "id": 3210,
+    "id": 3240,
     "base_id": "hawk",
     "localize": "DB_hero_name_509037",
     "icon": "matrona_0002",
     "icon_type": ""
   },
   {
-    "id": 3220,
+    "id": 3250,
     "base_id": "hawk",
     "localize": "DB_hero_name_509038",
     "icon": "npc_dolores_0001",
     "icon_type": ""
   },
   {
-    "id": 3230,
+    "id": 3260,
     "base_id": "hawk",
     "localize": "DB_hero_name_509039",
     "icon": "humanbasics_0020",
     "icon_type": ""
   },
   {
-    "id": 3240,
+    "id": 3270,
     "base_id": "hawk",
     "localize": "DB_hero_name_509040",
     "icon": "gannon_0001",
     "icon_type": ""
   },
   {
-    "id": 3250,
+    "id": 3280,
     "base_id": "hawk",
     "localize": "DB_hero_name_509041",
     "icon": "dreyfus_0003",
     "icon_type": ""
   },
   {
-    "id": 3260,
+    "id": 3290,
     "base_id": "hawk",
     "localize": "DB_hero_name_509042",
     "icon": "npc_base_man_0006_0020",
     "icon_type": ""
   },
   {
-    "id": 3270,
+    "id": 3300,
     "base_id": "hawk",
     "localize": "DB_hero_name_509043",
     "icon": "npc_base_man_short001_0050",
     "icon_type": ""
   },
   {
-    "id": 3280,
+    "id": 3310,
     "base_id": "hawk",
     "localize": "DB_hero_name_509044",
     "icon": "gowther_0006",
     "icon_type": ""
   },
   {
-    "id": 3290,
+    "id": 3320,
     "base_id": "hawk",
     "localize": "DB_hero_name_509045",
     "icon": "helbram_helmet_0001",
     "icon_type": ""
   },
   {
-    "id": 3300,
+    "id": 3330,
     "base_id": "hawk",
     "localize": "DB_hero_name_509069",
-    "icon": "npc_base_woman_short001",
+    "icon": "npc_base_woman_short001_0040",
     "icon_type": ""
   },
   {
-    "id": 3310,
+    "id": 3340,
     "base_id": "hawk",
     "localize": "DB_hero_name_509070",
-    "icon": "npc_griamore_kid",
+    "icon": "npc_griamore_kid_0002",
+    "icon_type": ""
+  },
+  {
+    "id": 3350,
+    "base_id": "hawk",
+    "localize": "DB_hero_name_509072",
+    "icon": "npc_griamore_kid_0002",
     "icon_type": ""
   }
 ]

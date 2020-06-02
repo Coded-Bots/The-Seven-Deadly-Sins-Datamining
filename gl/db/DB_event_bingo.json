@@ -5,14 +5,19 @@
     "bingo_type": 1
   },
   {
-    "id": 2,
-    "bingo_rating": 3,
-    "bingo_type": 1
+    "id": 0,
+    "bingo_rating": 2,
+    "bingo_type": 3
+  },
+  {
+    "id": 1,
+    "bingo_rating": 0,
+    "bingo_type": 3
   },
   {
     "id": 3,
-    "bingo_rating": 3,
-    "bingo_type": 1
+    "bingo_rating": 1,
+    "bingo_type": 0
   },
   {
     "id": 4,
@@ -20,14 +25,19 @@
     "bingo_type": 1
   },
   {
-    "id": 5,
-    "bingo_rating": 3,
-    "bingo_type": 1
+    "id": 0,
+    "bingo_rating": 5,
+    "bingo_type": 3
   },
   {
-    "id": 6,
-    "bingo_rating": 3,
-    "bingo_type": 1
+    "id": 1,
+    "bingo_rating": 0,
+    "bingo_type": 6
+  },
+  {
+    "id": 3,
+    "bingo_rating": 1,
+    "bingo_type": 0
   },
   {
     "id": 7,
@@ -35,13 +45,18 @@
     "bingo_type": 0
   },
   {
-    "id": 8,
-    "bingo_rating": 4,
-    "bingo_type": 0
+    "id": 0,
+    "bingo_rating": 8,
+    "bingo_type": 4
   },
   {
-    "id": 9,
-    "bingo_rating": 4,
+    "id": 0,
+    "bingo_rating": 0,
+    "bingo_type": 9
+  },
+  {
+    "id": 4,
+    "bingo_rating": 0,
     "bingo_type": 0
   },
   {
@@ -50,33 +65,18 @@
     "bingo_type": 1
   },
   {
-    "id": 11,
-    "bingo_rating": 4,
-    "bingo_type": 1
+    "id": 0,
+    "bingo_rating": 11,
+    "bingo_type": 4
   },
   {
-    "id": 12,
-    "bingo_rating": 4,
-    "bingo_type": 1
+    "id": 1,
+    "bingo_rating": 0,
+    "bingo_type": 12
   },
   {
-    "id": 13,
-    "bingo_rating": 4,
-    "bingo_type": 1
-  },
-  {
-    "id": 14,
-    "bingo_rating": 5,
-    "bingo_type": 0
-  },
-  {
-    "id": 15,
-    "bingo_rating": 5,
-    "bingo_type": 0
-  },
-  {
-    "id": 16,
-    "bingo_rating": 5,
+    "id": 4,
+    "bingo_rating": 1,
     "bingo_type": 0
   }
 ]

@@ -712,5 +712,83 @@
     "map_filename": "map_valentine_event_01",
     "before_loading_id": 210032,
     "after_loading_id": 210032
+  },
+  {
+    "id": 120,
+    "map_filename": "map_BTF_bar_stage_03",
+    "before_loading_id": 500169,
+    "after_loading_id": 500169
+  },
+  {
+    "id": 121,
+    "map_filename": "map_BTF_bar_stage_04",
+    "before_loading_id": 500172,
+    "after_loading_id": 500172
+  },
+  {
+    "id": 122,
+    "map_filename": "map_AW_disaster_01",
+    "before_loading_id": 600024,
+    "after_loading_id": 600024
+  },
+  {
+    "id": 123,
+    "map_filename": "map_disaster_stage_01",
+    "before_loading_id": 600025,
+    "after_loading_id": 600025
+  },
+  {
+    "id": 124,
+    "map_filename": "map_disaster_stage_02",
+    "before_loading_id": 600026,
+    "after_loading_id": 600026
+  },
+  {
+    "id": 125,
+    "map_filename": "map_disaster_stage_03",
+    "before_loading_id": 600027,
+    "after_loading_id": 600027
+  },
+  {
+    "id": 126,
+    "map_filename": "map_LONSMagicU",
+    "before_loading_id": 500112,
+    "after_loading_id": 500112
+  },
+  {
+    "id": 127,
+    "map_filename": "map_dark_cocoon_01",
+    "before_loading_id": 600011,
+    "after_loading_id": 600011
+  },
+  {
+    "id": 128,
+    "map_filename": "map_CGrave_stage_01",
+    "before_loading_id": 500167,
+    "after_loading_id": 500167
+  },
+  {
+    "id": 129,
+    "map_filename": "map_LON_collapse_stage_01",
+    "before_loading_id": 500251,
+    "after_loading_id": 500251
+  },
+  {
+    "id": 130,
+    "map_filename": "town_LON_collapse_13chapter_01",
+    "before_loading_id": 500252,
+    "after_loading_id": 500252
+  },
+  {
+    "id": 131,
+    "map_filename": "map_LON_collapse_stage_02",
+    "before_loading_id": 500251,
+    "after_loading_id": 500251
+  },
+  {
+    "id": 132,
+    "map_filename": "map_LON_collapse_big_stage_01",
+    "before_loading_id": 500251,
+    "after_loading_id": 500251
   }
 ]

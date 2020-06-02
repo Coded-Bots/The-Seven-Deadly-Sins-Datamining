@@ -318,6 +318,12 @@
     "weapon_model_type": 0
   },
   {
+    "id": 850215,
+    "character_base": "elizabeth_hawk",
+    "resource_weapon": "weapon_elizabeth_hawk_0044",
+    "weapon_model_type": 0
+  },
+  {
     "id": 850208,
     "character_base": "elizabeth_hawk",
     "resource_weapon": "weapon_elizabeth_hawk_0011",
@@ -399,6 +405,12 @@
     "id": 950214,
     "character_base": "elizabeth_hawk",
     "resource_weapon": "weapon_elizabeth_hawk_0019",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 950215,
+    "character_base": "elizabeth_hawk",
+    "resource_weapon": "weapon_elizabeth_hawk_0044",
     "weapon_model_type": 0
   },
   {
@@ -573,6 +585,12 @@
     "id": 850309,
     "character_base": "diane",
     "resource_weapon": "weapon_diane_109",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 850312,
+    "character_base": "diane",
+    "resource_weapon": "weapon_diane_0027",
     "weapon_model_type": 0
   },
   {
@@ -766,6 +784,12 @@
     "character_base": "ban",
     "resource_weapon": "weapon_ban_0034",
     "weapon_model_type": 1
+  },
+  {
+    "id": 851601,
+    "character_base": "helbram",
+    "resource_weapon": "weapon_helbram_101",
+    "weapon_model_type": 0
   },
   {
     "id": 850401,
@@ -2748,6 +2772,36 @@
     "weapon_model_type": 0
   },
   {
+    "id": 857601,
+    "character_base": "meliodas_lostvayne",
+    "resource_weapon": "weapon_meliodas_lostvayne_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857603,
+    "character_base": "meliodas_lostvayne",
+    "resource_weapon": "weapon_meliodas_lostvayne_0003",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857604,
+    "character_base": "meliodas_lostvayne",
+    "resource_weapon": "weapon_meliodas_lostvayne_0004",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857606,
+    "character_base": "meliodas_lostvayne",
+    "resource_weapon": "weapon_meliodas_lostvayne_0006",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857605,
+    "character_base": "meliodas_lostvayne",
+    "resource_weapon": "weapon_meliodas_lostvayne_0005",
+    "weapon_model_type": 0
+  },
+  {
     "id": 854601,
     "character_base": "slime_rimuruhuman",
     "resource_weapon": "weapon_slime_rimuruhuman_001",
@@ -2898,6 +2952,54 @@
     "weapon_model_type": 0
   },
   {
+    "id": 856701,
+    "character_base": "disaster_roxy",
+    "resource_weapon": "weapon_disaster_roxy_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856702,
+    "character_base": "disaster_roxy",
+    "resource_weapon": "weapon_disaster_roxy_0003",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856703,
+    "character_base": "disaster_roxy",
+    "resource_weapon": "weapon_disaster_roxy_0004",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856704,
+    "character_base": "disaster_roxy",
+    "resource_weapon": "weapon_disaster_roxy_0005",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857701,
+    "character_base": "disaster_shin",
+    "resource_weapon": "weapon_disaster_shin_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857702,
+    "character_base": "disaster_shin",
+    "resource_weapon": "weapon_disaster_shin_0004",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857703,
+    "character_base": "disaster_shin",
+    "resource_weapon": "weapon_disaster_shin_0003",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857704,
+    "character_base": "disaster_shin",
+    "resource_weapon": "weapon_disaster_shin_0005",
+    "weapon_model_type": 0
+  },
+  {
     "id": 855001,
     "character_base": "escanor",
     "resource_weapon": "weapon_escanor_0509",
@@ -3030,6 +3132,12 @@
     "weapon_model_type": 0
   },
   {
+    "id": 855111,
+    "character_base": "galand",
+    "resource_weapon": "weapon_galand_0010",
+    "weapon_model_type": 0
+  },
+  {
     "id": 855110,
     "character_base": "galand",
     "resource_weapon": "weapon_galand_0508",
@@ -3063,6 +3171,12 @@
     "id": 855809,
     "character_base": "melascula",
     "resource_weapon": "weapon_melascula_0007",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 855810,
+    "character_base": "melascula",
+    "resource_weapon": "weapon_melascula_0010",
     "weapon_model_type": 0
   },
   {
@@ -3102,6 +3216,18 @@
     "weapon_model_type": 1
   },
   {
+    "id": 855911,
+    "character_base": "monspeet",
+    "resource_weapon": "weapon_monspeet_0009",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 855910,
+    "character_base": "monspeet",
+    "resource_weapon": "weapon_monspeet_0505",
+    "weapon_model_type": 1
+  },
+  {
     "id": 856001,
     "character_base": "gloxinia",
     "resource_weapon": "weapon_gloxinia_0001",
@@ -3132,6 +3258,54 @@
     "weapon_model_type": 0
   },
   {
+    "id": 856010,
+    "character_base": "gloxinia",
+    "resource_weapon": "weapon_gloxinia_0009",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856005,
+    "character_base": "gloxinia",
+    "resource_weapon": "weapon_gloxinia_0505",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856601,
+    "character_base": "dreyfus_demon",
+    "resource_weapon": "weapon_dreyfus_demon_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856602,
+    "character_base": "dreyfus_demon",
+    "resource_weapon": "weapon_dreyfus_demon_0024",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856603,
+    "character_base": "dreyfus_demon",
+    "resource_weapon": "weapon_dreyfus_demon_0016",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856604,
+    "character_base": "dreyfus_demon",
+    "resource_weapon": "weapon_dreyfus_demon_0015",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856606,
+    "character_base": "dreyfus_demon",
+    "resource_weapon": "weapon_dreyfus_demon_0027",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 856605,
+    "character_base": "dreyfus_demon",
+    "resource_weapon": "weapon_dreyfus_demon_0507",
+    "weapon_model_type": 0
+  },
+  {
     "id": 856301,
     "character_base": "derieri",
     "resource_weapon": "weapon_derieri_0001",
@@ -3153,6 +3327,12 @@
     "id": 856304,
     "character_base": "derieri",
     "resource_weapon": "weapon_derieri_0006",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 856306,
+    "character_base": "derieri",
+    "resource_weapon": "weapon_derieri_0010",
     "weapon_model_type": 1
   },
   {
@@ -3186,9 +3366,93 @@
     "weapon_model_type": 0
   },
   {
+    "id": 856105,
+    "character_base": "estarossa",
+    "resource_weapon": "weapon_estarossa_0010",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 859101,
+    "character_base": "drole",
+    "resource_weapon": "weapon_drole_0001",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 859102,
+    "character_base": "drole",
+    "resource_weapon": "weapon_drole_0005",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 859103,
+    "character_base": "drole",
+    "resource_weapon": "weapon_drole_0003",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 859104,
+    "character_base": "drole",
+    "resource_weapon": "weapon_drole_0004",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 859105,
+    "character_base": "drole",
+    "resource_weapon": "weapon_drole_0501",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 859106,
+    "character_base": "drole",
+    "resource_weapon": "weapon_drole_0502",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 859107,
+    "character_base": "drole",
+    "resource_weapon": "weapon_drole_0503",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 859108,
+    "character_base": "drole",
+    "resource_weapon": "weapon_drole_0504",
+    "weapon_model_type": 1
+  },
+  {
     "id": 858101,
     "character_base": "zeldris",
     "resource_weapon": "weapon_zeldris_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 858102,
+    "character_base": "zeldris",
+    "resource_weapon": "weapon_zeldris_0003",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 858103,
+    "character_base": "zeldris",
+    "resource_weapon": "weapon_zeldris_0004",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 858104,
+    "character_base": "zeldris",
+    "resource_weapon": "weapon_zeldris_0005",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 858109,
+    "character_base": "zeldris",
+    "resource_weapon": "weapon_zeldris_0006",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 858105,
+    "character_base": "zeldris",
+    "resource_weapon": "weapon_zeldris_0501",
     "weapon_model_type": 0
   },
   {
@@ -3292,6 +3556,36 @@
     "character_base": "arden",
     "resource_weapon": "weapon_arden_0001",
     "weapon_model_type": 0
+  },
+  {
+    "id": 857801,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0001",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 857802,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0002",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 857803,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0004",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 857804,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0005",
+    "weapon_model_type": 1
+  },
+  {
+    "id": 857805,
+    "character_base": "matrona",
+    "resource_weapon": "weapon_matrona_0501",
+    "weapon_model_type": 1
   },
   {
     "id": 856801,
@@ -3404,7 +3698,7 @@
   {
     "id": 857201,
     "character_base": "zaratras",
-    "resource_weapon": "weapon_zaratras_0001",
+    "resource_weapon": "weapon_zaratras_101",
     "weapon_model_type": 0
   },
   {
@@ -3416,13 +3710,109 @@
   {
     "id": 857203,
     "character_base": "zaratras",
-    "resource_weapon": "weapon_zaratras_02",
+    "resource_weapon": "weapon_zaratras_0002",
     "weapon_model_type": 0
   },
   {
     "id": 857204,
     "character_base": "zaratras",
     "resource_weapon": "weapon_zaratras_0005",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857301,
+    "character_base": "titan_eren",
+    "resource_weapon": "weapon_titan_eren_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857302,
+    "character_base": "titan_eren",
+    "resource_weapon": "weapon_titan_eren_0501",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857303,
+    "character_base": "titan_eren",
+    "resource_weapon": "weapon_titan_eren_0502",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857304,
+    "character_base": "titan_eren",
+    "resource_weapon": "weapon_titan_eren_0503",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 957301,
+    "character_base": "titan_eren",
+    "resource_weapon": "weapon_titan_eren_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 957302,
+    "character_base": "titan_eren",
+    "resource_weapon": "weapon_titan_eren_0501",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 957303,
+    "character_base": "titan_eren",
+    "resource_weapon": "weapon_titan_eren_0502",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 957304,
+    "character_base": "titan_eren",
+    "resource_weapon": "weapon_titan_eren_0503",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857401,
+    "character_base": "titan_levi",
+    "resource_weapon": "weapon_titan_levi_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857402,
+    "character_base": "titan_levi",
+    "resource_weapon": "weapon_titan_levi_0501",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857403,
+    "character_base": "titan_levi",
+    "resource_weapon": "weapon_titan_levi_0502",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857404,
+    "character_base": "titan_levi",
+    "resource_weapon": "weapon_titan_levi_0503",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857501,
+    "character_base": "titan_mikasa",
+    "resource_weapon": "weapon_titan_mikasa_0001",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857502,
+    "character_base": "titan_mikasa",
+    "resource_weapon": "weapon_titan_mikasa_0501",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857503,
+    "character_base": "titan_mikasa",
+    "resource_weapon": "weapon_titan_mikasa_0502",
+    "weapon_model_type": 0
+  },
+  {
+    "id": 857504,
+    "character_base": "titan_mikasa",
+    "resource_weapon": "weapon_titan_mikasa_0503",
     "weapon_model_type": 0
   },
   {

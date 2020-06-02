@@ -574,5 +574,23 @@
     "bgm_open_value": 90401,
     "bgm_close_type": "quest_end",
     "bgm_close_value": 90420
+  },
+  {
+    "id": 70,
+    "sound_id": 90628,
+    "contents_id": 1200301,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 22063,
+    "bgm_close_type": "",
+    "bgm_close_value": 0
+  },
+  {
+    "id": 71,
+    "sound_id": 90628,
+    "contents_id": 1200501,
+    "bgm_open_type": "quest_start",
+    "bgm_open_value": 22063,
+    "bgm_close_type": "",
+    "bgm_close_value": 0
   }
 ]

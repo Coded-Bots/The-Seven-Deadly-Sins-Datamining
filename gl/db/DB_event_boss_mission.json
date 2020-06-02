@@ -9,7 +9,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_074"
+    "mission_name": "24174"
   },
   {
     "id": 110112,
@@ -21,7 +21,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_034"
+    "mission_name": "24137"
   },
   {
     "id": 110211,
@@ -33,7 +33,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_075"
+    "mission_name": "24175"
   },
   {
     "id": 110212,
@@ -45,7 +45,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_036"
+    "mission_name": "24139"
   },
   {
     "id": 110311,
@@ -57,7 +57,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_076"
+    "mission_name": "24176"
   },
   {
     "id": 110312,
@@ -69,7 +69,31 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_033"
+    "mission_name": "24136"
+  },
+  {
+    "id": 111111,
+    "group_id": 1,
+    "stage_id": 1111,
+    "mission_type": "Stage_Battle_Hero_Kind",
+    "mission_type_value": 3,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 5,
+    "localize_display_type": 0,
+    "mission_name": "24138"
+  },
+  {
+    "id": 111112,
+    "group_id": 1,
+    "stage_id": 1111,
+    "mission_type": "Stage_Battle_Type_Attack",
+    "mission_type_value": 5,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 10,
+    "localize_display_type": 2,
+    "mission_name": "24114"
   },
   {
     "id": 110121,
@@ -81,7 +105,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_074"
+    "mission_name": "24174"
   },
   {
     "id": 110122,
@@ -93,7 +117,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_016"
+    "mission_name": "24119"
   },
   {
     "id": 110221,
@@ -105,7 +129,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_075"
+    "mission_name": "24175"
   },
   {
     "id": 110222,
@@ -117,7 +141,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_017"
+    "mission_name": "24120"
   },
   {
     "id": 110321,
@@ -129,7 +153,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_076"
+    "mission_name": "24176"
   },
   {
     "id": 110322,
@@ -141,7 +165,31 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_019"
+    "mission_name": "24122"
+  },
+  {
+    "id": 111121,
+    "group_id": 1,
+    "stage_id": 1112,
+    "mission_type": "Stage_Battle_Mvp_Hero_Kind",
+    "mission_type_value": 3,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 10,
+    "localize_display_type": 0,
+    "mission_name": "24121"
+  },
+  {
+    "id": 111122,
+    "group_id": 1,
+    "stage_id": 1112,
+    "mission_type": "Stage_Battle_Over_HP",
+    "mission_type_value": 60,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 15,
+    "localize_display_type": 2,
+    "mission_name": "24151"
   },
   {
     "id": 110131,
@@ -153,7 +201,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_074"
+    "mission_name": "24174"
   },
   {
     "id": 110132,
@@ -165,7 +213,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_050"
+    "mission_name": "24151"
   },
   {
     "id": 110231,
@@ -177,7 +225,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_075"
+    "mission_name": "24175"
   },
   {
     "id": 110232,
@@ -189,7 +237,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_031"
+    "mission_name": "24134"
   },
   {
     "id": 110331,
@@ -201,7 +249,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_076"
+    "mission_name": "24176"
   },
   {
     "id": 110332,
@@ -213,7 +261,31 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_039"
+    "mission_name": "24142"
+  },
+  {
+    "id": 111131,
+    "group_id": 1,
+    "stage_id": 1113,
+    "mission_type": "Stage_Battle_CardNotUse_Heal",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 25,
+    "localize_display_type": 0,
+    "mission_name": "24128"
+  },
+  {
+    "id": 111132,
+    "group_id": 1,
+    "stage_id": 1113,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 6,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 30,
+    "localize_display_type": 2,
+    "mission_name": "24115"
   },
   {
     "id": 210111,
@@ -225,7 +297,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_075"
+    "mission_name": "24175"
   },
   {
     "id": 210112,
@@ -237,7 +309,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_003"
+    "mission_name": "24106"
   },
   {
     "id": 210211,
@@ -249,7 +321,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_076"
+    "mission_name": "24176"
   },
   {
     "id": 210212,
@@ -261,7 +333,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_001"
+    "mission_name": "24104"
   },
   {
     "id": 210311,
@@ -273,7 +345,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_074"
+    "mission_name": "24174"
   },
   {
     "id": 210312,
@@ -285,7 +357,31 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_002"
+    "mission_name": "24105"
+  },
+  {
+    "id": 211111,
+    "group_id": 2,
+    "stage_id": 1111,
+    "mission_type": "Stage_Battle_Hero_Kind",
+    "mission_type_value": 1,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 5,
+    "localize_display_type": 0,
+    "mission_name": "24136"
+  },
+  {
+    "id": 211112,
+    "group_id": 2,
+    "stage_id": 1111,
+    "mission_type": "Stage_Battle_CardUse_Lv2",
+    "mission_type_value": 5,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 10,
+    "localize_display_type": 2,
+    "mission_name": "24104"
   },
   {
     "id": 210121,
@@ -297,7 +393,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_075"
+    "mission_name": "24175"
   },
   {
     "id": 210122,
@@ -309,7 +405,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_044"
+    "mission_name": "24145"
   },
   {
     "id": 210221,
@@ -321,7 +417,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_076"
+    "mission_name": "24176"
   },
   {
     "id": 210222,
@@ -333,7 +429,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_050"
+    "mission_name": "24151"
   },
   {
     "id": 210321,
@@ -345,7 +441,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_074"
+    "mission_name": "24174"
   },
   {
     "id": 210322,
@@ -357,7 +453,31 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_032"
+    "mission_name": "24135"
+  },
+  {
+    "id": 211121,
+    "group_id": 2,
+    "stage_id": 1112,
+    "mission_type": "Stage_Battle_Mvp_Hero_Kind",
+    "mission_type_value": 1,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 10,
+    "localize_display_type": 0,
+    "mission_name": "24119"
+  },
+  {
+    "id": 211122,
+    "group_id": 2,
+    "stage_id": 1112,
+    "mission_type": "Stage_Battle_NotUse_Food",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 15,
+    "localize_display_type": 0,
+    "mission_name": "24145"
   },
   {
     "id": 210131,
@@ -369,7 +489,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_075"
+    "mission_name": "24175"
   },
   {
     "id": 210132,
@@ -381,7 +501,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_039"
+    "mission_name": "24142"
   },
   {
     "id": 210231,
@@ -393,7 +513,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_076"
+    "mission_name": "24176"
   },
   {
     "id": 210232,
@@ -405,7 +525,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_080"
+    "mission_name": "24180"
   },
   {
     "id": 210331,
@@ -417,7 +537,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_074"
+    "mission_name": "24174"
   },
   {
     "id": 210332,
@@ -429,7 +549,31 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_050"
+    "mission_name": "24151"
+  },
+  {
+    "id": 211131,
+    "group_id": 2,
+    "stage_id": 1113,
+    "mission_type": "Stage_Battle_Under_Special_Count",
+    "mission_type_value": 4,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 25,
+    "localize_display_type": 2,
+    "mission_name": "40607"
+  },
+  {
+    "id": 211132,
+    "group_id": 2,
+    "stage_id": 1113,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 30,
+    "localize_display_type": 0,
+    "mission_name": "24180"
   },
   {
     "id": 310111,
@@ -441,7 +585,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_076"
+    "mission_name": "24176"
   },
   {
     "id": 310112,
@@ -453,7 +597,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_015"
+    "mission_name": "24118"
   },
   {
     "id": 310211,
@@ -465,7 +609,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_074"
+    "mission_name": "24174"
   },
   {
     "id": 310212,
@@ -477,7 +621,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_004"
+    "mission_name": "24107"
   },
   {
     "id": 310311,
@@ -489,7 +633,7 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_075"
+    "mission_name": "24175"
   },
   {
     "id": 310312,
@@ -501,7 +645,31 @@
     "event_point_id": 910654,
     "event_point_count": 5,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_003"
+    "mission_name": "24106"
+  },
+  {
+    "id": 311111,
+    "group_id": 3,
+    "stage_id": 1111,
+    "mission_type": "Stage_Battle_Hero_Kind",
+    "mission_type_value": 4,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 5,
+    "localize_display_type": 0,
+    "mission_name": "24139"
+  },
+  {
+    "id": 311112,
+    "group_id": 3,
+    "stage_id": 1111,
+    "mission_type": "Stage_Battle_CardUse_Special",
+    "mission_type_value": 3,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 10,
+    "localize_display_type": 2,
+    "mission_name": "24106"
   },
   {
     "id": 310121,
@@ -513,7 +681,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_076"
+    "mission_name": "24176"
   },
   {
     "id": 310122,
@@ -525,7 +693,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_022"
+    "mission_name": "24125"
   },
   {
     "id": 310221,
@@ -537,7 +705,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_074"
+    "mission_name": "24174"
   },
   {
     "id": 310222,
@@ -549,7 +717,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_021"
+    "mission_name": "24124"
   },
   {
     "id": 310321,
@@ -561,7 +729,7 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_075"
+    "mission_name": "24175"
   },
   {
     "id": 310322,
@@ -573,7 +741,31 @@
     "event_point_id": 910654,
     "event_point_count": 10,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_023"
+    "mission_name": "24126"
+  },
+  {
+    "id": 311121,
+    "group_id": 3,
+    "stage_id": 1112,
+    "mission_type": "Stage_Battle_Mvp_Hero_Kind",
+    "mission_type_value": 4,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 10,
+    "localize_display_type": 0,
+    "mission_name": "24122"
+  },
+  {
+    "id": 311122,
+    "group_id": 3,
+    "stage_id": 1112,
+    "mission_type": "Stage_Battle_HandicapSkill_Count",
+    "mission_type_value": 5,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 15,
+    "localize_display_type": 2,
+    "mission_name": "24135"
   },
   {
     "id": 310131,
@@ -585,7 +777,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_076"
+    "mission_name": "24176"
   },
   {
     "id": 310132,
@@ -597,7 +789,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_027"
+    "mission_name": "24130"
   },
   {
     "id": 310231,
@@ -609,7 +801,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_074"
+    "mission_name": "24174"
   },
   {
     "id": 310232,
@@ -621,7 +813,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_025"
+    "mission_name": "24128"
   },
   {
     "id": 310331,
@@ -633,7 +825,7 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 0,
-    "mission_name": "DB_guild_boss_mission_075"
+    "mission_name": "24175"
   },
   {
     "id": 310332,
@@ -645,6 +837,30 @@
     "event_point_id": 910654,
     "event_point_count": 30,
     "localize_display_type": 2,
-    "mission_name": "DB_guild_boss_mission_031"
+    "mission_name": "24134"
+  },
+  {
+    "id": 311131,
+    "group_id": 3,
+    "stage_id": 1113,
+    "mission_type": "Stage_Battle_Under_Special_Count",
+    "mission_type_value": 4,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 25,
+    "localize_display_type": 2,
+    "mission_name": "40607"
+  },
+  {
+    "id": 311132,
+    "group_id": 3,
+    "stage_id": 1113,
+    "mission_type": "Stage_Battle_Over_HP",
+    "mission_type_value": 50,
+    "mission_target_value": 1,
+    "event_point_id": 910741,
+    "event_point_count": 30,
+    "localize_display_type": 2,
+    "mission_name": "24151"
   }
 ]

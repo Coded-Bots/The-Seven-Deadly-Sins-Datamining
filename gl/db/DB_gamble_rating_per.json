@@ -199,6 +199,15 @@
   },
   {
     "id": 1016,
+    "gamble_group": 5017,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 1017,
     "gamble_group": 5016,
     "rating_1": 0,
     "rating_2": 0,

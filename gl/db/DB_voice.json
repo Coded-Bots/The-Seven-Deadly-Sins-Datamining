@@ -4,351 +4,351 @@
     "hero_id": 100100,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_01",
-    "sound_description": "DB_hero_voice_desc_01"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 2,
     "hero_id": 100100,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_02",
-    "sound_description": "DB_hero_voice_desc_02"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 3,
     "hero_id": 100100,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_03",
-    "sound_description": "DB_hero_voice_desc_03"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 4,
     "hero_id": 100100,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_04",
-    "sound_description": "DB_hero_voice_desc_04"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 5,
     "hero_id": 100200,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_05",
-    "sound_description": "DB_hero_voice_desc_05"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 6,
     "hero_id": 100200,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_06",
-    "sound_description": "DB_hero_voice_desc_06"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 7,
     "hero_id": 100200,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_07",
-    "sound_description": "DB_hero_voice_desc_07"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 8,
     "hero_id": 100200,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_08",
-    "sound_description": "DB_hero_voice_desc_08"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 9,
     "hero_id": 100300,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_09",
-    "sound_description": "DB_hero_voice_desc_09"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 10,
     "hero_id": 100300,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_10",
-    "sound_description": "DB_hero_voice_desc_10"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 11,
     "hero_id": 100300,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_11",
-    "sound_description": "DB_hero_voice_desc_11"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 12,
     "hero_id": 100300,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_12",
-    "sound_description": "DB_hero_voice_desc_12"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 13,
     "hero_id": 100400,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_13",
-    "sound_description": "DB_hero_voice_desc_13"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 14,
     "hero_id": 100400,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_14",
-    "sound_description": "DB_hero_voice_desc_14"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 15,
     "hero_id": 100400,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_15",
-    "sound_description": "DB_hero_voice_desc_15"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 16,
     "hero_id": 100400,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_16",
-    "sound_description": "DB_hero_voice_desc_16"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 17,
     "hero_id": 100500,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_17",
-    "sound_description": "DB_hero_voice_desc_17"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 18,
     "hero_id": 100500,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_18",
-    "sound_description": "DB_hero_voice_desc_18"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 19,
     "hero_id": 100500,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_19",
-    "sound_description": "DB_hero_voice_desc_19"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 20,
     "hero_id": 100500,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_20",
-    "sound_description": "DB_hero_voice_desc_20"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 21,
     "hero_id": 100600,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_21",
-    "sound_description": "DB_hero_voice_desc_21"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 22,
     "hero_id": 100600,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_22",
-    "sound_description": "DB_hero_voice_desc_22"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 23,
     "hero_id": 100600,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_23",
-    "sound_description": "DB_hero_voice_desc_23"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 24,
     "hero_id": 100600,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_24",
-    "sound_description": "DB_hero_voice_desc_24"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 25,
     "hero_id": 100700,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_25",
-    "sound_description": "DB_hero_voice_desc_25"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 26,
     "hero_id": 100700,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_26",
-    "sound_description": "DB_hero_voice_desc_26"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 27,
     "hero_id": 100700,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_27",
-    "sound_description": "DB_hero_voice_desc_27"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 28,
     "hero_id": 100700,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_28",
-    "sound_description": "DB_hero_voice_desc_28"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 29,
     "hero_id": 100800,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_29",
-    "sound_description": "DB_hero_voice_desc_29"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 30,
     "hero_id": 100800,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_30",
-    "sound_description": "DB_hero_voice_desc_30"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 31,
     "hero_id": 100800,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_31",
-    "sound_description": "DB_hero_voice_desc_31"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 32,
     "hero_id": 100800,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_32",
-    "sound_description": "DB_hero_voice_desc_32"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 33,
     "hero_id": 100900,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_33",
-    "sound_description": "DB_hero_voice_desc_33"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 34,
     "hero_id": 100900,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_34",
-    "sound_description": "DB_hero_voice_desc_34"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 35,
     "hero_id": 100900,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_35",
-    "sound_description": "DB_hero_voice_desc_35"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 36,
     "hero_id": 100900,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_36",
-    "sound_description": "DB_hero_voice_desc_36"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 37,
     "hero_id": 101000,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_37",
-    "sound_description": "DB_hero_voice_desc_37"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 38,
     "hero_id": 101000,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_38",
-    "sound_description": "DB_hero_voice_desc_38"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 39,
     "hero_id": 101000,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_39",
-    "sound_description": "DB_hero_voice_desc_39"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 40,
     "hero_id": 101000,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_40",
-    "sound_description": "DB_hero_voice_desc_40"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 41,
     "hero_id": 101100,
     "fellowship_level": 1,
     "sound_id": 40101,
-    "sound_name": "DB_hero_voice_name_41",
-    "sound_description": "DB_hero_voice_desc_41"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 42,
     "hero_id": 101100,
     "fellowship_level": 1,
     "sound_id": 40201,
-    "sound_name": "DB_hero_voice_name_42",
-    "sound_description": "DB_hero_voice_desc_42"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 43,
     "hero_id": 101100,
     "fellowship_level": 2,
     "sound_id": 40202,
-    "sound_name": "DB_hero_voice_name_43",
-    "sound_description": "DB_hero_voice_desc_43"
+    "sound_name": "",
+    "sound_description": ""
   },
   {
     "id": 44,
     "hero_id": 101100,
     "fellowship_level": 3,
     "sound_id": 40203,
-    "sound_name": "DB_hero_voice_name_44",
-    "sound_description": "DB_hero_voice_desc_44"
+    "sound_name": "",
+    "sound_description": ""
   }
 ]

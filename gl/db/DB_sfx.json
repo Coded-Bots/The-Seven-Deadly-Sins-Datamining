@@ -707,6 +707,13 @@
     "filename": "fx_meliodas_lostvayne_skill_01_return"
   },
   {
+    "id": 2356,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/meliodas_lostvayne",
+    "filename": "fx_meliodas_lostvayne_special_01_end"
+  },
+  {
     "id": 100300,
     "attach_type": 1,
     "create_socket": "",
@@ -1715,6 +1722,41 @@
     "filename": "fx_hit_special_diane_02"
   },
   {
+    "id": 2364,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_dianegolem_skill_04"
+  },
+  {
+    "id": 2367,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_dianegolem_skill_04_ready"
+  },
+  {
+    "id": 2365,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_dianegolem_skill_05"
+  },
+  {
+    "id": 2368,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_dianegolem_skill_05_ready"
+  },
+  {
+    "id": 2366,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_dianegolem_skill_05_hit"
+  },
+  {
     "id": 1000,
     "attach_type": 1,
     "create_socket": "",
@@ -1727,6 +1769,55 @@
     "create_socket": "",
     "path": "SevenSins/diane",
     "filename": "fx_diane_skill_04_return"
+  },
+  {
+    "id": 2378,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Others/dianegolem",
+    "filename": "fx_dianegolem_skill01_ready"
+  },
+  {
+    "id": 2379,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_follow",
+    "path": "Others/dianegolem",
+    "filename": "fx_dianegolem_skill01_dash"
+  },
+  {
+    "id": 2380,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Others/dianegolem",
+    "filename": "fx_dianegolem_skill01_atk"
+  },
+  {
+    "id": 2381,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_follow",
+    "path": "Others/dianegolem",
+    "filename": "fx_dianegolem_skill01_return"
+  },
+  {
+    "id": 2382,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Others/dianegolem",
+    "filename": "fx_dianegolem_skill01_end"
+  },
+  {
+    "id": 2383,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Others/dianegolem",
+    "filename": "fx_dianegolem_skill02_atk"
+  },
+  {
+    "id": 2384,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Others/dianegolem",
+    "filename": "fx_dianegolem_skill03_atk"
   },
   {
     "id": 103120300,
@@ -3078,6 +3169,181 @@
     "create_socket": "",
     "path": "SevenSins/hawk",
     "filename": "fx_hit_special_hawk_02"
+  },
+  {
+    "id": 2414,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_01"
+  },
+  {
+    "id": 2415,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_01_ready"
+  },
+  {
+    "id": 2416,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_01_dash"
+  },
+  {
+    "id": 2417,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_01_return"
+  },
+  {
+    "id": 2418,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_02"
+  },
+  {
+    "id": 2419,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_02_ready"
+  },
+  {
+    "id": 2420,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_02_dash"
+  },
+  {
+    "id": 2421,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_02_return"
+  },
+  {
+    "id": 2422,
+    "attach_type": 1,
+    "create_socket": "fx_spawn_center",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_02_hit"
+  },
+  {
+    "id": 2423,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_03_buff"
+  },
+  {
+    "id": 2424,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_03_prop"
+  },
+  {
+    "id": 2425,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_03_ready"
+  },
+  {
+    "id": 2436,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_04_ready"
+  },
+  {
+    "id": 2445,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_04_dash"
+  },
+  {
+    "id": 2437,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_04_atk"
+  },
+  {
+    "id": 2438,
+    "attach_type": 2,
+    "create_socket": "weapon_fx_Dummy",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_04_hit"
+  },
+  {
+    "id": 2439,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_05_ready"
+  },
+  {
+    "id": 2440,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_05_atk"
+  },
+  {
+    "id": 2446,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_fire_hit"
+  },
+  {
+    "id": 2426,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_06"
+  },
+  {
+    "id": 2427,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_06_broken"
+  },
+  {
+    "id": 2428,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_06_idle"
+  },
+  {
+    "id": 2429,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_skill_06_return"
+  },
+  {
+    "id": 2430,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hit_hawk_big_special_02"
+  },
+  {
+    "id": 2442,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk_big",
+    "filename": "fx_hawk_big_die"
   },
   {
     "id": 1680,
@@ -6433,6 +6699,27 @@
     "filename": "fx_zaratras_skill_04_4"
   },
   {
+    "id": 2385,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/zaratras",
+    "filename": "fx_end_zaratras_special_03"
+  },
+  {
+    "id": 2386,
+    "attach_type": 0,
+    "create_socket": "weapon_fx_Dummy",
+    "path": "Human/zaratras",
+    "filename": "fx_end_zaratras_special_03_weapon"
+  },
+  {
+    "id": 2377,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/zaratras",
+    "filename": "fx_hit_zaratras_special_03"
+  },
+  {
     "id": 205500,
     "attach_type": 1,
     "create_socket": "",
@@ -7371,11 +7658,88 @@
     "filename": "fx_monspeet_sk02_ready_jump"
   },
   {
+    "id": 2327,
+    "attach_type": 2,
+    "create_socket": "fx_spawn_center",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_sk03_ready"
+  },
+  {
+    "id": 2328,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_sk03_ready_hand"
+  },
+  {
+    "id": 2329,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_righthand",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_sk03_ready_hand"
+  },
+  {
+    "id": 2330,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_sk03_dash_hand"
+  },
+  {
+    "id": 2331,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_righthand",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_sk03_dash_hand"
+  },
+  {
+    "id": 2332,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_sk03_attack_hand"
+  },
+  {
+    "id": 2333,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_sk03_attack_01"
+  },
+  {
+    "id": 2334,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_sk03_attack_02"
+  },
+  {
+    "id": 2335,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_sk03_dust"
+  },
+  {
     "id": 700206,
     "attach_type": 1,
     "create_socket": "",
     "path": "TenDevils/monspeet",
     "filename": "fx_hit_special_monspeet"
+  },
+  {
+    "id": 2357,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_skill04_ready"
+  },
+  {
+    "id": 2358,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/monspeet",
+    "filename": "fx_monspeet_skill04_atk"
   },
   {
     "id": 1610,
@@ -7463,10 +7827,17 @@
   },
   {
     "id": 2267,
-    "attach_type": 1,
+    "attach_type": 0,
     "create_socket": "",
     "path": "_Common/Buff",
     "filename": "fx_debuff_melascula_robbery_loop"
+  },
+  {
+    "id": 2359,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "_Common/Buff",
+    "filename": "fx_buff_revival_01_loop"
   },
   {
     "id": 1637,
@@ -7544,6 +7915,55 @@
     "create_socket": "",
     "path": "TenDevils/gloxinia",
     "filename": "fx_hit_gloxinia_special_01"
+  },
+  {
+    "id": 2319,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/gloxinia",
+    "filename": "fx_gloxinia_skill04_atk01"
+  },
+  {
+    "id": 2320,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/gloxinia",
+    "filename": "fx_gloxinia_skill04_atk02"
+  },
+  {
+    "id": 2321,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/gloxinia",
+    "filename": "fx_gloxinia_skill04_buff"
+  },
+  {
+    "id": 2323,
+    "attach_type": 0,
+    "create_socket": "weapon_fx_Dummy",
+    "path": "TenDevils/gloxinia",
+    "filename": "fx_gloxinia_skill_03_ready"
+  },
+  {
+    "id": 2324,
+    "attach_type": 0,
+    "create_socket": "weapon_fx_Dummy",
+    "path": "TenDevils/gloxinia",
+    "filename": "fx_gloxinia_skill_03_atk_weapon"
+  },
+  {
+    "id": 2325,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/gloxinia",
+    "filename": "fx_gloxinia_skill_03_atk"
+  },
+  {
+    "id": 2326,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/gloxinia",
+    "filename": "fx_gloxinia_skill_03_fin"
   },
   {
     "id": 1797,
@@ -8043,6 +8463,195 @@
     "filename": "fx_hit_special_derieri"
   },
   {
+    "id": 2347,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_skill_01"
+  },
+  {
+    "id": 2348,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_skill_01_ready"
+  },
+  {
+    "id": 2353,
+    "attach_type": 2,
+    "create_socket": "fx_spawn_righthand",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_skill_01_hand"
+  },
+  {
+    "id": 2354,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_skill_01_return"
+  },
+  {
+    "id": 2349,
+    "attach_type": 2,
+    "create_socket": "fx_spawn_righthand",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_skill_02"
+  },
+  {
+    "id": 2350,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_skill_02_buff"
+  },
+  {
+    "id": 2336,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_sk3_atk_01"
+  },
+  {
+    "id": 2337,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_sk3_atk_02"
+  },
+  {
+    "id": 2338,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_sk3_dash"
+  },
+  {
+    "id": 2339,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_sk3_dust"
+  },
+  {
+    "id": 2340,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_sk3_return"
+  },
+  {
+    "id": 2341,
+    "attach_type": 0,
+    "create_socket": "weapon_fx_Dummy",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_sk4_atk_01"
+  },
+  {
+    "id": 2342,
+    "attach_type": 0,
+    "create_socket": "weapon_fx_Dummy",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_sk4_ready"
+  },
+  {
+    "id": 2346,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_dreyfus_demon_sk4_hit"
+  },
+  {
+    "id": 2355,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/dreyfus_demon",
+    "filename": "fx_hit_dreyfus_demon_special_01"
+  },
+  {
+    "id": 2400,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/fraudrin",
+    "filename": "fx_fraudrin_skill01_dash"
+  },
+  {
+    "id": 2401,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin",
+    "filename": "fx_fraudrin_skill01_hit"
+  },
+  {
+    "id": 2402,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin",
+    "filename": "fx_fraudrin_skill01_ready"
+  },
+  {
+    "id": 2403,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin",
+    "filename": "fx_fraudrin_skill01_return"
+  },
+  {
+    "id": 2404,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin",
+    "filename": "fx_fraudrin_skill_02"
+  },
+  {
+    "id": 2405,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin",
+    "filename": "fx_fraudrin_skill_02_trail"
+  },
+  {
+    "id": 2406,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/fraudrin",
+    "filename": "fx_fraudrin_skill_02_dash"
+  },
+  {
+    "id": 2407,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin",
+    "filename": "fx_fraudrin_skill_02_return"
+  },
+  {
+    "id": 2398,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin_big",
+    "filename": "fx_fraudrin_big_skill_01"
+  },
+  {
+    "id": 2399,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin_big",
+    "filename": "fx_fraudrin_big_skill_02"
+  },
+  {
+    "id": 2408,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin_big",
+    "filename": "fx_fraudrin_big_die_01"
+  },
+  {
+    "id": 2413,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/fraudrin_big",
+    "filename": "fx_hit_special_fraudrin_big_01"
+  },
+  {
     "id": 1302,
     "attach_type": 1,
     "create_socket": "",
@@ -8475,6 +9084,160 @@
     "create_socket": "",
     "path": "Demon/lamech",
     "filename": "fx_lamech_special_02_hit"
+  },
+  {
+    "id": 2290,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s01_atk"
+  },
+  {
+    "id": 2291,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s02_atk"
+  },
+  {
+    "id": 2292,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s03_atk"
+  },
+  {
+    "id": 2293,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s04_atk"
+  },
+  {
+    "id": 2294,
+    "attach_type": 1,
+    "create_socket": "fx_spawn_center",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_hit_03"
+  },
+  {
+    "id": 2295,
+    "attach_type": 1,
+    "create_socket": "fx_spawn_center",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_hit_04"
+  },
+  {
+    "id": 2302,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s05_ready"
+  },
+  {
+    "id": 2303,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_righthand",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s05_hand"
+  },
+  {
+    "id": 2304,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s05_atk"
+  },
+  {
+    "id": 2305,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s06_ready"
+  },
+  {
+    "id": 2306,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s06_hand"
+  },
+  {
+    "id": 2307,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_s06_atk"
+  },
+  {
+    "id": 2311,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_skill_07_ready"
+  },
+  {
+    "id": 2312,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_skill_07"
+  },
+  {
+    "id": 2313,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_skill_08_ready"
+  },
+  {
+    "id": 2314,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_skill_08"
+  },
+  {
+    "id": 2308,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_skill13_idle"
+  },
+  {
+    "id": 2309,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_skill13_hit"
+  },
+  {
+    "id": 2310,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_skill13_ready"
+  },
+  {
+    "id": 2316,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_chimara_demon_die"
+  },
+  {
+    "id": 2315,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_hit_chimara_demon_special_01"
+  },
+  {
+    "id": 2317,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/chimara_demon",
+    "filename": "fx_hit_chimara_demon_special_02"
   },
   {
     "id": 309070100,
@@ -15267,6 +16030,349 @@
     "filename": "fx_hit_disaster_eastin_special_01_end"
   },
   {
+    "id": 2369,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_disaster_roxy_sk1_atk01"
+  },
+  {
+    "id": 2370,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_disaster_roxy_sk1_dash"
+  },
+  {
+    "id": 2371,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_disaster_roxy_sk1_return"
+  },
+  {
+    "id": 2372,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_disaster_roxy_sk2_atk01"
+  },
+  {
+    "id": 2373,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_disaster_roxy_sk2_dash_01"
+  },
+  {
+    "id": 2374,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_disaster_roxy_sk2_dash_02"
+  },
+  {
+    "id": 2375,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_disaster_roxy_sk2_return"
+  },
+  {
+    "id": 2376,
+    "attach_type": 0,
+    "create_socket": "weapon_fx_Dummy",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_disaster_roxy_sk2_weapon"
+  },
+  {
+    "id": 2388,
+    "attach_type": 2,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_disaster_roxy_sk2_atk_trail"
+  },
+  {
+    "id": 2397,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_roxy",
+    "filename": "fx_hit_disaster_roxy_special_01"
+  },
+  {
+    "id": 2409,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_01_atk_01"
+  },
+  {
+    "id": 2410,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_01_atk_02"
+  },
+  {
+    "id": 2411,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_02_atk_01"
+  },
+  {
+    "id": 2412,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_02_atk_02"
+  },
+  {
+    "id": 2431,
+    "attach_type": 1,
+    "create_socket": "fx_spawn_center",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_01_hit"
+  },
+  {
+    "id": 2432,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_01_ready"
+  },
+  {
+    "id": 2433,
+    "attach_type": 1,
+    "create_socket": "fx_spawn_center",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_02_hit"
+  },
+  {
+    "id": 2434,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_02_ready"
+  },
+  {
+    "id": 2435,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_hit_disaster_shin_special_01"
+  },
+  {
+    "id": 2443,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_02_atk_03"
+  },
+  {
+    "id": 2444,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/disaster_shin",
+    "filename": "fx_disaster_shin_skill_02_atk_04"
+  },
+  {
+    "id": 2276,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill03_ready_li"
+  },
+  {
+    "id": 2277,
+    "attach_type": 2,
+    "create_socket": "fx_spawn_righthand",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill03_ready_li_hand"
+  },
+  {
+    "id": 2278,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill03_atk"
+  },
+  {
+    "id": 2280,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill03_atk_hit"
+  },
+  {
+    "id": 2281,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_ready"
+  },
+  {
+    "id": 2282,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_atk_ground_dr_hold"
+  },
+  {
+    "id": 2360,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_atk_ground_dr_hold_atk"
+  },
+  {
+    "id": 2283,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_atk_dr_shadow"
+  },
+  {
+    "id": 2284,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_atk_dr_start"
+  },
+  {
+    "id": 2285,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_atk_ground_target"
+  },
+  {
+    "id": 2286,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_atk_dr"
+  },
+  {
+    "id": 2287,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_atk_dr_out"
+  },
+  {
+    "id": 2288,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_atk_ground_target_2"
+  },
+  {
+    "id": 2289,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill04_atk_dr_in"
+  },
+  {
+    "id": 2296,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill01_01"
+  },
+  {
+    "id": 2297,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill01_02"
+  },
+  {
+    "id": 2298,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill01_03"
+  },
+  {
+    "id": 2299,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill01_04"
+  },
+  {
+    "id": 2300,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill02_01"
+  },
+  {
+    "id": 2301,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill02_02"
+  },
+  {
+    "id": 2318,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill02_hit"
+  },
+  {
+    "id": 2322,
+    "attach_type": 0,
+    "create_socket": "move001",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill05_idle"
+  },
+  {
+    "id": 2351,
+    "attach_type": 0,
+    "create_socket": "weapon_fx_Dummy",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill05_idle_dragoneye"
+  },
+  {
+    "id": 2352,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill05_idle_start"
+  },
+  {
+    "id": 2343,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill06_ready"
+  },
+  {
+    "id": 2344,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill06_atk_set"
+  },
+  {
+    "id": 2345,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_skill06_hit"
+  },
+  {
+    "id": 2361,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Event/disaster/destroy/liliahawaken_destroy",
+    "filename": "fx_liliahawaken_destroy_die"
+  },
+  {
     "id": 1016,
     "attach_type": 0,
     "create_socket": "",
@@ -15544,21 +16650,21 @@
     "attach_type": 1,
     "create_socket": "",
     "path": "Collabo/titan/titan_attack_titan",
-    "filename": "fx_attack_titan_skill01_ready_01"
+    "filename": "fx_attack_titan_skill02_ready_01"
   },
   {
     "id": 1073,
     "attach_type": 1,
     "create_socket": "",
     "path": "Collabo/titan/titan_attack_titan",
-    "filename": "fx_attack_titan_skill01_ready_02"
+    "filename": "fx_attack_titan_skill02_ready_02"
   },
   {
     "id": 1074,
     "attach_type": 1,
     "create_socket": "",
     "path": "Collabo/titan/titan_attack_titan",
-    "filename": "fx_attack_titan_skill01_atk_01"
+    "filename": "fx_attack_titan_skill02_atk_01"
   },
   {
     "id": 1078,
@@ -15713,6 +16819,62 @@
     "create_socket": "",
     "path": "Collabo/titan/titan_mikasa",
     "filename": "fx_hit_special_mikasa_01"
+  },
+  {
+    "id": 2389,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_short_titan",
+    "filename": "fx_short_titan_skill01_dash"
+  },
+  {
+    "id": 2390,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_short_titan",
+    "filename": "fx_short_titan_skill01_atk"
+  },
+  {
+    "id": 2391,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_short_titan",
+    "filename": "fx_short_titan_skill01_return"
+  },
+  {
+    "id": 2392,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_short_titan",
+    "filename": "fx_short_titan_skill01_end"
+  },
+  {
+    "id": 2393,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_short_titan",
+    "filename": "fx_short_titan_skill02_dash"
+  },
+  {
+    "id": 2394,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_short_titan",
+    "filename": "fx_short_titan_skill02_atk"
+  },
+  {
+    "id": 2395,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_short_titan",
+    "filename": "fx_short_titan_skill02_return"
+  },
+  {
+    "id": 2396,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_short_titan",
+    "filename": "fx_short_titan_skill02_end"
   },
   {
     "id": 1035,
@@ -19829,6 +20991,20 @@
     "create_socket": "fx_spawn_center",
     "path": "_Common/Etc",
     "filename": "fx_boss_gowther_aura_phase01"
+  },
+  {
+    "id": 2362,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "_Common/Etc",
+    "filename": "fx_boss_diane_aura_phase01"
+  },
+  {
+    "id": 2363,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "_Common/Etc",
+    "filename": "fx_boss_diane_aura_phase02"
   },
   {
     "id": 1808,

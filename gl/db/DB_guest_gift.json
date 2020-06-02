@@ -504,6 +504,18 @@
     "reward_item_count": 10000
   },
   {
+    "id": 244,
+    "guest_id": 62,
+    "gift_index": 1,
+    "item_id": 901155,
+    "item_count": 5,
+    "sales_bonus": 0,
+    "contents_passive_id": 0,
+    "gift_fellow_count": 500,
+    "reward_item_id": 500012,
+    "reward_item_count": 10000
+  },
+  {
     "id": 245,
     "guest_id": 60,
     "gift_index": 1,

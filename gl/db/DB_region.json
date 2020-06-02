@@ -15,7 +15,7 @@
     "region_type": "main"
   },
   {
-    "id": 1001,
+    "id": 999901,
     "time_slot": 1,
     "region_type": "extra"
   },
@@ -155,7 +155,17 @@
     "region_type": "extra"
   },
   {
+    "id": 1020,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
     "id": 9201,
+    "time_slot": 1,
+    "region_type": "event"
+  },
+  {
+    "id": 9202,
     "time_slot": 1,
     "region_type": "event"
   },

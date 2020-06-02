@@ -22,5 +22,17 @@
   {
     "final_boss_score_group_id": 1013,
     "lotation_period": 15
+  },
+  {
+    "final_boss_score_group_id": 2011,
+    "lotation_period": 15
+  },
+  {
+    "final_boss_score_group_id": 2012,
+    "lotation_period": 15
+  },
+  {
+    "final_boss_score_group_id": 2013,
+    "lotation_period": 15
   }
 ]

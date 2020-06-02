@@ -12,7 +12,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 100101,
@@ -72,7 +72,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 100201,
@@ -162,7 +162,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110202,
@@ -177,7 +177,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 100301,
@@ -222,7 +222,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 110302,
@@ -237,7 +237,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 100401,
@@ -282,7 +282,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110402,
@@ -297,7 +297,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 100501,
@@ -327,7 +327,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110502,
@@ -342,7 +342,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 110503,
@@ -357,7 +357,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 110504,
@@ -372,7 +372,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 103101,
@@ -387,7 +387,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 104101,
@@ -402,7 +402,7 @@
     "npc_role": "warp_town_pvp",
     "npc_content_id": 400401,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_03"
+    "guide_local": "548"
   },
   {
     "id": 104102,
@@ -417,7 +417,7 @@
     "npc_role": "warp_town_pvp",
     "npc_content_id": 400401,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_pvp_network_enter_notice_01"
+    "guide_local": "630"
   },
   {
     "id": 104201,
@@ -432,7 +432,7 @@
     "npc_role": "warp_town_4",
     "npc_content_id": 400201,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_04"
+    "guide_local": "549"
   },
   {
     "id": 104301,
@@ -447,7 +447,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 104401,
@@ -477,7 +477,7 @@
     "npc_role": "warp_town_west",
     "npc_content_id": 600601,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_05"
+    "guide_local": "550"
   },
   {
     "id": 110602,
@@ -492,7 +492,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 602,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_09"
+    "guide_local": "554"
   },
   {
     "id": 110603,
@@ -507,7 +507,7 @@
     "npc_role": "warp_town_6",
     "npc_content_id": 600701,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_06"
+    "guide_local": "551"
   },
   {
     "id": 110604,
@@ -537,7 +537,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110606,
@@ -552,7 +552,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 110607,
@@ -567,7 +567,7 @@
     "npc_role": "warp_town_west",
     "npc_content_id": 600601,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_westcity_enter_notice_01"
+    "guide_local": "705"
   },
   {
     "id": 110608,
@@ -582,7 +582,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110609,
@@ -597,7 +597,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 110610,
@@ -612,7 +612,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 603,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_10"
+    "guide_local": "555"
   },
   {
     "id": 110611,
@@ -627,7 +627,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 601,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_08"
+    "guide_local": "553"
   },
   {
     "id": 110612,
@@ -642,7 +642,7 @@
     "npc_role": "warp_castle",
     "npc_content_id": 600701,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_06"
+    "guide_local": "551"
   },
   {
     "id": 110614,
@@ -657,7 +657,7 @@
     "npc_role": "warp_castle",
     "npc_content_id": 600701,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_06"
+    "guide_local": "551"
   },
   {
     "id": 110615,
@@ -672,7 +672,7 @@
     "npc_role": "warp_castle",
     "npc_content_id": 600701,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_06"
+    "guide_local": "551"
   },
   {
     "id": 110616,
@@ -687,7 +687,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110617,
@@ -702,7 +702,7 @@
     "npc_role": "warp_town_6",
     "npc_content_id": 600701,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_06"
+    "guide_local": "551"
   },
   {
     "id": 110618,
@@ -717,7 +717,7 @@
     "npc_role": "warp_guild",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_16"
+    "guide_local": "561"
   },
   {
     "id": 110619,
@@ -732,7 +732,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 110620,
@@ -747,7 +747,7 @@
     "npc_role": "warp_final_boss_shop",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "UI_shop_final_boss_move_description_01"
+    "guide_local": "3183"
   },
   {
     "id": 100601,
@@ -1077,7 +1077,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110702,
@@ -1092,7 +1092,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 701,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_11"
+    "guide_local": "556"
   },
   {
     "id": 110703,
@@ -1107,7 +1107,7 @@
     "npc_role": "warp_town_hawk_mama",
     "npc_content_id": 700201,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_12"
+    "guide_local": "557"
   },
   {
     "id": 110704,
@@ -1122,7 +1122,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 110706,
@@ -1137,7 +1137,7 @@
     "npc_role": "Warp_Area",
     "npc_content_id": 93010301,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 110707,
@@ -1152,7 +1152,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110708,
@@ -1167,7 +1167,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 702,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_14"
+    "guide_local": "559"
   },
   {
     "id": 110709,
@@ -1182,7 +1182,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 701,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_11"
+    "guide_local": "556"
   },
   {
     "id": 110710,
@@ -1197,7 +1197,7 @@
     "npc_role": "warp_town_7",
     "npc_content_id": 700301,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_13"
+    "guide_local": "558"
   },
   {
     "id": 100701,
@@ -1242,7 +1242,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 110802,
@@ -1257,7 +1257,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 801,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_17"
+    "guide_local": "562"
   },
   {
     "id": 110803,
@@ -1272,7 +1272,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 802,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_18"
+    "guide_local": "563"
   },
   {
     "id": 110804,
@@ -1287,7 +1287,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110805,
@@ -1302,7 +1302,7 @@
     "npc_role": "warp_town_8",
     "npc_content_id": 800201,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_19"
+    "guide_local": "564"
   },
   {
     "id": 110806,
@@ -1317,7 +1317,7 @@
     "npc_role": "warp_town_8",
     "npc_content_id": 800201,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_19"
+    "guide_local": "564"
   },
   {
     "id": 110807,
@@ -1332,7 +1332,7 @@
     "npc_role": "warp_training",
     "npc_content_id": 803,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_18"
+    "guide_local": "563"
   },
   {
     "id": 110808,
@@ -1347,7 +1347,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 110809,
@@ -1362,7 +1362,7 @@
     "npc_role": "warp_town_8",
     "npc_content_id": 800201,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_19"
+    "guide_local": "564"
   },
   {
     "id": 110810,
@@ -1377,7 +1377,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 100801,
@@ -1527,7 +1527,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 111002,
@@ -1542,7 +1542,22 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
+  },
+  {
+    "id": 111003,
+    "basepoint_id": 1000501,
+    "collision_index": 1,
+    "collision_count": 1,
+    "collision_resource": "fx_ui_trigger_complection_s",
+    "open_type": "quest_start",
+    "open_value": 20058,
+    "close_type": "quest_end",
+    "close_value": 20058,
+    "npc_role": "Story_Quest",
+    "npc_content_id": 20058,
+    "npc_cinema_id": 0,
+    "guide_local": ""
   },
   {
     "id": 111010,
@@ -1677,7 +1692,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 101105,
@@ -1692,7 +1707,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 101106,
@@ -1707,7 +1722,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 1101,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_21"
+    "guide_local": "5015"
   },
   {
     "id": 101107,
@@ -1722,7 +1737,7 @@
     "npc_role": "warp_town_11",
     "npc_content_id": 1100301,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_22"
+    "guide_local": "5016"
   },
   {
     "id": 101108,
@@ -1917,7 +1932,7 @@
     "npc_role": "warp_town_west",
     "npc_content_id": 600601,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_05"
+    "guide_local": "550"
   },
   {
     "id": 110112,
@@ -1932,7 +1947,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 1,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 101201,
@@ -2001,7 +2016,7 @@
     "collision_count": 0,
     "collision_resource": "",
     "open_type": "quest_start",
-    "open_value": 22006,
+    "open_value": 22007,
     "close_type": "quest_end",
     "close_value": 22007,
     "npc_role": "Quest_Player_Move_Collision",
@@ -2097,7 +2112,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 111202,
@@ -2112,7 +2127,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 111203,
@@ -2127,7 +2142,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 1201,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_23"
+    "guide_local": "5196"
   },
   {
     "id": 111204,
@@ -2142,7 +2157,307 @@
     "npc_role": "warp_town_12",
     "npc_content_id": 1200301,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_24"
+    "guide_local": "5197"
+  },
+  {
+    "id": 101301,
+    "basepoint_id": 1200301,
+    "collision_index": 1,
+    "collision_count": 1,
+    "collision_resource": "fx_ui_trigger_complection_m",
+    "open_type": "quest_start",
+    "open_value": 22054,
+    "close_type": "quest_end",
+    "close_value": 22054,
+    "npc_role": "Story_Quest",
+    "npc_content_id": 22054,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101302,
+    "basepoint_id": 1200301,
+    "collision_index": 2,
+    "collision_count": 1,
+    "collision_resource": "fx_ui_trigger_complection_m",
+    "open_type": "quest_start",
+    "open_value": 22058,
+    "close_type": "quest_end",
+    "close_value": 22058,
+    "npc_role": "Story_Quest",
+    "npc_content_id": 22058,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101303,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22016,
+    "close_type": "quest_end",
+    "close_value": 22016,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101304,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22052,
+    "close_type": "quest_end",
+    "close_value": 22052,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101305,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22053,
+    "close_type": "quest_end",
+    "close_value": 22053,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101306,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22054,
+    "close_type": "quest_end",
+    "close_value": 22054,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101307,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22055,
+    "close_type": "quest_end",
+    "close_value": 22055,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101308,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22056,
+    "close_type": "quest_end",
+    "close_value": 22056,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101309,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22057,
+    "close_type": "quest_end",
+    "close_value": 22057,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101310,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22058,
+    "close_type": "quest_end",
+    "close_value": 22058,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101311,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22059,
+    "close_type": "quest_end",
+    "close_value": 22059,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101312,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22060,
+    "close_type": "quest_end",
+    "close_value": 22060,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101313,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22061,
+    "close_type": "quest_end",
+    "close_value": 22061,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101315,
+    "basepoint_id": 1200501,
+    "collision_index": 1,
+    "collision_count": 1,
+    "collision_resource": "fx_ui_trigger_complection_m",
+    "open_type": "quest_start",
+    "open_value": 22061,
+    "close_type": "quest_end",
+    "close_value": 22061,
+    "npc_role": "Story_Quest",
+    "npc_content_id": 22061,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101316,
+    "basepoint_id": 1200501,
+    "collision_index": 2,
+    "collision_count": 1,
+    "collision_resource": "fx_ui_trigger_complection_m",
+    "open_type": "quest_start",
+    "open_value": 22062,
+    "close_type": "quest_end",
+    "close_value": 22062,
+    "npc_role": "Story_Quest",
+    "npc_content_id": 22062,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101317,
+    "basepoint_id": 1200501,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 22062,
+    "close_type": "quest_end",
+    "close_value": 22062,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 101320,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_exit_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "Exit",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": "546"
+  },
+  {
+    "id": 101321,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_warp_hat_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "warp_lobby",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": "547"
+  },
+  {
+    "id": 101322,
+    "basepoint_id": 1200501,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_exit_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "Exit",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": "546"
+  },
+  {
+    "id": 101323,
+    "basepoint_id": 1200501,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_warp_hat_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "warp_lobby",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": "547"
   },
   {
     "id": 301011,
@@ -2157,7 +2472,7 @@
     "npc_role": "Exit",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_01"
+    "guide_local": "546"
   },
   {
     "id": 301012,
@@ -2172,7 +2487,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 301013,
@@ -2430,21 +2745,6 @@
     "guide_local": ""
   },
   {
-    "id": 200012,
-    "basepoint_id": 1000501,
-    "collision_index": 0,
-    "collision_count": 0,
-    "collision_resource": "",
-    "open_type": "quest_start",
-    "open_value": 20055,
-    "close_type": "stage_quest",
-    "close_value": 20055,
-    "npc_role": "sequence_collision",
-    "npc_content_id": 1009,
-    "npc_cinema_id": 0,
-    "guide_local": ""
-  },
-  {
     "id": 200013,
     "basepoint_id": 1000501,
     "collision_index": 0,
@@ -2490,6 +2790,36 @@
     "guide_local": ""
   },
   {
+    "id": 200016,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_sequence_m",
+    "open_type": "quest_start",
+    "open_value": 22055,
+    "close_type": "stage_quest",
+    "close_value": 22055,
+    "npc_role": "sequence_effect",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 200017,
+    "basepoint_id": 1200301,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_sequence_m",
+    "open_type": "quest_start",
+    "open_value": 22056,
+    "close_type": "stage_quest",
+    "close_value": 22056,
+    "npc_role": "sequence_effect",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
     "id": 120001,
     "basepoint_id": 93010301,
     "collision_index": 1,
@@ -2502,7 +2832,7 @@
     "npc_role": "event_npc_boss_enter",
     "npc_content_id": 1000,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_event_boss_enter_msg"
+    "guide_local": "403"
   },
   {
     "id": 120002,
@@ -2518,6 +2848,111 @@
     "npc_content_id": 90216,
     "npc_cinema_id": 0,
     "guide_local": ""
+  },
+  {
+    "id": 120101,
+    "basepoint_id": 92020401,
+    "collision_index": 1,
+    "collision_count": 1,
+    "collision_resource": "fx_ui_trigger_complection_m",
+    "open_type": "quest_start",
+    "open_value": 91005,
+    "close_type": "quest_end",
+    "close_value": 91005,
+    "npc_role": "Story_Quest",
+    "npc_content_id": 91005,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 120102,
+    "basepoint_id": 92020401,
+    "collision_index": 1,
+    "collision_count": 1,
+    "collision_resource": "fx_ui_trigger_complection_m",
+    "open_type": "quest_start",
+    "open_value": 91010,
+    "close_type": "quest_end",
+    "close_value": 91010,
+    "npc_role": "Story_Quest",
+    "npc_content_id": 91010,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 120111,
+    "basepoint_id": 92020401,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "",
+    "open_type": "quest_start",
+    "open_value": 91007,
+    "close_type": "quest_end",
+    "close_value": 91007,
+    "npc_role": "Quest_Player_Move_Collision",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": ""
+  },
+  {
+    "id": 121101,
+    "basepoint_id": 92020401,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_exit_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "Exit",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": "546"
+  },
+  {
+    "id": 121102,
+    "basepoint_id": 92020401,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_warp_hat_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "warp_lobby",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": "547"
+  },
+  {
+    "id": 121103,
+    "basepoint_id": 92020701,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_exit_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "Exit",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": "546"
+  },
+  {
+    "id": 121104,
+    "basepoint_id": 92020701,
+    "collision_index": 0,
+    "collision_count": 0,
+    "collision_resource": "fx_ui_trigger_warp_hat_b",
+    "open_type": "",
+    "open_value": 0,
+    "close_type": "",
+    "close_value": 0,
+    "npc_role": "warp_lobby",
+    "npc_content_id": 0,
+    "npc_cinema_id": 0,
+    "guide_local": "547"
   },
   {
     "id": 130001,
@@ -2547,7 +2982,7 @@
     "npc_role": "warp_lobby",
     "npc_content_id": 0,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_02"
+    "guide_local": "547"
   },
   {
     "id": 130101,
@@ -2562,7 +2997,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 1210,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_balentine_event_enter_msg"
+    "guide_local": "4856"
   },
   {
     "id": 130102,
@@ -2577,7 +3012,7 @@
     "npc_role": "warp_town_2",
     "npc_content_id": 200201,
     "npc_cinema_id": 0,
-    "guide_local": "SYS_notice_basepoint_out_20"
+    "guide_local": "4858"
   },
   {
     "id": 130104,

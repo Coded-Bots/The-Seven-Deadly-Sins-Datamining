@@ -8208,6 +8208,36 @@
     "filename": "hawk_appear"
   },
   {
+    "id": 21985,
+    "path": "hero",
+    "sub_path": "hawk_big",
+    "filename": "hawk_big_skill_03_rdy_01"
+  },
+  {
+    "id": 21986,
+    "path": "hero",
+    "sub_path": "hawk_big",
+    "filename": "hawk_big_skill_03_rdy_02"
+  },
+  {
+    "id": 21987,
+    "path": "voice",
+    "sub_path": "battle/hawk_big",
+    "filename": "hawk_big_skill_03_rdy_vo_01"
+  },
+  {
+    "id": 21988,
+    "path": "voice",
+    "sub_path": "battle/hawk_big",
+    "filename": "hawk_big_skill_03_rdy_vo_02"
+  },
+  {
+    "id": 21989,
+    "path": "voice",
+    "sub_path": "battle/hawk_big",
+    "filename": "hawk_big_skill_03_rdy_vo_03"
+  },
+  {
     "id": 21991,
     "path": "hero",
     "sub_path": "elizabeth",
@@ -16188,6 +16218,234 @@
     "filename": "dreyfus01_skill_01_atk_03"
   },
   {
+    "id": 24853,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "003_dreyfus02_boss_01"
+  },
+  {
+    "id": 24854,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "004_dreyfus02_boss_02"
+  },
+  {
+    "id": 24855,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "005_dreyfus02_skill_01"
+  },
+  {
+    "id": 24856,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "006_dreyfus02_skill_02"
+  },
+  {
+    "id": 24857,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "007_dreyfus02_skill_03"
+  },
+  {
+    "id": 24858,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "008_dreyfus02_bt_victory_01"
+  },
+  {
+    "id": 24859,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "009_dreyfus02_bt_victory_02"
+  },
+  {
+    "id": 24860,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "010_dreyfus02_sp_01"
+  },
+  {
+    "id": 24861,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "011_dreyfus02_sp_02"
+  },
+  {
+    "id": 24862,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "012_dreyfus02_sp_03"
+  },
+  {
+    "id": 24863,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "013_dreyfus02_sp_04"
+  },
+  {
+    "id": 24864,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "014_dreyfus02_sp_05"
+  },
+  {
+    "id": 24865,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "015_dreyfus02_counter_01"
+  },
+  {
+    "id": 24866,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "016_dreyfus02_buff_01"
+  },
+  {
+    "id": 24867,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "017_dreyfus02_buff_02"
+  },
+  {
+    "id": 24868,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "018_dreyfus02_buff_03"
+  },
+  {
+    "id": 24869,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "019_dreyfus02_n_atk_01"
+  },
+  {
+    "id": 24870,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "020_dreyfus02_n_atk_02"
+  },
+  {
+    "id": 24871,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "021_dreyfus02_n_atk_03"
+  },
+  {
+    "id": 24872,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "022_dreyfus02_n_atk_04"
+  },
+  {
+    "id": 24873,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "023_dreyfus02_n_atk_05"
+  },
+  {
+    "id": 24874,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "024_dreyfus02_n_atk_06"
+  },
+  {
+    "id": 24875,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "025_dreyfus02_n_atk_07"
+  },
+  {
+    "id": 24876,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "026_dreyfus02_n_atk_08"
+  },
+  {
+    "id": 24877,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "027_dreyfus02_healing_01"
+  },
+  {
+    "id": 24878,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "028_dreyfus02_atk_01"
+  },
+  {
+    "id": 24879,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "029_dreyfus02_atk_02"
+  },
+  {
+    "id": 24880,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "030_dreyfus02_atk_03"
+  },
+  {
+    "id": 24881,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "031_dreyfus02_atk_04"
+  },
+  {
+    "id": 24882,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "032_dreyfus02_atk_05"
+  },
+  {
+    "id": 24883,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "033_dreyfus02_atk_06"
+  },
+  {
+    "id": 24884,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "034_dreyfus02_atk_07"
+  },
+  {
+    "id": 24885,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "035_dreyfus02_atk_08"
+  },
+  {
+    "id": 24886,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "036_dreyfus02_dmg_01"
+  },
+  {
+    "id": 24887,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "037_dreyfus02_dmg_02"
+  },
+  {
+    "id": 24888,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "038_dreyfus02_dmg_03"
+  },
+  {
+    "id": 24889,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "039_dreyfus02_dmg_04"
+  },
+  {
+    "id": 24890,
+    "path": "voice",
+    "sub_path": "battle/dreyfus02",
+    "filename": "040_dreyfus02_dmg_05"
+  },
+  {
     "id": 24891,
     "path": "voice",
     "sub_path": "battle/vivian",
@@ -23304,6 +23562,114 @@
     "filename": "lizardman_vo_02"
   },
   {
+    "id": 28203,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "007_liliah_awaken_skill_03"
+  },
+  {
+    "id": 28204,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "008_liliah_awaken_bt_victory_01"
+  },
+  {
+    "id": 28205,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "009_liliah_awaken_bt_victory_02"
+  },
+  {
+    "id": 28206,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "010_liliah_awaken_sp_01"
+  },
+  {
+    "id": 28207,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "011_liliah_awaken_sp_02"
+  },
+  {
+    "id": 28208,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "012_liliah_awaken_sp_03"
+  },
+  {
+    "id": 28209,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "013_liliah_awaken_sp_04"
+  },
+  {
+    "id": 28210,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "014_liliah_awaken_sp_05"
+  },
+  {
+    "id": 28211,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "015_liliah_awaken_counter_01"
+  },
+  {
+    "id": 28212,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "016_liliah_awaken_defense_01"
+  },
+  {
+    "id": 28213,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "017_liliah_awaken_defense_02"
+  },
+  {
+    "id": 28214,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "018_liliah_awaken_n_atk_01"
+  },
+  {
+    "id": 28215,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "019_liliah_awaken_n_atk_02"
+  },
+  {
+    "id": 28216,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "020_liliah_awaken_n_atk_03"
+  },
+  {
+    "id": 28217,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "021_liliah_awaken_n_atk_04"
+  },
+  {
+    "id": 28218,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "022_liliah_awaken_n_atk_05"
+  },
+  {
+    "id": 28219,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "023_liliah_awaken_healing_01"
+  },
+  {
+    "id": 28220,
+    "path": "voice",
+    "sub_path": "battle/liliah_awaken",
+    "filename": "024_liliah_awaken_healing_02"
+  },
+  {
     "id": 28221,
     "path": "hero",
     "sub_path": "liliah_awaken",
@@ -26688,6 +27054,66 @@
     "filename": "038_drole_dmg_05"
   },
   {
+    "id": 28941,
+    "path": "hero",
+    "sub_path": "gloxinia",
+    "filename": "gloxinia_skill_04_atk_01"
+  },
+  {
+    "id": 28942,
+    "path": "hero",
+    "sub_path": "gloxinia",
+    "filename": "gloxinia_skill_04_atk_02"
+  },
+  {
+    "id": 28943,
+    "path": "hero",
+    "sub_path": "gloxinia",
+    "filename": "gloxinia_skill_04_atk_03"
+  },
+  {
+    "id": 28944,
+    "path": "hero",
+    "sub_path": "gloxinia",
+    "filename": "gloxinia_skill_04_atk_04"
+  },
+  {
+    "id": 28945,
+    "path": "hero",
+    "sub_path": "gloxinia",
+    "filename": "gloxinia_skill_04_atk_05"
+  },
+  {
+    "id": 28946,
+    "path": "voice",
+    "sub_path": "battle/gloxinia",
+    "filename": "gloxinia_skill_04_vo_01"
+  },
+  {
+    "id": 28947,
+    "path": "voice",
+    "sub_path": "battle/gloxinia",
+    "filename": "gloxinia_skill_04_vo_02"
+  },
+  {
+    "id": 28948,
+    "path": "hero",
+    "sub_path": "gloxinia",
+    "filename": "gloxinia_skill_03_atk_01"
+  },
+  {
+    "id": 28949,
+    "path": "hero",
+    "sub_path": "gloxinia",
+    "filename": "gloxinia_skill_03_atk_02"
+  },
+  {
+    "id": 28950,
+    "path": "hero",
+    "sub_path": "gloxinia",
+    "filename": "gloxinia_common_sfx_01"
+  },
+  {
     "id": 28951,
     "path": "voice",
     "sub_path": "battle/gloxinia",
@@ -29220,6 +29646,60 @@
     "filename": "033_zaneri_dmg_05"
   },
   {
+    "id": 29442,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_common_sfx_01"
+  },
+  {
+    "id": 29443,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_skill_01_rdy_01"
+  },
+  {
+    "id": 29444,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_skill_01_atk_01"
+  },
+  {
+    "id": 29445,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_skill_01_atk_02"
+  },
+  {
+    "id": 29446,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_skill_01_atk_03"
+  },
+  {
+    "id": 29447,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_skill_01_atk_04"
+  },
+  {
+    "id": 29448,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_skill_01_atk_05"
+  },
+  {
+    "id": 29449,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_skill_02_rdy_01"
+  },
+  {
+    "id": 29450,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_skill_02_rdy_02"
+  },
+  {
     "id": 29451,
     "path": "voice",
     "sub_path": "battle/disaster_eastin",
@@ -29446,6 +29926,78 @@
     "path": "voice",
     "sub_path": "battle/disaster_eastin",
     "filename": "040_eastin_dmg_05"
+  },
+  {
+    "id": 29489,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_skill_02_atk_01"
+  },
+  {
+    "id": 29490,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_appear_01"
+  },
+  {
+    "id": 29491,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_appear_drop_01"
+  },
+  {
+    "id": 29492,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_idle_start_sfx_01"
+  },
+  {
+    "id": 29493,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_idle_start_sfx_02"
+  },
+  {
+    "id": 29494,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_idle_start_sfx_03"
+  },
+  {
+    "id": 29495,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_idle_start_02_sfx_01"
+  },
+  {
+    "id": 29496,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_idle_start_02_sfx_02"
+  },
+  {
+    "id": 29497,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_idle_start_02_sfx_03"
+  },
+  {
+    "id": 29498,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_idle_start_02_sfx_04"
+  },
+  {
+    "id": 29499,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_victory_01"
+  },
+  {
+    "id": 29500,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_victory_02"
   },
   {
     "id": 29501,
@@ -29770,6 +30322,1134 @@
     "path": "hero",
     "sub_path": "disaster_mono",
     "filename": "disaster_mono_weapon_06"
+  },
+  {
+    "id": 29555,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_common_sfx_02"
+  },
+  {
+    "id": 29556,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_common_sfx_03"
+  },
+  {
+    "id": 29557,
+    "path": "hero",
+    "sub_path": "disaster_eastin",
+    "filename": "disaster_eastin_common_sfx_04"
+  },
+  {
+    "id": 29571,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_01"
+  },
+  {
+    "id": 29572,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_02"
+  },
+  {
+    "id": 29573,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_03"
+  },
+  {
+    "id": 29574,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_04"
+  },
+  {
+    "id": 29575,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_05"
+  },
+  {
+    "id": 29576,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_06"
+  },
+  {
+    "id": 29577,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_07"
+  },
+  {
+    "id": 29578,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_08"
+  },
+  {
+    "id": 29579,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_09"
+  },
+  {
+    "id": 29580,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_10"
+  },
+  {
+    "id": 29581,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_11"
+  },
+  {
+    "id": 29582,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_12"
+  },
+  {
+    "id": 29583,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_13"
+  },
+  {
+    "id": 29584,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_14"
+  },
+  {
+    "id": 29585,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_vo_15"
+  },
+  {
+    "id": 29586,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_destroy_lobby_action_01_vo_01"
+  },
+  {
+    "id": 29587,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_destroy_lobby_action_01_vo_02"
+  },
+  {
+    "id": 29588,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_destroy_lobby_action_02_vo_01"
+  },
+  {
+    "id": 29589,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_destroy_lobby_idle_01_vo_01"
+  },
+  {
+    "id": 29590,
+    "path": "voice",
+    "sub_path": "battle/chimara",
+    "filename": "chimara_destroy_lobby_idle_01_vo_02"
+  },
+  {
+    "id": 29591,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_destroy_lobby_action_01_sfx_01"
+  },
+  {
+    "id": 29592,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_destroy_lobby_action_02_sfx_01"
+  },
+  {
+    "id": 29593,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_special_end_01"
+  },
+  {
+    "id": 29594,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_01_rdy_01"
+  },
+  {
+    "id": 29595,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_01_atk_01"
+  },
+  {
+    "id": 29596,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_02_rdy_01"
+  },
+  {
+    "id": 29597,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_02_atk_02"
+  },
+  {
+    "id": 29598,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_03_rdy_01"
+  },
+  {
+    "id": 29599,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_03_atk_01"
+  },
+  {
+    "id": 29600,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_04_rdy_01"
+  },
+  {
+    "id": 29601,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_04_atk_01"
+  },
+  {
+    "id": 29602,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_05_rdy_01"
+  },
+  {
+    "id": 29603,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_05_atk_01"
+  },
+  {
+    "id": 29604,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_07_rdy_01"
+  },
+  {
+    "id": 29605,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_07_atk_01"
+  },
+  {
+    "id": 29606,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_13_rdy_01"
+  },
+  {
+    "id": 29607,
+    "path": "monster",
+    "sub_path": "chimara",
+    "filename": "chimara_skill_13_atk_01"
+  },
+  {
+    "id": 29611,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "003_roxy_boss_01"
+  },
+  {
+    "id": 29612,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "004_roxy_boss_02"
+  },
+  {
+    "id": 29613,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "005_roxy_skill_01"
+  },
+  {
+    "id": 29614,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "006_roxy_skill_02"
+  },
+  {
+    "id": 29615,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "007_roxy_skill_03"
+  },
+  {
+    "id": 29616,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "008_roxy_skill_04"
+  },
+  {
+    "id": 29617,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "009_roxy_skill_05"
+  },
+  {
+    "id": 29618,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "010_roxy_skill_06"
+  },
+  {
+    "id": 29619,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "011_roxy_skill_07"
+  },
+  {
+    "id": 29620,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "012_roxy_skill_08"
+  },
+  {
+    "id": 29621,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "013_roxy_skill_09"
+  },
+  {
+    "id": 29622,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "014_roxy_skill_10"
+  },
+  {
+    "id": 29623,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "015_roxy_bt_victory_01"
+  },
+  {
+    "id": 29624,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "016_roxy_bt_victory_02"
+  },
+  {
+    "id": 29625,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "017_roxy_sp_01"
+  },
+  {
+    "id": 29626,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "018_roxy_sp_02"
+  },
+  {
+    "id": 29627,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "019_roxy_sp_03"
+  },
+  {
+    "id": 29628,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "020_roxy_sp_04"
+  },
+  {
+    "id": 29629,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "021_roxy_counter_01"
+  },
+  {
+    "id": 29630,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "022_roxy_counter_02"
+  },
+  {
+    "id": 29631,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "023_roxy_buff_01"
+  },
+  {
+    "id": 29632,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "024_roxy_n_atk_01"
+  },
+  {
+    "id": 29633,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "025_roxy_n_atk_02"
+  },
+  {
+    "id": 29634,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "026_roxy_n_atk_03"
+  },
+  {
+    "id": 29635,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "027_roxy_healing_01"
+  },
+  {
+    "id": 29636,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "028_roxy_atk_01"
+  },
+  {
+    "id": 29637,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "029_roxy_atk_02"
+  },
+  {
+    "id": 29638,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "030_roxy_atk_03"
+  },
+  {
+    "id": 29639,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "031_roxy_atk_04"
+  },
+  {
+    "id": 29640,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "032_roxy_atk_05"
+  },
+  {
+    "id": 29641,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "033_roxy_atk_06"
+  },
+  {
+    "id": 29642,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "034_roxy_atk_07"
+  },
+  {
+    "id": 29643,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "035_roxy_atk_08"
+  },
+  {
+    "id": 29644,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "036_roxy_dmg_01"
+  },
+  {
+    "id": 29645,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "037_roxy_dmg_02"
+  },
+  {
+    "id": 29646,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "038_roxy_dmg_03"
+  },
+  {
+    "id": 29647,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "039_roxy_dmg_04"
+  },
+  {
+    "id": 29648,
+    "path": "voice",
+    "sub_path": "battle/disaster_roxy",
+    "filename": "040_roxy_dmg_05"
+  },
+  {
+    "id": 29649,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_idle_start_sfx_01"
+  },
+  {
+    "id": 29650,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_idle_start_sfx_02"
+  },
+  {
+    "id": 29651,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_idle_start_sfx_03"
+  },
+  {
+    "id": 29652,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_weapon_01"
+  },
+  {
+    "id": 29653,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_weapon_02"
+  },
+  {
+    "id": 29654,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_weapon_03"
+  },
+  {
+    "id": 29655,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_weapon_04"
+  },
+  {
+    "id": 29656,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_weapon_05"
+  },
+  {
+    "id": 29657,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_weapon_06"
+  },
+  {
+    "id": 29658,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_weapon_07"
+  },
+  {
+    "id": 29659,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_victory_sfx_01"
+  },
+  {
+    "id": 29660,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_skill_01_rdy_01"
+  },
+  {
+    "id": 29661,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_skill_01_dash_01"
+  },
+  {
+    "id": 29662,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_skill_01_atk_01"
+  },
+  {
+    "id": 29663,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_skill_02_rdy_01"
+  },
+  {
+    "id": 29664,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_skill_02_rdy_02"
+  },
+  {
+    "id": 29665,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_skill_02_dash_01"
+  },
+  {
+    "id": 29666,
+    "path": "hero",
+    "sub_path": "disaster_roxy",
+    "filename": "disaster_roxy_skill_02_atk_01"
+  },
+  {
+    "id": 29671,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "003_fraudrin_boss_01"
+  },
+  {
+    "id": 29672,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "004_fraudrin_boss_02"
+  },
+  {
+    "id": 29673,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "005_fraudrin_skill_01"
+  },
+  {
+    "id": 29674,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "006_fraudrin_bt_victory_01"
+  },
+  {
+    "id": 29675,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "007_fraudrin_bt_victory_02"
+  },
+  {
+    "id": 29676,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "008_fraudrin_sp_01"
+  },
+  {
+    "id": 29677,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "009_fraudrin_sp_02"
+  },
+  {
+    "id": 29678,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "010_fraudrin_counter_01"
+  },
+  {
+    "id": 29679,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "011_fraudrin_defense_01"
+  },
+  {
+    "id": 29680,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "012_fraudrin_n_atk_01"
+  },
+  {
+    "id": 29681,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "013_fraudrin_n_atk_02"
+  },
+  {
+    "id": 29682,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "014_fraudrin_atk_01"
+  },
+  {
+    "id": 29683,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "015_fraudrin_atk_02"
+  },
+  {
+    "id": 29684,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "016_fraudrin_atk_03"
+  },
+  {
+    "id": 29685,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "017_fraudrin_atk_04"
+  },
+  {
+    "id": 29686,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "018_fraudrin_atk_05"
+  },
+  {
+    "id": 29687,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "019_fraudrin_atk_06"
+  },
+  {
+    "id": 29688,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "020_fraudrin_atk_07"
+  },
+  {
+    "id": 29689,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "021_fraudrin_atk_08"
+  },
+  {
+    "id": 29690,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "022_fraudrin_dmg_01"
+  },
+  {
+    "id": 29691,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "023_fraudrin_dmg_02"
+  },
+  {
+    "id": 29692,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "024_fraudrin_dmg_03"
+  },
+  {
+    "id": 29693,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "025_fraudrin_dmg_04"
+  },
+  {
+    "id": 29694,
+    "path": "voice",
+    "sub_path": "battle/fraudrin",
+    "filename": "026_fraudrin_dmg_05"
+  },
+  {
+    "id": 29701,
+    "path": "voice",
+    "sub_path": "battle/fraudrin_big",
+    "filename": "fraudrin_big_vo_01"
+  },
+  {
+    "id": 29702,
+    "path": "voice",
+    "sub_path": "battle/fraudrin_big",
+    "filename": "fraudrin_big_vo_02"
+  },
+  {
+    "id": 29703,
+    "path": "voice",
+    "sub_path": "battle/fraudrin_big",
+    "filename": "fraudrin_big_vo_03"
+  },
+  {
+    "id": 29704,
+    "path": "voice",
+    "sub_path": "battle/fraudrin_big",
+    "filename": "fraudrin_big_vo_04"
+  },
+  {
+    "id": 29705,
+    "path": "voice",
+    "sub_path": "battle/fraudrin_big",
+    "filename": "fraudrin_big_vo_05"
+  },
+  {
+    "id": 29711,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "003_shin_boss_01"
+  },
+  {
+    "id": 29712,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "004_shin_boss_02"
+  },
+  {
+    "id": 29713,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "005_shin_skill_01"
+  },
+  {
+    "id": 29714,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "006_shin_skill_02"
+  },
+  {
+    "id": 29715,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "007_shin_skill_03"
+  },
+  {
+    "id": 29716,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "008_shin_skill_04"
+  },
+  {
+    "id": 29717,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "009_shin_skill_05"
+  },
+  {
+    "id": 29718,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "010_shin_skill_06"
+  },
+  {
+    "id": 29719,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "011_shin_skill_07"
+  },
+  {
+    "id": 29720,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "012_shin_skill_08"
+  },
+  {
+    "id": 29721,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "013_shin_skill_09"
+  },
+  {
+    "id": 29722,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "014_shin_skill_10"
+  },
+  {
+    "id": 29723,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "015_shin_bt_victory_01"
+  },
+  {
+    "id": 29724,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "016_shin_bt_victory_02"
+  },
+  {
+    "id": 29725,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "017_shin_sp_01"
+  },
+  {
+    "id": 29726,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "018_shin_sp_02"
+  },
+  {
+    "id": 29727,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "019_shin_sp_03"
+  },
+  {
+    "id": 29728,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "020_shin_sp_04"
+  },
+  {
+    "id": 29729,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "021_shin_counter_01"
+  },
+  {
+    "id": 29730,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "022_shin_counter_02"
+  },
+  {
+    "id": 29731,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "023_shin_buff_01"
+  },
+  {
+    "id": 29732,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "024_shin_n_atk_01"
+  },
+  {
+    "id": 29733,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "025_shin_n_atk_02"
+  },
+  {
+    "id": 29734,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "026_shin_n_atk_03"
+  },
+  {
+    "id": 29735,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "027_shin_healing_01"
+  },
+  {
+    "id": 29736,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "028_shin_atk_01"
+  },
+  {
+    "id": 29737,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "029_shin_atk_02"
+  },
+  {
+    "id": 29738,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "030_shin_atk_03"
+  },
+  {
+    "id": 29739,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "031_shin_atk_04"
+  },
+  {
+    "id": 29740,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "032_shin_atk_05"
+  },
+  {
+    "id": 29741,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "033_shin_atk_06"
+  },
+  {
+    "id": 29742,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "034_shin_atk_07"
+  },
+  {
+    "id": 29743,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "035_shin_atk_08"
+  },
+  {
+    "id": 29744,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "036_shin_dmg_01"
+  },
+  {
+    "id": 29745,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "037_shin_dmg_02"
+  },
+  {
+    "id": 29746,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "038_shin_dmg_03"
+  },
+  {
+    "id": 29747,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "039_shin_dmg_04"
+  },
+  {
+    "id": 29748,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "040_shin_dmg_05"
+  },
+  {
+    "id": 29749,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "060_shin_skill_11"
+  },
+  {
+    "id": 29750,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "061_shin_skill_12"
+  },
+  {
+    "id": 29751,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "062_shin_skill_13"
+  },
+  {
+    "id": 29752,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "063_shin_skill_14"
+  },
+  {
+    "id": 29753,
+    "path": "voice",
+    "sub_path": "battle/disaster_shin",
+    "filename": "064_shin_skill_15"
+  },
+  {
+    "id": 29754,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_bot_install_01"
+  },
+  {
+    "id": 29755,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_bot_move_01"
+  },
+  {
+    "id": 29756,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_bot_move_02"
+  },
+  {
+    "id": 29757,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_bot_move_03"
+  },
+  {
+    "id": 29758,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_bot_move_04"
+  },
+  {
+    "id": 29759,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_bot_move_05"
+  },
+  {
+    "id": 29760,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_bot_move_06"
+  },
+  {
+    "id": 29761,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_bot_move_07"
+  },
+  {
+    "id": 29762,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_bot_move_08"
+  },
+  {
+    "id": 29763,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_generator_screen_01"
+  },
+  {
+    "id": 29764,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_generator_touch_01"
+  },
+  {
+    "id": 29765,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_generator_touch_02"
+  },
+  {
+    "id": 29766,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_idle_start_02"
+  },
+  {
+    "id": 29767,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_skill_01_atk_01"
+  },
+  {
+    "id": 29768,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_skill_01_atk_02"
+  },
+  {
+    "id": 29769,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_skill_01_atk_03"
+  },
+  {
+    "id": 29770,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_skill_02_atk_01"
+  },
+  {
+    "id": 29771,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_skill_02_atk_02"
+  },
+  {
+    "id": 29772,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_skill_02_atk_03"
+  },
+  {
+    "id": 29773,
+    "path": "hero",
+    "sub_path": "disaster_shin",
+    "filename": "disaster_shin_skill_02_atk_04"
   },
   {
     "id": 30001,
@@ -30792,6 +32472,48 @@
     "filename": "ui_mail"
   },
   {
+    "id": 39013,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_chaosmainpage_start_01"
+  },
+  {
+    "id": 39014,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_chaosmainpage_ready_01"
+  },
+  {
+    "id": 39015,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_chaosmainpage_end_01"
+  },
+  {
+    "id": 39016,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildmap_destroy"
+  },
+  {
+    "id": 39017,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildmap_point_get_01"
+  },
+  {
+    "id": 39018,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildmap_point_get_02"
+  },
+  {
+    "id": 39019,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildmap_point_get_03"
+  },
+  {
     "id": 39100,
     "path": "ui",
     "sub_path": "common",
@@ -31206,6 +32928,18 @@
     "filename": "ui_event_christmastree_popup"
   },
   {
+    "id": 39219,
+    "path": "ui",
+    "sub_path": "gacha",
+    "filename": "ui_gacha_item_card_grind_01"
+  },
+  {
+    "id": 39220,
+    "path": "ui",
+    "sub_path": "gacha",
+    "filename": "ui_gacha_item_card_grind_02"
+  },
+  {
     "id": 39221,
     "path": "ui",
     "sub_path": "event",
@@ -31576,6 +33310,90 @@
     "path": "ui",
     "sub_path": "event",
     "filename": "ui_event_altar_complete"
+  },
+  {
+    "id": 39283,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildwar_entrance"
+  },
+  {
+    "id": 39284,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildwar_stagelist_hidden"
+  },
+  {
+    "id": 39285,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildwar_clearbonus"
+  },
+  {
+    "id": 39286,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildwar_resultpopup_start_01"
+  },
+  {
+    "id": 39287,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildwar_resultpopup_start_02"
+  },
+  {
+    "id": 39288,
+    "path": "ui",
+    "sub_path": "guild",
+    "filename": "ui_guildwar_resultpopup_start_03"
+  },
+  {
+    "id": 39289,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_bingo_random_popup_start"
+  },
+  {
+    "id": 39290,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_bingo_randomgacha_popup_start"
+  },
+  {
+    "id": 39291,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_bingo_randomgacha_popup_end"
+  },
+  {
+    "id": 39292,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_bingo_randomgacha_start_01"
+  },
+  {
+    "id": 39293,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_bingo_randomgacha_start_02"
+  },
+  {
+    "id": 39294,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_bingo_randomgacha_start_common"
+  },
+  {
+    "id": 39295,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_bingo_randomgacha_reset_01"
+  },
+  {
+    "id": 39296,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_bingo_randomgacha_reset_02"
   },
   {
     "id": 39298,
@@ -32838,6 +34656,18 @@
     "filename": "016_king02_gacha_02"
   },
   {
+    "id": 39756,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "001_helbram_human_gacha_01"
+  },
+  {
+    "id": 39757,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "002_helbram_human_gacha_02"
+  },
+  {
     "id": 39758,
     "path": "voice",
     "sub_path": "gacha",
@@ -33172,6 +35002,54 @@
     "path": "voice",
     "sub_path": "gacha",
     "filename": "002_mono_gacha_02"
+  },
+  {
+    "id": 39834,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "001_dreyfus02_gacha_01"
+  },
+  {
+    "id": 39835,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "002_dreyfus02_gacha_02"
+  },
+  {
+    "id": 39836,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "001_roxy_gacha_01"
+  },
+  {
+    "id": 39837,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "002_roxy_gacha_02"
+  },
+  {
+    "id": 39838,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "001_fraudrin_gacha_01"
+  },
+  {
+    "id": 39839,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "002_fraudrin_gacha_02"
+  },
+  {
+    "id": 39840,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "001_shin_gacha_01"
+  },
+  {
+    "id": 39841,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "002_shin_gacha_02"
   },
   {
     "id": 41001,
@@ -34098,6 +35976,36 @@
     "filename": "escanor_weapon_walk_02"
   },
   {
+    "id": 81453,
+    "path": "playercharacter",
+    "sub_path": "escanor",
+    "filename": "escanor_walk_01"
+  },
+  {
+    "id": 81454,
+    "path": "playercharacter",
+    "sub_path": "escanor",
+    "filename": "escanor_walk_02"
+  },
+  {
+    "id": 81455,
+    "path": "playercharacter",
+    "sub_path": "escanor",
+    "filename": "escanor_walk_03"
+  },
+  {
+    "id": 81456,
+    "path": "playercharacter",
+    "sub_path": "escanor",
+    "filename": "escanor_walk_04"
+  },
+  {
+    "id": 81457,
+    "path": "playercharacter",
+    "sub_path": "escanor",
+    "filename": "escanor_walk_05"
+  },
+  {
     "id": 81501,
     "path": "voice",
     "sub_path": "lobby/gowther",
@@ -34354,6 +36262,12 @@
     "path": "bgm",
     "sub_path": "bgm_area",
     "filename": "bgm_map_12"
+  },
+  {
+    "id": 90103,
+    "path": "bgm",
+    "sub_path": "bgm_area",
+    "filename": "bgm_map_13"
   },
   {
     "id": 90215,
@@ -37428,6 +39342,78 @@
     "filename": "mono_vo"
   },
   {
+    "id": 97007,
+    "path": "cut_scene",
+    "sub_path": "special/special/dreyfus_demon",
+    "filename": "dreyfus_demon_ef"
+  },
+  {
+    "id": 97008,
+    "path": "voice",
+    "sub_path": "special/special/dreyfus_demon",
+    "filename": "dreyfus_demon_vo"
+  },
+  {
+    "id": 97009,
+    "path": "cut_scene",
+    "sub_path": "special/special/zaratras",
+    "filename": "zaratras_special_03_ef"
+  },
+  {
+    "id": 97010,
+    "path": "voice",
+    "sub_path": "special/special/zaratras",
+    "filename": "zaratras_special_03_vo"
+  },
+  {
+    "id": 97011,
+    "path": "cut_scene",
+    "sub_path": "special/special/roxy",
+    "filename": "roxy_ef"
+  },
+  {
+    "id": 97012,
+    "path": "voice",
+    "sub_path": "special/special/roxy",
+    "filename": "roxy_vo"
+  },
+  {
+    "id": 97013,
+    "path": "cut_scene",
+    "sub_path": "special/special/fraudrin",
+    "filename": "fraudrin_ef"
+  },
+  {
+    "id": 97014,
+    "path": "voice",
+    "sub_path": "special/special/fraudrin",
+    "filename": "fraudrin_vo"
+  },
+  {
+    "id": 97015,
+    "path": "cut_scene",
+    "sub_path": "special/special/fraudrin",
+    "filename": "fraudrin_big_ef"
+  },
+  {
+    "id": 97016,
+    "path": "voice",
+    "sub_path": "special/special/fraudrin",
+    "filename": "fraudrin_big_vo"
+  },
+  {
+    "id": 97017,
+    "path": "cut_scene",
+    "sub_path": "special/special/shin",
+    "filename": "shin_ef"
+  },
+  {
+    "id": 97018,
+    "path": "voice",
+    "sub_path": "special/special/shin",
+    "filename": "shin_vo"
+  },
+  {
     "id": 100001,
     "path": "cut_scene",
     "sub_path": "special/boss/red_demon",
@@ -37900,6 +39886,30 @@
     "path": "voice",
     "sub_path": "special/boss/puringpooh",
     "filename": "puringpooh_special_02_vo"
+  },
+  {
+    "id": 100097,
+    "path": "cut_scene",
+    "sub_path": "special/boss/albion",
+    "filename": "albion_spawn_ef"
+  },
+  {
+    "id": 100098,
+    "path": "voice",
+    "sub_path": "special/boss/albion",
+    "filename": "albion_spawn_vo"
+  },
+  {
+    "id": 100099,
+    "path": "cut_scene",
+    "sub_path": "special/boss/albion",
+    "filename": "albion_special_01_ef"
+  },
+  {
+    "id": 100100,
+    "path": "voice",
+    "sub_path": "special/boss/albion",
+    "filename": "albion_special_01_vo"
   },
   {
     "id": 100101,
@@ -38410,6 +40420,12 @@
     "path": "voice",
     "sub_path": "emotion",
     "filename": "emotion_gowther_serious_03"
+  },
+  {
+    "id": 100711,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_gowther_laugh_05"
   },
   {
     "id": 100801,
@@ -39742,6 +41758,66 @@
     "path": "voice",
     "sub_path": "emotion",
     "filename": "emotion_galand_serions_03"
+  },
+  {
+    "id": 102691,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_laugh_01"
+  },
+  {
+    "id": 102692,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_laugh_02"
+  },
+  {
+    "id": 102693,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_laugh_03"
+  },
+  {
+    "id": 102694,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_laugh_04"
+  },
+  {
+    "id": 102695,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_question_01"
+  },
+  {
+    "id": 102696,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_question_02"
+  },
+  {
+    "id": 102697,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_question_03"
+  },
+  {
+    "id": 102698,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_serious_01"
+  },
+  {
+    "id": 102699,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_serious_02"
+  },
+  {
+    "id": 102700,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_roxy_serious_03"
   },
   {
     "id": 102701,
@@ -41574,6 +43650,258 @@
     "filename": "emotion_mono_serious_03"
   },
   {
+    "id": 103337,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_laugh_01"
+  },
+  {
+    "id": 103338,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_laugh_02"
+  },
+  {
+    "id": 103339,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_laugh_03"
+  },
+  {
+    "id": 103340,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_laugh_04"
+  },
+  {
+    "id": 103341,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_question_01"
+  },
+  {
+    "id": 103342,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_question_02"
+  },
+  {
+    "id": 103343,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_question_03"
+  },
+  {
+    "id": 103344,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_serious_01"
+  },
+  {
+    "id": 103345,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_serious_02"
+  },
+  {
+    "id": 103346,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_fraudrin_serious_03"
+  },
+  {
+    "id": 103347,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_laugh_01"
+  },
+  {
+    "id": 103348,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_laugh_02"
+  },
+  {
+    "id": 103349,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_laugh_03"
+  },
+  {
+    "id": 103350,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_laugh_04"
+  },
+  {
+    "id": 103351,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_question_01"
+  },
+  {
+    "id": 103352,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_question_02"
+  },
+  {
+    "id": 103353,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_question_03"
+  },
+  {
+    "id": 103354,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_serious_01"
+  },
+  {
+    "id": 103355,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_serious_02"
+  },
+  {
+    "id": 103356,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_shin_serious_03"
+  },
+  {
+    "id": 150001,
+    "path": "cut_scene",
+    "sub_path": "special/boss/chimara",
+    "filename": "chimara_spawn_ef"
+  },
+  {
+    "id": 150002,
+    "path": "voice",
+    "sub_path": "special/boss/chimara",
+    "filename": "chimara_spawn_vo"
+  },
+  {
+    "id": 150003,
+    "path": "cut_scene",
+    "sub_path": "special/boss/chimara",
+    "filename": "chimara_phaseshift_ef"
+  },
+  {
+    "id": 150004,
+    "path": "voice",
+    "sub_path": "special/boss/chimara",
+    "filename": "chimara_phaseshift_vo"
+  },
+  {
+    "id": 150005,
+    "path": "cut_scene",
+    "sub_path": "special/boss/chimara",
+    "filename": "chimara_special_01_ef"
+  },
+  {
+    "id": 150006,
+    "path": "voice",
+    "sub_path": "special/boss/chimara",
+    "filename": "chimara_special_01_vo"
+  },
+  {
+    "id": 150007,
+    "path": "cut_scene",
+    "sub_path": "special/boss/chimara",
+    "filename": "chimara_special_02_ef"
+  },
+  {
+    "id": 150008,
+    "path": "voice",
+    "sub_path": "special/boss/chimara",
+    "filename": "chimara_special_02_vo"
+  },
+  {
+    "id": 150009,
+    "path": "cut_scene",
+    "sub_path": "special/boss/liliahawaken_destroy",
+    "filename": "liliahawaken_destroy_spawn_ef"
+  },
+  {
+    "id": 150010,
+    "path": "voice",
+    "sub_path": "special/boss/liliahawaken_destroy",
+    "filename": "liliahawaken_destroy_spawn_vo"
+  },
+  {
+    "id": 150011,
+    "path": "cut_scene",
+    "sub_path": "special/boss/liliahawaken_destroy",
+    "filename": "liliahawaken_destroy_phaseshift_ef"
+  },
+  {
+    "id": 150012,
+    "path": "voice",
+    "sub_path": "special/boss/liliahawaken_destroy",
+    "filename": "liliahawaken_destroy_phaseshift_vo"
+  },
+  {
+    "id": 150013,
+    "path": "cut_scene",
+    "sub_path": "special/boss/liliahawaken_destroy",
+    "filename": "liliahawaken_destroy_special_01_ef"
+  },
+  {
+    "id": 150014,
+    "path": "voice",
+    "sub_path": "special/boss/liliahawaken_destroy",
+    "filename": "liliahawaken_destroy_special_01_vo"
+  },
+  {
+    "id": 150015,
+    "path": "cut_scene",
+    "sub_path": "special/boss/big_hawk",
+    "filename": "big_hawk_spawn_ef"
+  },
+  {
+    "id": 150016,
+    "path": "voice",
+    "sub_path": "special/boss/big_hawk",
+    "filename": "big_hawk_spawn_vo"
+  },
+  {
+    "id": 150017,
+    "path": "cut_scene",
+    "sub_path": "special/boss/big_hawk",
+    "filename": "big_hawk_phaseshift_ef"
+  },
+  {
+    "id": 150018,
+    "path": "voice",
+    "sub_path": "special/boss/big_hawk",
+    "filename": "big_hawk_phaseshift_vo"
+  },
+  {
+    "id": 150019,
+    "path": "cut_scene",
+    "sub_path": "special/boss/big_hawk",
+    "filename": "big_hawk_special_01_ef"
+  },
+  {
+    "id": 150020,
+    "path": "voice",
+    "sub_path": "special/boss/big_hawk",
+    "filename": "big_hawk_special_01_vo"
+  },
+  {
+    "id": 150021,
+    "path": "cut_scene",
+    "sub_path": "special/boss/big_hawk",
+    "filename": "big_hawk_special_02_ef"
+  },
+  {
+    "id": 150022,
+    "path": "voice",
+    "sub_path": "special/boss/big_hawk",
+    "filename": "big_hawk_special_02_vo"
+  },
+  {
     "id": 201011,
     "path": "voice",
     "sub_path": "reward",
@@ -41590,6 +43918,24 @@
     "path": "voice",
     "sub_path": "reward",
     "filename": "reward_voice_1004001_04"
+  },
+  {
+    "id": 201014,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1004002_01"
+  },
+  {
+    "id": 201015,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1004002_02"
+  },
+  {
+    "id": 201016,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1004002_03"
   },
   {
     "id": 201041,
@@ -42948,6 +45294,42 @@
     "filename": "reward_voice_1364002_05"
   },
   {
+    "id": 237024,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1364003_01"
+  },
+  {
+    "id": 237025,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1364003_02"
+  },
+  {
+    "id": 237026,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1364003_03"
+  },
+  {
+    "id": 237027,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1364004_01"
+  },
+  {
+    "id": 237028,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1364004_02"
+  },
+  {
+    "id": 237029,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1364004_03"
+  },
+  {
     "id": 238011,
     "path": "voice",
     "sub_path": "reward",
@@ -43696,5 +46078,203 @@
     "path": "voice",
     "sub_path": "reward",
     "filename": "reward_voice_1409004_06"
+  },
+  {
+    "id": 238136,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1405003_01"
+  },
+  {
+    "id": 238137,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1405003_02"
+  },
+  {
+    "id": 238138,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1405003_03"
+  },
+  {
+    "id": 238139,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455004_01"
+  },
+  {
+    "id": 238140,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455004_02"
+  },
+  {
+    "id": 238141,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455004_03"
+  },
+  {
+    "id": 238142,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1409003_04"
+  },
+  {
+    "id": 238143,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1409003_05"
+  },
+  {
+    "id": 238144,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1409003_06"
+  },
+  {
+    "id": 238145,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455005_01"
+  },
+  {
+    "id": 238146,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455005_02"
+  },
+  {
+    "id": 238147,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455005_03"
+  },
+  {
+    "id": 238148,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455005_04"
+  },
+  {
+    "id": 238149,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455005_05"
+  },
+  {
+    "id": 238150,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455005_06"
+  },
+  {
+    "id": 238151,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455005_07"
+  },
+  {
+    "id": 238152,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455005_08"
+  },
+  {
+    "id": 238153,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455005_09"
+  },
+  {
+    "id": 238154,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455006_01"
+  },
+  {
+    "id": 238155,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455006_02"
+  },
+  {
+    "id": 238156,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455006_03"
+  },
+  {
+    "id": 238157,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455007_01"
+  },
+  {
+    "id": 238158,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455007_02"
+  },
+  {
+    "id": 238159,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455007_03"
+  },
+  {
+    "id": 238160,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455007_04"
+  },
+  {
+    "id": 238161,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455007_05"
+  },
+  {
+    "id": 238162,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455007_06"
+  },
+  {
+    "id": 238163,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455007_07"
+  },
+  {
+    "id": 238164,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455007_08"
+  },
+  {
+    "id": 238165,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455007_09"
+  },
+  {
+    "id": 238166,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455008_01"
+  },
+  {
+    "id": 238167,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455008_02"
+  },
+  {
+    "id": 238168,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455008_03"
   }
 ]

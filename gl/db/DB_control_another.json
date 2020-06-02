@@ -2,16 +2,16 @@
   {
     "id": 111000,
     "need_story_quest_id": 22065,
-    "quest_alarm_name": "DB_another_quest_alarm_name_1_1",
-    "quest_alarm_desc": "DB_another_quest_alarm_desc_1_1",
+    "quest_alarm_name": "10111",
+    "quest_alarm_desc": "10109",
     "large_popup_name": "m_banner_another_open_cinema_sky_01",
     "direct_selector_id": 0
   },
   {
     "id": 111013,
     "need_story_quest_id": 0,
-    "quest_alarm_name": "DB_another_quest_alarm_name_1_2",
-    "quest_alarm_desc": "DB_another_quest_alarm_desc_1_2",
+    "quest_alarm_name": "10112",
+    "quest_alarm_desc": "10110",
     "large_popup_name": "m_banner_another_open_cinema_sky_01",
     "direct_selector_id": 0
   }

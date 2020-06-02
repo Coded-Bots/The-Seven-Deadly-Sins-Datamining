@@ -45,7 +45,7 @@
     "reward_condition_item": 910700,
     "reward_condition_count": 120,
     "reward_item_id": 543101,
-    "reward_item_count": 10
+    "reward_item_count": 20
   },
   {
     "id": 7,
@@ -61,15 +61,15 @@
     "reward_condition_item": 910700,
     "reward_condition_count": 160,
     "reward_item_id": 543102,
-    "reward_item_count": 10
+    "reward_item_count": 20
   },
   {
     "id": 9,
     "event_sub_index": 9001,
     "reward_condition_item": 910700,
     "reward_condition_count": 180,
-    "reward_item_id": 541406,
-    "reward_item_count": 3
+    "reward_item_id": 520001,
+    "reward_item_count": 5
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "reward_condition_item": 910700,
     "reward_condition_count": 200,
     "reward_item_id": 543103,
-    "reward_item_count": 10
+    "reward_item_count": 20
   },
   {
     "id": 11,

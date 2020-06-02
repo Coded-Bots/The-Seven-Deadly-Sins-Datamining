@@ -1,84 +1,97 @@
 [
   {
     "id": 1,
-    "league_type": 2,
+    "league_type": 3,
     "rank_type": 7,
     "rank_num": 1,
     "rank_min": 1,
     "rank_max": 1,
     "reward_id_1": 500018,
-    "reward_count_1": 6000,
-    "reward_id_2": 500012,
-    "reward_count_2": 2200000,
-    "reward_season_point": 0
-  },
-  {
-    "id": 2,
-    "league_type": 2,
-    "rank_type": 7,
-    "rank_num": 1,
-    "rank_min": 2,
-    "rank_max": 5,
-    "reward_id_1": 500018,
-    "reward_count_1": 5500,
-    "reward_id_2": 500012,
-    "reward_count_2": 2000000,
-    "reward_season_point": 0
-  },
-  {
-    "id": 3,
-    "league_type": 2,
-    "rank_type": 7,
-    "rank_num": 1,
-    "rank_min": 6,
-    "rank_max": 10,
-    "reward_id_1": 500018,
-    "reward_count_1": 5000,
-    "reward_id_2": 500012,
-    "reward_count_2": 1800000,
-    "reward_season_point": 0
-  },
-  {
-    "id": 4,
-    "league_type": 2,
-    "rank_type": 7,
-    "rank_num": 1,
-    "rank_min": 11,
-    "rank_max": 30,
-    "reward_id_1": 500018,
-    "reward_count_1": 4500,
-    "reward_id_2": 500012,
-    "reward_count_2": 1600000,
-    "reward_season_point": 0
-  },
-  {
-    "id": 5,
-    "league_type": 2,
-    "rank_type": 7,
-    "rank_num": 1,
-    "rank_min": 31,
-    "rank_max": 50,
-    "reward_id_1": 500018,
-    "reward_count_1": 4000,
-    "reward_id_2": 500012,
-    "reward_count_2": 1400000,
-    "reward_season_point": 0
-  },
-  {
-    "id": 6,
-    "league_type": 2,
-    "rank_type": 7,
-    "rank_num": 1,
-    "rank_min": 51,
-    "rank_max": 100,
-    "reward_id_1": 500018,
-    "reward_count_1": 3500,
+    "reward_count_1": 3000,
     "reward_id_2": 500012,
     "reward_count_2": 1200000,
     "reward_season_point": 0
   },
   {
+    "id": 2,
+    "league_type": 3,
+    "rank_type": 7,
+    "rank_num": 1,
+    "rank_min": 2,
+    "rank_max": 5,
+    "reward_id_1": 500018,
+    "reward_count_1": 2500,
+    "reward_id_2": 500012,
+    "reward_count_2": 1000000,
+    "reward_season_point": 0
+  },
+  {
+    "id": 3,
+    "league_type": 3,
+    "rank_type": 7,
+    "rank_num": 1,
+    "rank_min": 6,
+    "rank_max": 10,
+    "reward_id_1": 500018,
+    "reward_count_1": 2000,
+    "reward_id_2": 500012,
+    "reward_count_2": 800000,
+    "reward_season_point": 0
+  },
+  {
+    "id": 4,
+    "league_type": 3,
+    "rank_type": 7,
+    "rank_num": 1,
+    "rank_min": 11,
+    "rank_max": 30,
+    "reward_id_1": 500018,
+    "reward_count_1": 1500,
+    "reward_id_2": 500012,
+    "reward_count_2": 600000,
+    "reward_season_point": 0
+  },
+  {
+    "id": 5,
+    "league_type": 3,
+    "rank_type": 7,
+    "rank_num": 1,
+    "rank_min": 31,
+    "rank_max": 50,
+    "reward_id_1": 500018,
+    "reward_count_1": 1000,
+    "reward_id_2": 500012,
+    "reward_count_2": 400000,
+    "reward_season_point": 0
+  },
+  {
+    "id": 6,
+    "league_type": 3,
+    "rank_type": 7,
+    "rank_num": 1,
+    "rank_min": 51,
+    "rank_max": 100,
+    "reward_id_1": 500018,
+    "reward_count_1": 500,
+    "reward_id_2": 500012,
+    "reward_count_2": 200000,
+    "reward_season_point": 0
+  },
+  {
     "id": 7,
+    "league_type": 3,
+    "rank_type": 7,
+    "rank_num": 1,
+    "rank_min": 0,
+    "rank_max": 0,
+    "reward_id_1": 500018,
+    "reward_count_1": 100,
+    "reward_id_2": 500012,
+    "reward_count_2": 100000,
+    "reward_season_point": 0
+  },
+  {
+    "id": 8,
     "league_type": 2,
     "rank_type": 7,
     "rank_num": 1,
@@ -91,7 +104,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 8,
+    "id": 9,
     "league_type": 2,
     "rank_type": 6,
     "rank_num": 1,
@@ -104,7 +117,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 9,
+    "id": 10,
     "league_type": 2,
     "rank_type": 6,
     "rank_num": 2,
@@ -117,7 +130,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 10,
+    "id": 11,
     "league_type": 2,
     "rank_type": 6,
     "rank_num": 3,
@@ -130,7 +143,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 11,
+    "id": 12,
     "league_type": 2,
     "rank_type": 6,
     "rank_num": 4,
@@ -143,7 +156,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 12,
+    "id": 13,
     "league_type": 2,
     "rank_type": 6,
     "rank_num": 5,
@@ -156,7 +169,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 13,
+    "id": 14,
     "league_type": 2,
     "rank_type": 5,
     "rank_num": 1,
@@ -169,7 +182,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 14,
+    "id": 15,
     "league_type": 2,
     "rank_type": 5,
     "rank_num": 2,
@@ -182,7 +195,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 15,
+    "id": 16,
     "league_type": 2,
     "rank_type": 5,
     "rank_num": 3,
@@ -195,7 +208,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 16,
+    "id": 17,
     "league_type": 2,
     "rank_type": 5,
     "rank_num": 4,
@@ -208,7 +221,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 17,
+    "id": 18,
     "league_type": 2,
     "rank_type": 5,
     "rank_num": 5,
@@ -221,7 +234,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 18,
+    "id": 19,
     "league_type": 2,
     "rank_type": 4,
     "rank_num": 1,
@@ -234,7 +247,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 19,
+    "id": 20,
     "league_type": 2,
     "rank_type": 4,
     "rank_num": 2,
@@ -247,7 +260,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 20,
+    "id": 21,
     "league_type": 2,
     "rank_type": 4,
     "rank_num": 3,
@@ -260,7 +273,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 21,
+    "id": 22,
     "league_type": 2,
     "rank_type": 4,
     "rank_num": 4,
@@ -273,7 +286,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 22,
+    "id": 23,
     "league_type": 2,
     "rank_type": 4,
     "rank_num": 5,
@@ -286,7 +299,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 23,
+    "id": 24,
     "league_type": 2,
     "rank_type": 3,
     "rank_num": 1,
@@ -299,7 +312,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 24,
+    "id": 25,
     "league_type": 2,
     "rank_type": 3,
     "rank_num": 2,
@@ -312,7 +325,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 25,
+    "id": 26,
     "league_type": 2,
     "rank_type": 3,
     "rank_num": 3,
@@ -325,7 +338,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 26,
+    "id": 27,
     "league_type": 2,
     "rank_type": 3,
     "rank_num": 4,
@@ -338,7 +351,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 27,
+    "id": 28,
     "league_type": 2,
     "rank_type": 3,
     "rank_num": 5,
@@ -351,7 +364,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 28,
+    "id": 29,
     "league_type": 1,
     "rank_type": 6,
     "rank_num": 1,
@@ -364,7 +377,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 29,
+    "id": 30,
     "league_type": 1,
     "rank_type": 6,
     "rank_num": 2,
@@ -377,7 +390,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 30,
+    "id": 31,
     "league_type": 1,
     "rank_type": 6,
     "rank_num": 3,
@@ -390,7 +403,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 31,
+    "id": 32,
     "league_type": 1,
     "rank_type": 6,
     "rank_num": 4,
@@ -403,7 +416,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 32,
+    "id": 33,
     "league_type": 1,
     "rank_type": 6,
     "rank_num": 5,
@@ -416,7 +429,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 33,
+    "id": 34,
     "league_type": 1,
     "rank_type": 5,
     "rank_num": 1,
@@ -429,7 +442,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 34,
+    "id": 35,
     "league_type": 1,
     "rank_type": 5,
     "rank_num": 2,
@@ -442,7 +455,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 35,
+    "id": 36,
     "league_type": 1,
     "rank_type": 5,
     "rank_num": 3,
@@ -455,7 +468,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 36,
+    "id": 37,
     "league_type": 1,
     "rank_type": 5,
     "rank_num": 4,
@@ -468,7 +481,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 37,
+    "id": 38,
     "league_type": 1,
     "rank_type": 5,
     "rank_num": 5,
@@ -481,7 +494,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 38,
+    "id": 39,
     "league_type": 1,
     "rank_type": 4,
     "rank_num": 1,
@@ -494,7 +507,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 39,
+    "id": 40,
     "league_type": 1,
     "rank_type": 4,
     "rank_num": 2,
@@ -507,7 +520,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 40,
+    "id": 41,
     "league_type": 1,
     "rank_type": 4,
     "rank_num": 3,
@@ -520,7 +533,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 41,
+    "id": 42,
     "league_type": 1,
     "rank_type": 4,
     "rank_num": 4,
@@ -533,7 +546,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 42,
+    "id": 43,
     "league_type": 1,
     "rank_type": 4,
     "rank_num": 5,
@@ -546,7 +559,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 43,
+    "id": 44,
     "league_type": 1,
     "rank_type": 3,
     "rank_num": 1,
@@ -559,7 +572,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 44,
+    "id": 45,
     "league_type": 1,
     "rank_type": 3,
     "rank_num": 2,
@@ -572,7 +585,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 45,
+    "id": 46,
     "league_type": 1,
     "rank_type": 3,
     "rank_num": 3,
@@ -585,7 +598,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 46,
+    "id": 47,
     "league_type": 1,
     "rank_type": 3,
     "rank_num": 4,
@@ -598,7 +611,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 47,
+    "id": 48,
     "league_type": 1,
     "rank_type": 3,
     "rank_num": 5,
@@ -611,7 +624,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 48,
+    "id": 49,
     "league_type": 1,
     "rank_type": 2,
     "rank_num": 1,
@@ -624,7 +637,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 49,
+    "id": 50,
     "league_type": 1,
     "rank_type": 2,
     "rank_num": 2,
@@ -637,7 +650,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 50,
+    "id": 51,
     "league_type": 1,
     "rank_type": 2,
     "rank_num": 3,
@@ -650,7 +663,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 51,
+    "id": 52,
     "league_type": 1,
     "rank_type": 2,
     "rank_num": 4,
@@ -663,7 +676,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 52,
+    "id": 53,
     "league_type": 1,
     "rank_type": 2,
     "rank_num": 5,
@@ -676,7 +689,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 53,
+    "id": 54,
     "league_type": 1,
     "rank_type": 1,
     "rank_num": 1,
@@ -689,7 +702,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 54,
+    "id": 55,
     "league_type": 1,
     "rank_type": 1,
     "rank_num": 2,
@@ -702,7 +715,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 55,
+    "id": 56,
     "league_type": 1,
     "rank_type": 1,
     "rank_num": 3,
@@ -715,7 +728,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 56,
+    "id": 57,
     "league_type": 1,
     "rank_type": 1,
     "rank_num": 4,
@@ -728,7 +741,7 @@
     "reward_season_point": 0
   },
   {
-    "id": 57,
+    "id": 58,
     "league_type": 1,
     "rank_type": 1,
     "rank_num": 5,

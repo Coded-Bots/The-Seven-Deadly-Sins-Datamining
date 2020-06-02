@@ -3,31 +3,31 @@
     "id": 1,
     "type": 1,
     "ani_clip": "story_agree",
-    "ani_clip_name": "DB_hero_profile_ani_agree_01"
+    "ani_clip_name": "17876"
   },
   {
     "id": 2,
     "type": 1,
     "ani_clip": "story_deny",
-    "ani_clip_name": "DB_hero_profile_ani_deny_01"
+    "ani_clip_name": "17878"
   },
   {
     "id": 3,
     "type": 1,
     "ani_clip": "story_sad",
-    "ani_clip_name": "DB_hero_profile_ani_sad_01"
+    "ani_clip_name": "17880"
   },
   {
     "id": 4,
     "type": 1,
     "ani_clip": "story_angry",
-    "ani_clip_name": "DB_hero_profile_ani_angry_01"
+    "ani_clip_name": "17877"
   },
   {
     "id": 5,
     "type": 1,
     "ani_clip": "story_embarrassed",
-    "ani_clip_name": "DB_hero_profile_ani_embarrassed_01"
+    "ani_clip_name": "17879"
   },
   {
     "id": 1000,

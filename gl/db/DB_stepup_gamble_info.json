@@ -28,11 +28,20 @@
   },
   {
     "group_id": 4,
-    "stepup_background": 5016,
+    "stepup_background": 5017,
     "stepup_BG_name": "banner_bg_stepup_0004",
     "stepup_m_banner_name": "banner_m_stepup_0004",
     "stepup_reset": 1,
     "mileage_group": 4,
+    "mileage_reset": 0
+  },
+  {
+    "group_id": 5,
+    "stepup_background": 5016,
+    "stepup_BG_name": "banner_bg_stepup_0005",
+    "stepup_m_banner_name": "banner_m_stepup_0005",
+    "stepup_reset": 1,
+    "mileage_group": 5,
     "mileage_reset": 0
   }
 ]
