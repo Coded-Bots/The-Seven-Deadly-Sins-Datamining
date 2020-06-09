@@ -6,11 +6,14 @@
     "auto_replay": 0,
     "auto_control": 0,
     "restart_control": 0,
-    "continue_control": 0,
+    "continue_control": 1,
     "change_monster_ai": 1,
     "continue_number_limited": 0,
-    "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_id": 500011,
+    "continue_cost_count": 3,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 2,
@@ -19,11 +22,14 @@
     "auto_replay": 0,
     "auto_control": 0,
     "restart_control": 0,
-    "continue_control": 0,
+    "continue_control": 1,
     "change_monster_ai": 0,
     "continue_number_limited": 0,
-    "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_id": 500011,
+    "continue_cost_count": 3,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 3,
@@ -36,7 +42,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 3,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 4,
@@ -49,7 +58,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 5,
@@ -62,7 +74,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 6,
@@ -71,11 +86,14 @@
     "auto_replay": 0,
     "auto_control": 0,
     "restart_control": 0,
-    "continue_control": 0,
+    "continue_control": 1,
     "change_monster_ai": 0,
     "continue_number_limited": 0,
-    "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_id": 500011,
+    "continue_cost_count": 3,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 7,
@@ -88,7 +106,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 1,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 8,
@@ -97,11 +118,14 @@
     "auto_replay": 0,
     "auto_control": 0,
     "restart_control": 0,
-    "continue_control": 0,
+    "continue_control": 1,
     "change_monster_ai": 1,
     "continue_number_limited": 0,
-    "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_id": 500011,
+    "continue_cost_count": 3,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 9,
@@ -114,7 +138,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 10,
@@ -123,11 +150,14 @@
     "auto_replay": 0,
     "auto_control": 0,
     "restart_control": 0,
-    "continue_control": 0,
+    "continue_control": 1,
     "change_monster_ai": 1,
     "continue_number_limited": 0,
-    "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_id": 500011,
+    "continue_cost_count": 3,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 11,
@@ -140,7 +170,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 12,
@@ -153,7 +186,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 13,
@@ -166,7 +202,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 1,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 14,
@@ -179,7 +218,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 1,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 15,
@@ -192,7 +234,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 1,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 16,
@@ -205,7 +250,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 1,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 17,
@@ -218,7 +266,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 1,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 18,
@@ -231,7 +282,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 19,
@@ -244,7 +298,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 20,
@@ -257,7 +314,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 21,
@@ -270,7 +330,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 3,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 22,
@@ -283,7 +346,10 @@
     "change_monster_ai": 1,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 3,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 23,
@@ -296,7 +362,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 3,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 24,
@@ -309,7 +378,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 25,
@@ -322,7 +394,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 26,
@@ -335,7 +410,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 27,
@@ -348,7 +426,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 28,
@@ -361,7 +442,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 29,
@@ -374,7 +458,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 30,
@@ -387,7 +474,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 31,
@@ -400,7 +490,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 32,
@@ -413,7 +506,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 33,
@@ -426,7 +522,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 34,
@@ -439,7 +538,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 35,
@@ -452,7 +554,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 36,
@@ -465,7 +570,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 500011,
-    "continue_cost_count": 1
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 37,
@@ -478,7 +586,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 38,
@@ -491,7 +602,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 39,
@@ -504,7 +618,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 0
   },
   {
     "id": 40,
@@ -517,7 +634,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 41,
@@ -530,7 +650,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 42,
@@ -543,7 +666,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 0
   },
   {
     "id": 43,
@@ -556,7 +682,10 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   },
   {
     "id": 44,
@@ -569,6 +698,41 @@
     "change_monster_ai": 0,
     "continue_number_limited": 0,
     "continue_cost_id": 0,
-    "continue_cost_count": 0
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 0
+  },
+  {
+    "id": 45,
+    "control_type": "disaster_boss",
+    "friend_control": 1,
+    "auto_replay": 1,
+    "auto_control": 1,
+    "restart_control": 1,
+    "continue_control": 1,
+    "change_monster_ai": 0,
+    "continue_number_limited": 0,
+    "continue_cost_id": 500011,
+    "continue_cost_count": 1,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
+  },
+  {
+    "id": 46,
+    "control_type": "disaster_destroy",
+    "friend_control": 0,
+    "auto_replay": 0,
+    "auto_control": 1,
+    "restart_control": 0,
+    "continue_control": 0,
+    "change_monster_ai": 0,
+    "continue_number_limited": 0,
+    "continue_cost_id": 0,
+    "continue_cost_count": 0,
+    "clear_ticket": 0,
+    "clear_ticket_limit": 0,
+    "rejoin_control": 1
   }
 ]

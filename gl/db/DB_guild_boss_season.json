@@ -1,11 +1,26 @@
 [
   {
     "id": 2,
+    "season_id": 2,
     "season_group": 2,
+    "season_start": "2020-03-08 00:30:00",
     "event_large_popup_name": "",
-    "season_title": "DB_guild_boss_season_title_01",
-    "season_subtitle": "DB_guild_boss_season_title_02",
-    "mission_title": "UI_guild_boss_mission_title_01",
+    "event_large_popup_end": "",
+    "season_title": "24208",
+    "season_subtitle": "24209",
+    "mission_title": "1678",
+    "help_window": 1
+  },
+  {
+    "id": 3,
+    "season_id": 3,
+    "season_group": 2,
+    "season_start": "2020-06-07 00:30:00",
+    "event_large_popup_name": "",
+    "event_large_popup_end": "",
+    "season_title": "24208",
+    "season_subtitle": "24209",
+    "mission_title": "1678",
     "help_window": 1
   }
 ]

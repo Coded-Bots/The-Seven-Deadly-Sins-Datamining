@@ -4,335 +4,2915 @@
     "select_group": 1,
     "select_type_1": 1,
     "select_type_2": 0,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 2,
     "select_group": 1,
     "select_type_1": 2,
     "select_type_2": 0,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 3,
     "select_group": 1,
     "select_type_1": 3,
     "select_type_2": 0,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 4,
     "select_group": 1,
     "select_type_1": 4,
     "select_type_2": 0,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 5,
     "select_group": 1,
     "select_type_1": 5,
     "select_type_2": 0,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 6,
     "select_group": 1,
     "select_type_1": 6,
     "select_type_2": 0,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 7,
     "select_group": 1,
     "select_type_1": 0,
     "select_type_2": 1,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 8,
     "select_group": 1,
     "select_type_1": 0,
     "select_type_2": 2,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 9,
     "select_group": 1,
     "select_type_1": 0,
     "select_type_2": 3,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 10,
     "select_group": 1,
     "select_type_1": 0,
     "select_type_2": 6,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 11,
     "select_group": 1,
     "select_type_1": 0,
     "select_type_2": 7,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 13,
     "select_group": 1,
     "select_type_1": 0,
     "select_type_2": 10,
-    "item_id": 0
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 16,
     "select_group": 1,
     "select_type_1": 1,
     "select_type_2": 1,
-    "item_id": 801105
+    "item_id": 801105,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 17,
     "select_group": 1,
     "select_type_1": 1,
     "select_type_2": 2,
-    "item_id": 802105
+    "item_id": 802105,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 18,
     "select_group": 1,
     "select_type_1": 1,
     "select_type_2": 3,
-    "item_id": 803105
+    "item_id": 803105,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 19,
     "select_group": 1,
     "select_type_1": 1,
     "select_type_2": 6,
-    "item_id": 806105
+    "item_id": 806105,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 20,
     "select_group": 1,
     "select_type_1": 1,
     "select_type_2": 7,
-    "item_id": 807105
+    "item_id": 807105,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 22,
     "select_group": 1,
     "select_type_1": 1,
     "select_type_2": 10,
-    "item_id": 810105
+    "item_id": 810105,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 25,
     "select_group": 1,
     "select_type_1": 2,
     "select_type_2": 1,
-    "item_id": 801205
+    "item_id": 801205,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 26,
     "select_group": 1,
     "select_type_1": 2,
     "select_type_2": 2,
-    "item_id": 802205
+    "item_id": 802205,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 27,
     "select_group": 1,
     "select_type_1": 2,
     "select_type_2": 3,
-    "item_id": 803205
+    "item_id": 803205,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 28,
     "select_group": 1,
     "select_type_1": 2,
     "select_type_2": 6,
-    "item_id": 806205
+    "item_id": 806205,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 29,
     "select_group": 1,
     "select_type_1": 2,
     "select_type_2": 7,
-    "item_id": 807205
+    "item_id": 807205,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 31,
     "select_group": 1,
     "select_type_1": 2,
     "select_type_2": 10,
-    "item_id": 810205
+    "item_id": 810205,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 34,
     "select_group": 1,
     "select_type_1": 3,
     "select_type_2": 1,
-    "item_id": 801305
+    "item_id": 801305,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 35,
     "select_group": 1,
     "select_type_1": 3,
     "select_type_2": 2,
-    "item_id": 802305
+    "item_id": 802305,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 36,
     "select_group": 1,
     "select_type_1": 3,
     "select_type_2": 3,
-    "item_id": 803305
+    "item_id": 803305,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 37,
     "select_group": 1,
     "select_type_1": 3,
     "select_type_2": 6,
-    "item_id": 806305
+    "item_id": 806305,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 38,
     "select_group": 1,
     "select_type_1": 3,
     "select_type_2": 7,
-    "item_id": 807305
+    "item_id": 807305,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 40,
     "select_group": 1,
     "select_type_1": 3,
     "select_type_2": 10,
-    "item_id": 810305
+    "item_id": 810305,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 43,
     "select_group": 1,
     "select_type_1": 4,
     "select_type_2": 1,
-    "item_id": 801405
+    "item_id": 801405,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 44,
     "select_group": 1,
     "select_type_1": 4,
     "select_type_2": 2,
-    "item_id": 802405
+    "item_id": 802405,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 45,
     "select_group": 1,
     "select_type_1": 4,
     "select_type_2": 3,
-    "item_id": 803405
+    "item_id": 803405,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 46,
     "select_group": 1,
     "select_type_1": 4,
     "select_type_2": 6,
-    "item_id": 806405
+    "item_id": 806405,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 47,
     "select_group": 1,
     "select_type_1": 4,
     "select_type_2": 7,
-    "item_id": 807405
+    "item_id": 807405,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 49,
     "select_group": 1,
     "select_type_1": 4,
     "select_type_2": 10,
-    "item_id": 810405
+    "item_id": 810405,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 52,
     "select_group": 1,
     "select_type_1": 5,
     "select_type_2": 1,
-    "item_id": 801505
+    "item_id": 801505,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 53,
     "select_group": 1,
     "select_type_1": 5,
     "select_type_2": 2,
-    "item_id": 802505
+    "item_id": 802505,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 54,
     "select_group": 1,
     "select_type_1": 5,
     "select_type_2": 3,
-    "item_id": 803505
+    "item_id": 803505,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 55,
     "select_group": 1,
     "select_type_1": 5,
     "select_type_2": 6,
-    "item_id": 806505
+    "item_id": 806505,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 56,
     "select_group": 1,
     "select_type_1": 5,
     "select_type_2": 7,
-    "item_id": 807505
+    "item_id": 807505,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 58,
     "select_group": 1,
     "select_type_1": 5,
     "select_type_2": 10,
-    "item_id": 810505
+    "item_id": 810505,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 61,
     "select_group": 1,
     "select_type_1": 6,
     "select_type_2": 1,
-    "item_id": 801605
+    "item_id": 801605,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 62,
     "select_group": 1,
     "select_type_1": 6,
     "select_type_2": 2,
-    "item_id": 802605
+    "item_id": 802605,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 63,
     "select_group": 1,
     "select_type_1": 6,
     "select_type_2": 3,
-    "item_id": 803605
+    "item_id": 803605,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 64,
     "select_group": 1,
     "select_type_1": 6,
     "select_type_2": 6,
-    "item_id": 806605
+    "item_id": 806605,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 65,
     "select_group": 1,
     "select_type_1": 6,
     "select_type_2": 7,
-    "item_id": 807605
+    "item_id": 807605,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
   },
   {
     "id": 67,
     "select_group": 1,
     "select_type_1": 6,
     "select_type_2": 10,
-    "item_id": 810605
+    "item_id": 810605,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 70,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 71,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 72,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 73,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 74,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 75,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 76,
+    "select_group": 2,
+    "select_type_1": 0,
+    "select_type_2": 1,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 77,
+    "select_group": 2,
+    "select_type_1": 0,
+    "select_type_2": 2,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 78,
+    "select_group": 2,
+    "select_type_1": 0,
+    "select_type_2": 3,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 79,
+    "select_group": 2,
+    "select_type_1": 0,
+    "select_type_2": 6,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 80,
+    "select_group": 2,
+    "select_type_1": 0,
+    "select_type_2": 7,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 81,
+    "select_group": 2,
+    "select_type_1": 0,
+    "select_type_2": 8,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 82,
+    "select_group": 2,
+    "select_type_1": 0,
+    "select_type_2": 10,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 83,
+    "select_group": 2,
+    "select_type_1": 0,
+    "select_type_2": 11,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 84,
+    "select_group": 2,
+    "select_type_1": 0,
+    "select_type_2": 12,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 85,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 1,
+    "item_id": 801105,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 86,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 2,
+    "item_id": 802105,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 87,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 3,
+    "item_id": 803105,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 88,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 6,
+    "item_id": 806105,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 89,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 7,
+    "item_id": 807105,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 90,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 8,
+    "item_id": 808105,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 91,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 10,
+    "item_id": 810105,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 92,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 11,
+    "item_id": 811105,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 93,
+    "select_group": 2,
+    "select_type_1": 1,
+    "select_type_2": 12,
+    "item_id": 812105,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 94,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 1,
+    "item_id": 801205,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 95,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 2,
+    "item_id": 802205,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 96,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 3,
+    "item_id": 803205,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 97,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 6,
+    "item_id": 806205,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 98,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 7,
+    "item_id": 807205,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 99,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 8,
+    "item_id": 808205,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 100,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 10,
+    "item_id": 810205,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 101,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 11,
+    "item_id": 811205,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 102,
+    "select_group": 2,
+    "select_type_1": 2,
+    "select_type_2": 12,
+    "item_id": 812205,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 103,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 1,
+    "item_id": 801305,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 104,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 2,
+    "item_id": 802305,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 105,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 3,
+    "item_id": 803305,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 106,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 6,
+    "item_id": 806305,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 107,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 7,
+    "item_id": 807305,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 108,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 8,
+    "item_id": 808305,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 109,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 10,
+    "item_id": 810305,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 110,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 11,
+    "item_id": 811305,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 111,
+    "select_group": 2,
+    "select_type_1": 3,
+    "select_type_2": 12,
+    "item_id": 812305,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 112,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 1,
+    "item_id": 801405,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 113,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 2,
+    "item_id": 802405,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 114,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 3,
+    "item_id": 803405,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 115,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 6,
+    "item_id": 806405,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 116,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 7,
+    "item_id": 807405,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 117,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 8,
+    "item_id": 808405,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 118,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 10,
+    "item_id": 810405,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 119,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 11,
+    "item_id": 811405,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 120,
+    "select_group": 2,
+    "select_type_1": 4,
+    "select_type_2": 12,
+    "item_id": 812405,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 121,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 1,
+    "item_id": 801505,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 122,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 2,
+    "item_id": 802505,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 123,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 3,
+    "item_id": 803505,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 124,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 6,
+    "item_id": 806505,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 125,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 7,
+    "item_id": 807505,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 126,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 8,
+    "item_id": 808505,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 127,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 10,
+    "item_id": 810505,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 128,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 11,
+    "item_id": 811505,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 129,
+    "select_group": 2,
+    "select_type_1": 5,
+    "select_type_2": 12,
+    "item_id": 812505,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 130,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 1,
+    "item_id": 801605,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 131,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 2,
+    "item_id": 802605,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 132,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 3,
+    "item_id": 803605,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 133,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 6,
+    "item_id": 806605,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 134,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 7,
+    "item_id": 807605,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 135,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 8,
+    "item_id": 808605,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 136,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 10,
+    "item_id": 810605,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 137,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 11,
+    "item_id": 811605,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 138,
+    "select_group": 2,
+    "select_type_1": 6,
+    "select_type_2": 12,
+    "item_id": 812605,
+    "weapon_evolution_count": 2,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 139,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 140,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 141,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 142,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 143,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 144,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 145,
+    "select_group": 3,
+    "select_type_1": 0,
+    "select_type_2": 1,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 146,
+    "select_group": 3,
+    "select_type_1": 0,
+    "select_type_2": 2,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 147,
+    "select_group": 3,
+    "select_type_1": 0,
+    "select_type_2": 3,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 148,
+    "select_group": 3,
+    "select_type_1": 0,
+    "select_type_2": 6,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 149,
+    "select_group": 3,
+    "select_type_1": 0,
+    "select_type_2": 7,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 150,
+    "select_group": 3,
+    "select_type_1": 0,
+    "select_type_2": 8,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 151,
+    "select_group": 3,
+    "select_type_1": 0,
+    "select_type_2": 10,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 152,
+    "select_group": 3,
+    "select_type_1": 0,
+    "select_type_2": 11,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 153,
+    "select_group": 3,
+    "select_type_1": 0,
+    "select_type_2": 12,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 154,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 1,
+    "item_id": 801105,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 155,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 2,
+    "item_id": 802105,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 156,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 3,
+    "item_id": 803105,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 157,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 6,
+    "item_id": 806105,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 158,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 7,
+    "item_id": 807105,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 159,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 8,
+    "item_id": 808105,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 160,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 10,
+    "item_id": 810105,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 161,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 11,
+    "item_id": 811105,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 162,
+    "select_group": 3,
+    "select_type_1": 1,
+    "select_type_2": 12,
+    "item_id": 812105,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 163,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 1,
+    "item_id": 801205,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 164,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 2,
+    "item_id": 802205,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 165,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 3,
+    "item_id": 803205,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 166,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 6,
+    "item_id": 806205,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 167,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 7,
+    "item_id": 807205,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 168,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 8,
+    "item_id": 808205,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 169,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 10,
+    "item_id": 810205,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 170,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 11,
+    "item_id": 811205,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 171,
+    "select_group": 3,
+    "select_type_1": 2,
+    "select_type_2": 12,
+    "item_id": 812205,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 172,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 1,
+    "item_id": 801305,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 173,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 2,
+    "item_id": 802305,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 174,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 3,
+    "item_id": 803305,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 175,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 6,
+    "item_id": 806305,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 176,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 7,
+    "item_id": 807305,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 177,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 8,
+    "item_id": 808305,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 178,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 10,
+    "item_id": 810305,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 179,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 11,
+    "item_id": 811305,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 180,
+    "select_group": 3,
+    "select_type_1": 3,
+    "select_type_2": 12,
+    "item_id": 812305,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 181,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 1,
+    "item_id": 801405,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 182,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 2,
+    "item_id": 802405,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 183,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 3,
+    "item_id": 803405,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 184,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 6,
+    "item_id": 806405,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 185,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 7,
+    "item_id": 807405,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 186,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 8,
+    "item_id": 808405,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 187,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 10,
+    "item_id": 810405,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 188,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 11,
+    "item_id": 811405,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 189,
+    "select_group": 3,
+    "select_type_1": 4,
+    "select_type_2": 12,
+    "item_id": 812405,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 190,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 1,
+    "item_id": 801505,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 191,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 2,
+    "item_id": 802505,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 192,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 3,
+    "item_id": 803505,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 193,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 6,
+    "item_id": 806505,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 194,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 7,
+    "item_id": 807505,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 195,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 8,
+    "item_id": 808505,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 196,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 10,
+    "item_id": 810505,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 197,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 11,
+    "item_id": 811505,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 198,
+    "select_group": 3,
+    "select_type_1": 5,
+    "select_type_2": 12,
+    "item_id": 812505,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 199,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 1,
+    "item_id": 801605,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 200,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 2,
+    "item_id": 802605,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 201,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 3,
+    "item_id": 803605,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 202,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 6,
+    "item_id": 806605,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 203,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 7,
+    "item_id": 807605,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 204,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 8,
+    "item_id": 808605,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 205,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 10,
+    "item_id": 810605,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 206,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 11,
+    "item_id": 811605,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 207,
+    "select_group": 3,
+    "select_type_1": 6,
+    "select_type_2": 12,
+    "item_id": 812605,
+    "weapon_evolution_count": 3,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 208,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 209,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 210,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 211,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 212,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 213,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 214,
+    "select_group": 5,
+    "select_type_1": 0,
+    "select_type_2": 1,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 215,
+    "select_group": 5,
+    "select_type_1": 0,
+    "select_type_2": 2,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 216,
+    "select_group": 5,
+    "select_type_1": 0,
+    "select_type_2": 3,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 217,
+    "select_group": 5,
+    "select_type_1": 0,
+    "select_type_2": 6,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 218,
+    "select_group": 5,
+    "select_type_1": 0,
+    "select_type_2": 7,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 219,
+    "select_group": 5,
+    "select_type_1": 0,
+    "select_type_2": 8,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 220,
+    "select_group": 5,
+    "select_type_1": 0,
+    "select_type_2": 10,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 221,
+    "select_group": 5,
+    "select_type_1": 0,
+    "select_type_2": 11,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 222,
+    "select_group": 5,
+    "select_type_1": 0,
+    "select_type_2": 12,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 223,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 1,
+    "item_id": 801105,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 224,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 2,
+    "item_id": 802105,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 225,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 3,
+    "item_id": 803105,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 226,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 6,
+    "item_id": 806105,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 227,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 7,
+    "item_id": 807105,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 228,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 8,
+    "item_id": 808105,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 229,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 10,
+    "item_id": 810105,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 230,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 11,
+    "item_id": 811105,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 231,
+    "select_group": 5,
+    "select_type_1": 1,
+    "select_type_2": 12,
+    "item_id": 812105,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 232,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 1,
+    "item_id": 801205,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 233,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 2,
+    "item_id": 802205,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 234,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 3,
+    "item_id": 803205,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 235,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 6,
+    "item_id": 806205,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 236,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 7,
+    "item_id": 807205,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 237,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 8,
+    "item_id": 808205,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 238,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 10,
+    "item_id": 810205,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 239,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 11,
+    "item_id": 811205,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 240,
+    "select_group": 5,
+    "select_type_1": 2,
+    "select_type_2": 12,
+    "item_id": 812205,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 241,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 1,
+    "item_id": 801305,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 242,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 2,
+    "item_id": 802305,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 243,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 3,
+    "item_id": 803305,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 244,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 6,
+    "item_id": 806305,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 245,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 7,
+    "item_id": 807305,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 246,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 8,
+    "item_id": 808305,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 247,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 10,
+    "item_id": 810305,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 248,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 11,
+    "item_id": 811305,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 249,
+    "select_group": 5,
+    "select_type_1": 3,
+    "select_type_2": 12,
+    "item_id": 812305,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 250,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 1,
+    "item_id": 801405,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 251,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 2,
+    "item_id": 802405,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 252,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 3,
+    "item_id": 803405,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 253,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 6,
+    "item_id": 806405,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 254,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 7,
+    "item_id": 807405,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 255,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 8,
+    "item_id": 808405,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 256,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 10,
+    "item_id": 810405,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 257,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 11,
+    "item_id": 811405,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 258,
+    "select_group": 5,
+    "select_type_1": 4,
+    "select_type_2": 12,
+    "item_id": 812405,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 259,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 1,
+    "item_id": 801505,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 260,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 2,
+    "item_id": 802505,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 261,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 3,
+    "item_id": 803505,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 262,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 6,
+    "item_id": 806505,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 263,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 7,
+    "item_id": 807505,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 264,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 8,
+    "item_id": 808505,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 265,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 10,
+    "item_id": 810505,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 266,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 11,
+    "item_id": 811505,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 267,
+    "select_group": 5,
+    "select_type_1": 5,
+    "select_type_2": 12,
+    "item_id": 812505,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 268,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 1,
+    "item_id": 801605,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 269,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 2,
+    "item_id": 802605,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 270,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 3,
+    "item_id": 803605,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 271,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 6,
+    "item_id": 806605,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 272,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 7,
+    "item_id": 807605,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 273,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 8,
+    "item_id": 808605,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 274,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 10,
+    "item_id": 810605,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 275,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 11,
+    "item_id": 811605,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 276,
+    "select_group": 5,
+    "select_type_1": 6,
+    "select_type_2": 12,
+    "item_id": 812605,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 277,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 278,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 279,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 280,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 281,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 282,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 0,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 283,
+    "select_group": 6,
+    "select_type_1": 0,
+    "select_type_2": 1,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 284,
+    "select_group": 6,
+    "select_type_1": 0,
+    "select_type_2": 2,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 285,
+    "select_group": 6,
+    "select_type_1": 0,
+    "select_type_2": 3,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 286,
+    "select_group": 6,
+    "select_type_1": 0,
+    "select_type_2": 6,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 287,
+    "select_group": 6,
+    "select_type_1": 0,
+    "select_type_2": 7,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 288,
+    "select_group": 6,
+    "select_type_1": 0,
+    "select_type_2": 8,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 289,
+    "select_group": 6,
+    "select_type_1": 0,
+    "select_type_2": 10,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 290,
+    "select_group": 6,
+    "select_type_1": 0,
+    "select_type_2": 11,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 291,
+    "select_group": 6,
+    "select_type_1": 0,
+    "select_type_2": 12,
+    "item_id": 0,
+    "weapon_evolution_count": 0,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 292,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 1,
+    "item_id": 801103,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 293,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 2,
+    "item_id": 802103,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 294,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 3,
+    "item_id": 803103,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 295,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 6,
+    "item_id": 806103,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 296,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 7,
+    "item_id": 807103,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 297,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 8,
+    "item_id": 808103,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 298,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 10,
+    "item_id": 810103,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 299,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 11,
+    "item_id": 811103,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 300,
+    "select_group": 6,
+    "select_type_1": 1,
+    "select_type_2": 12,
+    "item_id": 812103,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 301,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 1,
+    "item_id": 801203,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 302,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 2,
+    "item_id": 802203,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 303,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 3,
+    "item_id": 803203,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 304,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 6,
+    "item_id": 806203,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 305,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 7,
+    "item_id": 807203,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 306,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 8,
+    "item_id": 808203,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 307,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 10,
+    "item_id": 810203,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 308,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 11,
+    "item_id": 811203,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 309,
+    "select_group": 6,
+    "select_type_1": 2,
+    "select_type_2": 12,
+    "item_id": 812203,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 310,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 1,
+    "item_id": 801303,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 311,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 2,
+    "item_id": 802303,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 312,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 3,
+    "item_id": 803303,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 313,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 6,
+    "item_id": 806303,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 314,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 7,
+    "item_id": 807303,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 315,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 8,
+    "item_id": 808303,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 316,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 10,
+    "item_id": 810303,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 317,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 11,
+    "item_id": 811303,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 318,
+    "select_group": 6,
+    "select_type_1": 3,
+    "select_type_2": 12,
+    "item_id": 812303,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 319,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 1,
+    "item_id": 801403,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 320,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 2,
+    "item_id": 802403,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 321,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 3,
+    "item_id": 803403,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 322,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 6,
+    "item_id": 806403,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 323,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 7,
+    "item_id": 807403,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 324,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 8,
+    "item_id": 808403,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 325,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 10,
+    "item_id": 810403,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 326,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 11,
+    "item_id": 811403,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 327,
+    "select_group": 6,
+    "select_type_1": 4,
+    "select_type_2": 12,
+    "item_id": 812403,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 328,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 1,
+    "item_id": 801503,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 329,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 2,
+    "item_id": 802503,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 330,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 3,
+    "item_id": 803503,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 331,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 6,
+    "item_id": 806503,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 332,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 7,
+    "item_id": 807503,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 333,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 8,
+    "item_id": 808503,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 334,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 10,
+    "item_id": 810503,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 335,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 11,
+    "item_id": 811503,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 336,
+    "select_group": 6,
+    "select_type_1": 5,
+    "select_type_2": 12,
+    "item_id": 812503,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 337,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 1,
+    "item_id": 801603,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 338,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 2,
+    "item_id": 802603,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 339,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 3,
+    "item_id": 803603,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 340,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 6,
+    "item_id": 806603,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 341,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 7,
+    "item_id": 807603,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 342,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 8,
+    "item_id": 808603,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 343,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 10,
+    "item_id": 810603,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 344,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 11,
+    "item_id": 811603,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
+  },
+  {
+    "id": 345,
+    "select_group": 6,
+    "select_type_1": 6,
+    "select_type_2": 12,
+    "item_id": 812603,
+    "weapon_evolution_count": 5,
+    "Weapon_upgrade_count": 0
   }
 ]

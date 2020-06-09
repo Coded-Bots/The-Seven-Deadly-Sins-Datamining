@@ -3,24 +3,50 @@
     "group_id": 101,
     "event_sub_index": 1000,
     "group_hero_id": 2260151,
-    "group_string": "DB_challenge_boss_group_title_101",
+    "group_string": "10209",
     "info_image": "challenge_boss_event_info_101",
-    "challenge_boss_strong_skill_desc": "DB_challenge_boss_strong_skill_desc_101"
+    "challenge_boss_strong_skill_desc": "13329",
+    "result_score_list": 1,
+    "result_score_name": "405"
   },
   {
     "group_id": 102,
     "event_sub_index": 1000,
     "group_hero_id": 2260161,
-    "group_string": "DB_challenge_boss_group_title_102",
+    "group_string": "10210",
     "info_image": "challenge_boss_event_info_102",
-    "challenge_boss_strong_skill_desc": "DB_challenge_boss_strong_skill_desc_102"
+    "challenge_boss_strong_skill_desc": "13330",
+    "result_score_list": 1,
+    "result_score_name": "405"
   },
   {
     "group_id": 103,
     "event_sub_index": 1000,
     "group_hero_id": 2260171,
-    "group_string": "DB_challenge_boss_group_title_103",
+    "group_string": "10211",
     "info_image": "challenge_boss_event_info_103",
-    "challenge_boss_strong_skill_desc": "DB_challenge_boss_strong_skill_desc_103"
+    "challenge_boss_strong_skill_desc": "13331",
+    "result_score_list": 1,
+    "result_score_name": "405"
+  },
+  {
+    "group_id": 111,
+    "event_sub_index": 1001,
+    "group_hero_id": 2260175,
+    "group_string": "42588",
+    "info_image": "challengeboss_chimara_demon_01",
+    "challenge_boss_strong_skill_desc": "42590",
+    "result_score_list": 1,
+    "result_score_name": "405"
+  },
+  {
+    "group_id": 121,
+    "event_sub_index": 100001,
+    "group_hero_id": 2260211,
+    "group_string": "42589",
+    "info_image": "challengeboss_hawk_big_01",
+    "challenge_boss_strong_skill_desc": "42591",
+    "result_score_list": 0,
+    "result_score_name": "6320"
   }
 ]
