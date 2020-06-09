@@ -26,5 +26,9 @@
   {
     "region": 9201,
     "limit_count": 3
+  },
+  {
+    "region": 9308,
+    "limit_count": 1
   }
 ]

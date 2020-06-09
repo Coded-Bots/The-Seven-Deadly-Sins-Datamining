@@ -24,7 +24,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_diane_0001_01",
     "weapon_carve_hero_icon_folder": "diane",
     "weapon_carve_hero_icon": "icon_skin_diane_0001_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 4,
@@ -69,7 +69,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_gil_thunder_0012_01",
     "weapon_carve_hero_icon_folder": "gil_thunder",
     "weapon_carve_hero_icon": "icon_skin_gil_thunder_0012_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_howzer_0008_01",
     "weapon_carve_hero_icon_folder": "howzer",
     "weapon_carve_hero_icon": "icon_skin_howzer_0008_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 11,
@@ -519,7 +519,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_disaster_valenty_0001_01",
     "weapon_carve_hero_icon_folder": "disaster_valenty",
     "weapon_carve_hero_icon": "icon_skin_disaster_valenty_0001_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 63,

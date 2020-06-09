@@ -298,7 +298,7 @@
   },
   {
     "id": 34,
-    "item_id": 1000003,
+    "item_id": 1000021,
     "item_count": 1,
     "netmarble_reward_id": "kr_ticket_man_1",
     "contents_type": 52,
@@ -307,7 +307,7 @@
   },
   {
     "id": 35,
-    "item_id": 1000002,
+    "item_id": 1000021,
     "item_count": 1,
     "netmarble_reward_id": "kr_ticket_woman_1",
     "contents_type": 52,
@@ -316,7 +316,7 @@
   },
   {
     "id": 36,
-    "item_id": 1000009,
+    "item_id": 1000021,
     "item_count": 1,
     "netmarble_reward_id": "kr_ticket_srssr_1",
     "contents_type": 52,
@@ -325,7 +325,7 @@
   },
   {
     "id": 37,
-    "item_id": 1000001,
+    "item_id": 1000019,
     "item_count": 1,
     "netmarble_reward_id": "kr_ticket_ssr_1",
     "contents_type": 52,
@@ -343,7 +343,7 @@
   },
   {
     "id": 39,
-    "item_id": 1000003,
+    "item_id": 1000021,
     "item_count": 1,
     "netmarble_reward_id": "jp_ticket_man_1",
     "contents_type": 52,
@@ -352,7 +352,7 @@
   },
   {
     "id": 40,
-    "item_id": 1000002,
+    "item_id": 1000021,
     "item_count": 1,
     "netmarble_reward_id": "jp_ticket_woman_1",
     "contents_type": 52,
@@ -361,7 +361,7 @@
   },
   {
     "id": 41,
-    "item_id": 1000009,
+    "item_id": 1000021,
     "item_count": 1,
     "netmarble_reward_id": "jp_ticket_srssr_1",
     "contents_type": 52,
@@ -379,7 +379,7 @@
   },
   {
     "id": 43,
-    "item_id": 1000001,
+    "item_id": 1000019,
     "item_count": 1,
     "netmarble_reward_id": "jp_levelup_ssr_1",
     "contents_type": 52,
@@ -1741,6 +1741,24 @@
     "item_id": 500024,
     "item_count": 20,
     "netmarble_reward_id": "gb_AutoClear_20",
+    "contents_type": 10021,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 626,
+    "item_id": 3000046,
+    "item_count": 1,
+    "netmarble_reward_id": "gb_youtube_5",
+    "contents_type": 10021,
+    "goods_name": "",
+    "goods_explain": ""
+  },
+  {
+    "id": 627,
+    "item_id": 3000047,
+    "item_count": 1,
+    "netmarble_reward_id": "gb_youtube_7",
     "contents_type": 10021,
     "goods_name": "",
     "goods_explain": ""

@@ -308,5 +308,65 @@
     "destroy_skill_desc": "DB_destroy_skill_desc_023",
     "destroy_passive_desc": "DB_destroy_passive_desc_021",
     "destroy_idle_path": "hero_lamech/ani/lamech_phase03/_common"
+  },
+  {
+    "id": 2260133,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_06",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_05",
+    "destroy_strong_skill_desc": "DB_destroy_skill_07",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_031",
+    "destroy_skill_desc": "DB_destroy_skill_desc_021",
+    "destroy_passive_desc": "DB_destroy_passive_desc_031",
+    "destroy_idle_path": "hero_liliahawaken_destroy/ani/liliahawaken_destroy_phase01/_common"
+  },
+  {
+    "id": 2260134,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_06",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_05",
+    "destroy_strong_skill_desc": "DB_destroy_skill_07",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_032",
+    "destroy_skill_desc": "DB_destroy_skill_desc_022",
+    "destroy_passive_desc": "DB_destroy_passive_desc_032",
+    "destroy_idle_path": "hero_liliahawaken_destroy/ani/liliahawaken_destroy_phase01/_common"
+  },
+  {
+    "id": 2260135,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_06",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_05",
+    "destroy_strong_skill_desc": "DB_destroy_skill_07",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_031",
+    "destroy_skill_desc": "DB_destroy_skill_desc_023",
+    "destroy_passive_desc": "DB_destroy_passive_desc_031",
+    "destroy_idle_path": "hero_liliahawaken_destroy/ani/liliahawaken_destroy_phase01/_common"
+  },
+  {
+    "id": 2260136,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_06",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_05",
+    "destroy_strong_skill_desc": "DB_destroy_skill_07",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_032",
+    "destroy_skill_desc": "DB_destroy_skill_desc_021",
+    "destroy_passive_desc": "DB_destroy_passive_desc_032",
+    "destroy_idle_path": "hero_liliahawaken_destroy/ani/liliahawaken_destroy_phase01/_common"
+  },
+  {
+    "id": 2260137,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_06",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_05",
+    "destroy_strong_skill_desc": "DB_destroy_skill_07",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_031",
+    "destroy_skill_desc": "DB_destroy_skill_desc_022",
+    "destroy_passive_desc": "DB_destroy_passive_desc_031",
+    "destroy_idle_path": "hero_liliahawaken_destroy/ani/liliahawaken_destroy_phase01/_common"
+  },
+  {
+    "id": 2260138,
+    "destroy_strong_tribe_desc": "DB_destroy_tribe_06",
+    "destroy_weak_tribe_desc": "DB_destroy_tribe_05",
+    "destroy_strong_skill_desc": "DB_destroy_skill_07",
+    "destroy_pattern_desc": "DB_destroy_pattern_desc_032",
+    "destroy_skill_desc": "DB_destroy_skill_desc_023",
+    "destroy_passive_desc": "DB_destroy_passive_desc_032",
+    "destroy_idle_path": "hero_liliahawaken_destroy/ani/liliahawaken_destroy_phase01/_common"
   }
 ]

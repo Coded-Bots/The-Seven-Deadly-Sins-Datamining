@@ -1,5 +1,49 @@
 [
   {
+    "id": 48,
+    "category": 9,
+    "mission_type": "FriendHero_Use",
+    "mission_type_value": 0,
+    "mission_target_value": 30,
+    "target_progress_type": 0,
+    "reward_title": "41465",
+    "title_desc": "41551",
+    "title_hint": "41652"
+  },
+  {
+    "id": 49,
+    "category": 9,
+    "mission_type": "Cooking_eat_battle",
+    "mission_type_value": 0,
+    "mission_target_value": 300,
+    "target_progress_type": 0,
+    "reward_title": "41466",
+    "title_desc": "41552",
+    "title_hint": "41653"
+  },
+  {
+    "id": 50,
+    "category": 9,
+    "mission_type": "Hero_SpecialSkill_LevelUp",
+    "mission_type_value": 0,
+    "mission_target_value": 30,
+    "target_progress_type": 0,
+    "reward_title": "41467",
+    "title_desc": "41553",
+    "title_hint": "41654"
+  },
+  {
+    "id": 51,
+    "category": 9,
+    "mission_type": "Weapon_Carve_Count",
+    "mission_type_value": 0,
+    "mission_target_value": 5,
+    "target_progress_type": 0,
+    "reward_title": "41468",
+    "title_desc": "41554",
+    "title_hint": "41655"
+  },
+  {
     "id": 74,
     "category": 13,
     "mission_type": "TownObject_Open_Lobby",
@@ -119,6 +163,61 @@
     "reward_title": "41501",
     "title_desc": "41587",
     "title_hint": "41688"
+  },
+  {
+    "id": 103,
+    "category": 22,
+    "mission_type": "Upgrade_Stone_Use",
+    "mission_type_value": 0,
+    "mission_target_value": 1000,
+    "target_progress_type": 0,
+    "reward_title": "41429",
+    "title_desc": "41521",
+    "title_hint": "41609"
+  },
+  {
+    "id": 104,
+    "category": 22,
+    "mission_type": "Evolution_Stone_Use",
+    "mission_type_value": 0,
+    "mission_target_value": 200,
+    "target_progress_type": 0,
+    "reward_title": "41430",
+    "title_desc": "41522",
+    "title_hint": "41610"
+  },
+  {
+    "id": 105,
+    "category": 22,
+    "mission_type": "Change_Option_Use",
+    "mission_type_value": 0,
+    "mission_target_value": 500,
+    "target_progress_type": 0,
+    "reward_title": "41431",
+    "title_desc": "41523",
+    "title_hint": "41611"
+  },
+  {
+    "id": 106,
+    "category": 22,
+    "mission_type": "Option_Random_Use",
+    "mission_type_value": 0,
+    "mission_target_value": 50,
+    "target_progress_type": 0,
+    "reward_title": "41432",
+    "title_desc": "41524",
+    "title_hint": "41612"
+  },
+  {
+    "id": 107,
+    "category": 22,
+    "mission_type": "Carve_Stone_Use",
+    "mission_type_value": 0,
+    "mission_target_value": 50,
+    "target_progress_type": 0,
+    "reward_title": "41433",
+    "title_desc": "41525",
+    "title_hint": "41613"
   },
   {
     "id": 108,

@@ -10,36 +10,6 @@
     "costume_resale": 1
   },
   {
-    "id": 14,
-    "menu_type": "event_costume",
-    "menu_title": "3171",
-    "scroll_type": "horizontal_scroll",
-    "shop_type": 14,
-    "banner_image": "costumeshop_banner_26_engineer_001",
-    "costume_story_id": 3,
-    "costume_resale": 1
-  },
-  {
-    "id": 13,
-    "menu_type": "event_costume",
-    "menu_title": "3171",
-    "scroll_type": "horizontal_scroll",
-    "shop_type": 13,
-    "banner_image": "costumeshop_banner_21_brutal_knightage_001",
-    "costume_story_id": 3,
-    "costume_resale": 1
-  },
-  {
-    "id": 12,
-    "menu_type": "event_costume",
-    "menu_title": "3171",
-    "scroll_type": "horizontal_scroll",
-    "shop_type": 12,
-    "banner_image": "costumeshop_banner_01_gb_liliah",
-    "costume_story_id": 3,
-    "costume_resale": 1
-  },
-  {
     "id": 2,
     "menu_type": "event_costume",
     "menu_title": "3171",
@@ -100,6 +70,16 @@
     "costume_resale": 1
   },
   {
+    "id": 15,
+    "menu_type": "event_costume",
+    "menu_title": "3171",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 15,
+    "banner_image": "costumeshop_banner_22_brutal_knightage_002",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
     "id": 8,
     "menu_type": "event_costume",
     "menu_title": "3171",
@@ -136,6 +116,36 @@
     "scroll_type": "vertical_scroll",
     "shop_type": 2,
     "banner_image": "costumeshop_banner_02",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 12,
+    "menu_type": "event_costume",
+    "menu_title": "3171",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 12,
+    "banner_image": "costumeshop_banner_01_gb_liliah",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 13,
+    "menu_type": "event_costume",
+    "menu_title": "3171",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 13,
+    "banner_image": "costumeshop_banner_21_brutal_knightage_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 14,
+    "menu_type": "event_costume",
+    "menu_title": "3171",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 14,
+    "banner_image": "costumeshop_banner_26_engineer_001",
     "costume_story_id": 3,
     "costume_resale": 1
   }

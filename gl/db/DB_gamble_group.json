@@ -2831,7 +2831,7 @@
     "id": 5006,
     "gamble_group": 1005,
     "skin_id": 310102,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
@@ -10503,7 +10503,7 @@
     "id": 16002,
     "gamble_group": 5009,
     "skin_id": 300101,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
@@ -10531,7 +10531,7 @@
     "id": 16006,
     "gamble_group": 5009,
     "skin_id": 310102,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10552,7 +10552,7 @@
     "id": 16009,
     "gamble_group": 5009,
     "skin_id": 310210,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10566,14 +10566,14 @@
     "id": 16011,
     "gamble_group": 5009,
     "skin_id": 300212,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
     "id": 16012,
     "gamble_group": 5009,
     "skin_id": 300211,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10608,7 +10608,7 @@
     "id": 16017,
     "gamble_group": 5009,
     "skin_id": 310302,
-    "gamble_rate": 38,
+    "gamble_rate": 15,
     "pick_up_check": 1
   },
   {
@@ -10636,7 +10636,7 @@
     "id": 16021,
     "gamble_group": 5009,
     "skin_id": 310402,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
@@ -10671,7 +10671,7 @@
     "id": 16026,
     "gamble_group": 5009,
     "skin_id": 300501,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
@@ -10720,14 +10720,14 @@
     "id": 16033,
     "gamble_group": 5009,
     "skin_id": 300601,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
     "id": 16034,
     "gamble_group": 5009,
     "skin_id": 301302,
-    "gamble_rate": 0,
+    "gamble_rate": 10,
     "pick_up_check": 0
   },
   {
@@ -10748,7 +10748,7 @@
     "id": 16037,
     "gamble_group": 5009,
     "skin_id": 300805,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10769,7 +10769,7 @@
     "id": 16041,
     "gamble_group": 5009,
     "skin_id": 301111,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10783,7 +10783,7 @@
     "id": 16043,
     "gamble_group": 5009,
     "skin_id": 300704,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10804,7 +10804,7 @@
     "id": 16046,
     "gamble_group": 5009,
     "skin_id": 300905,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10832,7 +10832,7 @@
     "id": 16050,
     "gamble_group": 5009,
     "skin_id": 301005,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10853,7 +10853,7 @@
     "id": 16054,
     "gamble_group": 5009,
     "skin_id": 304505,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10874,14 +10874,14 @@
     "id": 16058,
     "gamble_group": 5009,
     "skin_id": 301203,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
     "id": 16059,
     "gamble_group": 5009,
     "skin_id": 301204,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -10902,7 +10902,7 @@
     "id": 16063,
     "gamble_group": 5009,
     "skin_id": 303806,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -11014,7 +11014,7 @@
     "id": 16079,
     "gamble_group": 5009,
     "skin_id": 305001,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -11056,7 +11056,7 @@
     "id": 16085,
     "gamble_group": 5009,
     "skin_id": 304804,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -11070,7 +11070,7 @@
     "id": 16087,
     "gamble_group": 5009,
     "skin_id": 313001,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -11126,7 +11126,7 @@
     "id": 16095,
     "gamble_group": 5009,
     "skin_id": 333001,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -11154,7 +11154,7 @@
     "id": 16099,
     "gamble_group": 5009,
     "skin_id": 337001,
-    "gamble_rate": 10,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {

@@ -104,6 +104,32 @@
     "ad_info": 0
   },
   {
+    "id": 99,
+    "product_sale": 1,
+    "product_id": 990107,
+    "product_count": 5,
+    "product_free_count": 0,
+    "price_coin_item_type": "herocoin",
+    "price_coin_type": 4,
+    "price_count": 1,
+    "skin_discount": 0,
+    "buy_limited_count": 0,
+    "ad_info": 0
+  },
+  {
+    "id": 100,
+    "product_sale": 1,
+    "product_id": 910710,
+    "product_count": 2,
+    "product_free_count": 0,
+    "price_coin_item_type": "herocoin",
+    "price_coin_type": 4,
+    "price_count": 1,
+    "skin_discount": 0,
+    "buy_limited_count": 0,
+    "ad_info": 0
+  },
+  {
     "id": 101,
     "product_sale": 1,
     "product_id": 941005,
@@ -403,16 +429,29 @@
     "ad_info": 0
   },
   {
-    "id": 198,
+    "id": 199,
     "product_sale": 1,
-    "product_id": 990105,
+    "product_id": 990107,
     "product_count": 1,
     "product_free_count": 0,
     "price_coin_item_type": "herocoin",
     "price_coin_type": 3,
     "price_count": 1,
     "skin_discount": 0,
-    "buy_limited_count": 20,
+    "buy_limited_count": 0,
+    "ad_info": 0
+  },
+  {
+    "id": 200,
+    "product_sale": 1,
+    "product_id": 910709,
+    "product_count": 1,
+    "product_free_count": 0,
+    "price_coin_item_type": "herocoin",
+    "price_coin_type": 3,
+    "price_count": 1,
+    "skin_discount": 0,
+    "buy_limited_count": 0,
     "ad_info": 0
   },
   {

@@ -7,7 +7,7 @@
   {
     "id": 2,
     "contents": "item_type_option_random",
-    "value_int_1": 0
+    "value_int_1": 1
   },
   {
     "id": 3,
@@ -17,12 +17,12 @@
   {
     "id": 4,
     "contents": "training_dungeon",
-    "value_int_1": 0
+    "value_int_1": 1
   },
   {
     "id": 5,
     "contents": "training_dungeon_sp",
-    "value_int_1": 0
+    "value_int_1": 1
   },
   {
     "id": 6,
@@ -32,7 +32,7 @@
   {
     "id": 7,
     "contents": "weapon_carve",
-    "value_int_1": 0
+    "value_int_1": 1
   },
   {
     "id": 8,

@@ -308,7 +308,7 @@
     "normal_reward_item_count": 20000,
     "special_reward_item_id_1": 0,
     "special_reward_item_count_1": 0,
-    "special_reward_item_id_2": 337001,
+    "special_reward_item_id_2": 1000019,
     "special_reward_item_count_2": 1
   },
   {
@@ -332,8 +332,8 @@
     "normal_reward_item_count": 0,
     "special_reward_item_id_1": 0,
     "special_reward_item_count_1": 0,
-    "special_reward_item_id_2": 500002,
-    "special_reward_item_count_2": 1
+    "special_reward_item_id_2": 520001,
+    "special_reward_item_count_2": 5
   },
   {
     "index": 2004,
@@ -380,8 +380,8 @@
     "normal_reward_item_count": 0,
     "special_reward_item_id_1": 0,
     "special_reward_item_count_1": 0,
-    "special_reward_item_id_2": 541405,
-    "special_reward_item_count_2": 1
+    "special_reward_item_id_2": 530001,
+    "special_reward_item_count_2": 10
   },
   {
     "index": 2008,
@@ -440,8 +440,8 @@
     "normal_reward_item_count": 1,
     "special_reward_item_id_1": 0,
     "special_reward_item_count_1": 0,
-    "special_reward_item_id_2": 500012,
-    "special_reward_item_count_2": 50000
+    "special_reward_item_id_2": 510105,
+    "special_reward_item_count_2": 3
   },
   {
     "index": 2013,
@@ -474,8 +474,8 @@
     "ground_icon_type": 1,
     "normal_reward_item_id": 0,
     "normal_reward_item_count": 0,
-    "special_reward_item_id_1": 338001,
-    "special_reward_item_count_1": 1,
+    "special_reward_item_id_1": 520001,
+    "special_reward_item_count_1": 5,
     "special_reward_item_id_2": 941009,
     "special_reward_item_count_2": 1
   },
@@ -488,8 +488,8 @@
     "normal_reward_item_count": 1,
     "special_reward_item_id_1": 0,
     "special_reward_item_count_1": 0,
-    "special_reward_item_id_2": 500012,
-    "special_reward_item_count_2": 50000
+    "special_reward_item_id_2": 530001,
+    "special_reward_item_count_2": 10
   },
   {
     "index": 2017,
@@ -594,7 +594,7 @@
     "ground_icon_type": 1,
     "normal_reward_item_id": 0,
     "normal_reward_item_count": 0,
-    "special_reward_item_id_1": 1000019,
+    "special_reward_item_id_1": 2211007,
     "special_reward_item_count_1": 1,
     "special_reward_item_id_2": 542405,
     "special_reward_item_count_2": 1

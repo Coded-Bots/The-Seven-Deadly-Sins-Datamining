@@ -2583,6 +2583,15 @@
     "pick_up_check": 0
   },
   {
+    "id": 450,
+    "gotcha_group": 2001,
+    "item_id": 520001,
+    "item_count": 1,
+    "item_rate": 5,
+    "rate": 90,
+    "pick_up_check": 0
+  },
+  {
     "id": 1000001,
     "gotcha_group": 3001,
     "item_id": 510001,
@@ -10656,6 +10665,15 @@
     "pick_up_check": 0
   },
   {
+    "id": 2000450,
+    "gotcha_group": 3002,
+    "item_id": 520001,
+    "item_count": 1,
+    "item_rate": 6,
+    "rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 3000001,
     "gotcha_group": 3003,
     "item_id": 510001,
@@ -14697,6 +14715,15 @@
     "pick_up_check": 0
   },
   {
+    "id": 3000450,
+    "gotcha_group": 3003,
+    "item_id": 520001,
+    "item_count": 1,
+    "item_rate": 6,
+    "rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 4000001,
     "gotcha_group": 3004,
     "item_id": 510001,
@@ -18733,6 +18760,15 @@
     "gotcha_group": 3004,
     "item_id": 530001,
     "item_count": 5,
+    "item_rate": 6,
+    "rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 4000450,
+    "gotcha_group": 3004,
+    "item_id": 520001,
+    "item_count": 1,
     "item_rate": 6,
     "rate": 0,
     "pick_up_check": 0

@@ -19576,7 +19576,7 @@
   },
   {
     "id": 2165,
-    "npc_icon_info": "",
+    "npc_icon_info": "icon_quest_hero_dreyfus_0011_scene_s",
     "dressup_silhouette": "",
     "resource": "hero_dreyfus",
     "head_resource": "hero_dreyfus_head_0002",
@@ -20008,7 +20008,7 @@
   },
   {
     "id": 2181,
-    "npc_icon_info": "",
+    "npc_icon_info": "icon_quest_hero_hendrickson_0011_s",
     "dressup_silhouette": "",
     "resource": "hero_hendrickson",
     "head_resource": "hero_hendrickson_head_0011",
@@ -21304,7 +21304,7 @@
   },
   {
     "id": 2300,
-    "npc_icon_info": "",
+    "npc_icon_info": "icon_quest_hero_dreyfus_0011_scene_s",
     "dressup_silhouette": "",
     "resource": "hero_dreyfus",
     "head_resource": "hero_dreyfus_head_0002",
@@ -21326,8 +21326,8 @@
     "size_info": "medium",
     "content_radius": 0,
     "position_id": 0,
-    "look_at": 0,
-    "object_check": 0
+    "look_at": 1,
+    "object_check": 1
   },
   {
     "id": 2301,

@@ -2431,10 +2431,23 @@
     "content_link_check": 0
   },
   {
+    "id": 80001,
+    "quicklink_name": "3837",
+    "quicklink_icon": "icon_shortcut_item_training",
+    "content_type": "ui",
+    "region": 6,
+    "area_id": 604,
+    "content_menu": "training",
+    "matching_area_end_id": 0,
+    "npc_id": 0,
+    "weapon_item_id": 0,
+    "content_link_check": 0
+  },
+  {
     "id": 80002,
     "quicklink_name": "3837",
     "quicklink_icon": "icon_shortcut_item_training",
-    "content_type": "world",
+    "content_type": "ui",
     "region": 8,
     "area_id": 803,
     "content_menu": "training",

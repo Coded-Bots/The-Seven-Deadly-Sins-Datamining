@@ -222,5 +222,37 @@
     "product_id": 6106,
     "price_id": 500011,
     "price_count": 90
+  },
+  {
+    "id": 29,
+    "costume_shop_type": 15,
+    "costume_shop_group": 38,
+    "product_id": 6094,
+    "price_id": 500011,
+    "price_count": 90
+  },
+  {
+    "id": 30,
+    "costume_shop_type": 15,
+    "costume_shop_group": 39,
+    "product_id": 6095,
+    "price_id": 500011,
+    "price_count": 90
+  },
+  {
+    "id": 31,
+    "costume_shop_type": 15,
+    "costume_shop_group": 40,
+    "product_id": 6096,
+    "price_id": 500011,
+    "price_count": 90
+  },
+  {
+    "id": 32,
+    "costume_shop_type": 15,
+    "costume_shop_group": 41,
+    "product_id": 6097,
+    "price_id": 500011,
+    "price_count": 90
   }
 ]
