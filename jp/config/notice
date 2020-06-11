@@ -2,17 +2,17 @@
     "android": {
         "enable": true, 
         "message_string": "\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u7686\u3055\u3093\u304c\u3088\u308a\u697d\u3057\u304f\u5192\u967a\u304c\u3067\u304d\u308b\u3088\u3046\u306b\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e2d\u3067\u3059\u3002 \\n\\n(\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u6642\u9593)", 
-        "start_utc": "Thu, 28 May 2020 05:00:00 GMT", 
+        "start_utc": "Thu, 11 Jun 2020 05:00:00 GMT", 
         "title_string": " ", 
-        "end_utc": "Thu, 28 May 2020 08:00:00 GMT", 
+        "end_utc": "Thu, 11 Jun 2020 08:00:00 GMT", 
         "print_period": true
     }, 
     "ios": {
         "enable": true, 
         "message_string": "\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u7686\u3055\u3093\u304c\u3088\u308a\u697d\u3057\u304f\u5192\u967a\u304c\u3067\u304d\u308b\u3088\u3046\u306b\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e2d\u3067\u3059\u3002 \\n\\n(\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e88\u5b9a\u6642\u9593)", 
-        "start_utc": "Thu, 28 May 2020 05:00:00 GMT", 
+        "start_utc": "Thu, 11 Jun 2020 05:00:00 GMT", 
         "title_string": " ", 
-        "end_utc": "Thu, 28 May 2020 08:00:00 GMT", 
+        "end_utc": "Thu, 11 Jun 2020 08:00:00 GMT", 
         "print_period": true
     }
 }
