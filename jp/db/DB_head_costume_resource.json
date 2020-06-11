@@ -88,6 +88,14 @@
     "error_check_head_resource": "hero_meliodas_head_0504"
   },
   {
+    "id": 4004013,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0032",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0032"
+  },
+  {
     "id": 4004004,
     "head_attach_dummy": 0,
     "character_base": "meliodas",
@@ -182,6 +190,14 @@
     "resource_head": "hero_meliodas_head_0504",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_meliodas_head_0504"
+  },
+  {
+    "id": 4005013,
+    "head_attach_dummy": 0,
+    "character_base": "meliodas",
+    "resource_head": "hero_meliodas_head_0032",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_meliodas_head_0032"
   },
   {
     "id": 4005004,
@@ -848,6 +864,70 @@
     "error_check_head_resource": "hero_elizabeth_head_0048"
   },
   {
+    "id": 4785001,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_goddess",
+    "resource_head": "hero_elizabeth_goddess_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_goddess_head_0001"
+  },
+  {
+    "id": 4785002,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_goddess",
+    "resource_head": "hero_elizabeth_goddess_head_0003",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_goddess_head_0003"
+  },
+  {
+    "id": 4785003,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_goddess",
+    "resource_head": "hero_elizabeth_goddess_head_0004",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_goddess_head_0004"
+  },
+  {
+    "id": 4785004,
+    "head_attach_dummy": 0,
+    "character_base": "elizabeth_goddess",
+    "resource_head": "hero_elizabeth_goddess_head_0005",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_elizabeth_goddess_head_0005"
+  },
+  {
+    "id": 4775001,
+    "head_attach_dummy": 1,
+    "character_base": "hawk",
+    "resource_head": "hero_hawk_head_0001",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hawk_head_0001"
+  },
+  {
+    "id": 4775002,
+    "head_attach_dummy": 1,
+    "character_base": "hawk",
+    "resource_head": "hero_hawk_head_0036",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hawk_head_0036"
+  },
+  {
+    "id": 4775003,
+    "head_attach_dummy": 1,
+    "character_base": "hawk",
+    "resource_head": "hero_hawk_head_0045",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hawk_head_0045"
+  },
+  {
+    "id": 4775004,
+    "head_attach_dummy": 1,
+    "character_base": "hawk",
+    "resource_head": "hero_hawk_head_0026",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_hawk_head_0026"
+  },
+  {
     "id": 4044001,
     "head_attach_dummy": 0,
     "character_base": "diane",
@@ -920,12 +1000,28 @@
     "error_check_head_resource": "hero_diane_head_0009"
   },
   {
+    "id": 4044013,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0029",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0029"
+  },
+  {
     "id": 4044003,
     "head_attach_dummy": 0,
     "character_base": "diane",
     "resource_head": "hero_diane_head_0501",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_diane_head_0501"
+  },
+  {
+    "id": 4044014,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0507"
   },
   {
     "id": 4044012,
@@ -1008,12 +1104,28 @@
     "error_check_head_resource": "hero_diane_head_0009"
   },
   {
+    "id": 4045013,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0029",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0029"
+  },
+  {
     "id": 4045003,
     "head_attach_dummy": 0,
     "character_base": "diane",
     "resource_head": "hero_diane_head_0501",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_diane_head_0501"
+  },
+  {
+    "id": 4045014,
+    "head_attach_dummy": 0,
+    "character_base": "diane",
+    "resource_head": "hero_diane_head_0507",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_diane_head_0507"
   },
   {
     "id": 4045012,
@@ -1446,6 +1558,14 @@
     "resource_head": "hero_king_head_0022",
     "head_mixer_name": "",
     "error_check_head_resource": "hero_king_head_0022"
+  },
+  {
+    "id": 4095016,
+    "head_attach_dummy": 0,
+    "character_base": "king",
+    "resource_head": "hero_king_head_0027",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_king_head_0027"
   },
   {
     "id": 4105001,
@@ -4776,6 +4896,22 @@
     "error_check_head_resource": "hero_zeldris_head_0006"
   },
   {
+    "id": 4655005,
+    "head_attach_dummy": 0,
+    "character_base": "zeldris",
+    "resource_head": "hero_zeldris_head_0501",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zeldris_head_0501"
+  },
+  {
+    "id": 4655006,
+    "head_attach_dummy": 0,
+    "character_base": "zeldris",
+    "resource_head": "hero_zeldris_head_0503",
+    "head_mixer_name": "",
+    "error_check_head_resource": "hero_zeldris_head_0503"
+  },
+  {
     "id": 4495001,
     "head_attach_dummy": 0,
     "character_base": "deathpierce",
@@ -5155,9 +5291,9 @@
     "id": 4734001,
     "head_attach_dummy": 0,
     "character_base": "titan_eren",
-    "resource_head": "hero_titan_eren_head_0010",
+    "resource_head": "hero_titan_eren_head_0001",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_titan_eren_head_0010"
+    "error_check_head_resource": "hero_titan_eren_head_0001"
   },
   {
     "id": 4734002,
@@ -5195,9 +5331,9 @@
     "id": 4735001,
     "head_attach_dummy": 0,
     "character_base": "titan_eren",
-    "resource_head": "hero_titan_eren_head_0010",
+    "resource_head": "hero_titan_eren_head_0001",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_titan_eren_head_0010"
+    "error_check_head_resource": "hero_titan_eren_head_0001"
   },
   {
     "id": 4735002,
@@ -5243,9 +5379,9 @@
     "id": 4745001,
     "head_attach_dummy": 0,
     "character_base": "titan_levi",
-    "resource_head": "hero_titan_levi_head_0010",
+    "resource_head": "hero_titan_levi_head_0001",
     "head_mixer_name": "",
-    "error_check_head_resource": "hero_titan_levi_head_0010"
+    "error_check_head_resource": "hero_titan_levi_head_0001"
   },
   {
     "id": 4745002,

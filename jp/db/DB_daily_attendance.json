@@ -76,7 +76,7 @@
     "attendance_type": "normal",
     "group": 2,
     "day": 3,
-    "item_id": 1000009,
+    "item_id": 1000021,
     "item_count": 1
   },
   {
@@ -100,7 +100,7 @@
     "attendance_type": "normal",
     "group": 2,
     "day": 6,
-    "item_id": 1000009,
+    "item_id": 1000021,
     "item_count": 1
   },
   {
@@ -108,7 +108,7 @@
     "attendance_type": "normal",
     "group": 2,
     "day": 7,
-    "item_id": 1000001,
+    "item_id": 1000019,
     "item_count": 1
   },
   {

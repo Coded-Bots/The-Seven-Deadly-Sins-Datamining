@@ -150,6 +150,16 @@
     "hero_capacity_ment_7": "4595"
   },
   {
+    "id": 1045003,
+    "hero_capacity_ment_1": "4589",
+    "hero_capacity_ment_2": "4590",
+    "hero_capacity_ment_3": "4591",
+    "hero_capacity_ment_4": "4592",
+    "hero_capacity_ment_5": "4593",
+    "hero_capacity_ment_6": "4594",
+    "hero_capacity_ment_7": "4595"
+  },
+  {
     "id": 1045002,
     "hero_capacity_ment_1": "4589",
     "hero_capacity_ment_2": "4590",
@@ -1061,23 +1071,23 @@
   },
   {
     "id": 1545001,
-    "hero_capacity_ment_1": "",
-    "hero_capacity_ment_2": "",
-    "hero_capacity_ment_3": "",
-    "hero_capacity_ment_4": "",
-    "hero_capacity_ment_5": "",
-    "hero_capacity_ment_6": "",
-    "hero_capacity_ment_7": ""
+    "hero_capacity_ment_1": "6377",
+    "hero_capacity_ment_2": "6378",
+    "hero_capacity_ment_3": "6379",
+    "hero_capacity_ment_4": "6380",
+    "hero_capacity_ment_5": "6381",
+    "hero_capacity_ment_6": "6382",
+    "hero_capacity_ment_7": "6383"
   },
   {
     "id": 1545002,
-    "hero_capacity_ment_1": "",
-    "hero_capacity_ment_2": "",
-    "hero_capacity_ment_3": "",
-    "hero_capacity_ment_4": "",
-    "hero_capacity_ment_5": "",
-    "hero_capacity_ment_6": "",
-    "hero_capacity_ment_7": ""
+    "hero_capacity_ment_1": "6377",
+    "hero_capacity_ment_2": "6378",
+    "hero_capacity_ment_3": "6379",
+    "hero_capacity_ment_4": "6380",
+    "hero_capacity_ment_5": "6381",
+    "hero_capacity_ment_6": "6382",
+    "hero_capacity_ment_7": "6383"
   },
   {
     "id": 1555001,
@@ -1388,5 +1398,25 @@
     "hero_capacity_ment_5": "",
     "hero_capacity_ment_6": "",
     "hero_capacity_ment_7": ""
+  },
+  {
+    "id": 1795001,
+    "hero_capacity_ment_1": "6171",
+    "hero_capacity_ment_2": "6172",
+    "hero_capacity_ment_3": "6173",
+    "hero_capacity_ment_4": "6174",
+    "hero_capacity_ment_5": "6175",
+    "hero_capacity_ment_6": "6176",
+    "hero_capacity_ment_7": "6177"
+  },
+  {
+    "id": 1805001,
+    "hero_capacity_ment_1": "6178",
+    "hero_capacity_ment_2": "6179",
+    "hero_capacity_ment_3": "6180",
+    "hero_capacity_ment_4": "6181",
+    "hero_capacity_ment_5": "6182",
+    "hero_capacity_ment_6": "6183",
+    "hero_capacity_ment_7": "6184"
   }
 ]

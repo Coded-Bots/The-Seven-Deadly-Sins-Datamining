@@ -1820,6 +1820,76 @@
     "filename": "fx_dianegolem_skill03_atk"
   },
   {
+    "id": 2590,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill08_ready_01"
+  },
+  {
+    "id": 2591,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill08_ready_02"
+  },
+  {
+    "id": 2592,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill08_ready_03"
+  },
+  {
+    "id": 2593,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill08_ready_04"
+  },
+  {
+    "id": 2594,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill08_hit_01"
+  },
+  {
+    "id": 2601,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill09_ready_01"
+  },
+  {
+    "id": 2602,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill09_ready_02"
+  },
+  {
+    "id": 2603,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_follow",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill09_ready_03"
+  },
+  {
+    "id": 2604,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill09_statuette_01"
+  },
+  {
+    "id": 2605,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/diane",
+    "filename": "fx_diane_skill09_hit_01"
+  },
+  {
     "id": 103120300,
     "attach_type": 0,
     "create_socket": "",
@@ -3108,10 +3178,80 @@
     "filename": "fx_elizabeth_skill10_hit"
   },
   {
+    "id": 2498,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "SevenSins/elizabeth_goddess",
+    "filename": "fx_elizabeth_goddess_skill01_ready"
+  },
+  {
+    "id": 2499,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/elizabeth_goddess",
+    "filename": "fx_elizabeth_goddess_skill01_atk_ball"
+  },
+  {
+    "id": 2500,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "SevenSins/elizabeth_goddess",
+    "filename": "fx_elizabeth_goddess_skill02_ready"
+  },
+  {
+    "id": 2501,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/elizabeth_goddess",
+    "filename": "fx_elizabeth_goddess_skill02_atk"
+  },
+  {
+    "id": 2502,
+    "attach_type": 1,
+    "create_socket": "fx_spawn_center",
+    "path": "SevenSins/elizabeth_goddess",
+    "filename": "fx_elizabeth_goddess_skill02_buff"
+  },
+  {
+    "id": 2550,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/elizabeth_goddess",
+    "filename": "fx_elizabeth_goddess_victory"
+  },
+  {
+    "id": 2551,
+    "attach_type": 1,
+    "create_socket": "fx_spawn_center",
+    "path": "SevenSins/elizabeth_goddess",
+    "filename": "fx_elizabeth_goddess_special_hit"
+  },
+  {
+    "id": 2552,
+    "attach_type": 4,
+    "create_socket": "",
+    "path": "_Common/Buff",
+    "filename": "fx_elizabeth_mirror_buff"
+  },
+  {
+    "id": 2540,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "_Common/Buff",
+    "filename": "fx_elizabeth_buff_pure_damage"
+  },
+  {
+    "id": 2571,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "_Common/Buff",
+    "filename": "fx_elizabeth_buff_goddess_revival"
+  },
+  {
     "id": 109040300,
     "attach_type": 1,
     "create_socket": "",
-    "path": "SevenSins/hawk",
+    "path": "",
     "filename": "fx_hawk_sk3_ready_01"
   },
   {
@@ -3169,6 +3309,83 @@
     "create_socket": "",
     "path": "SevenSins/hawk",
     "filename": "fx_hit_special_hawk_02"
+  },
+  {
+    "id": 2489,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_sk01_atk"
+  },
+  {
+    "id": 2490,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_sk01_hit"
+  },
+  {
+    "id": 2491,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_sk01_dash"
+  },
+  {
+    "id": 2492,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_sk01_return"
+  },
+  {
+    "id": 2493,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_sk01_ready"
+  },
+  {
+    "id": 2494,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_sk02_ready"
+  },
+  {
+    "id": 2495,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_sk02_dash"
+  },
+  {
+    "id": 2496,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_sk02_hit"
+  },
+  {
+    "id": 2497,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_sk02_return"
+  },
+  {
+    "id": 2519,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_victory"
+  },
+  {
+    "id": 2549,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "SevenSins/hawk",
+    "filename": "fx_hawk_special_hit"
   },
   {
     "id": 2414,
@@ -3624,6 +3841,55 @@
     "create_socket": "",
     "path": "Human/helbram",
     "filename": "fx_air_death_01_brown_helbram"
+  },
+  {
+    "id": 2624,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_follow",
+    "path": "Human/twigo",
+    "filename": "fx_twigo_skill05_ready_01_final_boss"
+  },
+  {
+    "id": 2625,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/twigo",
+    "filename": "fx_twigo_skill05_atk_01_final_boss"
+  },
+  {
+    "id": 2626,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/twigo",
+    "filename": "fx_twigo_skill06_atk_01_final_boss"
+  },
+  {
+    "id": 2627,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/twigo",
+    "filename": "fx_twigo_skill06_hit_01_final_boss"
+  },
+  {
+    "id": 2640,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/twigo",
+    "filename": "fx_twigo_skill06_ready_01_final_boss"
+  },
+  {
+    "id": 2614,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Human/twigo",
+    "filename": "fx_twigo_skill_07_ready_finalboss"
+  },
+  {
+    "id": 2615,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Human/twigo",
+    "filename": "fx_twigo_skill_07_idle_finalboss"
   },
   {
     "id": 202020100,
@@ -6034,6 +6300,62 @@
     "filename": "fx_hit_taizoo_special_01"
   },
   {
+    "id": 2636,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/taizoo",
+    "filename": "fx_taizoo_skill_03_ready_finalboss"
+  },
+  {
+    "id": 2628,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Human/taizoo",
+    "filename": "fx_taizoo_skill_03_dash_finalboss"
+  },
+  {
+    "id": 2629,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/taizoo",
+    "filename": "fx_taizoo_skill_03_atk_finalboss"
+  },
+  {
+    "id": 2630,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Human/taizoo",
+    "filename": "fx_taizoo_skill_03_return_finalboss"
+  },
+  {
+    "id": 2631,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/taizoo",
+    "filename": "fx_taizoo_skill_03_end_finalboss"
+  },
+  {
+    "id": 2632,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/taizoo",
+    "filename": "fx_taizoo_skill_03_hit_finalboss"
+  },
+  {
+    "id": 2616,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/taizoo",
+    "filename": "fx_taizoo_skill_04_ready_finalboss"
+  },
+  {
+    "id": 2617,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/taizoo",
+    "filename": "fx_taizoo_skill_04_idle_finalboss"
+  },
+  {
     "id": 235060920,
     "attach_type": 1,
     "create_socket": "",
@@ -8057,6 +8379,27 @@
     "filename": "fx_drole_guardian_skill02_end"
   },
   {
+    "id": 2633,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/drole",
+    "filename": "fx_drole_skill03_ready"
+  },
+  {
+    "id": 2634,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/drole",
+    "filename": "fx_drole_skill03_atk"
+  },
+  {
+    "id": 2635,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/drole",
+    "filename": "fx_drole_skill03_hit"
+  },
+  {
     "id": 1825,
     "attach_type": 0,
     "create_socket": "",
@@ -8132,6 +8475,62 @@
     "create_socket": "",
     "path": "TenDevils/zeldris",
     "filename": "fx_zeldris_appear"
+  },
+  {
+    "id": 2457,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/zeldris",
+    "filename": "fx_zeldris_skill_03"
+  },
+  {
+    "id": 2458,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/zeldris",
+    "filename": "fx_zeldris_skill_03_slash"
+  },
+  {
+    "id": 2459,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/zeldris",
+    "filename": "fx_zeldris_skill_03_fin"
+  },
+  {
+    "id": 2460,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/zeldris",
+    "filename": "fx_zeldris_skill_03_dash"
+  },
+  {
+    "id": 2461,
+    "attach_type": 2,
+    "create_socket": "",
+    "path": "TenDevils/zeldris",
+    "filename": "fx_zeldris_skill_03_return"
+  },
+  {
+    "id": 2467,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/zeldris",
+    "filename": "fx_zeldris_skill_03_end"
+  },
+  {
+    "id": 2468,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/zeldris",
+    "filename": "fx_zeldris_skill_04"
+  },
+  {
+    "id": 2469,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "TenDevils/zeldris",
+    "filename": "fx_zeldris_skill_04_ready"
   },
   {
     "id": 1863,
@@ -9240,6 +9639,216 @@
     "filename": "fx_hit_chimara_demon_special_02"
   },
   {
+    "id": 2487,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill01_fastmove"
+  },
+  {
+    "id": 2478,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill01_atk"
+  },
+  {
+    "id": 2479,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_head",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill02_eye"
+  },
+  {
+    "id": 2480,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill02_atk"
+  },
+  {
+    "id": 2481,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill02_hit"
+  },
+  {
+    "id": 2510,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill03_ready_hand"
+  },
+  {
+    "id": 2511,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill03_atk_hand"
+  },
+  {
+    "id": 2482,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill03_atk"
+  },
+  {
+    "id": 2483,
+    "attach_type": 1,
+    "create_socket": "socket_fx_spine",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill03_hit"
+  },
+  {
+    "id": 2484,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill04_ready"
+  },
+  {
+    "id": 2485,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill04_atk"
+  },
+  {
+    "id": 2453,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill06_ready_hand"
+  },
+  {
+    "id": 2454,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill06_atkRE_hand"
+  },
+  {
+    "id": 2455,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill06_atk_hand"
+  },
+  {
+    "id": 2456,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill06_atk_hit"
+  },
+  {
+    "id": 2462,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill05_ready"
+  },
+  {
+    "id": 2463,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill05_dust"
+  },
+  {
+    "id": 2464,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill05_atk1"
+  },
+  {
+    "id": 2465,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_skill05_atk2"
+  },
+  {
+    "id": 2466,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_hit_special02"
+  },
+  {
+    "id": 2470,
+    "attach_type": 2,
+    "create_socket": "fx_spawn_center",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_aura_phase02"
+  },
+  {
+    "id": 2512,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_summon_ready"
+  },
+  {
+    "id": 2513,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_summon_ready_hand_01"
+  },
+  {
+    "id": 2514,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_lefthand",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_summon_ready_hand_02"
+  },
+  {
+    "id": 2515,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_summon_hit"
+  },
+  {
+    "id": 2516,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_summon_magic_circle"
+  },
+  {
+    "id": 2517,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_summon_appear"
+  },
+  {
+    "id": 2518,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_summon_appear_body"
+  },
+  {
+    "id": 2538,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_summon_disappear"
+  },
+  {
+    "id": 2539,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/malek_demon",
+    "filename": "fx_malek_hit_special01"
+  },
+  {
     "id": 309070100,
     "attach_type": 1,
     "create_socket": "",
@@ -9812,6 +10421,279 @@
     "create_socket": "move001",
     "path": "Demon/gray_demon_larva",
     "filename": "fx_graydemon_larva_skill02_return"
+  },
+  {
+    "id": 2503,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_head",
+    "path": "Demon/copper_demon",
+    "filename": "fx_copper_demon_sk01_ready"
+  },
+  {
+    "id": 2504,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/copper_demon",
+    "filename": "fx_copper_demon_sk01_attack"
+  },
+  {
+    "id": 2505,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_head",
+    "path": "Demon/copper_demon",
+    "filename": "fx_copper_demon_sk02_ready"
+  },
+  {
+    "id": 2506,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/copper_demon",
+    "filename": "fx_copper_demon_sk02_attack"
+  },
+  {
+    "id": 2507,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/copper_demon",
+    "filename": "fx_copper_demon_dash"
+  },
+  {
+    "id": 2508,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/copper_demon",
+    "filename": "fx_copper_demon_return"
+  },
+  {
+    "id": 2509,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/copper_demon",
+    "filename": "fx_copper_demon_end"
+  },
+  {
+    "id": 2521,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/copper_demon",
+    "filename": "fx_copper_demon_die"
+  },
+  {
+    "id": 2522,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/silver_demon",
+    "filename": "fx_silver_demon_skill01_ready"
+  },
+  {
+    "id": 2523,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/silver_demon",
+    "filename": "fx_silver_demon_sk01_dash"
+  },
+  {
+    "id": 2524,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/silver_demon",
+    "filename": "fx_silver_demon_sk01_attack"
+  },
+  {
+    "id": 2525,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/silver_demon",
+    "filename": "fx_silver_demon_skill02_ready"
+  },
+  {
+    "id": 2526,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/silver_demon",
+    "filename": "fx_silver_demon_skill02_attack"
+  },
+  {
+    "id": 2527,
+    "attach_type": 0,
+    "create_socket": "move001",
+    "path": "Demon/silver_demon",
+    "filename": "fx_silver_demon_skill02_hit"
+  },
+  {
+    "id": 2528,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/silver_demon",
+    "filename": "fx_silver_demon_jump"
+  },
+  {
+    "id": 2530,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/redbrown_demon",
+    "filename": "fx_redbrown_demon_skill01_atk_01"
+  },
+  {
+    "id": 2531,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/redbrown_demon",
+    "filename": "fx_redbrown_demon_skill01_ready_01"
+  },
+  {
+    "id": 2532,
+    "attach_type": 0,
+    "create_socket": "move001",
+    "path": "Demon/redbrown_demon",
+    "filename": "fx_redbrown_demon_skill01_dash_01"
+  },
+  {
+    "id": 2533,
+    "attach_type": 0,
+    "create_socket": "move001",
+    "path": "Demon/redbrown_demon",
+    "filename": "fx_redbrown_demon_skill01_return_01"
+  },
+  {
+    "id": 2534,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/redbrown_demon",
+    "filename": "fx_redbrown_demon_skill02_atk_01"
+  },
+  {
+    "id": 2535,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/redbrown_demon",
+    "filename": "fx_redbrown_demon_skill02_atk_02"
+  },
+  {
+    "id": 2536,
+    "attach_type": 0,
+    "create_socket": "move001",
+    "path": "Demon/redbrown_demon",
+    "filename": "fx_redbrown_demon_skill02_dash_01"
+  },
+  {
+    "id": 2537,
+    "attach_type": 0,
+    "create_socket": "move001",
+    "path": "Demon/redbrown_demon",
+    "filename": "fx_redbrown_demon_skill02_return_01"
+  },
+  {
+    "id": 2541,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon02",
+    "filename": "fx_blue_demon02_skill_01_ready"
+  },
+  {
+    "id": 2542,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/blue_demon02",
+    "filename": "fx_blue_demon02_skill_01_dash"
+  },
+  {
+    "id": 2543,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon02",
+    "filename": "fx_blue_demon02_skill_01_atk"
+  },
+  {
+    "id": 2544,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/blue_demon02",
+    "filename": "fx_blue_demon02_skill_01_return"
+  },
+  {
+    "id": 2545,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon02",
+    "filename": "fx_blue_demon02_skill_01_end"
+  },
+  {
+    "id": 2546,
+    "attach_type": 1,
+    "create_socket": "socket_fx_spine",
+    "path": "Demon/blue_demon02",
+    "filename": "fx_blue_demon02_skill_01_hit"
+  },
+  {
+    "id": 2547,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon02",
+    "filename": "fx_blue_demon02_skill02_atk_01"
+  },
+  {
+    "id": 2548,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon02",
+    "filename": "fx_blue_demon02_skill02_ready_01"
+  },
+  {
+    "id": 1696,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/blue_demon04",
+    "filename": "fx_blue_demon04_skill_01_dash"
+  },
+  {
+    "id": 1697,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon04",
+    "filename": "fx_blue_demon04_skill_01_atk"
+  },
+  {
+    "id": 1703,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon04",
+    "filename": "fx_blue_demon04_jump"
+  },
+  {
+    "id": 1698,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon04",
+    "filename": "fx_blue_demon04_return"
+  },
+  {
+    "id": 1699,
+    "attach_type": 1,
+    "create_socket": "socket_fx_spine",
+    "path": "Demon/blue_demon04",
+    "filename": "fx_blue_demon04_hit_01"
+  },
+  {
+    "id": 1700,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon04",
+    "filename": "fx_blue_demon04_skill_02_atk"
+  },
+  {
+    "id": 1701,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Demon/blue_demon04",
+    "filename": "fx_blue_demon04_hit_02"
+  },
+  {
+    "id": 1702,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Demon/blue_demon04",
+    "filename": "fx_blue_demon04_skill_02_dash"
   },
   {
     "id": 302020200,
@@ -11555,62 +12437,6 @@
     "create_socket": "",
     "path": "Demon/mushroom_demon",
     "filename": "fx_mushroom_demon_skill02_debuff"
-  },
-  {
-    "id": 1696,
-    "attach_type": 0,
-    "create_socket": "",
-    "path": "Demon/blue_demon04",
-    "filename": "fx_blue_demon04_skill_01_dash"
-  },
-  {
-    "id": 1697,
-    "attach_type": 1,
-    "create_socket": "",
-    "path": "Demon/blue_demon04",
-    "filename": "fx_blue_demon04_skill_01_atk"
-  },
-  {
-    "id": 1703,
-    "attach_type": 1,
-    "create_socket": "",
-    "path": "Demon/blue_demon04",
-    "filename": "fx_blue_demon04_jump"
-  },
-  {
-    "id": 1698,
-    "attach_type": 1,
-    "create_socket": "",
-    "path": "Demon/blue_demon04",
-    "filename": "fx_blue_demon04_return"
-  },
-  {
-    "id": 1699,
-    "attach_type": 1,
-    "create_socket": "socket_fx_spine",
-    "path": "Demon/blue_demon04",
-    "filename": "fx_blue_demon04_hit_01"
-  },
-  {
-    "id": 1700,
-    "attach_type": 1,
-    "create_socket": "",
-    "path": "Demon/blue_demon04",
-    "filename": "fx_blue_demon04_skill_02_atk"
-  },
-  {
-    "id": 1701,
-    "attach_type": 1,
-    "create_socket": "",
-    "path": "Demon/blue_demon04",
-    "filename": "fx_blue_demon04_hit_02"
-  },
-  {
-    "id": 1702,
-    "attach_type": 0,
-    "create_socket": "",
-    "path": "Demon/blue_demon04",
-    "filename": "fx_blue_demon04_skill_02_dash"
   },
   {
     "id": 2177,
@@ -16513,13 +17339,6 @@
     "filename": "fx_eren_sk2_buff_wh"
   },
   {
-    "id": 1066,
-    "attach_type": 1,
-    "create_socket": "",
-    "path": "Collabo/titan/titan_eren",
-    "filename": "fx_hit_special_titan_eren_01"
-  },
-  {
     "id": 1559,
     "attach_type": 0,
     "create_socket": "",
@@ -16616,6 +17435,27 @@
     "create_socket": "",
     "path": "Collabo/titan/titan_eren",
     "filename": "fx_hit_special_titan_eren_sr_01"
+  },
+  {
+    "id": 2567,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_eren",
+    "filename": "fx_change_titan_02_tag_change_return"
+  },
+  {
+    "id": 2568,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_attack_titan",
+    "filename": "fx_change_titan_01_disappear"
+  },
+  {
+    "id": 2569,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_attack_titan",
+    "filename": "fx_hit_special_titan_eren_ssr_01"
   },
   {
     "id": 1067,
@@ -16828,6 +17668,69 @@
     "filename": "fx_hit_special_mikasa_01"
   },
   {
+    "id": 2471,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_mikasa",
+    "filename": "fx_mikasa_skill01_ready_01"
+  },
+  {
+    "id": 2472,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "Collabo/titan/titan_mikasa",
+    "filename": "fx_mikasa_skill01_ready_02"
+  },
+  {
+    "id": 2473,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "Collabo/titan/titan_mikasa",
+    "filename": "fx_mikasa_skill01_ready_03"
+  },
+  {
+    "id": 2474,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_mikasa",
+    "filename": "fx_mikasa_skill01_atk_01"
+  },
+  {
+    "id": 2475,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_mikasa",
+    "filename": "fx_mikasa_skill02_ready_01"
+  },
+  {
+    "id": 2476,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_mikasa",
+    "filename": "fx_mikasa_skill02_atk_01"
+  },
+  {
+    "id": 2477,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_mikasa",
+    "filename": "fx_mikasa_skill02_atk_02"
+  },
+  {
+    "id": 2486,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_mikasa",
+    "filename": "fx_mikasa_skill02_rope_01"
+  },
+  {
+    "id": 2520,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "Collabo/titan/titan_mikasa",
+    "filename": "fx_mikasa_skill02_ready_02"
+  },
+  {
     "id": 2389,
     "attach_type": 0,
     "create_socket": "",
@@ -16882,6 +17785,370 @@
     "create_socket": "",
     "path": "Collabo/titan/titan_short_titan",
     "filename": "fx_short_titan_skill02_end"
+  },
+  {
+    "id": 2447,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_long_titan",
+    "filename": "fx_long_titan_skill01_dash"
+  },
+  {
+    "id": 2448,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_long_titan",
+    "filename": "fx_long_titan_skill01_atk"
+  },
+  {
+    "id": 2449,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_long_titan",
+    "filename": "fx_long_titan_skill01_return"
+  },
+  {
+    "id": 2450,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_long_titan",
+    "filename": "fx_long_titan_skill02_dash"
+  },
+  {
+    "id": 2451,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_long_titan",
+    "filename": "fx_long_titan_skill02_atk"
+  },
+  {
+    "id": 2452,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_long_titan",
+    "filename": "fx_long_titan_skill02_return"
+  },
+  {
+    "id": 2607,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_4foot_titan",
+    "filename": "fx_4foot_titan_skill01_atk_01"
+  },
+  {
+    "id": 2608,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_4foot_titan",
+    "filename": "fx_4foot_titan_skill01_dash_01"
+  },
+  {
+    "id": 2609,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_4foot_titan",
+    "filename": "fx_4foot_titan_skill01_return_01"
+  },
+  {
+    "id": 2610,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_4foot_titan",
+    "filename": "fx_4foot_titan_skill02_atk_01"
+  },
+  {
+    "id": 2611,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_4foot_titan",
+    "filename": "fx_4foot_titan_skill02_dash_01"
+  },
+  {
+    "id": 2612,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_4foot_titan",
+    "filename": "fx_4foot_titan_skill02_return_01"
+  },
+  {
+    "id": 2613,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_4foot_titan",
+    "filename": "fx_4foot_titan_death_01"
+  },
+  {
+    "id": 2553,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_02_atk"
+  },
+  {
+    "id": 2554,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_head",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_eye_glow_01"
+  },
+  {
+    "id": 2555,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_08_atk"
+  },
+  {
+    "id": 2556,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_09_atk"
+  },
+  {
+    "id": 2557,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_01"
+  },
+  {
+    "id": 2558,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_05"
+  },
+  {
+    "id": 2559,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_07"
+  },
+  {
+    "id": 2560,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill03_ready"
+  },
+  {
+    "id": 2561,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_head",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill03_ready_mouth"
+  },
+  {
+    "id": 2562,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill03_atk1"
+  },
+  {
+    "id": 2563,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill03_atk2"
+  },
+  {
+    "id": 2565,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill06_atk1"
+  },
+  {
+    "id": 2583,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_12_atk"
+  },
+  {
+    "id": 2584,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_head",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_12_shout"
+  },
+  {
+    "id": 2598,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_12_hit"
+  },
+  {
+    "id": 2585,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_12_ready"
+  },
+  {
+    "id": 2595,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_11_ready"
+  },
+  {
+    "id": 2596,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_11_atk_hand"
+  },
+  {
+    "id": 2597,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_11_atk"
+  },
+  {
+    "id": 2599,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_04"
+  },
+  {
+    "id": 2600,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_skill_04_hit"
+  },
+  {
+    "id": 2637,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_loop_steam_phase01"
+  },
+  {
+    "id": 2638,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_loop_steam_phase02"
+  },
+  {
+    "id": 2639,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_loop_steam_phase03"
+  },
+  {
+    "id": 2586,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_phaseshift_1_2"
+  },
+  {
+    "id": 2587,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_phaseshift_2_1"
+  },
+  {
+    "id": 2588,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_phaseshift_1_3"
+  },
+  {
+    "id": 2589,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_colossal_titan",
+    "filename": "fx_colossal_titan_phaseshift_3_1"
+  },
+  {
+    "id": 2573,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk1_atk"
+  },
+  {
+    "id": 2574,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk1_dash_01"
+  },
+  {
+    "id": 2575,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk1_dash_02"
+  },
+  {
+    "id": 2576,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk1_dash_03"
+  },
+  {
+    "id": 2577,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_head",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk1_ready"
+  },
+  {
+    "id": 2578,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk2_atk_01"
+  },
+  {
+    "id": 2579,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk2_atk_02"
+  },
+  {
+    "id": 2580,
+    "attach_type": 0,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk2_dash_01"
+  },
+  {
+    "id": 2581,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk2_dash_02"
+  },
+  {
+    "id": 2582,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_head",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_titan_armored_titan_sk2_ready"
+  },
+  {
+    "id": 2606,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Collabo/titan/titan_armored_titan",
+    "filename": "fx_hit_special_armored_titan_01"
   },
   {
     "id": 1035,
@@ -18387,6 +19654,48 @@
     "create_socket": "",
     "path": "Human/waillo",
     "filename": "fx_waillo_skill_02_ready"
+  },
+  {
+    "id": 2618,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/waillo",
+    "filename": "fx_waillo_skill_03_ready_finalboss"
+  },
+  {
+    "id": 2619,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/waillo",
+    "filename": "fx_waillo_skill_03_dash_finalboss"
+  },
+  {
+    "id": 2620,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/waillo",
+    "filename": "fx_waillo_skill_03_atk_finalboss"
+  },
+  {
+    "id": 2621,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/waillo",
+    "filename": "fx_waillo_skill_03_return_finalboss"
+  },
+  {
+    "id": 2622,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/waillo",
+    "filename": "fx_waillo_skill_04_ready_finalboss"
+  },
+  {
+    "id": 2623,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "Human/waillo",
+    "filename": "fx_waillo_skill_04_idle_finalboss"
   },
   {
     "id": 1617,
@@ -20818,6 +22127,13 @@
     "filename": "fx_diedust_front_big_01"
   },
   {
+    "id": 2529,
+    "attach_type": 1,
+    "create_socket": "",
+    "path": "_Common/Etc",
+    "filename": "fx_diedust_front_big_02"
+  },
+  {
     "id": 1299,
     "attach_type": 1,
     "create_socket": "",
@@ -21012,6 +22328,20 @@
     "create_socket": "fx_spawn_center",
     "path": "_Common/Etc",
     "filename": "fx_boss_diane_aura_phase02"
+  },
+  {
+    "id": 2642,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "_Common/Etc",
+    "filename": "fx_boss_waillo_aura_phase01"
+  },
+  {
+    "id": 2643,
+    "attach_type": 0,
+    "create_socket": "fx_spawn_center",
+    "path": "_Common/Etc",
+    "filename": "fx_boss_waillo_aura_phase02"
   },
   {
     "id": 1808,

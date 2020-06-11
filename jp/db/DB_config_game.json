@@ -114,8 +114,8 @@
     "contents": "item_storage",
     "value_string_1": "",
     "value_string_2": "",
-    "value_int_1": 100,
-    "value_int_2": 400,
+    "value_int_1": 130,
+    "value_int_2": 500,
     "value_float_1": 0,
     "value_float_2": 0
   },
@@ -3844,7 +3844,7 @@
     "contents": "ladder_start_cost_id",
     "value_string_1": "",
     "value_string_2": "",
-    "value_int_1": 910702,
+    "value_int_1": 910755,
     "value_int_2": 10,
     "value_float_1": 0,
     "value_float_2": 0
@@ -4114,8 +4114,8 @@
     "contents": "DB_event_attendance_dayfix",
     "value_string_1": "",
     "value_string_2": "",
-    "value_int_1": 0,
-    "value_int_2": 0,
+    "value_int_1": 1,
+    "value_int_2": 2,
     "value_float_1": 0,
     "value_float_2": 0
   },
@@ -4624,8 +4624,8 @@
     "contents": "pvp_smash_mode_list",
     "value_string_1": "",
     "value_string_2": "",
-    "value_int_1": 10,
-    "value_int_2": 11,
+    "value_int_1": 0,
+    "value_int_2": 0,
     "value_float_1": 0,
     "value_float_2": 0
   },
@@ -4694,7 +4694,7 @@
     "contents": "patrol_max_count",
     "value_string_1": "",
     "value_string_2": "",
-    "value_int_1": 6,
+    "value_int_1": 9,
     "value_int_2": 0,
     "value_float_1": 0,
     "value_float_2": 0
@@ -4716,6 +4716,326 @@
     "value_string_2": "",
     "value_int_1": 0,
     "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 530,
+    "contents": "number_to_per",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.01,
+    "value_float_2": 0
+  },
+  {
+    "id": 531,
+    "contents": "per_to_number",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 100,
+    "value_float_2": 0
+  },
+  {
+    "id": 532,
+    "contents": "weapon_server_value_to_client_value",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.1,
+    "value_float_2": 0
+  },
+  {
+    "id": 533,
+    "contents": "number_one_hundred",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 100,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 534,
+    "contents": "number_zero",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 535,
+    "contents": "key_freefull_awaken_package_item",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 910750,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 536,
+    "contents": "pvp_smash_battle_speed_acc",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1.4,
+    "value_float_2": 0
+  },
+  {
+    "id": 537,
+    "contents": "pvp_smash_card_draw_per_dec",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0.3,
+    "value_float_2": 0
+  },
+  {
+    "id": 538,
+    "contents": "boarhat_change",
+    "value_string_1": "quest_end",
+    "value_string_2": "",
+    "value_int_1": 30008,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 539,
+    "contents": "patrol_time_reward_max",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 86400,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 540,
+    "contents": "patrol_time_reward_step",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 3600,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 541,
+    "contents": "transcend_ssr_coin_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 225,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 542,
+    "contents": "transcend_sr_coin_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 15,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 543,
+    "contents": "transcend_r_coin_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 1,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 544,
+    "contents": "transcend_transcend_coin_point",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 75,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 545,
+    "contents": "pvp_smash_battle_speed_acc_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 1.8,
+    "value_float_2": 0
+  },
+  {
+    "id": 546,
+    "contents": "pvp_smash_battle_speed_acc_5",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 3.2,
+    "value_float_2": 0
+  },
+  {
+    "id": 547,
+    "contents": "tower_open_quest",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 20001,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 548,
+    "contents": "ssr_awaken_5_reward",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 549,
+    "contents": "tower_max_hero",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 4,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 550,
+    "contents": "ladder_day_play_limit",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 2,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 551,
+    "contents": "finalboss_scorereward_maxscore",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 99999999,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 552,
+    "contents": "item_transcend_coin_id",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5301001,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 553,
+    "contents": "GhostLeg_Map_Start_Index",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 0,
+    "value_int_2": 0,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 554,
+    "contents": "transcend_reset_return_item_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5301001,
+    "value_int_2": 1,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 555,
+    "contents": "transcend_reset_return_item_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5301001,
+    "value_int_2": 2,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 556,
+    "contents": "transcend_reset_return_item_3",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5301001,
+    "value_int_2": 3,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 557,
+    "contents": "transcend_reset_return_item_4",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5301001,
+    "value_int_2": 4,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 558,
+    "contents": "transcend_reset_return_item_5",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5301001,
+    "value_int_2": 5,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 559,
+    "contents": "transcend_reset_return_item_6",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5301001,
+    "value_int_2": 6,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 560,
+    "contents": "transcend_reset_use_item_1",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 500011,
+    "value_int_2": 10,
+    "value_float_1": 0,
+    "value_float_2": 0
+  },
+  {
+    "id": 561,
+    "contents": "transcend_reset_use_item_2",
+    "value_string_1": "",
+    "value_string_2": "",
+    "value_int_1": 5301101,
+    "value_int_2": 1,
     "value_float_1": 0,
     "value_float_2": 0
   }

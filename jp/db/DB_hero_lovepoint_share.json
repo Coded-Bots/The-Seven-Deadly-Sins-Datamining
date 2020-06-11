@@ -313,5 +313,10 @@
     "id": 72,
     "hero_group": 51,
     "share_condition_count": 2
+  },
+  {
+    "id": 73,
+    "hero_group": 37,
+    "share_condition_count": 1
   }
 ]

@@ -13,12 +13,12 @@
   },
   {
     "id": 2,
-    "season_type": "normal",
-    "season_start": "2019-09-30 00:00:00",
-    "season_end": "2019-10-30 23:59:00",
+    "season_type": "rank",
+    "season_start": "2019-08-30 00:00:00",
+    "season_end": "2019-09-27 23:59:00",
     "season_title": "1513",
     "season_icon": "event_banner_world_final_boss",
-    "season_shop_end": "2019-10-30 23:59:00",
+    "season_shop_end": "2020-05-25 23:49:00",
     "large_popup": "m_banner_realboss_02",
     "event_banner": "s_banner_real_boss_002",
     "season_info": "1453"
@@ -62,13 +62,25 @@
   {
     "id": 6,
     "season_type": "rank",
-    "season_start": "2020-04-29 00:00:00",
-    "season_end": "2020-05-13 23:59:00",
+    "season_start": "2020-03-18 00:00:00",
+    "season_end": "2020-05-12 23:59:00",
     "season_title": "5858",
     "season_icon": "event_banner_world_final_boss",
-    "season_shop_end": "2020-05-16 23:59:00",
+    "season_shop_end": "2020-05-15 23:59:00",
     "large_popup": "m_banner_realboss_05",
     "event_banner": "s_banner_real_boss_005",
-    "season_info": "6148"
+    "season_info": "6149"
+  },
+  {
+    "id": 7,
+    "season_type": "rank",
+    "season_start": "2020-06-11 00:00:00",
+    "season_end": "2020-06-29 23:59:00",
+    "season_title": "6329",
+    "season_icon": "event_banner_world_final_boss",
+    "season_shop_end": "2020-06-29 23:59:00",
+    "large_popup": "m_banner_realboss_06",
+    "event_banner": "s_banner_real_boss_006",
+    "season_info": "6333"
   }
 ]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "reward_order": 1,
+    "need_buy_count": 20,
+    "reward_item_id": 530001,
+    "reward_count": 20
+  },
+  {
+    "id": 2,
+    "reward_order": 2,
+    "need_buy_count": 40,
+    "reward_item_id": 510105,
+    "reward_count": 2
+  },
+  {
+    "id": 3,
+    "reward_order": 3,
+    "need_buy_count": 80,
+    "reward_item_id": 500011,
+    "reward_count": 10
+  }
+]

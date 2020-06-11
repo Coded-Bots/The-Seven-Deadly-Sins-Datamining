@@ -789,5 +789,26 @@
     "get_sound_1": 0,
     "get_sound_2": 0,
     "dp_sound_1": 238168
+  },
+  {
+    "id": 114,
+    "hero_id": 1805001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 204064
+  },
+  {
+    "id": 115,
+    "hero_id": 1045003,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 205014
+  },
+  {
+    "id": 116,
+    "hero_id": 1545001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238053
   }
 ]

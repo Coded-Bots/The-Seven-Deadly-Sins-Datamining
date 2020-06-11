@@ -1,19 +1,49 @@
 [
   {
     "id": 1,
+    "season_id": 1,
     "season_group": 1,
+    "season_start": "2020-01-12 00:30:00",
     "event_large_popup_name": "",
+    "event_large_popup_end": "2020-01-15 00:00:00",
     "season_title": "1818",
-    "season_subtitle": "22138",
+    "season_subtitle": "25971",
     "mission_title": "1275",
     "help_window": 0
   },
   {
     "id": 2,
+    "season_id": 2,
     "season_group": 2,
+    "season_start": "2020-03-29 00:30:00",
     "event_large_popup_name": "",
-    "season_title": "22136",
-    "season_subtitle": "22137",
+    "event_large_popup_end": "2020-04-16 00:00:00",
+    "season_title": "25969",
+    "season_subtitle": "25970",
+    "mission_title": "1817",
+    "help_window": 1
+  },
+  {
+    "id": 3,
+    "season_id": 3,
+    "season_group": 2,
+    "season_start": "2020-05-03 00:30:00",
+    "event_large_popup_name": "m_banner_guild3boss_01",
+    "event_large_popup_end": "2020-05-10 00:00:00",
+    "season_title": "45325",
+    "season_subtitle": "25970",
+    "mission_title": "1817",
+    "help_window": 1
+  },
+  {
+    "id": 4,
+    "season_id": 4,
+    "season_group": 2,
+    "season_start": "2020-05-10 00:30:00",
+    "event_large_popup_name": "m_banner_guild3boss_01",
+    "event_large_popup_end": "2020-05-14 00:00:00",
+    "season_title": "45325",
+    "season_subtitle": "25970",
     "mission_title": "1817",
     "help_window": 1
   }

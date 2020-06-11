@@ -2,121 +2,121 @@
   {
     "id": 1,
     "random_option_group": 1,
-    "random_option_name": "6374",
+    "random_option_name": "10122",
     "option_effect_id": 200100,
     "option_effect_min": 1,
     "option_effect_max": 3,
     "option_upgrade_value": 0,
-    "option_name": "6386"
+    "option_name": "10134"
   },
   {
     "id": 2,
     "random_option_group": 1,
-    "random_option_name": "6375",
+    "random_option_name": "10123",
     "option_effect_id": 200400,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6390"
+    "option_name": "10138"
   },
   {
     "id": 3,
     "random_option_group": 1,
-    "random_option_name": "6376",
+    "random_option_name": "10124",
     "option_effect_id": 200700,
     "option_effect_min": 1.5,
     "option_effect_max": 4.5,
     "option_upgrade_value": 0,
-    "option_name": "6391"
+    "option_name": "10139"
   },
   {
     "id": 4,
     "random_option_group": 1,
-    "random_option_name": "6377",
+    "random_option_name": "10125",
     "option_effect_id": 200800,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6392"
+    "option_name": "10140"
   },
   {
     "id": 5,
     "random_option_group": 2,
-    "random_option_name": "6378",
+    "random_option_name": "10126",
     "option_effect_id": 200200,
     "option_effect_min": 1,
     "option_effect_max": 3,
     "option_upgrade_value": 0,
-    "option_name": "6393"
+    "option_name": "10141"
   },
   {
     "id": 6,
     "random_option_group": 2,
-    "random_option_name": "6379",
+    "random_option_name": "10127",
     "option_effect_id": 200500,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6394"
+    "option_name": "10142"
   },
   {
     "id": 7,
     "random_option_group": 2,
-    "random_option_name": "6380",
+    "random_option_name": "10128",
     "option_effect_id": 200600,
     "option_effect_min": 1.5,
     "option_effect_max": 4.5,
     "option_upgrade_value": 0,
-    "option_name": "6395"
+    "option_name": "10143"
   },
   {
     "id": 8,
     "random_option_group": 2,
-    "random_option_name": "6381",
+    "random_option_name": "10129",
     "option_effect_id": 201100,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6396"
+    "option_name": "10144"
   },
   {
     "id": 9,
     "random_option_group": 3,
-    "random_option_name": "6382",
+    "random_option_name": "10130",
     "option_effect_id": 200300,
     "option_effect_min": 1,
     "option_effect_max": 3,
     "option_upgrade_value": 0,
-    "option_name": "6397"
+    "option_name": "10145"
   },
   {
     "id": 10,
     "random_option_group": 3,
-    "random_option_name": "6383",
+    "random_option_name": "10131",
     "option_effect_id": 201700,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6387"
+    "option_name": "10135"
   },
   {
     "id": 11,
     "random_option_group": 3,
-    "random_option_name": "6384",
+    "random_option_name": "10132",
     "option_effect_id": 201000,
     "option_effect_min": 2,
     "option_effect_max": 6,
     "option_upgrade_value": 0,
-    "option_name": "6388"
+    "option_name": "10136"
   },
   {
     "id": 12,
     "random_option_group": 3,
-    "random_option_name": "6385",
+    "random_option_name": "10133",
     "option_effect_id": 200900,
     "option_effect_min": 1.5,
     "option_effect_max": 4.5,
     "option_upgrade_value": 0,
-    "option_name": "6389"
+    "option_name": "10137"
   }
 ]

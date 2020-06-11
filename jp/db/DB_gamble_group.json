@@ -833,6 +833,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 1125,
+    "gamble_group": 1001,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 1126,
+    "gamble_group": 1001,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 1127,
+    "gamble_group": 1001,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 110002,
     "gamble_group": 1050,
     "skin_id": 300101,
@@ -1662,6 +1683,27 @@
     "id": 110124,
     "gamble_group": 1050,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 110125,
+    "gamble_group": 1050,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 110126,
+    "gamble_group": 1050,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 110127,
+    "gamble_group": 1050,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -2499,6 +2541,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 111125,
+    "gamble_group": 1051,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 111126,
+    "gamble_group": 1051,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 111127,
+    "gamble_group": 1051,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 112002,
     "gamble_group": 1052,
     "skin_id": 300101,
@@ -3328,6 +3391,27 @@
     "id": 112124,
     "gamble_group": 1052,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 112125,
+    "gamble_group": 1052,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 112126,
+    "gamble_group": 1052,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 112127,
+    "gamble_group": 1052,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -4165,6 +4249,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 113125,
+    "gamble_group": 1053,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 113126,
+    "gamble_group": 1053,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 113127,
+    "gamble_group": 1053,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 114002,
     "gamble_group": 1054,
     "skin_id": 300101,
@@ -4994,6 +5099,27 @@
     "id": 114124,
     "gamble_group": 1054,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 114125,
+    "gamble_group": 1054,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 114126,
+    "gamble_group": 1054,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 114127,
+    "gamble_group": 1054,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -5831,6 +5957,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 115125,
+    "gamble_group": 1055,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 115126,
+    "gamble_group": 1055,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 115127,
+    "gamble_group": 1055,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 116002,
     "gamble_group": 1056,
     "skin_id": 300101,
@@ -6660,6 +6807,27 @@
     "id": 116124,
     "gamble_group": 1056,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 116125,
+    "gamble_group": 1056,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 116126,
+    "gamble_group": 1056,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 116127,
+    "gamble_group": 1056,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -7497,6 +7665,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 117125,
+    "gamble_group": 1057,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 117126,
+    "gamble_group": 1057,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 117127,
+    "gamble_group": 1057,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 118002,
     "gamble_group": 1058,
     "skin_id": 300101,
@@ -8326,6 +8515,27 @@
     "id": 118124,
     "gamble_group": 1058,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 118125,
+    "gamble_group": 1058,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 118126,
+    "gamble_group": 1058,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 118127,
+    "gamble_group": 1058,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -9163,6 +9373,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 2125,
+    "gamble_group": 1002,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2126,
+    "gamble_group": 1002,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2127,
+    "gamble_group": 1002,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 3002,
     "gamble_group": 1003,
     "skin_id": 300101,
@@ -9992,6 +10223,27 @@
     "id": 3124,
     "gamble_group": 1003,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 3125,
+    "gamble_group": 1003,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 3126,
+    "gamble_group": 1003,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 3127,
+    "gamble_group": 1003,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -10829,6 +11081,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 4125,
+    "gamble_group": 1004,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 4126,
+    "gamble_group": 1004,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 4127,
+    "gamble_group": 1004,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 5002,
     "gamble_group": 1005,
     "skin_id": 300101,
@@ -11658,6 +11931,27 @@
     "id": 5124,
     "gamble_group": 1005,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 5125,
+    "gamble_group": 1005,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 5126,
+    "gamble_group": 1005,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 5127,
+    "gamble_group": 1005,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -12495,6 +12789,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 6125,
+    "gamble_group": 1006,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 6126,
+    "gamble_group": 1006,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 6127,
+    "gamble_group": 1006,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 7002,
     "gamble_group": 1007,
     "skin_id": 300101,
@@ -13324,6 +13639,27 @@
     "id": 7124,
     "gamble_group": 1007,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 7125,
+    "gamble_group": 1007,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 7126,
+    "gamble_group": 1007,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 7127,
+    "gamble_group": 1007,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -14161,6 +14497,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 8125,
+    "gamble_group": 1008,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 8126,
+    "gamble_group": 1008,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 8127,
+    "gamble_group": 1008,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 9002,
     "gamble_group": 1009,
     "skin_id": 300101,
@@ -14990,6 +15347,27 @@
     "id": 9124,
     "gamble_group": 1009,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 9125,
+    "gamble_group": 1009,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 9126,
+    "gamble_group": 1009,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 9127,
+    "gamble_group": 1009,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -15827,6 +16205,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 10125,
+    "gamble_group": 1014,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 10126,
+    "gamble_group": 1014,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 10127,
+    "gamble_group": 1014,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 11002,
     "gamble_group": 1015,
     "skin_id": 300101,
@@ -16656,6 +17055,27 @@
     "id": 11124,
     "gamble_group": 1015,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 11125,
+    "gamble_group": 1015,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 11126,
+    "gamble_group": 1015,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 11127,
+    "gamble_group": 1015,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -17493,6 +17913,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 12125,
+    "gamble_group": 1016,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 12126,
+    "gamble_group": 1016,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 12127,
+    "gamble_group": 1016,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 20002,
     "gamble_group": 2001,
     "skin_id": 300101,
@@ -18322,6 +18763,27 @@
     "id": 20124,
     "gamble_group": 2001,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 20125,
+    "gamble_group": 2001,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 20126,
+    "gamble_group": 2001,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 20127,
+    "gamble_group": 2001,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -19159,6 +19621,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 30125,
+    "gamble_group": 2002,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 30126,
+    "gamble_group": 2002,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 30127,
+    "gamble_group": 2002,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 40002,
     "gamble_group": 2003,
     "skin_id": 300101,
@@ -19988,6 +20471,27 @@
     "id": 40124,
     "gamble_group": 2003,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 40125,
+    "gamble_group": 2003,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 40126,
+    "gamble_group": 2003,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 40127,
+    "gamble_group": 2003,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -20825,6 +21329,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 50125,
+    "gamble_group": 2004,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 50126,
+    "gamble_group": 2004,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 50127,
+    "gamble_group": 2004,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 70002,
     "gamble_group": 2005,
     "skin_id": 300101,
@@ -21654,6 +22179,27 @@
     "id": 70124,
     "gamble_group": 2005,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 70125,
+    "gamble_group": 2005,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 70126,
+    "gamble_group": 2005,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 70127,
+    "gamble_group": 2005,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -22491,6 +23037,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 80125,
+    "gamble_group": 2006,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 80126,
+    "gamble_group": 2006,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 80127,
+    "gamble_group": 2006,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 107002,
     "gamble_group": 2007,
     "skin_id": 300101,
@@ -23320,6 +23887,27 @@
     "id": 107124,
     "gamble_group": 2007,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 107125,
+    "gamble_group": 2007,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 107126,
+    "gamble_group": 2007,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 107127,
+    "gamble_group": 2007,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -24157,6 +24745,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 2525,
+    "gamble_group": 2008,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2526,
+    "gamble_group": 2008,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2527,
+    "gamble_group": 2008,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 104002,
     "gamble_group": 2009,
     "skin_id": 300101,
@@ -24986,6 +25595,27 @@
     "id": 104124,
     "gamble_group": 2009,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 104125,
+    "gamble_group": 2009,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 104126,
+    "gamble_group": 2009,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 104127,
+    "gamble_group": 2009,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -25823,6 +26453,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 109125,
+    "gamble_group": 2010,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 109126,
+    "gamble_group": 2010,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 109127,
+    "gamble_group": 2010,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 60002,
     "gamble_group": 1017,
     "skin_id": 300101,
@@ -26652,6 +27303,27 @@
     "id": 60124,
     "gamble_group": 1017,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 60125,
+    "gamble_group": 1017,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 60126,
+    "gamble_group": 1017,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 60127,
+    "gamble_group": 1017,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -27489,6 +28161,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 13125,
+    "gamble_group": 1018,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 13126,
+    "gamble_group": 1018,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 13127,
+    "gamble_group": 1018,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 14002,
     "gamble_group": 1019,
     "skin_id": 300101,
@@ -28318,6 +29011,27 @@
     "id": 14124,
     "gamble_group": 1019,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 14125,
+    "gamble_group": 1019,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 14126,
+    "gamble_group": 1019,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 14127,
+    "gamble_group": 1019,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -29155,6 +29869,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 15125,
+    "gamble_group": 1020,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 15126,
+    "gamble_group": 1020,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 15127,
+    "gamble_group": 1020,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 16002,
     "gamble_group": 1021,
     "skin_id": 300101,
@@ -29984,6 +30719,27 @@
     "id": 16124,
     "gamble_group": 1021,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 16125,
+    "gamble_group": 1021,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 16126,
+    "gamble_group": 1021,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 16127,
+    "gamble_group": 1021,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -30821,6 +31577,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 17125,
+    "gamble_group": 1022,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 17126,
+    "gamble_group": 1022,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 17127,
+    "gamble_group": 1022,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 18002,
     "gamble_group": 1023,
     "skin_id": 300101,
@@ -31650,6 +32427,27 @@
     "id": 18124,
     "gamble_group": 1023,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 18125,
+    "gamble_group": 1023,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 18126,
+    "gamble_group": 1023,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 18127,
+    "gamble_group": 1023,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -32487,6 +33285,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 19125,
+    "gamble_group": 1024,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 19126,
+    "gamble_group": 1024,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 19127,
+    "gamble_group": 1024,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 90002,
     "gamble_group": 1025,
     "skin_id": 300101,
@@ -33320,23 +34139,23 @@
     "pick_up_check": 0
   },
   {
-    "id": 2125,
-    "gamble_group": 1026,
-    "skin_id": 300503,
+    "id": 90125,
+    "gamble_group": 1025,
+    "skin_id": 355001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
-    "id": 2126,
-    "gamble_group": 1026,
-    "skin_id": 300501,
-    "gamble_rate": 10,
+    "id": 90126,
+    "gamble_group": 1025,
+    "skin_id": 300316,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
-    "id": 2127,
-    "gamble_group": 1026,
-    "skin_id": 300504,
+    "id": 90127,
+    "gamble_group": 1025,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -33988,6 +34807,27 @@
     "id": 2224,
     "gamble_group": 1026,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2225,
+    "gamble_group": 1026,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2226,
+    "gamble_group": 1026,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2227,
+    "gamble_group": 1026,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -34825,23 +35665,23 @@
     "pick_up_check": 0
   },
   {
-    "id": 2525,
-    "gamble_group": 1029,
-    "skin_id": 300503,
+    "id": 108125,
+    "gamble_group": 1027,
+    "skin_id": 355001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
-    "id": 2526,
-    "gamble_group": 1029,
-    "skin_id": 300501,
-    "gamble_rate": 10,
+    "id": 108126,
+    "gamble_group": 1027,
+    "skin_id": 300316,
+    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
-    "id": 2527,
-    "gamble_group": 1029,
-    "skin_id": 300504,
+    "id": 108127,
+    "gamble_group": 1027,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -35493,6 +36333,27 @@
     "id": 2624,
     "gamble_group": 1029,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2625,
+    "gamble_group": 1029,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2626,
+    "gamble_group": 1029,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 2627,
+    "gamble_group": 1029,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -36330,6 +37191,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 105125,
+    "gamble_group": 1030,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 105126,
+    "gamble_group": 1030,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 105127,
+    "gamble_group": 1030,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 106002,
     "gamble_group": 1031,
     "skin_id": 300101,
@@ -37159,6 +38041,27 @@
     "id": 106124,
     "gamble_group": 1031,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 106125,
+    "gamble_group": 1031,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 106126,
+    "gamble_group": 1031,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 106127,
+    "gamble_group": 1031,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -37996,6 +38899,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 100125,
+    "gamble_group": 1032,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 100126,
+    "gamble_group": 1032,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 100127,
+    "gamble_group": 1032,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 101002,
     "gamble_group": 1033,
     "skin_id": 300101,
@@ -38825,6 +39749,27 @@
     "id": 101124,
     "gamble_group": 1033,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 101125,
+    "gamble_group": 1033,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 101126,
+    "gamble_group": 1033,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 101127,
+    "gamble_group": 1033,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -39662,6 +40607,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 102125,
+    "gamble_group": 1034,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 102126,
+    "gamble_group": 1034,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 102127,
+    "gamble_group": 1034,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 103002,
     "gamble_group": 1035,
     "skin_id": 300101,
@@ -40491,6 +41457,27 @@
     "id": 103124,
     "gamble_group": 1035,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 103125,
+    "gamble_group": 1035,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 103126,
+    "gamble_group": 1035,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 103127,
+    "gamble_group": 1035,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -41335,6 +42322,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 119125,
+    "gamble_group": 1036,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 119126,
+    "gamble_group": 1036,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 119127,
+    "gamble_group": 1036,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 120002,
     "gamble_group": 1037,
     "skin_id": 300101,
@@ -42164,6 +43172,27 @@
     "id": 120124,
     "gamble_group": 1037,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 120125,
+    "gamble_group": 1037,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 120126,
+    "gamble_group": 1037,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 120127,
+    "gamble_group": 1037,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -43001,6 +44030,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 121125,
+    "gamble_group": 1038,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 121126,
+    "gamble_group": 1038,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 121127,
+    "gamble_group": 1038,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 122002,
     "gamble_group": 1039,
     "skin_id": 300101,
@@ -43830,6 +44880,27 @@
     "id": 122124,
     "gamble_group": 1039,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 122125,
+    "gamble_group": 1039,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 122126,
+    "gamble_group": 1039,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 122127,
+    "gamble_group": 1039,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -44667,6 +45738,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 123125,
+    "gamble_group": 1040,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 123126,
+    "gamble_group": 1040,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 123127,
+    "gamble_group": 1040,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 124002,
     "gamble_group": 2011,
     "skin_id": 300101,
@@ -45496,6 +46588,27 @@
     "id": 124124,
     "gamble_group": 2011,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 124125,
+    "gamble_group": 2011,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 124126,
+    "gamble_group": 2011,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 124127,
+    "gamble_group": 2011,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -46333,6 +47446,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 125125,
+    "gamble_group": 2012,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 125126,
+    "gamble_group": 2012,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 125127,
+    "gamble_group": 2012,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 126002,
     "gamble_group": 1041,
     "skin_id": 300101,
@@ -47162,6 +48296,27 @@
     "id": 126124,
     "gamble_group": 1041,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 126125,
+    "gamble_group": 1041,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 126126,
+    "gamble_group": 1041,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 126127,
+    "gamble_group": 1041,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -47999,6 +49154,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 127125,
+    "gamble_group": 2013,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 127126,
+    "gamble_group": 2013,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 127127,
+    "gamble_group": 2013,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 128002,
     "gamble_group": 1042,
     "skin_id": 300101,
@@ -48832,6 +50008,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 128125,
+    "gamble_group": 1042,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 128126,
+    "gamble_group": 1042,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 128127,
+    "gamble_group": 1042,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 129002,
     "gamble_group": 1043,
     "skin_id": 300101,
@@ -49084,13 +50281,6 @@
     "pick_up_check": 0
   },
   {
-    "id": 129038,
-    "gamble_group": 1043,
-    "skin_id": 0,
-    "gamble_rate": 0,
-    "pick_up_check": 0
-  },
-  {
     "id": 129039,
     "gamble_group": 1043,
     "skin_id": 300801,
@@ -49189,13 +50379,6 @@
     "pick_up_check": 0
   },
   {
-    "id": 129053,
-    "gamble_group": 1043,
-    "skin_id": 0,
-    "gamble_rate": 0,
-    "pick_up_check": 0
-  },
-  {
     "id": 129054,
     "gamble_group": 1043,
     "skin_id": 304505,
@@ -49214,13 +50397,6 @@
     "gamble_group": 1043,
     "skin_id": 304602,
     "gamble_rate": 10,
-    "pick_up_check": 0
-  },
-  {
-    "id": 129057,
-    "gamble_group": 1043,
-    "skin_id": 0,
-    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -49249,13 +50425,6 @@
     "gamble_group": 1043,
     "skin_id": 303801,
     "gamble_rate": 10,
-    "pick_up_check": 0
-  },
-  {
-    "id": 129062,
-    "gamble_group": 1043,
-    "skin_id": 0,
-    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -49693,6 +50862,27 @@
     "pick_up_check": 1
   },
   {
+    "id": 129125,
+    "gamble_group": 1043,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 129126,
+    "gamble_group": 1043,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 129127,
+    "gamble_group": 1043,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 130002,
     "gamble_group": 2014,
     "skin_id": 300101,
@@ -49945,13 +51135,6 @@
     "pick_up_check": 0
   },
   {
-    "id": 130038,
-    "gamble_group": 2014,
-    "skin_id": 0,
-    "gamble_rate": 0,
-    "pick_up_check": 0
-  },
-  {
     "id": 130039,
     "gamble_group": 2014,
     "skin_id": 300801,
@@ -50050,13 +51233,6 @@
     "pick_up_check": 0
   },
   {
-    "id": 130053,
-    "gamble_group": 2014,
-    "skin_id": 0,
-    "gamble_rate": 0,
-    "pick_up_check": 0
-  },
-  {
     "id": 130054,
     "gamble_group": 2014,
     "skin_id": 304505,
@@ -50110,13 +51286,6 @@
     "gamble_group": 2014,
     "skin_id": 303801,
     "gamble_rate": 10,
-    "pick_up_check": 0
-  },
-  {
-    "id": 130062,
-    "gamble_group": 2014,
-    "skin_id": 0,
-    "gamble_rate": 0,
     "pick_up_check": 0
   },
   {
@@ -50550,6 +51719,27 @@
     "id": 130124,
     "gamble_group": 2014,
     "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 130125,
+    "gamble_group": 2014,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 130126,
+    "gamble_group": 2014,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 130127,
+    "gamble_group": 2014,
+    "skin_id": 317001,
     "gamble_rate": 0,
     "pick_up_check": 0
   },
@@ -51387,6 +52577,27 @@
     "pick_up_check": 0
   },
   {
+    "id": 131125,
+    "gamble_group": 1044,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 131126,
+    "gamble_group": 1044,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 131127,
+    "gamble_group": 1044,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
     "id": 132002,
     "gamble_group": 2015,
     "skin_id": 300101,
@@ -52217,6 +53428,1735 @@
     "gamble_group": 2015,
     "skin_id": 305101,
     "gamble_rate": 20,
+    "pick_up_check": 1
+  },
+  {
+    "id": 132125,
+    "gamble_group": 2015,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 132126,
+    "gamble_group": 2015,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 132127,
+    "gamble_group": 2015,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133002,
+    "gamble_group": 1045,
+    "skin_id": 300101,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133003,
+    "gamble_group": 1045,
+    "skin_id": 300104,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133004,
+    "gamble_group": 1045,
+    "skin_id": 310101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133005,
+    "gamble_group": 1045,
+    "skin_id": 310104,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133006,
+    "gamble_group": 1045,
+    "skin_id": 310102,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133007,
+    "gamble_group": 1045,
+    "skin_id": 310202,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133008,
+    "gamble_group": 1045,
+    "skin_id": 310201,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133009,
+    "gamble_group": 1045,
+    "skin_id": 310210,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133010,
+    "gamble_group": 1045,
+    "skin_id": 300201,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133011,
+    "gamble_group": 1045,
+    "skin_id": 300212,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133012,
+    "gamble_group": 1045,
+    "skin_id": 300211,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133013,
+    "gamble_group": 1045,
+    "skin_id": 300310,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133014,
+    "gamble_group": 1045,
+    "skin_id": 300303,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133015,
+    "gamble_group": 1045,
+    "skin_id": 300304,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133016,
+    "gamble_group": 1045,
+    "skin_id": 310304,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133017,
+    "gamble_group": 1045,
+    "skin_id": 310302,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133018,
+    "gamble_group": 1045,
+    "skin_id": 310301,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133019,
+    "gamble_group": 1045,
+    "skin_id": 310401,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133020,
+    "gamble_group": 1045,
+    "skin_id": 310404,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133021,
+    "gamble_group": 1045,
+    "skin_id": 310402,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133022,
+    "gamble_group": 1045,
+    "skin_id": 310407,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133023,
+    "gamble_group": 1045,
+    "skin_id": 300406,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133024,
+    "gamble_group": 1045,
+    "skin_id": 300403,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133025,
+    "gamble_group": 1045,
+    "skin_id": 300503,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133026,
+    "gamble_group": 1045,
+    "skin_id": 300501,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133027,
+    "gamble_group": 1045,
+    "skin_id": 300504,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133028,
+    "gamble_group": 1045,
+    "skin_id": 310505,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133029,
+    "gamble_group": 1045,
+    "skin_id": 310501,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133030,
+    "gamble_group": 1045,
+    "skin_id": 310503,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133031,
+    "gamble_group": 1045,
+    "skin_id": 300605,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133032,
+    "gamble_group": 1045,
+    "skin_id": 300602,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133033,
+    "gamble_group": 1045,
+    "skin_id": 300601,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133034,
+    "gamble_group": 1045,
+    "skin_id": 301302,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133035,
+    "gamble_group": 1045,
+    "skin_id": 301301,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133036,
+    "gamble_group": 1045,
+    "skin_id": 301305,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133037,
+    "gamble_group": 1045,
+    "skin_id": 300805,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133039,
+    "gamble_group": 1045,
+    "skin_id": 300801,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133040,
+    "gamble_group": 1045,
+    "skin_id": 301110,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133041,
+    "gamble_group": 1045,
+    "skin_id": 301111,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133042,
+    "gamble_group": 1045,
+    "skin_id": 301103,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133043,
+    "gamble_group": 1045,
+    "skin_id": 300704,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133044,
+    "gamble_group": 1045,
+    "skin_id": 300703,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133045,
+    "gamble_group": 1045,
+    "skin_id": 300702,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133046,
+    "gamble_group": 1045,
+    "skin_id": 300905,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133047,
+    "gamble_group": 1045,
+    "skin_id": 300902,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133048,
+    "gamble_group": 1045,
+    "skin_id": 300903,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133049,
+    "gamble_group": 1045,
+    "skin_id": 301001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133050,
+    "gamble_group": 1045,
+    "skin_id": 301005,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133051,
+    "gamble_group": 1045,
+    "skin_id": 301002,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133052,
+    "gamble_group": 1045,
+    "skin_id": 304501,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133054,
+    "gamble_group": 1045,
+    "skin_id": 304505,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133055,
+    "gamble_group": 1045,
+    "skin_id": 304601,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133056,
+    "gamble_group": 1045,
+    "skin_id": 304602,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133058,
+    "gamble_group": 1045,
+    "skin_id": 301203,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133059,
+    "gamble_group": 1045,
+    "skin_id": 301204,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133060,
+    "gamble_group": 1045,
+    "skin_id": 301206,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133061,
+    "gamble_group": 1045,
+    "skin_id": 303801,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133063,
+    "gamble_group": 1045,
+    "skin_id": 303806,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133064,
+    "gamble_group": 1045,
+    "skin_id": 302801,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133065,
+    "gamble_group": 1045,
+    "skin_id": 302901,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133066,
+    "gamble_group": 1045,
+    "skin_id": 303001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133067,
+    "gamble_group": 1045,
+    "skin_id": 303101,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133068,
+    "gamble_group": 1045,
+    "skin_id": 303201,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133069,
+    "gamble_group": 1045,
+    "skin_id": 303301,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133070,
+    "gamble_group": 1045,
+    "skin_id": 303501,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133071,
+    "gamble_group": 1045,
+    "skin_id": 303601,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133072,
+    "gamble_group": 1045,
+    "skin_id": 303702,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133073,
+    "gamble_group": 1045,
+    "skin_id": 304001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133074,
+    "gamble_group": 1045,
+    "skin_id": 304101,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133075,
+    "gamble_group": 1045,
+    "skin_id": 304201,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133076,
+    "gamble_group": 1045,
+    "skin_id": 304301,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133077,
+    "gamble_group": 1045,
+    "skin_id": 304406,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133078,
+    "gamble_group": 1045,
+    "skin_id": 304701,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133079,
+    "gamble_group": 1045,
+    "skin_id": 305001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133080,
+    "gamble_group": 1045,
+    "skin_id": 310601,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133081,
+    "gamble_group": 1045,
+    "skin_id": 310701,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133082,
+    "gamble_group": 1045,
+    "skin_id": 310801,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133083,
+    "gamble_group": 1045,
+    "skin_id": 310901,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133084,
+    "gamble_group": 1045,
+    "skin_id": 311001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133085,
+    "gamble_group": 1045,
+    "skin_id": 304804,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133086,
+    "gamble_group": 1045,
+    "skin_id": 305003,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133087,
+    "gamble_group": 1045,
+    "skin_id": 313001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133088,
+    "gamble_group": 1045,
+    "skin_id": 312003,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133089,
+    "gamble_group": 1045,
+    "skin_id": 311005,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133090,
+    "gamble_group": 1045,
+    "skin_id": 300181,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133091,
+    "gamble_group": 1045,
+    "skin_id": 300881,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133092,
+    "gamble_group": 1045,
+    "skin_id": 304881,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133093,
+    "gamble_group": 1045,
+    "skin_id": 314001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133094,
+    "gamble_group": 1045,
+    "skin_id": 315001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133095,
+    "gamble_group": 1045,
+    "skin_id": 333001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133096,
+    "gamble_group": 1045,
+    "skin_id": 334001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133097,
+    "gamble_group": 1045,
+    "skin_id": 339001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133098,
+    "gamble_group": 1045,
+    "skin_id": 316001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133099,
+    "gamble_group": 1045,
+    "skin_id": 337001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133100,
+    "gamble_group": 1045,
+    "skin_id": 338001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133101,
+    "gamble_group": 1045,
+    "skin_id": 345001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133102,
+    "gamble_group": 1045,
+    "skin_id": 312001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133103,
+    "gamble_group": 1045,
+    "skin_id": 300217,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133104,
+    "gamble_group": 1045,
+    "skin_id": 301119,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133105,
+    "gamble_group": 1045,
+    "skin_id": 346001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133106,
+    "gamble_group": 1045,
+    "skin_id": 321001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133107,
+    "gamble_group": 1045,
+    "skin_id": 321003,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133108,
+    "gamble_group": 1045,
+    "skin_id": 304810,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133109,
+    "gamble_group": 1045,
+    "skin_id": 347001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133110,
+    "gamble_group": 1045,
+    "skin_id": 348001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133111,
+    "gamble_group": 1045,
+    "skin_id": 320001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133112,
+    "gamble_group": 1045,
+    "skin_id": 320003,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133113,
+    "gamble_group": 1045,
+    "skin_id": 340001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133114,
+    "gamble_group": 1045,
+    "skin_id": 305009,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133115,
+    "gamble_group": 1045,
+    "skin_id": 341001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133116,
+    "gamble_group": 1045,
+    "skin_id": 304901,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133117,
+    "gamble_group": 1045,
+    "skin_id": 318001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133118,
+    "gamble_group": 1045,
+    "skin_id": 342001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133119,
+    "gamble_group": 1045,
+    "skin_id": 313003,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133120,
+    "gamble_group": 1045,
+    "skin_id": 314003,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133121,
+    "gamble_group": 1045,
+    "skin_id": 322001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133122,
+    "gamble_group": 1045,
+    "skin_id": 349001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133123,
+    "gamble_group": 1045,
+    "skin_id": 343001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133124,
+    "gamble_group": 1045,
+    "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133125,
+    "gamble_group": 1045,
+    "skin_id": 355001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133126,
+    "gamble_group": 1045,
+    "skin_id": 300316,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 133127,
+    "gamble_group": 1045,
+    "skin_id": 317001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134002,
+    "gamble_group": 1046,
+    "skin_id": 300101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134003,
+    "gamble_group": 1046,
+    "skin_id": 300104,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134004,
+    "gamble_group": 1046,
+    "skin_id": 310101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134005,
+    "gamble_group": 1046,
+    "skin_id": 310104,
+    "gamble_rate": 100,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134006,
+    "gamble_group": 1046,
+    "skin_id": 310102,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134007,
+    "gamble_group": 1046,
+    "skin_id": 310202,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134008,
+    "gamble_group": 1046,
+    "skin_id": 310201,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134009,
+    "gamble_group": 1046,
+    "skin_id": 310210,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134010,
+    "gamble_group": 1046,
+    "skin_id": 300201,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134011,
+    "gamble_group": 1046,
+    "skin_id": 300212,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134012,
+    "gamble_group": 1046,
+    "skin_id": 300211,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134013,
+    "gamble_group": 1046,
+    "skin_id": 300310,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134014,
+    "gamble_group": 1046,
+    "skin_id": 300303,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134015,
+    "gamble_group": 1046,
+    "skin_id": 300304,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134016,
+    "gamble_group": 1046,
+    "skin_id": 310304,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134017,
+    "gamble_group": 1046,
+    "skin_id": 310302,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134018,
+    "gamble_group": 1046,
+    "skin_id": 310301,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134019,
+    "gamble_group": 1046,
+    "skin_id": 310401,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134020,
+    "gamble_group": 1046,
+    "skin_id": 310404,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134021,
+    "gamble_group": 1046,
+    "skin_id": 310402,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134022,
+    "gamble_group": 1046,
+    "skin_id": 310407,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134023,
+    "gamble_group": 1046,
+    "skin_id": 300406,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134024,
+    "gamble_group": 1046,
+    "skin_id": 300403,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134025,
+    "gamble_group": 1046,
+    "skin_id": 300503,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134026,
+    "gamble_group": 1046,
+    "skin_id": 300501,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134027,
+    "gamble_group": 1046,
+    "skin_id": 300504,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134028,
+    "gamble_group": 1046,
+    "skin_id": 310505,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134029,
+    "gamble_group": 1046,
+    "skin_id": 310501,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134030,
+    "gamble_group": 1046,
+    "skin_id": 310503,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134031,
+    "gamble_group": 1046,
+    "skin_id": 300605,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134032,
+    "gamble_group": 1046,
+    "skin_id": 300602,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134033,
+    "gamble_group": 1046,
+    "skin_id": 300601,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134034,
+    "gamble_group": 1046,
+    "skin_id": 301302,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134035,
+    "gamble_group": 1046,
+    "skin_id": 301301,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134036,
+    "gamble_group": 1046,
+    "skin_id": 301305,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134037,
+    "gamble_group": 1046,
+    "skin_id": 300805,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134039,
+    "gamble_group": 1046,
+    "skin_id": 300801,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134040,
+    "gamble_group": 1046,
+    "skin_id": 301110,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134041,
+    "gamble_group": 1046,
+    "skin_id": 301111,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134042,
+    "gamble_group": 1046,
+    "skin_id": 301103,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134043,
+    "gamble_group": 1046,
+    "skin_id": 300704,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134044,
+    "gamble_group": 1046,
+    "skin_id": 300703,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134045,
+    "gamble_group": 1046,
+    "skin_id": 300702,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134046,
+    "gamble_group": 1046,
+    "skin_id": 300905,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134047,
+    "gamble_group": 1046,
+    "skin_id": 300902,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134048,
+    "gamble_group": 1046,
+    "skin_id": 300903,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134049,
+    "gamble_group": 1046,
+    "skin_id": 301001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134050,
+    "gamble_group": 1046,
+    "skin_id": 301005,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134051,
+    "gamble_group": 1046,
+    "skin_id": 301002,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134052,
+    "gamble_group": 1046,
+    "skin_id": 304501,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134054,
+    "gamble_group": 1046,
+    "skin_id": 304505,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134055,
+    "gamble_group": 1046,
+    "skin_id": 304601,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134056,
+    "gamble_group": 1046,
+    "skin_id": 304602,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134058,
+    "gamble_group": 1046,
+    "skin_id": 301203,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134059,
+    "gamble_group": 1046,
+    "skin_id": 301204,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134060,
+    "gamble_group": 1046,
+    "skin_id": 301206,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134061,
+    "gamble_group": 1046,
+    "skin_id": 303801,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134063,
+    "gamble_group": 1046,
+    "skin_id": 303806,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134064,
+    "gamble_group": 1046,
+    "skin_id": 302801,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134065,
+    "gamble_group": 1046,
+    "skin_id": 302901,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134066,
+    "gamble_group": 1046,
+    "skin_id": 303001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134067,
+    "gamble_group": 1046,
+    "skin_id": 303101,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134068,
+    "gamble_group": 1046,
+    "skin_id": 303201,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134069,
+    "gamble_group": 1046,
+    "skin_id": 303301,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134070,
+    "gamble_group": 1046,
+    "skin_id": 303501,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134071,
+    "gamble_group": 1046,
+    "skin_id": 303601,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134072,
+    "gamble_group": 1046,
+    "skin_id": 303702,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134073,
+    "gamble_group": 1046,
+    "skin_id": 304001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134074,
+    "gamble_group": 1046,
+    "skin_id": 304101,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134075,
+    "gamble_group": 1046,
+    "skin_id": 304201,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134076,
+    "gamble_group": 1046,
+    "skin_id": 304301,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134077,
+    "gamble_group": 1046,
+    "skin_id": 304406,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134078,
+    "gamble_group": 1046,
+    "skin_id": 304701,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134079,
+    "gamble_group": 1046,
+    "skin_id": 305001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134080,
+    "gamble_group": 1046,
+    "skin_id": 310601,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134081,
+    "gamble_group": 1046,
+    "skin_id": 310701,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134082,
+    "gamble_group": 1046,
+    "skin_id": 310801,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134083,
+    "gamble_group": 1046,
+    "skin_id": 310901,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134084,
+    "gamble_group": 1046,
+    "skin_id": 311001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134085,
+    "gamble_group": 1046,
+    "skin_id": 304804,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134086,
+    "gamble_group": 1046,
+    "skin_id": 305003,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134087,
+    "gamble_group": 1046,
+    "skin_id": 313001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134088,
+    "gamble_group": 1046,
+    "skin_id": 312003,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134089,
+    "gamble_group": 1046,
+    "skin_id": 311005,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134090,
+    "gamble_group": 1046,
+    "skin_id": 300181,
+    "gamble_rate": 100,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134091,
+    "gamble_group": 1046,
+    "skin_id": 300881,
+    "gamble_rate": 100,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134092,
+    "gamble_group": 1046,
+    "skin_id": 304881,
+    "gamble_rate": 100,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134093,
+    "gamble_group": 1046,
+    "skin_id": 314001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134094,
+    "gamble_group": 1046,
+    "skin_id": 315001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134095,
+    "gamble_group": 1046,
+    "skin_id": 333001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134096,
+    "gamble_group": 1046,
+    "skin_id": 334001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134097,
+    "gamble_group": 1046,
+    "skin_id": 339001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134098,
+    "gamble_group": 1046,
+    "skin_id": 316001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134099,
+    "gamble_group": 1046,
+    "skin_id": 337001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134100,
+    "gamble_group": 1046,
+    "skin_id": 338001,
+    "gamble_rate": 10,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134101,
+    "gamble_group": 1046,
+    "skin_id": 345001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134102,
+    "gamble_group": 1046,
+    "skin_id": 312001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134103,
+    "gamble_group": 1046,
+    "skin_id": 300217,
+    "gamble_rate": 100,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134104,
+    "gamble_group": 1046,
+    "skin_id": 301119,
+    "gamble_rate": 100,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134105,
+    "gamble_group": 1046,
+    "skin_id": 346001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134106,
+    "gamble_group": 1046,
+    "skin_id": 321001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134107,
+    "gamble_group": 1046,
+    "skin_id": 321003,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134108,
+    "gamble_group": 1046,
+    "skin_id": 304810,
+    "gamble_rate": 100,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134109,
+    "gamble_group": 1046,
+    "skin_id": 347001,
+    "gamble_rate": 100,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134110,
+    "gamble_group": 1046,
+    "skin_id": 348001,
+    "gamble_rate": 100,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134111,
+    "gamble_group": 1046,
+    "skin_id": 320001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134112,
+    "gamble_group": 1046,
+    "skin_id": 320003,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134113,
+    "gamble_group": 1046,
+    "skin_id": 340001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134114,
+    "gamble_group": 1046,
+    "skin_id": 305009,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134115,
+    "gamble_group": 1046,
+    "skin_id": 341001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134116,
+    "gamble_group": 1046,
+    "skin_id": 304901,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134117,
+    "gamble_group": 1046,
+    "skin_id": 318001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134118,
+    "gamble_group": 1046,
+    "skin_id": 342001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134119,
+    "gamble_group": 1046,
+    "skin_id": 313003,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134120,
+    "gamble_group": 1046,
+    "skin_id": 314003,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134121,
+    "gamble_group": 1046,
+    "skin_id": 322001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134122,
+    "gamble_group": 1046,
+    "skin_id": 349001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134123,
+    "gamble_group": 1046,
+    "skin_id": 343001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134124,
+    "gamble_group": 1046,
+    "skin_id": 305101,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134125,
+    "gamble_group": 1046,
+    "skin_id": 355001,
+    "gamble_rate": 0,
+    "pick_up_check": 0
+  },
+  {
+    "id": 134126,
+    "gamble_group": 1046,
+    "skin_id": 300316,
+    "gamble_rate": 225,
+    "pick_up_check": 1
+  },
+  {
+    "id": 134127,
+    "gamble_group": 1046,
+    "skin_id": 317001,
+    "gamble_rate": 225,
     "pick_up_check": 1
   }
 ]

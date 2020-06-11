@@ -236,17 +236,17 @@
   },
   {
     "id": 48,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91100501
   },
   {
     "id": 49,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91100511
   },
   {
     "id": 50,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91100521
   },
   {
@@ -281,17 +281,17 @@
   },
   {
     "id": 57,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91100601
   },
   {
     "id": 58,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91100611
   },
   {
     "id": 59,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91100621
   },
   {
@@ -301,12 +301,12 @@
   },
   {
     "id": 61,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91100901
   },
   {
     "id": 62,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91100911
   },
   {
@@ -316,17 +316,17 @@
   },
   {
     "id": 64,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101101
   },
   {
     "id": 65,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101111
   },
   {
     "id": 66,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101121
   },
   {
@@ -356,12 +356,12 @@
   },
   {
     "id": 72,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101001
   },
   {
     "id": 73,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101011
   },
   {
@@ -481,12 +481,12 @@
   },
   {
     "id": 97,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101701
   },
   {
     "id": 98,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101711
   },
   {
@@ -501,12 +501,12 @@
   },
   {
     "id": 101,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101801
   },
   {
     "id": 102,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101811
   },
   {
@@ -546,7 +546,7 @@
   },
   {
     "id": 110,
-    "type": "main",
+    "type": "extra",
     "stage_id": 91101921
   },
   {
@@ -593,5 +593,45 @@
     "id": 120,
     "type": "quest",
     "stage_id": 22059
+  },
+  {
+    "id": 121,
+    "type": "main",
+    "stage_id": 1300201
+  },
+  {
+    "id": 122,
+    "type": "main",
+    "stage_id": 1300211
+  },
+  {
+    "id": 123,
+    "type": "extra",
+    "stage_id": 91102101
+  },
+  {
+    "id": 124,
+    "type": "extra",
+    "stage_id": 91102111
+  },
+  {
+    "id": 125,
+    "type": "extra",
+    "stage_id": 91102121
+  },
+  {
+    "id": 126,
+    "type": "quest",
+    "stage_id": 30010
+  },
+  {
+    "id": 127,
+    "type": "quest",
+    "stage_id": 30011
+  },
+  {
+    "id": 128,
+    "type": "quest",
+    "stage_id": 30012
   }
 ]

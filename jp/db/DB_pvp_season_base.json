@@ -4,10 +4,10 @@
     "season_start_date": "2020-02-03 0:00",
     "season_limited_date": "2020-03-01 23:59",
     "season_past_limited_date": "2099-01-01 23:59",
-    "season_title": "6362",
+    "season_title": "10110",
     "season_banner_s": "pvp_season_banner_01_s",
-    "season_banner_s_title": "6360",
-    "season_banner_s_desc": "39685",
+    "season_banner_s_title": "10108",
+    "season_banner_s_desc": "43410",
     "season_reward_group": 1
   },
   {
@@ -15,10 +15,10 @@
     "season_start_date": "2020-03-30 0:00",
     "season_limited_date": "2020-04-26 23:59",
     "season_past_limited_date": "2099-01-01 23:59",
-    "season_title": "6363",
+    "season_title": "10111",
     "season_banner_s": "pvp_season_banner_02_s",
-    "season_banner_s_title": "6361",
-    "season_banner_s_desc": "39686",
+    "season_banner_s_title": "10109",
+    "season_banner_s_desc": "43411",
     "season_reward_group": 2
   },
   {
@@ -26,10 +26,10 @@
     "season_start_date": "2020-04-27 0:00",
     "season_limited_date": "2020-05-24 23:59",
     "season_past_limited_date": "2099-01-01 23:59",
-    "season_title": "41005",
+    "season_title": "44730",
     "season_banner_s": "s_banner_pvp_season_shared_01",
-    "season_banner_s_title": "41006",
-    "season_banner_s_desc": "41807",
+    "season_banner_s_title": "44731",
+    "season_banner_s_desc": "45690",
     "season_reward_group": 2
   }
 ]

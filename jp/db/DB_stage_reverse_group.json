@@ -3,56 +3,108 @@
     "id": 1,
     "season_id": 1,
     "group_id": 1,
-    "reverse_area_name": "37800",
+    "reverse_area_name": "41632",
     "map_resource_path": "UI/Image/Loading/Default/Background",
-    "map_resource": "adventure_stagelist_bg_06"
+    "map_resource": "adventure_stagelist_bg_06",
+    "open_value": 18021
   },
   {
     "id": 2,
     "season_id": 1,
     "group_id": 2,
-    "reverse_area_name": "37799",
+    "reverse_area_name": "41631",
     "map_resource_path": "UI/Image/Loading/Default/Background",
-    "map_resource": "adventure_stagelist_bg_04"
+    "map_resource": "adventure_stagelist_bg_04",
+    "open_value": 18021
   },
   {
     "id": 3,
     "season_id": 1,
     "group_id": 3,
-    "reverse_area_name": "37804",
+    "reverse_area_name": "41636",
     "map_resource_path": "UI/Image/Loading/Default/Background",
-    "map_resource": "adventure_stagelist_bg_extra_king_01"
+    "map_resource": "adventure_stagelist_bg_extra_king_01",
+    "open_value": 18021
   },
   {
     "id": 4,
     "season_id": 1,
     "group_id": 4,
-    "reverse_area_name": "37805",
+    "reverse_area_name": "41637",
     "map_resource_path": "UI/Image/Loading/Default/Background",
-    "map_resource": "adventure_stagelist_bg_19"
+    "map_resource": "adventure_stagelist_bg_19",
+    "open_value": 18021
   },
   {
     "id": 5,
     "season_id": 1,
     "group_id": 5,
-    "reverse_area_name": "37801",
+    "reverse_area_name": "41633",
     "map_resource_path": "UI/Image/Loading/Default/Background",
-    "map_resource": "adventure_stagelist_bg_10"
+    "map_resource": "adventure_stagelist_bg_10",
+    "open_value": 18021
   },
   {
     "id": 6,
     "season_id": 1,
     "group_id": 6,
-    "reverse_area_name": "37802",
+    "reverse_area_name": "41634",
     "map_resource_path": "UI/Image/Loading/Default/Background",
-    "map_resource": "adventure_stagelist_bg_05"
+    "map_resource": "adventure_stagelist_bg_05",
+    "open_value": 18021
   },
   {
     "id": 7,
     "season_id": 1,
     "group_id": 7,
-    "reverse_area_name": "37803",
+    "reverse_area_name": "41635",
     "map_resource_path": "UI/Image/Loading/Default/Background",
-    "map_resource": "adventure_stagelist_bg_09"
+    "map_resource": "adventure_stagelist_bg_09",
+    "open_value": 18021
+  },
+  {
+    "id": 8,
+    "season_id": 2,
+    "group_id": 1,
+    "reverse_area_name": "45382",
+    "map_resource_path": "UI/Image/Loading/Default/Background",
+    "map_resource": "adventure_stagelist_bg_27",
+    "open_value": 22015
+  },
+  {
+    "id": 9,
+    "season_id": 2,
+    "group_id": 2,
+    "reverse_area_name": "45383",
+    "map_resource_path": "UI/Image/Loading/Default/Background",
+    "map_resource": "story_bg_town_LONS_kingroom",
+    "open_value": 22015
+  },
+  {
+    "id": 10,
+    "season_id": 2,
+    "group_id": 3,
+    "reverse_area_name": "45384",
+    "map_resource_path": "UI/Image/Loading/Default/Background",
+    "map_resource": "adventure_stagelist_bg_06",
+    "open_value": 22015
+  },
+  {
+    "id": 11,
+    "season_id": 2,
+    "group_id": 4,
+    "reverse_area_name": "45385",
+    "map_resource_path": "UI/Image/Loading/Default/Background",
+    "map_resource": "story_bg_map_LONStg_stage_01",
+    "open_value": 22015
+  },
+  {
+    "id": 12,
+    "season_id": 2,
+    "group_id": 5,
+    "reverse_area_name": "45397",
+    "map_resource_path": "UI/Image/Loading/Default/Background",
+    "map_resource": "story_bg_map_SGFort_stage_01",
+    "open_value": 22015
   }
 ]

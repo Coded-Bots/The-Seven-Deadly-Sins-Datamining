@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1001,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910711,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 1
+  },
+  {
+    "id": 1002,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910712,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 2
+  },
+  {
+    "id": 1003,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910713,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 3
+  },
+  {
+    "id": 1004,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910714,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 4
+  },
+  {
+    "id": 1005,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910715,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 5
+  },
+  {
+    "id": 1006,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910716,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 6
+  },
+  {
+    "id": 1007,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910717,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 7
+  },
+  {
+    "id": 1008,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910718,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 8
+  },
+  {
+    "id": 1009,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910719,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 9
+  },
+  {
+    "id": 1010,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910720,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 10
+  },
+  {
+    "id": 1011,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910721,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 11
+  },
+  {
+    "id": 1012,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910722,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 12
+  },
+  {
+    "id": 1013,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910723,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 13
+  },
+  {
+    "id": 1014,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910724,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 14
+  },
+  {
+    "id": 1015,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910725,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 15
+  },
+  {
+    "id": 1016,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910726,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 16
+  },
+  {
+    "id": 1017,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910727,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 17
+  },
+  {
+    "id": 1018,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910728,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 18
+  },
+  {
+    "id": 1019,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910729,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 19
+  },
+  {
+    "id": 1020,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910730,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 20
+  },
+  {
+    "id": 1021,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910731,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 21
+  },
+  {
+    "id": 1022,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910732,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 22
+  },
+  {
+    "id": 1023,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910733,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 23
+  },
+  {
+    "id": 1024,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910734,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 24
+  },
+  {
+    "id": 1025,
+    "event_sub_index": 2,
+    "bingo_exchange_group": 1001,
+    "material_1": 910710,
+    "material_count_1": 1,
+    "reward_1": 910735,
+    "reward_count_1": 1,
+    "event_bingo_random_id": 25
+  }
+]

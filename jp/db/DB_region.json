@@ -160,6 +160,21 @@
     "region_type": "extra"
   },
   {
+    "id": 13,
+    "time_slot": 0,
+    "region_type": "main"
+  },
+  {
+    "id": 1021,
+    "time_slot": 1,
+    "region_type": "extra"
+  },
+  {
+    "id": 14,
+    "time_slot": 1,
+    "region_type": "main"
+  },
+  {
     "id": 9201,
     "time_slot": 1,
     "region_type": "event"

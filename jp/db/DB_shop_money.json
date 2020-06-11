@@ -14,8 +14,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "nana_dia_4tier_001",
-    "goods_name": "23768",
-    "goods_explain": "23767",
+    "goods_name": "27515",
+    "goods_explain": "27514",
     "icon": "아이콘"
   },
   {
@@ -33,8 +33,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "nana_dia_8tier_001",
-    "goods_name": "23768",
-    "goods_explain": "23767",
+    "goods_name": "27515",
+    "goods_explain": "27514",
     "icon": "아이콘"
   },
   {
@@ -52,8 +52,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "nana_dia_24tier_001",
-    "goods_name": "23768",
-    "goods_explain": "23767",
+    "goods_name": "27515",
+    "goods_explain": "27514",
     "icon": "아이콘"
   },
   {
@@ -71,8 +71,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "nana_dia_40tier_001",
-    "goods_name": "23768",
-    "goods_explain": "23767",
+    "goods_name": "27515",
+    "goods_explain": "27514",
     "icon": "아이콘"
   },
   {
@@ -90,8 +90,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "nana_dia_56tier_001",
-    "goods_name": "23768",
-    "goods_explain": "23767",
+    "goods_name": "27515",
+    "goods_explain": "27514",
     "icon": "아이콘"
   },
   {
@@ -109,8 +109,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_levelup_001",
-    "goods_name": "23362",
-    "goods_explain": "22981",
+    "goods_name": "27109",
+    "goods_explain": "26728",
     "icon": "아이콘"
   },
   {
@@ -128,8 +128,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_levelup_002",
-    "goods_name": "23364",
-    "goods_explain": "22982",
+    "goods_name": "27111",
+    "goods_explain": "26729",
     "icon": "아이콘"
   },
   {
@@ -147,8 +147,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_levelup_003",
-    "goods_name": "23366",
-    "goods_explain": "22983",
+    "goods_name": "27113",
+    "goods_explain": "26730",
     "icon": "아이콘"
   },
   {
@@ -166,8 +166,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_levelup_0004",
-    "goods_name": "23368",
-    "goods_explain": "22984",
+    "goods_name": "27115",
+    "goods_explain": "26731",
     "icon": ""
   },
   {
@@ -185,8 +185,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_005",
-    "goods_name": "23370",
-    "goods_explain": "22985",
+    "goods_name": "27117",
+    "goods_explain": "26732",
     "icon": ""
   },
   {
@@ -204,8 +204,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_004",
-    "goods_name": "23372",
-    "goods_explain": "22986",
+    "goods_name": "27119",
+    "goods_explain": "26733",
     "icon": ""
   },
   {
@@ -223,8 +223,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "nana_attendance_4tier_001",
-    "goods_name": "23604",
-    "goods_explain": "23131",
+    "goods_name": "27351",
+    "goods_explain": "26878",
     "icon": "아이콘"
   },
   {
@@ -242,8 +242,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "nana_attendance_24tier_001",
-    "goods_name": "23608",
-    "goods_explain": "23133",
+    "goods_name": "27355",
+    "goods_explain": "26880",
     "icon": "아이콘"
   },
   {
@@ -261,8 +261,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "nana_attendance_8tier_001",
-    "goods_name": "23606",
-    "goods_explain": "23132",
+    "goods_name": "27353",
+    "goods_explain": "26879",
     "icon": ""
   },
   {
@@ -280,8 +280,27 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_027",
-    "goods_name": "39660",
-    "goods_explain": "39682",
+    "goods_name": "43385",
+    "goods_explain": "43407",
+    "icon": ""
+  },
+  {
+    "id": 2005,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 9900,
+    "price_jpy": 980,
+    "price_usd": 7.99,
+    "netmarble_item_id": "7sin_normal_8tier_032",
+    "goods_name": "46358",
+    "goods_explain": "46357",
     "icon": ""
   },
   {
@@ -299,8 +318,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_060",
-    "goods_name": "23380",
-    "goods_explain": "22996",
+    "goods_name": "27127",
+    "goods_explain": "26743",
     "icon": ""
   },
   {
@@ -318,8 +337,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_005",
-    "goods_name": "23381",
-    "goods_explain": "22997",
+    "goods_name": "27128",
+    "goods_explain": "26744",
     "icon": ""
   },
   {
@@ -337,8 +356,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_078",
-    "goods_name": "23383",
-    "goods_explain": "22998",
+    "goods_name": "27130",
+    "goods_explain": "26745",
     "icon": ""
   },
   {
@@ -356,8 +375,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_029",
-    "goods_name": "23385",
-    "goods_explain": "22999",
+    "goods_name": "27132",
+    "goods_explain": "26746",
     "icon": ""
   },
   {
@@ -375,8 +394,8 @@
     "price_jpy": 120,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_1tier_001",
-    "goods_name": "23387",
-    "goods_explain": "23000",
+    "goods_name": "27134",
+    "goods_explain": "26747",
     "icon": ""
   },
   {
@@ -394,8 +413,8 @@
     "price_jpy": 1220,
     "price_usd": 33.99,
     "netmarble_item_id": "7sin_normal_10tier_001",
-    "goods_name": "23389",
-    "goods_explain": "23001",
+    "goods_name": "27136",
+    "goods_explain": "26748",
     "icon": ""
   },
   {
@@ -413,8 +432,8 @@
     "price_jpy": 120,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_1tier_004",
-    "goods_name": "23392",
-    "goods_explain": "23002",
+    "goods_name": "27139",
+    "goods_explain": "26749",
     "icon": ""
   },
   {
@@ -432,8 +451,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_016",
-    "goods_name": "23394",
-    "goods_explain": "23003",
+    "goods_name": "27141",
+    "goods_explain": "26750",
     "icon": ""
   },
   {
@@ -451,8 +470,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_012",
-    "goods_name": "23396",
-    "goods_explain": "23004",
+    "goods_name": "27143",
+    "goods_explain": "26751",
     "icon": ""
   },
   {
@@ -470,8 +489,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_033",
-    "goods_name": "23398",
-    "goods_explain": "23005",
+    "goods_name": "27145",
+    "goods_explain": "26752",
     "icon": ""
   },
   {
@@ -489,8 +508,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_047",
-    "goods_name": "23400",
-    "goods_explain": "23006",
+    "goods_name": "27147",
+    "goods_explain": "26753",
     "icon": ""
   },
   {
@@ -508,8 +527,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_013",
-    "goods_name": "23402",
-    "goods_explain": "23007",
+    "goods_name": "27149",
+    "goods_explain": "26754",
     "icon": ""
   },
   {
@@ -527,8 +546,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_046",
-    "goods_name": "23404",
-    "goods_explain": "23008",
+    "goods_name": "27151",
+    "goods_explain": "26755",
     "icon": ""
   },
   {
@@ -546,8 +565,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_053",
-    "goods_name": "23406",
-    "goods_explain": "23009",
+    "goods_name": "27153",
+    "goods_explain": "26756",
     "icon": ""
   },
   {
@@ -565,8 +584,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_059",
-    "goods_name": "23408",
-    "goods_explain": "23010",
+    "goods_name": "27155",
+    "goods_explain": "26757",
     "icon": ""
   },
   {
@@ -584,8 +603,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_999",
-    "goods_name": "38496",
-    "goods_explain": "38494",
+    "goods_name": "42243",
+    "goods_explain": "42241",
     "icon": ""
   },
   {
@@ -603,8 +622,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_028",
-    "goods_name": "39012",
-    "goods_explain": "39010",
+    "goods_name": "42759",
+    "goods_explain": "42757",
     "icon": ""
   },
   {
@@ -622,8 +641,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_026",
-    "goods_name": "39538",
-    "goods_explain": "39536",
+    "goods_name": "43263",
+    "goods_explain": "43261",
     "icon": ""
   },
   {
@@ -641,8 +660,8 @@
     "price_jpy": 4900,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_40tier_037",
-    "goods_name": "39646",
-    "goods_explain": "39665",
+    "goods_name": "43371",
+    "goods_explain": "43390",
     "icon": ""
   },
   {
@@ -660,8 +679,8 @@
     "price_jpy": 4900,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_40tier_038",
-    "goods_name": "39647",
-    "goods_explain": "39666",
+    "goods_name": "43372",
+    "goods_explain": "43391",
     "icon": ""
   },
   {
@@ -679,8 +698,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_030",
-    "goods_name": "39648",
-    "goods_explain": "39667",
+    "goods_name": "43373",
+    "goods_explain": "43392",
     "icon": ""
   },
   {
@@ -698,8 +717,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_031",
-    "goods_name": "41780",
-    "goods_explain": "41778",
+    "goods_name": "45550",
+    "goods_explain": "45548",
     "icon": ""
   },
   {
@@ -717,8 +736,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_010",
-    "goods_name": "41855",
-    "goods_explain": "41851",
+    "goods_name": "46326",
+    "goods_explain": "46317",
     "icon": ""
   },
   {
@@ -736,8 +755,122 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_080",
-    "goods_name": "41856",
-    "goods_explain": "41852",
+    "goods_name": "46327",
+    "goods_explain": "46318",
+    "icon": ""
+  },
+  {
+    "id": 3173,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 49000,
+    "price_jpy": 4900,
+    "price_usd": 3.99,
+    "netmarble_item_id": "7sin_normal_40tier_042",
+    "goods_name": "46328",
+    "goods_explain": "46319",
+    "icon": ""
+  },
+  {
+    "id": 3174,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 99000,
+    "price_jpy": 10000,
+    "price_usd": 79.99,
+    "netmarble_item_id": "7sin_normal_56tier_038",
+    "goods_name": "46329",
+    "goods_explain": "46320",
+    "icon": ""
+  },
+  {
+    "id": 3175,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 49000,
+    "price_jpy": 4900,
+    "price_usd": 3.99,
+    "netmarble_item_id": "7sin_normal_40tier_009",
+    "goods_name": "47013",
+    "goods_explain": "47009",
+    "icon": ""
+  },
+  {
+    "id": 3176,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 99000,
+    "price_jpy": 10000,
+    "price_usd": 79.99,
+    "netmarble_item_id": "7sin_normal_56tier_011",
+    "goods_name": "47014",
+    "goods_explain": "47010",
+    "icon": ""
+  },
+  {
+    "id": 3177,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 1200,
+    "price_jpy": 120,
+    "price_usd": 3.99,
+    "netmarble_item_id": "7sin_normal_1tier_002",
+    "goods_name": "47021",
+    "goods_explain": "47019",
+    "icon": ""
+  },
+  {
+    "id": 3178,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 30000,
+    "price_jpy": 2940,
+    "price_usd": 23.99,
+    "netmarble_item_id": "7sin_normal_24tier_085",
+    "goods_name": "47023",
+    "goods_explain": "47024",
     "icon": ""
   },
   {
@@ -755,8 +888,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_003",
-    "goods_name": "23410",
-    "goods_explain": "23011",
+    "goods_name": "27157",
+    "goods_explain": "26758",
     "icon": "아이콘"
   },
   {
@@ -774,8 +907,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_006",
-    "goods_name": "23414",
-    "goods_explain": "23014",
+    "goods_name": "27161",
+    "goods_explain": "26761",
     "icon": "아이콘"
   },
   {
@@ -793,8 +926,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_999",
-    "goods_name": "23416",
-    "goods_explain": "23015",
+    "goods_name": "27163",
+    "goods_explain": "26762",
     "icon": "아이콘"
   },
   {
@@ -812,8 +945,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_001",
-    "goods_name": "23417",
-    "goods_explain": "23016",
+    "goods_name": "27164",
+    "goods_explain": "26763",
     "icon": "아이콘"
   },
   {
@@ -831,8 +964,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_999",
-    "goods_name": "23418",
-    "goods_explain": "23017",
+    "goods_name": "27165",
+    "goods_explain": "26764",
     "icon": "아이콘"
   },
   {
@@ -850,8 +983,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_002",
-    "goods_name": "23419",
-    "goods_explain": "23018",
+    "goods_name": "27166",
+    "goods_explain": "26765",
     "icon": "아이콘"
   },
   {
@@ -869,8 +1002,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_003",
-    "goods_name": "23420",
-    "goods_explain": "23019",
+    "goods_name": "27167",
+    "goods_explain": "26766",
     "icon": "아이콘"
   },
   {
@@ -888,8 +1021,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_026",
-    "goods_name": "23423",
-    "goods_explain": "23022",
+    "goods_name": "27170",
+    "goods_explain": "26769",
     "icon": ""
   },
   {
@@ -907,8 +1040,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_006",
-    "goods_name": "23425",
-    "goods_explain": "23024",
+    "goods_name": "27172",
+    "goods_explain": "26771",
     "icon": ""
   },
   {
@@ -926,8 +1059,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_006",
-    "goods_name": "23427",
-    "goods_explain": "23026",
+    "goods_name": "27174",
+    "goods_explain": "26773",
     "icon": ""
   },
   {
@@ -945,8 +1078,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_007",
-    "goods_name": "23428",
-    "goods_explain": "23027",
+    "goods_name": "27175",
+    "goods_explain": "26774",
     "icon": ""
   },
   {
@@ -964,8 +1097,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_008",
-    "goods_name": "23429",
-    "goods_explain": "23028",
+    "goods_name": "27176",
+    "goods_explain": "26775",
     "icon": ""
   },
   {
@@ -983,8 +1116,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_999",
-    "goods_name": "23434",
-    "goods_explain": "23033",
+    "goods_name": "27181",
+    "goods_explain": "26780",
     "icon": ""
   },
   {
@@ -1002,8 +1135,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_010",
-    "goods_name": "23435",
-    "goods_explain": "23034",
+    "goods_name": "27182",
+    "goods_explain": "26781",
     "icon": ""
   },
   {
@@ -1021,8 +1154,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_027",
-    "goods_name": "23438",
-    "goods_explain": "23037",
+    "goods_name": "27185",
+    "goods_explain": "26784",
     "icon": ""
   },
   {
@@ -1040,8 +1173,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_028",
-    "goods_name": "23439",
-    "goods_explain": "23038",
+    "goods_name": "27186",
+    "goods_explain": "26785",
     "icon": ""
   },
   {
@@ -1059,8 +1192,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_035",
-    "goods_name": "23440",
-    "goods_explain": "23039",
+    "goods_name": "27187",
+    "goods_explain": "26786",
     "icon": ""
   },
   {
@@ -1078,8 +1211,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_036",
-    "goods_name": "23441",
-    "goods_explain": "23040",
+    "goods_name": "27188",
+    "goods_explain": "26787",
     "icon": ""
   },
   {
@@ -1097,8 +1230,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_037",
-    "goods_name": "23442",
-    "goods_explain": "23041",
+    "goods_name": "27189",
+    "goods_explain": "26788",
     "icon": ""
   },
   {
@@ -1116,8 +1249,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_038",
-    "goods_name": "23443",
-    "goods_explain": "23042",
+    "goods_name": "27190",
+    "goods_explain": "26789",
     "icon": ""
   },
   {
@@ -1135,8 +1268,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_039",
-    "goods_name": "23445",
-    "goods_explain": "23043",
+    "goods_name": "27192",
+    "goods_explain": "26790",
     "icon": ""
   },
   {
@@ -1154,8 +1287,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_040",
-    "goods_name": "23447",
-    "goods_explain": "23044",
+    "goods_name": "27194",
+    "goods_explain": "26791",
     "icon": ""
   },
   {
@@ -1173,8 +1306,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_041",
-    "goods_name": "23449",
-    "goods_explain": "23045",
+    "goods_name": "27196",
+    "goods_explain": "26792",
     "icon": ""
   },
   {
@@ -1192,8 +1325,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_042",
-    "goods_name": "23451",
-    "goods_explain": "23046",
+    "goods_name": "27198",
+    "goods_explain": "26793",
     "icon": ""
   },
   {
@@ -1211,8 +1344,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_043",
-    "goods_name": "23453",
-    "goods_explain": "23047",
+    "goods_name": "27200",
+    "goods_explain": "26794",
     "icon": ""
   },
   {
@@ -1230,8 +1363,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_044",
-    "goods_name": "23455",
-    "goods_explain": "23048",
+    "goods_name": "27202",
+    "goods_explain": "26795",
     "icon": ""
   },
   {
@@ -1249,8 +1382,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_045",
-    "goods_name": "23457",
-    "goods_explain": "23049",
+    "goods_name": "27204",
+    "goods_explain": "26796",
     "icon": ""
   },
   {
@@ -1268,8 +1401,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_048",
-    "goods_name": "23459",
-    "goods_explain": "23050",
+    "goods_name": "27206",
+    "goods_explain": "26797",
     "icon": ""
   },
   {
@@ -1287,8 +1420,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_049",
-    "goods_name": "23461",
-    "goods_explain": "23051",
+    "goods_name": "27208",
+    "goods_explain": "26798",
     "icon": ""
   },
   {
@@ -1306,8 +1439,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_050",
-    "goods_name": "23463",
-    "goods_explain": "23052",
+    "goods_name": "27210",
+    "goods_explain": "26799",
     "icon": ""
   },
   {
@@ -1325,8 +1458,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_051",
-    "goods_name": "23465",
-    "goods_explain": "23053",
+    "goods_name": "27212",
+    "goods_explain": "26800",
     "icon": ""
   },
   {
@@ -1344,8 +1477,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_052",
-    "goods_name": "23467",
-    "goods_explain": "23054",
+    "goods_name": "27214",
+    "goods_explain": "26801",
     "icon": ""
   },
   {
@@ -1363,8 +1496,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_054",
-    "goods_name": "23469",
-    "goods_explain": "23055",
+    "goods_name": "27216",
+    "goods_explain": "26802",
     "icon": ""
   },
   {
@@ -1382,8 +1515,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_055",
-    "goods_name": "23471",
-    "goods_explain": "23056",
+    "goods_name": "27218",
+    "goods_explain": "26803",
     "icon": ""
   },
   {
@@ -1401,8 +1534,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_056",
-    "goods_name": "23473",
-    "goods_explain": "23057",
+    "goods_name": "27220",
+    "goods_explain": "26804",
     "icon": ""
   },
   {
@@ -1420,8 +1553,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_057",
-    "goods_name": "23475",
-    "goods_explain": "23058",
+    "goods_name": "27222",
+    "goods_explain": "26805",
     "icon": ""
   },
   {
@@ -1439,8 +1572,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_058",
-    "goods_name": "23477",
-    "goods_explain": "23059",
+    "goods_name": "27224",
+    "goods_explain": "26806",
     "icon": ""
   },
   {
@@ -1458,8 +1591,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_026",
-    "goods_name": "38474",
-    "goods_explain": "38462",
+    "goods_name": "42221",
+    "goods_explain": "42209",
     "icon": ""
   },
   {
@@ -1477,8 +1610,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_027",
-    "goods_name": "38475",
-    "goods_explain": "38463",
+    "goods_name": "42222",
+    "goods_explain": "42210",
     "icon": ""
   },
   {
@@ -1496,8 +1629,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_074",
-    "goods_name": "38862",
-    "goods_explain": "38860",
+    "goods_name": "42609",
+    "goods_explain": "42607",
     "icon": ""
   },
   {
@@ -1515,8 +1648,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_035",
-    "goods_name": "39727",
-    "goods_explain": "39730",
+    "goods_name": "43452",
+    "goods_explain": "43455",
     "icon": ""
   },
   {
@@ -1534,8 +1667,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_036",
-    "goods_name": "39728",
-    "goods_explain": "39731",
+    "goods_name": "43453",
+    "goods_explain": "43456",
     "icon": ""
   },
   {
@@ -1553,8 +1686,27 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_037",
-    "goods_name": "39729",
-    "goods_explain": "39732",
+    "goods_name": "43454",
+    "goods_explain": "43457",
+    "icon": ""
+  },
+  {
+    "id": 4156,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 99000,
+    "price_jpy": 10000,
+    "price_usd": 79.99,
+    "netmarble_item_id": "7sin_normal_56tier_039",
+    "goods_name": "46488",
+    "goods_explain": "46486",
     "icon": ""
   },
   {
@@ -1572,8 +1724,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_030",
-    "goods_name": "23479",
-    "goods_explain": "23060",
+    "goods_name": "27226",
+    "goods_explain": "26807",
     "icon": ""
   },
   {
@@ -1591,8 +1743,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_004",
-    "goods_name": "23481",
-    "goods_explain": "23061",
+    "goods_name": "27228",
+    "goods_explain": "26808",
     "icon": ""
   },
   {
@@ -1610,8 +1762,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_031",
-    "goods_name": "23483",
-    "goods_explain": "23062",
+    "goods_name": "27230",
+    "goods_explain": "26809",
     "icon": ""
   },
   {
@@ -1629,8 +1781,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_032",
-    "goods_name": "23485",
-    "goods_explain": "23063",
+    "goods_name": "27232",
+    "goods_explain": "26810",
     "icon": ""
   },
   {
@@ -1648,8 +1800,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_033",
-    "goods_name": "23487",
-    "goods_explain": "23064",
+    "goods_name": "27234",
+    "goods_explain": "26811",
     "icon": ""
   },
   {
@@ -1667,8 +1819,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_034",
-    "goods_name": "23489",
-    "goods_explain": "23065",
+    "goods_name": "27236",
+    "goods_explain": "26812",
     "icon": ""
   },
   {
@@ -1686,8 +1838,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_026",
-    "goods_name": "38476",
-    "goods_explain": "38464",
+    "goods_name": "42223",
+    "goods_explain": "42211",
     "icon": ""
   },
   {
@@ -1705,8 +1857,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_073",
-    "goods_name": "38477",
-    "goods_explain": "38465",
+    "goods_name": "42224",
+    "goods_explain": "42212",
     "icon": ""
   },
   {
@@ -1724,8 +1876,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_039",
-    "goods_name": "39649",
-    "goods_explain": "39668",
+    "goods_name": "43374",
+    "goods_explain": "43393",
     "icon": ""
   },
   {
@@ -1743,8 +1895,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_032",
-    "goods_name": "39657",
-    "goods_explain": "39679",
+    "goods_name": "43382",
+    "goods_explain": "43404",
     "icon": ""
   },
   {
@@ -1762,8 +1914,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_033",
-    "goods_name": "39658",
-    "goods_explain": "39680",
+    "goods_name": "43383",
+    "goods_explain": "43405",
     "icon": ""
   },
   {
@@ -1781,8 +1933,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_034",
-    "goods_name": "39659",
-    "goods_explain": "39681",
+    "goods_name": "43384",
+    "goods_explain": "43406",
     "icon": ""
   },
   {
@@ -1800,8 +1952,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_025",
-    "goods_name": "23563",
-    "goods_explain": "23102",
+    "goods_name": "27310",
+    "goods_explain": "26849",
     "icon": ""
   },
   {
@@ -1819,8 +1971,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_002",
-    "goods_name": "23564",
-    "goods_explain": "23103",
+    "goods_name": "27311",
+    "goods_explain": "26850",
     "icon": "아이콘"
   },
   {
@@ -1838,8 +1990,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_003",
-    "goods_name": "23566",
-    "goods_explain": "23104",
+    "goods_name": "27313",
+    "goods_explain": "26851",
     "icon": "아이콘"
   },
   {
@@ -1857,8 +2009,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_001",
-    "goods_name": "23568",
-    "goods_explain": "23105",
+    "goods_name": "27315",
+    "goods_explain": "26852",
     "icon": "아이콘"
   },
   {
@@ -1876,8 +2028,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_002",
-    "goods_name": "23570",
-    "goods_explain": "23106",
+    "goods_name": "27317",
+    "goods_explain": "26853",
     "icon": "아이콘"
   },
   {
@@ -1895,8 +2047,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_002",
-    "goods_name": "23572",
-    "goods_explain": "23107",
+    "goods_name": "27319",
+    "goods_explain": "26854",
     "icon": "아이콘"
   },
   {
@@ -1914,8 +2066,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_003",
-    "goods_name": "23574",
-    "goods_explain": "23108",
+    "goods_name": "27321",
+    "goods_explain": "26855",
     "icon": "아이콘"
   },
   {
@@ -1933,8 +2085,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_004",
-    "goods_name": "23564",
-    "goods_explain": "23103",
+    "goods_name": "27311",
+    "goods_explain": "26850",
     "icon": "아이콘"
   },
   {
@@ -1952,8 +2104,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_005",
-    "goods_name": "23566",
-    "goods_explain": "23104",
+    "goods_name": "27313",
+    "goods_explain": "26851",
     "icon": "아이콘"
   },
   {
@@ -1971,8 +2123,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_006",
-    "goods_name": "23568",
-    "goods_explain": "23105",
+    "goods_name": "27315",
+    "goods_explain": "26852",
     "icon": "아이콘"
   },
   {
@@ -1990,8 +2142,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_007",
-    "goods_name": "23570",
-    "goods_explain": "23106",
+    "goods_name": "27317",
+    "goods_explain": "26853",
     "icon": "아이콘"
   },
   {
@@ -2009,8 +2161,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_008",
-    "goods_name": "23572",
-    "goods_explain": "23107",
+    "goods_name": "27319",
+    "goods_explain": "26854",
     "icon": "아이콘"
   },
   {
@@ -2028,8 +2180,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_009",
-    "goods_name": "23574",
-    "goods_explain": "23108",
+    "goods_name": "27321",
+    "goods_explain": "26855",
     "icon": "아이콘"
   },
   {
@@ -2047,8 +2199,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_014",
-    "goods_name": "23576",
-    "goods_explain": "23109",
+    "goods_name": "27323",
+    "goods_explain": "26856",
     "icon": ""
   },
   {
@@ -2066,8 +2218,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_001",
-    "goods_name": "23578",
-    "goods_explain": "23110",
+    "goods_name": "27325",
+    "goods_explain": "26857",
     "icon": ""
   },
   {
@@ -2085,8 +2237,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_999",
-    "goods_name": "23580",
-    "goods_explain": "23111",
+    "goods_name": "27327",
+    "goods_explain": "26858",
     "icon": ""
   },
   {
@@ -2104,8 +2256,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_001",
-    "goods_name": "39650",
-    "goods_explain": "23112",
+    "goods_name": "43375",
+    "goods_explain": "26859",
     "icon": ""
   },
   {
@@ -2123,8 +2275,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_999",
-    "goods_name": "39651",
-    "goods_explain": "23113",
+    "goods_name": "43376",
+    "goods_explain": "26860",
     "icon": ""
   },
   {
@@ -2142,8 +2294,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_063",
-    "goods_name": "39652",
-    "goods_explain": "23114",
+    "goods_name": "43377",
+    "goods_explain": "26861",
     "icon": ""
   },
   {
@@ -2161,8 +2313,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_031",
-    "goods_name": "39786",
-    "goods_explain": "39669",
+    "goods_name": "43511",
+    "goods_explain": "43394",
     "icon": ""
   },
   {
@@ -2180,8 +2332,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_040",
-    "goods_name": "39787",
-    "goods_explain": "39670",
+    "goods_name": "43512",
+    "goods_explain": "43395",
     "icon": ""
   },
   {
@@ -2199,8 +2351,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_041",
-    "goods_name": "39788",
-    "goods_explain": "39671",
+    "goods_name": "43513",
+    "goods_explain": "43396",
     "icon": ""
   },
   {
@@ -2218,8 +2370,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_007",
-    "goods_name": "23585",
-    "goods_explain": "23115",
+    "goods_name": "27332",
+    "goods_explain": "26862",
     "icon": ""
   },
   {
@@ -2237,8 +2389,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_061",
-    "goods_name": "23587",
-    "goods_explain": "23116",
+    "goods_name": "27334",
+    "goods_explain": "26863",
     "icon": ""
   },
   {
@@ -2256,8 +2408,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_009",
-    "goods_name": "38501",
-    "goods_explain": "38497",
+    "goods_name": "42248",
+    "goods_explain": "42244",
     "icon": ""
   },
   {
@@ -2275,8 +2427,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_062",
-    "goods_name": "38503",
-    "goods_explain": "38498",
+    "goods_name": "42250",
+    "goods_explain": "42245",
     "icon": ""
   },
   {
@@ -2294,8 +2446,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_077",
-    "goods_name": "39653",
-    "goods_explain": "39672",
+    "goods_name": "43378",
+    "goods_explain": "43397",
     "icon": ""
   },
   {
@@ -2313,8 +2465,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_034",
-    "goods_name": "38478",
-    "goods_explain": "38466",
+    "goods_name": "42225",
+    "goods_explain": "42213",
     "icon": ""
   },
   {
@@ -2332,8 +2484,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_035",
-    "goods_name": "38479",
-    "goods_explain": "38467",
+    "goods_name": "42226",
+    "goods_explain": "42214",
     "icon": ""
   },
   {
@@ -2351,8 +2503,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_003",
-    "goods_name": "23589",
-    "goods_explain": "23117",
+    "goods_name": "27336",
+    "goods_explain": "26864",
     "icon": "아이콘"
   },
   {
@@ -2370,8 +2522,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_005",
-    "goods_name": "23590",
-    "goods_explain": "23118",
+    "goods_name": "27337",
+    "goods_explain": "26865",
     "icon": ""
   },
   {
@@ -2389,8 +2541,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_002",
-    "goods_name": "23595",
-    "goods_explain": "23123",
+    "goods_name": "27342",
+    "goods_explain": "26870",
     "icon": "아이콘"
   },
   {
@@ -2408,8 +2560,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_999",
-    "goods_name": "23596",
-    "goods_explain": "23124",
+    "goods_name": "27343",
+    "goods_explain": "26871",
     "icon": "아이콘"
   },
   {
@@ -2427,8 +2579,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_008",
-    "goods_name": "23257",
-    "goods_explain": "22878",
+    "goods_name": "27004",
+    "goods_explain": "26625",
     "icon": ""
   },
   {
@@ -2446,8 +2598,8 @@
     "price_jpy": 2080,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_17tier_027",
-    "goods_name": "23258",
-    "goods_explain": "22879",
+    "goods_name": "27005",
+    "goods_explain": "26626",
     "icon": ""
   },
   {
@@ -2465,8 +2617,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_010",
-    "goods_name": "23259",
-    "goods_explain": "22880",
+    "goods_name": "27006",
+    "goods_explain": "26627",
     "icon": ""
   },
   {
@@ -2484,8 +2636,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_011",
-    "goods_name": "23260",
-    "goods_explain": "22881",
+    "goods_name": "27007",
+    "goods_explain": "26628",
     "icon": ""
   },
   {
@@ -2503,8 +2655,8 @@
     "price_jpy": 2080,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_17tier_028",
-    "goods_name": "23261",
-    "goods_explain": "22882",
+    "goods_name": "27008",
+    "goods_explain": "26629",
     "icon": ""
   },
   {
@@ -2522,8 +2674,8 @@
     "price_jpy": 2080,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_17tier_029",
-    "goods_name": "23262",
-    "goods_explain": "22883",
+    "goods_name": "27009",
+    "goods_explain": "26630",
     "icon": ""
   },
   {
@@ -2541,8 +2693,8 @@
     "price_jpy": 2080,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_17tier_030",
-    "goods_name": "23263",
-    "goods_explain": "22884",
+    "goods_name": "27010",
+    "goods_explain": "26631",
     "icon": ""
   },
   {
@@ -2560,8 +2712,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_015",
-    "goods_name": "23264",
-    "goods_explain": "22885",
+    "goods_name": "27011",
+    "goods_explain": "26632",
     "icon": ""
   },
   {
@@ -2579,8 +2731,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_016",
-    "goods_name": "23265",
-    "goods_explain": "22886",
+    "goods_name": "27012",
+    "goods_explain": "26633",
     "icon": ""
   },
   {
@@ -2598,8 +2750,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_017",
-    "goods_name": "23266",
-    "goods_explain": "22887",
+    "goods_name": "27013",
+    "goods_explain": "26634",
     "icon": ""
   },
   {
@@ -2617,8 +2769,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_018",
-    "goods_name": "23267",
-    "goods_explain": "22888",
+    "goods_name": "27014",
+    "goods_explain": "26635",
     "icon": ""
   },
   {
@@ -2636,8 +2788,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_019",
-    "goods_name": "23268",
-    "goods_explain": "22889",
+    "goods_name": "27015",
+    "goods_explain": "26636",
     "icon": ""
   },
   {
@@ -2655,8 +2807,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_021",
-    "goods_name": "23269",
-    "goods_explain": "22890",
+    "goods_name": "27016",
+    "goods_explain": "26637",
     "icon": ""
   },
   {
@@ -2674,8 +2826,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_011",
-    "goods_name": "23270",
-    "goods_explain": "22891",
+    "goods_name": "27017",
+    "goods_explain": "26638",
     "icon": ""
   },
   {
@@ -2693,8 +2845,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_012",
-    "goods_name": "23271",
-    "goods_explain": "22892",
+    "goods_name": "27018",
+    "goods_explain": "26639",
     "icon": ""
   },
   {
@@ -2712,8 +2864,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_007",
-    "goods_name": "23272",
-    "goods_explain": "22893",
+    "goods_name": "27019",
+    "goods_explain": "26640",
     "icon": ""
   },
   {
@@ -2731,8 +2883,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_075",
-    "goods_name": "23273",
-    "goods_explain": "22894",
+    "goods_name": "27020",
+    "goods_explain": "26641",
     "icon": ""
   },
   {
@@ -2750,8 +2902,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_031",
-    "goods_name": "23274",
-    "goods_explain": "22895",
+    "goods_name": "27021",
+    "goods_explain": "26642",
     "icon": ""
   },
   {
@@ -2769,8 +2921,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_032",
-    "goods_name": "23275",
-    "goods_explain": "22896",
+    "goods_name": "27022",
+    "goods_explain": "26643",
     "icon": ""
   },
   {
@@ -2788,8 +2940,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_033",
-    "goods_name": "23276",
-    "goods_explain": "22897",
+    "goods_name": "27023",
+    "goods_explain": "26644",
     "icon": ""
   },
   {
@@ -2807,8 +2959,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_076",
-    "goods_name": "23277",
-    "goods_explain": "22898",
+    "goods_name": "27024",
+    "goods_explain": "26645",
     "icon": ""
   },
   {
@@ -2826,8 +2978,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_048",
-    "goods_name": "23278",
-    "goods_explain": "22899",
+    "goods_name": "27025",
+    "goods_explain": "26646",
     "icon": ""
   },
   {
@@ -2845,8 +2997,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_049",
-    "goods_name": "23279",
-    "goods_explain": "22900",
+    "goods_name": "27026",
+    "goods_explain": "26647",
     "icon": ""
   },
   {
@@ -2864,8 +3016,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_034",
-    "goods_name": "23280",
-    "goods_explain": "22901",
+    "goods_name": "27027",
+    "goods_explain": "26648",
     "icon": ""
   },
   {
@@ -2883,8 +3035,8 @@
     "price_jpy": 1340,
     "price_usd": 10.99,
     "netmarble_item_id": "7sin_normal_11tier_003",
-    "goods_name": "23281",
-    "goods_explain": "22902",
+    "goods_name": "27028",
+    "goods_explain": "26649",
     "icon": ""
   },
   {
@@ -2902,8 +3054,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_021",
-    "goods_name": "23282",
-    "goods_explain": "22903",
+    "goods_name": "27029",
+    "goods_explain": "26650",
     "icon": ""
   },
   {
@@ -2921,8 +3073,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_035",
-    "goods_name": "23283",
-    "goods_explain": "22904",
+    "goods_name": "27030",
+    "goods_explain": "26651",
     "icon": ""
   },
   {
@@ -2940,8 +3092,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_056",
-    "goods_name": "23284",
-    "goods_explain": "22905",
+    "goods_name": "27031",
+    "goods_explain": "26652",
     "icon": ""
   },
   {
@@ -2955,12 +3107,12 @@
     "bonus_item_id": 0,
     "bonus_count": 0,
     "pricetype": "cash",
-    "price_krw": 49000,
-    "price_jpy": 4900,
+    "price_krw": 21000,
+    "price_jpy": 2080,
     "price_usd": 39.99,
-    "netmarble_item_id": "7sin_normal_40tier_023",
-    "goods_name": "23285",
-    "goods_explain": "22906",
+    "netmarble_item_id": "7sin_normal_17tier_088",
+    "goods_name": "27032",
+    "goods_explain": "26653",
     "icon": ""
   },
   {
@@ -2974,12 +3126,12 @@
     "bonus_item_id": 0,
     "bonus_count": 0,
     "pricetype": "cash",
-    "price_krw": 49000,
-    "price_jpy": 4900,
+    "price_krw": 21000,
+    "price_jpy": 2080,
     "price_usd": 39.99,
-    "netmarble_item_id": "7sin_normal_40tier_024",
-    "goods_name": "23286",
-    "goods_explain": "22907",
+    "netmarble_item_id": "7sin_normal_17tier_089",
+    "goods_name": "27033",
+    "goods_explain": "26654",
     "icon": ""
   },
   {
@@ -2997,8 +3149,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_036",
-    "goods_name": "23287",
-    "goods_explain": "22908",
+    "goods_name": "27034",
+    "goods_explain": "26655",
     "icon": ""
   },
   {
@@ -3016,8 +3168,8 @@
     "price_jpy": 2080,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_17tier_037",
-    "goods_name": "23288",
-    "goods_explain": "22909",
+    "goods_name": "27035",
+    "goods_explain": "26656",
     "icon": ""
   },
   {
@@ -3035,8 +3187,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_026",
-    "goods_name": "23289",
-    "goods_explain": "22910",
+    "goods_name": "27036",
+    "goods_explain": "26657",
     "icon": ""
   },
   {
@@ -3054,8 +3206,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_027",
-    "goods_name": "23290",
-    "goods_explain": "22911",
+    "goods_name": "27037",
+    "goods_explain": "26658",
     "icon": ""
   },
   {
@@ -3073,8 +3225,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_028",
-    "goods_name": "23291",
-    "goods_explain": "22912",
+    "goods_name": "27038",
+    "goods_explain": "26659",
     "icon": ""
   },
   {
@@ -3092,8 +3244,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_029",
-    "goods_name": "23292",
-    "goods_explain": "22913",
+    "goods_name": "27039",
+    "goods_explain": "26660",
     "icon": ""
   },
   {
@@ -3111,8 +3263,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_030",
-    "goods_name": "23293",
-    "goods_explain": "22914",
+    "goods_name": "27040",
+    "goods_explain": "26661",
     "icon": ""
   },
   {
@@ -3130,8 +3282,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_024",
-    "goods_name": "23294",
-    "goods_explain": "22915",
+    "goods_name": "27041",
+    "goods_explain": "26662",
     "icon": ""
   },
   {
@@ -3149,8 +3301,8 @@
     "price_jpy": 4900,
     "price_usd": 39.99,
     "netmarble_item_id": "7sin_normal_40tier_032",
-    "goods_name": "23295",
-    "goods_explain": "22916",
+    "goods_name": "27042",
+    "goods_explain": "26663",
     "icon": ""
   },
   {
@@ -3168,8 +3320,8 @@
     "price_jpy": 1340,
     "price_usd": 10.99,
     "netmarble_item_id": "7sin_normal_11tier_001",
-    "goods_name": "23296",
-    "goods_explain": "22917",
+    "goods_name": "27043",
+    "goods_explain": "26664",
     "icon": ""
   },
   {
@@ -3187,8 +3339,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_001",
-    "goods_name": "23297",
-    "goods_explain": "22918",
+    "goods_name": "27044",
+    "goods_explain": "26665",
     "icon": ""
   },
   {
@@ -3206,8 +3358,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_002",
-    "goods_name": "23298",
-    "goods_explain": "22919",
+    "goods_name": "27045",
+    "goods_explain": "26666",
     "icon": ""
   },
   {
@@ -3225,8 +3377,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_003",
-    "goods_name": "23299",
-    "goods_explain": "22920",
+    "goods_name": "27046",
+    "goods_explain": "26667",
     "icon": ""
   },
   {
@@ -3244,8 +3396,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_004",
-    "goods_name": "23300",
-    "goods_explain": "22921",
+    "goods_name": "27047",
+    "goods_explain": "26668",
     "icon": ""
   },
   {
@@ -3263,8 +3415,8 @@
     "price_jpy": 1340,
     "price_usd": 10.99,
     "netmarble_item_id": "7sin_normal_11tier_002",
-    "goods_name": "23301",
-    "goods_explain": "22922",
+    "goods_name": "27048",
+    "goods_explain": "26669",
     "icon": ""
   },
   {
@@ -3282,8 +3434,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_005",
-    "goods_name": "23302",
-    "goods_explain": "22923",
+    "goods_name": "27049",
+    "goods_explain": "26670",
     "icon": ""
   },
   {
@@ -3301,8 +3453,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_006",
-    "goods_name": "23303",
-    "goods_explain": "22924",
+    "goods_name": "27050",
+    "goods_explain": "26671",
     "icon": ""
   },
   {
@@ -3320,8 +3472,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_007",
-    "goods_name": "23304",
-    "goods_explain": "22925",
+    "goods_name": "27051",
+    "goods_explain": "26672",
     "icon": ""
   },
   {
@@ -3339,8 +3491,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_008",
-    "goods_name": "23305",
-    "goods_explain": "22926",
+    "goods_name": "27052",
+    "goods_explain": "26673",
     "icon": ""
   },
   {
@@ -3358,8 +3510,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_009",
-    "goods_name": "23306",
-    "goods_explain": "22927",
+    "goods_name": "27053",
+    "goods_explain": "26674",
     "icon": ""
   },
   {
@@ -3377,8 +3529,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_010",
-    "goods_name": "23307",
-    "goods_explain": "22928",
+    "goods_name": "27054",
+    "goods_explain": "26675",
     "icon": ""
   },
   {
@@ -3396,8 +3548,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_011",
-    "goods_name": "23308",
-    "goods_explain": "22929",
+    "goods_name": "27055",
+    "goods_explain": "26676",
     "icon": ""
   },
   {
@@ -3415,8 +3567,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_012",
-    "goods_name": "23309",
-    "goods_explain": "22930",
+    "goods_name": "27056",
+    "goods_explain": "26677",
     "icon": ""
   },
   {
@@ -3434,8 +3586,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_013",
-    "goods_name": "23310",
-    "goods_explain": "22931",
+    "goods_name": "27057",
+    "goods_explain": "26678",
     "icon": ""
   },
   {
@@ -3453,8 +3605,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_014",
-    "goods_name": "23311",
-    "goods_explain": "22932",
+    "goods_name": "27058",
+    "goods_explain": "26679",
     "icon": ""
   },
   {
@@ -3472,8 +3624,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_015",
-    "goods_name": "23312",
-    "goods_explain": "22933",
+    "goods_name": "27059",
+    "goods_explain": "26680",
     "icon": ""
   },
   {
@@ -3491,8 +3643,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_016",
-    "goods_name": "23313",
-    "goods_explain": "22934",
+    "goods_name": "27060",
+    "goods_explain": "26681",
     "icon": ""
   },
   {
@@ -3510,8 +3662,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_017",
-    "goods_name": "23314",
-    "goods_explain": "22935",
+    "goods_name": "27061",
+    "goods_explain": "26682",
     "icon": ""
   },
   {
@@ -3529,8 +3681,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_018",
-    "goods_name": "23315",
-    "goods_explain": "22936",
+    "goods_name": "27062",
+    "goods_explain": "26683",
     "icon": ""
   },
   {
@@ -3548,8 +3700,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_019",
-    "goods_name": "23316",
-    "goods_explain": "22937",
+    "goods_name": "27063",
+    "goods_explain": "26684",
     "icon": ""
   },
   {
@@ -3567,8 +3719,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_020",
-    "goods_name": "23317",
-    "goods_explain": "22938",
+    "goods_name": "27064",
+    "goods_explain": "26685",
     "icon": ""
   },
   {
@@ -3586,8 +3738,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_999",
-    "goods_name": "23321",
-    "goods_explain": "22942",
+    "goods_name": "27068",
+    "goods_explain": "26689",
     "icon": ""
   },
   {
@@ -3605,8 +3757,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_022",
-    "goods_name": "23322",
-    "goods_explain": "22943",
+    "goods_name": "27069",
+    "goods_explain": "26690",
     "icon": ""
   },
   {
@@ -3624,8 +3776,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_023",
-    "goods_name": "23323",
-    "goods_explain": "22944",
+    "goods_name": "27070",
+    "goods_explain": "26691",
     "icon": ""
   },
   {
@@ -3643,8 +3795,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_024",
-    "goods_name": "23324",
-    "goods_explain": "22945",
+    "goods_name": "27071",
+    "goods_explain": "26692",
     "icon": ""
   },
   {
@@ -3662,8 +3814,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_025",
-    "goods_name": "23325",
-    "goods_explain": "22946",
+    "goods_name": "27072",
+    "goods_explain": "26693",
     "icon": ""
   },
   {
@@ -3681,8 +3833,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_026",
-    "goods_name": "23326",
-    "goods_explain": "22947",
+    "goods_name": "27073",
+    "goods_explain": "26694",
     "icon": ""
   },
   {
@@ -3700,8 +3852,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_038",
-    "goods_name": "23327",
-    "goods_explain": "22948",
+    "goods_name": "27074",
+    "goods_explain": "26695",
     "icon": ""
   },
   {
@@ -3719,8 +3871,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_039",
-    "goods_name": "23328",
-    "goods_explain": "22949",
+    "goods_name": "27075",
+    "goods_explain": "26696",
     "icon": ""
   },
   {
@@ -3738,8 +3890,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_040",
-    "goods_name": "23329",
-    "goods_explain": "22950",
+    "goods_name": "27076",
+    "goods_explain": "26697",
     "icon": ""
   },
   {
@@ -3757,8 +3909,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_041",
-    "goods_name": "23330",
-    "goods_explain": "22951",
+    "goods_name": "27077",
+    "goods_explain": "26698",
     "icon": ""
   },
   {
@@ -3776,8 +3928,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_042",
-    "goods_name": "23331",
-    "goods_explain": "22952",
+    "goods_name": "27078",
+    "goods_explain": "26699",
     "icon": ""
   },
   {
@@ -3795,8 +3947,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_043",
-    "goods_name": "23332",
-    "goods_explain": "22953",
+    "goods_name": "27079",
+    "goods_explain": "26700",
     "icon": ""
   },
   {
@@ -3814,8 +3966,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_044",
-    "goods_name": "23333",
-    "goods_explain": "22954",
+    "goods_name": "27080",
+    "goods_explain": "26701",
     "icon": ""
   },
   {
@@ -3833,8 +3985,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_045",
-    "goods_name": "23334",
-    "goods_explain": "22955",
+    "goods_name": "27081",
+    "goods_explain": "26702",
     "icon": ""
   },
   {
@@ -3852,8 +4004,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_047",
-    "goods_name": "23336",
-    "goods_explain": "22957",
+    "goods_name": "27083",
+    "goods_explain": "26704",
     "icon": ""
   },
   {
@@ -3871,8 +4023,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_050",
-    "goods_name": "23337",
-    "goods_explain": "22958",
+    "goods_name": "27084",
+    "goods_explain": "26705",
     "icon": ""
   },
   {
@@ -3890,8 +4042,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_051",
-    "goods_name": "37624",
-    "goods_explain": "37622",
+    "goods_name": "41371",
+    "goods_explain": "41369",
     "icon": ""
   },
   {
@@ -3909,8 +4061,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_052",
-    "goods_name": "37625",
-    "goods_explain": "37623",
+    "goods_name": "41372",
+    "goods_explain": "41370",
     "icon": ""
   },
   {
@@ -3928,8 +4080,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_055",
-    "goods_name": "38383",
-    "goods_explain": "38380",
+    "goods_name": "42130",
+    "goods_explain": "42127",
     "icon": ""
   },
   {
@@ -3947,8 +4099,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_057",
-    "goods_name": "38384",
-    "goods_explain": "38381",
+    "goods_name": "42131",
+    "goods_explain": "42128",
     "icon": ""
   },
   {
@@ -3966,8 +4118,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_058",
-    "goods_name": "38385",
-    "goods_explain": "38382",
+    "goods_name": "42132",
+    "goods_explain": "42129",
     "icon": ""
   },
   {
@@ -3985,8 +4137,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_059",
-    "goods_name": "39642",
-    "goods_explain": "39661",
+    "goods_name": "43367",
+    "goods_explain": "43386",
     "icon": ""
   },
   {
@@ -4004,8 +4156,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_060",
-    "goods_name": "39643",
-    "goods_explain": "39662",
+    "goods_name": "43368",
+    "goods_explain": "43387",
     "icon": ""
   },
   {
@@ -4023,8 +4175,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_061",
-    "goods_name": "39644",
-    "goods_explain": "39663",
+    "goods_name": "43369",
+    "goods_explain": "43388",
     "icon": ""
   },
   {
@@ -4042,8 +4194,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_062",
-    "goods_name": "39645",
-    "goods_explain": "39664",
+    "goods_name": "43370",
+    "goods_explain": "43389",
     "icon": ""
   },
   {
@@ -4061,8 +4213,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_063",
-    "goods_name": "39722",
-    "goods_explain": "39721",
+    "goods_name": "43447",
+    "goods_explain": "43446",
     "icon": ""
   },
   {
@@ -4080,8 +4232,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_064",
-    "goods_name": "40772",
-    "goods_explain": "40747",
+    "goods_name": "44497",
+    "goods_explain": "44472",
     "icon": ""
   },
   {
@@ -4099,8 +4251,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_065",
-    "goods_name": "40773",
-    "goods_explain": "40748",
+    "goods_name": "44498",
+    "goods_explain": "44473",
     "icon": ""
   },
   {
@@ -4118,8 +4270,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_066",
-    "goods_name": "40774",
-    "goods_explain": "40749",
+    "goods_name": "44499",
+    "goods_explain": "44474",
     "icon": ""
   },
   {
@@ -4137,8 +4289,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_067",
-    "goods_name": "40775",
-    "goods_explain": "40750",
+    "goods_name": "44500",
+    "goods_explain": "44475",
     "icon": ""
   },
   {
@@ -4156,8 +4308,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_068",
-    "goods_name": "40776",
-    "goods_explain": "40751",
+    "goods_name": "44501",
+    "goods_explain": "44476",
     "icon": ""
   },
   {
@@ -4175,8 +4327,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_069",
-    "goods_name": "40777",
-    "goods_explain": "40752",
+    "goods_name": "44502",
+    "goods_explain": "44477",
     "icon": ""
   },
   {
@@ -4194,8 +4346,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_070",
-    "goods_name": "40778",
-    "goods_explain": "40753",
+    "goods_name": "44503",
+    "goods_explain": "44478",
     "icon": ""
   },
   {
@@ -4213,8 +4365,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_071",
-    "goods_name": "41610",
-    "goods_explain": "41603",
+    "goods_name": "45334",
+    "goods_explain": "45327",
     "icon": ""
   },
   {
@@ -4232,8 +4384,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_072",
-    "goods_name": "41611",
-    "goods_explain": "41604",
+    "goods_name": "45335",
+    "goods_explain": "45328",
     "icon": ""
   },
   {
@@ -4251,8 +4403,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_073",
-    "goods_name": "41612",
-    "goods_explain": "41605",
+    "goods_name": "45336",
+    "goods_explain": "45329",
     "icon": ""
   },
   {
@@ -4270,8 +4422,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_074",
-    "goods_name": "41613",
-    "goods_explain": "41606",
+    "goods_name": "45337",
+    "goods_explain": "45330",
     "icon": ""
   },
   {
@@ -4289,8 +4441,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_077",
-    "goods_name": "41616",
-    "goods_explain": "41609",
+    "goods_name": "45338",
+    "goods_explain": "45331",
     "icon": ""
   },
   {
@@ -4308,8 +4460,8 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_078",
-    "goods_name": "",
-    "goods_explain": "",
+    "goods_name": "45339",
+    "goods_explain": "45332",
     "icon": ""
   },
   {
@@ -4327,8 +4479,103 @@
     "price_jpy": 2080,
     "price_usd": 16.99,
     "netmarble_item_id": "7sin_normal_17tier_079",
-    "goods_name": "",
-    "goods_explain": "",
+    "goods_name": "45340",
+    "goods_explain": "45333",
+    "icon": ""
+  },
+  {
+    "id": 6142,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 21000,
+    "price_jpy": 2080,
+    "price_usd": 16.99,
+    "netmarble_item_id": "7sin_normal_17tier_085",
+    "goods_name": "46465",
+    "goods_explain": "46463",
+    "icon": ""
+  },
+  {
+    "id": 6143,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 21000,
+    "price_jpy": 2080,
+    "price_usd": 16.99,
+    "netmarble_item_id": "7sin_normal_17tier_086",
+    "goods_name": "46466",
+    "goods_explain": "46464",
+    "icon": ""
+  },
+  {
+    "id": 6144,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 21000,
+    "price_jpy": 2080,
+    "price_usd": 16.99,
+    "netmarble_item_id": "7sin_normal_17tier_087",
+    "goods_name": "46325",
+    "goods_explain": "46316",
+    "icon": ""
+  },
+  {
+    "id": 6145,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 21000,
+    "price_jpy": 2080,
+    "price_usd": 16.99,
+    "netmarble_item_id": "7sin_normal_17tier_090",
+    "goods_name": "46989",
+    "goods_explain": "46987",
+    "icon": ""
+  },
+  {
+    "id": 6146,
+    "type": "package",
+    "shop_type": "shop_package",
+    "buy_condition": 0,
+    "item_icon_name": "",
+    "item_id": 0,
+    "item_count": 0,
+    "bonus_item_id": 0,
+    "bonus_count": 0,
+    "pricetype": "cash",
+    "price_krw": 21000,
+    "price_jpy": 2080,
+    "price_usd": 16.99,
+    "netmarble_item_id": "7sin_normal_17tier_091",
+    "goods_name": "46990",
+    "goods_explain": "46988",
     "icon": ""
   },
   {
@@ -4346,8 +4593,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_004",
-    "goods_name": "9071",
-    "goods_explain": "38895",
+    "goods_name": "12819",
+    "goods_explain": "42642",
     "icon": "아이콘"
   },
   {
@@ -4365,8 +4612,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_020",
-    "goods_name": "9072",
-    "goods_explain": "9070",
+    "goods_name": "12820",
+    "goods_explain": "12818",
     "icon": "아이콘"
   },
   {
@@ -4384,8 +4631,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "ggc_kr_dia_5",
-    "goods_name": "23361",
-    "goods_explain": "22973",
+    "goods_name": "27108",
+    "goods_explain": "26720",
     "icon": ""
   },
   {
@@ -4403,8 +4650,8 @@
     "price_jpy": 990,
     "price_usd": 7.99,
     "netmarble_item_id": "ggc_kr_dia_10",
-    "goods_name": "23361",
-    "goods_explain": "22974",
+    "goods_name": "27108",
+    "goods_explain": "26721",
     "icon": ""
   },
   {
@@ -4422,8 +4669,8 @@
     "price_jpy": 1700,
     "price_usd": 13.99,
     "netmarble_item_id": "ggc_kr_dia_17",
-    "goods_name": "23361",
-    "goods_explain": "22975",
+    "goods_name": "27108",
+    "goods_explain": "26722",
     "icon": ""
   },
   {
@@ -4441,8 +4688,8 @@
     "price_jpy": 3400,
     "price_usd": 39.99,
     "netmarble_item_id": "ggc_kr_dia_34",
-    "goods_name": "23361",
-    "goods_explain": "22976",
+    "goods_name": "27108",
+    "goods_explain": "26723",
     "icon": ""
   },
   {
@@ -4460,8 +4707,8 @@
     "price_jpy": 5600,
     "price_usd": 65.99,
     "netmarble_item_id": "ggc_kr_dia_56",
-    "goods_name": "23361",
-    "goods_explain": "22977",
+    "goods_name": "27108",
+    "goods_explain": "26724",
     "icon": ""
   },
   {
@@ -4479,8 +4726,8 @@
     "price_jpy": 300,
     "price_usd": 2.99,
     "netmarble_item_id": "ggc_jp_dia_3",
-    "goods_name": "23361",
-    "goods_explain": "22978",
+    "goods_name": "27108",
+    "goods_explain": "26725",
     "icon": ""
   },
   {
@@ -4498,8 +4745,8 @@
     "price_jpy": 990,
     "price_usd": 7.99,
     "netmarble_item_id": "ggc_jp_dia_10",
-    "goods_name": "23361",
-    "goods_explain": "22974",
+    "goods_name": "27108",
+    "goods_explain": "26721",
     "icon": ""
   },
   {
@@ -4517,8 +4764,8 @@
     "price_jpy": 2000,
     "price_usd": 15.99,
     "netmarble_item_id": "ggc_jp_dia_20",
-    "goods_name": "23361",
-    "goods_explain": "22979",
+    "goods_name": "27108",
+    "goods_explain": "26726",
     "icon": ""
   },
   {
@@ -4536,8 +4783,8 @@
     "price_jpy": 4000,
     "price_usd": 31.99,
     "netmarble_item_id": "ggc_jp_dia_40",
-    "goods_name": "23361",
-    "goods_explain": "22980",
+    "goods_name": "27108",
+    "goods_explain": "26727",
     "icon": ""
   },
   {
@@ -4555,8 +4802,8 @@
     "price_jpy": 250,
     "price_usd": 250,
     "netmarble_item_id": "gpp_kr_dia_5_rew",
-    "goods_name": "23356",
-    "goods_explain": "22968",
+    "goods_name": "27103",
+    "goods_explain": "26715",
     "icon": ""
   },
   {
@@ -4574,8 +4821,8 @@
     "price_jpy": 500,
     "price_usd": 500,
     "netmarble_item_id": "gpp_kr_urgold_5_rew",
-    "goods_name": "23357",
-    "goods_explain": "22969",
+    "goods_name": "27104",
+    "goods_explain": "26716",
     "icon": ""
   },
   {
@@ -4593,8 +4840,8 @@
     "price_jpy": 500,
     "price_usd": 500,
     "netmarble_item_id": "gpp_kr_srssr_1_rew",
-    "goods_name": "23358",
-    "goods_explain": "22970",
+    "goods_name": "27105",
+    "goods_explain": "26717",
     "icon": ""
   },
   {
@@ -4612,8 +4859,8 @@
     "price_jpy": 1350,
     "price_usd": 1350,
     "netmarble_item_id": "gpp_kr_dia_30_rew",
-    "goods_name": "23359",
-    "goods_explain": "22971",
+    "goods_name": "27106",
+    "goods_explain": "26718",
     "icon": ""
   },
   {
@@ -4631,8 +4878,8 @@
     "price_jpy": 500,
     "price_usd": 500,
     "netmarble_item_id": "gpp_kr_clan_1n2_rew",
-    "goods_name": "23360",
-    "goods_explain": "22972",
+    "goods_name": "27107",
+    "goods_explain": "26719",
     "icon": ""
   },
   {
@@ -4650,8 +4897,8 @@
     "price_jpy": 250,
     "price_usd": 250,
     "netmarble_item_id": "gpp_jp_dia_5_rew",
-    "goods_name": "23356",
-    "goods_explain": "22968",
+    "goods_name": "27103",
+    "goods_explain": "26715",
     "icon": ""
   },
   {
@@ -4669,8 +4916,8 @@
     "price_jpy": 500,
     "price_usd": 500,
     "netmarble_item_id": "gpp_jp_urgold_5_rew",
-    "goods_name": "23357",
-    "goods_explain": "22969",
+    "goods_name": "27104",
+    "goods_explain": "26716",
     "icon": ""
   },
   {
@@ -4688,8 +4935,8 @@
     "price_jpy": 500,
     "price_usd": 500,
     "netmarble_item_id": "gpp_jp_srssr_1_rew",
-    "goods_name": "23358",
-    "goods_explain": "22970",
+    "goods_name": "27105",
+    "goods_explain": "26717",
     "icon": ""
   },
   {
@@ -4707,8 +4954,8 @@
     "price_jpy": 1350,
     "price_usd": 1350,
     "netmarble_item_id": "gpp_jp_dia_30_rew",
-    "goods_name": "23359",
-    "goods_explain": "22971",
+    "goods_name": "27106",
+    "goods_explain": "26718",
     "icon": ""
   },
   {
@@ -4726,8 +4973,8 @@
     "price_jpy": 500,
     "price_usd": 500,
     "netmarble_item_id": "gpp_jp_clan_1n2_rew",
-    "goods_name": "23360",
-    "goods_explain": "22972",
+    "goods_name": "27107",
+    "goods_explain": "26719",
     "icon": ""
   },
   {
@@ -4745,8 +4992,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_076",
-    "goods_name": "39654",
-    "goods_explain": "39673",
+    "goods_name": "43379",
+    "goods_explain": "43398",
     "icon": ""
   },
   {
@@ -4764,8 +5011,8 @@
     "price_jpy": 4900,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_40tier_036",
-    "goods_name": "39655",
-    "goods_explain": "39674",
+    "goods_name": "43380",
+    "goods_explain": "43399",
     "icon": ""
   },
   {
@@ -4783,8 +5030,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_029",
-    "goods_name": "39656",
-    "goods_explain": "39675",
+    "goods_name": "43381",
+    "goods_explain": "43400",
     "icon": ""
   },
   {
@@ -4802,8 +5049,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_017",
-    "goods_name": "40212",
-    "goods_explain": "39676",
+    "goods_name": "43937",
+    "goods_explain": "43401",
     "icon": ""
   },
   {
@@ -4821,8 +5068,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_028",
-    "goods_name": "40213",
-    "goods_explain": "39677",
+    "goods_name": "43938",
+    "goods_explain": "43402",
     "icon": ""
   },
   {
@@ -4840,8 +5087,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_075",
-    "goods_name": "40214",
-    "goods_explain": "39678",
+    "goods_name": "43939",
+    "goods_explain": "43403",
     "icon": ""
   },
   {
@@ -4859,8 +5106,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_008",
-    "goods_name": "23491",
-    "goods_explain": "23066",
+    "goods_name": "27238",
+    "goods_explain": "26813",
     "icon": ""
   },
   {
@@ -4878,8 +5125,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_009",
-    "goods_name": "23493",
-    "goods_explain": "23067",
+    "goods_name": "27240",
+    "goods_explain": "26814",
     "icon": ""
   },
   {
@@ -4897,8 +5144,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_010",
-    "goods_name": "23495",
-    "goods_explain": "23068",
+    "goods_name": "27242",
+    "goods_explain": "26815",
     "icon": ""
   },
   {
@@ -4916,8 +5163,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_011",
-    "goods_name": "23497",
-    "goods_explain": "23069",
+    "goods_name": "27244",
+    "goods_explain": "26816",
     "icon": ""
   },
   {
@@ -4935,8 +5182,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_012",
-    "goods_name": "23499",
-    "goods_explain": "23070",
+    "goods_name": "27246",
+    "goods_explain": "26817",
     "icon": ""
   },
   {
@@ -4954,8 +5201,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_013",
-    "goods_name": "23501",
-    "goods_explain": "23071",
+    "goods_name": "27248",
+    "goods_explain": "26818",
     "icon": ""
   },
   {
@@ -4973,8 +5220,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_014",
-    "goods_name": "23503",
-    "goods_explain": "23072",
+    "goods_name": "27250",
+    "goods_explain": "26819",
     "icon": ""
   },
   {
@@ -4992,8 +5239,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_015",
-    "goods_name": "23505",
-    "goods_explain": "23073",
+    "goods_name": "27252",
+    "goods_explain": "26820",
     "icon": ""
   },
   {
@@ -5011,8 +5258,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_016",
-    "goods_name": "23507",
-    "goods_explain": "23074",
+    "goods_name": "27254",
+    "goods_explain": "26821",
     "icon": ""
   },
   {
@@ -5030,8 +5277,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_017",
-    "goods_name": "23509",
-    "goods_explain": "23075",
+    "goods_name": "27256",
+    "goods_explain": "26822",
     "icon": ""
   },
   {
@@ -5049,8 +5296,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_018",
-    "goods_name": "23511",
-    "goods_explain": "23076",
+    "goods_name": "27258",
+    "goods_explain": "26823",
     "icon": ""
   },
   {
@@ -5068,8 +5315,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_019",
-    "goods_name": "23513",
-    "goods_explain": "23077",
+    "goods_name": "27260",
+    "goods_explain": "26824",
     "icon": ""
   },
   {
@@ -5087,8 +5334,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_020",
-    "goods_name": "23515",
-    "goods_explain": "23078",
+    "goods_name": "27262",
+    "goods_explain": "26825",
     "icon": ""
   },
   {
@@ -5106,8 +5353,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_021",
-    "goods_name": "23517",
-    "goods_explain": "23079",
+    "goods_name": "27264",
+    "goods_explain": "26826",
     "icon": ""
   },
   {
@@ -5125,8 +5372,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_022",
-    "goods_name": "23519",
-    "goods_explain": "23080",
+    "goods_name": "27266",
+    "goods_explain": "26827",
     "icon": ""
   },
   {
@@ -5144,8 +5391,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_023",
-    "goods_name": "23521",
-    "goods_explain": "23081",
+    "goods_name": "27268",
+    "goods_explain": "26828",
     "icon": ""
   },
   {
@@ -5163,8 +5410,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_024",
-    "goods_name": "23523",
-    "goods_explain": "23082",
+    "goods_name": "27270",
+    "goods_explain": "26829",
     "icon": ""
   },
   {
@@ -5182,8 +5429,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_025",
-    "goods_name": "23525",
-    "goods_explain": "23083",
+    "goods_name": "27272",
+    "goods_explain": "26830",
     "icon": ""
   },
   {
@@ -5201,8 +5448,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_064",
-    "goods_name": "23527",
-    "goods_explain": "23084",
+    "goods_name": "27274",
+    "goods_explain": "26831",
     "icon": ""
   },
   {
@@ -5220,8 +5467,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_065",
-    "goods_name": "23529",
-    "goods_explain": "23085",
+    "goods_name": "27276",
+    "goods_explain": "26832",
     "icon": ""
   },
   {
@@ -5239,8 +5486,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_066",
-    "goods_name": "23531",
-    "goods_explain": "23086",
+    "goods_name": "27278",
+    "goods_explain": "26833",
     "icon": ""
   },
   {
@@ -5258,8 +5505,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_067",
-    "goods_name": "23533",
-    "goods_explain": "23087",
+    "goods_name": "27280",
+    "goods_explain": "26834",
     "icon": ""
   },
   {
@@ -5277,8 +5524,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_068",
-    "goods_name": "23535",
-    "goods_explain": "23088",
+    "goods_name": "27282",
+    "goods_explain": "26835",
     "icon": ""
   },
   {
@@ -5296,8 +5543,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_069",
-    "goods_name": "23537",
-    "goods_explain": "23089",
+    "goods_name": "27284",
+    "goods_explain": "26836",
     "icon": ""
   },
   {
@@ -5315,8 +5562,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_070",
-    "goods_name": "23539",
-    "goods_explain": "23090",
+    "goods_name": "27286",
+    "goods_explain": "26837",
     "icon": ""
   },
   {
@@ -5334,8 +5581,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_071",
-    "goods_name": "23541",
-    "goods_explain": "23091",
+    "goods_name": "27288",
+    "goods_explain": "26838",
     "icon": ""
   },
   {
@@ -5353,8 +5600,8 @@
     "price_jpy": 2940,
     "price_usd": 23.99,
     "netmarble_item_id": "7sin_normal_24tier_072",
-    "goods_name": "23543",
-    "goods_explain": "23092",
+    "goods_name": "27290",
+    "goods_explain": "26839",
     "icon": ""
   },
   {
@@ -5372,8 +5619,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_017",
-    "goods_name": "23545",
-    "goods_explain": "23093",
+    "goods_name": "27292",
+    "goods_explain": "26840",
     "icon": ""
   },
   {
@@ -5391,8 +5638,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_018",
-    "goods_name": "23547",
-    "goods_explain": "23094",
+    "goods_name": "27294",
+    "goods_explain": "26841",
     "icon": ""
   },
   {
@@ -5410,8 +5657,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_019",
-    "goods_name": "23549",
-    "goods_explain": "23095",
+    "goods_name": "27296",
+    "goods_explain": "26842",
     "icon": ""
   },
   {
@@ -5429,8 +5676,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_020",
-    "goods_name": "23551",
-    "goods_explain": "23096",
+    "goods_name": "27298",
+    "goods_explain": "26843",
     "icon": ""
   },
   {
@@ -5448,8 +5695,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_021",
-    "goods_name": "23553",
-    "goods_explain": "23097",
+    "goods_name": "27300",
+    "goods_explain": "26844",
     "icon": ""
   },
   {
@@ -5467,8 +5714,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_022",
-    "goods_name": "23555",
-    "goods_explain": "23098",
+    "goods_name": "27302",
+    "goods_explain": "26845",
     "icon": ""
   },
   {
@@ -5486,8 +5733,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_023",
-    "goods_name": "23557",
-    "goods_explain": "23099",
+    "goods_name": "27304",
+    "goods_explain": "26846",
     "icon": ""
   },
   {
@@ -5505,8 +5752,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_024",
-    "goods_name": "23559",
-    "goods_explain": "23100",
+    "goods_name": "27306",
+    "goods_explain": "26847",
     "icon": ""
   },
   {
@@ -5524,8 +5771,8 @@
     "price_jpy": 10000,
     "price_usd": 79.99,
     "netmarble_item_id": "7sin_normal_56tier_025",
-    "goods_name": "23561",
-    "goods_explain": "23101",
+    "goods_name": "27308",
+    "goods_explain": "26848",
     "icon": ""
   },
   {
@@ -5543,8 +5790,8 @@
     "price_jpy": 980,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_8tier_015",
-    "goods_name": "23597",
-    "goods_explain": "23125",
+    "goods_name": "27344",
+    "goods_explain": "26872",
     "icon": ""
   },
   {
@@ -5562,8 +5809,8 @@
     "price_jpy": 120,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_1tier_005",
-    "goods_name": "23601",
-    "goods_explain": "23129",
+    "goods_name": "27348",
+    "goods_explain": "26876",
     "icon": ""
   },
   {
@@ -5581,8 +5828,8 @@
     "price_jpy": 120,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_1tier_006",
-    "goods_name": "40779",
-    "goods_explain": "40754",
+    "goods_name": "44504",
+    "goods_explain": "44479",
     "icon": ""
   },
   {
@@ -5600,8 +5847,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_018",
-    "goods_name": "40781",
-    "goods_explain": "40756",
+    "goods_name": "44506",
+    "goods_explain": "44481",
     "icon": ""
   },
   {
@@ -5619,8 +5866,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_019",
-    "goods_name": "40782",
-    "goods_explain": "40757",
+    "goods_name": "44507",
+    "goods_explain": "44482",
     "icon": ""
   },
   {
@@ -5638,8 +5885,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_020",
-    "goods_name": "40783",
-    "goods_explain": "40758",
+    "goods_name": "44508",
+    "goods_explain": "44483",
     "icon": ""
   },
   {
@@ -5657,8 +5904,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_021",
-    "goods_name": "40784",
-    "goods_explain": "40759",
+    "goods_name": "44509",
+    "goods_explain": "44484",
     "icon": ""
   },
   {
@@ -5676,8 +5923,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_029",
-    "goods_name": "40785",
-    "goods_explain": "40760",
+    "goods_name": "44510",
+    "goods_explain": "44485",
     "icon": ""
   },
   {
@@ -5695,8 +5942,8 @@
     "price_jpy": 980,
     "price_usd": 7.99,
     "netmarble_item_id": "7sin_normal_8tier_030",
-    "goods_name": "40786",
-    "goods_explain": "40761",
+    "goods_name": "44511",
+    "goods_explain": "44486",
     "icon": ""
   },
   {
@@ -5714,8 +5961,8 @@
     "price_jpy": 490,
     "price_usd": 3.99,
     "netmarble_item_id": "7sin_normal_4tier_022",
-    "goods_name": "40787",
-    "goods_explain": "40762",
+    "goods_name": "44512",
+    "goods_explain": "44487",
     "icon": ""
   }
 ]

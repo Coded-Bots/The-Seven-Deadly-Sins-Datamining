@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "lang_system": "English",
+    "lang_code": "EN",
+    "ch_min": 1,
+    "ch_max": 2999
+  },
+  {
+    "id": 2,
+    "lang_system": "ChineseTraditional",
+    "lang_code": "ZH",
+    "ch_min": 3000,
+    "ch_max": 3999
+  },
+  {
+    "id": 3,
+    "lang_system": "French",
+    "lang_code": "FR",
+    "ch_min": 4000,
+    "ch_max": 4999
+  },
+  {
+    "id": 4,
+    "lang_system": "Thai",
+    "lang_code": "TH",
+    "ch_min": 5000,
+    "ch_max": 5999
+  },
+  {
+    "id": 5,
+    "lang_system": "Spanish",
+    "lang_code": "ES",
+    "ch_min": 6000,
+    "ch_max": 6499
+  },
+  {
+    "id": 6,
+    "lang_system": "German",
+    "lang_code": "DE",
+    "ch_min": 6500,
+    "ch_max": 6999
+  },
+  {
+    "id": 7,
+    "lang_system": "Italian",
+    "lang_code": "IT",
+    "ch_min": 7000,
+    "ch_max": 7499
+  },
+  {
+    "id": 8,
+    "lang_system": "Russian",
+    "lang_code": "RU",
+    "ch_min": 7500,
+    "ch_max": 7999
+  },
+  {
+    "id": 9,
+    "lang_system": "Portuguese",
+    "lang_code": "PT",
+    "ch_min": 8000,
+    "ch_max": 8499
+  },
+  {
+    "id": 10,
+    "lang_system": "Indonesian",
+    "lang_code": "ID",
+    "ch_min": 8500,
+    "ch_max": 8999
+  },
+  {
+    "id": 11,
+    "lang_system": "Korean",
+    "lang_code": "KO",
+    "ch_min": 9000,
+    "ch_max": 9499
+  },
+  {
+    "id": 12,
+    "lang_system": "Japanese",
+    "lang_code": "JA",
+    "ch_min": 9500,
+    "ch_max": 9999
+  }
+]

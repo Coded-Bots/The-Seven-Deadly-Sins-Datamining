@@ -131,8 +131,8 @@
     "item_id": 510105,
     "item_count": 1,
     "item_rate": 5,
-    "rate": 90,
-    "pick_up_check": 0
+    "rate": 205,
+    "pick_up_check": 1
   },
   {
     "id": 16,
@@ -2579,8 +2579,8 @@
     "item_id": 530001,
     "item_count": 1,
     "item_rate": 4,
-    "rate": 100,
-    "pick_up_check": 0
+    "rate": 134,
+    "pick_up_check": 1
   },
   {
     "id": 450,
@@ -2588,8 +2588,8 @@
     "item_id": 520001,
     "item_count": 1,
     "item_rate": 5,
-    "rate": 90,
-    "pick_up_check": 0
+    "rate": 205,
+    "pick_up_check": 1
   },
   {
     "id": 1000001,

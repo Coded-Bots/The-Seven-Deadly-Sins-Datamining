@@ -190,37 +190,5 @@
     "day": 3,
     "item_id": 500030,
     "item_count": 5
-  },
-  {
-    "id": 25,
-    "event_sub_index": 1020,
-    "reward_type": "day_fix",
-    "day": 4,
-    "item_id": 910704,
-    "item_count": 10
-  },
-  {
-    "id": 26,
-    "event_sub_index": 1020,
-    "reward_type": "day_fix",
-    "day": 5,
-    "item_id": 500030,
-    "item_count": 5
-  },
-  {
-    "id": 27,
-    "event_sub_index": 1020,
-    "reward_type": "day_fix",
-    "day": 6,
-    "item_id": 910704,
-    "item_count": 10
-  },
-  {
-    "id": 28,
-    "event_sub_index": 1020,
-    "reward_type": "day_fix",
-    "day": 7,
-    "item_id": 500030,
-    "item_count": 5
   }
 ]

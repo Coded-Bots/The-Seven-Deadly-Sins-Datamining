@@ -23,7 +23,7 @@
     "money_raisingvalue_3": 0,
     "money_raise_max_3": 0,
     "gotcha_BG_name": "gacha_banner_item_01",
-    "gotcha_desc": "8535",
+    "gotcha_desc": "12283",
     "gotcha_resource": "item_gacha_box_R"
   },
   {
@@ -77,7 +77,7 @@
     "money_raisingvalue_3": 0,
     "money_raise_max_3": 0,
     "gotcha_BG_name": "pvp_always_banner_sapphire_001",
-    "gotcha_desc": "9073",
+    "gotcha_desc": "12821",
     "gotcha_resource": "pvp_item_gacha_box_sapphire"
   },
   {
@@ -131,7 +131,7 @@
     "money_raisingvalue_3": 0,
     "money_raise_max_3": 0,
     "gotcha_BG_name": "pvp_always_banner_ruby_001",
-    "gotcha_desc": "9074",
+    "gotcha_desc": "12822",
     "gotcha_resource": "pvp_item_gacha_box_ruby"
   },
   {
@@ -185,7 +185,7 @@
     "money_raisingvalue_3": 0,
     "money_raise_max_3": 0,
     "gotcha_BG_name": "pvp_always_banner_emerald_001",
-    "gotcha_desc": "9075",
+    "gotcha_desc": "12823",
     "gotcha_resource": "pvp_item_gacha_box_emerald"
   },
   {

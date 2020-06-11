@@ -1,0 +1,36 @@
+[
+  {
+    "group_id": 101,
+    "active_start": "2020-02-20 00:00:00",
+    "active_end": "2020-03-04 23:59:00",
+    "play_count_reset_time": 1440,
+    "play_count": -1,
+    "group_string": "10117",
+    "stage_string": "10118",
+    "group_bg_resource": "",
+    "banner_priority": 1,
+    "large_popup": "",
+    "event_banner": "s_banner_tidal_war_001",
+    "banner_info": "3663",
+    "subdue_group_cutin": 2004010,
+    "subdue_main_lobby_button": 1,
+    "lobby_subdue_icon_name": ""
+  },
+  {
+    "group_id": 102,
+    "active_start": "2020-01-01 00:00:00",
+    "active_end": "2020-02-28 23:59:00",
+    "play_count_reset_time": 1440,
+    "play_count": 5,
+    "group_string": "",
+    "stage_string": "",
+    "group_bg_resource": "",
+    "banner_priority": 2,
+    "large_popup": "",
+    "event_banner": "s_banner_subdue_boss_102",
+    "banner_info": "",
+    "subdue_group_cutin": 0,
+    "subdue_main_lobby_button": 0,
+    "lobby_subdue_icon_name": ""
+  }
+]

@@ -289,16 +289,16 @@
   },
   {
     "id": 47,
-    "costume_shop_type": 28,
-    "costume_shop_group": 210,
+    "costume_shop_type": 15,
+    "costume_shop_group": 57,
     "product_id": 6047,
     "price_id": 500011,
     "price_count": 90
   },
   {
     "id": 48,
-    "costume_shop_type": 28,
-    "costume_shop_group": 211,
+    "costume_shop_type": 15,
+    "costume_shop_group": 58,
     "product_id": 6048,
     "price_id": 500011,
     "price_count": 90
@@ -796,6 +796,46 @@
     "costume_shop_type": 46,
     "costume_shop_group": 161,
     "product_id": 6141,
+    "price_id": 500011,
+    "price_count": 90
+  },
+  {
+    "id": 115,
+    "costume_shop_type": 48,
+    "costume_shop_group": 162,
+    "product_id": 6142,
+    "price_id": 500011,
+    "price_count": 90
+  },
+  {
+    "id": 116,
+    "costume_shop_type": 48,
+    "costume_shop_group": 163,
+    "product_id": 6143,
+    "price_id": 500011,
+    "price_count": 90
+  },
+  {
+    "id": 117,
+    "costume_shop_type": 48,
+    "costume_shop_group": 164,
+    "product_id": 6144,
+    "price_id": 500011,
+    "price_count": 90
+  },
+  {
+    "id": 118,
+    "costume_shop_type": 49,
+    "costume_shop_group": 166,
+    "product_id": 6145,
+    "price_id": 500011,
+    "price_count": 90
+  },
+  {
+    "id": 119,
+    "costume_shop_type": 49,
+    "costume_shop_group": 167,
+    "product_id": 6146,
     "price_id": 500011,
     "price_count": 90
   }

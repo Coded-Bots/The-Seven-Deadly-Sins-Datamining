@@ -784,8 +784,8 @@
   },
   {
     "id": 92,
-    "path": "Weapon/Prefabs/titan_levi/",
-    "resource": "weapon_titan_levi_0001",
+    "path": "Weapon/Prefabs/titan_eren/",
+    "resource": "weapon_titan_eren_0001",
     "type": 1,
     "attach_name": "",
     "attach": "righthand",
@@ -793,8 +793,8 @@
   },
   {
     "id": 93,
-    "path": "Weapon/Prefabs/titan_levi/",
-    "resource": "weapon_titan_levi_0001_sub",
+    "path": "Weapon/Prefabs/titan_eren/",
+    "resource": "weapon_titan_eren_0001_sub1",
     "type": 1,
     "attach_name": "",
     "attach": "lefthand",
@@ -802,8 +802,8 @@
   },
   {
     "id": 94,
-    "path": "Weapon/Prefabs/titan_levi/",
-    "resource": "weapon_titan_levi_0001_sub2",
+    "path": "Weapon/Prefabs/titan_eren/",
+    "resource": "weapon_titan_eren_0001_sub",
     "type": 1,
     "attach_name": "",
     "attach": "Weapon_Sub1",
@@ -811,8 +811,8 @@
   },
   {
     "id": 95,
-    "path": "Weapon/Prefabs/titan_levi/",
-    "resource": "weapon_titan_levi_0001_sub3",
+    "path": "Weapon/Prefabs/titan_eren/",
+    "resource": "weapon_titan_eren_0001_sub3",
     "type": 1,
     "attach_name": "",
     "attach": "Weapon_Sub2",
@@ -822,6 +822,42 @@
     "id": 96,
     "path": "Weapon/Prefabs/escanor/",
     "resource": "weapon_escanor_0001",
+    "type": 1,
+    "attach_name": "",
+    "attach": "righthand",
+    "ani_keyname": ""
+  },
+  {
+    "id": 97,
+    "path": "Weapon/Prefabs/meliodas/",
+    "resource": "weapon_meliodas_109_scene",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Weapon_Sub1",
+    "ani_keyname": ""
+  },
+  {
+    "id": 98,
+    "path": "Character/hero_prop_chapter_giant/prefabs",
+    "resource": "fx_colossal_titan_steam_01",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001",
+    "ani_keyname": ""
+  },
+  {
+    "id": 99,
+    "path": "Character/hero_prop_chapter_giant/prefabs",
+    "resource": "fx_colossal_titan_steam_02",
+    "type": 1,
+    "attach_name": "",
+    "attach": "Bip001",
+    "ani_keyname": ""
+  },
+  {
+    "id": 100,
+    "path": "Weapon/Prefabs/ban/",
+    "resource": "weapon_ban_101",
     "type": 1,
     "attach_name": "",
     "attach": "righthand",

@@ -1,0 +1,82 @@
+[
+  {
+    "index": 1,
+    "gacha_bonus_reward_group_id": 1001,
+    "gacha_bonus_reward_type": 1,
+    "gacha_bonus_reward": 1,
+    "gacha_bonus_count": 900,
+    "gacha_bonus_reward_rate": 304901
+  },
+  {
+    "index": 1,
+    "gacha_bonus_reward_group_id": 1000,
+    "gacha_bonus_reward_type": 2,
+    "gacha_bonus_reward": 2001,
+    "gacha_bonus_count": 2,
+    "gacha_bonus_reward_rate": 1
+  },
+  {
+    "index": 900,
+    "gacha_bonus_reward_group_id": 304901,
+    "gacha_bonus_reward_type": 1,
+    "gacha_bonus_reward": 1000,
+    "gacha_bonus_count": 3,
+    "gacha_bonus_reward_rate": 2001
+  },
+  {
+    "index": 2,
+    "gacha_bonus_reward_group_id": 1,
+    "gacha_bonus_reward_type": 900,
+    "gacha_bonus_reward": 304901,
+    "gacha_bonus_count": 1,
+    "gacha_bonus_reward_rate": 1000
+  },
+  {
+    "index": 4,
+    "gacha_bonus_reward_group_id": 3001,
+    "gacha_bonus_reward_type": 3,
+    "gacha_bonus_reward": 1,
+    "gacha_bonus_count": 900,
+    "gacha_bonus_reward_rate": 304901
+  },
+  {
+    "index": 1,
+    "gacha_bonus_reward_group_id": 200,
+    "gacha_bonus_reward_type": 5,
+    "gacha_bonus_reward": 3001,
+    "gacha_bonus_count": 3,
+    "gacha_bonus_reward_rate": 1
+  },
+  {
+    "index": 900,
+    "gacha_bonus_reward_group_id": 304901,
+    "gacha_bonus_reward_type": 1,
+    "gacha_bonus_reward": 300,
+    "gacha_bonus_count": 6,
+    "gacha_bonus_reward_rate": 3001
+  },
+  {
+    "index": 3,
+    "gacha_bonus_reward_group_id": 1,
+    "gacha_bonus_reward_type": 900,
+    "gacha_bonus_reward": 304901,
+    "gacha_bonus_count": 1,
+    "gacha_bonus_reward_rate": 500
+  },
+  {
+    "index": 7,
+    "gacha_bonus_reward_group_id": 4001,
+    "gacha_bonus_reward_type": 1,
+    "gacha_bonus_reward": 1,
+    "gacha_bonus_count": 300,
+    "gacha_bonus_reward_rate": 0
+  },
+  {
+    "index": 0,
+    "gacha_bonus_reward_group_id": 1000,
+    "gacha_bonus_reward_type": 8,
+    "gacha_bonus_reward": 4001,
+    "gacha_bonus_count": 1,
+    "gacha_bonus_reward_rate": 2
+  }
+]

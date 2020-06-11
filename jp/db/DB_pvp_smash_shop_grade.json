@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "need_buy_point": 20
+  },
+  {
+    "id": 2,
+    "need_buy_point": 30
+  },
+  {
+    "id": 3,
+    "need_buy_point": 0
+  }
+]

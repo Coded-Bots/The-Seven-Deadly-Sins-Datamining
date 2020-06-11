@@ -902,6 +902,50 @@
     "open_value": 0
   },
   {
+    "id": 1083,
+    "contents_type": "stage",
+    "type": "main",
+    "stage_ID": 1300201,
+    "before_loading_id": 500300,
+    "after_loading_id": 500300,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 1084,
+    "contents_type": "stage",
+    "type": "main",
+    "stage_ID": 1300211,
+    "before_loading_id": 500300,
+    "after_loading_id": 500300,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 1085,
+    "contents_type": "stage",
+    "type": "main",
+    "stage_ID": 1300301,
+    "before_loading_id": 500301,
+    "after_loading_id": 500301,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 1086,
+    "contents_type": "stage",
+    "type": "main",
+    "stage_ID": 1300311,
+    "before_loading_id": 500301,
+    "after_loading_id": 500301,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
     "id": 2001,
     "contents_type": "stage",
     "type": "another_main",
@@ -3619,6 +3663,50 @@
     "open_value": 0
   },
   {
+    "id": 7053,
+    "contents_type": "stage",
+    "type": "extra",
+    "stage_ID": 91102101,
+    "before_loading_id": 500304,
+    "after_loading_id": 500304,
+    "loading_tip_group": 0,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 7054,
+    "contents_type": "stage",
+    "type": "extra",
+    "stage_ID": 91102111,
+    "before_loading_id": 500304,
+    "after_loading_id": 500304,
+    "loading_tip_group": 0,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 7055,
+    "contents_type": "stage",
+    "type": "extra",
+    "stage_ID": 91102121,
+    "before_loading_id": 500304,
+    "after_loading_id": 500304,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 7056,
+    "contents_type": "stage",
+    "type": "extra",
+    "stage_ID": 91102131,
+    "before_loading_id": 500304,
+    "after_loading_id": 500304,
+    "loading_tip_group": 0,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
     "id": 8001,
     "contents_type": "stage",
     "type": "event_final_boss_main",
@@ -3658,204 +3746,6 @@
     "stage_ID": 3,
     "before_loading_id": 500002,
     "after_loading_id": 500002,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9001,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1010,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9002,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1011,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9003,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1012,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9004,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1013,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9005,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1020,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9006,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1021,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9007,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1022,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9008,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1023,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9009,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1030,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9010,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1031,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9011,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1032,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9012,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1033,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9013,
-    "contents_type": "stage",
-    "type": "double_final_boss",
-    "stage_ID": 1040,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9014,
-    "contents_type": "stage",
-    "type": "double_final_boss",
-    "stage_ID": 1041,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9015,
-    "contents_type": "stage",
-    "type": "double_final_boss",
-    "stage_ID": 1042,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9016,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1050,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9017,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1051,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 9018,
-    "contents_type": "stage",
-    "type": "final_boss",
-    "stage_ID": 1052,
-    "before_loading_id": 600007,
-    "after_loading_id": 600007,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -4758,6 +4648,39 @@
     "stage_ID": 22059,
     "before_loading_id": 500251,
     "after_loading_id": 500251,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10083,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 30010,
+    "before_loading_id": 500308,
+    "after_loading_id": 500308,
+    "loading_tip_group": 0,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10084,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 30011,
+    "before_loading_id": 500308,
+    "after_loading_id": 500308,
+    "loading_tip_group": 0,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 10085,
+    "contents_type": "stage",
+    "type": "quest",
+    "stage_ID": 30012,
+    "before_loading_id": 500308,
+    "after_loading_id": 500308,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -7249,105 +7172,6 @@
     "open_value": 0
   },
   {
-    "id": 14001,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90004001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14002,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90004002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14003,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90004003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14004,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90005001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14005,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90005002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14006,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90005003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14007,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90006001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14008,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90006002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14009,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90006003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
     "id": 14010,
     "contents_type": "stage",
     "type": "event_stage_free",
@@ -7431,534 +7255,6 @@
     "stage_ID": 90007108,
     "before_loading_id": 315013,
     "after_loading_id": 315013,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14018,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90009001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14019,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90009002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14020,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90009003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14021,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90010001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14022,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90010002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14023,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90010003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14024,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90012001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14025,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90012002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14026,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90012003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14027,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90013001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14028,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90013002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14029,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90013003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14030,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90012004,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14031,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90012005,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14032,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90012006,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14033,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90012007,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14034,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90012008,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14035,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90012009,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14036,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90004004,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14037,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90004005,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14038,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90004006,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14039,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90004007,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14040,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90004008,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14041,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90004009,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14042,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90010004,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14043,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90010005,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14044,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90010006,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14045,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90010007,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14046,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90010008,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14047,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90010009,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14048,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90005004,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14049,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90005005,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14050,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90005006,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14051,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90005007,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14052,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90005008,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14053,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90005009,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14054,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90006004,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14055,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90006005,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14056,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90006006,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14057,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90006007,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14058,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90006008,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14059,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90006009,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14060,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90009004,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14061,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90009005,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14062,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90009006,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14063,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90009007,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14064,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90009008,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14065,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90009009,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -8382,39 +7678,6 @@
     "open_value": 0
   },
   {
-    "id": 14104,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90029001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14105,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90029002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 14106,
-    "contents_type": "stage",
-    "type": "event_stage_free",
-    "stage_ID": 90029003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
     "id": 14107,
     "contents_type": "stage",
     "type": "event_stage_free",
@@ -8553,7 +7816,7 @@
     "stage_ID": 90038001,
     "before_loading_id": 500169,
     "after_loading_id": 500172,
-    "loading_tip_group": 0,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -8564,7 +7827,7 @@
     "stage_ID": 90038002,
     "before_loading_id": 500169,
     "after_loading_id": 500172,
-    "loading_tip_group": 0,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -8575,7 +7838,7 @@
     "stage_ID": 90038003,
     "before_loading_id": 500030,
     "after_loading_id": 500172,
-    "loading_tip_group": 0,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -8586,7 +7849,7 @@
     "stage_ID": 90038011,
     "before_loading_id": 500169,
     "after_loading_id": 500172,
-    "loading_tip_group": 0,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -8597,7 +7860,7 @@
     "stage_ID": 90038012,
     "before_loading_id": 500169,
     "after_loading_id": 500172,
-    "loading_tip_group": 0,
+    "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
@@ -8608,303 +7871,72 @@
     "stage_ID": 90038013,
     "before_loading_id": 500030,
     "after_loading_id": 500172,
-    "loading_tip_group": 0,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 15001,
-    "contents_type": "stage",
-    "type": "event_list_free",
-    "stage_ID": 90011001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 15002,
+    "id": 14125,
     "contents_type": "stage",
-    "type": "event_list_free",
-    "stage_ID": 90011002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
+    "type": "event_stage_free",
+    "stage_ID": 90037001,
+    "before_loading_id": 500080,
+    "after_loading_id": 500080,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 15003,
+    "id": 14126,
     "contents_type": "stage",
-    "type": "event_list_free",
-    "stage_ID": 90011003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
+    "type": "event_stage_free",
+    "stage_ID": 90037002,
+    "before_loading_id": 500167,
+    "after_loading_id": 500167,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 15004,
+    "id": 14127,
     "contents_type": "stage",
-    "type": "event_list_free",
-    "stage_ID": 90011004,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
+    "type": "event_stage_free",
+    "stage_ID": 90037003,
+    "before_loading_id": 500167,
+    "after_loading_id": 500167,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 15005,
+    "id": 14128,
     "contents_type": "stage",
-    "type": "event_list_free",
-    "stage_ID": 90011005,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
+    "type": "event_stage_free",
+    "stage_ID": 90037011,
+    "before_loading_id": 500080,
+    "after_loading_id": 500080,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 15006,
+    "id": 14129,
     "contents_type": "stage",
-    "type": "event_list_free",
-    "stage_ID": 90011006,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
+    "type": "event_stage_free",
+    "stage_ID": 90037012,
+    "before_loading_id": 500167,
+    "after_loading_id": 500167,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 15007,
+    "id": 14130,
     "contents_type": "stage",
-    "type": "event_list_free",
-    "stage_ID": 90011007,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 15008,
-    "contents_type": "stage",
-    "type": "event_list_free",
-    "stage_ID": 90011008,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 15009,
-    "contents_type": "stage",
-    "type": "event_list_free",
-    "stage_ID": 90011009,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16001,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300101,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16002,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300102,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16003,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300103,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16004,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300104,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16005,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300105,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16006,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300201,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16007,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300202,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16008,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300203,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16009,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300301,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16010,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300302,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16011,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300303,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16012,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300401,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16013,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300402,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16014,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300403,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16015,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300404,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16016,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300501,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16017,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300502,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 16018,
-    "contents_type": "stage",
-    "type": "monthlystage",
-    "stage_ID": 300503,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
+    "type": "event_stage_free",
+    "stage_ID": 90037013,
+    "before_loading_id": 500167,
+    "after_loading_id": 500167,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -12936,122 +11968,67 @@
     "open_value": 0
   },
   {
-    "id": 24001,
+    "id": 23013,
     "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1011,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
+    "type": "event_challenge_boss",
+    "stage_ID": 1121,
+    "before_loading_id": 700058,
+    "after_loading_id": 700058,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 24002,
+    "id": 23014,
     "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1012,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
+    "type": "event_challenge_boss",
+    "stage_ID": 1122,
+    "before_loading_id": 700058,
+    "after_loading_id": 700058,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 24003,
+    "id": 23015,
     "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1013,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
+    "type": "event_challenge_boss",
+    "stage_ID": 1123,
+    "before_loading_id": 700058,
+    "after_loading_id": 700058,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 24004,
+    "id": 23016,
     "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1014,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
+    "type": "event_challenge_boss",
+    "stage_ID": 1211,
+    "before_loading_id": 600030,
+    "after_loading_id": 600030,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 24005,
+    "id": 23017,
     "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1021,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
+    "type": "event_challenge_boss",
+    "stage_ID": 1212,
+    "before_loading_id": 600030,
+    "after_loading_id": 600030,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 24006,
+    "id": 23018,
     "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1022,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 24007,
-    "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1023,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 24008,
-    "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1024,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 24009,
-    "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1031,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 24010,
-    "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1032,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 24011,
-    "contents_type": "stage",
-    "type": "challenge_boss",
-    "stage_ID": 1033,
-    "before_loading_id": 600010,
-    "after_loading_id": 600010,
+    "type": "event_challenge_boss",
+    "stage_ID": 1213,
+    "before_loading_id": 600030,
+    "after_loading_id": 600030,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -15304,9 +14281,9 @@
     "id": 28126,
     "contents_type": "stage",
     "type": "memorial",
-    "stage_ID": 1545001,
-    "before_loading_id": 316051,
-    "after_loading_id": 316051,
+    "stage_ID": 1795001,
+    "before_loading_id": 316054,
+    "after_loading_id": 316054,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -15315,9 +14292,9 @@
     "id": 28127,
     "contents_type": "stage",
     "type": "memorial",
-    "stage_ID": 1545002,
-    "before_loading_id": 316052,
-    "after_loading_id": 316052,
+    "stage_ID": 1805001,
+    "before_loading_id": 316055,
+    "after_loading_id": 316055,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -15327,8 +14304,85 @@
     "contents_type": "stage",
     "type": "memorial",
     "stage_ID": 1595002,
-    "before_loading_id": 316053,
-    "after_loading_id": 316053,
+    "before_loading_id": 316056,
+    "after_loading_id": 316056,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 28129,
+    "contents_type": "stage",
+    "type": "memorial",
+    "stage_ID": 1045003,
+    "before_loading_id": 316057,
+    "after_loading_id": 316057,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 28130,
+    "contents_type": "stage",
+    "type": "memorial",
+    "stage_ID": 1545001,
+    "before_loading_id": 316058,
+    "after_loading_id": 316058,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 28131,
+    "contents_type": "stage",
+    "type": "memorial",
+    "stage_ID": 1545002,
+    "before_loading_id": 316059,
+    "after_loading_id": 316059,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 28132,
+    "contents_type": "stage",
+    "type": "memorial",
+    "stage_ID": 1764001,
+    "before_loading_id": 316060,
+    "after_loading_id": 316060,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 28133,
+    "contents_type": "stage",
+    "type": "memorial",
+    "stage_ID": 1765001,
+    "before_loading_id": 316061,
+    "after_loading_id": 316061,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 28134,
+    "contents_type": "stage",
+    "type": "memorial",
+    "stage_ID": 1775001,
+    "before_loading_id": 316062,
+    "after_loading_id": 316062,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 28135,
+    "contents_type": "stage",
+    "type": "memorial",
+    "stage_ID": 1785001,
+    "before_loading_id": 316063,
+    "after_loading_id": 316063,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -16063,6 +15117,17 @@
     "id": 29067,
     "contents_type": "skill",
     "type": "skill_preview",
+    "stage_ID": 1343021,
+    "before_loading_id": 316008,
+    "after_loading_id": 316008,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29068,
+    "contents_type": "skill",
+    "type": "skill_preview",
     "stage_ID": 1354001,
     "before_loading_id": 315072,
     "after_loading_id": 315072,
@@ -16071,7 +15136,7 @@
     "open_value": 0
   },
   {
-    "id": 29068,
+    "id": 29069,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1355001,
@@ -16082,7 +15147,7 @@
     "open_value": 0
   },
   {
-    "id": 29069,
+    "id": 29070,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1364001,
@@ -16093,7 +15158,7 @@
     "open_value": 0
   },
   {
-    "id": 29070,
+    "id": 29071,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1364002,
@@ -16104,7 +15169,7 @@
     "open_value": 0
   },
   {
-    "id": 29071,
+    "id": 29072,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1373001,
@@ -16115,7 +15180,7 @@
     "open_value": 0
   },
   {
-    "id": 29072,
+    "id": 29073,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1404001,
@@ -16126,7 +15191,7 @@
     "open_value": 0
   },
   {
-    "id": 29073,
+    "id": 29074,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1405001,
@@ -16137,7 +15202,7 @@
     "open_value": 0
   },
   {
-    "id": 29074,
+    "id": 29075,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1464001,
@@ -16148,7 +15213,7 @@
     "open_value": 0
   },
   {
-    "id": 29075,
+    "id": 29076,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1465001,
@@ -16159,7 +15224,7 @@
     "open_value": 0
   },
   {
-    "id": 29076,
+    "id": 29077,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1425002,
@@ -16170,7 +15235,7 @@
     "open_value": 0
   },
   {
-    "id": 29077,
+    "id": 29078,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1435001,
@@ -16181,7 +15246,7 @@
     "open_value": 0
   },
   {
-    "id": 29078,
+    "id": 29079,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1445001,
@@ -16192,7 +15257,7 @@
     "open_value": 0
   },
   {
-    "id": 29079,
+    "id": 29080,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1455001,
@@ -16203,7 +15268,7 @@
     "open_value": 0
   },
   {
-    "id": 29080,
+    "id": 29081,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1385001,
@@ -16214,7 +15279,7 @@
     "open_value": 0
   },
   {
-    "id": 29081,
+    "id": 29082,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1505001,
@@ -16225,7 +15290,7 @@
     "open_value": 0
   },
   {
-    "id": 29082,
+    "id": 29083,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1344001,
@@ -16236,7 +15301,7 @@
     "open_value": 0
   },
   {
-    "id": 29083,
+    "id": 29084,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1475002,
@@ -16247,7 +15312,7 @@
     "open_value": 0
   },
   {
-    "id": 29084,
+    "id": 29085,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1455002,
@@ -16258,7 +15323,7 @@
     "open_value": 0
   },
   {
-    "id": 29085,
+    "id": 29086,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1005003,
@@ -16269,7 +15334,7 @@
     "open_value": 0
   },
   {
-    "id": 29086,
+    "id": 29087,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1155003,
@@ -16280,7 +15345,7 @@
     "open_value": 0
   },
   {
-    "id": 29087,
+    "id": 29088,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1385003,
@@ -16291,7 +15356,7 @@
     "open_value": 0
   },
   {
-    "id": 29088,
+    "id": 29089,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1515001,
@@ -16302,7 +15367,7 @@
     "open_value": 0
   },
   {
-    "id": 29089,
+    "id": 29090,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1525001,
@@ -16313,7 +15378,7 @@
     "open_value": 0
   },
   {
-    "id": 29090,
+    "id": 29091,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1605001,
@@ -16324,7 +15389,7 @@
     "open_value": 0
   },
   {
-    "id": 29091,
+    "id": 29092,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1614001,
@@ -16335,7 +15400,7 @@
     "open_value": 0
   },
   {
-    "id": 29092,
+    "id": 29093,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1665001,
@@ -16346,7 +15411,7 @@
     "open_value": 0
   },
   {
-    "id": 29093,
+    "id": 29094,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1535001,
@@ -16357,7 +15422,7 @@
     "open_value": 0
   },
   {
-    "id": 29094,
+    "id": 29095,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1654001,
@@ -16368,7 +15433,7 @@
     "open_value": 0
   },
   {
-    "id": 29095,
+    "id": 29096,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1645001,
@@ -16379,7 +15444,7 @@
     "open_value": 0
   },
   {
-    "id": 29096,
+    "id": 29097,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1725001,
@@ -16390,7 +15455,7 @@
     "open_value": 0
   },
   {
-    "id": 29097,
+    "id": 29098,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1035003,
@@ -16401,7 +15466,7 @@
     "open_value": 0
   },
   {
-    "id": 29098,
+    "id": 29099,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1185002,
@@ -16412,7 +15477,7 @@
     "open_value": 0
   },
   {
-    "id": 29099,
+    "id": 29100,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1475001,
@@ -16423,7 +15488,7 @@
     "open_value": 0
   },
   {
-    "id": 29100,
+    "id": 29101,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1735001,
@@ -16434,7 +15499,7 @@
     "open_value": 0
   },
   {
-    "id": 29101,
+    "id": 29102,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1585001,
@@ -16445,7 +15510,7 @@
     "open_value": 0
   },
   {
-    "id": 29102,
+    "id": 29103,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1585002,
@@ -16456,7 +15521,7 @@
     "open_value": 0
   },
   {
-    "id": 29103,
+    "id": 29104,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1385002,
@@ -16467,7 +15532,7 @@
     "open_value": 0
   },
   {
-    "id": 29104,
+    "id": 29105,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1485001,
@@ -16478,7 +15543,7 @@
     "open_value": 0
   },
   {
-    "id": 29105,
+    "id": 29106,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1495001,
@@ -16489,7 +15554,7 @@
     "open_value": 0
   },
   {
-    "id": 29106,
+    "id": 29107,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1575001,
@@ -16500,7 +15565,7 @@
     "open_value": 0
   },
   {
-    "id": 29107,
+    "id": 29108,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1405002,
@@ -16511,7 +15576,7 @@
     "open_value": 0
   },
   {
-    "id": 29108,
+    "id": 29109,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1625001,
@@ -16522,7 +15587,7 @@
     "open_value": 0
   },
   {
-    "id": 29109,
+    "id": 29110,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1675001,
@@ -16533,7 +15598,7 @@
     "open_value": 0
   },
   {
-    "id": 29110,
+    "id": 29111,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1575002,
@@ -16544,7 +15609,7 @@
     "open_value": 0
   },
   {
-    "id": 29111,
+    "id": 29112,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1515002,
@@ -16555,7 +15620,7 @@
     "open_value": 0
   },
   {
-    "id": 29112,
+    "id": 29113,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1505002,
@@ -16566,7 +15631,7 @@
     "open_value": 0
   },
   {
-    "id": 29113,
+    "id": 29114,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1685001,
@@ -16577,7 +15642,7 @@
     "open_value": 0
   },
   {
-    "id": 29114,
+    "id": 29115,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1395001,
@@ -16588,7 +15653,7 @@
     "open_value": 0
   },
   {
-    "id": 29115,
+    "id": 29116,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1555001,
@@ -16599,7 +15664,7 @@
     "open_value": 0
   },
   {
-    "id": 29116,
+    "id": 29117,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1555002,
@@ -16610,7 +15675,7 @@
     "open_value": 0
   },
   {
-    "id": 29117,
+    "id": 29118,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1535002,
@@ -16621,7 +15686,7 @@
     "open_value": 0
   },
   {
-    "id": 29118,
+    "id": 29119,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1525002,
@@ -16632,7 +15697,7 @@
     "open_value": 0
   },
   {
-    "id": 29119,
+    "id": 29120,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1755001,
@@ -16643,7 +15708,7 @@
     "open_value": 0
   },
   {
-    "id": 29120,
+    "id": 29121,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1695001,
@@ -16654,7 +15719,7 @@
     "open_value": 0
   },
   {
-    "id": 29121,
+    "id": 29122,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1745001,
@@ -16665,7 +15730,7 @@
     "open_value": 0
   },
   {
-    "id": 29122,
+    "id": 29123,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1595001,
@@ -16676,7 +15741,7 @@
     "open_value": 0
   },
   {
-    "id": 29123,
+    "id": 29124,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1705001,
@@ -16687,7 +15752,7 @@
     "open_value": 0
   },
   {
-    "id": 29124,
+    "id": 29125,
     "contents_type": "skill",
     "type": "skill_preview",
     "stage_ID": 1415001,
@@ -16698,23 +15763,12 @@
     "open_value": 0
   },
   {
-    "id": 29125,
-    "contents_type": "skill",
-    "type": "skill_preview",
-    "stage_ID": 1545001,
-    "before_loading_id": 316051,
-    "after_loading_id": 316051,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
     "id": 29126,
     "contents_type": "skill",
     "type": "skill_preview",
-    "stage_ID": 1545002,
-    "before_loading_id": 316052,
-    "after_loading_id": 316052,
+    "stage_ID": 1795001,
+    "before_loading_id": 316054,
+    "after_loading_id": 316054,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -16723,9 +15777,97 @@
     "id": 29127,
     "contents_type": "skill",
     "type": "skill_preview",
+    "stage_ID": 1805001,
+    "before_loading_id": 316055,
+    "after_loading_id": 316055,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29128,
+    "contents_type": "skill",
+    "type": "skill_preview",
     "stage_ID": 1595002,
-    "before_loading_id": 316053,
-    "after_loading_id": 316053,
+    "before_loading_id": 316056,
+    "after_loading_id": 316056,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29129,
+    "contents_type": "skill",
+    "type": "skill_preview",
+    "stage_ID": 1045003,
+    "before_loading_id": 316057,
+    "after_loading_id": 316057,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29130,
+    "contents_type": "skill",
+    "type": "skill_preview",
+    "stage_ID": 1545001,
+    "before_loading_id": 316058,
+    "after_loading_id": 316058,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29131,
+    "contents_type": "skill",
+    "type": "skill_preview",
+    "stage_ID": 1545002,
+    "before_loading_id": 316059,
+    "after_loading_id": 316059,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29132,
+    "contents_type": "skill",
+    "type": "skill_preview",
+    "stage_ID": 1764001,
+    "before_loading_id": 316060,
+    "after_loading_id": 316060,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29133,
+    "contents_type": "skill",
+    "type": "skill_preview",
+    "stage_ID": 1765001,
+    "before_loading_id": 316061,
+    "after_loading_id": 316061,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29134,
+    "contents_type": "skill",
+    "type": "skill_preview",
+    "stage_ID": 1775001,
+    "before_loading_id": 316062,
+    "after_loading_id": 316062,
+    "loading_tip_group": 1,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 29135,
+    "contents_type": "skill",
+    "type": "skill_preview",
+    "stage_ID": 1785001,
+    "before_loading_id": 316063,
+    "after_loading_id": 316063,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -19252,6 +18394,17 @@
   {
     "id": 34201,
     "contents_type": "area",
+    "type": "basepoint",
+    "stage_ID": 1200301,
+    "before_loading_id": 500305,
+    "after_loading_id": 500305,
+    "loading_tip_group": 3,
+    "open_type": "quest_end",
+    "open_value": 30007
+  },
+  {
+    "id": 34202,
+    "contents_type": "area",
     "type": "main",
     "stage_ID": 1200401,
     "before_loading_id": 500199,
@@ -19261,7 +18414,7 @@
     "open_value": 0
   },
   {
-    "id": 34202,
+    "id": 34203,
     "contents_type": "area",
     "type": "main",
     "stage_ID": 1200402,
@@ -19272,18 +18425,18 @@
     "open_value": 0
   },
   {
-    "id": 34203,
+    "id": 34204,
     "contents_type": "area",
     "type": "basepoint",
     "stage_ID": 1200501,
     "before_loading_id": 500254,
     "after_loading_id": 500254,
-    "loading_tip_group": 0,
+    "loading_tip_group": 3,
     "open_type": "",
     "open_value": 0
   },
   {
-    "id": 34204,
+    "id": 34205,
     "contents_type": "area",
     "type": "basepoint",
     "stage_ID": 1200501,
@@ -19294,10 +18447,87 @@
     "open_value": 22064
   },
   {
-    "id": 34205,
+    "id": 34206,
     "contents_type": "area",
     "type": "warp",
     "stage_ID": 1200601,
+    "before_loading_id": 100001,
+    "after_loading_id": 100001,
+    "loading_tip_group": 0,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 34207,
+    "contents_type": "area",
+    "type": "warp",
+    "stage_ID": 1300101,
+    "before_loading_id": 100001,
+    "after_loading_id": 100001,
+    "loading_tip_group": 0,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 34208,
+    "contents_type": "area",
+    "type": "main",
+    "stage_ID": 1300201,
+    "before_loading_id": 500300,
+    "after_loading_id": 500300,
+    "loading_tip_group": 3,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 34209,
+    "contents_type": "area",
+    "type": "main",
+    "stage_ID": 1300301,
+    "before_loading_id": 500301,
+    "after_loading_id": 500301,
+    "loading_tip_group": 3,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 34210,
+    "contents_type": "area",
+    "type": "warp",
+    "stage_ID": 1300401,
+    "before_loading_id": 700056,
+    "after_loading_id": 700056,
+    "loading_tip_group": 3,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 34211,
+    "contents_type": "area",
+    "type": "main",
+    "stage_ID": 1300501,
+    "before_loading_id": 500307,
+    "after_loading_id": 500307,
+    "loading_tip_group": 3,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 34212,
+    "contents_type": "area",
+    "type": "basepoint",
+    "stage_ID": 1300601,
+    "before_loading_id": 500308,
+    "after_loading_id": 500308,
+    "loading_tip_group": 3,
+    "open_type": "",
+    "open_value": 0
+  },
+  {
+    "id": 34213,
+    "contents_type": "area",
+    "type": "warp",
+    "stage_ID": 1300701,
     "before_loading_id": 100001,
     "after_loading_id": 100001,
     "loading_tip_group": 0,
@@ -19503,50 +18733,6 @@
     "open_value": 0
   },
   {
-    "id": 39001,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200000,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39002,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200001,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39003,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200002,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39004,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200003,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
     "id": 39005,
     "contents_type": "area",
     "type": "event_stage_free",
@@ -19564,182 +18750,6 @@
     "stage_ID": 90200005,
     "before_loading_id": 315014,
     "after_loading_id": 315014,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39007,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200006,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39008,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200007,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39009,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200008,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39010,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200009,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39011,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200010,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39012,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200011,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39013,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200012,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39014,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200013,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39015,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200014,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39016,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200015,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39017,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200016,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39018,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200017,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39019,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200018,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39020,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200019,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39021,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200020,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39022,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 90200021,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -19773,28 +18783,6 @@
     "stage_ID": 90200024,
     "before_loading_id": 315013,
     "after_loading_id": 315013,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39026,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 95010101,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39027,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 95020102,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0
@@ -19927,17 +18915,6 @@
     "stage_ID": 95150101,
     "before_loading_id": 316006,
     "after_loading_id": 316006,
-    "loading_tip_group": 1,
-    "open_type": "",
-    "open_value": 0
-  },
-  {
-    "id": 39040,
-    "contents_type": "area",
-    "type": "event_stage_free",
-    "stage_ID": 95160101,
-    "before_loading_id": 310004,
-    "after_loading_id": 310004,
     "loading_tip_group": 1,
     "open_type": "",
     "open_value": 0

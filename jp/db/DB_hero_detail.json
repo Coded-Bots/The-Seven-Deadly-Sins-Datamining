@@ -3,31 +3,31 @@
     "id": 1,
     "type": 1,
     "ani_clip": "story_agree",
-    "ani_clip_name": "14783"
+    "ani_clip_name": "18530"
   },
   {
     "id": 2,
     "type": 1,
     "ani_clip": "story_deny",
-    "ani_clip_name": "14785"
+    "ani_clip_name": "18532"
   },
   {
     "id": 3,
     "type": 1,
     "ani_clip": "story_sad",
-    "ani_clip_name": "14787"
+    "ani_clip_name": "18534"
   },
   {
     "id": 4,
     "type": 1,
     "ani_clip": "story_angry",
-    "ani_clip_name": "14784"
+    "ani_clip_name": "18531"
   },
   {
     "id": 5,
     "type": 1,
     "ani_clip": "story_embarrassed",
-    "ani_clip_name": "14786"
+    "ani_clip_name": "18533"
   },
   {
     "id": 1000,

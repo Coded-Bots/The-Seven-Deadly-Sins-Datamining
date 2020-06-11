@@ -112,11 +112,51 @@
   {
     "id": 23,
     "contents": "guild_war",
-    "value_int_1": 1
+    "value_int_1": 0
   },
   {
     "id": 24,
     "contents": "patrol",
     "value_int_1": 1
+  },
+  {
+    "id": 25,
+    "contents": "boarhat_change_option",
+    "value_int_1": 1
+  },
+  {
+    "id": 26,
+    "contents": "hero_transcend",
+    "value_int_1": 1
+  },
+  {
+    "id": 27,
+    "contents": "tower",
+    "value_int_1": 1
+  },
+  {
+    "id": 28,
+    "contents": "coin_shop_fesherocoin",
+    "value_int_1": 1
+  },
+  {
+    "id": 29,
+    "contents": "pvp_smash_stamina_charge",
+    "value_int_1": 0
+  },
+  {
+    "id": 30,
+    "contents": "event_time_attack_mission_auto_start",
+    "value_int_1": 1
+  },
+  {
+    "id": 32,
+    "contents": "transcend_level_open",
+    "value_int_1": 4
+  },
+  {
+    "id": 33,
+    "contents": "transcend_reset_open",
+    "value_int_1": 0
   }
 ]

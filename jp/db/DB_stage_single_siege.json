@@ -2,7 +2,7 @@
   {
     "id": 101,
     "type": "extra_siege",
-    "stage_string": "7243",
+    "stage_string": "10991",
     "control_type": "extra_siege_single",
     "region": 1002,
     "group_id": 1,
@@ -13,7 +13,7 @@
     "difficulty_lock": 0,
     "difficulty_string": "3918",
     "info_image": "DestroyInfo_red_demon_01",
-    "info_guide": "10139",
+    "info_guide": "13886",
     "start_cut": 12010030,
     "end_cut": 12010040,
     "bgm_sound_id_1": 90216,

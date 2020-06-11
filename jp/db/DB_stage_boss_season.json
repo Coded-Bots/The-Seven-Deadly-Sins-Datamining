@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "season_start": "2020-03-26 00:00:00",
+    "season_end": "2020-04-28 23:59:00",
+    "active_day": 2,
+    "inactive_day": 1,
+    "season_title": "5623",
+    "large_popup": "",
+    "event_banner": "",
+    "season_info": "",
+    "disaster_group_cutin": 2002070,
+    "lobby_disaster_icon_name": "icon_shortcut_disaster"
+  }
+]

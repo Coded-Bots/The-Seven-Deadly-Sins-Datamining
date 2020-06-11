@@ -117,6 +117,24 @@
     "blind_off_value": 30001
   },
   {
+    "id": 14,
+    "content_type": "area",
+    "content_id": 1200701,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 30001
+  },
+  {
+    "id": 15,
+    "content_type": "area",
+    "content_id": 1300701,
+    "taget_type": "",
+    "target_id": 0,
+    "blind_off_type": "quest_start",
+    "blind_off_value": 30014
+  },
+  {
     "id": 101,
     "content_type": "journal",
     "content_id": 601,

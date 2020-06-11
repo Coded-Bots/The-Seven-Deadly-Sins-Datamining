@@ -1,5 +1,35 @@
 [
   {
+    "id": 49,
+    "menu_type": "event_costume",
+    "menu_title": "3415",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 49,
+    "banner_image": "costumeshop_banner_49_drole_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 15,
+    "menu_type": "event_costume",
+    "menu_title": "3415",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 15,
+    "banner_image": "costumeshop_banner_15_backflame2nd_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 48,
+    "menu_type": "event_costume",
+    "menu_title": "3415",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 48,
+    "banner_image": "costumeshop_banner_46_elizabeth_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
     "id": 46,
     "menu_type": "event_costume",
     "menu_title": "3415",
@@ -306,16 +336,6 @@
     "scroll_type": "horizontal_scroll",
     "shop_type": 18,
     "banner_image": "costumeshop_banner_18_2019halloween_001",
-    "costume_story_id": 3,
-    "costume_resale": 1
-  },
-  {
-    "id": 15,
-    "menu_type": "event_costume",
-    "menu_title": "3415",
-    "scroll_type": "horizontal_scroll",
-    "shop_type": 15,
-    "banner_image": "costumeshop_banner_15_backflame2nd_001",
     "costume_story_id": 3,
     "costume_resale": 1
   },

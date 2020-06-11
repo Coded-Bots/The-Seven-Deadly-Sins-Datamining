@@ -4,7 +4,7 @@
     "event_buff_index": 2100,
     "reward_mark": 1,
     "icon": "icon_buff_stamina_down",
-    "title": "21900",
+    "title": "25647",
     "explain": "1322"
   },
   {
@@ -12,7 +12,7 @@
     "event_buff_index": 2200,
     "reward_mark": 1,
     "icon": "icon_buff_goldbox_up",
-    "title": "21897",
+    "title": "25644",
     "explain": "1318"
   },
   {
@@ -20,7 +20,7 @@
     "event_buff_index": 2300,
     "reward_mark": 1,
     "icon": "icon_buff_silverbox_up",
-    "title": "21899",
+    "title": "25646",
     "explain": "1319"
   },
   {
@@ -28,7 +28,7 @@
     "event_buff_index": 2400,
     "reward_mark": 1,
     "icon": "icon_buff_gold_up",
-    "title": "21896",
+    "title": "25643",
     "explain": "1320"
   },
   {
@@ -36,7 +36,7 @@
     "event_buff_index": 2500,
     "reward_mark": 1,
     "icon": "icon_buff_exp_up",
-    "title": "21895",
+    "title": "25642",
     "explain": "1321"
   },
   {
@@ -44,7 +44,7 @@
     "event_buff_index": 2600,
     "reward_mark": 0,
     "icon": "icon_buff_sell_up",
-    "title": "21898",
+    "title": "25645",
     "explain": "1323"
   },
   {
@@ -52,7 +52,7 @@
     "event_buff_index": 2900,
     "reward_mark": 1,
     "icon": "icon_buff_user_exp_up",
-    "title": "21901",
+    "title": "25648",
     "explain": "1324"
   }
 ]

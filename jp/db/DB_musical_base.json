@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "musical_base_type_name": "9057",
+    "musical_base_type_name": "12805",
     "musical_base_icon": "musical_piano_01_icon",
     "musical_compose_use": 1,
     "musical_compose_open": 0,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "musical_base_type_name": "9058",
+    "musical_base_type_name": "12806",
     "musical_base_icon": "musical_guitar_01_icon",
     "musical_compose_use": 1,
     "musical_compose_open": 0,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "musical_base_type_name": "9059",
+    "musical_base_type_name": "12807",
     "musical_base_icon": "musical_violin_01_icon",
     "musical_compose_use": 1,
     "musical_compose_open": 0,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "musical_base_type_name": "9060",
+    "musical_base_type_name": "12808",
     "musical_base_icon": "musical_sax_01_icon",
     "musical_compose_use": 1,
     "musical_compose_open": 0,
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "musical_base_type_name": "9061",
+    "musical_base_type_name": "12809",
     "musical_base_icon": "musical_xylophone_01_icon",
     "musical_compose_use": 1,
     "musical_compose_open": 0,
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "musical_base_type_name": "9062",
+    "musical_base_type_name": "12810",
     "musical_base_icon": "musical_choir_01_icon",
     "musical_compose_use": 1,
     "musical_compose_open": 0,
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "musical_base_type_name": "9063",
+    "musical_base_type_name": "12811",
     "musical_base_icon": "musical_flute_01_icon",
     "musical_compose_use": 1,
     "musical_compose_open": 0,

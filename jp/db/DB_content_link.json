@@ -637,6 +637,32 @@
     "content_link_check": 0
   },
   {
+    "id": 110,
+    "quicklink_name": "3262",
+    "quicklink_icon": "icon_shortcut_event",
+    "content_type": "ui",
+    "region": 0,
+    "area_id": 0,
+    "content_menu": "event_lobby_mission",
+    "matching_area_end_id": 0,
+    "npc_id": 0,
+    "weapon_item_id": 0,
+    "content_link_check": 0
+  },
+  {
+    "id": 111,
+    "quicklink_name": "3262",
+    "quicklink_icon": "icon_shortcut_event",
+    "content_type": "ui",
+    "region": 0,
+    "area_id": 0,
+    "content_menu": "event_exchange",
+    "matching_area_end_id": 0,
+    "npc_id": 0,
+    "weapon_item_id": 0,
+    "content_link_check": 0
+  },
+  {
     "id": 1001,
     "quicklink_name": "3274",
     "quicklink_icon": "",
@@ -1197,7 +1223,7 @@
   },
   {
     "id": 9101,
-    "quicklink_name": "9079",
+    "quicklink_name": "12827",
     "quicklink_icon": "icon_weapon_1_bracelet",
     "content_type": "world",
     "region": 1,
@@ -1210,7 +1236,7 @@
   },
   {
     "id": 9102,
-    "quicklink_name": "9076",
+    "quicklink_name": "12824",
     "quicklink_icon": "icon_weapon_1_amulet",
     "content_type": "world",
     "region": 1,
@@ -1223,7 +1249,7 @@
   },
   {
     "id": 9103,
-    "quicklink_name": "9078",
+    "quicklink_name": "12826",
     "quicklink_icon": "icon_weapon_1_belt",
     "content_type": "world",
     "region": 1,
@@ -1236,7 +1262,7 @@
   },
   {
     "id": 9104,
-    "quicklink_name": "9081",
+    "quicklink_name": "12829",
     "quicklink_icon": "icon_weapon_1_ring",
     "content_type": "world",
     "region": 1,
@@ -1249,7 +1275,7 @@
   },
   {
     "id": 9105,
-    "quicklink_name": "9080",
+    "quicklink_name": "12828",
     "quicklink_icon": "icon_weapon_1_earring",
     "content_type": "world",
     "region": 1,
@@ -1262,7 +1288,7 @@
   },
   {
     "id": 9106,
-    "quicklink_name": "9082",
+    "quicklink_name": "12830",
     "quicklink_icon": "icon_weapon_1_rune",
     "content_type": "world",
     "region": 1,
@@ -1275,7 +1301,7 @@
   },
   {
     "id": 9201,
-    "quicklink_name": "9162",
+    "quicklink_name": "12910",
     "quicklink_icon": "icon_weapon_7_bracelet",
     "content_type": "world",
     "region": 2,
@@ -1288,7 +1314,7 @@
   },
   {
     "id": 9202,
-    "quicklink_name": "9160",
+    "quicklink_name": "12908",
     "quicklink_icon": "icon_weapon_7_amulet",
     "content_type": "world",
     "region": 2,
@@ -1301,7 +1327,7 @@
   },
   {
     "id": 9203,
-    "quicklink_name": "9161",
+    "quicklink_name": "12909",
     "quicklink_icon": "icon_weapon_7_belt",
     "content_type": "world",
     "region": 2,
@@ -1314,7 +1340,7 @@
   },
   {
     "id": 9204,
-    "quicklink_name": "9165",
+    "quicklink_name": "12913",
     "quicklink_icon": "icon_weapon_7_ring",
     "content_type": "world",
     "region": 2,
@@ -1327,7 +1353,7 @@
   },
   {
     "id": 9205,
-    "quicklink_name": "9164",
+    "quicklink_name": "12912",
     "quicklink_icon": "icon_weapon_7_earring",
     "content_type": "world",
     "region": 2,
@@ -1340,7 +1366,7 @@
   },
   {
     "id": 9206,
-    "quicklink_name": "9166",
+    "quicklink_name": "12914",
     "quicklink_icon": "icon_weapon_7_rune",
     "content_type": "world",
     "region": 2,
@@ -1353,7 +1379,7 @@
   },
   {
     "id": 9301,
-    "quicklink_name": "9127",
+    "quicklink_name": "12875",
     "quicklink_icon": "icon_weapon_2_bracelet",
     "content_type": "world",
     "region": 3,
@@ -1366,7 +1392,7 @@
   },
   {
     "id": 9302,
-    "quicklink_name": "9125",
+    "quicklink_name": "12873",
     "quicklink_icon": "icon_weapon_2_amulet",
     "content_type": "world",
     "region": 3,
@@ -1379,7 +1405,7 @@
   },
   {
     "id": 9303,
-    "quicklink_name": "9126",
+    "quicklink_name": "12874",
     "quicklink_icon": "icon_weapon_2_belt",
     "content_type": "world",
     "region": 3,
@@ -1392,7 +1418,7 @@
   },
   {
     "id": 9304,
-    "quicklink_name": "9130",
+    "quicklink_name": "12878",
     "quicklink_icon": "icon_weapon_2_ring",
     "content_type": "world",
     "region": 3,
@@ -1405,7 +1431,7 @@
   },
   {
     "id": 9305,
-    "quicklink_name": "9128",
+    "quicklink_name": "12876",
     "quicklink_icon": "icon_weapon_2_earring",
     "content_type": "world",
     "region": 3,
@@ -1418,7 +1444,7 @@
   },
   {
     "id": 9306,
-    "quicklink_name": "9131",
+    "quicklink_name": "12879",
     "quicklink_icon": "icon_weapon_2_rune",
     "content_type": "world",
     "region": 3,
@@ -1431,7 +1457,7 @@
   },
   {
     "id": 9401,
-    "quicklink_name": "9134",
+    "quicklink_name": "12882",
     "quicklink_icon": "icon_weapon_3_bracelet",
     "content_type": "world",
     "region": 4,
@@ -1444,7 +1470,7 @@
   },
   {
     "id": 9402,
-    "quicklink_name": "9132",
+    "quicklink_name": "12880",
     "quicklink_icon": "icon_weapon_3_amulet",
     "content_type": "world",
     "region": 4,
@@ -1457,7 +1483,7 @@
   },
   {
     "id": 9403,
-    "quicklink_name": "9133",
+    "quicklink_name": "12881",
     "quicklink_icon": "icon_weapon_3_belt",
     "content_type": "world",
     "region": 4,
@@ -1470,7 +1496,7 @@
   },
   {
     "id": 9404,
-    "quicklink_name": "9137",
+    "quicklink_name": "12885",
     "quicklink_icon": "icon_weapon_3_ring",
     "content_type": "world",
     "region": 4,
@@ -1483,7 +1509,7 @@
   },
   {
     "id": 9405,
-    "quicklink_name": "9136",
+    "quicklink_name": "12884",
     "quicklink_icon": "icon_weapon_3_earring",
     "content_type": "world",
     "region": 4,
@@ -1496,7 +1522,7 @@
   },
   {
     "id": 9406,
-    "quicklink_name": "9138",
+    "quicklink_name": "12886",
     "quicklink_icon": "icon_weapon_3_rune",
     "content_type": "world",
     "region": 4,
@@ -1509,7 +1535,7 @@
   },
   {
     "id": 9501,
-    "quicklink_name": "9155",
+    "quicklink_name": "12903",
     "quicklink_icon": "icon_weapon_6_bracelet",
     "content_type": "world",
     "region": 5,
@@ -1522,7 +1548,7 @@
   },
   {
     "id": 9502,
-    "quicklink_name": "9153",
+    "quicklink_name": "12901",
     "quicklink_icon": "icon_weapon_6_amulet",
     "content_type": "world",
     "region": 5,
@@ -1535,7 +1561,7 @@
   },
   {
     "id": 9503,
-    "quicklink_name": "9154",
+    "quicklink_name": "12902",
     "quicklink_icon": "icon_weapon_6_belt",
     "content_type": "world",
     "region": 5,
@@ -1548,7 +1574,7 @@
   },
   {
     "id": 9504,
-    "quicklink_name": "9158",
+    "quicklink_name": "12906",
     "quicklink_icon": "icon_weapon_6_ring",
     "content_type": "world",
     "region": 5,
@@ -1561,7 +1587,7 @@
   },
   {
     "id": 9505,
-    "quicklink_name": "9156",
+    "quicklink_name": "12904",
     "quicklink_icon": "icon_weapon_6_earring",
     "content_type": "world",
     "region": 5,
@@ -1574,7 +1600,7 @@
   },
   {
     "id": 9506,
-    "quicklink_name": "9159",
+    "quicklink_name": "12907",
     "quicklink_icon": "icon_weapon_6_rune",
     "content_type": "world",
     "region": 5,
@@ -1587,7 +1613,7 @@
   },
   {
     "id": 9601,
-    "quicklink_name": "9085",
+    "quicklink_name": "12833",
     "quicklink_icon": "icon_weapon_10_bracelet",
     "content_type": "world",
     "region": 6,
@@ -1600,7 +1626,7 @@
   },
   {
     "id": 9602,
-    "quicklink_name": "9083",
+    "quicklink_name": "12831",
     "quicklink_icon": "icon_weapon_10_amulet",
     "content_type": "world",
     "region": 6,
@@ -1613,7 +1639,7 @@
   },
   {
     "id": 9603,
-    "quicklink_name": "9084",
+    "quicklink_name": "12832",
     "quicklink_icon": "icon_weapon_10_belt",
     "content_type": "world",
     "region": 6,
@@ -1626,7 +1652,7 @@
   },
   {
     "id": 9604,
-    "quicklink_name": "9088",
+    "quicklink_name": "12836",
     "quicklink_icon": "icon_weapon_10_ring",
     "content_type": "world",
     "region": 6,
@@ -1639,7 +1665,7 @@
   },
   {
     "id": 9605,
-    "quicklink_name": "9086",
+    "quicklink_name": "12834",
     "quicklink_icon": "icon_weapon_10_earring",
     "content_type": "world",
     "region": 6,
@@ -1652,7 +1678,7 @@
   },
   {
     "id": 9606,
-    "quicklink_name": "9089",
+    "quicklink_name": "12837",
     "quicklink_icon": "icon_weapon_10_rune",
     "content_type": "world",
     "region": 6,
@@ -2193,6 +2219,45 @@
     "content_menu": "pvp_smash_shop",
     "matching_area_end_id": 0,
     "npc_id": 9505,
+    "weapon_item_id": 0,
+    "content_link_check": 0
+  },
+  {
+    "id": 40023,
+    "quicklink_name": "",
+    "quicklink_icon": "",
+    "content_type": "town",
+    "region": 4,
+    "area_id": 400401,
+    "content_menu": "pvp_arenaranking",
+    "matching_area_end_id": 0,
+    "npc_id": 9501,
+    "weapon_item_id": 0,
+    "content_link_check": 0
+  },
+  {
+    "id": 40024,
+    "quicklink_name": "",
+    "quicklink_icon": "",
+    "content_type": "town",
+    "region": 4,
+    "area_id": 400401,
+    "content_menu": "pvp_arenaranking",
+    "matching_area_end_id": 0,
+    "npc_id": 308,
+    "weapon_item_id": 0,
+    "content_link_check": 0
+  },
+  {
+    "id": 40025,
+    "quicklink_name": "",
+    "quicklink_icon": "",
+    "content_type": "town",
+    "region": 4,
+    "area_id": 400401,
+    "content_menu": "pvp_arenaranking",
+    "matching_area_end_id": 0,
+    "npc_id": 353,
     "weapon_item_id": 0,
     "content_link_check": 0
   },
@@ -3575,13 +3640,26 @@
     "content_link_check": 0
   },
   {
-    "id": 90018,
+    "id": 90019,
     "quicklink_name": "5672",
-    "quicklink_icon": "icon_shortcut_event_challenge_bosshawk",
+    "quicklink_icon": "icon_shortcut_event_challenge_bossmalek",
     "content_type": "UI",
     "region": 0,
     "area_id": 0,
     "content_menu": "event_npc_boss_enter",
+    "matching_area_end_id": 0,
+    "npc_id": 0,
+    "weapon_item_id": 0,
+    "content_link_check": 0
+  },
+  {
+    "id": 91001,
+    "quicklink_name": "6355",
+    "quicklink_icon": "icon_shortcut_tower",
+    "content_type": "UI",
+    "region": 8002,
+    "area_id": 1,
+    "content_menu": "tower",
     "matching_area_end_id": 0,
     "npc_id": 0,
     "weapon_item_id": 0,

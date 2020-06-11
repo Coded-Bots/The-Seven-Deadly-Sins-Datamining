@@ -3672,6 +3672,54 @@
     "filename": "049_diane_boss_02"
   },
   {
+    "id": 20437,
+    "path": "hero",
+    "sub_path": "diane",
+    "filename": "diane_skill_08_atk_01"
+  },
+  {
+    "id": 20438,
+    "path": "hero",
+    "sub_path": "diane",
+    "filename": "diane_skill_08_atk_02"
+  },
+  {
+    "id": 20439,
+    "path": "hero",
+    "sub_path": "diane",
+    "filename": "diane_skill_08_atk_03"
+  },
+  {
+    "id": 20440,
+    "path": "hero",
+    "sub_path": "diane",
+    "filename": "diane_skill_09_atk_01"
+  },
+  {
+    "id": 20441,
+    "path": "hero",
+    "sub_path": "diane",
+    "filename": "diane_skill_09_atk_02"
+  },
+  {
+    "id": 20442,
+    "path": "hero",
+    "sub_path": "diane",
+    "filename": "diane_skill_09_atk_03"
+  },
+  {
+    "id": 20443,
+    "path": "voice",
+    "sub_path": "battle/diane",
+    "filename": "diane_skill_08_atk_vo_01"
+  },
+  {
+    "id": 20444,
+    "path": "voice",
+    "sub_path": "battle/diane",
+    "filename": "diane_skill_09_atk_vo_01"
+  },
+  {
     "id": 20451,
     "path": "hero",
     "sub_path": "diane_small",
@@ -6186,6 +6234,42 @@
     "filename": "crimsondemon_destroy_lobby_action_03_sfx_01"
   },
   {
+    "id": 21363,
+    "path": "monster",
+    "sub_path": "silverdemon",
+    "filename": "silverdemon_skill_01_rdy_01"
+  },
+  {
+    "id": 21364,
+    "path": "monster",
+    "sub_path": "silverdemon",
+    "filename": "silverdemon_skill_01_atk_01"
+  },
+  {
+    "id": 21365,
+    "path": "monster",
+    "sub_path": "silverdemon",
+    "filename": "silverdemon_skill_01_atk_02"
+  },
+  {
+    "id": 21366,
+    "path": "monster",
+    "sub_path": "silverdemon",
+    "filename": "silverdemon_skill_02_rdy_01"
+  },
+  {
+    "id": 21367,
+    "path": "monster",
+    "sub_path": "silverdemon",
+    "filename": "silverdemon_skill_02_atk_01"
+  },
+  {
+    "id": 21368,
+    "path": "monster",
+    "sub_path": "silverdemon",
+    "filename": "silverdemon_skill_02_atk_02"
+  },
+  {
     "id": 21401,
     "path": "hero",
     "sub_path": "alioni",
@@ -6412,6 +6496,24 @@
     "path": "hero",
     "sub_path": "twigo",
     "filename": "twigo_victory"
+  },
+  {
+    "id": 21504,
+    "path": "hero",
+    "sub_path": "twigo",
+    "filename": "twigo_skill_07_rdy_01"
+  },
+  {
+    "id": 21505,
+    "path": "hero",
+    "sub_path": "twigo",
+    "filename": "twigo_skill_07_rdy_02"
+  },
+  {
+    "id": 21506,
+    "path": "hero",
+    "sub_path": "twigo",
+    "filename": "twigo_skill_07_rdy_03"
   },
   {
     "id": 21535,
@@ -31452,6 +31554,300 @@
     "filename": "disaster_shin_skill_02_atk_04"
   },
   {
+    "id": 29781,
+    "path": "voice",
+    "sub_path": "battle/redbrown_demon",
+    "filename": "redbrown_demon_vo_01"
+  },
+  {
+    "id": 29782,
+    "path": "voice",
+    "sub_path": "battle/redbrown_demon",
+    "filename": "redbrown_demon_vo_02"
+  },
+  {
+    "id": 29783,
+    "path": "voice",
+    "sub_path": "battle/redbrown_demon",
+    "filename": "redbrown_demon_vo_03"
+  },
+  {
+    "id": 29784,
+    "path": "voice",
+    "sub_path": "battle/redbrown_demon",
+    "filename": "redbrown_demon_vo_04"
+  },
+  {
+    "id": 29785,
+    "path": "voice",
+    "sub_path": "battle/redbrown_demon",
+    "filename": "redbrown_demon_vo_05"
+  },
+  {
+    "id": 29786,
+    "path": "voice",
+    "sub_path": "battle/redbrown_demon",
+    "filename": "redbrown_demon_vo_06"
+  },
+  {
+    "id": 29787,
+    "path": "voice",
+    "sub_path": "battle/redbrown_demon",
+    "filename": "redbrown_demon_vo_07"
+  },
+  {
+    "id": 29791,
+    "path": "voice",
+    "sub_path": "battle/copper_demon",
+    "filename": "copper_demon_vo_01"
+  },
+  {
+    "id": 29792,
+    "path": "voice",
+    "sub_path": "battle/copper_demon",
+    "filename": "copper_demon_vo_02"
+  },
+  {
+    "id": 29793,
+    "path": "voice",
+    "sub_path": "battle/copper_demon",
+    "filename": "copper_demon_vo_03"
+  },
+  {
+    "id": 29794,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_01"
+  },
+  {
+    "id": 29795,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_02"
+  },
+  {
+    "id": 29796,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_03"
+  },
+  {
+    "id": 29797,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_04"
+  },
+  {
+    "id": 29798,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_05"
+  },
+  {
+    "id": 29799,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_06"
+  },
+  {
+    "id": 29800,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_07"
+  },
+  {
+    "id": 29801,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_08"
+  },
+  {
+    "id": 29802,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_09"
+  },
+  {
+    "id": 29803,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_10"
+  },
+  {
+    "id": 29804,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_11"
+  },
+  {
+    "id": 29805,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_12"
+  },
+  {
+    "id": 29806,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_13"
+  },
+  {
+    "id": 29807,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_14"
+  },
+  {
+    "id": 29808,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_15"
+  },
+  {
+    "id": 29809,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_16"
+  },
+  {
+    "id": 29810,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_17"
+  },
+  {
+    "id": 29811,
+    "path": "voice",
+    "sub_path": "battle/malek",
+    "filename": "malek_vo_17"
+  },
+  {
+    "id": 29812,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_sword_01"
+  },
+  {
+    "id": 29813,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_sword_02"
+  },
+  {
+    "id": 29814,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_sword_03"
+  },
+  {
+    "id": 29815,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_sword_04"
+  },
+  {
+    "id": 29816,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_sword_05"
+  },
+  {
+    "id": 29817,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_sword_06"
+  },
+  {
+    "id": 29818,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_magic_01"
+  },
+  {
+    "id": 29819,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_magic_02"
+  },
+  {
+    "id": 29820,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_magic_03"
+  },
+  {
+    "id": 29821,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_magic_04"
+  },
+  {
+    "id": 29822,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_magic_05"
+  },
+  {
+    "id": 29823,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_magic_06"
+  },
+  {
+    "id": 29824,
+    "path": "monster",
+    "sub_path": "malek",
+    "filename": "malek_magic_07"
+  },
+  {
+    "id": 29830,
+    "path": "hero",
+    "sub_path": "elizabeth_goddess",
+    "filename": "elizabeth_goddess_skill_01_rdy_01"
+  },
+  {
+    "id": 29831,
+    "path": "hero",
+    "sub_path": "elizabeth_goddess",
+    "filename": "elizabeth_goddess_skill_01_atk_01"
+  },
+  {
+    "id": 29832,
+    "path": "hero",
+    "sub_path": "elizabeth_goddess",
+    "filename": "elizabeth_goddess_skill_01_atk_02"
+  },
+  {
+    "id": 29833,
+    "path": "hero",
+    "sub_path": "elizabeth_goddess",
+    "filename": "elizabeth_goddess_skill_02_rdy_01"
+  },
+  {
+    "id": 29834,
+    "path": "hero",
+    "sub_path": "elizabeth_goddess",
+    "filename": "elizabeth_goddess_skill_02_atk_01"
+  },
+  {
+    "id": 29835,
+    "path": "hero",
+    "sub_path": "elizabeth_goddess",
+    "filename": "elizabeth_goddess_skill_02_atk_02"
+  },
+  {
+    "id": 29836,
+    "path": "hero",
+    "sub_path": "elizabeth_goddess",
+    "filename": "elizabeth_goddess_victory_01"
+  },
+  {
+    "id": 29837,
+    "path": "hero",
+    "sub_path": "elizabeth_goddess",
+    "filename": "elizabeth_goddess_idle_01"
+  },
+  {
     "id": 30001,
     "path": "ui",
     "sub_path": "map",
@@ -31588,6 +31984,18 @@
     "path": "ui",
     "sub_path": "map",
     "filename": "ui_guildskill_start"
+  },
+  {
+    "id": 30025,
+    "path": "ui",
+    "sub_path": "map",
+    "filename": "ui_boarhatchangepopup_start"
+  },
+  {
+    "id": 30026,
+    "path": "ui",
+    "sub_path": "map",
+    "filename": "ui_boarhatchangepopup_end"
   },
   {
     "id": 30099,
@@ -32178,6 +32586,18 @@
     "filename": "ui_event_ghostLeg_arrow"
   },
   {
+    "id": 30288,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_adventure_ordeal_tower_heropick_start_01"
+  },
+  {
+    "id": 30289,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_adventure_ordeal_tower_heropick_end_01"
+  },
+  {
     "id": 30301,
     "path": "ui",
     "sub_path": "lobby",
@@ -32748,22 +33168,22 @@
     "filename": "ui_event_seasonpass_reward"
   },
   {
-    "id": 93153,
+    "id": 39153,
     "path": "ui",
-    "sub_path": "event",
-    "filename": "ui_event_seasonpass_start"
+    "sub_path": "common",
+    "filename": "ui_ingame_skippanel_open_01"
   },
   {
-    "id": 93154,
+    "id": 39154,
     "path": "ui",
-    "sub_path": "event",
-    "filename": "ui_event_challenge_destroy_score_01"
+    "sub_path": "common",
+    "filename": "ui_ingame_skippanel_open_02"
   },
   {
-    "id": 93155,
+    "id": 39155,
     "path": "ui",
-    "sub_path": "event",
-    "filename": "ui_event_challenge_destroy_score_02"
+    "sub_path": "common",
+    "filename": "ui_ingame_skippanel_open_03"
   },
   {
     "id": 39192,
@@ -35052,6 +35472,54 @@
     "filename": "002_shin_gacha_02"
   },
   {
+    "id": 39842,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "001_eren_gacha_01"
+  },
+  {
+    "id": 39843,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "002_eren_gacha_02"
+  },
+  {
+    "id": 39844,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "001_eren2_gacha_01"
+  },
+  {
+    "id": 39845,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "002_eren2_gacha_02"
+  },
+  {
+    "id": 39846,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "001_mikasa_gacha_01"
+  },
+  {
+    "id": 39847,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "002_mikasa_gacha_02"
+  },
+  {
+    "id": 39848,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "001_levi_gacha_01"
+  },
+  {
+    "id": 39849,
+    "path": "voice",
+    "sub_path": "gacha",
+    "filename": "002_levi_gacha_02"
+  },
+  {
     "id": 41001,
     "path": "voice",
     "sub_path": "social",
@@ -35472,6 +35940,12 @@
     "filename": "debuff_fire"
   },
   {
+    "id": 80121,
+    "path": "common",
+    "sub_path": "buff",
+    "filename": "buff_revival"
+  },
+  {
     "id": 81101,
     "path": "playercharacter",
     "sub_path": "meliodas",
@@ -35836,6 +36310,12 @@
     "path": "playercharacter",
     "sub_path": "elizabeth",
     "filename": "lobby_elizabeth_attendance_event_02_effect"
+  },
+  {
+    "id": 81333,
+    "path": "ui",
+    "sub_path": "lobby",
+    "filename": "ui_attendance_event_deco_giant_ani_01"
   },
   {
     "id": 81401,
@@ -36252,6 +36732,12 @@
     "filename": "bgm_battle_13"
   },
   {
+    "id": 90074,
+    "path": "bgm",
+    "sub_path": "bgm_battle",
+    "filename": "bgm_battle_14"
+  },
+  {
     "id": 90101,
     "path": "bgm",
     "sub_path": "bgm_area",
@@ -36346,6 +36832,12 @@
     "path": "bgm",
     "sub_path": "bgm_event",
     "filename": "bgm_wakeup"
+  },
+  {
+    "id": 90401,
+    "path": "bgm",
+    "sub_path": "bgm_collaboration",
+    "filename": "bgm_titan_01"
   },
   {
     "id": 90601,
@@ -37008,6 +37500,96 @@
     "filename": "bgm_story_37_04"
   },
   {
+    "id": 90711,
+    "path": "bgm",
+    "sub_path": "bgm_story",
+    "filename": "bgm_story_38_f"
+  },
+  {
+    "id": 90712,
+    "path": "bgm",
+    "sub_path": "bgm_story",
+    "filename": "bgm_story_39_01"
+  },
+  {
+    "id": 90713,
+    "path": "bgm",
+    "sub_path": "bgm_story",
+    "filename": "bgm_story_40_f"
+  },
+  {
+    "id": 90714,
+    "path": "bgm",
+    "sub_path": "bgm_story",
+    "filename": "bgm_story_41_01"
+  },
+  {
+    "id": 90715,
+    "path": "bgm",
+    "sub_path": "bgm_story",
+    "filename": "bgm_story_41_02"
+  },
+  {
+    "id": 90716,
+    "path": "bgm",
+    "sub_path": "bgm_story",
+    "filename": "bgm_story_41_03"
+  },
+  {
+    "id": 90717,
+    "path": "bgm",
+    "sub_path": "bgm_story",
+    "filename": "bgm_story_41_04"
+  },
+  {
+    "id": 90801,
+    "path": "bgm",
+    "sub_path": "bgm_new_story",
+    "filename": "bgm_new_story_01"
+  },
+  {
+    "id": 90802,
+    "path": "bgm",
+    "sub_path": "bgm_new_story",
+    "filename": "bgm_new_story_02"
+  },
+  {
+    "id": 90803,
+    "path": "bgm",
+    "sub_path": "bgm_new_story",
+    "filename": "bgm_new_story_03"
+  },
+  {
+    "id": 90804,
+    "path": "bgm",
+    "sub_path": "bgm_new_story",
+    "filename": "bgm_new_story_04"
+  },
+  {
+    "id": 90805,
+    "path": "bgm",
+    "sub_path": "bgm_new_story",
+    "filename": "bgm_new_story_05"
+  },
+  {
+    "id": 90806,
+    "path": "bgm",
+    "sub_path": "bgm_new_story",
+    "filename": "bgm_new_story_06_01"
+  },
+  {
+    "id": 90807,
+    "path": "bgm",
+    "sub_path": "bgm_new_story",
+    "filename": "bgm_new_story_06_02"
+  },
+  {
+    "id": 90808,
+    "path": "bgm",
+    "sub_path": "bgm_new_story",
+    "filename": "bgm_new_story_07"
+  },
+  {
     "id": 91051,
     "path": "bgm",
     "sub_path": "bgm_result",
@@ -37108,6 +37690,24 @@
     "path": "bgm",
     "sub_path": "bgm_minigame",
     "filename": "bgm_fast_hawkrun"
+  },
+  {
+    "id": 93153,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_event_seasonpass_start"
+  },
+  {
+    "id": 93154,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_event_challenge_destroy_score_01"
+  },
+  {
+    "id": 93155,
+    "path": "ui",
+    "sub_path": "event",
+    "filename": "ui_event_challenge_destroy_score_02"
   },
   {
     "id": 95115,
@@ -39412,6 +40012,66 @@
     "path": "voice",
     "sub_path": "special/special/shin",
     "filename": "shin_vo"
+  },
+  {
+    "id": 97019,
+    "path": "cut_scene",
+    "sub_path": "special/special/titan_eren",
+    "filename": "titan_eren_ssr_ef"
+  },
+  {
+    "id": 97020,
+    "path": "voice",
+    "sub_path": "special/special/titan_eren",
+    "filename": "titan_eren_ssr_vo"
+  },
+  {
+    "id": 97021,
+    "path": "cut_scene",
+    "sub_path": "special/special/titan_levi",
+    "filename": "titan_levi_ef"
+  },
+  {
+    "id": 97022,
+    "path": "voice",
+    "sub_path": "special/special/titan_levi",
+    "filename": "titan_levi_vo"
+  },
+  {
+    "id": 97023,
+    "path": "cut_scene",
+    "sub_path": "special/special/titan",
+    "filename": "titan_ef"
+  },
+  {
+    "id": 97024,
+    "path": "voice",
+    "sub_path": "special/special/titan",
+    "filename": "titan_vo"
+  },
+  {
+    "id": 97025,
+    "path": "cut_scene",
+    "sub_path": "special/special/hawk",
+    "filename": "hawk_ssr_01_ef"
+  },
+  {
+    "id": 97026,
+    "path": "voice",
+    "sub_path": "special/special/hawk",
+    "filename": "hawk_ssr_01_vo"
+  },
+  {
+    "id": 97027,
+    "path": "cut_scene",
+    "sub_path": "special/special/elizabeth",
+    "filename": "elizabeth_goddess_ef"
+  },
+  {
+    "id": 97028,
+    "path": "voice",
+    "sub_path": "special/special/elizabeth",
+    "filename": "elizabeth_goddess_vo"
   },
   {
     "id": 100001,
@@ -43770,6 +44430,246 @@
     "filename": "emotion_shin_serious_03"
   },
   {
+    "id": 103357,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_laugh_01"
+  },
+  {
+    "id": 103358,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_laugh_02"
+  },
+  {
+    "id": 103359,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_laugh_03"
+  },
+  {
+    "id": 103360,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_laugh_04"
+  },
+  {
+    "id": 103361,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_question_01"
+  },
+  {
+    "id": 103362,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_question_02"
+  },
+  {
+    "id": 103363,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_question_03"
+  },
+  {
+    "id": 103364,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_serious_01"
+  },
+  {
+    "id": 103365,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_serious_02"
+  },
+  {
+    "id": 103366,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren_serious_03"
+  },
+  {
+    "id": 103367,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_laugh_01"
+  },
+  {
+    "id": 103368,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_laugh_02"
+  },
+  {
+    "id": 103369,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_laugh_03"
+  },
+  {
+    "id": 103370,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_laugh_04"
+  },
+  {
+    "id": 103371,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_question_01"
+  },
+  {
+    "id": 103372,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_question_02"
+  },
+  {
+    "id": 103373,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_question_03"
+  },
+  {
+    "id": 103374,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_serious_01"
+  },
+  {
+    "id": 103375,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_serious_02"
+  },
+  {
+    "id": 103376,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_eren2_serious_03"
+  },
+  {
+    "id": 103377,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_laugh_01"
+  },
+  {
+    "id": 103378,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_laugh_02"
+  },
+  {
+    "id": 103379,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_laugh_03"
+  },
+  {
+    "id": 103380,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_laugh_04"
+  },
+  {
+    "id": 103381,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_question_01"
+  },
+  {
+    "id": 103382,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_question_02"
+  },
+  {
+    "id": 103383,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_question_03"
+  },
+  {
+    "id": 103384,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_serious_01"
+  },
+  {
+    "id": 103385,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_serious_02"
+  },
+  {
+    "id": 103386,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_mikasa_serious_03"
+  },
+  {
+    "id": 103387,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_laugh_01"
+  },
+  {
+    "id": 103388,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_laugh_02"
+  },
+  {
+    "id": 103389,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_laugh_03"
+  },
+  {
+    "id": 103390,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_laugh_04"
+  },
+  {
+    "id": 103391,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_question_01"
+  },
+  {
+    "id": 103392,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_question_02"
+  },
+  {
+    "id": 103393,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_question_03"
+  },
+  {
+    "id": 103394,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_serious_01"
+  },
+  {
+    "id": 103395,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_serious_02"
+  },
+  {
+    "id": 103396,
+    "path": "voice",
+    "sub_path": "emotion",
+    "filename": "emotion_levi_serious_03"
+  },
+  {
     "id": 150001,
     "path": "cut_scene",
     "sub_path": "special/boss/chimara",
@@ -43900,6 +44800,96 @@
     "path": "voice",
     "sub_path": "special/boss/big_hawk",
     "filename": "big_hawk_special_02_vo"
+  },
+  {
+    "id": 150023,
+    "path": "cut_scene",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_spawn_ef"
+  },
+  {
+    "id": 150024,
+    "path": "voice",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_spawn_vo"
+  },
+  {
+    "id": 150025,
+    "path": "cut_scene",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_phaseshift_ef"
+  },
+  {
+    "id": 150026,
+    "path": "voice",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_phaseshift_vo"
+  },
+  {
+    "id": 150027,
+    "path": "cut_scene",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_special_01_ef"
+  },
+  {
+    "id": 150028,
+    "path": "voice",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_special_01_vo"
+  },
+  {
+    "id": 150029,
+    "path": "cut_scene",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_special_01_sub_ef"
+  },
+  {
+    "id": 150030,
+    "path": "voice",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_special_01_sub_vo"
+  },
+  {
+    "id": 150031,
+    "path": "cut_scene",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_special_02_ef"
+  },
+  {
+    "id": 150032,
+    "path": "voice",
+    "sub_path": "special/boss/malek",
+    "filename": "malek_special_02_vo"
+  },
+  {
+    "id": 150033,
+    "path": "cut_scene",
+    "sub_path": "special/boss/titan_armored",
+    "filename": "titan_armored_special_01_ef"
+  },
+  {
+    "id": 150034,
+    "path": "voice",
+    "sub_path": "special/boss/titan_armored",
+    "filename": "titan_armored_special_01_vo"
+  },
+  {
+    "id": 150035,
+    "path": "cut_scene",
+    "sub_path": "special/boss/titan_colossal_titan",
+    "filename": "titan_colossal_titan_spawn_ef"
+  },
+  {
+    "id": 150036,
+    "path": "cut_scene",
+    "sub_path": "special/boss/titan_colossal_titan",
+    "filename": "titan_colossal_titan_special_01_ef"
+  },
+  {
+    "id": 150037,
+    "path": "cut_scene",
+    "sub_path": "special/boss/titan_colossal_titan",
+    "filename": "titan_colossal_titan_special_02_ef"
   },
   {
     "id": 201011,
@@ -44046,6 +45036,24 @@
     "filename": "reward_voice_1025002_04"
   },
   {
+    "id": 203054,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1025003_01"
+  },
+  {
+    "id": 203055,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1025003_02"
+  },
+  {
+    "id": 203056,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1025003_03"
+  },
+  {
     "id": 204011,
     "path": "voice",
     "sub_path": "reward",
@@ -44118,6 +45126,24 @@
     "filename": "reward_voice_1035002_08"
   },
   {
+    "id": 204064,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1035003_01"
+  },
+  {
+    "id": 204065,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1035003_02"
+  },
+  {
+    "id": 204066,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1035003_03"
+  },
+  {
     "id": 205011,
     "path": "voice",
     "sub_path": "reward",
@@ -44134,6 +45160,24 @@
     "path": "voice",
     "sub_path": "reward",
     "filename": "reward_voice_1044001_04"
+  },
+  {
+    "id": 205014,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1044001_01"
+  },
+  {
+    "id": 205015,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1044001_05"
+  },
+  {
+    "id": 205016,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1044001_06"
   },
   {
     "id": 205041,
@@ -46276,5 +47320,2261 @@
     "path": "voice",
     "sub_path": "reward",
     "filename": "reward_voice_1455008_03"
+  },
+  {
+    "id": 238169,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1409014_04"
+  },
+  {
+    "id": 238170,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1409014_05"
+  },
+  {
+    "id": 238171,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1409014_06"
+  },
+  {
+    "id": 238172,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455009_01"
+  },
+  {
+    "id": 238173,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455009_02"
+  },
+  {
+    "id": 238174,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455009_03"
+  },
+  {
+    "id": 238175,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455009_04"
+  },
+  {
+    "id": 238176,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455009_05"
+  },
+  {
+    "id": 238177,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455009_06"
+  },
+  {
+    "id": 238178,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455009_07"
+  },
+  {
+    "id": 238179,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455009_08"
+  },
+  {
+    "id": 238180,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455009_09"
+  },
+  {
+    "id": 238181,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455010_01"
+  },
+  {
+    "id": 238182,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455010_02"
+  },
+  {
+    "id": 238183,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455010_03"
+  },
+  {
+    "id": 238184,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455010_04"
+  },
+  {
+    "id": 238185,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455010_05"
+  },
+  {
+    "id": 238186,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455010_06"
+  },
+  {
+    "id": 238187,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455010_07"
+  },
+  {
+    "id": 238188,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455010_08"
+  },
+  {
+    "id": 238189,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455010_09"
+  },
+  {
+    "id": 238190,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455011_01"
+  },
+  {
+    "id": 238191,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455011_02"
+  },
+  {
+    "id": 238192,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455011_03"
+  },
+  {
+    "id": 238193,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455011_04"
+  },
+  {
+    "id": 238194,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455011_05"
+  },
+  {
+    "id": 238195,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455011_06"
+  },
+  {
+    "id": 238196,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455011_07"
+  },
+  {
+    "id": 238197,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455011_08"
+  },
+  {
+    "id": 238198,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455011_09"
+  },
+  {
+    "id": 238199,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455012_01"
+  },
+  {
+    "id": 238200,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455012_02"
+  },
+  {
+    "id": 238201,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455012_03"
+  },
+  {
+    "id": 238202,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455012_04"
+  },
+  {
+    "id": 238203,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455012_05"
+  },
+  {
+    "id": 238204,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455012_06"
+  },
+  {
+    "id": 238205,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455012_07"
+  },
+  {
+    "id": 238206,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455012_08"
+  },
+  {
+    "id": 238207,
+    "path": "voice",
+    "sub_path": "reward",
+    "filename": "reward_voice_1455012_09"
+  },
+  {
+    "id": 299901,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "003_eren_boss_01"
+  },
+  {
+    "id": 299902,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "004_eren_boss_02"
+  },
+  {
+    "id": 299903,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "005_eren_skill_01"
+  },
+  {
+    "id": 299904,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "006_eren_skill_02"
+  },
+  {
+    "id": 299905,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "007_eren_skill_03"
+  },
+  {
+    "id": 299906,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "008_eren_skill_04"
+  },
+  {
+    "id": 299907,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "009_eren_skill_05"
+  },
+  {
+    "id": 299908,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "010_eren_skill_06"
+  },
+  {
+    "id": 299909,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "011_eren_skill_07"
+  },
+  {
+    "id": 299910,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "012_eren_skill_08"
+  },
+  {
+    "id": 299911,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "013_eren_skill_09"
+  },
+  {
+    "id": 299912,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "014_eren_skill_10"
+  },
+  {
+    "id": 299913,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "015_eren_bt_victory_01"
+  },
+  {
+    "id": 299914,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "016_eren_bt_victory_02"
+  },
+  {
+    "id": 299915,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "017_eren_sp_01"
+  },
+  {
+    "id": 299916,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "018_eren_sp_02"
+  },
+  {
+    "id": 299917,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "019_eren_sp_03"
+  },
+  {
+    "id": 299918,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "020_eren_sp_04"
+  },
+  {
+    "id": 299919,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "021_eren_counter_01"
+  },
+  {
+    "id": 299920,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "022_eren_counter_02"
+  },
+  {
+    "id": 299921,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "023_eren_buff_01"
+  },
+  {
+    "id": 299922,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "024_eren_n_atk_01"
+  },
+  {
+    "id": 299923,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "025_eren_n_atk_02"
+  },
+  {
+    "id": 299924,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "026_eren_n_atk_03"
+  },
+  {
+    "id": 299925,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "027_eren_healing_01"
+  },
+  {
+    "id": 299926,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "028_eren_atk_01"
+  },
+  {
+    "id": 299927,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "029_eren_atk_02"
+  },
+  {
+    "id": 299928,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "030_eren_atk_03"
+  },
+  {
+    "id": 299929,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "031_eren_atk_04"
+  },
+  {
+    "id": 299930,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "032_eren_atk_05"
+  },
+  {
+    "id": 299931,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "033_eren_atk_06"
+  },
+  {
+    "id": 299932,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "034_eren_atk_07"
+  },
+  {
+    "id": 299933,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "035_eren_atk_08"
+  },
+  {
+    "id": 299934,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "036_eren_dmg_01"
+  },
+  {
+    "id": 299935,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "037_eren_dmg_02"
+  },
+  {
+    "id": 299936,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "038_eren_dmg_03"
+  },
+  {
+    "id": 299937,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "039_eren_dmg_04"
+  },
+  {
+    "id": 299938,
+    "path": "voice",
+    "sub_path": "battle/titan_eren",
+    "filename": "040_eren_dmg_05"
+  },
+  {
+    "id": 299939,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_appear_01"
+  },
+  {
+    "id": 299940,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_appear_02"
+  },
+  {
+    "id": 299941,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_appear_03"
+  },
+  {
+    "id": 299942,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_appear_04"
+  },
+  {
+    "id": 299943,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_appear_05"
+  },
+  {
+    "id": 299944,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_drop_01"
+  },
+  {
+    "id": 299945,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_die_01"
+  },
+  {
+    "id": 299946,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_die_02"
+  },
+  {
+    "id": 299947,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_bound_01"
+  },
+  {
+    "id": 299948,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_wakeup_01"
+  },
+  {
+    "id": 299949,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_idle_start_01"
+  },
+  {
+    "id": 299950,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_idle_start_02"
+  },
+  {
+    "id": 299951,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_idle_start_03"
+  },
+  {
+    "id": 299952,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_idle_start_04"
+  },
+  {
+    "id": 299953,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_idle_start02_01"
+  },
+  {
+    "id": 299954,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_idle_start02_02"
+  },
+  {
+    "id": 299955,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_idle_start02_03"
+  },
+  {
+    "id": 299956,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_idle_start02_04"
+  },
+  {
+    "id": 299957,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_01_rdy_01"
+  },
+  {
+    "id": 299958,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_01_rdy_02"
+  },
+  {
+    "id": 299959,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_01_rdy_03"
+  },
+  {
+    "id": 299960,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_01_dash_01"
+  },
+  {
+    "id": 299961,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_01_return_01"
+  },
+  {
+    "id": 299962,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_01_end_01"
+  },
+  {
+    "id": 299963,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_02_rdy_01"
+  },
+  {
+    "id": 299964,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_02_rdy_02"
+  },
+  {
+    "id": 299965,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_02_atk_01"
+  },
+  {
+    "id": 299966,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_02_atk_02"
+  },
+  {
+    "id": 299967,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_02_atk_03"
+  },
+  {
+    "id": 299968,
+    "path": "hero",
+    "sub_path": "titan_eren",
+    "filename": "titan_eren_skill_02_atk_04"
+  },
+  {
+    "id": 299971,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "003_eren2_boss_01"
+  },
+  {
+    "id": 299972,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "004_eren2_boss_02"
+  },
+  {
+    "id": 299973,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "005_eren2_skill_01"
+  },
+  {
+    "id": 299974,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "006_eren2_skill_02"
+  },
+  {
+    "id": 299975,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "007_eren2_skill_03"
+  },
+  {
+    "id": 299976,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "008_eren2_skill_04"
+  },
+  {
+    "id": 299977,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "009_eren2_skill_05"
+  },
+  {
+    "id": 299978,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "010_eren2_skill_06"
+  },
+  {
+    "id": 299979,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "011_eren2_skill_07"
+  },
+  {
+    "id": 299980,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "012_eren2_skill_08"
+  },
+  {
+    "id": 299981,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "013_eren2_skill_09"
+  },
+  {
+    "id": 299982,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "014_eren2_skill_10"
+  },
+  {
+    "id": 299983,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "015_eren2_bt_victory_01"
+  },
+  {
+    "id": 299984,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "016_eren2_bt_victory_02"
+  },
+  {
+    "id": 299985,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "017_eren2_sp_01"
+  },
+  {
+    "id": 299986,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "018_eren2_sp_02"
+  },
+  {
+    "id": 299987,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "019_eren2_sp_03"
+  },
+  {
+    "id": 299988,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "020_eren2_sp_04"
+  },
+  {
+    "id": 299989,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "021_eren2_counter_01"
+  },
+  {
+    "id": 299990,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "022_eren2_counter_02"
+  },
+  {
+    "id": 299991,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "023_eren2_buff_01"
+  },
+  {
+    "id": 299992,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "024_eren2_n_atk_01"
+  },
+  {
+    "id": 299993,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "025_eren2_n_atk_02"
+  },
+  {
+    "id": 299994,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "026_eren2_n_atk_03"
+  },
+  {
+    "id": 299995,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "027_eren2_healing_01"
+  },
+  {
+    "id": 299996,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "028_eren2_atk_01"
+  },
+  {
+    "id": 299997,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "029_eren2_atk_02"
+  },
+  {
+    "id": 299998,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "030_eren2_atk_03"
+  },
+  {
+    "id": 299999,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "031_eren2_atk_04"
+  },
+  {
+    "id": 300000,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "032_eren2_atk_05"
+  },
+  {
+    "id": 300001,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "033_eren2_atk_06"
+  },
+  {
+    "id": 300002,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "034_eren2_atk_07"
+  },
+  {
+    "id": 300003,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "035_eren2_atk_08"
+  },
+  {
+    "id": 300004,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "036_eren2_dmg_01"
+  },
+  {
+    "id": 300005,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "037_eren2_dmg_02"
+  },
+  {
+    "id": 300006,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "038_eren2_dmg_03"
+  },
+  {
+    "id": 300007,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "039_eren2_dmg_04"
+  },
+  {
+    "id": 300008,
+    "path": "voice",
+    "sub_path": "battle/titan_eren02",
+    "filename": "040_eren2_dmg_05"
+  },
+  {
+    "id": 300009,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_appear_01"
+  },
+  {
+    "id": 300010,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_appear_02"
+  },
+  {
+    "id": 300011,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_drop_01"
+  },
+  {
+    "id": 300012,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_die_01"
+  },
+  {
+    "id": 300013,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_die_02"
+  },
+  {
+    "id": 300014,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_bound_01"
+  },
+  {
+    "id": 300015,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_wakeup_01"
+  },
+  {
+    "id": 300016,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_victory_01"
+  },
+  {
+    "id": 300017,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_victory_02"
+  },
+  {
+    "id": 300018,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_idle_start_01"
+  },
+  {
+    "id": 300019,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_idle_start_02"
+  },
+  {
+    "id": 300020,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_idle_start_03"
+  },
+  {
+    "id": 300021,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_idle_start_04"
+  },
+  {
+    "id": 300022,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_idle_start02_01"
+  },
+  {
+    "id": 300023,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_idle_start02_02"
+  },
+  {
+    "id": 300024,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_idle_start02_03"
+  },
+  {
+    "id": 300025,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_03_rdy_01"
+  },
+  {
+    "id": 300026,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_03_rdy_02"
+  },
+  {
+    "id": 300027,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_03_dash_01"
+  },
+  {
+    "id": 300028,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_03_atk_01"
+  },
+  {
+    "id": 300029,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_03_return_01"
+  },
+  {
+    "id": 300030,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_03_end_01"
+  },
+  {
+    "id": 300031,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_04_rdy_01"
+  },
+  {
+    "id": 300032,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_04_atk_01"
+  },
+  {
+    "id": 300033,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_04_atk_02"
+  },
+  {
+    "id": 300034,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_04_atk_03"
+  },
+  {
+    "id": 300035,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_04_atk_04"
+  },
+  {
+    "id": 300036,
+    "path": "hero",
+    "sub_path": "titan_eren02",
+    "filename": "titan_eren2_skill_04_atk_05"
+  },
+  {
+    "id": 300039,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_appear_01"
+  },
+  {
+    "id": 300040,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_appear_02"
+  },
+  {
+    "id": 300041,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "003_mikasa_boss_01"
+  },
+  {
+    "id": 300042,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "004_mikasa_boss_02"
+  },
+  {
+    "id": 300043,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "005_mikasa_skill_01"
+  },
+  {
+    "id": 300044,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "006_mikasa_skill_02"
+  },
+  {
+    "id": 300045,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "007_mikasa_skill_03"
+  },
+  {
+    "id": 300046,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "008_mikasa_skill_04"
+  },
+  {
+    "id": 300047,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "009_mikasa_skill_05"
+  },
+  {
+    "id": 300048,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "010_mikasa_skill_06"
+  },
+  {
+    "id": 300049,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "011_mikasa_skill_07"
+  },
+  {
+    "id": 300050,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "012_mikasa_skill_08"
+  },
+  {
+    "id": 300051,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "013_mikasa_skill_09"
+  },
+  {
+    "id": 300052,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "014_mikasa_skill_10"
+  },
+  {
+    "id": 300053,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "015_mikasa_bt_victory_01"
+  },
+  {
+    "id": 300054,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "016_mikasa_bt_victory_02"
+  },
+  {
+    "id": 300055,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "017_mikasa_sp_01"
+  },
+  {
+    "id": 300056,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "018_mikasa_sp_02"
+  },
+  {
+    "id": 300057,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "019_mikasa_sp_03"
+  },
+  {
+    "id": 300058,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "020_mikasa_sp_04"
+  },
+  {
+    "id": 300059,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "021_mikasa_counter_01"
+  },
+  {
+    "id": 300060,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "022_mikasa_counter_02"
+  },
+  {
+    "id": 300061,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "023_mikasa_buff_01"
+  },
+  {
+    "id": 300062,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "024_mikasa_n_atk_01"
+  },
+  {
+    "id": 300063,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "025_mikasa_n_atk_02"
+  },
+  {
+    "id": 300064,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "026_mikasa_n_atk_03"
+  },
+  {
+    "id": 300065,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "027_mikasa_healing_01"
+  },
+  {
+    "id": 300066,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "028_mikasa_atk_01"
+  },
+  {
+    "id": 300067,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "029_mikasa_atk_02"
+  },
+  {
+    "id": 300068,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "030_mikasa_atk_03"
+  },
+  {
+    "id": 300069,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "031_mikasa_atk_04"
+  },
+  {
+    "id": 300070,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "032_mikasa_atk_05"
+  },
+  {
+    "id": 300071,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "033_mikasa_atk_06"
+  },
+  {
+    "id": 300072,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "034_mikasa_atk_07"
+  },
+  {
+    "id": 300073,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "035_mikasa_atk_08"
+  },
+  {
+    "id": 300074,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "036_mikasa_dmg_01"
+  },
+  {
+    "id": 300075,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "037_mikasa_dmg_02"
+  },
+  {
+    "id": 300076,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "038_mikasa_dmg_03"
+  },
+  {
+    "id": 300077,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "039_mikasa_dmg_04"
+  },
+  {
+    "id": 300078,
+    "path": "voice",
+    "sub_path": "battle/titan_mikasa",
+    "filename": "040_mikasa_dmg_05"
+  },
+  {
+    "id": 300079,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_drop_01"
+  },
+  {
+    "id": 300080,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_drop_02"
+  },
+  {
+    "id": 300081,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_die_01"
+  },
+  {
+    "id": 300082,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_victory_01"
+  },
+  {
+    "id": 300083,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_victory_02"
+  },
+  {
+    "id": 300084,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_victory_03"
+  },
+  {
+    "id": 300085,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start_01"
+  },
+  {
+    "id": 300086,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start_02"
+  },
+  {
+    "id": 300087,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start_03"
+  },
+  {
+    "id": 300088,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start_04"
+  },
+  {
+    "id": 300089,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start_05"
+  },
+  {
+    "id": 300090,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start_06"
+  },
+  {
+    "id": 300091,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start02_01"
+  },
+  {
+    "id": 300092,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start02_02"
+  },
+  {
+    "id": 300093,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start02_03"
+  },
+  {
+    "id": 300094,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start02_04"
+  },
+  {
+    "id": 300095,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_idle_start02_05"
+  },
+  {
+    "id": 300096,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_01_rdy_01"
+  },
+  {
+    "id": 300097,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_01_rdy_02"
+  },
+  {
+    "id": 300098,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_01_dash_01"
+  },
+  {
+    "id": 300099,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_01_atk_01"
+  },
+  {
+    "id": 300100,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_01_return_01"
+  },
+  {
+    "id": 300101,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_01_end_01"
+  },
+  {
+    "id": 300102,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_02_rdy_01"
+  },
+  {
+    "id": 300103,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_02_rdy_02"
+  },
+  {
+    "id": 300104,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_02_rdy_03"
+  },
+  {
+    "id": 300105,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_02_dash_01"
+  },
+  {
+    "id": 300106,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_02_atk_01"
+  },
+  {
+    "id": 300107,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_02_atk_02"
+  },
+  {
+    "id": 300108,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_02_atk_03"
+  },
+  {
+    "id": 300109,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_02_return_01"
+  },
+  {
+    "id": 300110,
+    "path": "hero",
+    "sub_path": "titan_mikasa",
+    "filename": "titan_mikasa_skill_02_return_02"
+  },
+  {
+    "id": 300111,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "003_levi_boss_01"
+  },
+  {
+    "id": 300112,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "004_levi_boss_02"
+  },
+  {
+    "id": 300113,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "005_levi_skill_01"
+  },
+  {
+    "id": 300114,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "006_levi_skill_02"
+  },
+  {
+    "id": 300115,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "007_levi_skill_03"
+  },
+  {
+    "id": 300116,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "008_levi_skill_04"
+  },
+  {
+    "id": 300117,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "009_levi_skill_05"
+  },
+  {
+    "id": 300118,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "010_levi_skill_06"
+  },
+  {
+    "id": 300119,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "011_levi_skill_07"
+  },
+  {
+    "id": 300120,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "012_levi_skill_08"
+  },
+  {
+    "id": 300121,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "013_levi_skill_09"
+  },
+  {
+    "id": 300122,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "014_levi_skill_10"
+  },
+  {
+    "id": 300123,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "015_levi_bt_victory_01"
+  },
+  {
+    "id": 300124,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "016_levi_bt_victory_02"
+  },
+  {
+    "id": 300125,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "017_levi_sp_01"
+  },
+  {
+    "id": 300126,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "018_levi_sp_02"
+  },
+  {
+    "id": 300127,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "019_levi_sp_03"
+  },
+  {
+    "id": 300128,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "020_levi_sp_04"
+  },
+  {
+    "id": 300129,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "021_levi_counter_01"
+  },
+  {
+    "id": 300130,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "022_levi_counter_02"
+  },
+  {
+    "id": 300131,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "023_levi_buff_01"
+  },
+  {
+    "id": 300132,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "024_levi_n_atk_01"
+  },
+  {
+    "id": 300133,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "025_levi_n_atk_02"
+  },
+  {
+    "id": 300134,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "026_levi_n_atk_03"
+  },
+  {
+    "id": 300135,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "027_levi_healing_01"
+  },
+  {
+    "id": 300136,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "028_levi_atk_01"
+  },
+  {
+    "id": 300137,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "029_levi_atk_02"
+  },
+  {
+    "id": 300138,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "030_levi_atk_03"
+  },
+  {
+    "id": 300139,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "031_levi_atk_04"
+  },
+  {
+    "id": 300140,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "032_levi_atk_05"
+  },
+  {
+    "id": 300141,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "033_levi_atk_06"
+  },
+  {
+    "id": 300142,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "034_levi_atk_07"
+  },
+  {
+    "id": 300143,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "035_levi_atk_08"
+  },
+  {
+    "id": 300144,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "036_levi_dmg_01"
+  },
+  {
+    "id": 300145,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "037_levi_dmg_02"
+  },
+  {
+    "id": 300146,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "038_levi_dmg_03"
+  },
+  {
+    "id": 300147,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "039_levi_dmg_04"
+  },
+  {
+    "id": 300148,
+    "path": "voice",
+    "sub_path": "battle/titan_levi",
+    "filename": "040_levi_dmg_05"
+  },
+  {
+    "id": 300149,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_appear_01"
+  },
+  {
+    "id": 300150,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_appear_02"
+  },
+  {
+    "id": 300151,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_appear_03"
+  },
+  {
+    "id": 300152,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_drop_01"
+  },
+  {
+    "id": 300153,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_drop_02"
+  },
+  {
+    "id": 300154,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_die_01"
+  },
+  {
+    "id": 300155,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_bound_01"
+  },
+  {
+    "id": 300156,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_wakeup_01"
+  },
+  {
+    "id": 300157,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_victory_01"
+  },
+  {
+    "id": 300158,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_victory_02"
+  },
+  {
+    "id": 300159,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_victory_03"
+  },
+  {
+    "id": 300160,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_sepcial_end_01"
+  },
+  {
+    "id": 300161,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_idle_start_01"
+  },
+  {
+    "id": 300162,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_idle_start_02"
+  },
+  {
+    "id": 300163,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_idle_start_03"
+  },
+  {
+    "id": 300164,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_idle_start_04"
+  },
+  {
+    "id": 300165,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_idle_start_05"
+  },
+  {
+    "id": 300166,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_idle_start02_01"
+  },
+  {
+    "id": 300167,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_idle_start02_02"
+  },
+  {
+    "id": 300168,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_idle_start02_03"
+  },
+  {
+    "id": 300169,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_idle_start02_04"
+  },
+  {
+    "id": 300170,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_01_rdy_01"
+  },
+  {
+    "id": 300171,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_01_rdy_02"
+  },
+  {
+    "id": 300172,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_01_dash_01"
+  },
+  {
+    "id": 300173,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_01_atk_01"
+  },
+  {
+    "id": 300174,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_01_atk_02"
+  },
+  {
+    "id": 300175,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_01_atk_03"
+  },
+  {
+    "id": 300176,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_01_return_01"
+  },
+  {
+    "id": 300177,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_rdy_01"
+  },
+  {
+    "id": 300178,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_rdy_02"
+  },
+  {
+    "id": 300179,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_atk_01"
+  },
+  {
+    "id": 300180,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_atk_02"
+  },
+  {
+    "id": 300181,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_atk_03"
+  },
+  {
+    "id": 300182,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_atk_04"
+  },
+  {
+    "id": 300183,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_atk_05"
+  },
+  {
+    "id": 300184,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_atk_06"
+  },
+  {
+    "id": 300185,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_atk_07"
+  },
+  {
+    "id": 300186,
+    "path": "hero",
+    "sub_path": "titan_levi",
+    "filename": "titan_levi_skill_02_atk_08"
+  },
+  {
+    "id": 300191,
+    "path": "voice",
+    "sub_path": "battle/eren_titan",
+    "filename": "eren_titan_die_vo_01"
+  },
+  {
+    "id": 300192,
+    "path": "voice",
+    "sub_path": "battle/eren_titan",
+    "filename": "eren_titan_bound_vo_01"
+  },
+  {
+    "id": 300193,
+    "path": "voice",
+    "sub_path": "battle/eren_titan",
+    "filename": "eren_titan_wakeup_vo_01"
+  },
+  {
+    "id": 300194,
+    "path": "voice",
+    "sub_path": "battle/eren_titan",
+    "filename": "eren_titan_tag_change_vo_01"
+  },
+  {
+    "id": 300195,
+    "path": "voice",
+    "sub_path": "battle/eren_titan",
+    "filename": "eren_titan_tag_change_vo_02"
+  },
+  {
+    "id": 300196,
+    "path": "voice",
+    "sub_path": "battle/eren_titan",
+    "filename": "eren_titan_skill_01_rdy_vo_01"
+  },
+  {
+    "id": 300197,
+    "path": "voice",
+    "sub_path": "battle/eren_titan",
+    "filename": "eren_titan_skill_01_atk_vo_01"
+  },
+  {
+    "id": 300198,
+    "path": "voice",
+    "sub_path": "battle/eren_titan",
+    "filename": "eren_titan_skill_02_rdy_vo_01"
+  },
+  {
+    "id": 300199,
+    "path": "voice",
+    "sub_path": "battle/eren_titan",
+    "filename": "eren_titan_skill_02_atk_vo_01"
+  },
+  {
+    "id": 300210,
+    "path": "voice",
+    "sub_path": "battle/armored_titan",
+    "filename": "armored_titan_die_vo_01"
+  },
+  {
+    "id": 300211,
+    "path": "voice",
+    "sub_path": "battle/armored_titan",
+    "filename": "armored_titan_bound_vo_01"
+  },
+  {
+    "id": 300212,
+    "path": "voice",
+    "sub_path": "battle/armored_titan",
+    "filename": "armored_titan_wakeup_vo_01"
+  },
+  {
+    "id": 300213,
+    "path": "voice",
+    "sub_path": "battle/armored_titan",
+    "filename": "armored_titan_skill_01_rdy_vo_01"
+  },
+  {
+    "id": 300214,
+    "path": "voice",
+    "sub_path": "battle/armored_titan",
+    "filename": "armored_titan_skill_01_atk_vo_01"
+  },
+  {
+    "id": 300215,
+    "path": "voice",
+    "sub_path": "battle/armored_titan",
+    "filename": "armored_titan_skill_02_rdy_vo_01"
+  },
+  {
+    "id": 300216,
+    "path": "voice",
+    "sub_path": "battle/armored_titan",
+    "filename": "armored_titan_skill_02_atk_vo_01"
+  },
+  {
+    "id": 300217,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_die_01"
+  },
+  {
+    "id": 300218,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_bound_01"
+  },
+  {
+    "id": 300219,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_walk_01"
+  },
+  {
+    "id": 300220,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_walk_02"
+  },
+  {
+    "id": 300221,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_walk_03"
+  },
+  {
+    "id": 300222,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_walk_04"
+  },
+  {
+    "id": 300223,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_skill_01_rdy_01"
+  },
+  {
+    "id": 300224,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_skill_01_atk_01"
+  },
+  {
+    "id": 300225,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_skill_02_rdy_01"
+  },
+  {
+    "id": 300226,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_skill_02_atk_01"
+  },
+  {
+    "id": 300227,
+    "path": "monster",
+    "sub_path": "armored_titan",
+    "filename": "armored_titian_skill_02_atk_02"
+  },
+  {
+    "id": 300241,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_steam_01"
+  },
+  {
+    "id": 300242,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_steam_02"
+  },
+  {
+    "id": 300243,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_steam_03"
+  },
+  {
+    "id": 300244,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_steam_04"
+  },
+  {
+    "id": 300245,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_skill_12_atk_01"
+  },
+  {
+    "id": 300246,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_skill_12_atk_02"
+  },
+  {
+    "id": 300247,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_01"
+  },
+  {
+    "id": 300248,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_02"
+  },
+  {
+    "id": 300249,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_03"
+  },
+  {
+    "id": 300250,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_04"
+  },
+  {
+    "id": 300251,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_05"
+  },
+  {
+    "id": 300252,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_06"
+  },
+  {
+    "id": 300253,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_07"
+  },
+  {
+    "id": 300254,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_08"
+  },
+  {
+    "id": 300255,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_09"
+  },
+  {
+    "id": 300256,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_10"
+  },
+  {
+    "id": 300257,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_11"
+  },
+  {
+    "id": 300258,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_12"
+  },
+  {
+    "id": 300259,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_13"
+  },
+  {
+    "id": 300260,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_14"
+  },
+  {
+    "id": 300261,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_15"
+  },
+  {
+    "id": 300262,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_16"
+  },
+  {
+    "id": 300263,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_17"
+  },
+  {
+    "id": 300264,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_18"
+  },
+  {
+    "id": 300265,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_19"
+  },
+  {
+    "id": 300266,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_20"
+  },
+  {
+    "id": 300267,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_21"
+  },
+  {
+    "id": 300268,
+    "path": "monster",
+    "sub_path": "colossal_titan",
+    "filename": "colossal_titan_move_22"
   }
 ]

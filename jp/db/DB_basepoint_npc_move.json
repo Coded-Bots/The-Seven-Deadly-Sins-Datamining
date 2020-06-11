@@ -2877,7 +2877,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 6
   },
   {
     "id": 9151,
@@ -2892,7 +2892,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 5.5
   },
   {
     "id": 9152,
@@ -2907,7 +2907,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 4.6
   },
   {
     "id": 9153,
@@ -2922,7 +2922,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 4
   },
   {
     "id": 9154,
@@ -2952,7 +2952,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 7
   },
   {
     "id": 9156,
@@ -2967,7 +2967,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 4.3
   },
   {
     "id": 9157,
@@ -2982,7 +2982,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 4.5
   },
   {
     "id": 9158,
@@ -2997,7 +2997,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 4
   },
   {
     "id": 9159,
@@ -3012,7 +3012,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 4
   },
   {
     "id": 9160,
@@ -3027,7 +3027,7 @@
     "wait_time_ani": "normal",
     "move_ani": "run",
     "walk_speed": 3,
-    "run_speed": 5
+    "run_speed": 4.5
   },
   {
     "id": 9161,
@@ -3206,6 +3206,21 @@
     "wait_time_max": 0,
     "wait_time_ani": "normal",
     "move_ani": "run",
+    "walk_speed": 3,
+    "run_speed": 5
+  },
+  {
+    "id": 9173,
+    "move_name": "titan_short_titan_patrol_91009_01",
+    "basepoint_id": 92020401,
+    "basepoint_npc_id": 31756,
+    "move_condition": "quest_start",
+    "condition_id": 91009,
+    "move_type": "zone_random",
+    "wait_time_min": 0,
+    "wait_time_max": 0,
+    "wait_time_ani": "normal",
+    "move_ani": "walk",
     "walk_speed": 3,
     "run_speed": 5
   }

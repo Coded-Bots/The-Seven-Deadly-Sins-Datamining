@@ -6,7 +6,7 @@
     "map_resource": "town_BNAsquear",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6426",
+    "town_name": "10174",
     "town_icon": "icon_basepoint_01",
     "town_minimap_change": ""
   },
@@ -17,7 +17,7 @@
     "map_resource": "town_DMRsquear",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6452",
+    "town_name": "10200",
     "town_icon": "icon_basepoint_02",
     "town_minimap_change": ""
   },
@@ -28,7 +28,7 @@
     "map_resource": "town_DMRsquear_B",
     "open_type": "quest_end",
     "open_value": 12003,
-    "town_name": "6452",
+    "town_name": "10200",
     "town_icon": "icon_basepoint_02",
     "town_minimap_change": ""
   },
@@ -39,7 +39,7 @@
     "map_resource": "town_DMRsquear",
     "open_type": "quest_end",
     "open_value": 12015,
-    "town_name": "6452",
+    "town_name": "10200",
     "town_icon": "icon_basepoint_02",
     "town_minimap_change": ""
   },
@@ -50,7 +50,7 @@
     "map_resource": "town_Dcsquear",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6462",
+    "town_name": "10210",
     "town_icon": "icon_basepoint_03",
     "town_minimap_change": ""
   },
@@ -61,7 +61,7 @@
     "map_resource": "town_Bzsquear",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6473",
+    "town_name": "10221",
     "town_icon": "icon_basepoint_04",
     "town_minimap_change": ""
   },
@@ -72,7 +72,7 @@
     "map_resource": "town_BZsquear_PVP",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6474",
+    "town_name": "10222",
     "town_icon": "icon_area_13",
     "town_minimap_change": ""
   },
@@ -83,7 +83,7 @@
     "map_resource": "town_Odsquear",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6484",
+    "town_name": "10232",
     "town_icon": "icon_basepoint_05",
     "town_minimap_change": ""
   },
@@ -94,7 +94,7 @@
     "map_resource": "town_LONSwest_A",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6493",
+    "town_name": "10241",
     "town_icon": "icon_basepoint_07",
     "town_minimap_change": ""
   },
@@ -105,7 +105,7 @@
     "map_resource": "town_LONSwest_B",
     "open_type": "quest_end",
     "open_value": 15015,
-    "town_name": "6493",
+    "town_name": "10241",
     "town_icon": "icon_basepoint_07",
     "town_minimap_change": ""
   },
@@ -116,7 +116,7 @@
     "map_resource": "town_LONSwest_A",
     "open_type": "quest_start",
     "open_value": 16030,
-    "town_name": "6493",
+    "town_name": "10241",
     "town_icon": "icon_basepoint_07",
     "town_minimap_change": ""
   },
@@ -127,7 +127,7 @@
     "map_resource": "town_Square_01",
     "open_type": "quest_end",
     "open_value": 16076,
-    "town_name": "6493",
+    "town_name": "10241",
     "town_icon": "icon_basepoint_07",
     "town_minimap_change": "town_LON_Guild_town_MiniMap"
   },
@@ -138,7 +138,7 @@
     "map_resource": "town_LONsquear",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6494",
+    "town_name": "10242",
     "town_icon": "icon_basepoint_06",
     "town_minimap_change": ""
   },
@@ -149,7 +149,7 @@
     "map_resource": "town_LONsquear_B",
     "open_type": "quest_end",
     "open_value": 16007,
-    "town_name": "6494",
+    "town_name": "10242",
     "town_icon": "icon_basepoint_06",
     "town_minimap_change": ""
   },
@@ -160,7 +160,7 @@
     "map_resource": "town_LONsquear",
     "open_type": "quest_end",
     "open_value": 16510,
-    "town_name": "6494",
+    "town_name": "10242",
     "town_icon": "icon_basepoint_06",
     "town_minimap_change": ""
   },
@@ -171,7 +171,7 @@
     "map_resource": "town_Camelot_albion",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6491",
+    "town_name": "10239",
     "town_icon": "icon_basepoint_07_01",
     "town_minimap_change": ""
   },
@@ -182,7 +182,7 @@
     "map_resource": "town_Istal_01",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6510",
+    "town_name": "10258",
     "town_icon": "icon_area_57",
     "town_minimap_change": ""
   },
@@ -193,7 +193,7 @@
     "map_resource": "town_BZsquear_PVP_network",
     "open_type": "quest_end",
     "open_value": 14015,
-    "town_name": "6474",
+    "town_name": "10222",
     "town_icon": "icon_area_13",
     "town_minimap_change": ""
   },
@@ -204,7 +204,7 @@
     "map_resource": "town_BZ_maze_squear",
     "open_type": "",
     "open_value": 0,
-    "town_name": "27771",
+    "town_name": "31518",
     "town_icon": "icon_basepoint_10_03",
     "town_minimap_change": ""
   },
@@ -215,7 +215,7 @@
     "map_resource": "town_BZ_maze_squear",
     "open_type": "stage_quest",
     "open_value": 20051,
-    "town_name": "27771",
+    "town_name": "31518",
     "town_icon": "icon_basepoint_10_03",
     "town_minimap_change": "town_BZ_maze_squear_MiniMap_02"
   },
@@ -226,7 +226,7 @@
     "map_resource": "town_BZ_maze_squear",
     "open_type": "quest_end",
     "open_value": 20053,
-    "town_name": "27771",
+    "town_name": "31518",
     "town_icon": "icon_basepoint_10_03",
     "town_minimap_change": "town_BZ_maze_squear_MiniMap_03"
   },
@@ -237,7 +237,7 @@
     "map_resource": "town_BZ_maze_squear",
     "open_type": "stage_quest",
     "open_value": 20054,
-    "town_name": "27771",
+    "town_name": "31518",
     "town_icon": "icon_basepoint_10_03",
     "town_minimap_change": "town_BZ_maze_squear_MiniMap_02"
   },
@@ -248,7 +248,7 @@
     "map_resource": "town_BZ_maze_squear",
     "open_type": "stage_quest",
     "open_value": 20055,
-    "town_name": "27771",
+    "town_name": "31518",
     "town_icon": "icon_basepoint_10_03",
     "town_minimap_change": "town_BZ_maze_squear_MiniMap_03"
   },
@@ -259,7 +259,7 @@
     "map_resource": "town_hawkmama_1f",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6431",
+    "town_name": "10179",
     "town_icon": "icon_basepoint_11_02",
     "town_minimap_change": ""
   },
@@ -270,7 +270,7 @@
     "map_resource": "town_LONvacant_outside_12c",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6445",
+    "town_name": "10193",
     "town_icon": "icon_basepoint_12_01",
     "town_minimap_change": ""
   },
@@ -281,7 +281,7 @@
     "map_resource": "town_LONvacant_inside_destroy_12c",
     "open_type": "stage_quest",
     "open_value": 22014,
-    "town_name": "6446",
+    "town_name": "10194",
     "town_icon": "icon_basepoint_12_02",
     "town_minimap_change": "town_LONvacant_inside_destroy_12c_MiniMap"
   },
@@ -292,7 +292,7 @@
     "map_resource": "town_LON_collapse_13chapter_01",
     "open_type": "quest_end",
     "open_value": 22015,
-    "town_name": "6446",
+    "town_name": "10194",
     "town_icon": "icon_basepoint_13_01",
     "town_minimap_change": "town_LON_collapse_MiniMap_01"
   },
@@ -303,7 +303,7 @@
     "map_resource": "town_LON_collapse_13chapter_01",
     "open_type": "quest_end",
     "open_value": 22055,
-    "town_name": "6446",
+    "town_name": "10194",
     "town_icon": "icon_basepoint_13_01",
     "town_minimap_change": "town_LON_collapse_MiniMap_02"
   },
@@ -314,7 +314,7 @@
     "map_resource": "town_hawkmama_collapse_13chapter_01",
     "open_type": "",
     "open_value": 0,
-    "town_name": "39698",
+    "town_name": "43423",
     "town_icon": "icon_basepoint_13_02",
     "town_minimap_change": ""
   },
@@ -325,9 +325,31 @@
     "map_resource": "town_hawkmama_collapse_13chapter_01",
     "open_type": "quest_end",
     "open_value": 22063,
-    "town_name": "39698",
+    "town_name": "43423",
     "town_icon": "icon_basepoint_13_03",
     "town_minimap_change": ""
+  },
+  {
+    "id": 31,
+    "town_id": 1200301,
+    "path": "world_13",
+    "map_resource": "town_LON_recover_13c",
+    "open_type": "quest_start",
+    "open_value": 30008,
+    "town_name": "43426",
+    "town_icon": "icon_basepoint_06",
+    "town_minimap_change": "town_LON_recover_13c_MiniMap"
+  },
+  {
+    "id": 32,
+    "town_id": 1300601,
+    "path": "world_13",
+    "map_resource": "town_OLDsquear",
+    "open_type": "",
+    "open_value": 0,
+    "town_name": "45659",
+    "town_icon": "icon_basepoint_13n_01",
+    "town_minimap_change": "town_OLDsquear_MiniMap"
   },
   {
     "id": 100,
@@ -336,7 +358,7 @@
     "map_resource": "town_LONS_kingroom",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6461",
+    "town_name": "10209",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -347,7 +369,7 @@
     "map_resource": "town_LONvacant",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6471",
+    "town_name": "10219",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -358,7 +380,7 @@
     "map_resource": "town_LONS_merlinroom",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6481",
+    "town_name": "10229",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -369,7 +391,7 @@
     "map_resource": "town_Camelot_albion_wall",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6491",
+    "town_name": "10239",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -380,7 +402,7 @@
     "map_resource": "town_Istal_tower_01",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6505",
+    "town_name": "10253",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -391,7 +413,7 @@
     "map_resource": "town_Istal_cave_01",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6509",
+    "town_name": "10257",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -402,7 +424,7 @@
     "map_resource": "town_Istal_cave_training",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6509",
+    "town_name": "10257",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -413,7 +435,7 @@
     "map_resource": "town_Istal_cave_training",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6509",
+    "town_name": "10257",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -424,7 +446,7 @@
     "map_resource": "town_hawkmama_2f",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6429",
+    "town_name": "10177",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -435,7 +457,7 @@
     "map_resource": "town_LONvacant_inside_12c",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6443",
+    "town_name": "10191",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -446,7 +468,7 @@
     "map_resource": "town_Event_Valentine_room",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6800",
+    "town_name": "10548",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -457,7 +479,7 @@
     "map_resource": "town_Event_Halloween",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6773",
+    "town_name": "10521",
     "town_icon": "icon_area_9301_04",
     "town_minimap_change": ""
   },
@@ -468,7 +490,7 @@
     "map_resource": "town_Event_Halloween_network",
     "open_type": "quest_end",
     "open_value": 90214,
-    "town_name": "6773",
+    "town_name": "10521",
     "town_icon": "icon_area_9301_04",
     "town_minimap_change": ""
   },
@@ -479,7 +501,7 @@
     "map_resource": "town_LON_audience chamber",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6514",
+    "town_name": "10262",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -490,18 +512,29 @@
     "map_resource": "town_canyon_giant_collabo",
     "open_type": "",
     "open_value": 0,
-    "town_name": "",
+    "town_name": "46492",
     "town_icon": "",
     "town_minimap_change": ""
   },
   {
     "id": 905,
+    "town_id": 92020401,
+    "path": "collabo_giant",
+    "map_resource": "town_canyon_destroy_giant_collabo",
+    "open_type": "quest_end",
+    "open_value": 91008,
+    "town_name": "46492",
+    "town_icon": "",
+    "town_minimap_change": ""
+  },
+  {
+    "id": 906,
     "town_id": 92020701,
     "path": "collabo_giant",
     "map_resource": "town_lons_wall_giant_collabo",
     "open_type": "",
     "open_value": 0,
-    "town_name": "",
+    "town_name": "46495",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -512,7 +545,7 @@
     "map_resource": "town_1F_another",
     "open_type": "",
     "open_value": 0,
-    "town_name": "6434",
+    "town_name": "10182",
     "town_icon": "icon_another_basepoint_01_01",
     "town_minimap_change": ""
   },
@@ -523,7 +556,7 @@
     "map_resource": "",
     "open_type": "quest_end",
     "open_value": 111001,
-    "town_name": "6435",
+    "town_name": "10183",
     "town_icon": "icon_another_basepoint_01_02",
     "town_minimap_change": ""
   }

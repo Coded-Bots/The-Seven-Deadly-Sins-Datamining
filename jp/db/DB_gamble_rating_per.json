@@ -351,6 +351,24 @@
     "rating_5": 3
   },
   {
+    "id": 45,
+    "gamble_group": 1045,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 36,
+    "rating_5": 4
+  },
+  {
+    "id": 46,
+    "gamble_group": 1046,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
     "id": 50,
     "gamble_group": 1050,
     "rating_1": 0,
