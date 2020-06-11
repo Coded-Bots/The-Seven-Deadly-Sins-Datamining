@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1,
+    "gacha_bonus_reward_group_id": 1001,
+    "gacha_bonus_reward_type": 1,
+    "gacha_bonus_reward": 304901,
+    "gacha_bonus_count": 1,
+    "gacha_bonus_reward_rate": 1000
+  },
+  {
+    "index": 2,
+    "gacha_bonus_reward_group_id": 2001,
+    "gacha_bonus_reward_type": 2,
+    "gacha_bonus_reward": 304901,
+    "gacha_bonus_count": 1,
+    "gacha_bonus_reward_rate": 1000
+  },
+  {
+    "index": 3,
+    "gacha_bonus_reward_group_id": 2001,
+    "gacha_bonus_reward_type": 2,
+    "gacha_bonus_reward": 304901,
+    "gacha_bonus_count": 1,
+    "gacha_bonus_reward_rate": 1000
+  },
+  {
+    "index": 4,
+    "gacha_bonus_reward_group_id": 3001,
+    "gacha_bonus_reward_type": 3,
+    "gacha_bonus_reward": 304901,
+    "gacha_bonus_count": 1,
+    "gacha_bonus_reward_rate": 200
+  },
+  {
+    "index": 5,
+    "gacha_bonus_reward_group_id": 3001,
+    "gacha_bonus_reward_type": 3,
+    "gacha_bonus_reward": 304901,
+    "gacha_bonus_count": 1,
+    "gacha_bonus_reward_rate": 300
+  },
+  {
+    "index": 6,
+    "gacha_bonus_reward_group_id": 3001,
+    "gacha_bonus_reward_type": 3,
+    "gacha_bonus_reward": 304901,
+    "gacha_bonus_count": 1,
+    "gacha_bonus_reward_rate": 500
+  }
+]

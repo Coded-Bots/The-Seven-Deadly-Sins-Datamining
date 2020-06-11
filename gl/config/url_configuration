@@ -92,13 +92,13 @@
         "check_nm_cpdev_channel_connection": "https://cpdev-mobileauth.netmarble.com"
     }, 
     "french": {
-        "patch_video": "http://nanatsunotaizai.gcdn.netmarble.com/nanatsunotaizai/video/patch_en.mp4", 
+        "patch_video": "http://nanagb.gcdn.netmarble.com/nanagb/video/patch_en.mp4", 
         "fund_settlement_act": "", 
         "live_streaming_broadcast": "", 
         "community_reddit": "", 
         "community_discord": "", 
-        "share": "", 
-        "community": "http://nanatsunotaizai.gcdn.netmarble.com/nanatsunotaizai/redirect/redirect_community.html", 
+        "share": "https://facebook.com/7ds.fr", 
+        "community": "https://facebook.com/7ds.fr", 
         "live_streaming_watch": "", 
         "community_youtube": "http://www.youtube.com/c/TheSevenDeadlySinsGrandCross", 
         "community_fandom": "", 
@@ -106,12 +106,12 @@
         "privacy_policy": "https://help.netmarble.com/terms/privacy_policy_en", 
         "community_facebook": "https://facebook.com/7ds.fr", 
         "check_nm_real_channel_connection": "https://mobileauth.netmarble.com", 
-        "ingame_video_root": "http://nanatsunotaizai.gcdn.netmarble.com/nanatsunotaizai/video", 
+        "ingame_video_root": "http://nanagb.gcdn.netmarble.com/nanagb/video", 
         "specified_cml_txn_act": "", 
         "community_twitter": "", 
         "operation_policy": "", 
-        "net_connection_check": "http://nanatsunotaizai.gcdn.netmarble.com/nanatsunotaizai/connection.txt", 
-        "market": "http://nanatsunotaizai.gcdn.netmarble.com/nanatsunotaizai/redirect/redirect_market.html", 
+        "net_connection_check": "http://nanagb.gcdn.netmarble.com/nanagb/connection.txt", 
+        "market": "http://nanagb.gcdn.netmarble.com/nanagb/redirect/redirect_market.html", 
         "check_nm_cpdev_channel_connection": "https://cpdev-mobileauth.netmarble.com"
     }
 }

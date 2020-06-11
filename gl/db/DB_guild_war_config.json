@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "type": "StartDate",
+    "value_string": "2029-04-29 00:00:00",
+    "value_int": 0
+  },
+  {
+    "id": 2,
+    "type": "NonSeasonSec",
+    "value_string": "",
+    "value_int": 952260
+  },
+  {
+    "id": 3,
+    "type": "SelectionSec",
+    "value_string": "",
+    "value_int": 84540
+  },
+  {
+    "id": 4,
+    "type": "MatchingSec",
+    "value_string": "",
+    "value_int": 86400
+  },
+  {
+    "id": 5,
+    "type": "BattleSettingSec",
+    "value_string": "",
+    "value_int": 86400
+  },
+  {
+    "id": 6,
+    "type": "InBattleSec",
+    "value_string": "",
+    "value_int": 172800
+  },
+  {
+    "id": 7,
+    "type": "RankCalculateSec",
+    "value_string": "",
+    "value_int": 86400
+  },
+  {
+    "id": 8,
+    "type": "BannerImageName",
+    "value_string": "m_banner_guild_war_01",
+    "value_int": 0
+  },
+  {
+    "id": 9,
+    "type": "BannerOpenSec",
+    "value_string": "",
+    "value_int": 604800
+  }
+]

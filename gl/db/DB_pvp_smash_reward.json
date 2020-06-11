@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "reward_type": 0,
+    "rank_type": "",
+    "rank_value_min": 0,
+    "rank_value_max": 0,
+    "reward_id_1": 1260001,
+    "reward_count_1": 1
+  },
+  {
+    "id": 2,
+    "reward_type": 1,
+    "rank_type": "value",
+    "rank_value_min": 1,
+    "rank_value_max": 1,
+    "reward_id_1": 500060,
+    "reward_count_1": 2000
+  },
+  {
+    "id": 3,
+    "reward_type": 1,
+    "rank_type": "value",
+    "rank_value_min": 2,
+    "rank_value_max": 5,
+    "reward_id_1": 500060,
+    "reward_count_1": 1800
+  },
+  {
+    "id": 4,
+    "reward_type": 1,
+    "rank_type": "value",
+    "rank_value_min": 6,
+    "rank_value_max": 15,
+    "reward_id_1": 500060,
+    "reward_count_1": 1700
+  },
+  {
+    "id": 5,
+    "reward_type": 1,
+    "rank_type": "value",
+    "rank_value_min": 16,
+    "rank_value_max": 30,
+    "reward_id_1": 500060,
+    "reward_count_1": 1600
+  },
+  {
+    "id": 6,
+    "reward_type": 1,
+    "rank_type": "value",
+    "rank_value_min": 31,
+    "rank_value_max": 50,
+    "reward_id_1": 500060,
+    "reward_count_1": 1500
+  },
+  {
+    "id": 7,
+    "reward_type": 1,
+    "rank_type": "value",
+    "rank_value_min": 51,
+    "rank_value_max": 100,
+    "reward_id_1": 500060,
+    "reward_count_1": 1300
+  },
+  {
+    "id": 8,
+    "reward_type": 1,
+    "rank_type": "percentage",
+    "rank_value_min": 0,
+    "rank_value_max": 3,
+    "reward_id_1": 500060,
+    "reward_count_1": 1000
+  },
+  {
+    "id": 9,
+    "reward_type": 1,
+    "rank_type": "percentage",
+    "rank_value_min": 4,
+    "rank_value_max": 15,
+    "reward_id_1": 500060,
+    "reward_count_1": 800
+  },
+  {
+    "id": 10,
+    "reward_type": 1,
+    "rank_type": "percentage",
+    "rank_value_min": 16,
+    "rank_value_max": 30,
+    "reward_id_1": 500060,
+    "reward_count_1": 600
+  },
+  {
+    "id": 11,
+    "reward_type": 1,
+    "rank_type": "percentage",
+    "rank_value_min": 31,
+    "rank_value_max": 50,
+    "reward_id_1": 500060,
+    "reward_count_1": 400
+  },
+  {
+    "id": 12,
+    "reward_type": 1,
+    "rank_type": "percentage",
+    "rank_value_min": 51,
+    "rank_value_max": 70,
+    "reward_id_1": 500060,
+    "reward_count_1": 200
+  },
+  {
+    "id": 13,
+    "reward_type": 1,
+    "rank_type": "percentage",
+    "rank_value_min": 71,
+    "rank_value_max": 90,
+    "reward_id_1": 500060,
+    "reward_count_1": 100
+  },
+  {
+    "id": 14,
+    "reward_type": 1,
+    "rank_type": "percentage",
+    "rank_value_min": 91,
+    "rank_value_max": 100,
+    "reward_id_1": 500060,
+    "reward_count_1": 50
+  }
+]

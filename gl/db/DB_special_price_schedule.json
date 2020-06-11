@@ -1,0 +1,506 @@
+[
+  {
+    "id": 101,
+    "special_price_group": 1,
+    "special_price_group_index": 1,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 102,
+    "special_price_group": 1,
+    "special_price_group_index": 2,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 103,
+    "special_price_group": 1,
+    "special_price_group_index": 3,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 104,
+    "special_price_group": 1,
+    "special_price_group_index": 4,
+    "special_price_package_id": 60007
+  },
+  {
+    "id": 105,
+    "special_price_group": 1,
+    "special_price_group_index": 5,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 106,
+    "special_price_group": 1,
+    "special_price_group_index": 6,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 107,
+    "special_price_group": 1,
+    "special_price_group_index": 7,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 108,
+    "special_price_group": 1,
+    "special_price_group_index": 8,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 109,
+    "special_price_group": 1,
+    "special_price_group_index": 9,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 110,
+    "special_price_group": 1,
+    "special_price_group_index": 10,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 111,
+    "special_price_group": 1,
+    "special_price_group_index": 11,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 112,
+    "special_price_group": 1,
+    "special_price_group_index": 12,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 113,
+    "special_price_group": 1,
+    "special_price_group_index": 13,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 114,
+    "special_price_group": 1,
+    "special_price_group_index": 14,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 201,
+    "special_price_group": 2,
+    "special_price_group_index": 1,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 202,
+    "special_price_group": 2,
+    "special_price_group_index": 2,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 203,
+    "special_price_group": 2,
+    "special_price_group_index": 3,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 204,
+    "special_price_group": 2,
+    "special_price_group_index": 4,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 205,
+    "special_price_group": 2,
+    "special_price_group_index": 5,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 206,
+    "special_price_group": 2,
+    "special_price_group_index": 6,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 207,
+    "special_price_group": 2,
+    "special_price_group_index": 7,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 208,
+    "special_price_group": 2,
+    "special_price_group_index": 8,
+    "special_price_package_id": 60007
+  },
+  {
+    "id": 209,
+    "special_price_group": 2,
+    "special_price_group_index": 9,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 210,
+    "special_price_group": 2,
+    "special_price_group_index": 10,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 211,
+    "special_price_group": 2,
+    "special_price_group_index": 11,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 212,
+    "special_price_group": 2,
+    "special_price_group_index": 12,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 213,
+    "special_price_group": 2,
+    "special_price_group_index": 13,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 214,
+    "special_price_group": 2,
+    "special_price_group_index": 14,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 301,
+    "special_price_group": 3,
+    "special_price_group_index": 1,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 302,
+    "special_price_group": 3,
+    "special_price_group_index": 2,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 303,
+    "special_price_group": 3,
+    "special_price_group_index": 3,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 304,
+    "special_price_group": 3,
+    "special_price_group_index": 4,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 305,
+    "special_price_group": 3,
+    "special_price_group_index": 5,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 306,
+    "special_price_group": 3,
+    "special_price_group_index": 6,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 307,
+    "special_price_group": 3,
+    "special_price_group_index": 7,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 308,
+    "special_price_group": 3,
+    "special_price_group_index": 8,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 309,
+    "special_price_group": 3,
+    "special_price_group_index": 9,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 310,
+    "special_price_group": 3,
+    "special_price_group_index": 10,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 311,
+    "special_price_group": 3,
+    "special_price_group_index": 11,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 312,
+    "special_price_group": 3,
+    "special_price_group_index": 12,
+    "special_price_package_id": 60007
+  },
+  {
+    "id": 313,
+    "special_price_group": 3,
+    "special_price_group_index": 13,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 314,
+    "special_price_group": 3,
+    "special_price_group_index": 14,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 401,
+    "special_price_group": 4,
+    "special_price_group_index": 1,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 402,
+    "special_price_group": 4,
+    "special_price_group_index": 2,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 403,
+    "special_price_group": 4,
+    "special_price_group_index": 3,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 404,
+    "special_price_group": 4,
+    "special_price_group_index": 4,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 405,
+    "special_price_group": 4,
+    "special_price_group_index": 5,
+    "special_price_package_id": 60008
+  },
+  {
+    "id": 406,
+    "special_price_group": 4,
+    "special_price_group_index": 6,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 407,
+    "special_price_group": 4,
+    "special_price_group_index": 7,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 408,
+    "special_price_group": 4,
+    "special_price_group_index": 8,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 409,
+    "special_price_group": 4,
+    "special_price_group_index": 9,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 410,
+    "special_price_group": 4,
+    "special_price_group_index": 10,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 411,
+    "special_price_group": 4,
+    "special_price_group_index": 11,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 412,
+    "special_price_group": 4,
+    "special_price_group_index": 12,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 413,
+    "special_price_group": 4,
+    "special_price_group_index": 13,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 414,
+    "special_price_group": 4,
+    "special_price_group_index": 14,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 501,
+    "special_price_group": 5,
+    "special_price_group_index": 1,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 502,
+    "special_price_group": 5,
+    "special_price_group_index": 2,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 503,
+    "special_price_group": 5,
+    "special_price_group_index": 3,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 504,
+    "special_price_group": 5,
+    "special_price_group_index": 4,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 505,
+    "special_price_group": 5,
+    "special_price_group_index": 5,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 506,
+    "special_price_group": 5,
+    "special_price_group_index": 6,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 507,
+    "special_price_group": 5,
+    "special_price_group_index": 7,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 508,
+    "special_price_group": 5,
+    "special_price_group_index": 8,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 509,
+    "special_price_group": 5,
+    "special_price_group_index": 9,
+    "special_price_package_id": 60008
+  },
+  {
+    "id": 510,
+    "special_price_group": 5,
+    "special_price_group_index": 10,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 511,
+    "special_price_group": 5,
+    "special_price_group_index": 11,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 512,
+    "special_price_group": 5,
+    "special_price_group_index": 12,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 513,
+    "special_price_group": 5,
+    "special_price_group_index": 13,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 514,
+    "special_price_group": 5,
+    "special_price_group_index": 14,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 601,
+    "special_price_group": 6,
+    "special_price_group_index": 1,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 602,
+    "special_price_group": 6,
+    "special_price_group_index": 2,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 603,
+    "special_price_group": 6,
+    "special_price_group_index": 3,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 604,
+    "special_price_group": 6,
+    "special_price_group_index": 4,
+    "special_price_package_id": 60001
+  },
+  {
+    "id": 605,
+    "special_price_group": 6,
+    "special_price_group_index": 5,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 606,
+    "special_price_group": 6,
+    "special_price_group_index": 6,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 607,
+    "special_price_group": 6,
+    "special_price_group_index": 7,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 608,
+    "special_price_group": 5,
+    "special_price_group_index": 8,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 609,
+    "special_price_group": 6,
+    "special_price_group_index": 9,
+    "special_price_package_id": 60003
+  },
+  {
+    "id": 610,
+    "special_price_group": 6,
+    "special_price_group_index": 10,
+    "special_price_package_id": 60004
+  },
+  {
+    "id": 611,
+    "special_price_group": 6,
+    "special_price_group_index": 11,
+    "special_price_package_id": 60006
+  },
+  {
+    "id": 612,
+    "special_price_group": 6,
+    "special_price_group_index": 12,
+    "special_price_package_id": 60005
+  },
+  {
+    "id": 613,
+    "special_price_group": 6,
+    "special_price_group_index": 13,
+    "special_price_package_id": 60008
+  },
+  {
+    "id": 614,
+    "special_price_group": 6,
+    "special_price_group_index": 14,
+    "special_price_package_id": 60001
+  }
+]
