@@ -7546,7 +7546,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_A_sky_outro/Character",
     "resource_loading_scene": "loading_2D_character_prisoners_bellion_UR_01",
     "loading_title": "17354",
-    "loading_desc": "38645",
+    "loading_desc": "38644",
     "loading_hero": 1735001
   },
   {
@@ -7556,7 +7556,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_11/Character",
     "resource_loading_scene": "loading_2D_character_estarossa_UR_01",
     "loading_title": "17345",
-    "loading_desc": "39875",
+    "loading_desc": "39874",
     "loading_hero": 1585001
   },
   {
@@ -7566,7 +7566,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_11/Character",
     "resource_loading_scene": "loading_2D_character_estarossa_UR_02",
     "loading_title": "17346",
-    "loading_desc": "39876",
+    "loading_desc": "39875",
     "loading_hero": 1585002
   },
   {
@@ -7576,7 +7576,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_E_Valentine/Character",
     "resource_loading_scene": "loading_2D_character_elaine_valentine_UR_01",
     "loading_title": "17323",
-    "loading_desc": "42592",
+    "loading_desc": "42591",
     "loading_hero": 1385002
   },
   {
@@ -7586,7 +7586,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_E_Valentine/Character",
     "resource_loading_scene": "loading_2D_character_jenna_valentine_UR_01",
     "loading_title": "17337",
-    "loading_desc": "42596",
+    "loading_desc": "42595",
     "loading_hero": 1485001
   },
   {
@@ -7596,7 +7596,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_E_Valentine/Character",
     "resource_loading_scene": "loading_2D_character_zaneri_valentine_UR_01",
     "loading_title": "17338",
-    "loading_desc": "42597",
+    "loading_desc": "42596",
     "loading_hero": 1495001
   },
   {
@@ -7606,7 +7606,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_derieri_UR_01",
     "loading_title": "17344",
-    "loading_desc": "42604",
+    "loading_desc": "42603",
     "loading_hero": 1575001
   },
   {
@@ -7615,8 +7615,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_arthur_UR_03",
-    "loading_title": "39860",
-    "loading_desc": "42594",
+    "loading_title": "39859",
+    "loading_desc": "42593",
     "loading_hero": 1405002
   },
   {
@@ -7635,8 +7635,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_eastin_UR_01",
-    "loading_title": "44072",
-    "loading_desc": "42607",
+    "loading_title": "44071",
+    "loading_desc": "42606",
     "loading_hero": 1675001
   },
   {
@@ -7645,8 +7645,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_derieri_UR_02",
-    "loading_title": "44071",
-    "loading_desc": "42605",
+    "loading_title": "44070",
+    "loading_desc": "42604",
     "loading_hero": 1575002
   },
   {
@@ -7655,8 +7655,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_melascula_UR_02",
-    "loading_title": "44066",
-    "loading_desc": "42599",
+    "loading_title": "44065",
+    "loading_desc": "42598",
     "loading_hero": 1515002
   },
   {
@@ -7665,8 +7665,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_galand_UR_02",
-    "loading_title": "40640",
-    "loading_desc": "42598",
+    "loading_title": "40639",
+    "loading_desc": "42597",
     "loading_hero": 1505002
   },
   {
@@ -7675,8 +7675,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_mono_UR_01",
-    "loading_title": "44073",
-    "loading_desc": "42608",
+    "loading_title": "44072",
+    "loading_desc": "42607",
     "loading_hero": 1685001
   },
   {
@@ -7685,8 +7685,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_meliodas_lostvayne_UR_01",
-    "loading_title": "44064",
-    "loading_desc": "42593",
+    "loading_title": "44063",
+    "loading_desc": "42592",
     "loading_hero": 1395001
   },
   {
@@ -7695,8 +7695,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_dreyfus_demon_UR_01",
-    "loading_title": "44069",
-    "loading_desc": "42602",
+    "loading_title": "44068",
+    "loading_desc": "42601",
     "loading_hero": 1555001
   },
   {
@@ -7705,8 +7705,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_dreyfus_demon_UR_02",
-    "loading_title": "44070",
-    "loading_desc": "42603",
+    "loading_title": "44069",
+    "loading_desc": "42602",
     "loading_hero": 1555002
   },
   {
@@ -7715,8 +7715,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_gloxinia_UR_02",
-    "loading_title": "44068",
-    "loading_desc": "42601",
+    "loading_title": "44067",
+    "loading_desc": "42600",
     "loading_hero": 1535002
   },
   {
@@ -7725,8 +7725,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_monspeet_UR_02",
-    "loading_title": "44067",
-    "loading_desc": "42600",
+    "loading_title": "44066",
+    "loading_desc": "42599",
     "loading_hero": 1525002
   },
   {
@@ -7735,8 +7735,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_helbram_UR_01",
-    "loading_title": "44077",
-    "loading_desc": "42612",
+    "loading_title": "44076",
+    "loading_desc": "42611",
     "loading_hero": 1755001
   },
   {
@@ -7745,8 +7745,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E_school/Character",
     "resource_loading_scene": "loading_2D_character_disaster_roxy_UR_01",
-    "loading_title": "44074",
-    "loading_desc": "42609",
+    "loading_title": "44073",
+    "loading_desc": "42608",
     "loading_hero": 1695001
   },
   {
@@ -7755,8 +7755,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E_school/Character",
     "resource_loading_scene": "loading_2D_character_zaratras_UR_01",
-    "loading_title": "44076",
-    "loading_desc": "42611",
+    "loading_title": "44075",
+    "loading_desc": "42610",
     "loading_hero": 1745001
   },
   {
@@ -7766,7 +7766,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_12_Second/Character",
     "resource_loading_scene": "loading_2D_character_zeldris_UR_01",
     "loading_title": "17347",
-    "loading_desc": "42606",
+    "loading_desc": "42605",
     "loading_hero": 1595001
   },
   {
@@ -7775,8 +7775,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_Second/Character",
     "resource_loading_scene": "loading_2D_character_disaster_shin_UR_01",
-    "loading_title": "44075",
-    "loading_desc": "42610",
+    "loading_title": "44074",
+    "loading_desc": "42609",
     "loading_hero": 1705001
   },
   {
@@ -7785,8 +7785,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_Second/Character",
     "resource_loading_scene": "loading_2D_character_matrona_UR_01",
-    "loading_title": "44065",
-    "loading_desc": "42595",
+    "loading_title": "44064",
+    "loading_desc": "42594",
     "loading_hero": 1415001
   },
   {
@@ -7815,8 +7815,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_13/Character",
     "resource_loading_scene": "loading_2D_character_zeldris_UR_02",
-    "loading_title": "46719",
-    "loading_desc": "47157",
+    "loading_title": "46718",
+    "loading_desc": "47156",
     "loading_hero": 1595002
   },
   {
@@ -8786,7 +8786,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_A_sky_outro/Character",
     "resource_loading_scene": "loading_2D_character_prisoners_bellion_UR_01",
     "loading_title": "17354",
-    "loading_desc": "38645",
+    "loading_desc": "38644",
     "loading_hero": 1735001
   },
   {
@@ -8796,7 +8796,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_11/Character",
     "resource_loading_scene": "loading_2D_character_estarossa_UR_01",
     "loading_title": "17345",
-    "loading_desc": "39875",
+    "loading_desc": "39874",
     "loading_hero": 1585001
   },
   {
@@ -8806,7 +8806,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_11/Character",
     "resource_loading_scene": "loading_2D_character_estarossa_UR_02",
     "loading_title": "17346",
-    "loading_desc": "39876",
+    "loading_desc": "39875",
     "loading_hero": 1585002
   },
   {
@@ -8816,7 +8816,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_E_Valentine/Character",
     "resource_loading_scene": "loading_2D_character_elaine_valentine_UR_01",
     "loading_title": "17323",
-    "loading_desc": "42592",
+    "loading_desc": "42591",
     "loading_hero": 1385002
   },
   {
@@ -8826,7 +8826,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_E_Valentine/Character",
     "resource_loading_scene": "loading_2D_character_jenna_valentine_UR_01",
     "loading_title": "17337",
-    "loading_desc": "42596",
+    "loading_desc": "42595",
     "loading_hero": 1485001
   },
   {
@@ -8836,7 +8836,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_E_Valentine/Character",
     "resource_loading_scene": "loading_2D_character_zaneri_valentine_UR_01",
     "loading_title": "17338",
-    "loading_desc": "42597",
+    "loading_desc": "42596",
     "loading_hero": 1495001
   },
   {
@@ -8846,7 +8846,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_derieri_UR_01",
     "loading_title": "17344",
-    "loading_desc": "42604",
+    "loading_desc": "42603",
     "loading_hero": 1575001
   },
   {
@@ -8855,8 +8855,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_arthur_UR_03",
-    "loading_title": "39860",
-    "loading_desc": "42594",
+    "loading_title": "39859",
+    "loading_desc": "42593",
     "loading_hero": 1405002
   },
   {
@@ -8875,8 +8875,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_eastin_UR_01",
-    "loading_title": "44072",
-    "loading_desc": "42607",
+    "loading_title": "44071",
+    "loading_desc": "42606",
     "loading_hero": 1675001
   },
   {
@@ -8885,8 +8885,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_derieri_UR_02",
-    "loading_title": "44071",
-    "loading_desc": "42605",
+    "loading_title": "44070",
+    "loading_desc": "42604",
     "loading_hero": 1575002
   },
   {
@@ -8895,8 +8895,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_melascula_UR_02",
-    "loading_title": "44066",
-    "loading_desc": "42599",
+    "loading_title": "44065",
+    "loading_desc": "42598",
     "loading_hero": 1515002
   },
   {
@@ -8905,8 +8905,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_galand_UR_02",
-    "loading_title": "40640",
-    "loading_desc": "42598",
+    "loading_title": "40639",
+    "loading_desc": "42597",
     "loading_hero": 1505002
   },
   {
@@ -8915,8 +8915,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12/Character",
     "resource_loading_scene": "loading_2D_character_mono_UR_01",
-    "loading_title": "44073",
-    "loading_desc": "42608",
+    "loading_title": "44072",
+    "loading_desc": "42607",
     "loading_hero": 1685001
   },
   {
@@ -8925,8 +8925,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_meliodas_lostvayne_UR_01",
-    "loading_title": "44064",
-    "loading_desc": "42593",
+    "loading_title": "44063",
+    "loading_desc": "42592",
     "loading_hero": 1395001
   },
   {
@@ -8935,8 +8935,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_dreyfus_demon_UR_01",
-    "loading_title": "44069",
-    "loading_desc": "42602",
+    "loading_title": "44068",
+    "loading_desc": "42601",
     "loading_hero": 1555001
   },
   {
@@ -8945,8 +8945,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_dreyfus_demon_UR_02",
-    "loading_title": "44070",
-    "loading_desc": "42603",
+    "loading_title": "44069",
+    "loading_desc": "42602",
     "loading_hero": 1555002
   },
   {
@@ -8955,8 +8955,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_gloxinia_UR_02",
-    "loading_title": "44068",
-    "loading_desc": "42601",
+    "loading_title": "44067",
+    "loading_desc": "42600",
     "loading_hero": 1535002
   },
   {
@@ -8965,8 +8965,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_monspeet_UR_02",
-    "loading_title": "44067",
-    "loading_desc": "42600",
+    "loading_title": "44066",
+    "loading_desc": "42599",
     "loading_hero": 1525002
   },
   {
@@ -8975,8 +8975,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E/Character",
     "resource_loading_scene": "loading_2D_character_helbram_UR_01",
-    "loading_title": "44077",
-    "loading_desc": "42612",
+    "loading_title": "44076",
+    "loading_desc": "42611",
     "loading_hero": 1755001
   },
   {
@@ -8985,8 +8985,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E_school/Character",
     "resource_loading_scene": "loading_2D_character_disaster_roxy_UR_01",
-    "loading_title": "44074",
-    "loading_desc": "42609",
+    "loading_title": "44073",
+    "loading_desc": "42608",
     "loading_hero": 1695001
   },
   {
@@ -8995,8 +8995,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_E_school/Character",
     "resource_loading_scene": "loading_2D_character_zaratras_UR_01",
-    "loading_title": "44076",
-    "loading_desc": "42611",
+    "loading_title": "44075",
+    "loading_desc": "42610",
     "loading_hero": 1745001
   },
   {
@@ -9006,7 +9006,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_12_Second/Character",
     "resource_loading_scene": "loading_2D_character_zeldris_UR_01",
     "loading_title": "17347",
-    "loading_desc": "42606",
+    "loading_desc": "42605",
     "loading_hero": 1595001
   },
   {
@@ -9015,8 +9015,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_Second/Character",
     "resource_loading_scene": "loading_2D_character_disaster_shin_UR_01",
-    "loading_title": "44075",
-    "loading_desc": "42610",
+    "loading_title": "44074",
+    "loading_desc": "42609",
     "loading_hero": 1705001
   },
   {
@@ -9025,8 +9025,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_12_Second/Character",
     "resource_loading_scene": "loading_2D_character_matrona_UR_01",
-    "loading_title": "44065",
-    "loading_desc": "42595",
+    "loading_title": "44064",
+    "loading_desc": "42594",
     "loading_hero": 1415001
   },
   {
@@ -9055,8 +9055,8 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_13/Character",
     "resource_loading_scene": "loading_2D_character_zeldris_UR_02",
-    "loading_title": "46719",
-    "loading_desc": "47157",
+    "loading_title": "46718",
+    "loading_desc": "47156",
     "loading_hero": 1595002
   },
   {

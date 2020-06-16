@@ -6,9 +6,9 @@
     "mission_type_value": 0,
     "mission_target_value": 30,
     "target_progress_type": 0,
-    "reward_title": "41465",
-    "title_desc": "41551",
-    "title_hint": "41652"
+    "reward_title": "41464",
+    "title_desc": "41550",
+    "title_hint": "41651"
   },
   {
     "id": 49,
@@ -17,9 +17,9 @@
     "mission_type_value": 0,
     "mission_target_value": 300,
     "target_progress_type": 0,
-    "reward_title": "41466",
-    "title_desc": "41552",
-    "title_hint": "41653"
+    "reward_title": "41465",
+    "title_desc": "41551",
+    "title_hint": "41652"
   },
   {
     "id": 50,
@@ -28,9 +28,9 @@
     "mission_type_value": 0,
     "mission_target_value": 30,
     "target_progress_type": 0,
-    "reward_title": "41467",
-    "title_desc": "41553",
-    "title_hint": "41654"
+    "reward_title": "41466",
+    "title_desc": "41552",
+    "title_hint": "41653"
   },
   {
     "id": 51,
@@ -39,9 +39,9 @@
     "mission_type_value": 0,
     "mission_target_value": 5,
     "target_progress_type": 0,
-    "reward_title": "41468",
-    "title_desc": "41554",
-    "title_hint": "41655"
+    "reward_title": "41467",
+    "title_desc": "41553",
+    "title_hint": "41654"
   },
   {
     "id": 74,
@@ -50,9 +50,9 @@
     "mission_type_value": 0,
     "mission_target_value": 50,
     "target_progress_type": 0,
-    "reward_title": "41491",
-    "title_desc": "41577",
-    "title_hint": "41678"
+    "reward_title": "41490",
+    "title_desc": "41576",
+    "title_hint": "41677"
   },
   {
     "id": 75,
@@ -61,9 +61,9 @@
     "mission_type_value": 0,
     "mission_target_value": 30,
     "target_progress_type": 0,
-    "reward_title": "41492",
-    "title_desc": "41578",
-    "title_hint": "41679"
+    "reward_title": "41491",
+    "title_desc": "41577",
+    "title_hint": "41678"
   },
   {
     "id": 76,
@@ -72,9 +72,9 @@
     "mission_type_value": 0,
     "mission_target_value": 30,
     "target_progress_type": 0,
-    "reward_title": "41493",
-    "title_desc": "41579",
-    "title_hint": "41680"
+    "reward_title": "41492",
+    "title_desc": "41578",
+    "title_hint": "41679"
   },
   {
     "id": 77,
@@ -83,9 +83,9 @@
     "mission_type_value": 0,
     "mission_target_value": 30,
     "target_progress_type": 0,
-    "reward_title": "41494",
-    "title_desc": "41580",
-    "title_hint": "41681"
+    "reward_title": "41493",
+    "title_desc": "41579",
+    "title_hint": "41680"
   },
   {
     "id": 78,
@@ -94,9 +94,9 @@
     "mission_type_value": 0,
     "mission_target_value": 30,
     "target_progress_type": 0,
-    "reward_title": "41495",
-    "title_desc": "41581",
-    "title_hint": "41682"
+    "reward_title": "41494",
+    "title_desc": "41580",
+    "title_hint": "41681"
   },
   {
     "id": 79,
@@ -105,9 +105,9 @@
     "mission_type_value": 0,
     "mission_target_value": 30,
     "target_progress_type": 0,
-    "reward_title": "41496",
-    "title_desc": "41582",
-    "title_hint": "41683"
+    "reward_title": "41495",
+    "title_desc": "41581",
+    "title_hint": "41682"
   },
   {
     "id": 80,
@@ -116,9 +116,9 @@
     "mission_type_value": 0,
     "mission_target_value": 30,
     "target_progress_type": 0,
-    "reward_title": "41497",
-    "title_desc": "41583",
-    "title_hint": "41684"
+    "reward_title": "41496",
+    "title_desc": "41582",
+    "title_hint": "41683"
   },
   {
     "id": 81,
@@ -127,9 +127,9 @@
     "mission_type_value": 0,
     "mission_target_value": 10,
     "target_progress_type": 0,
-    "reward_title": "41498",
-    "title_desc": "41584",
-    "title_hint": "41685"
+    "reward_title": "41497",
+    "title_desc": "41583",
+    "title_hint": "41684"
   },
   {
     "id": 82,
@@ -138,9 +138,9 @@
     "mission_type_value": 0,
     "mission_target_value": 5,
     "target_progress_type": 0,
-    "reward_title": "41499",
-    "title_desc": "41585",
-    "title_hint": "41686"
+    "reward_title": "41498",
+    "title_desc": "41584",
+    "title_hint": "41685"
   },
   {
     "id": 83,
@@ -149,9 +149,9 @@
     "mission_type_value": 0,
     "mission_target_value": 50,
     "target_progress_type": 0,
-    "reward_title": "41500",
-    "title_desc": "41586",
-    "title_hint": "41687"
+    "reward_title": "41499",
+    "title_desc": "41585",
+    "title_hint": "41686"
   },
   {
     "id": 84,
@@ -160,9 +160,75 @@
     "mission_type_value": 0,
     "mission_target_value": 30,
     "target_progress_type": 0,
-    "reward_title": "41501",
-    "title_desc": "41587",
-    "title_hint": "41688"
+    "reward_title": "41500",
+    "title_desc": "41586",
+    "title_hint": "41687"
+  },
+  {
+    "id": 91,
+    "category": 20,
+    "mission_type": "Stage_Boss_Lose",
+    "mission_type_value": 0,
+    "mission_target_value": 10,
+    "target_progress_type": 0,
+    "reward_title": "41507",
+    "title_desc": "41593",
+    "title_hint": "41694"
+  },
+  {
+    "id": 92,
+    "category": 20,
+    "mission_type": "Stage_Free_Lose",
+    "mission_type_value": 0,
+    "mission_target_value": 10,
+    "target_progress_type": 0,
+    "reward_title": "41508",
+    "title_desc": "41594",
+    "title_hint": "41695"
+  },
+  {
+    "id": 93,
+    "category": 20,
+    "mission_type": "Stage_Destroy_Lose",
+    "mission_type_value": 0,
+    "mission_target_value": 10,
+    "target_progress_type": 0,
+    "reward_title": "41509",
+    "title_desc": "41595",
+    "title_hint": "41696"
+  },
+  {
+    "id": 94,
+    "category": 20,
+    "mission_type": "FinalBoss_Lose",
+    "mission_type_value": 0,
+    "mission_target_value": 10,
+    "target_progress_type": 0,
+    "reward_title": "41510",
+    "title_desc": "41596",
+    "title_hint": "41697"
+  },
+  {
+    "id": 95,
+    "category": 20,
+    "mission_type": "Stage_Low_PVP_Lose",
+    "mission_type_value": 0,
+    "mission_target_value": 30,
+    "target_progress_type": 0,
+    "reward_title": "41511",
+    "title_desc": "41597",
+    "title_hint": "41698"
+  },
+  {
+    "id": 96,
+    "category": 20,
+    "mission_type": "Stage_PVP_Lose",
+    "mission_type_value": 0,
+    "mission_target_value": 30,
+    "target_progress_type": 0,
+    "reward_title": "41512",
+    "title_desc": "41598",
+    "title_hint": "41699"
   },
   {
     "id": 103,
@@ -171,9 +237,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1000,
     "target_progress_type": 0,
-    "reward_title": "41429",
-    "title_desc": "41521",
-    "title_hint": "41609"
+    "reward_title": "41428",
+    "title_desc": "41520",
+    "title_hint": "41608"
   },
   {
     "id": 104,
@@ -182,9 +248,9 @@
     "mission_type_value": 0,
     "mission_target_value": 200,
     "target_progress_type": 0,
-    "reward_title": "41430",
-    "title_desc": "41522",
-    "title_hint": "41610"
+    "reward_title": "41429",
+    "title_desc": "41521",
+    "title_hint": "41609"
   },
   {
     "id": 105,
@@ -193,9 +259,9 @@
     "mission_type_value": 0,
     "mission_target_value": 500,
     "target_progress_type": 0,
-    "reward_title": "41431",
-    "title_desc": "41523",
-    "title_hint": "41611"
+    "reward_title": "41430",
+    "title_desc": "41522",
+    "title_hint": "41610"
   },
   {
     "id": 106,
@@ -204,9 +270,9 @@
     "mission_type_value": 0,
     "mission_target_value": 50,
     "target_progress_type": 0,
-    "reward_title": "41432",
-    "title_desc": "41524",
-    "title_hint": "41612"
+    "reward_title": "41431",
+    "title_desc": "41523",
+    "title_hint": "41611"
   },
   {
     "id": 107,
@@ -215,9 +281,9 @@
     "mission_type_value": 0,
     "mission_target_value": 50,
     "target_progress_type": 0,
-    "reward_title": "41433",
-    "title_desc": "41525",
-    "title_hint": "41613"
+    "reward_title": "41432",
+    "title_desc": "41524",
+    "title_hint": "41612"
   },
   {
     "id": 108,
@@ -226,9 +292,9 @@
     "mission_type_value": 0,
     "mission_target_value": 5000,
     "target_progress_type": 0,
-    "reward_title": "41434",
-    "title_desc": "41526",
-    "title_hint": "41614"
+    "reward_title": "41433",
+    "title_desc": "41525",
+    "title_hint": "41613"
   },
   {
     "id": 109,
@@ -237,9 +303,9 @@
     "mission_type_value": 0,
     "mission_target_value": 3000,
     "target_progress_type": 0,
-    "reward_title": "41435",
-    "title_desc": "41527",
-    "title_hint": "41615"
+    "reward_title": "41434",
+    "title_desc": "41526",
+    "title_hint": "41614"
   },
   {
     "id": 110,
@@ -248,9 +314,9 @@
     "mission_type_value": 0,
     "mission_target_value": 30000,
     "target_progress_type": 0,
-    "reward_title": "41436",
-    "title_desc": "41528",
-    "title_hint": "41617"
+    "reward_title": "41435",
+    "title_desc": "41527",
+    "title_hint": "41616"
   },
   {
     "id": 112,
@@ -259,9 +325,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1,
     "target_progress_type": 0,
-    "reward_title": "41438",
-    "title_desc": "41530",
-    "title_hint": "41619"
+    "reward_title": "41437",
+    "title_desc": "41529",
+    "title_hint": "41618"
   },
   {
     "id": 114,
@@ -270,9 +336,9 @@
     "mission_type_value": 0,
     "mission_target_value": 3,
     "target_progress_type": 1,
-    "reward_title": "41440",
-    "title_desc": "41532",
-    "title_hint": "41621"
+    "reward_title": "41439",
+    "title_desc": "41531",
+    "title_hint": "41620"
   },
   {
     "id": 115,
@@ -281,9 +347,9 @@
     "mission_type_value": 0,
     "mission_target_value": 5,
     "target_progress_type": 0,
-    "reward_title": "41441",
-    "title_desc": "41533",
-    "title_hint": "41622"
+    "reward_title": "41440",
+    "title_desc": "41532",
+    "title_hint": "41621"
   },
   {
     "id": 116,
@@ -292,9 +358,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1,
     "target_progress_type": 0,
-    "reward_title": "41442",
-    "title_desc": "41534",
-    "title_hint": "41623"
+    "reward_title": "41441",
+    "title_desc": "41533",
+    "title_hint": "41622"
   },
   {
     "id": 117,
@@ -303,9 +369,9 @@
     "mission_type_value": 0,
     "mission_target_value": 10,
     "target_progress_type": 0,
-    "reward_title": "41443",
-    "title_desc": "41535",
-    "title_hint": "41624"
+    "reward_title": "41442",
+    "title_desc": "41534",
+    "title_hint": "41623"
   },
   {
     "id": 118,
@@ -314,9 +380,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1,
     "target_progress_type": 0,
-    "reward_title": "41444",
-    "title_desc": "41536",
-    "title_hint": "41625"
+    "reward_title": "41443",
+    "title_desc": "41535",
+    "title_hint": "41624"
   },
   {
     "id": 119,
@@ -325,9 +391,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1,
     "target_progress_type": 0,
-    "reward_title": "41445",
-    "title_desc": "41537",
-    "title_hint": "41626"
+    "reward_title": "41444",
+    "title_desc": "41536",
+    "title_hint": "41625"
   },
   {
     "id": 120,
@@ -336,9 +402,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1,
     "target_progress_type": 0,
-    "reward_title": "41446",
-    "title_desc": "41538",
-    "title_hint": "41628"
+    "reward_title": "41445",
+    "title_desc": "41537",
+    "title_hint": "41627"
   },
   {
     "id": 121,
@@ -347,9 +413,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1,
     "target_progress_type": 0,
-    "reward_title": "41447",
-    "title_desc": "41539",
-    "title_hint": "41629"
+    "reward_title": "41446",
+    "title_desc": "41538",
+    "title_hint": "41628"
   },
   {
     "id": 123,
@@ -358,9 +424,9 @@
     "mission_type_value": 0,
     "mission_target_value": 500000,
     "target_progress_type": 0,
-    "reward_title": "41449",
-    "title_desc": "41541",
-    "title_hint": "41631"
+    "reward_title": "41448",
+    "title_desc": "41540",
+    "title_hint": "41630"
   },
   {
     "id": 124,
@@ -369,9 +435,9 @@
     "mission_type_value": 0,
     "mission_target_value": 750000,
     "target_progress_type": 0,
-    "reward_title": "41449",
-    "title_desc": "41541",
-    "title_hint": "41631"
+    "reward_title": "41448",
+    "title_desc": "41540",
+    "title_hint": "41630"
   },
   {
     "id": 125,
@@ -380,9 +446,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1000000,
     "target_progress_type": 0,
-    "reward_title": "41449",
-    "title_desc": "41541",
-    "title_hint": "41631"
+    "reward_title": "41448",
+    "title_desc": "41540",
+    "title_hint": "41630"
   },
   {
     "id": 126,
@@ -391,9 +457,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1250000,
     "target_progress_type": 0,
-    "reward_title": "41449",
-    "title_desc": "41541",
-    "title_hint": "41631"
+    "reward_title": "41448",
+    "title_desc": "41540",
+    "title_hint": "41630"
   },
   {
     "id": 127,
@@ -402,9 +468,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1500000,
     "target_progress_type": 0,
-    "reward_title": "41449",
-    "title_desc": "41541",
-    "title_hint": "41631"
+    "reward_title": "41448",
+    "title_desc": "41540",
+    "title_hint": "41630"
   },
   {
     "id": 128,
@@ -413,9 +479,9 @@
     "mission_type_value": 0,
     "mission_target_value": 1750000,
     "target_progress_type": 0,
-    "reward_title": "41449",
-    "title_desc": "41541",
-    "title_hint": "41631"
+    "reward_title": "41448",
+    "title_desc": "41540",
+    "title_hint": "41630"
   },
   {
     "id": 129,
@@ -424,8 +490,8 @@
     "mission_type_value": 0,
     "mission_target_value": 2000000,
     "target_progress_type": 0,
-    "reward_title": "41449",
-    "title_desc": "41541",
-    "title_hint": "41631"
+    "reward_title": "41448",
+    "title_desc": "41540",
+    "title_hint": "41630"
   }
 ]

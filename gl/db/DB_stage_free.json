@@ -26602,7 +26602,7 @@
   {
     "id": 90009001,
     "type": "event_stage_free",
-    "stage_string": "31172",
+    "stage_string": "31171",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2006,
@@ -26777,7 +26777,7 @@
   {
     "id": 90009002,
     "type": "event_stage_free",
-    "stage_string": "31173",
+    "stage_string": "31172",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2006,
@@ -26952,7 +26952,7 @@
   {
     "id": 90009003,
     "type": "event_stage_free",
-    "stage_string": "31174",
+    "stage_string": "31173",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2006,
@@ -27127,7 +27127,7 @@
   {
     "id": 90010001,
     "type": "event_stage_free",
-    "stage_string": "31175",
+    "stage_string": "31174",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2007,
@@ -27302,7 +27302,7 @@
   {
     "id": 90010002,
     "type": "event_stage_free",
-    "stage_string": "31176",
+    "stage_string": "31175",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2007,
@@ -27477,7 +27477,7 @@
   {
     "id": 90010003,
     "type": "event_stage_free",
-    "stage_string": "31177",
+    "stage_string": "31176",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2007,
@@ -30802,7 +30802,7 @@
   {
     "id": 90010004,
     "type": "event_stage_free",
-    "stage_string": "31175",
+    "stage_string": "31174",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2014,
@@ -30977,7 +30977,7 @@
   {
     "id": 90010005,
     "type": "event_stage_free",
-    "stage_string": "31176",
+    "stage_string": "31175",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2014,
@@ -31152,7 +31152,7 @@
   {
     "id": 90010006,
     "type": "event_stage_free",
-    "stage_string": "31177",
+    "stage_string": "31176",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2014,
@@ -31327,7 +31327,7 @@
   {
     "id": 90010007,
     "type": "event_stage_free",
-    "stage_string": "31175",
+    "stage_string": "31174",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2015,
@@ -31502,7 +31502,7 @@
   {
     "id": 90010008,
     "type": "event_stage_free",
-    "stage_string": "31176",
+    "stage_string": "31175",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2015,
@@ -31677,7 +31677,7 @@
   {
     "id": 90010009,
     "type": "event_stage_free",
-    "stage_string": "31177",
+    "stage_string": "31176",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2015,
@@ -33952,7 +33952,7 @@
   {
     "id": 90009004,
     "type": "event_stage_free",
-    "stage_string": "31172",
+    "stage_string": "31171",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2020,
@@ -34127,7 +34127,7 @@
   {
     "id": 90009005,
     "type": "event_stage_free",
-    "stage_string": "31173",
+    "stage_string": "31172",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2020,
@@ -34302,7 +34302,7 @@
   {
     "id": 90009006,
     "type": "event_stage_free",
-    "stage_string": "31174",
+    "stage_string": "31173",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2020,
@@ -34477,7 +34477,7 @@
   {
     "id": 90009007,
     "type": "event_stage_free",
-    "stage_string": "31172",
+    "stage_string": "31171",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2021,
@@ -34652,7 +34652,7 @@
   {
     "id": 90009008,
     "type": "event_stage_free",
-    "stage_string": "31173",
+    "stage_string": "31172",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2021,
@@ -34827,7 +34827,7 @@
   {
     "id": 90009009,
     "type": "event_stage_free",
-    "stage_string": "31174",
+    "stage_string": "31173",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2021,
@@ -42877,7 +42877,7 @@
   {
     "id": 90033001,
     "type": "event_stage_free",
-    "stage_string": "40455",
+    "stage_string": "40454",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9519,
@@ -43052,7 +43052,7 @@
   {
     "id": 90033002,
     "type": "event_stage_free",
-    "stage_string": "40456",
+    "stage_string": "40455",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9519,
@@ -43227,7 +43227,7 @@
   {
     "id": 90033003,
     "type": "event_stage_free",
-    "stage_string": "40457",
+    "stage_string": "40456",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9519,
@@ -43402,7 +43402,7 @@
   {
     "id": 90033004,
     "type": "event_stage_free",
-    "stage_string": "40458",
+    "stage_string": "40457",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9519,
@@ -43577,7 +43577,7 @@
   {
     "id": 90034001,
     "type": "event_stage_free",
-    "stage_string": "40463",
+    "stage_string": "40462",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9520,
@@ -43752,7 +43752,7 @@
   {
     "id": 90034002,
     "type": "event_stage_free",
-    "stage_string": "40464",
+    "stage_string": "40463",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9520,
@@ -43927,7 +43927,7 @@
   {
     "id": 90034003,
     "type": "event_stage_free",
-    "stage_string": "40465",
+    "stage_string": "40464",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9520,
@@ -44102,7 +44102,7 @@
   {
     "id": 90034004,
     "type": "event_stage_free",
-    "stage_string": "40466",
+    "stage_string": "40465",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9520,
@@ -44277,7 +44277,7 @@
   {
     "id": 90035001,
     "type": "event_stage_free",
-    "stage_string": "40471",
+    "stage_string": "40470",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9521,
@@ -44452,7 +44452,7 @@
   {
     "id": 90035002,
     "type": "event_stage_free",
-    "stage_string": "40472",
+    "stage_string": "40471",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9521,
@@ -44627,7 +44627,7 @@
   {
     "id": 90035003,
     "type": "event_stage_free",
-    "stage_string": "40473",
+    "stage_string": "40472",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9521,
@@ -44802,7 +44802,7 @@
   {
     "id": 90035004,
     "type": "event_stage_free",
-    "stage_string": "40474",
+    "stage_string": "40473",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9521,
@@ -44977,7 +44977,7 @@
   {
     "id": 90036001,
     "type": "event_stage_free",
-    "stage_string": "40479",
+    "stage_string": "40478",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9522,
@@ -45152,7 +45152,7 @@
   {
     "id": 90036002,
     "type": "event_stage_free",
-    "stage_string": "40480",
+    "stage_string": "40479",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9522,
@@ -45327,7 +45327,7 @@
   {
     "id": 90036003,
     "type": "event_stage_free",
-    "stage_string": "40481",
+    "stage_string": "40480",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9522,
@@ -45502,7 +45502,7 @@
   {
     "id": 90037001,
     "type": "event_stage_free",
-    "stage_string": "40485",
+    "stage_string": "40484",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9523,
@@ -45677,7 +45677,7 @@
   {
     "id": 90037002,
     "type": "event_stage_free",
-    "stage_string": "40486",
+    "stage_string": "40485",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9523,
@@ -45852,7 +45852,7 @@
   {
     "id": 90037003,
     "type": "event_stage_free",
-    "stage_string": "40487",
+    "stage_string": "40486",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9523,
@@ -46027,7 +46027,7 @@
   {
     "id": 90038001,
     "type": "event_stage_free",
-    "stage_string": "40491",
+    "stage_string": "40490",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9524,
@@ -46202,7 +46202,7 @@
   {
     "id": 90038002,
     "type": "event_stage_free",
-    "stage_string": "40492",
+    "stage_string": "40491",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9524,
@@ -46377,7 +46377,7 @@
   {
     "id": 90038003,
     "type": "event_stage_free",
-    "stage_string": "40493",
+    "stage_string": "40492",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9524,
@@ -46552,7 +46552,7 @@
   {
     "id": 90039001,
     "type": "event_stage_free",
-    "stage_string": "40497",
+    "stage_string": "40496",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9525,
@@ -46727,7 +46727,7 @@
   {
     "id": 90039002,
     "type": "event_stage_free",
-    "stage_string": "40498",
+    "stage_string": "40497",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9525,
@@ -46902,7 +46902,7 @@
   {
     "id": 90039003,
     "type": "event_stage_free",
-    "stage_string": "40499",
+    "stage_string": "40498",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9525,
@@ -47077,7 +47077,7 @@
   {
     "id": 90040001,
     "type": "event_stage_free",
-    "stage_string": "40503",
+    "stage_string": "40502",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9526,
@@ -47252,7 +47252,7 @@
   {
     "id": 90040002,
     "type": "event_stage_free",
-    "stage_string": "40504",
+    "stage_string": "40503",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9526,
@@ -47427,7 +47427,7 @@
   {
     "id": 90040003,
     "type": "event_stage_free",
-    "stage_string": "40505",
+    "stage_string": "40504",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9526,
@@ -47602,7 +47602,7 @@
   {
     "id": 90040004,
     "type": "event_stage_free",
-    "stage_string": "40506",
+    "stage_string": "40505",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9526,
@@ -47777,7 +47777,7 @@
   {
     "id": 90040005,
     "type": "event_stage_free",
-    "stage_string": "40507",
+    "stage_string": "40506",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9526,
@@ -47952,7 +47952,7 @@
   {
     "id": 90041001,
     "type": "event_stage_free",
-    "stage_string": "40513",
+    "stage_string": "40512",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9527,
@@ -48127,7 +48127,7 @@
   {
     "id": 90041002,
     "type": "event_stage_free",
-    "stage_string": "40514",
+    "stage_string": "40513",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9527,
@@ -48302,7 +48302,7 @@
   {
     "id": 90041003,
     "type": "event_stage_free",
-    "stage_string": "40515",
+    "stage_string": "40514",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9527,
@@ -48477,7 +48477,7 @@
   {
     "id": 90042001,
     "type": "event_stage_free",
-    "stage_string": "40519",
+    "stage_string": "40518",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9528,
@@ -48652,7 +48652,7 @@
   {
     "id": 90042002,
     "type": "event_stage_free",
-    "stage_string": "40520",
+    "stage_string": "40519",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9529,
@@ -48827,7 +48827,7 @@
   {
     "id": 90042003,
     "type": "event_stage_free",
-    "stage_string": "40521",
+    "stage_string": "40520",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9530,
@@ -49002,7 +49002,7 @@
   {
     "id": 90042004,
     "type": "event_stage_free",
-    "stage_string": "40522",
+    "stage_string": "40521",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9531,
@@ -49177,7 +49177,7 @@
   {
     "id": 90042005,
     "type": "event_stage_free",
-    "stage_string": "40523",
+    "stage_string": "40522",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9532,
@@ -51102,7 +51102,7 @@
   {
     "id": 90044001,
     "type": "event_stage_free",
-    "stage_string": "43305",
+    "stage_string": "43304",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9534,
@@ -51277,7 +51277,7 @@
   {
     "id": 90044002,
     "type": "event_stage_free",
-    "stage_string": "43306",
+    "stage_string": "43305",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9534,
@@ -51452,7 +51452,7 @@
   {
     "id": 90044003,
     "type": "event_stage_free",
-    "stage_string": "43307",
+    "stage_string": "43306",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9534,
@@ -51627,7 +51627,7 @@
   {
     "id": 90044004,
     "type": "event_stage_free",
-    "stage_string": "43308",
+    "stage_string": "43307",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9534,
@@ -51802,7 +51802,7 @@
   {
     "id": 90044005,
     "type": "event_stage_free",
-    "stage_string": "43309",
+    "stage_string": "43308",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 9534,
@@ -54602,7 +54602,7 @@
   {
     "id": 93070101,
     "type": "event_world_free",
-    "stage_string": "40535",
+    "stage_string": "40534",
     "essen_hero_setting": 0,
     "control_type": "event_world_free",
     "region": 9307,
@@ -54777,7 +54777,7 @@
   {
     "id": 93070102,
     "type": "event_world_free",
-    "stage_string": "40535",
+    "stage_string": "40534",
     "essen_hero_setting": 0,
     "control_type": "event_world_free",
     "region": 9307,
@@ -54952,7 +54952,7 @@
   {
     "id": 93070103,
     "type": "event_world_free",
-    "stage_string": "40535",
+    "stage_string": "40534",
     "essen_hero_setting": 0,
     "control_type": "event_world_free",
     "region": 9307,
@@ -55127,7 +55127,7 @@
   {
     "id": 93070301,
     "type": "event_world_free",
-    "stage_string": "40540",
+    "stage_string": "40539",
     "essen_hero_setting": 0,
     "control_type": "event_world_free",
     "region": 9307,
@@ -55302,7 +55302,7 @@
   {
     "id": 93070302,
     "type": "event_world_free",
-    "stage_string": "40540",
+    "stage_string": "40539",
     "essen_hero_setting": 0,
     "control_type": "event_world_free",
     "region": 9307,
@@ -55477,7 +55477,7 @@
   {
     "id": 93070303,
     "type": "event_world_free",
-    "stage_string": "40540",
+    "stage_string": "40539",
     "essen_hero_setting": 0,
     "control_type": "event_world_free",
     "region": 9307,
@@ -55652,7 +55652,7 @@
   {
     "id": 93070501,
     "type": "event_world_free",
-    "stage_string": "40545",
+    "stage_string": "40544",
     "essen_hero_setting": 0,
     "control_type": "event_world_free",
     "region": 9307,
@@ -55827,7 +55827,7 @@
   {
     "id": 93070502,
     "type": "event_world_free",
-    "stage_string": "40545",
+    "stage_string": "40544",
     "essen_hero_setting": 0,
     "control_type": "event_world_free",
     "region": 9307,
@@ -56002,7 +56002,7 @@
   {
     "id": 93070503,
     "type": "event_world_free",
-    "stage_string": "40545",
+    "stage_string": "40544",
     "essen_hero_setting": 0,
     "control_type": "event_world_free",
     "region": 9307,
@@ -56177,7 +56177,7 @@
   {
     "id": 94000001,
     "type": "event_stage_free",
-    "stage_string": "6081",
+    "stage_string": "6070",
     "essen_hero_setting": 0,
     "control_type": "event_stage_free",
     "region": 2777,

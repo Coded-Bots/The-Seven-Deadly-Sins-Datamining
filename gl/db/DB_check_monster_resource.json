@@ -13495,7 +13495,7 @@
     "character_base": "slime_gerudo",
     "matching_body_array": "2190105",
     "skill_body_array": "2190105",
-    "monster_name_localize": "37682",
+    "monster_name_localize": "37681",
     "monster_portrait_size": 0.7,
     "monster_portrait_base": "slime_gerudo_0001"
   },
@@ -13507,7 +13507,7 @@
     "character_base": "slime_gerudo",
     "matching_body_array": "2190106",
     "skill_body_array": "2190106",
-    "monster_name_localize": "37683",
+    "monster_name_localize": "37682",
     "monster_portrait_size": 0.7,
     "monster_portrait_base": "slime_gerudo_0002"
   },

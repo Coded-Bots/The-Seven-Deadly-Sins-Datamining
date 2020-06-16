@@ -254,5 +254,21 @@
     "product_id": 6097,
     "price_id": 500011,
     "price_count": 90
+  },
+  {
+    "id": 33,
+    "costume_shop_type": 16,
+    "costume_shop_group": 42,
+    "product_id": 6084,
+    "price_id": 500011,
+    "price_count": 90
+  },
+  {
+    "id": 34,
+    "costume_shop_type": 16,
+    "costume_shop_group": 43,
+    "product_id": 6085,
+    "price_id": 500011,
+    "price_count": 90
   }
 ]

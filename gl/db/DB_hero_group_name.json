@@ -258,7 +258,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_hendrickson_0011_01",
     "weapon_carve_hero_icon_folder": "hendrickson",
     "weapon_carve_hero_icon": "icon_skin_hendrickson_0011_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_dreyfus_0011_01",
     "weapon_carve_hero_icon_folder": "dreyfus",
     "weapon_carve_hero_icon": "icon_skin_dreyfus_0011_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 31,
@@ -357,7 +357,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_liliahmagician_0001_01",
     "weapon_carve_hero_icon_folder": "liliahmagician",
     "weapon_carve_hero_icon": "icon_skin_liliahmagician_0001_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 45,
@@ -523,7 +523,7 @@
   },
   {
     "id": 63,
-    "category_name": "42581",
+    "category_name": "42580",
     "weapon_carve_hero_portrait_folder": "disaster_eastinamabyllis",
     "weapon_carve_hero_portrait": "cut_in_special_disaster_eastinamabyllis_0001_01",
     "weapon_carve_hero_icon_folder": "disaster_eastinamabyllis",
@@ -532,7 +532,7 @@
   },
   {
     "id": 64,
-    "category_name": "42582",
+    "category_name": "42581",
     "weapon_carve_hero_portrait_folder": "disaster_mono",
     "weapon_carve_hero_portrait": "cut_in_special_disaster_mono_0001_01",
     "weapon_carve_hero_icon_folder": "disaster_mono",
@@ -541,7 +541,7 @@
   },
   {
     "id": 65,
-    "category_name": "42583",
+    "category_name": "42582",
     "weapon_carve_hero_portrait_folder": "disaster_roxy",
     "weapon_carve_hero_portrait": "cut_in_special_disaster_roxy_0001_01",
     "weapon_carve_hero_icon_folder": "disaster_roxy",
@@ -550,7 +550,7 @@
   },
   {
     "id": 66,
-    "category_name": "42584",
+    "category_name": "42583",
     "weapon_carve_hero_portrait_folder": "disaster_shin",
     "weapon_carve_hero_portrait": "cut_in_special_disaster_shin_0001_01",
     "weapon_carve_hero_icon_folder": "disaster_shin",
@@ -577,7 +577,7 @@
   },
   {
     "id": 70,
-    "category_name": "42585",
+    "category_name": "42584",
     "weapon_carve_hero_portrait_folder": "npc_jenna_0010",
     "weapon_carve_hero_portrait": "cut_in_special_npc_jenna_0010_01",
     "weapon_carve_hero_icon_folder": "jenna",
@@ -586,7 +586,7 @@
   },
   {
     "id": 71,
-    "category_name": "42586",
+    "category_name": "42585",
     "weapon_carve_hero_portrait_folder": "npc_zaneri_0010",
     "weapon_carve_hero_portrait": "cut_in_special_npc_zaneri_0010_01",
     "weapon_carve_hero_icon_folder": "zaneri",
@@ -595,7 +595,7 @@
   },
   {
     "id": 72,
-    "category_name": "42587",
+    "category_name": "42586",
     "weapon_carve_hero_portrait_folder": "zaratras",
     "weapon_carve_hero_portrait": "cut_in_special_zaratras_0001_01",
     "weapon_carve_hero_icon_folder": "zaratras",

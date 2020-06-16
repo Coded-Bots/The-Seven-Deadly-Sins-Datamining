@@ -281,7 +281,7 @@
   },
   {
     "id": 3300160,
-    "costume_name": "41423",
+    "costume_name": "41422",
     "hero_group": 1,
     "costume_group": 10101011,
     "costume_type": 1,
@@ -645,7 +645,7 @@
   },
   {
     "id": 3300161,
-    "costume_name": "41848",
+    "costume_name": "41847",
     "hero_group": 1,
     "costume_group": 10101011,
     "costume_type": 1,
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 3310156,
-    "costume_name": "40444",
+    "costume_name": "40443",
     "hero_group": 1,
     "costume_group": 10103016,
     "costume_type": 1,
@@ -1373,7 +1373,7 @@
   },
   {
     "id": 3310262,
-    "costume_name": "42880",
+    "costume_name": "42879",
     "hero_group": 31,
     "costume_group": 13101015,
     "costume_type": 1,
@@ -1401,7 +1401,7 @@
   },
   {
     "id": 3310264,
-    "costume_name": "42882",
+    "costume_name": "42881",
     "hero_group": 31,
     "costume_group": 13101016,
     "costume_type": 1,
@@ -1793,7 +1793,7 @@
   },
   {
     "id": 3310261,
-    "costume_name": "42879",
+    "costume_name": "42878",
     "hero_group": 31,
     "costume_group": 13101015,
     "costume_type": 1,
@@ -1821,7 +1821,7 @@
   },
   {
     "id": 3310263,
-    "costume_name": "42881",
+    "costume_name": "42880",
     "hero_group": 31,
     "costume_group": 13101016,
     "costume_type": 1,
@@ -2493,7 +2493,7 @@
   },
   {
     "id": 3300271,
-    "costume_name": "40440",
+    "costume_name": "40439",
     "hero_group": 31,
     "costume_group": 13104008,
     "costume_type": 1,
@@ -3053,7 +3053,7 @@
   },
   {
     "id": 3300272,
-    "costume_name": "40441",
+    "costume_name": "40440",
     "hero_group": 31,
     "costume_group": 13104008,
     "costume_type": 1,
@@ -3389,7 +3389,7 @@
   },
   {
     "id": 3300359,
-    "costume_name": "42859",
+    "costume_name": "42858",
     "hero_group": 3,
     "costume_group": 10301012,
     "costume_type": 1,
@@ -3753,7 +3753,7 @@
   },
   {
     "id": 3300360,
-    "costume_name": "42860",
+    "costume_name": "42859",
     "hero_group": 3,
     "costume_group": 10301012,
     "costume_type": 1,
@@ -14645,7 +14645,7 @@
   },
   {
     "id": 3305012,
-    "costume_name": "42872",
+    "costume_name": "42871",
     "hero_group": 35,
     "costume_group": 13501009,
     "costume_type": 1,
@@ -14673,7 +14673,7 @@
   },
   {
     "id": 3305013,
-    "costume_name": "42873",
+    "costume_name": "42872",
     "hero_group": 35,
     "costume_group": 13501010,
     "costume_type": 1,
@@ -14729,7 +14729,7 @@
   },
   {
     "id": 3305009,
-    "costume_name": "42869",
+    "costume_name": "42868",
     "hero_group": 35,
     "costume_group": 13501008,
     "costume_type": 1,
@@ -14953,7 +14953,7 @@
   },
   {
     "id": 3305010,
-    "costume_name": "42870",
+    "costume_name": "42869",
     "hero_group": 35,
     "costume_group": 13501009,
     "costume_type": 1,
@@ -14981,7 +14981,7 @@
   },
   {
     "id": 3305011,
-    "costume_name": "42871",
+    "costume_name": "42870",
     "hero_group": 35,
     "costume_group": 13501010,
     "costume_type": 1,
@@ -15849,7 +15849,7 @@
   },
   {
     "id": 3340001,
-    "costume_name": "42914",
+    "costume_name": "42913",
     "hero_group": 63,
     "costume_group": 16301001,
     "costume_type": 1,
@@ -15877,7 +15877,7 @@
   },
   {
     "id": 3340050,
-    "costume_name": "42916",
+    "costume_name": "42915",
     "hero_group": 63,
     "costume_group": 16301003,
     "costume_type": 1,
@@ -15905,7 +15905,7 @@
   },
   {
     "id": 3340051,
-    "costume_name": "42917",
+    "costume_name": "42916",
     "hero_group": 63,
     "costume_group": 16301004,
     "costume_type": 1,
@@ -15933,7 +15933,7 @@
   },
   {
     "id": 3340052,
-    "costume_name": "42918",
+    "costume_name": "42917",
     "hero_group": 63,
     "costume_group": 16301005,
     "costume_type": 1,
@@ -15961,7 +15961,7 @@
   },
   {
     "id": 3340002,
-    "costume_name": "42915",
+    "costume_name": "42914",
     "hero_group": 63,
     "costume_group": 16301002,
     "costume_type": 1,
@@ -15989,7 +15989,7 @@
   },
   {
     "id": 3341001,
-    "costume_name": "42919",
+    "costume_name": "42918",
     "hero_group": 64,
     "costume_group": 16401001,
     "costume_type": 1,
@@ -16017,7 +16017,7 @@
   },
   {
     "id": 3341050,
-    "costume_name": "42921",
+    "costume_name": "42920",
     "hero_group": 64,
     "costume_group": 16401002,
     "costume_type": 1,
@@ -16045,7 +16045,7 @@
   },
   {
     "id": 3341051,
-    "costume_name": "42922",
+    "costume_name": "42921",
     "hero_group": 64,
     "costume_group": 16401003,
     "costume_type": 1,
@@ -16073,7 +16073,7 @@
   },
   {
     "id": 3341052,
-    "costume_name": "42923",
+    "costume_name": "42922",
     "hero_group": 64,
     "costume_group": 16401004,
     "costume_type": 1,
@@ -16101,7 +16101,7 @@
   },
   {
     "id": 3341002,
-    "costume_name": "42920",
+    "costume_name": "42919",
     "hero_group": 64,
     "costume_group": 16401005,
     "costume_type": 1,
@@ -16129,7 +16129,7 @@
   },
   {
     "id": 3342001,
-    "costume_name": "42924",
+    "costume_name": "42923",
     "hero_group": 65,
     "costume_group": 16501001,
     "costume_type": 1,
@@ -16157,7 +16157,7 @@
   },
   {
     "id": 3342050,
-    "costume_name": "42926",
+    "costume_name": "42925",
     "hero_group": 65,
     "costume_group": 16501002,
     "costume_type": 1,
@@ -16185,7 +16185,7 @@
   },
   {
     "id": 3342051,
-    "costume_name": "42927",
+    "costume_name": "42926",
     "hero_group": 65,
     "costume_group": 16501003,
     "costume_type": 1,
@@ -16213,7 +16213,7 @@
   },
   {
     "id": 3342052,
-    "costume_name": "42928",
+    "costume_name": "42927",
     "hero_group": 65,
     "costume_group": 16501004,
     "costume_type": 1,
@@ -16241,7 +16241,7 @@
   },
   {
     "id": 3342002,
-    "costume_name": "42925",
+    "costume_name": "42924",
     "hero_group": 65,
     "costume_group": 16501005,
     "costume_type": 1,
@@ -16269,7 +16269,7 @@
   },
   {
     "id": 3343001,
-    "costume_name": "42929",
+    "costume_name": "42928",
     "hero_group": 66,
     "costume_group": 16601001,
     "costume_type": 1,
@@ -16297,7 +16297,7 @@
   },
   {
     "id": 3343050,
-    "costume_name": "42931",
+    "costume_name": "42930",
     "hero_group": 66,
     "costume_group": 16601002,
     "costume_type": 1,
@@ -16325,7 +16325,7 @@
   },
   {
     "id": 3343051,
-    "costume_name": "42932",
+    "costume_name": "42931",
     "hero_group": 66,
     "costume_group": 16601003,
     "costume_type": 1,
@@ -16353,7 +16353,7 @@
   },
   {
     "id": 3343052,
-    "costume_name": "42933",
+    "costume_name": "42932",
     "hero_group": 66,
     "costume_group": 16601004,
     "costume_type": 1,
@@ -16381,7 +16381,7 @@
   },
   {
     "id": 3343002,
-    "costume_name": "42930",
+    "costume_name": "42929",
     "hero_group": 66,
     "costume_group": 16601005,
     "costume_type": 1,
@@ -16409,7 +16409,7 @@
   },
   {
     "id": 3343053,
-    "costume_name": "42934",
+    "costume_name": "42933",
     "hero_group": 66,
     "costume_group": 16601006,
     "costume_type": 1,
@@ -16717,7 +16717,7 @@
   },
   {
     "id": 3304810,
-    "costume_name": "40442",
+    "costume_name": "40441",
     "hero_group": 33,
     "costume_group": 13302011,
     "costume_type": 1,
@@ -16745,7 +16745,7 @@
   },
   {
     "id": 3304811,
-    "costume_name": "40443",
+    "costume_name": "40442",
     "hero_group": 33,
     "costume_group": 13302012,
     "costume_type": 1,
@@ -16801,7 +16801,7 @@
   },
   {
     "id": 3304901,
-    "costume_name": "42863",
+    "costume_name": "42862",
     "hero_group": 1,
     "costume_group": 10105001,
     "costume_type": 1,
@@ -16829,7 +16829,7 @@
   },
   {
     "id": 3304951,
-    "costume_name": "42865",
+    "costume_name": "42864",
     "hero_group": 1,
     "costume_group": 10105004,
     "costume_type": 1,
@@ -16857,7 +16857,7 @@
   },
   {
     "id": 3304952,
-    "costume_name": "42866",
+    "costume_name": "42865",
     "hero_group": 1,
     "costume_group": 10105005,
     "costume_type": 1,
@@ -16885,7 +16885,7 @@
   },
   {
     "id": 3304954,
-    "costume_name": "42867",
+    "costume_name": "42866",
     "hero_group": 1,
     "costume_group": 10105007,
     "costume_type": 1,
@@ -16913,7 +16913,7 @@
   },
   {
     "id": 3304902,
-    "costume_name": "42864",
+    "costume_name": "42863",
     "hero_group": 1,
     "costume_group": 10105002,
     "costume_type": 1,
@@ -16941,7 +16941,7 @@
   },
   {
     "id": 3304955,
-    "costume_name": "42868",
+    "costume_name": "42867",
     "hero_group": 1,
     "costume_group": 10105008,
     "costume_type": 1,
@@ -17277,7 +17277,7 @@
   },
   {
     "id": 3313003,
-    "costume_name": "40445",
+    "costume_name": "40444",
     "hero_group": 46,
     "costume_group": 14601007,
     "costume_type": 1,
@@ -17417,7 +17417,7 @@
   },
   {
     "id": 3313054,
-    "costume_name": "41868",
+    "costume_name": "41867",
     "hero_group": 46,
     "costume_group": 14601009,
     "costume_type": 1,
@@ -17473,7 +17473,7 @@
   },
   {
     "id": 3313004,
-    "costume_name": "40446",
+    "costume_name": "40445",
     "hero_group": 46,
     "costume_group": 14601008,
     "costume_type": 1,
@@ -17529,7 +17529,7 @@
   },
   {
     "id": 3314003,
-    "costume_name": "40447",
+    "costume_name": "40446",
     "hero_group": 47,
     "costume_group": 14701007,
     "costume_type": 1,
@@ -17669,7 +17669,7 @@
   },
   {
     "id": 3314054,
-    "costume_name": "42883",
+    "costume_name": "42882",
     "hero_group": 47,
     "costume_group": 14701009,
     "costume_type": 1,
@@ -17725,7 +17725,7 @@
   },
   {
     "id": 3314004,
-    "costume_name": "40448",
+    "costume_name": "40447",
     "hero_group": 47,
     "costume_group": 14701008,
     "costume_type": 1,
@@ -17781,7 +17781,7 @@
   },
   {
     "id": 3315006,
-    "costume_name": "41368",
+    "costume_name": "41367",
     "hero_group": 48,
     "costume_group": 14801007,
     "costume_type": 1,
@@ -17921,7 +17921,7 @@
   },
   {
     "id": 3315052,
-    "costume_name": "41370",
+    "costume_name": "41369",
     "hero_group": 48,
     "costume_group": 14801009,
     "costume_type": 1,
@@ -17977,7 +17977,7 @@
   },
   {
     "id": 3315007,
-    "costume_name": "41369",
+    "costume_name": "41368",
     "hero_group": 48,
     "costume_group": 14801008,
     "costume_type": 1,
@@ -18033,7 +18033,7 @@
   },
   {
     "id": 3316003,
-    "costume_name": "42884",
+    "costume_name": "42883",
     "hero_group": 49,
     "costume_group": 14901007,
     "costume_type": 1,
@@ -18173,7 +18173,7 @@
   },
   {
     "id": 3316054,
-    "costume_name": "42886",
+    "costume_name": "42885",
     "hero_group": 49,
     "costume_group": 14901009,
     "costume_type": 1,
@@ -18229,7 +18229,7 @@
   },
   {
     "id": 3316004,
-    "costume_name": "42885",
+    "costume_name": "42884",
     "hero_group": 49,
     "costume_group": 14901008,
     "costume_type": 1,
@@ -18257,7 +18257,7 @@
   },
   {
     "id": 3317001,
-    "costume_name": "42887",
+    "costume_name": "42886",
     "hero_group": 50,
     "costume_group": 18317001,
     "costume_type": 1,
@@ -18313,7 +18313,7 @@
   },
   {
     "id": 3317050,
-    "costume_name": "42889",
+    "costume_name": "42888",
     "hero_group": 50,
     "costume_group": 18317003,
     "costume_type": 1,
@@ -18341,7 +18341,7 @@
   },
   {
     "id": 3317051,
-    "costume_name": "42890",
+    "costume_name": "42889",
     "hero_group": 50,
     "costume_group": 18317004,
     "costume_type": 1,
@@ -18369,7 +18369,7 @@
   },
   {
     "id": 3317052,
-    "costume_name": "42891",
+    "costume_name": "42890",
     "hero_group": 50,
     "costume_group": 18317005,
     "costume_type": 1,
@@ -18397,7 +18397,7 @@
   },
   {
     "id": 3317002,
-    "costume_name": "42888",
+    "costume_name": "42887",
     "hero_group": 50,
     "costume_group": 18317006,
     "costume_type": 1,
@@ -18453,7 +18453,7 @@
   },
   {
     "id": 3318001,
-    "costume_name": "42892",
+    "costume_name": "42891",
     "hero_group": 51,
     "costume_group": 15101001,
     "costume_type": 1,
@@ -18481,7 +18481,7 @@
   },
   {
     "id": 3318003,
-    "costume_name": "42894",
+    "costume_name": "42893",
     "hero_group": 51,
     "costume_group": 15101002,
     "costume_type": 1,
@@ -18509,7 +18509,7 @@
   },
   {
     "id": 3318050,
-    "costume_name": "42896",
+    "costume_name": "42895",
     "hero_group": 51,
     "costume_group": 15101003,
     "costume_type": 1,
@@ -18537,7 +18537,7 @@
   },
   {
     "id": 3318051,
-    "costume_name": "42897",
+    "costume_name": "42896",
     "hero_group": 51,
     "costume_group": 15101004,
     "costume_type": 1,
@@ -18565,7 +18565,7 @@
   },
   {
     "id": 3318052,
-    "costume_name": "42898",
+    "costume_name": "42897",
     "hero_group": 51,
     "costume_group": 15101005,
     "costume_type": 1,
@@ -18593,7 +18593,7 @@
   },
   {
     "id": 3318053,
-    "costume_name": "42899",
+    "costume_name": "42898",
     "hero_group": 51,
     "costume_group": 15101008,
     "costume_type": 1,
@@ -18621,7 +18621,7 @@
   },
   {
     "id": 3318002,
-    "costume_name": "42893",
+    "costume_name": "42892",
     "hero_group": 51,
     "costume_group": 15101006,
     "costume_type": 1,
@@ -18649,7 +18649,7 @@
   },
   {
     "id": 3318004,
-    "costume_name": "42895",
+    "costume_name": "42894",
     "hero_group": 51,
     "costume_group": 15101007,
     "costume_type": 1,
@@ -18677,7 +18677,7 @@
   },
   {
     "id": 3320001,
-    "costume_name": "42900",
+    "costume_name": "42899",
     "hero_group": 53,
     "costume_group": 15301001,
     "costume_type": 1,
@@ -18705,7 +18705,7 @@
   },
   {
     "id": 3320003,
-    "costume_name": "42901",
+    "costume_name": "42900",
     "hero_group": 53,
     "costume_group": 15301006,
     "costume_type": 1,
@@ -18733,7 +18733,7 @@
   },
   {
     "id": 3320050,
-    "costume_name": "42903",
+    "costume_name": "42902",
     "hero_group": 53,
     "costume_group": 15301002,
     "costume_type": 1,
@@ -18761,7 +18761,7 @@
   },
   {
     "id": 3320051,
-    "costume_name": "42904",
+    "costume_name": "42903",
     "hero_group": 53,
     "costume_group": 15301003,
     "costume_type": 1,
@@ -18789,7 +18789,7 @@
   },
   {
     "id": 3320052,
-    "costume_name": "42905",
+    "costume_name": "42904",
     "hero_group": 53,
     "costume_group": 15301004,
     "costume_type": 1,
@@ -18817,7 +18817,7 @@
   },
   {
     "id": 3320053,
-    "costume_name": "42906",
+    "costume_name": "42905",
     "hero_group": 53,
     "costume_group": 15301008,
     "costume_type": 1,
@@ -18845,7 +18845,7 @@
   },
   {
     "id": 3320002,
-    "costume_name": "40449",
+    "costume_name": "40448",
     "hero_group": 53,
     "costume_group": 15301005,
     "costume_type": 1,
@@ -18873,7 +18873,7 @@
   },
   {
     "id": 3320004,
-    "costume_name": "42902",
+    "costume_name": "42901",
     "hero_group": 53,
     "costume_group": 15301007,
     "costume_type": 1,
@@ -18901,7 +18901,7 @@
   },
   {
     "id": 3321001,
-    "costume_name": "39146",
+    "costume_name": "39145",
     "hero_group": 54,
     "costume_group": 15401001,
     "costume_type": 1,
@@ -18929,7 +18929,7 @@
   },
   {
     "id": 3321003,
-    "costume_name": "39148",
+    "costume_name": "39147",
     "hero_group": 54,
     "costume_group": 15401002,
     "costume_type": 1,
@@ -18957,7 +18957,7 @@
   },
   {
     "id": 3321050,
-    "costume_name": "39150",
+    "costume_name": "39149",
     "hero_group": 54,
     "costume_group": 15401003,
     "costume_type": 1,
@@ -18985,7 +18985,7 @@
   },
   {
     "id": 3321051,
-    "costume_name": "39151",
+    "costume_name": "39150",
     "hero_group": 54,
     "costume_group": 15401004,
     "costume_type": 1,
@@ -19013,7 +19013,7 @@
   },
   {
     "id": 3321052,
-    "costume_name": "39152",
+    "costume_name": "39151",
     "hero_group": 54,
     "costume_group": 15401005,
     "costume_type": 1,
@@ -19041,7 +19041,7 @@
   },
   {
     "id": 3321054,
-    "costume_name": "42907",
+    "costume_name": "42906",
     "hero_group": 54,
     "costume_group": 15401009,
     "costume_type": 1,
@@ -19069,7 +19069,7 @@
   },
   {
     "id": 3321002,
-    "costume_name": "39147",
+    "costume_name": "39146",
     "hero_group": 54,
     "costume_group": 15401006,
     "costume_type": 1,
@@ -19097,7 +19097,7 @@
   },
   {
     "id": 3321004,
-    "costume_name": "39149",
+    "costume_name": "39148",
     "hero_group": 54,
     "costume_group": 15401007,
     "costume_type": 1,
@@ -19125,7 +19125,7 @@
   },
   {
     "id": 3321053,
-    "costume_name": "40450",
+    "costume_name": "40449",
     "hero_group": 54,
     "costume_group": 15401008,
     "costume_type": 1,
@@ -19153,7 +19153,7 @@
   },
   {
     "id": 3322001,
-    "costume_name": "42908",
+    "costume_name": "42907",
     "hero_group": 55,
     "costume_group": 18322001,
     "costume_type": 1,
@@ -19181,7 +19181,7 @@
   },
   {
     "id": 3322003,
-    "costume_name": "47062",
+    "costume_name": "47061",
     "hero_group": 55,
     "costume_group": 18322002,
     "costume_type": 1,
@@ -19209,7 +19209,7 @@
   },
   {
     "id": 3322050,
-    "costume_name": "42910",
+    "costume_name": "42909",
     "hero_group": 55,
     "costume_group": 18322003,
     "costume_type": 1,
@@ -19237,7 +19237,7 @@
   },
   {
     "id": 3322051,
-    "costume_name": "42911",
+    "costume_name": "42910",
     "hero_group": 55,
     "costume_group": 18322004,
     "costume_type": 1,
@@ -19265,7 +19265,7 @@
   },
   {
     "id": 3322052,
-    "costume_name": "42912",
+    "costume_name": "42911",
     "hero_group": 55,
     "costume_group": 18322005,
     "costume_type": 1,
@@ -19293,7 +19293,7 @@
   },
   {
     "id": 3322053,
-    "costume_name": "42913",
+    "costume_name": "42912",
     "hero_group": 55,
     "costume_group": 18322008,
     "costume_type": 1,
@@ -19321,7 +19321,7 @@
   },
   {
     "id": 3322002,
-    "costume_name": "42909",
+    "costume_name": "42908",
     "hero_group": 55,
     "costume_group": 18322006,
     "costume_type": 1,
@@ -19349,7 +19349,7 @@
   },
   {
     "id": 3322004,
-    "costume_name": "47063",
+    "costume_name": "47062",
     "hero_group": 55,
     "costume_group": 18322007,
     "costume_type": 1,
@@ -20049,7 +20049,7 @@
   },
   {
     "id": 3347001,
-    "costume_name": "42935",
+    "costume_name": "42934",
     "hero_group": 70,
     "costume_group": 17001001,
     "costume_type": 1,
@@ -20077,7 +20077,7 @@
   },
   {
     "id": 3347002,
-    "costume_name": "42936",
+    "costume_name": "42935",
     "hero_group": 70,
     "costume_group": 17001002,
     "costume_type": 1,
@@ -20105,7 +20105,7 @@
   },
   {
     "id": 3347003,
-    "costume_name": "42937",
+    "costume_name": "42936",
     "hero_group": 70,
     "costume_group": 17001003,
     "costume_type": 1,
@@ -20133,7 +20133,7 @@
   },
   {
     "id": 3347004,
-    "costume_name": "42938",
+    "costume_name": "42937",
     "hero_group": 70,
     "costume_group": 17001004,
     "costume_type": 1,
@@ -20161,7 +20161,7 @@
   },
   {
     "id": 3347005,
-    "costume_name": "42939",
+    "costume_name": "42938",
     "hero_group": 70,
     "costume_group": 17001005,
     "costume_type": 1,
@@ -20189,7 +20189,7 @@
   },
   {
     "id": 3348001,
-    "costume_name": "42940",
+    "costume_name": "42939",
     "hero_group": 71,
     "costume_group": 17101001,
     "costume_type": 1,
@@ -20217,7 +20217,7 @@
   },
   {
     "id": 3348002,
-    "costume_name": "42941",
+    "costume_name": "42940",
     "hero_group": 71,
     "costume_group": 17101002,
     "costume_type": 1,
@@ -20245,7 +20245,7 @@
   },
   {
     "id": 3348003,
-    "costume_name": "42942",
+    "costume_name": "42941",
     "hero_group": 71,
     "costume_group": 17101003,
     "costume_type": 1,
@@ -20273,7 +20273,7 @@
   },
   {
     "id": 3348004,
-    "costume_name": "42943",
+    "costume_name": "42942",
     "hero_group": 71,
     "costume_group": 17101004,
     "costume_type": 1,
@@ -20301,7 +20301,7 @@
   },
   {
     "id": 3348005,
-    "costume_name": "42944",
+    "costume_name": "42943",
     "hero_group": 71,
     "costume_group": 17101005,
     "costume_type": 1,
@@ -20329,7 +20329,7 @@
   },
   {
     "id": 3305101,
-    "costume_name": "42874",
+    "costume_name": "42873",
     "hero_group": 36,
     "costume_group": 13601001,
     "costume_type": 1,
@@ -20357,7 +20357,7 @@
   },
   {
     "id": 3305150,
-    "costume_name": "42876",
+    "costume_name": "42875",
     "hero_group": 36,
     "costume_group": 13601002,
     "costume_type": 1,
@@ -20385,7 +20385,7 @@
   },
   {
     "id": 3305151,
-    "costume_name": "42877",
+    "costume_name": "42876",
     "hero_group": 36,
     "costume_group": 13601003,
     "costume_type": 1,
@@ -20413,7 +20413,7 @@
   },
   {
     "id": 3305152,
-    "costume_name": "42878",
+    "costume_name": "42877",
     "hero_group": 36,
     "costume_group": 13601004,
     "costume_type": 1,
@@ -20441,7 +20441,7 @@
   },
   {
     "id": 3305102,
-    "costume_name": "42875",
+    "costume_name": "42874",
     "hero_group": 36,
     "costume_group": 13601005,
     "costume_type": 1,
@@ -20609,7 +20609,7 @@
   },
   {
     "id": 3346001,
-    "costume_name": "37814",
+    "costume_name": "37813",
     "hero_group": 69,
     "costume_group": 16901001,
     "costume_type": 1,
@@ -20637,7 +20637,7 @@
   },
   {
     "id": 3346002,
-    "costume_name": "37815",
+    "costume_name": "37814",
     "hero_group": 69,
     "costume_group": 16901002,
     "costume_type": 1,
@@ -20665,7 +20665,7 @@
   },
   {
     "id": 3346050,
-    "costume_name": "37816",
+    "costume_name": "37815",
     "hero_group": 69,
     "costume_group": 16901003,
     "costume_type": 1,
@@ -20693,7 +20693,7 @@
   },
   {
     "id": 3346051,
-    "costume_name": "37817",
+    "costume_name": "37816",
     "hero_group": 69,
     "costume_group": 16901004,
     "costume_type": 1,
@@ -20721,7 +20721,7 @@
   },
   {
     "id": 3346052,
-    "costume_name": "37818",
+    "costume_name": "37817",
     "hero_group": 69,
     "costume_group": 16901005,
     "costume_type": 1,
@@ -20777,7 +20777,7 @@
   },
   {
     "id": 3349001,
-    "costume_name": "42945",
+    "costume_name": "42944",
     "hero_group": 72,
     "costume_group": 17201001,
     "costume_type": 1,
@@ -20805,7 +20805,7 @@
   },
   {
     "id": 3349050,
-    "costume_name": "42947",
+    "costume_name": "42946",
     "hero_group": 72,
     "costume_group": 17201002,
     "costume_type": 1,
@@ -20833,7 +20833,7 @@
   },
   {
     "id": 3349051,
-    "costume_name": "42948",
+    "costume_name": "42947",
     "hero_group": 72,
     "costume_group": 17201003,
     "costume_type": 1,
@@ -20861,7 +20861,7 @@
   },
   {
     "id": 3349052,
-    "costume_name": "42949",
+    "costume_name": "42948",
     "hero_group": 72,
     "costume_group": 17201004,
     "costume_type": 1,
@@ -20889,7 +20889,7 @@
   },
   {
     "id": 3349002,
-    "costume_name": "42946",
+    "costume_name": "42945",
     "hero_group": 72,
     "costume_group": 17201005,
     "costume_type": 1,
@@ -20917,7 +20917,7 @@
   },
   {
     "id": 3349053,
-    "costume_name": "42950",
+    "costume_name": "42949",
     "hero_group": 72,
     "costume_group": 17201006,
     "costume_type": 1,
@@ -20945,7 +20945,7 @@
   },
   {
     "id": 3350001,
-    "costume_name": "42951",
+    "costume_name": "42950",
     "hero_group": 13,
     "costume_group": 13401001,
     "costume_type": 1,
@@ -20973,7 +20973,7 @@
   },
   {
     "id": 3350002,
-    "costume_name": "42952",
+    "costume_name": "42951",
     "hero_group": 13,
     "costume_group": 13401002,
     "costume_type": 1,
@@ -21001,7 +21001,7 @@
   },
   {
     "id": 3350003,
-    "costume_name": "42953",
+    "costume_name": "42952",
     "hero_group": 13,
     "costume_group": 13401003,
     "costume_type": 1,
@@ -23885,7 +23885,7 @@
   },
   {
     "id": 850121,
-    "costume_name": "41173",
+    "costume_name": "41172",
     "hero_group": 1,
     "costume_group": 20103016,
     "costume_type": 2,
@@ -24137,7 +24137,7 @@
   },
   {
     "id": 850215,
-    "costume_name": "46198",
+    "costume_name": "46197",
     "hero_group": 31,
     "costume_group": 23100115,
     "costume_type": 2,
@@ -24557,7 +24557,7 @@
   },
   {
     "id": 950215,
-    "costume_name": "46271",
+    "costume_name": "46270",
     "hero_group": 31,
     "costume_group": 23100115,
     "costume_type": 2,
@@ -24781,7 +24781,7 @@
   },
   {
     "id": 852101,
-    "costume_name": "41174",
+    "costume_name": "41173",
     "hero_group": 31,
     "costume_group": 23101001,
     "costume_type": 2,
@@ -24809,7 +24809,7 @@
   },
   {
     "id": 852102,
-    "costume_name": "41175",
+    "costume_name": "41174",
     "hero_group": 31,
     "costume_group": 23101002,
     "costume_type": 2,
@@ -24837,7 +24837,7 @@
   },
   {
     "id": 852103,
-    "costume_name": "41176",
+    "costume_name": "41175",
     "hero_group": 31,
     "costume_group": 23101003,
     "costume_type": 2,
@@ -24865,7 +24865,7 @@
   },
   {
     "id": 852104,
-    "costume_name": "41177",
+    "costume_name": "41176",
     "hero_group": 31,
     "costume_group": 23101004,
     "costume_type": 2,
@@ -24893,7 +24893,7 @@
   },
   {
     "id": 852105,
-    "costume_name": "41178",
+    "costume_name": "41177",
     "hero_group": 31,
     "costume_group": 23101005,
     "costume_type": 2,
@@ -24921,7 +24921,7 @@
   },
   {
     "id": 952101,
-    "costume_name": "41181",
+    "costume_name": "41180",
     "hero_group": 31,
     "costume_group": 23102001,
     "costume_type": 2,
@@ -24949,7 +24949,7 @@
   },
   {
     "id": 952102,
-    "costume_name": "41182",
+    "costume_name": "41181",
     "hero_group": 31,
     "costume_group": 23101002,
     "costume_type": 2,
@@ -24977,7 +24977,7 @@
   },
   {
     "id": 952103,
-    "costume_name": "41183",
+    "costume_name": "41182",
     "hero_group": 31,
     "costume_group": 23101003,
     "costume_type": 2,
@@ -25005,7 +25005,7 @@
   },
   {
     "id": 952104,
-    "costume_name": "41184",
+    "costume_name": "41183",
     "hero_group": 31,
     "costume_group": 23101004,
     "costume_type": 2,
@@ -25033,7 +25033,7 @@
   },
   {
     "id": 952105,
-    "costume_name": "41185",
+    "costume_name": "41184",
     "hero_group": 31,
     "costume_group": 23101005,
     "costume_type": 2,
@@ -25397,7 +25397,7 @@
   },
   {
     "id": 850312,
-    "costume_name": "46199",
+    "costume_name": "46198",
     "hero_group": 3,
     "costume_group": 20301016,
     "costume_type": 2,
@@ -25817,7 +25817,7 @@
   },
   {
     "id": 851501,
-    "costume_name": "39198",
+    "costume_name": "39197",
     "hero_group": 4,
     "costume_group": 20402001,
     "costume_type": 2,
@@ -25845,7 +25845,7 @@
   },
   {
     "id": 851502,
-    "costume_name": "39199",
+    "costume_name": "39198",
     "hero_group": 4,
     "costume_group": 20402002,
     "costume_type": 2,
@@ -25873,7 +25873,7 @@
   },
   {
     "id": 851503,
-    "costume_name": "39200",
+    "costume_name": "39199",
     "hero_group": 4,
     "costume_group": 20402003,
     "costume_type": 2,
@@ -25901,7 +25901,7 @@
   },
   {
     "id": 851504,
-    "costume_name": "39201",
+    "costume_name": "39200",
     "hero_group": 4,
     "costume_group": 20402004,
     "costume_type": 2,
@@ -25929,7 +25929,7 @@
   },
   {
     "id": 851505,
-    "costume_name": "39202",
+    "costume_name": "39201",
     "hero_group": 4,
     "costume_group": 20402005,
     "costume_type": 2,
@@ -25957,7 +25957,7 @@
   },
   {
     "id": 851506,
-    "costume_name": "39203",
+    "costume_name": "39202",
     "hero_group": 4,
     "costume_group": 20402006,
     "costume_type": 2,
@@ -25985,7 +25985,7 @@
   },
   {
     "id": 851507,
-    "costume_name": "39204",
+    "costume_name": "39203",
     "hero_group": 4,
     "costume_group": 20402007,
     "costume_type": 2,
@@ -26013,7 +26013,7 @@
   },
   {
     "id": 851508,
-    "costume_name": "39205",
+    "costume_name": "39204",
     "hero_group": 4,
     "costume_group": 20402008,
     "costume_type": 2,
@@ -26041,7 +26041,7 @@
   },
   {
     "id": 851509,
-    "costume_name": "39206",
+    "costume_name": "39205",
     "hero_group": 4,
     "costume_group": 20402009,
     "costume_type": 2,
@@ -26069,7 +26069,7 @@
   },
   {
     "id": 951501,
-    "costume_name": "39211",
+    "costume_name": "39210",
     "hero_group": 4,
     "costume_group": 20402011,
     "costume_type": 2,
@@ -26097,7 +26097,7 @@
   },
   {
     "id": 951502,
-    "costume_name": "39212",
+    "costume_name": "39211",
     "hero_group": 4,
     "costume_group": 20402002,
     "costume_type": 2,
@@ -26125,7 +26125,7 @@
   },
   {
     "id": 951503,
-    "costume_name": "39213",
+    "costume_name": "39212",
     "hero_group": 4,
     "costume_group": 20402003,
     "costume_type": 2,
@@ -26153,7 +26153,7 @@
   },
   {
     "id": 951504,
-    "costume_name": "39214",
+    "costume_name": "39213",
     "hero_group": 4,
     "costume_group": 20402004,
     "costume_type": 2,
@@ -26181,7 +26181,7 @@
   },
   {
     "id": 951505,
-    "costume_name": "39215",
+    "costume_name": "39214",
     "hero_group": 4,
     "costume_group": 20402005,
     "costume_type": 2,
@@ -26209,7 +26209,7 @@
   },
   {
     "id": 951506,
-    "costume_name": "39216",
+    "costume_name": "39215",
     "hero_group": 4,
     "costume_group": 20402006,
     "costume_type": 2,
@@ -26237,7 +26237,7 @@
   },
   {
     "id": 951507,
-    "costume_name": "39217",
+    "costume_name": "39216",
     "hero_group": 4,
     "costume_group": 20402007,
     "costume_type": 2,
@@ -26265,7 +26265,7 @@
   },
   {
     "id": 951508,
-    "costume_name": "39218",
+    "costume_name": "39217",
     "hero_group": 4,
     "costume_group": 20402008,
     "costume_type": 2,
@@ -26293,7 +26293,7 @@
   },
   {
     "id": 951509,
-    "costume_name": "39219",
+    "costume_name": "39218",
     "hero_group": 4,
     "costume_group": 20402009,
     "costume_type": 2,
@@ -26321,7 +26321,7 @@
   },
   {
     "id": 851601,
-    "costume_name": "46200",
+    "costume_name": "46199",
     "hero_group": 13,
     "costume_group": 22201001,
     "costume_type": 2,
@@ -36065,7 +36065,7 @@
   },
   {
     "id": 856501,
-    "costume_name": "46215",
+    "costume_name": "46214",
     "hero_group": 63,
     "costume_group": 26301001,
     "costume_type": 2,
@@ -36093,7 +36093,7 @@
   },
   {
     "id": 856550,
-    "costume_name": "46216",
+    "costume_name": "46215",
     "hero_group": 63,
     "costume_group": 26301002,
     "costume_type": 2,
@@ -36121,7 +36121,7 @@
   },
   {
     "id": 856551,
-    "costume_name": "46217",
+    "costume_name": "46216",
     "hero_group": 63,
     "costume_group": 26301003,
     "costume_type": 2,
@@ -36149,7 +36149,7 @@
   },
   {
     "id": 856552,
-    "costume_name": "46218",
+    "costume_name": "46217",
     "hero_group": 63,
     "costume_group": 26301004,
     "costume_type": 2,
@@ -36177,7 +36177,7 @@
   },
   {
     "id": 856401,
-    "costume_name": "46211",
+    "costume_name": "46210",
     "hero_group": 64,
     "costume_group": 26401001,
     "costume_type": 2,
@@ -36205,7 +36205,7 @@
   },
   {
     "id": 856402,
-    "costume_name": "46212",
+    "costume_name": "46211",
     "hero_group": 64,
     "costume_group": 26401002,
     "costume_type": 2,
@@ -36233,7 +36233,7 @@
   },
   {
     "id": 856403,
-    "costume_name": "46213",
+    "costume_name": "46212",
     "hero_group": 64,
     "costume_group": 26401003,
     "costume_type": 2,
@@ -36261,7 +36261,7 @@
   },
   {
     "id": 856404,
-    "costume_name": "46214",
+    "costume_name": "46213",
     "hero_group": 64,
     "costume_group": 26401004,
     "costume_type": 2,
@@ -36289,7 +36289,7 @@
   },
   {
     "id": 856701,
-    "costume_name": "46225",
+    "costume_name": "46224",
     "hero_group": 65,
     "costume_group": 26501001,
     "costume_type": 2,
@@ -36317,7 +36317,7 @@
   },
   {
     "id": 856702,
-    "costume_name": "46226",
+    "costume_name": "46225",
     "hero_group": 65,
     "costume_group": 26501002,
     "costume_type": 2,
@@ -36345,7 +36345,7 @@
   },
   {
     "id": 856703,
-    "costume_name": "46227",
+    "costume_name": "46226",
     "hero_group": 65,
     "costume_group": 26501003,
     "costume_type": 2,
@@ -36373,7 +36373,7 @@
   },
   {
     "id": 856704,
-    "costume_name": "46228",
+    "costume_name": "46227",
     "hero_group": 65,
     "costume_group": 26501004,
     "costume_type": 2,
@@ -36401,7 +36401,7 @@
   },
   {
     "id": 857701,
-    "costume_name": "46252",
+    "costume_name": "46251",
     "hero_group": 66,
     "costume_group": 26601001,
     "costume_type": 2,
@@ -36429,7 +36429,7 @@
   },
   {
     "id": 857702,
-    "costume_name": "46253",
+    "costume_name": "46252",
     "hero_group": 66,
     "costume_group": 26601002,
     "costume_type": 2,
@@ -36457,7 +36457,7 @@
   },
   {
     "id": 857703,
-    "costume_name": "46254",
+    "costume_name": "46253",
     "hero_group": 66,
     "costume_group": 26601003,
     "costume_type": 2,
@@ -36485,7 +36485,7 @@
   },
   {
     "id": 857704,
-    "costume_name": "46255",
+    "costume_name": "46254",
     "hero_group": 66,
     "costume_group": 26601004,
     "costume_type": 2,
@@ -37017,7 +37017,7 @@
   },
   {
     "id": 855111,
-    "costume_name": "41870",
+    "costume_name": "41869",
     "hero_group": 46,
     "costume_group": 24601011,
     "costume_type": 2,
@@ -37157,7 +37157,7 @@
   },
   {
     "id": 855110,
-    "costume_name": "41179",
+    "costume_name": "41178",
     "hero_group": 46,
     "costume_group": 24601010,
     "costume_type": 2,
@@ -37325,7 +37325,7 @@
   },
   {
     "id": 855810,
-    "costume_name": "46201",
+    "costume_name": "46200",
     "hero_group": 47,
     "costume_group": 24701007,
     "costume_type": 2,
@@ -37353,7 +37353,7 @@
   },
   {
     "id": 855850,
-    "costume_name": "41180",
+    "costume_name": "41179",
     "hero_group": 47,
     "costume_group": 24701006,
     "costume_type": 2,
@@ -37521,7 +37521,7 @@
   },
   {
     "id": 855911,
-    "costume_name": "41385",
+    "costume_name": "41384",
     "hero_group": 48,
     "costume_group": 24801007,
     "costume_type": 2,
@@ -37549,7 +37549,7 @@
   },
   {
     "id": 855910,
-    "costume_name": "41384",
+    "costume_name": "41383",
     "hero_group": 48,
     "costume_group": 24801006,
     "costume_type": 2,
@@ -37717,7 +37717,7 @@
   },
   {
     "id": 856010,
-    "costume_name": "46203",
+    "costume_name": "46202",
     "hero_group": 49,
     "costume_group": 24901007,
     "costume_type": 2,
@@ -37745,7 +37745,7 @@
   },
   {
     "id": 856005,
-    "costume_name": "46202",
+    "costume_name": "46201",
     "hero_group": 49,
     "costume_group": 24901006,
     "costume_type": 2,
@@ -37773,7 +37773,7 @@
   },
   {
     "id": 856601,
-    "costume_name": "46219",
+    "costume_name": "46218",
     "hero_group": 51,
     "costume_group": 25101001,
     "costume_type": 2,
@@ -37801,7 +37801,7 @@
   },
   {
     "id": 856602,
-    "costume_name": "46220",
+    "costume_name": "46219",
     "hero_group": 51,
     "costume_group": 25101002,
     "costume_type": 2,
@@ -37829,7 +37829,7 @@
   },
   {
     "id": 856603,
-    "costume_name": "46221",
+    "costume_name": "46220",
     "hero_group": 51,
     "costume_group": 25101003,
     "costume_type": 2,
@@ -37857,7 +37857,7 @@
   },
   {
     "id": 856604,
-    "costume_name": "46222",
+    "costume_name": "46221",
     "hero_group": 51,
     "costume_group": 25101004,
     "costume_type": 2,
@@ -37885,7 +37885,7 @@
   },
   {
     "id": 856606,
-    "costume_name": "46224",
+    "costume_name": "46223",
     "hero_group": 51,
     "costume_group": 25101006,
     "costume_type": 2,
@@ -37913,7 +37913,7 @@
   },
   {
     "id": 856605,
-    "costume_name": "46223",
+    "costume_name": "46222",
     "hero_group": 51,
     "costume_group": 25101005,
     "costume_type": 2,
@@ -37941,7 +37941,7 @@
   },
   {
     "id": 856301,
-    "costume_name": "46205",
+    "costume_name": "46204",
     "hero_group": 53,
     "costume_group": 25301001,
     "costume_type": 2,
@@ -37969,7 +37969,7 @@
   },
   {
     "id": 856302,
-    "costume_name": "46206",
+    "costume_name": "46205",
     "hero_group": 53,
     "costume_group": 25301002,
     "costume_type": 2,
@@ -37997,7 +37997,7 @@
   },
   {
     "id": 856303,
-    "costume_name": "46207",
+    "costume_name": "46206",
     "hero_group": 53,
     "costume_group": 25301003,
     "costume_type": 2,
@@ -38025,7 +38025,7 @@
   },
   {
     "id": 856304,
-    "costume_name": "46208",
+    "costume_name": "46207",
     "hero_group": 53,
     "costume_group": 25301004,
     "costume_type": 2,
@@ -38053,7 +38053,7 @@
   },
   {
     "id": 856306,
-    "costume_name": "46210",
+    "costume_name": "46209",
     "hero_group": 53,
     "costume_group": 25301006,
     "costume_type": 2,
@@ -38081,7 +38081,7 @@
   },
   {
     "id": 856305,
-    "costume_name": "46209",
+    "costume_name": "46208",
     "hero_group": 53,
     "costume_group": 25301005,
     "costume_type": 2,
@@ -38109,7 +38109,7 @@
   },
   {
     "id": 856101,
-    "costume_name": "39207",
+    "costume_name": "39206",
     "hero_group": 54,
     "costume_group": 25401001,
     "costume_type": 2,
@@ -38137,7 +38137,7 @@
   },
   {
     "id": 856102,
-    "costume_name": "39208",
+    "costume_name": "39207",
     "hero_group": 54,
     "costume_group": 25401002,
     "costume_type": 2,
@@ -38165,7 +38165,7 @@
   },
   {
     "id": 856103,
-    "costume_name": "39209",
+    "costume_name": "39208",
     "hero_group": 54,
     "costume_group": 25401003,
     "costume_type": 2,
@@ -38193,7 +38193,7 @@
   },
   {
     "id": 856104,
-    "costume_name": "39210",
+    "costume_name": "39209",
     "hero_group": 54,
     "costume_group": 25401004,
     "costume_type": 2,
@@ -38221,7 +38221,7 @@
   },
   {
     "id": 856105,
-    "costume_name": "46204",
+    "costume_name": "46203",
     "hero_group": 54,
     "costume_group": 25401005,
     "costume_type": 2,
@@ -38249,7 +38249,7 @@
   },
   {
     "id": 859101,
-    "costume_name": "46267",
+    "costume_name": "46266",
     "hero_group": 50,
     "costume_group": 24201001,
     "costume_type": 2,
@@ -38277,7 +38277,7 @@
   },
   {
     "id": 859102,
-    "costume_name": "46268",
+    "costume_name": "46267",
     "hero_group": 50,
     "costume_group": 24201002,
     "costume_type": 2,
@@ -38305,7 +38305,7 @@
   },
   {
     "id": 859103,
-    "costume_name": "46269",
+    "costume_name": "46268",
     "hero_group": 50,
     "costume_group": 24201003,
     "costume_type": 2,
@@ -38333,7 +38333,7 @@
   },
   {
     "id": 859104,
-    "costume_name": "46270",
+    "costume_name": "46269",
     "hero_group": 50,
     "costume_group": 24201004,
     "costume_type": 2,
@@ -38473,7 +38473,7 @@
   },
   {
     "id": 858101,
-    "costume_name": "46261",
+    "costume_name": "46260",
     "hero_group": 55,
     "costume_group": 25001001,
     "costume_type": 2,
@@ -38501,7 +38501,7 @@
   },
   {
     "id": 858102,
-    "costume_name": "46262",
+    "costume_name": "46261",
     "hero_group": 55,
     "costume_group": 25001002,
     "costume_type": 2,
@@ -38529,7 +38529,7 @@
   },
   {
     "id": 858103,
-    "costume_name": "46263",
+    "costume_name": "46262",
     "hero_group": 55,
     "costume_group": 25001003,
     "costume_type": 2,
@@ -38557,7 +38557,7 @@
   },
   {
     "id": 858104,
-    "costume_name": "46264",
+    "costume_name": "46263",
     "hero_group": 55,
     "costume_group": 25001004,
     "costume_type": 2,
@@ -38585,7 +38585,7 @@
   },
   {
     "id": 858109,
-    "costume_name": "46266",
+    "costume_name": "46265",
     "hero_group": 55,
     "costume_group": 25001009,
     "costume_type": 2,
@@ -38613,7 +38613,7 @@
   },
   {
     "id": 858105,
-    "costume_name": "46265",
+    "costume_name": "46264",
     "hero_group": 55,
     "costume_group": 25001005,
     "costume_type": 2,
@@ -39117,7 +39117,7 @@
   },
   {
     "id": 857801,
-    "costume_name": "46256",
+    "costume_name": "46255",
     "hero_group": 36,
     "costume_group": 23601001,
     "costume_type": 2,
@@ -39145,7 +39145,7 @@
   },
   {
     "id": 857802,
-    "costume_name": "46257",
+    "costume_name": "46256",
     "hero_group": 36,
     "costume_group": 23601002,
     "costume_type": 2,
@@ -39173,7 +39173,7 @@
   },
   {
     "id": 857803,
-    "costume_name": "46258",
+    "costume_name": "46257",
     "hero_group": 36,
     "costume_group": 23601003,
     "costume_type": 2,
@@ -39201,7 +39201,7 @@
   },
   {
     "id": 857804,
-    "costume_name": "46259",
+    "costume_name": "46258",
     "hero_group": 36,
     "costume_group": 23601004,
     "costume_type": 2,
@@ -39229,7 +39229,7 @@
   },
   {
     "id": 857805,
-    "costume_name": "46260",
+    "costume_name": "46259",
     "hero_group": 36,
     "costume_group": 23601005,
     "costume_type": 2,
@@ -39369,7 +39369,7 @@
   },
   {
     "id": 856901,
-    "costume_name": "37989",
+    "costume_name": "37988",
     "hero_group": 69,
     "costume_group": 26901001,
     "costume_type": 2,
@@ -39397,7 +39397,7 @@
   },
   {
     "id": 856902,
-    "costume_name": "37990",
+    "costume_name": "37989",
     "hero_group": 69,
     "costume_group": 26901002,
     "costume_type": 2,
@@ -39425,7 +39425,7 @@
   },
   {
     "id": 856903,
-    "costume_name": "37991",
+    "costume_name": "37990",
     "hero_group": 69,
     "costume_group": 26901003,
     "costume_type": 2,
@@ -39453,7 +39453,7 @@
   },
   {
     "id": 856904,
-    "costume_name": "37992",
+    "costume_name": "37991",
     "hero_group": 69,
     "costume_group": 26901004,
     "costume_type": 2,
@@ -39481,7 +39481,7 @@
   },
   {
     "id": 857001,
-    "costume_name": "46229",
+    "costume_name": "46228",
     "hero_group": 70,
     "costume_group": 27001001,
     "costume_type": 2,
@@ -39509,7 +39509,7 @@
   },
   {
     "id": 857002,
-    "costume_name": "46230",
+    "costume_name": "46229",
     "hero_group": 70,
     "costume_group": 27001002,
     "costume_type": 2,
@@ -39537,7 +39537,7 @@
   },
   {
     "id": 857003,
-    "costume_name": "46231",
+    "costume_name": "46230",
     "hero_group": 70,
     "costume_group": 27001003,
     "costume_type": 2,
@@ -39565,7 +39565,7 @@
   },
   {
     "id": 857004,
-    "costume_name": "46232",
+    "costume_name": "46231",
     "hero_group": 70,
     "costume_group": 27001004,
     "costume_type": 2,
@@ -39593,7 +39593,7 @@
   },
   {
     "id": 857005,
-    "costume_name": "46233",
+    "costume_name": "46232",
     "hero_group": 70,
     "costume_group": 27001005,
     "costume_type": 2,
@@ -39621,7 +39621,7 @@
   },
   {
     "id": 857101,
-    "costume_name": "46234",
+    "costume_name": "46233",
     "hero_group": 71,
     "costume_group": 27101001,
     "costume_type": 2,
@@ -39649,7 +39649,7 @@
   },
   {
     "id": 857102,
-    "costume_name": "46235",
+    "costume_name": "46234",
     "hero_group": 71,
     "costume_group": 27101002,
     "costume_type": 2,
@@ -39677,7 +39677,7 @@
   },
   {
     "id": 857103,
-    "costume_name": "46236",
+    "costume_name": "46235",
     "hero_group": 71,
     "costume_group": 27101003,
     "costume_type": 2,
@@ -39705,7 +39705,7 @@
   },
   {
     "id": 857104,
-    "costume_name": "46237",
+    "costume_name": "46236",
     "hero_group": 71,
     "costume_group": 27101004,
     "costume_type": 2,
@@ -39733,7 +39733,7 @@
   },
   {
     "id": 857105,
-    "costume_name": "46238",
+    "costume_name": "46237",
     "hero_group": 71,
     "costume_group": 27101005,
     "costume_type": 2,
@@ -39761,7 +39761,7 @@
   },
   {
     "id": 857201,
-    "costume_name": "46239",
+    "costume_name": "46238",
     "hero_group": 72,
     "costume_group": 27201001,
     "costume_type": 2,
@@ -39789,7 +39789,7 @@
   },
   {
     "id": 857202,
-    "costume_name": "46240",
+    "costume_name": "46239",
     "hero_group": 72,
     "costume_group": 27201002,
     "costume_type": 2,
@@ -39817,7 +39817,7 @@
   },
   {
     "id": 857203,
-    "costume_name": "46241",
+    "costume_name": "46240",
     "hero_group": 72,
     "costume_group": 27201003,
     "costume_type": 2,
@@ -39845,7 +39845,7 @@
   },
   {
     "id": 857204,
-    "costume_name": "46242",
+    "costume_name": "46241",
     "hero_group": 72,
     "costume_group": 27201004,
     "costume_type": 2,
@@ -40321,7 +40321,7 @@
   },
   {
     "id": 857601,
-    "costume_name": "46247",
+    "costume_name": "46246",
     "hero_group": 1,
     "costume_group": 20105002,
     "costume_type": 2,
@@ -40349,7 +40349,7 @@
   },
   {
     "id": 857603,
-    "costume_name": "46248",
+    "costume_name": "46247",
     "hero_group": 1,
     "costume_group": 20105004,
     "costume_type": 2,
@@ -40377,7 +40377,7 @@
   },
   {
     "id": 857604,
-    "costume_name": "46249",
+    "costume_name": "46248",
     "hero_group": 1,
     "costume_group": 20105005,
     "costume_type": 2,
@@ -40405,7 +40405,7 @@
   },
   {
     "id": 857606,
-    "costume_name": "46251",
+    "costume_name": "46250",
     "hero_group": 1,
     "costume_group": 20105007,
     "costume_type": 2,
@@ -40433,7 +40433,7 @@
   },
   {
     "id": 857605,
-    "costume_name": "46250",
+    "costume_name": "46249",
     "hero_group": 1,
     "costume_group": 20105006,
     "costume_type": 2,
@@ -40881,7 +40881,7 @@
   },
   {
     "id": 4004013,
-    "costume_name": "41424",
+    "costume_name": "41423",
     "hero_group": 1,
     "costume_group": 30101013,
     "costume_type": 3,
@@ -41245,7 +41245,7 @@
   },
   {
     "id": 4005013,
-    "costume_name": "41851",
+    "costume_name": "41850",
     "hero_group": 1,
     "costume_group": 30101013,
     "costume_type": 3,
@@ -41665,7 +41665,7 @@
   },
   {
     "id": 4015012,
-    "costume_name": "40409",
+    "costume_name": "40408",
     "hero_group": 1,
     "costume_group": 30103014,
     "costume_type": 3,
@@ -41945,7 +41945,7 @@
   },
   {
     "id": 4024014,
-    "costume_name": "42692",
+    "costume_name": "42691",
     "hero_group": 31,
     "costume_group": 33101014,
     "costume_type": 3,
@@ -42337,7 +42337,7 @@
   },
   {
     "id": 4025014,
-    "costume_name": "42693",
+    "costume_name": "42692",
     "hero_group": 31,
     "costume_group": 33101014,
     "costume_type": 3,
@@ -43009,7 +43009,7 @@
   },
   {
     "id": 4034020,
-    "costume_name": "40410",
+    "costume_name": "40409",
     "hero_group": 31,
     "costume_group": 33103020,
     "costume_type": 3,
@@ -43569,7 +43569,7 @@
   },
   {
     "id": 4035020,
-    "costume_name": "40411",
+    "costume_name": "40410",
     "hero_group": 31,
     "costume_group": 33103020,
     "costume_type": 3,
@@ -43877,7 +43877,7 @@
   },
   {
     "id": 4044012,
-    "costume_name": "42694",
+    "costume_name": "42693",
     "hero_group": 3,
     "costume_group": 30301011,
     "costume_type": 3,
@@ -44185,7 +44185,7 @@
   },
   {
     "id": 4045012,
-    "costume_name": "42695",
+    "costume_name": "42694",
     "hero_group": 3,
     "costume_group": 30301011,
     "costume_type": 3,
@@ -46845,7 +46845,7 @@
   },
   {
     "id": 4125001,
-    "costume_name": "42696",
+    "costume_name": "42695",
     "hero_group": 13,
     "costume_group": 33401001,
     "costume_type": 3,
@@ -54069,7 +54069,7 @@
   },
   {
     "id": 4385009,
-    "costume_name": "40412",
+    "costume_name": "40411",
     "hero_group": 33,
     "costume_group": 33302009,
     "costume_type": 3,
@@ -54097,7 +54097,7 @@
   },
   {
     "id": 4385010,
-    "costume_name": "40413",
+    "costume_name": "40412",
     "hero_group": 33,
     "costume_group": 33302010,
     "costume_type": 3,
@@ -54153,7 +54153,7 @@
   },
   {
     "id": 4395003,
-    "costume_name": "42697",
+    "costume_name": "42696",
     "hero_group": 1,
     "costume_group": 30105003,
     "costume_type": 3,
@@ -54181,7 +54181,7 @@
   },
   {
     "id": 4395004,
-    "costume_name": "42698",
+    "costume_name": "42697",
     "hero_group": 1,
     "costume_group": 30105004,
     "costume_type": 3,
@@ -54209,7 +54209,7 @@
   },
   {
     "id": 4395006,
-    "costume_name": "42699",
+    "costume_name": "42698",
     "hero_group": 1,
     "costume_group": 30105006,
     "costume_type": 3,
@@ -54993,7 +54993,7 @@
   },
   {
     "id": 4665001,
-    "costume_name": "42733",
+    "costume_name": "42732",
     "hero_group": 63,
     "costume_group": 36301001,
     "costume_type": 3,
@@ -55021,7 +55021,7 @@
   },
   {
     "id": 4665050,
-    "costume_name": "42734",
+    "costume_name": "42733",
     "hero_group": 63,
     "costume_group": 36301002,
     "costume_type": 3,
@@ -55049,7 +55049,7 @@
   },
   {
     "id": 4665051,
-    "costume_name": "42735",
+    "costume_name": "42734",
     "hero_group": 63,
     "costume_group": 36301003,
     "costume_type": 3,
@@ -55077,7 +55077,7 @@
   },
   {
     "id": 4665052,
-    "costume_name": "42736",
+    "costume_name": "42735",
     "hero_group": 63,
     "costume_group": 36301004,
     "costume_type": 3,
@@ -55105,7 +55105,7 @@
   },
   {
     "id": 4665053,
-    "costume_name": "42737",
+    "costume_name": "42736",
     "hero_group": 63,
     "costume_group": 36301005,
     "costume_type": 3,
@@ -55133,7 +55133,7 @@
   },
   {
     "id": 4645001,
-    "costume_name": "42723",
+    "costume_name": "42722",
     "hero_group": 64,
     "costume_group": 36401001,
     "costume_type": 3,
@@ -55161,7 +55161,7 @@
   },
   {
     "id": 4645002,
-    "costume_name": "42724",
+    "costume_name": "42723",
     "hero_group": 64,
     "costume_group": 36401002,
     "costume_type": 3,
@@ -55189,7 +55189,7 @@
   },
   {
     "id": 4645003,
-    "costume_name": "42725",
+    "costume_name": "42724",
     "hero_group": 64,
     "costume_group": 36401003,
     "costume_type": 3,
@@ -55217,7 +55217,7 @@
   },
   {
     "id": 4645004,
-    "costume_name": "42726",
+    "costume_name": "42725",
     "hero_group": 64,
     "costume_group": 36401004,
     "costume_type": 3,
@@ -55245,7 +55245,7 @@
   },
   {
     "id": 4645005,
-    "costume_name": "42727",
+    "costume_name": "42726",
     "hero_group": 64,
     "costume_group": 36401005,
     "costume_type": 3,
@@ -55273,7 +55273,7 @@
   },
   {
     "id": 4675001,
-    "costume_name": "42738",
+    "costume_name": "42737",
     "hero_group": 65,
     "costume_group": 36501001,
     "costume_type": 3,
@@ -55301,7 +55301,7 @@
   },
   {
     "id": 4675002,
-    "costume_name": "42739",
+    "costume_name": "42738",
     "hero_group": 65,
     "costume_group": 36501002,
     "costume_type": 3,
@@ -55329,7 +55329,7 @@
   },
   {
     "id": 4675003,
-    "costume_name": "42740",
+    "costume_name": "42739",
     "hero_group": 65,
     "costume_group": 36501003,
     "costume_type": 3,
@@ -55357,7 +55357,7 @@
   },
   {
     "id": 4675004,
-    "costume_name": "42741",
+    "costume_name": "42740",
     "hero_group": 65,
     "costume_group": 36501004,
     "costume_type": 3,
@@ -55385,7 +55385,7 @@
   },
   {
     "id": 4675005,
-    "costume_name": "42742",
+    "costume_name": "42741",
     "hero_group": 65,
     "costume_group": 36501005,
     "costume_type": 3,
@@ -55413,7 +55413,7 @@
   },
   {
     "id": 4765001,
-    "costume_name": "42759",
+    "costume_name": "42758",
     "hero_group": 66,
     "costume_group": 36601001,
     "costume_type": 3,
@@ -55441,7 +55441,7 @@
   },
   {
     "id": 4765002,
-    "costume_name": "42760",
+    "costume_name": "42759",
     "hero_group": 66,
     "costume_group": 36601002,
     "costume_type": 3,
@@ -55469,7 +55469,7 @@
   },
   {
     "id": 4765003,
-    "costume_name": "42761",
+    "costume_name": "42760",
     "hero_group": 66,
     "costume_group": 36601003,
     "costume_type": 3,
@@ -55497,7 +55497,7 @@
   },
   {
     "id": 4765004,
-    "costume_name": "42762",
+    "costume_name": "42761",
     "hero_group": 66,
     "costume_group": 36601004,
     "costume_type": 3,
@@ -55889,7 +55889,7 @@
   },
   {
     "id": 4475007,
-    "costume_name": "41866",
+    "costume_name": "41865",
     "hero_group": 46,
     "costume_group": 34601007,
     "costume_type": 3,
@@ -56085,7 +56085,7 @@
   },
   {
     "id": 4485007,
-    "costume_name": "42703",
+    "costume_name": "42702",
     "hero_group": 47,
     "costume_group": 34701007,
     "costume_type": 3,
@@ -56281,7 +56281,7 @@
   },
   {
     "id": 4555007,
-    "costume_name": "41364",
+    "costume_name": "41363",
     "hero_group": 48,
     "costume_group": 34801007,
     "costume_type": 3,
@@ -56477,7 +56477,7 @@
   },
   {
     "id": 4565007,
-    "costume_name": "42704",
+    "costume_name": "42703",
     "hero_group": 49,
     "costume_group": 34901007,
     "costume_type": 3,
@@ -56533,7 +56533,7 @@
   },
   {
     "id": 4575001,
-    "costume_name": "42705",
+    "costume_name": "42704",
     "hero_group": 50,
     "costume_group": 37317001,
     "costume_type": 3,
@@ -56561,7 +56561,7 @@
   },
   {
     "id": 4575002,
-    "costume_name": "42706",
+    "costume_name": "42705",
     "hero_group": 50,
     "costume_group": 37317002,
     "costume_type": 3,
@@ -56589,7 +56589,7 @@
   },
   {
     "id": 4575003,
-    "costume_name": "42707",
+    "costume_name": "42706",
     "hero_group": 50,
     "costume_group": 37317003,
     "costume_type": 3,
@@ -56617,7 +56617,7 @@
   },
   {
     "id": 4575004,
-    "costume_name": "42708",
+    "costume_name": "42707",
     "hero_group": 50,
     "costume_group": 37317004,
     "costume_type": 3,
@@ -56645,7 +56645,7 @@
   },
   {
     "id": 4575005,
-    "costume_name": "42709",
+    "costume_name": "42708",
     "hero_group": 50,
     "costume_group": 37317005,
     "costume_type": 3,
@@ -56701,7 +56701,7 @@
   },
   {
     "id": 4585001,
-    "costume_name": "42710",
+    "costume_name": "42709",
     "hero_group": 51,
     "costume_group": 35101001,
     "costume_type": 3,
@@ -56729,7 +56729,7 @@
   },
   {
     "id": 4585002,
-    "costume_name": "42711",
+    "costume_name": "42710",
     "hero_group": 51,
     "costume_group": 35101002,
     "costume_type": 3,
@@ -56757,7 +56757,7 @@
   },
   {
     "id": 4585003,
-    "costume_name": "42712",
+    "costume_name": "42711",
     "hero_group": 51,
     "costume_group": 35101003,
     "costume_type": 3,
@@ -56785,7 +56785,7 @@
   },
   {
     "id": 4585004,
-    "costume_name": "42713",
+    "costume_name": "42712",
     "hero_group": 51,
     "costume_group": 35101004,
     "costume_type": 3,
@@ -56813,7 +56813,7 @@
   },
   {
     "id": 4585006,
-    "costume_name": "42715",
+    "costume_name": "42714",
     "hero_group": 51,
     "costume_group": 35101006,
     "costume_type": 3,
@@ -56841,7 +56841,7 @@
   },
   {
     "id": 4585005,
-    "costume_name": "42714",
+    "costume_name": "42713",
     "hero_group": 51,
     "costume_group": 35101005,
     "costume_type": 3,
@@ -56869,7 +56869,7 @@
   },
   {
     "id": 4635001,
-    "costume_name": "42717",
+    "costume_name": "42716",
     "hero_group": 53,
     "costume_group": 35301001,
     "costume_type": 3,
@@ -56897,7 +56897,7 @@
   },
   {
     "id": 4635002,
-    "costume_name": "42718",
+    "costume_name": "42717",
     "hero_group": 53,
     "costume_group": 35301002,
     "costume_type": 3,
@@ -56925,7 +56925,7 @@
   },
   {
     "id": 4635003,
-    "costume_name": "42719",
+    "costume_name": "42718",
     "hero_group": 53,
     "costume_group": 35301003,
     "costume_type": 3,
@@ -56953,7 +56953,7 @@
   },
   {
     "id": 4635004,
-    "costume_name": "42720",
+    "costume_name": "42719",
     "hero_group": 53,
     "costume_group": 35301004,
     "costume_type": 3,
@@ -56981,7 +56981,7 @@
   },
   {
     "id": 4635006,
-    "costume_name": "42722",
+    "costume_name": "42721",
     "hero_group": 53,
     "costume_group": 35301006,
     "costume_type": 3,
@@ -57009,7 +57009,7 @@
   },
   {
     "id": 4635005,
-    "costume_name": "42721",
+    "costume_name": "42720",
     "hero_group": 53,
     "costume_group": 35301005,
     "costume_type": 3,
@@ -57037,7 +57037,7 @@
   },
   {
     "id": 4615001,
-    "costume_name": "39133",
+    "costume_name": "39132",
     "hero_group": 54,
     "costume_group": 35401001,
     "costume_type": 3,
@@ -57065,7 +57065,7 @@
   },
   {
     "id": 4615002,
-    "costume_name": "39134",
+    "costume_name": "39133",
     "hero_group": 54,
     "costume_group": 35401002,
     "costume_type": 3,
@@ -57093,7 +57093,7 @@
   },
   {
     "id": 4615003,
-    "costume_name": "39135",
+    "costume_name": "39134",
     "hero_group": 54,
     "costume_group": 35401003,
     "costume_type": 3,
@@ -57121,7 +57121,7 @@
   },
   {
     "id": 4615004,
-    "costume_name": "39136",
+    "costume_name": "39135",
     "hero_group": 54,
     "costume_group": 35401004,
     "costume_type": 3,
@@ -57149,7 +57149,7 @@
   },
   {
     "id": 4615006,
-    "costume_name": "42716",
+    "costume_name": "42715",
     "hero_group": 54,
     "costume_group": 35401006,
     "costume_type": 3,
@@ -57177,7 +57177,7 @@
   },
   {
     "id": 4615005,
-    "costume_name": "39137",
+    "costume_name": "39136",
     "hero_group": 54,
     "costume_group": 35401005,
     "costume_type": 3,
@@ -57205,7 +57205,7 @@
   },
   {
     "id": 4655001,
-    "costume_name": "42728",
+    "costume_name": "42727",
     "hero_group": 55,
     "costume_group": 37322001,
     "costume_type": 3,
@@ -57233,7 +57233,7 @@
   },
   {
     "id": 4655002,
-    "costume_name": "42729",
+    "costume_name": "42728",
     "hero_group": 55,
     "costume_group": 37322002,
     "costume_type": 3,
@@ -57261,7 +57261,7 @@
   },
   {
     "id": 4655003,
-    "costume_name": "42730",
+    "costume_name": "42729",
     "hero_group": 55,
     "costume_group": 37322003,
     "costume_type": 3,
@@ -57289,7 +57289,7 @@
   },
   {
     "id": 4655004,
-    "costume_name": "42731",
+    "costume_name": "42730",
     "hero_group": 55,
     "costume_group": 37322004,
     "costume_type": 3,
@@ -57317,7 +57317,7 @@
   },
   {
     "id": 4655007,
-    "costume_name": "42732",
+    "costume_name": "42731",
     "hero_group": 55,
     "costume_group": 37322007,
     "costume_type": 3,
@@ -57849,7 +57849,7 @@
   },
   {
     "id": 4415002,
-    "costume_name": "42700",
+    "costume_name": "42699",
     "hero_group": 36,
     "costume_group": 33601002,
     "costume_type": 3,
@@ -57877,7 +57877,7 @@
   },
   {
     "id": 4415003,
-    "costume_name": "42701",
+    "costume_name": "42700",
     "hero_group": 36,
     "costume_group": 33601003,
     "costume_type": 3,
@@ -57905,7 +57905,7 @@
   },
   {
     "id": 4415004,
-    "costume_name": "42702",
+    "costume_name": "42701",
     "hero_group": 36,
     "costume_group": 33601004,
     "costume_type": 3,
@@ -58073,7 +58073,7 @@
   },
   {
     "id": 4695001,
-    "costume_name": "37804",
+    "costume_name": "37803",
     "hero_group": 69,
     "costume_group": 36901001,
     "costume_type": 3,
@@ -58101,7 +58101,7 @@
   },
   {
     "id": 4695002,
-    "costume_name": "37805",
+    "costume_name": "37804",
     "hero_group": 69,
     "costume_group": 36901002,
     "costume_type": 3,
@@ -58129,7 +58129,7 @@
   },
   {
     "id": 4695003,
-    "costume_name": "37806",
+    "costume_name": "37805",
     "hero_group": 69,
     "costume_group": 36901003,
     "costume_type": 3,
@@ -58157,7 +58157,7 @@
   },
   {
     "id": 4695004,
-    "costume_name": "37807",
+    "costume_name": "37806",
     "hero_group": 69,
     "costume_group": 36901004,
     "costume_type": 3,
@@ -58185,7 +58185,7 @@
   },
   {
     "id": 4695005,
-    "costume_name": "37808",
+    "costume_name": "37807",
     "hero_group": 69,
     "costume_group": 36901005,
     "costume_type": 3,
@@ -58213,7 +58213,7 @@
   },
   {
     "id": 4705001,
-    "costume_name": "42743",
+    "costume_name": "42742",
     "hero_group": 70,
     "costume_group": 37001001,
     "costume_type": 3,
@@ -58241,7 +58241,7 @@
   },
   {
     "id": 4705002,
-    "costume_name": "42744",
+    "costume_name": "42743",
     "hero_group": 70,
     "costume_group": 37001002,
     "costume_type": 3,
@@ -58269,7 +58269,7 @@
   },
   {
     "id": 4705003,
-    "costume_name": "42745",
+    "costume_name": "42744",
     "hero_group": 70,
     "costume_group": 37001003,
     "costume_type": 3,
@@ -58297,7 +58297,7 @@
   },
   {
     "id": 4705004,
-    "costume_name": "42746",
+    "costume_name": "42745",
     "hero_group": 70,
     "costume_group": 37001004,
     "costume_type": 3,
@@ -58325,7 +58325,7 @@
   },
   {
     "id": 4705005,
-    "costume_name": "42747",
+    "costume_name": "42746",
     "hero_group": 70,
     "costume_group": 37001005,
     "costume_type": 3,
@@ -58353,7 +58353,7 @@
   },
   {
     "id": 4705006,
-    "costume_name": "42748",
+    "costume_name": "42747",
     "hero_group": 70,
     "costume_group": 37001006,
     "costume_type": 3,
@@ -58381,7 +58381,7 @@
   },
   {
     "id": 4715001,
-    "costume_name": "42749",
+    "costume_name": "42748",
     "hero_group": 71,
     "costume_group": 37101001,
     "costume_type": 3,
@@ -58409,7 +58409,7 @@
   },
   {
     "id": 4715002,
-    "costume_name": "42750",
+    "costume_name": "42749",
     "hero_group": 71,
     "costume_group": 37101002,
     "costume_type": 3,
@@ -58437,7 +58437,7 @@
   },
   {
     "id": 4715003,
-    "costume_name": "42751",
+    "costume_name": "42750",
     "hero_group": 71,
     "costume_group": 37101003,
     "costume_type": 3,
@@ -58465,7 +58465,7 @@
   },
   {
     "id": 4715004,
-    "costume_name": "42752",
+    "costume_name": "42751",
     "hero_group": 71,
     "costume_group": 37101004,
     "costume_type": 3,
@@ -58493,7 +58493,7 @@
   },
   {
     "id": 4715005,
-    "costume_name": "42753",
+    "costume_name": "42752",
     "hero_group": 71,
     "costume_group": 37101005,
     "costume_type": 3,
@@ -58521,7 +58521,7 @@
   },
   {
     "id": 4715006,
-    "costume_name": "42754",
+    "costume_name": "42753",
     "hero_group": 71,
     "costume_group": 37101006,
     "costume_type": 3,
@@ -58549,7 +58549,7 @@
   },
   {
     "id": 4725001,
-    "costume_name": "42755",
+    "costume_name": "42754",
     "hero_group": 72,
     "costume_group": 37201001,
     "costume_type": 3,
@@ -58577,7 +58577,7 @@
   },
   {
     "id": 4725002,
-    "costume_name": "42756",
+    "costume_name": "42755",
     "hero_group": 72,
     "costume_group": 37201002,
     "costume_type": 3,
@@ -58605,7 +58605,7 @@
   },
   {
     "id": 4725003,
-    "costume_name": "42757",
+    "costume_name": "42756",
     "hero_group": 72,
     "costume_group": 37201003,
     "costume_type": 3,
@@ -58633,7 +58633,7 @@
   },
   {
     "id": 4725004,
-    "costume_name": "42758",
+    "costume_name": "42757",
     "hero_group": 72,
     "costume_group": 37201004,
     "costume_type": 3,
@@ -59417,7 +59417,7 @@
   },
   {
     "id": 4900007,
-    "costume_name": "42755",
+    "costume_name": "42754",
     "hero_group": 72,
     "costume_group": 4900007,
     "costume_type": 3,

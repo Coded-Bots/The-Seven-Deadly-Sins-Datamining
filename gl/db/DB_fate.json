@@ -1311,25 +1311,6 @@
     "fate_desc": "13632"
   },
   {
-    "id": 60911,
-    "main_hero_id": 1425002,
-    "fate_hero_id": 1005003,
-    "r_lv_passive_id": 600111,
-    "sr_lv_passive_id": 600112,
-    "ssr_lv_passive_id": 600113,
-    "ur_lv_passive_id": 600114,
-    "special_coop_card_id_1": 101031,
-    "special_coop_card_id_2": 101032,
-    "special_coop_card_id_3": 101033,
-    "special_coop_card_id_4": 101034,
-    "special_coop_card_id_5": 101035,
-    "special_coop_card_id_6": 101036,
-    "special_coop_ani_folder": "elizabeth_hawk_meliodas",
-    "special_coop_desc": "3252",
-    "fate_name": "14444",
-    "fate_desc": "13657"
-  },
-  {
     "id": 60912,
     "main_hero_id": 1425002,
     "fate_hero_id": 1005001,
@@ -3436,7 +3417,7 @@
     "special_coop_ani_folder": "ban_king",
     "special_coop_desc": "3252",
     "fate_name": "14543",
-    "fate_desc": "40548"
+    "fate_desc": "40547"
   },
   {
     "id": 62113,
@@ -5697,7 +5678,7 @@
     "special_coop_ani_folder": "merlin_arthur",
     "special_coop_desc": "3252",
     "fate_name": "14694",
-    "fate_desc": "43356"
+    "fate_desc": "43355"
   },
   {
     "id": 63511,
@@ -5868,7 +5849,7 @@
     "special_coop_ani_folder": "merlin_arthur",
     "special_coop_desc": "3252",
     "fate_name": "14696",
-    "fate_desc": "43357"
+    "fate_desc": "43356"
   },
   {
     "id": 63611,
@@ -6039,7 +6020,7 @@
     "special_coop_ani_folder": "merlin_arthur",
     "special_coop_desc": "3252",
     "fate_name": "14698",
-    "fate_desc": "43358"
+    "fate_desc": "43357"
   },
   {
     "id": 63711,
@@ -14379,8 +14360,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38976",
-    "fate_desc": "38937"
+    "fate_name": "38975",
+    "fate_desc": "38936"
   },
   {
     "id": 71012,
@@ -14398,8 +14379,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38977",
-    "fate_desc": "38938"
+    "fate_name": "38976",
+    "fate_desc": "38937"
   },
   {
     "id": 71013,
@@ -14417,8 +14398,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38978",
-    "fate_desc": "38939"
+    "fate_name": "38977",
+    "fate_desc": "38938"
   },
   {
     "id": 71021,
@@ -14436,8 +14417,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38979",
-    "fate_desc": "38940"
+    "fate_name": "38978",
+    "fate_desc": "38939"
   },
   {
     "id": 71022,
@@ -14455,8 +14436,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38980",
-    "fate_desc": "38941"
+    "fate_name": "38979",
+    "fate_desc": "38940"
   },
   {
     "id": 71031,
@@ -14474,8 +14455,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38981",
-    "fate_desc": "38942"
+    "fate_name": "38980",
+    "fate_desc": "38941"
   },
   {
     "id": 71032,
@@ -14493,8 +14474,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43466",
-    "fate_desc": "43359"
+    "fate_name": "43465",
+    "fate_desc": "43358"
   },
   {
     "id": 71111,
@@ -14512,8 +14493,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40557",
-    "fate_desc": "38943"
+    "fate_name": "40556",
+    "fate_desc": "38942"
   },
   {
     "id": 71112,
@@ -14531,8 +14512,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40558",
-    "fate_desc": "43360"
+    "fate_name": "40557",
+    "fate_desc": "43359"
   },
   {
     "id": 71113,
@@ -14550,8 +14531,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40559",
-    "fate_desc": "38944"
+    "fate_name": "40558",
+    "fate_desc": "38943"
   },
   {
     "id": 71121,
@@ -14569,8 +14550,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38982",
-    "fate_desc": "38945"
+    "fate_name": "38981",
+    "fate_desc": "38944"
   },
   {
     "id": 71122,
@@ -14588,8 +14569,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38983",
-    "fate_desc": "38946"
+    "fate_name": "38982",
+    "fate_desc": "38945"
   },
   {
     "id": 71131,
@@ -14607,8 +14588,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38984",
-    "fate_desc": "38947"
+    "fate_name": "38983",
+    "fate_desc": "38946"
   },
   {
     "id": 71132,
@@ -14626,8 +14607,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43467",
-    "fate_desc": "43361"
+    "fate_name": "43466",
+    "fate_desc": "43360"
   },
   {
     "id": 71211,
@@ -14645,8 +14626,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38985",
-    "fate_desc": "38948"
+    "fate_name": "38984",
+    "fate_desc": "38947"
   },
   {
     "id": 71212,
@@ -14664,8 +14645,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38986",
-    "fate_desc": "38949"
+    "fate_name": "38985",
+    "fate_desc": "38948"
   },
   {
     "id": 71213,
@@ -14683,8 +14664,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38987",
-    "fate_desc": "38950"
+    "fate_name": "38986",
+    "fate_desc": "38949"
   },
   {
     "id": 71221,
@@ -14702,8 +14683,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38988",
-    "fate_desc": "38951"
+    "fate_name": "38987",
+    "fate_desc": "38950"
   },
   {
     "id": 71222,
@@ -14721,8 +14702,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38989",
-    "fate_desc": "38952"
+    "fate_name": "38988",
+    "fate_desc": "38951"
   },
   {
     "id": 71223,
@@ -14740,8 +14721,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38990",
-    "fate_desc": "38953"
+    "fate_name": "38989",
+    "fate_desc": "38952"
   },
   {
     "id": 71231,
@@ -14759,8 +14740,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38991",
-    "fate_desc": "38954"
+    "fate_name": "38990",
+    "fate_desc": "38953"
   },
   {
     "id": 71311,
@@ -14778,8 +14759,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38992",
-    "fate_desc": "38955"
+    "fate_name": "38991",
+    "fate_desc": "38954"
   },
   {
     "id": 71312,
@@ -14797,8 +14778,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38993",
-    "fate_desc": "38956"
+    "fate_name": "38992",
+    "fate_desc": "38955"
   },
   {
     "id": 71313,
@@ -14816,8 +14797,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38994",
-    "fate_desc": "38957"
+    "fate_name": "38993",
+    "fate_desc": "38956"
   },
   {
     "id": 71321,
@@ -14835,8 +14816,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38995",
-    "fate_desc": "38958"
+    "fate_name": "38994",
+    "fate_desc": "38957"
   },
   {
     "id": 71322,
@@ -14854,8 +14835,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38996",
-    "fate_desc": "38959"
+    "fate_name": "38995",
+    "fate_desc": "38958"
   },
   {
     "id": 71323,
@@ -14873,8 +14854,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38997",
-    "fate_desc": "38960"
+    "fate_name": "38996",
+    "fate_desc": "38959"
   },
   {
     "id": 71331,
@@ -14892,8 +14873,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38998",
-    "fate_desc": "38961"
+    "fate_name": "38997",
+    "fate_desc": "38960"
   },
   {
     "id": 71332,
@@ -14911,8 +14892,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "41372",
-    "fate_desc": "41371"
+    "fate_name": "41371",
+    "fate_desc": "41370"
   },
   {
     "id": 71411,
@@ -14930,8 +14911,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "38999",
-    "fate_desc": "38962"
+    "fate_name": "38998",
+    "fate_desc": "38961"
   },
   {
     "id": 71412,
@@ -14949,8 +14930,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39000",
-    "fate_desc": "38963"
+    "fate_name": "38999",
+    "fate_desc": "38962"
   },
   {
     "id": 71413,
@@ -14968,8 +14949,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39001",
-    "fate_desc": "38964"
+    "fate_name": "39000",
+    "fate_desc": "38963"
   },
   {
     "id": 71421,
@@ -14987,8 +14968,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39002",
-    "fate_desc": "38965"
+    "fate_name": "39001",
+    "fate_desc": "38964"
   },
   {
     "id": 71422,
@@ -15006,8 +14987,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39003",
-    "fate_desc": "38966"
+    "fate_name": "39002",
+    "fate_desc": "38965"
   },
   {
     "id": 71423,
@@ -15025,8 +15006,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39004",
-    "fate_desc": "38967"
+    "fate_name": "39003",
+    "fate_desc": "38966"
   },
   {
     "id": 71431,
@@ -15044,8 +15025,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39005",
-    "fate_desc": "38968"
+    "fate_name": "39004",
+    "fate_desc": "38967"
   },
   {
     "id": 71511,
@@ -15063,8 +15044,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39006",
-    "fate_desc": "38969"
+    "fate_name": "39005",
+    "fate_desc": "38968"
   },
   {
     "id": 71512,
@@ -15082,8 +15063,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39007",
-    "fate_desc": "38970"
+    "fate_name": "39006",
+    "fate_desc": "38969"
   },
   {
     "id": 71513,
@@ -15101,8 +15082,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39008",
-    "fate_desc": "38971"
+    "fate_name": "39007",
+    "fate_desc": "38970"
   },
   {
     "id": 71521,
@@ -15120,8 +15101,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39009",
-    "fate_desc": "38972"
+    "fate_name": "39008",
+    "fate_desc": "38971"
   },
   {
     "id": 71522,
@@ -15139,8 +15120,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39010",
-    "fate_desc": "38973"
+    "fate_name": "39009",
+    "fate_desc": "38972"
   },
   {
     "id": 71523,
@@ -15158,8 +15139,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39011",
-    "fate_desc": "38974"
+    "fate_name": "39010",
+    "fate_desc": "38973"
   },
   {
     "id": 71531,
@@ -15177,8 +15158,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39012",
-    "fate_desc": "38975"
+    "fate_name": "39011",
+    "fate_desc": "38974"
   },
   {
     "id": 71611,
@@ -15196,8 +15177,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39852",
-    "fate_desc": "39845"
+    "fate_name": "39851",
+    "fate_desc": "39844"
   },
   {
     "id": 71612,
@@ -15215,8 +15196,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39853",
-    "fate_desc": "39846"
+    "fate_name": "39852",
+    "fate_desc": "39845"
   },
   {
     "id": 71613,
@@ -15234,8 +15215,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39854",
-    "fate_desc": "39847"
+    "fate_name": "39853",
+    "fate_desc": "39846"
   },
   {
     "id": 71621,
@@ -15253,8 +15234,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39855",
-    "fate_desc": "39848"
+    "fate_name": "39854",
+    "fate_desc": "39847"
   },
   {
     "id": 71622,
@@ -15272,8 +15253,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39856",
-    "fate_desc": "39849"
+    "fate_name": "39855",
+    "fate_desc": "39848"
   },
   {
     "id": 71623,
@@ -15291,8 +15272,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39857",
-    "fate_desc": "39850"
+    "fate_name": "39856",
+    "fate_desc": "39849"
   },
   {
     "id": 71631,
@@ -15310,8 +15291,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39858",
-    "fate_desc": "39851"
+    "fate_name": "39857",
+    "fate_desc": "39850"
   },
   {
     "id": 71711,
@@ -15329,8 +15310,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39816",
-    "fate_desc": "39808"
+    "fate_name": "39815",
+    "fate_desc": "39807"
   },
   {
     "id": 71712,
@@ -15348,8 +15329,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39817",
-    "fate_desc": "39809"
+    "fate_name": "39816",
+    "fate_desc": "39808"
   },
   {
     "id": 71713,
@@ -15367,8 +15348,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39818",
-    "fate_desc": "39810"
+    "fate_name": "39817",
+    "fate_desc": "39809"
   },
   {
     "id": 71721,
@@ -15386,8 +15367,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39819",
-    "fate_desc": "39811"
+    "fate_name": "39818",
+    "fate_desc": "39810"
   },
   {
     "id": 71722,
@@ -15405,8 +15386,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39820",
-    "fate_desc": "39812"
+    "fate_name": "39819",
+    "fate_desc": "39811"
   },
   {
     "id": 71723,
@@ -15424,8 +15405,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39821",
-    "fate_desc": "39813"
+    "fate_name": "39820",
+    "fate_desc": "39812"
   },
   {
     "id": 71731,
@@ -15443,8 +15424,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39822",
-    "fate_desc": "39814"
+    "fate_name": "39821",
+    "fate_desc": "39813"
   },
   {
     "id": 71732,
@@ -15462,8 +15443,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "39823",
-    "fate_desc": "39815"
+    "fate_name": "39822",
+    "fate_desc": "39814"
   },
   {
     "id": 71911,
@@ -15481,8 +15462,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40566",
-    "fate_desc": "43363"
+    "fate_name": "40565",
+    "fate_desc": "43362"
   },
   {
     "id": 71912,
@@ -15500,8 +15481,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40567",
-    "fate_desc": "43364"
+    "fate_name": "40566",
+    "fate_desc": "43363"
   },
   {
     "id": 71913,
@@ -15519,8 +15500,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40568",
-    "fate_desc": "43365"
+    "fate_name": "40567",
+    "fate_desc": "43364"
   },
   {
     "id": 71921,
@@ -15538,8 +15519,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40569",
-    "fate_desc": "43366"
+    "fate_name": "40568",
+    "fate_desc": "43365"
   },
   {
     "id": 71922,
@@ -15557,8 +15538,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40570",
-    "fate_desc": "43367"
+    "fate_name": "40569",
+    "fate_desc": "43366"
   },
   {
     "id": 72011,
@@ -15576,8 +15557,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43468",
-    "fate_desc": "43368"
+    "fate_name": "43467",
+    "fate_desc": "43367"
   },
   {
     "id": 72012,
@@ -15595,8 +15576,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43469",
-    "fate_desc": "43369"
+    "fate_name": "43468",
+    "fate_desc": "43368"
   },
   {
     "id": 72013,
@@ -15614,8 +15595,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43470",
-    "fate_desc": "43370"
+    "fate_name": "43469",
+    "fate_desc": "43369"
   },
   {
     "id": 72021,
@@ -15633,8 +15614,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43471",
-    "fate_desc": "43371"
+    "fate_name": "43470",
+    "fate_desc": "43370"
   },
   {
     "id": 72022,
@@ -15652,8 +15633,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43472",
-    "fate_desc": "43372"
+    "fate_name": "43471",
+    "fate_desc": "43371"
   },
   {
     "id": 72111,
@@ -15671,8 +15652,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40571",
-    "fate_desc": "43373"
+    "fate_name": "40570",
+    "fate_desc": "43372"
   },
   {
     "id": 72112,
@@ -15690,8 +15671,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40572",
-    "fate_desc": "43374"
+    "fate_name": "40571",
+    "fate_desc": "43373"
   },
   {
     "id": 72113,
@@ -15709,8 +15690,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40573",
-    "fate_desc": "43375"
+    "fate_name": "40572",
+    "fate_desc": "43374"
   },
   {
     "id": 72121,
@@ -15728,8 +15709,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40574",
-    "fate_desc": "43376"
+    "fate_name": "40573",
+    "fate_desc": "43375"
   },
   {
     "id": 72122,
@@ -15747,8 +15728,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40575",
-    "fate_desc": "43377"
+    "fate_name": "40574",
+    "fate_desc": "43376"
   },
   {
     "id": 72123,
@@ -15766,8 +15747,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40576",
-    "fate_desc": "43378"
+    "fate_name": "40575",
+    "fate_desc": "43377"
   },
   {
     "id": 72131,
@@ -15785,8 +15766,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40577",
-    "fate_desc": "43379"
+    "fate_name": "40576",
+    "fate_desc": "43378"
   },
   {
     "id": 72211,
@@ -15804,8 +15785,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40579",
-    "fate_desc": "40554"
+    "fate_name": "40578",
+    "fate_desc": "40553"
   },
   {
     "id": 72212,
@@ -15823,8 +15804,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40580",
-    "fate_desc": "40555"
+    "fate_name": "40579",
+    "fate_desc": "40554"
   },
   {
     "id": 72213,
@@ -15842,8 +15823,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40581",
-    "fate_desc": "40556"
+    "fate_name": "40580",
+    "fate_desc": "40555"
   },
   {
     "id": 72221,
@@ -15861,8 +15842,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40582",
-    "fate_desc": "43381"
+    "fate_name": "40581",
+    "fate_desc": "43380"
   },
   {
     "id": 72222,
@@ -15880,8 +15861,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40583",
-    "fate_desc": "43382"
+    "fate_name": "40582",
+    "fate_desc": "43381"
   },
   {
     "id": 72231,
@@ -15899,8 +15880,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40584",
-    "fate_desc": "43383"
+    "fate_name": "40583",
+    "fate_desc": "43382"
   },
   {
     "id": 72232,
@@ -15918,8 +15899,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40585",
-    "fate_desc": "43384"
+    "fate_name": "40584",
+    "fate_desc": "43383"
   },
   {
     "id": 72311,
@@ -15937,8 +15918,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40586",
-    "fate_desc": "43385"
+    "fate_name": "40585",
+    "fate_desc": "43384"
   },
   {
     "id": 72312,
@@ -15956,8 +15937,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40587",
-    "fate_desc": "43386"
+    "fate_name": "40586",
+    "fate_desc": "43385"
   },
   {
     "id": 72313,
@@ -15975,8 +15956,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40588",
-    "fate_desc": "43387"
+    "fate_name": "40587",
+    "fate_desc": "43386"
   },
   {
     "id": 72321,
@@ -15994,8 +15975,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40589",
-    "fate_desc": "43388"
+    "fate_name": "40588",
+    "fate_desc": "43387"
   },
   {
     "id": 72322,
@@ -16013,8 +15994,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40590",
-    "fate_desc": "43389"
+    "fate_name": "40589",
+    "fate_desc": "43388"
   },
   {
     "id": 72331,
@@ -16032,8 +16013,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40591",
-    "fate_desc": "43390"
+    "fate_name": "40590",
+    "fate_desc": "43389"
   },
   {
     "id": 72332,
@@ -16051,8 +16032,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "40592",
-    "fate_desc": "43391"
+    "fate_name": "40591",
+    "fate_desc": "43390"
   },
   {
     "id": 72411,
@@ -16070,8 +16051,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43473",
-    "fate_desc": "43392"
+    "fate_name": "43472",
+    "fate_desc": "43391"
   },
   {
     "id": 72412,
@@ -16089,8 +16070,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43474",
-    "fate_desc": "43393"
+    "fate_name": "43473",
+    "fate_desc": "43392"
   },
   {
     "id": 72413,
@@ -16108,8 +16089,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43475",
-    "fate_desc": "43394"
+    "fate_name": "43474",
+    "fate_desc": "43393"
   },
   {
     "id": 72421,
@@ -16127,8 +16108,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43476",
-    "fate_desc": "43395"
+    "fate_name": "43475",
+    "fate_desc": "43394"
   },
   {
     "id": 72422,
@@ -16146,8 +16127,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43477",
-    "fate_desc": "43396"
+    "fate_name": "43476",
+    "fate_desc": "43395"
   },
   {
     "id": 72423,
@@ -16165,8 +16146,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43478",
-    "fate_desc": "43397"
+    "fate_name": "43477",
+    "fate_desc": "43396"
   },
   {
     "id": 72431,
@@ -16184,8 +16165,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43479",
-    "fate_desc": "43398"
+    "fate_name": "43478",
+    "fate_desc": "43397"
   },
   {
     "id": 72511,
@@ -16203,8 +16184,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43481",
-    "fate_desc": "43400"
+    "fate_name": "43480",
+    "fate_desc": "43399"
   },
   {
     "id": 72512,
@@ -16222,8 +16203,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43482",
-    "fate_desc": "43401"
+    "fate_name": "43481",
+    "fate_desc": "43400"
   },
   {
     "id": 72513,
@@ -16241,8 +16222,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43483",
-    "fate_desc": "43402"
+    "fate_name": "43482",
+    "fate_desc": "43401"
   },
   {
     "id": 72521,
@@ -16260,8 +16241,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43484",
-    "fate_desc": "43403"
+    "fate_name": "43483",
+    "fate_desc": "43402"
   },
   {
     "id": 72522,
@@ -16279,8 +16260,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43485",
-    "fate_desc": "43404"
+    "fate_name": "43484",
+    "fate_desc": "43403"
   },
   {
     "id": 72523,
@@ -16298,8 +16279,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43486",
-    "fate_desc": "43405"
+    "fate_name": "43485",
+    "fate_desc": "43404"
   },
   {
     "id": 72531,
@@ -16317,8 +16298,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43487",
-    "fate_desc": "43406"
+    "fate_name": "43486",
+    "fate_desc": "43405"
   },
   {
     "id": 72611,
@@ -16336,8 +16317,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43488",
-    "fate_desc": "43407"
+    "fate_name": "43487",
+    "fate_desc": "43406"
   },
   {
     "id": 72612,
@@ -16355,8 +16336,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43489",
-    "fate_desc": "43408"
+    "fate_name": "43488",
+    "fate_desc": "43407"
   },
   {
     "id": 72613,
@@ -16374,8 +16355,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43490",
-    "fate_desc": "43409"
+    "fate_name": "43489",
+    "fate_desc": "43408"
   },
   {
     "id": 72621,
@@ -16393,8 +16374,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43491",
-    "fate_desc": "43410"
+    "fate_name": "43490",
+    "fate_desc": "43409"
   },
   {
     "id": 72622,
@@ -16412,8 +16393,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43492",
-    "fate_desc": "43411"
+    "fate_name": "43491",
+    "fate_desc": "43410"
   },
   {
     "id": 72623,
@@ -16431,8 +16412,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43493",
-    "fate_desc": "43412"
+    "fate_name": "43492",
+    "fate_desc": "43411"
   },
   {
     "id": 72631,
@@ -16450,8 +16431,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43494",
-    "fate_desc": "43413"
+    "fate_name": "43493",
+    "fate_desc": "43412"
   },
   {
     "id": 72632,
@@ -16469,8 +16450,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43495",
-    "fate_desc": "43414"
+    "fate_name": "43494",
+    "fate_desc": "43413"
   },
   {
     "id": 72721,
@@ -16488,8 +16469,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43498",
-    "fate_desc": "43417"
+    "fate_name": "43497",
+    "fate_desc": "43416"
   },
   {
     "id": 72722,
@@ -16507,8 +16488,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43499",
-    "fate_desc": "43418"
+    "fate_name": "43498",
+    "fate_desc": "43417"
   },
   {
     "id": 72723,
@@ -16526,8 +16507,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43500",
-    "fate_desc": "43419"
+    "fate_name": "43499",
+    "fate_desc": "43418"
   },
   {
     "id": 72731,
@@ -16545,8 +16526,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43501",
-    "fate_desc": "43420"
+    "fate_name": "43500",
+    "fate_desc": "43419"
   },
   {
     "id": 72732,
@@ -16564,8 +16545,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43502",
-    "fate_desc": "43421"
+    "fate_name": "43501",
+    "fate_desc": "43420"
   },
   {
     "id": 72821,
@@ -16583,8 +16564,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43505",
-    "fate_desc": "43424"
+    "fate_name": "43504",
+    "fate_desc": "43423"
   },
   {
     "id": 72822,
@@ -16602,8 +16583,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43506",
-    "fate_desc": "43425"
+    "fate_name": "43505",
+    "fate_desc": "43424"
   },
   {
     "id": 72823,
@@ -16621,8 +16602,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43507",
-    "fate_desc": "43426"
+    "fate_name": "43506",
+    "fate_desc": "43425"
   },
   {
     "id": 72831,
@@ -16640,8 +16621,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43508",
-    "fate_desc": "43427"
+    "fate_name": "43507",
+    "fate_desc": "43426"
   },
   {
     "id": 72832,
@@ -16659,8 +16640,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43509",
-    "fate_desc": "43428"
+    "fate_name": "43508",
+    "fate_desc": "43427"
   },
   {
     "id": 72911,
@@ -16678,8 +16659,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43510",
-    "fate_desc": "43429"
+    "fate_name": "43509",
+    "fate_desc": "43428"
   },
   {
     "id": 72912,
@@ -16697,8 +16678,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43511",
-    "fate_desc": "43430"
+    "fate_name": "43510",
+    "fate_desc": "43429"
   },
   {
     "id": 72913,
@@ -16716,8 +16697,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43512",
-    "fate_desc": "43431"
+    "fate_name": "43511",
+    "fate_desc": "43430"
   },
   {
     "id": 72914,
@@ -16735,8 +16716,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43513",
-    "fate_desc": "43432"
+    "fate_name": "43512",
+    "fate_desc": "43431"
   },
   {
     "id": 72921,
@@ -16754,8 +16735,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43514",
-    "fate_desc": "43433"
+    "fate_name": "43513",
+    "fate_desc": "43432"
   },
   {
     "id": 72922,
@@ -16773,8 +16754,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43515",
-    "fate_desc": "43434"
+    "fate_name": "43514",
+    "fate_desc": "43433"
   },
   {
     "id": 72923,
@@ -16792,8 +16773,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43516",
-    "fate_desc": "43435"
+    "fate_name": "43515",
+    "fate_desc": "43434"
   },
   {
     "id": 73011,
@@ -16811,8 +16792,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43517",
-    "fate_desc": "43436"
+    "fate_name": "43516",
+    "fate_desc": "43435"
   },
   {
     "id": 73012,
@@ -16830,8 +16811,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43518",
-    "fate_desc": "43437"
+    "fate_name": "43517",
+    "fate_desc": "43436"
   },
   {
     "id": 73013,
@@ -16849,8 +16830,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43519",
-    "fate_desc": "43438"
+    "fate_name": "43518",
+    "fate_desc": "43437"
   },
   {
     "id": 73021,
@@ -16868,8 +16849,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43520",
-    "fate_desc": "43439"
+    "fate_name": "43519",
+    "fate_desc": "43438"
   },
   {
     "id": 73022,
@@ -16887,8 +16868,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43521",
-    "fate_desc": "43440"
+    "fate_name": "43520",
+    "fate_desc": "43439"
   },
   {
     "id": 73031,
@@ -16906,8 +16887,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43522",
-    "fate_desc": "43441"
+    "fate_name": "43521",
+    "fate_desc": "43440"
   },
   {
     "id": 73032,
@@ -16925,8 +16906,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43523",
-    "fate_desc": "43442"
+    "fate_name": "43522",
+    "fate_desc": "43441"
   },
   {
     "id": 73111,
@@ -16944,8 +16925,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43524",
-    "fate_desc": "43443"
+    "fate_name": "43523",
+    "fate_desc": "43442"
   },
   {
     "id": 73112,
@@ -16963,8 +16944,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43525",
-    "fate_desc": "43444"
+    "fate_name": "43524",
+    "fate_desc": "43443"
   },
   {
     "id": 73113,
@@ -16982,8 +16963,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43526",
-    "fate_desc": "43445"
+    "fate_name": "43525",
+    "fate_desc": "43444"
   },
   {
     "id": 73121,
@@ -17001,8 +16982,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43527",
-    "fate_desc": "43446"
+    "fate_name": "43526",
+    "fate_desc": "43445"
   },
   {
     "id": 73122,
@@ -17020,8 +17001,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43528",
-    "fate_desc": "43447"
+    "fate_name": "43527",
+    "fate_desc": "43446"
   },
   {
     "id": 73211,
@@ -17039,8 +17020,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43529",
-    "fate_desc": "43448"
+    "fate_name": "43528",
+    "fate_desc": "43447"
   },
   {
     "id": 73212,
@@ -17058,8 +17039,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43530",
-    "fate_desc": "43449"
+    "fate_name": "43529",
+    "fate_desc": "43448"
   },
   {
     "id": 73213,
@@ -17077,8 +17058,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43531",
-    "fate_desc": "43450"
+    "fate_name": "43530",
+    "fate_desc": "43449"
   },
   {
     "id": 73221,
@@ -17096,8 +17077,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43532",
-    "fate_desc": "43451"
+    "fate_name": "43531",
+    "fate_desc": "43450"
   },
   {
     "id": 73222,
@@ -17115,8 +17096,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43533",
-    "fate_desc": "43452"
+    "fate_name": "43532",
+    "fate_desc": "43451"
   },
   {
     "id": 73223,
@@ -17134,8 +17115,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43534",
-    "fate_desc": "43453"
+    "fate_name": "43533",
+    "fate_desc": "43452"
   },
   {
     "id": 73231,
@@ -17153,8 +17134,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43535",
-    "fate_desc": "43454"
+    "fate_name": "43534",
+    "fate_desc": "43453"
   },
   {
     "id": 73232,
@@ -17172,8 +17153,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43536",
-    "fate_desc": "43455"
+    "fate_name": "43535",
+    "fate_desc": "43454"
   },
   {
     "id": 73611,
@@ -17191,8 +17172,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43537",
-    "fate_desc": "43456"
+    "fate_name": "43536",
+    "fate_desc": "43455"
   },
   {
     "id": 73612,
@@ -17210,8 +17191,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43538",
-    "fate_desc": "43457"
+    "fate_name": "43537",
+    "fate_desc": "43456"
   },
   {
     "id": 73613,
@@ -17229,8 +17210,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43539",
-    "fate_desc": "43458"
+    "fate_name": "43538",
+    "fate_desc": "43457"
   },
   {
     "id": 73621,
@@ -17248,8 +17229,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43540",
-    "fate_desc": "43459"
+    "fate_name": "43539",
+    "fate_desc": "43458"
   },
   {
     "id": 73622,
@@ -17267,8 +17248,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43541",
-    "fate_desc": "43460"
+    "fate_name": "43540",
+    "fate_desc": "43459"
   },
   {
     "id": 74211,
@@ -17286,8 +17267,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43542",
-    "fate_desc": "43461"
+    "fate_name": "43541",
+    "fate_desc": "43460"
   },
   {
     "id": 74212,
@@ -17305,8 +17286,8 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43543",
-    "fate_desc": "43462"
+    "fate_name": "43542",
+    "fate_desc": "43461"
   },
   {
     "id": 74213,
@@ -17324,7 +17305,7 @@
     "special_coop_card_id_6": 0,
     "special_coop_ani_folder": "",
     "special_coop_desc": "",
-    "fate_name": "43544",
-    "fate_desc": "43463"
+    "fate_name": "43543",
+    "fate_desc": "43462"
   }
 ]

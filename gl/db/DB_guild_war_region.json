@@ -1,37 +1,37 @@
 [
   {
     "guild_war_region_id": 1,
-    "guild_war_region_name": "44024",
+    "guild_war_region_name": "44023",
     "guild_war_region_icon": "icon_guild_war_area_01",
     "guild_war_region_score": 400
   },
   {
     "guild_war_region_id": 2,
-    "guild_war_region_name": "44025",
+    "guild_war_region_name": "44024",
     "guild_war_region_icon": "icon_guild_war_area_02",
     "guild_war_region_score": 400
   },
   {
     "guild_war_region_id": 3,
-    "guild_war_region_name": "44026",
+    "guild_war_region_name": "44025",
     "guild_war_region_icon": "icon_guild_war_area_03",
     "guild_war_region_score": 500
   },
   {
     "guild_war_region_id": 4,
-    "guild_war_region_name": "44027",
+    "guild_war_region_name": "44026",
     "guild_war_region_icon": "icon_guild_war_area_04",
     "guild_war_region_score": 500
   },
   {
     "guild_war_region_id": 5,
-    "guild_war_region_name": "44028",
+    "guild_war_region_name": "44027",
     "guild_war_region_icon": "icon_guild_war_area_05",
     "guild_war_region_score": 600
   },
   {
     "guild_war_region_id": 6,
-    "guild_war_region_name": "44029",
+    "guild_war_region_name": "44028",
     "guild_war_region_icon": "icon_guild_war_area_06",
     "guild_war_region_score": 600
   }

@@ -28,35 +28,5 @@
     "repulse_drop_item_id": 543103,
     "repulse_drop_item_value": 4,
     "repulse_drop_item_box": 1
-  },
-  {
-    "boss_id": 2260133,
-    "team_index": 202,
-    "change_hell_team_index": 0,
-    "event_type": 0,
-    "event_sub_index": 0,
-    "repulse_drop_item_id": 0,
-    "repulse_drop_item_value": 0,
-    "repulse_drop_item_box": 0
-  },
-  {
-    "boss_id": 2260135,
-    "team_index": 203,
-    "change_hell_team_index": 0,
-    "event_type": 0,
-    "event_sub_index": 0,
-    "repulse_drop_item_id": 0,
-    "repulse_drop_item_value": 0,
-    "repulse_drop_item_box": 0
-  },
-  {
-    "boss_id": 2260137,
-    "team_index": 204,
-    "change_hell_team_index": 0,
-    "event_type": 0,
-    "event_sub_index": 0,
-    "repulse_drop_item_id": 0,
-    "repulse_drop_item_value": 0,
-    "repulse_drop_item_box": 0
   }
 ]

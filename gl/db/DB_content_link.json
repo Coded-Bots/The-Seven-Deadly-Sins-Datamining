@@ -703,7 +703,7 @@
   },
   {
     "id": 1010,
-    "quicklink_name": "5584",
+    "quicklink_name": "5573",
     "quicklink_icon": "icon_shortcut_patrol",
     "content_type": "ui",
     "region": 0,
@@ -3407,7 +3407,7 @@
   },
   {
     "id": 90018,
-    "quicklink_name": "6008",
+    "quicklink_name": "5997",
     "quicklink_icon": "icon_shortcut_event_challenge_bosshawk",
     "content_type": "UI",
     "region": 0,

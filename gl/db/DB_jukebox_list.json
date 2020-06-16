@@ -113,10 +113,10 @@
   },
   {
     "id": 104,
-    "bgm_name": "46405",
+    "bgm_name": "46404",
     "bgm_icon": "1",
-    "bgm_desc": "46406",
-    "bgm_desc_sub": "46407",
+    "bgm_desc": "46405",
+    "bgm_desc_sub": "46406",
     "bgm_collect_require": "",
     "bgm_resource_id": 0,
     "bgm_type": 2,

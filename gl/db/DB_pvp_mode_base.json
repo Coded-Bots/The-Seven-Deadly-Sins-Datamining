@@ -3,120 +3,120 @@
     "id": 1,
     "mode_type": "pvp_battle_start_passive",
     "mode_type_value": 0,
-    "name": "38897",
-    "explain": "41043",
+    "name": "38896",
+    "explain": "41042",
     "mode_icon": "icon_pvp_mode_001"
   },
   {
     "id": 2,
     "mode_type": "pvp_battle_start_passive",
     "mode_type_value": 0,
-    "name": "38898",
-    "explain": "41044",
+    "name": "38897",
+    "explain": "41043",
     "mode_icon": "icon_pvp_mode_002"
   },
   {
     "id": 3,
     "mode_type": "pvp_battle_start_passive",
     "mode_type_value": 0,
-    "name": "38899",
-    "explain": "41045",
+    "name": "38898",
+    "explain": "41044",
     "mode_icon": "icon_pvp_mode_003"
   },
   {
     "id": 4,
     "mode_type": "pvp_battle_passive_lock",
     "mode_type_value": 0,
-    "name": "38900",
-    "explain": "41046",
+    "name": "38899",
+    "explain": "41045",
     "mode_icon": "icon_pvp_mode_004"
   },
   {
     "id": 5,
     "mode_type": "pvp_battle_start_passive",
     "mode_type_value": 0,
-    "name": "38901",
-    "explain": "41047",
+    "name": "38900",
+    "explain": "41046",
     "mode_icon": "icon_pvp_mode_005"
   },
   {
     "id": 6,
     "mode_type": "pvp_battle_control_limited_time",
     "mode_type_value": 10,
-    "name": "38902",
-    "explain": "38895",
+    "name": "38901",
+    "explain": "38894",
     "mode_icon": "icon_pvp_mode_006"
   },
   {
     "id": 7,
     "mode_type": "pvp_battle_set_atk_first_random",
     "mode_type_value": 0,
-    "name": "38903",
-    "explain": "38896",
+    "name": "38902",
+    "explain": "38895",
     "mode_icon": "icon_pvp_mode_007"
   },
   {
     "id": 8,
     "mode_type": "pvp_battle_hero_set_all",
     "mode_type_value": 0,
-    "name": "41050",
-    "explain": "41048",
+    "name": "41049",
+    "explain": "41047",
     "mode_icon": "icon_pvp_mode_008"
   },
   {
     "id": 9,
     "mode_type": "pvp_battle_sudden_death",
     "mode_type_value": 3,
-    "name": "39901",
-    "explain": "41049",
+    "name": "39900",
+    "explain": "41048",
     "mode_icon": "icon_pvp_mode_009"
   },
   {
     "id": 10,
     "mode_type": "pvp_battle_start_passive",
     "mode_type_value": 0,
-    "name": "39913",
-    "explain": "39907",
+    "name": "39912",
+    "explain": "39906",
     "mode_icon": "icon_pvp_passive_005"
   },
   {
     "id": 11,
     "mode_type": "pvp_battle_atk_turn_death",
     "mode_type_value": 4,
-    "name": "45478",
-    "explain": "45473",
+    "name": "45477",
+    "explain": "45472",
     "mode_icon": "icon_pvp_mode_011"
   },
   {
     "id": 12,
     "mode_type": "pvp_battle_start_passive",
     "mode_type_value": 0,
-    "name": "39909",
-    "explain": "39903",
+    "name": "39908",
+    "explain": "39902",
     "mode_icon": "icon_pvp_passive_002"
   },
   {
     "id": 13,
     "mode_type": "pvp_battle_start_passive",
     "mode_type_value": 0,
-    "name": "45854",
-    "explain": "45734",
+    "name": "45853",
+    "explain": "45733",
     "mode_icon": "icon_pvp_passive_003"
   },
   {
     "id": 14,
     "mode_type": "pvp_battle_start_passive",
     "mode_type_value": 0,
-    "name": "45481",
-    "explain": "45476",
+    "name": "45480",
+    "explain": "45475",
     "mode_icon": "icon_pvp_mode_014"
   },
   {
     "id": 15,
     "mode_type": "pvp_battle_start_passive",
     "mode_type_value": 0,
-    "name": "45862",
-    "explain": "45742",
+    "name": "45861",
+    "explain": "45741",
     "mode_icon": "icon_pvp_passive_010"
   }
 ]

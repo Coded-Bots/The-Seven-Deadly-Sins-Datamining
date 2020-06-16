@@ -7,10 +7,10 @@
     "passive_value": 4,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41712",
-    "play_title_mission_name": "41798",
-    "play_title_mission_desc": "41764",
-    "play_title_passive_desc": "41831"
+    "play_title": "41711",
+    "play_title_mission_name": "41797",
+    "play_title_mission_desc": "41763",
+    "play_title_passive_desc": "41830"
   },
   {
     "id": 13,
@@ -20,10 +20,10 @@
     "passive_value": 4,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_life",
-    "play_title": "41716",
-    "play_title_mission_name": "41802",
-    "play_title_mission_desc": "41768",
-    "play_title_passive_desc": "41835"
+    "play_title": "41715",
+    "play_title_mission_name": "41801",
+    "play_title_mission_desc": "41767",
+    "play_title_passive_desc": "41834"
   },
   {
     "id": 14,
@@ -33,10 +33,23 @@
     "passive_value": 5,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_life",
-    "play_title": "41717",
-    "play_title_mission_name": "41803",
-    "play_title_mission_desc": "41769",
-    "play_title_passive_desc": "41836"
+    "play_title": "41716",
+    "play_title_mission_name": "41802",
+    "play_title_mission_desc": "41768",
+    "play_title_passive_desc": "41835"
+  },
+  {
+    "id": 20,
+    "category": 20,
+    "passive_type": "skill",
+    "passive_id": 510013,
+    "passive_value": 2,
+    "play_title_point": 5,
+    "play_title_icon": "icon_play_title_category_growth",
+    "play_title": "41722",
+    "play_title_mission_name": "41808",
+    "play_title_mission_desc": "41774",
+    "play_title_passive_desc": "41837"
   },
   {
     "id": 22,
@@ -46,10 +59,10 @@
     "passive_value": 2,
     "play_title_point": 5,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41725",
-    "play_title_mission_name": "41811",
-    "play_title_mission_desc": "41777",
-    "play_title_passive_desc": "41840"
+    "play_title": "41724",
+    "play_title_mission_name": "41810",
+    "play_title_mission_desc": "41776",
+    "play_title_passive_desc": "41839"
   },
   {
     "id": 23,
@@ -59,10 +72,10 @@
     "passive_value": 8,
     "play_title_point": 5,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41726",
-    "play_title_mission_name": "41812",
-    "play_title_mission_desc": "41778",
-    "play_title_passive_desc": "41841"
+    "play_title": "41725",
+    "play_title_mission_name": "41811",
+    "play_title_mission_desc": "41777",
+    "play_title_passive_desc": "41840"
   },
   {
     "id": 24,
@@ -72,10 +85,10 @@
     "passive_value": 0,
     "play_title_point": 5,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41727",
-    "play_title_mission_name": "41813",
-    "play_title_mission_desc": "41779",
-    "play_title_passive_desc": "41824"
+    "play_title": "41726",
+    "play_title_mission_name": "41812",
+    "play_title_mission_desc": "41778",
+    "play_title_passive_desc": "41823"
   },
   {
     "id": 26,
@@ -85,10 +98,10 @@
     "passive_value": 0,
     "play_title_point": 5,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41729",
-    "play_title_mission_name": "41815",
-    "play_title_mission_desc": "41781",
-    "play_title_passive_desc": "41824"
+    "play_title": "41728",
+    "play_title_mission_name": "41814",
+    "play_title_mission_desc": "41780",
+    "play_title_passive_desc": "41823"
   },
   {
     "id": 28,
@@ -98,10 +111,10 @@
     "passive_value": 0,
     "play_title_point": 5,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41731",
-    "play_title_mission_name": "41817",
-    "play_title_mission_desc": "41783",
-    "play_title_passive_desc": "41824"
+    "play_title": "41730",
+    "play_title_mission_name": "41816",
+    "play_title_mission_desc": "41782",
+    "play_title_passive_desc": "41823"
   },
   {
     "id": 29,
@@ -111,10 +124,10 @@
     "passive_value": 0,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41732",
-    "play_title_mission_name": "41818",
-    "play_title_mission_desc": "41784",
-    "play_title_passive_desc": "41824"
+    "play_title": "41731",
+    "play_title_mission_name": "41817",
+    "play_title_mission_desc": "41783",
+    "play_title_passive_desc": "41823"
   },
   {
     "id": 30,
@@ -124,10 +137,10 @@
     "passive_value": 0,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41733",
-    "play_title_mission_name": "41819",
-    "play_title_mission_desc": "41785",
-    "play_title_passive_desc": "41824"
+    "play_title": "41732",
+    "play_title_mission_name": "41818",
+    "play_title_mission_desc": "41784",
+    "play_title_passive_desc": "41823"
   },
   {
     "id": 31,
@@ -137,10 +150,10 @@
     "passive_value": 0,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41734",
-    "play_title_mission_name": "41820",
-    "play_title_mission_desc": "41786",
-    "play_title_passive_desc": "41824"
+    "play_title": "41733",
+    "play_title_mission_name": "41819",
+    "play_title_mission_desc": "41785",
+    "play_title_passive_desc": "41823"
   },
   {
     "id": 32,
@@ -150,10 +163,10 @@
     "passive_value": 0,
     "play_title_point": 10,
     "play_title_icon": "icon_play_title_category_growth",
-    "play_title": "41735",
-    "play_title_mission_name": "41821",
-    "play_title_mission_desc": "41787",
-    "play_title_passive_desc": "41824"
+    "play_title": "41734",
+    "play_title_mission_name": "41820",
+    "play_title_mission_desc": "41786",
+    "play_title_passive_desc": "41823"
   },
   {
     "id": 34,
@@ -163,10 +176,10 @@
     "passive_value": 1.5,
     "play_title_point": 0,
     "play_title_icon": "icon_play_title_category_account_power",
-    "play_title": "41737",
-    "play_title_mission_name": "41823",
-    "play_title_mission_desc": "41789",
-    "play_title_passive_desc": "41842"
+    "play_title": "41736",
+    "play_title_mission_name": "41822",
+    "play_title_mission_desc": "41788",
+    "play_title_passive_desc": "41841"
   },
   {
     "id": 35,
@@ -176,10 +189,10 @@
     "passive_value": 2,
     "play_title_point": 0,
     "play_title_icon": "icon_play_title_category_account_power",
-    "play_title": "46341",
-    "play_title_mission_name": "41823",
-    "play_title_mission_desc": "41789",
-    "play_title_passive_desc": "41842"
+    "play_title": "46340",
+    "play_title_mission_name": "41822",
+    "play_title_mission_desc": "41788",
+    "play_title_passive_desc": "41841"
   },
   {
     "id": 36,
@@ -189,10 +202,10 @@
     "passive_value": 3,
     "play_title_point": 0,
     "play_title_icon": "icon_play_title_category_account_power",
-    "play_title": "41738",
-    "play_title_mission_name": "41823",
-    "play_title_mission_desc": "41789",
-    "play_title_passive_desc": "41842"
+    "play_title": "41737",
+    "play_title_mission_name": "41822",
+    "play_title_mission_desc": "41788",
+    "play_title_passive_desc": "41841"
   },
   {
     "id": 37,
@@ -202,10 +215,10 @@
     "passive_value": 3.5,
     "play_title_point": 0,
     "play_title_icon": "icon_play_title_category_account_power",
-    "play_title": "46342",
-    "play_title_mission_name": "41823",
-    "play_title_mission_desc": "41789",
-    "play_title_passive_desc": "41842"
+    "play_title": "46341",
+    "play_title_mission_name": "41822",
+    "play_title_mission_desc": "41788",
+    "play_title_passive_desc": "41841"
   },
   {
     "id": 38,
@@ -215,10 +228,10 @@
     "passive_value": 4.5,
     "play_title_point": 0,
     "play_title_icon": "icon_play_title_category_account_power",
-    "play_title": "41739",
-    "play_title_mission_name": "41823",
-    "play_title_mission_desc": "41789",
-    "play_title_passive_desc": "41842"
+    "play_title": "41738",
+    "play_title_mission_name": "41822",
+    "play_title_mission_desc": "41788",
+    "play_title_passive_desc": "41841"
   },
   {
     "id": 39,
@@ -228,10 +241,10 @@
     "passive_value": 5,
     "play_title_point": 0,
     "play_title_icon": "icon_play_title_category_account_power",
-    "play_title": "46343",
-    "play_title_mission_name": "41823",
-    "play_title_mission_desc": "41789",
-    "play_title_passive_desc": "41842"
+    "play_title": "46342",
+    "play_title_mission_name": "41822",
+    "play_title_mission_desc": "41788",
+    "play_title_passive_desc": "41841"
   },
   {
     "id": 40,
@@ -241,9 +254,9 @@
     "passive_value": 6,
     "play_title_point": 0,
     "play_title_icon": "icon_play_title_category_account_power",
-    "play_title": "41740",
-    "play_title_mission_name": "41823",
-    "play_title_mission_desc": "41789",
-    "play_title_passive_desc": "41842"
+    "play_title": "41739",
+    "play_title_mission_name": "41822",
+    "play_title_mission_desc": "41788",
+    "play_title_passive_desc": "41841"
   }
 ]

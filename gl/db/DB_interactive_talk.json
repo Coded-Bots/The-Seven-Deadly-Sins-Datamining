@@ -3,5691 +3,5691 @@
     "id": 1,
     "type": "diane_touch_head_01",
     "animation": "lobby_stroke_shy",
-    "answer_string": "36853",
+    "answer_string": "36852",
     "voice_sound_id": 0
   },
   {
     "id": 2,
     "type": "diane_touch_head_02",
     "animation": "lobby_stroke_shy",
-    "answer_string": "36854",
+    "answer_string": "36853",
     "voice_sound_id": 0
   },
   {
     "id": 3,
     "type": "diane_touch_head_03",
     "animation": "lobby_stroke_shy",
-    "answer_string": "36855",
+    "answer_string": "36854",
     "voice_sound_id": 0
   },
   {
     "id": 4,
     "type": "diane_touch_head_04",
     "animation": "lobby_stroke_shy",
-    "answer_string": "36856",
+    "answer_string": "36855",
     "voice_sound_id": 0
   },
   {
     "id": 5,
     "type": "diane_touch_head_05",
     "animation": "lobby_stroke_shy",
-    "answer_string": "36857",
+    "answer_string": "36856",
     "voice_sound_id": 0
   },
   {
     "id": 6,
     "type": "diane_touch_tired_01",
     "animation": "lobby_stroke_pokerface",
-    "answer_string": "36858",
+    "answer_string": "36857",
     "voice_sound_id": 0
   },
   {
     "id": 7,
     "type": "diane_touch_tired_02",
     "animation": "lobby_stroke_pokerface",
-    "answer_string": "36859",
+    "answer_string": "36858",
     "voice_sound_id": 0
   },
   {
     "id": 8,
     "type": "diane_touch_tired_03",
     "animation": "lobby_stroke_pokerface",
-    "answer_string": "36860",
+    "answer_string": "36859",
     "voice_sound_id": 0
   },
   {
     "id": 9,
     "type": "diane_touch_tired_04",
     "animation": "lobby_stroke_pokerface",
-    "answer_string": "36861",
+    "answer_string": "36860",
     "voice_sound_id": 0
   },
   {
     "id": 10,
     "type": "diane_touch_tired_05",
     "animation": "lobby_stroke_pokerface",
-    "answer_string": "36862",
+    "answer_string": "36861",
     "voice_sound_id": 0
   },
   {
     "id": 11,
     "type": "diane_touch_angry_01",
     "animation": "lobby_stroke_angry",
-    "answer_string": "36818",
+    "answer_string": "36817",
     "voice_sound_id": 0
   },
   {
     "id": 30,
     "type": "elizabeth_zoomin_01",
     "animation": "lobby_idle02",
-    "answer_string": "36940",
+    "answer_string": "36939",
     "voice_sound_id": 0
   },
   {
     "id": 31,
     "type": "elizabeth_zoomin_02",
     "animation": "lobby_idle02",
-    "answer_string": "36941",
+    "answer_string": "36940",
     "voice_sound_id": 0
   },
   {
     "id": 32,
     "type": "elizabeth_zoomin_03",
     "animation": "lobby_idle02",
-    "answer_string": "36942",
+    "answer_string": "36941",
     "voice_sound_id": 0
   },
   {
     "id": 33,
     "type": "elizabeth_touch_head_01",
     "animation": "lobby_touch_head01",
-    "answer_string": "36928",
+    "answer_string": "36927",
     "voice_sound_id": 41001
   },
   {
     "id": 34,
     "type": "elizabeth_touch_head_02",
     "animation": "lobby_touch_head01",
-    "answer_string": "36929",
+    "answer_string": "36928",
     "voice_sound_id": 41002
   },
   {
     "id": 35,
     "type": "elizabeth_touch_head_03",
     "animation": "lobby_touch_head01",
-    "answer_string": "36930",
+    "answer_string": "36929",
     "voice_sound_id": 41003
   },
   {
     "id": 36,
     "type": "elizabeth_touch_head_04",
     "animation": "lobby_talk",
-    "answer_string": "36931",
+    "answer_string": "36930",
     "voice_sound_id": 41004
   },
   {
     "id": 37,
     "type": "elizabeth_touch_head_05",
     "animation": "lobby_touch_head01",
-    "answer_string": "36932",
+    "answer_string": "36931",
     "voice_sound_id": 41005
   },
   {
     "id": 38,
     "type": "elizabeth_touch_head_06",
     "animation": "lobby_talk",
-    "answer_string": "36933",
+    "answer_string": "36932",
     "voice_sound_id": 41006
   },
   {
     "id": 39,
     "type": "elizabeth_touch_body_01",
     "animation": "lobby_touch_body01",
-    "answer_string": "36866",
+    "answer_string": "36865",
     "voice_sound_id": 41007
   },
   {
     "id": 40,
     "type": "elizabeth_touch_body_02",
     "animation": "lobby_touch_body01",
-    "answer_string": "36867",
+    "answer_string": "36866",
     "voice_sound_id": 41008
   },
   {
     "id": 41,
     "type": "elizabeth_touch_body_03",
     "animation": "lobby_touch_body01",
-    "answer_string": "36868",
+    "answer_string": "36867",
     "voice_sound_id": 41009
   },
   {
     "id": 42,
     "type": "elizabeth_touch_body_04",
     "animation": "lobby_touch_body01",
-    "answer_string": "36869",
+    "answer_string": "36868",
     "voice_sound_id": 41010
   },
   {
     "id": 43,
     "type": "elizabeth_touch_bodyshy_01",
     "animation": "lobby_touch_body01",
-    "answer_string": "36870",
+    "answer_string": "36869",
     "voice_sound_id": 41011
   },
   {
     "id": 44,
     "type": "elizabeth_touch_skirt_01",
     "animation": "lobby_touch_skirt01",
-    "answer_string": "36934",
+    "answer_string": "36933",
     "voice_sound_id": 41012
   },
   {
     "id": 45,
     "type": "elizabeth_touch_skirt_02",
     "animation": "lobby_touch_skirt01",
-    "answer_string": "36935",
+    "answer_string": "36934",
     "voice_sound_id": 41013
   },
   {
     "id": 46,
     "type": "elizabeth_touch_skirt_03",
     "animation": "lobby_touch_body01",
-    "answer_string": "36936",
+    "answer_string": "36935",
     "voice_sound_id": 41014
   },
   {
     "id": 47,
     "type": "elizabeth_touch_skirtshy_01",
     "animation": "lobby_touch_skirt01",
-    "answer_string": "36937",
+    "answer_string": "36936",
     "voice_sound_id": 41015
   },
   {
     "id": 48,
     "type": "elizabeth_touch_skirtshy_02",
     "animation": "lobby_touch_skirt01",
-    "answer_string": "36938",
+    "answer_string": "36937",
     "voice_sound_id": 41016
   },
   {
     "id": 49,
     "type": "elizabeth_touch_skirtshy_03",
     "animation": "lobby_touch_body01",
-    "answer_string": "36939",
+    "answer_string": "36938",
     "voice_sound_id": 41017
   },
   {
     "id": 50,
     "type": "elizabeth_touch_angry_01",
     "animation": "lobby_touch_body02",
-    "answer_string": "36863",
+    "answer_string": "36862",
     "voice_sound_id": 41018
   },
   {
     "id": 51,
     "type": "elizabeth_touch_angry_02",
     "animation": "lobby_touch_body02",
-    "answer_string": "36864",
+    "answer_string": "36863",
     "voice_sound_id": 41019
   },
   {
     "id": 52,
     "type": "elizabeth_touch_angry_03",
     "animation": "lobby_touch_body02",
-    "answer_string": "36865",
+    "answer_string": "36864",
     "voice_sound_id": 41020
   },
   {
     "id": 53,
     "type": "elizabeth_zoomin_01_kr",
     "animation": "lobby_idle02",
-    "answer_string": "36940",
+    "answer_string": "36939",
     "voice_sound_id": 0
   },
   {
     "id": 54,
     "type": "elizabeth_zoomin_02_kr",
     "animation": "lobby_idle02",
-    "answer_string": "36941",
+    "answer_string": "36940",
     "voice_sound_id": 0
   },
   {
     "id": 55,
     "type": "elizabeth_zoomin_03_kr",
     "animation": "lobby_idle02",
-    "answer_string": "36942",
+    "answer_string": "36941",
     "voice_sound_id": 0
   },
   {
     "id": 56,
     "type": "elizabeth_touch_head_01_kr",
     "animation": "lobby_touch_head01",
-    "answer_string": "36928",
+    "answer_string": "36927",
     "voice_sound_id": 41001
   },
   {
     "id": 57,
     "type": "elizabeth_touch_head_02_kr",
     "animation": "lobby_touch_head01",
-    "answer_string": "36929",
+    "answer_string": "36928",
     "voice_sound_id": 41002
   },
   {
     "id": 58,
     "type": "elizabeth_touch_head_03_kr",
     "animation": "lobby_touch_head01",
-    "answer_string": "36930",
+    "answer_string": "36929",
     "voice_sound_id": 41003
   },
   {
     "id": 59,
     "type": "elizabeth_touch_head_04_kr",
     "animation": "lobby_talk",
-    "answer_string": "36931",
+    "answer_string": "36930",
     "voice_sound_id": 41004
   },
   {
     "id": 60,
     "type": "elizabeth_touch_head_05_kr",
     "animation": "lobby_touch_head01",
-    "answer_string": "36932",
+    "answer_string": "36931",
     "voice_sound_id": 41005
   },
   {
     "id": 61,
     "type": "elizabeth_touch_head_06_kr",
     "animation": "lobby_talk",
-    "answer_string": "36933",
+    "answer_string": "36932",
     "voice_sound_id": 41006
   },
   {
     "id": 62,
     "type": "elizabeth_touch_body_01_kr",
     "animation": "lobby_touch_body01_kr",
-    "answer_string": "36866",
+    "answer_string": "36865",
     "voice_sound_id": 41007
   },
   {
     "id": 63,
     "type": "elizabeth_touch_body_02_kr",
     "animation": "lobby_touch_body01_kr",
-    "answer_string": "36867",
+    "answer_string": "36866",
     "voice_sound_id": 41008
   },
   {
     "id": 64,
     "type": "elizabeth_touch_body_03_kr",
     "animation": "lobby_touch_body01_kr",
-    "answer_string": "36868",
+    "answer_string": "36867",
     "voice_sound_id": 41009
   },
   {
     "id": 65,
     "type": "elizabeth_touch_body_04_kr",
     "animation": "lobby_touch_body01_kr",
-    "answer_string": "36869",
+    "answer_string": "36868",
     "voice_sound_id": 41010
   },
   {
     "id": 66,
     "type": "elizabeth_touch_bodyshy_01_kr",
     "animation": "lobby_touch_body01_kr",
-    "answer_string": "36870",
+    "answer_string": "36869",
     "voice_sound_id": 41011
   },
   {
     "id": 67,
     "type": "elizabeth_touch_skirt_01_kr",
     "animation": "lobby_touch_skirt01_kr",
-    "answer_string": "36934",
+    "answer_string": "36933",
     "voice_sound_id": 41012
   },
   {
     "id": 68,
     "type": "elizabeth_touch_skirt_02_kr",
     "animation": "lobby_touch_skirt01_kr",
-    "answer_string": "36935",
+    "answer_string": "36934",
     "voice_sound_id": 41013
   },
   {
     "id": 69,
     "type": "elizabeth_touch_skirt_03_kr",
     "animation": "lobby_touch_body01_kr",
-    "answer_string": "36936",
+    "answer_string": "36935",
     "voice_sound_id": 41014
   },
   {
     "id": 70,
     "type": "elizabeth_touch_skirtshy_01_kr",
     "animation": "lobby_touch_skirt01_kr",
-    "answer_string": "36937",
+    "answer_string": "36936",
     "voice_sound_id": 41015
   },
   {
     "id": 71,
     "type": "elizabeth_touch_skirtshy_02_kr",
     "animation": "lobby_touch_skirt01_kr",
-    "answer_string": "36938",
+    "answer_string": "36937",
     "voice_sound_id": 41016
   },
   {
     "id": 72,
     "type": "elizabeth_touch_skirtshy_03_kr",
     "animation": "lobby_touch_body01_kr",
-    "answer_string": "36939",
+    "answer_string": "36938",
     "voice_sound_id": 41017
   },
   {
     "id": 73,
     "type": "elizabeth_touch_angry_01_kr",
     "animation": "lobby_touch_body02",
-    "answer_string": "36863",
+    "answer_string": "36862",
     "voice_sound_id": 41018
   },
   {
     "id": 74,
     "type": "elizabeth_touch_angry_02_kr",
     "animation": "lobby_touch_body02",
-    "answer_string": "36864",
+    "answer_string": "36863",
     "voice_sound_id": 41019
   },
   {
     "id": 75,
     "type": "elizabeth_touch_angry_03_kr",
     "animation": "lobby_touch_body02",
-    "answer_string": "36865",
+    "answer_string": "36864",
     "voice_sound_id": 41020
   },
   {
     "id": 101,
     "type": "elizabeth_commonquestion_01",
     "animation": "lobby_talk",
-    "answer_string": "33837",
+    "answer_string": "33836",
     "voice_sound_id": 100201
   },
   {
     "id": 102,
     "type": "elizabeth_commonquestion_02",
     "animation": "lobby_talk",
-    "answer_string": "33838",
+    "answer_string": "33837",
     "voice_sound_id": 100205
   },
   {
     "id": 103,
     "type": "elizabeth_commonquestion_03",
     "animation": "lobby_talk",
-    "answer_string": "33839",
+    "answer_string": "33838",
     "voice_sound_id": 100201
   },
   {
     "id": 104,
     "type": "elizabeth_commonquestion_04",
     "animation": "lobby_talk",
-    "answer_string": "33840",
+    "answer_string": "33839",
     "voice_sound_id": 100201
   },
   {
     "id": 105,
     "type": "elizabeth_commonquestion_05",
     "animation": "lobby_talk",
-    "answer_string": "33841",
+    "answer_string": "33840",
     "voice_sound_id": 100208
   },
   {
     "id": 106,
     "type": "elizabeth_commonquestion_06",
     "animation": "lobby_talk",
-    "answer_string": "33842",
+    "answer_string": "33841",
     "voice_sound_id": 100201
   },
   {
     "id": 107,
     "type": "elizabeth_commonquestion_07",
     "animation": "lobby_talk",
-    "answer_string": "33843",
+    "answer_string": "33842",
     "voice_sound_id": 100201
   },
   {
     "id": 108,
     "type": "elizabeth_commonquestion_08",
     "animation": "lobby_talk",
-    "answer_string": "33844",
+    "answer_string": "33843",
     "voice_sound_id": 100201
   },
   {
     "id": 109,
     "type": "elizabeth_commonquestion_09",
     "animation": "lobby_talk",
-    "answer_string": "33845",
+    "answer_string": "33844",
     "voice_sound_id": 100201
   },
   {
     "id": 110,
     "type": "elizabeth_commonquestion_10",
     "animation": "lobby_talk",
-    "answer_string": "33846",
+    "answer_string": "33845",
     "voice_sound_id": 100201
   },
   {
     "id": 111,
     "type": "elizabeth_commonquestion_11",
     "animation": "lobby_talk",
-    "answer_string": "33847",
+    "answer_string": "33846",
     "voice_sound_id": 100208
   },
   {
     "id": 112,
     "type": "elizabeth_commonquestion_12",
     "animation": "lobby_talk",
-    "answer_string": "33848",
+    "answer_string": "33847",
     "voice_sound_id": 100201
   },
   {
     "id": 113,
     "type": "elizabeth_commonquestion_13",
     "animation": "lobby_talk",
-    "answer_string": "33849",
+    "answer_string": "33848",
     "voice_sound_id": 100201
   },
   {
     "id": 114,
     "type": "elizabeth_commonquestion_14",
     "animation": "lobby_talk",
-    "answer_string": "33850",
+    "answer_string": "33849",
     "voice_sound_id": 100201
   },
   {
     "id": 115,
     "type": "elizabeth_commonquestion_15",
     "animation": "lobby_talk",
-    "answer_string": "33851",
+    "answer_string": "33850",
     "voice_sound_id": 100201
   },
   {
     "id": 116,
     "type": "elizabeth_commonquestion_16",
     "animation": "lobby_talk",
-    "answer_string": "33852",
+    "answer_string": "33851",
     "voice_sound_id": 100201
   },
   {
     "id": 117,
     "type": "elizabeth_commonquestion_17",
     "animation": "lobby_talk",
-    "answer_string": "33853",
+    "answer_string": "33852",
     "voice_sound_id": 100201
   },
   {
     "id": 118,
     "type": "elizabeth_commonquestion_18",
     "animation": "lobby_talk",
-    "answer_string": "33854",
+    "answer_string": "33853",
     "voice_sound_id": 100201
   },
   {
     "id": 119,
     "type": "elizabeth_commonquestion_19",
     "animation": "lobby_talk",
-    "answer_string": "33855",
+    "answer_string": "33854",
     "voice_sound_id": 100201
   },
   {
     "id": 120,
     "type": "elizabeth_commonquestion_20",
     "animation": "lobby_talk",
-    "answer_string": "33856",
+    "answer_string": "33855",
     "voice_sound_id": 100201
   },
   {
     "id": 301,
     "type": "elizabeth_player_commonanswer_01_1",
     "animation": "lobby_idle01",
-    "answer_string": "33857",
+    "answer_string": "33856",
     "voice_sound_id": 0
   },
   {
     "id": 302,
     "type": "elizabeth_player_commonanswer_01_2",
     "animation": "lobby_idle01",
-    "answer_string": "33858",
+    "answer_string": "33857",
     "voice_sound_id": 0
   },
   {
     "id": 303,
     "type": "elizabeth_player_commonanswer_01_3",
     "animation": "lobby_idle01",
-    "answer_string": "33859",
+    "answer_string": "33858",
     "voice_sound_id": 0
   },
   {
     "id": 304,
     "type": "elizabeth_player_commonanswer_02_1",
     "animation": "lobby_idle01",
-    "answer_string": "33860",
+    "answer_string": "33859",
     "voice_sound_id": 0
   },
   {
     "id": 305,
     "type": "elizabeth_player_commonanswer_02_2",
     "animation": "lobby_idle01",
-    "answer_string": "33861",
+    "answer_string": "33860",
     "voice_sound_id": 0
   },
   {
     "id": 306,
     "type": "elizabeth_player_commonanswer_02_3",
     "animation": "lobby_idle01",
-    "answer_string": "33862",
+    "answer_string": "33861",
     "voice_sound_id": 0
   },
   {
     "id": 307,
     "type": "elizabeth_player_commonanswer_03_1",
     "animation": "lobby_idle01",
-    "answer_string": "33863",
+    "answer_string": "33862",
     "voice_sound_id": 0
   },
   {
     "id": 308,
     "type": "elizabeth_player_commonanswer_03_2",
     "animation": "lobby_idle01",
-    "answer_string": "33864",
+    "answer_string": "33863",
     "voice_sound_id": 0
   },
   {
     "id": 309,
     "type": "elizabeth_player_commonanswer_03_3",
     "animation": "lobby_idle01",
-    "answer_string": "33865",
+    "answer_string": "33864",
     "voice_sound_id": 0
   },
   {
     "id": 310,
     "type": "elizabeth_player_commonanswer_04_1",
     "animation": "lobby_idle01",
-    "answer_string": "33866",
+    "answer_string": "33865",
     "voice_sound_id": 0
   },
   {
     "id": 311,
     "type": "elizabeth_player_commonanswer_04_2",
     "animation": "lobby_idle01",
-    "answer_string": "33867",
+    "answer_string": "33866",
     "voice_sound_id": 0
   },
   {
     "id": 312,
     "type": "elizabeth_player_commonanswer_04_3",
     "animation": "lobby_idle01",
-    "answer_string": "33868",
+    "answer_string": "33867",
     "voice_sound_id": 0
   },
   {
     "id": 313,
     "type": "elizabeth_player_commonanswer_05_1",
     "animation": "lobby_idle01",
-    "answer_string": "33869",
+    "answer_string": "33868",
     "voice_sound_id": 0
   },
   {
     "id": 314,
     "type": "elizabeth_player_commonanswer_05_2",
     "animation": "lobby_idle01",
-    "answer_string": "33870",
+    "answer_string": "33869",
     "voice_sound_id": 0
   },
   {
     "id": 315,
     "type": "elizabeth_player_commonanswer_05_3",
     "animation": "lobby_idle01",
-    "answer_string": "33871",
+    "answer_string": "33870",
     "voice_sound_id": 0
   },
   {
     "id": 316,
     "type": "elizabeth_player_commonanswer_06_1",
     "animation": "lobby_idle01",
-    "answer_string": "33872",
+    "answer_string": "33871",
     "voice_sound_id": 0
   },
   {
     "id": 317,
     "type": "elizabeth_player_commonanswer_06_2",
     "animation": "lobby_idle01",
-    "answer_string": "33873",
+    "answer_string": "33872",
     "voice_sound_id": 0
   },
   {
     "id": 318,
     "type": "elizabeth_player_commonanswer_06_3",
     "animation": "lobby_idle01",
-    "answer_string": "33874",
+    "answer_string": "33873",
     "voice_sound_id": 0
   },
   {
     "id": 319,
     "type": "elizabeth_player_commonanswer_07_1",
     "animation": "lobby_idle01",
-    "answer_string": "33875",
+    "answer_string": "33874",
     "voice_sound_id": 0
   },
   {
     "id": 320,
     "type": "elizabeth_player_commonanswer_07_2",
     "animation": "lobby_idle01",
-    "answer_string": "33876",
+    "answer_string": "33875",
     "voice_sound_id": 0
   },
   {
     "id": 321,
     "type": "elizabeth_player_commonanswer_07_3",
     "animation": "lobby_idle01",
-    "answer_string": "33877",
+    "answer_string": "33876",
     "voice_sound_id": 0
   },
   {
     "id": 322,
     "type": "elizabeth_player_commonanswer_08_1",
     "animation": "lobby_idle01",
-    "answer_string": "33878",
+    "answer_string": "33877",
     "voice_sound_id": 0
   },
   {
     "id": 323,
     "type": "elizabeth_player_commonanswer_08_2",
     "animation": "lobby_idle01",
-    "answer_string": "33879",
+    "answer_string": "33878",
     "voice_sound_id": 0
   },
   {
     "id": 324,
     "type": "elizabeth_player_commonanswer_08_3",
     "animation": "lobby_idle01",
-    "answer_string": "33880",
+    "answer_string": "33879",
     "voice_sound_id": 0
   },
   {
     "id": 325,
     "type": "elizabeth_player_commonanswer_09_1",
     "animation": "lobby_idle01",
-    "answer_string": "33881",
+    "answer_string": "33880",
     "voice_sound_id": 0
   },
   {
     "id": 326,
     "type": "elizabeth_player_commonanswer_09_2",
     "animation": "lobby_idle01",
-    "answer_string": "33882",
+    "answer_string": "33881",
     "voice_sound_id": 0
   },
   {
     "id": 327,
     "type": "elizabeth_player_commonanswer_09_3",
     "animation": "lobby_idle01",
-    "answer_string": "33883",
+    "answer_string": "33882",
     "voice_sound_id": 0
   },
   {
     "id": 328,
     "type": "elizabeth_player_commonanswer_10_1",
     "animation": "lobby_idle01",
-    "answer_string": "33884",
+    "answer_string": "33883",
     "voice_sound_id": 0
   },
   {
     "id": 329,
     "type": "elizabeth_player_commonanswer_10_2",
     "animation": "lobby_idle01",
-    "answer_string": "33885",
+    "answer_string": "33884",
     "voice_sound_id": 0
   },
   {
     "id": 330,
     "type": "elizabeth_player_commonanswer_10_3",
     "animation": "lobby_idle01",
-    "answer_string": "33886",
+    "answer_string": "33885",
     "voice_sound_id": 0
   },
   {
     "id": 331,
     "type": "elizabeth_player_commonanswer_11_1",
     "animation": "lobby_idle01",
-    "answer_string": "33887",
+    "answer_string": "33886",
     "voice_sound_id": 0
   },
   {
     "id": 332,
     "type": "elizabeth_player_commonanswer_11_2",
     "animation": "lobby_idle01",
-    "answer_string": "33888",
+    "answer_string": "33887",
     "voice_sound_id": 0
   },
   {
     "id": 333,
     "type": "elizabeth_player_commonanswer_11_3",
     "animation": "lobby_idle01",
-    "answer_string": "33889",
+    "answer_string": "33888",
     "voice_sound_id": 0
   },
   {
     "id": 334,
     "type": "elizabeth_player_commonanswer_12_1",
     "animation": "lobby_idle01",
-    "answer_string": "33890",
+    "answer_string": "33889",
     "voice_sound_id": 0
   },
   {
     "id": 335,
     "type": "elizabeth_player_commonanswer_12_2",
     "animation": "lobby_idle01",
-    "answer_string": "33891",
+    "answer_string": "33890",
     "voice_sound_id": 0
   },
   {
     "id": 336,
     "type": "elizabeth_player_commonanswer_12_3",
     "animation": "lobby_idle01",
-    "answer_string": "33892",
+    "answer_string": "33891",
     "voice_sound_id": 0
   },
   {
     "id": 337,
     "type": "elizabeth_player_commonanswer_13_1",
     "animation": "lobby_idle01",
-    "answer_string": "33893",
+    "answer_string": "33892",
     "voice_sound_id": 0
   },
   {
     "id": 338,
     "type": "elizabeth_player_commonanswer_13_2",
     "animation": "lobby_idle01",
-    "answer_string": "33894",
+    "answer_string": "33893",
     "voice_sound_id": 0
   },
   {
     "id": 339,
     "type": "elizabeth_player_commonanswer_13_3",
     "animation": "lobby_idle01",
-    "answer_string": "33895",
+    "answer_string": "33894",
     "voice_sound_id": 0
   },
   {
     "id": 340,
     "type": "elizabeth_player_commonanswer_14_1",
     "animation": "lobby_idle01",
-    "answer_string": "33896",
+    "answer_string": "33895",
     "voice_sound_id": 0
   },
   {
     "id": 341,
     "type": "elizabeth_player_commonanswer_14_2",
     "animation": "lobby_idle01",
-    "answer_string": "33897",
+    "answer_string": "33896",
     "voice_sound_id": 0
   },
   {
     "id": 342,
     "type": "elizabeth_player_commonanswer_14_3",
     "animation": "lobby_idle01",
-    "answer_string": "33898",
+    "answer_string": "33897",
     "voice_sound_id": 0
   },
   {
     "id": 343,
     "type": "elizabeth_player_commonanswer_15_1",
     "animation": "lobby_idle01",
-    "answer_string": "33899",
+    "answer_string": "33898",
     "voice_sound_id": 0
   },
   {
     "id": 344,
     "type": "elizabeth_player_commonanswer_15_2",
     "animation": "lobby_idle01",
-    "answer_string": "33900",
+    "answer_string": "33899",
     "voice_sound_id": 0
   },
   {
     "id": 345,
     "type": "elizabeth_player_commonanswer_15_3",
     "animation": "lobby_idle01",
-    "answer_string": "33901",
+    "answer_string": "33900",
     "voice_sound_id": 0
   },
   {
     "id": 346,
     "type": "elizabeth_player_commonanswer_16_1",
     "animation": "lobby_idle01",
-    "answer_string": "33902",
+    "answer_string": "33901",
     "voice_sound_id": 0
   },
   {
     "id": 347,
     "type": "elizabeth_player_commonanswer_16_2",
     "animation": "lobby_idle01",
-    "answer_string": "33903",
+    "answer_string": "33902",
     "voice_sound_id": 0
   },
   {
     "id": 348,
     "type": "elizabeth_player_commonanswer_16_3",
     "animation": "lobby_idle01",
-    "answer_string": "33904",
+    "answer_string": "33903",
     "voice_sound_id": 0
   },
   {
     "id": 349,
     "type": "elizabeth_player_commonanswer_17_1",
     "animation": "lobby_idle01",
-    "answer_string": "33905",
+    "answer_string": "33904",
     "voice_sound_id": 0
   },
   {
     "id": 350,
     "type": "elizabeth_player_commonanswer_17_2",
     "animation": "lobby_idle01",
-    "answer_string": "33906",
+    "answer_string": "33905",
     "voice_sound_id": 0
   },
   {
     "id": 351,
     "type": "elizabeth_player_commonanswer_17_3",
     "animation": "lobby_idle01",
-    "answer_string": "33907",
+    "answer_string": "33906",
     "voice_sound_id": 0
   },
   {
     "id": 352,
     "type": "elizabeth_player_commonanswer_18_1",
     "animation": "lobby_idle01",
-    "answer_string": "33908",
+    "answer_string": "33907",
     "voice_sound_id": 0
   },
   {
     "id": 353,
     "type": "elizabeth_player_commonanswer_18_2",
     "animation": "lobby_idle01",
-    "answer_string": "33909",
+    "answer_string": "33908",
     "voice_sound_id": 0
   },
   {
     "id": 354,
     "type": "elizabeth_player_commonanswer_18_3",
     "animation": "lobby_idle01",
-    "answer_string": "33910",
+    "answer_string": "33909",
     "voice_sound_id": 0
   },
   {
     "id": 355,
     "type": "elizabeth_player_commonanswer_19_1",
     "animation": "lobby_idle01",
-    "answer_string": "33911",
+    "answer_string": "33910",
     "voice_sound_id": 0
   },
   {
     "id": 356,
     "type": "elizabeth_player_commonanswer_19_2",
     "animation": "lobby_idle01",
-    "answer_string": "33912",
+    "answer_string": "33911",
     "voice_sound_id": 0
   },
   {
     "id": 357,
     "type": "elizabeth_player_commonanswer_19_3",
     "animation": "lobby_idle01",
-    "answer_string": "33913",
+    "answer_string": "33912",
     "voice_sound_id": 0
   },
   {
     "id": 358,
     "type": "elizabeth_player_commonanswer_20_1",
     "animation": "lobby_idle01",
-    "answer_string": "33914",
+    "answer_string": "33913",
     "voice_sound_id": 0
   },
   {
     "id": 359,
     "type": "elizabeth_player_commonanswer_20_2",
     "animation": "lobby_idle01",
-    "answer_string": "33915",
+    "answer_string": "33914",
     "voice_sound_id": 0
   },
   {
     "id": 360,
     "type": "elizabeth_player_commonanswer_20_3",
     "animation": "lobby_idle01",
-    "answer_string": "33916",
+    "answer_string": "33915",
     "voice_sound_id": 0
   },
   {
     "id": 701,
     "type": "elizabeth_good_commonfeedback_01",
     "animation": "lobby_talk",
-    "answer_string": "36888",
+    "answer_string": "36887",
     "voice_sound_id": 100201
   },
   {
     "id": 702,
     "type": "elizabeth_good_commonfeedback_02",
     "animation": "lobby_idle02",
-    "answer_string": "36889",
+    "answer_string": "36888",
     "voice_sound_id": 100205
   },
   {
     "id": 703,
     "type": "elizabeth_good_commonfeedback_03",
     "animation": "lobby_answer01",
-    "answer_string": "36890",
+    "answer_string": "36889",
     "voice_sound_id": 100201
   },
   {
     "id": 704,
     "type": "elizabeth_good_commonfeedback_04",
     "animation": "lobby_answer01",
-    "answer_string": "36891",
+    "answer_string": "36890",
     "voice_sound_id": 100201
   },
   {
     "id": 705,
     "type": "elizabeth_good_commonfeedback_05",
     "animation": "lobby_touch_head01",
-    "answer_string": "36892",
+    "answer_string": "36891",
     "voice_sound_id": 100202
   },
   {
     "id": 706,
     "type": "elizabeth_good_commonfeedback_06",
     "animation": "lobby_answer01",
-    "answer_string": "36893",
+    "answer_string": "36892",
     "voice_sound_id": 100201
   },
   {
     "id": 707,
     "type": "elizabeth_good_commonfeedback_07",
     "animation": "lobby_talk",
-    "answer_string": "36894",
+    "answer_string": "36893",
     "voice_sound_id": 100201
   },
   {
     "id": 708,
     "type": "elizabeth_good_commonfeedback_08",
     "animation": "lobby_talk",
-    "answer_string": "36895",
+    "answer_string": "36894",
     "voice_sound_id": 100201
   },
   {
     "id": 709,
     "type": "elizabeth_good_commonfeedback_09",
     "animation": "lobby_dressup",
-    "answer_string": "36896",
+    "answer_string": "36895",
     "voice_sound_id": 100203
   },
   {
     "id": 710,
     "type": "elizabeth_good_commonfeedback_10",
     "animation": "lobby_answer01",
-    "answer_string": "36897",
+    "answer_string": "36896",
     "voice_sound_id": 100201
   },
   {
     "id": 711,
     "type": "elizabeth_good_commonfeedback_11",
     "animation": "lobby_touch_head01",
-    "answer_string": "36898",
+    "answer_string": "36897",
     "voice_sound_id": 100202
   },
   {
     "id": 712,
     "type": "elizabeth_good_commonfeedback_12",
     "animation": "lobby_answer01",
-    "answer_string": "36899",
+    "answer_string": "36898",
     "voice_sound_id": 100201
   },
   {
     "id": 713,
     "type": "elizabeth_good_commonfeedback_13",
     "animation": "lobby_talk",
-    "answer_string": "36900",
+    "answer_string": "36899",
     "voice_sound_id": 100201
   },
   {
     "id": 714,
     "type": "elizabeth_good_commonfeedback_14",
     "animation": "lobby_touch_head01",
-    "answer_string": "36901",
+    "answer_string": "36900",
     "voice_sound_id": 100202
   },
   {
     "id": 715,
     "type": "elizabeth_good_commonfeedback_15",
     "animation": "lobby_answer01",
-    "answer_string": "36902",
+    "answer_string": "36901",
     "voice_sound_id": 100201
   },
   {
     "id": 716,
     "type": "elizabeth_good_commonfeedback_16",
     "animation": "lobby_talk",
-    "answer_string": "36903",
+    "answer_string": "36902",
     "voice_sound_id": 100201
   },
   {
     "id": 717,
     "type": "elizabeth_good_commonfeedback_17",
     "animation": "lobby_gift",
-    "answer_string": "36904",
+    "answer_string": "36903",
     "voice_sound_id": 100207
   },
   {
     "id": 718,
     "type": "elizabeth_good_commonfeedback_18",
     "animation": "lobby_touch_head01",
-    "answer_string": "36905",
+    "answer_string": "36904",
     "voice_sound_id": 100202
   },
   {
     "id": 719,
     "type": "elizabeth_good_commonfeedback_19",
     "animation": "lobby_idle02",
-    "answer_string": "36906",
+    "answer_string": "36905",
     "voice_sound_id": 100205
   },
   {
     "id": 720,
     "type": "elizabeth_good_commonfeedback_20",
     "animation": "lobby_talk",
-    "answer_string": "36907",
+    "answer_string": "36906",
     "voice_sound_id": 100201
   },
   {
     "id": 801,
     "type": "elizabeth_normal_commonfeedback_01",
     "animation": "lobby_gift",
-    "answer_string": "36908",
+    "answer_string": "36907",
     "voice_sound_id": 100207
   },
   {
     "id": 802,
     "type": "elizabeth_normal_commonfeedback_02",
     "animation": "lobby_touch_head01",
-    "answer_string": "36909",
+    "answer_string": "36908",
     "voice_sound_id": 100202
   },
   {
     "id": 803,
     "type": "elizabeth_normal_commonfeedback_03",
     "animation": "lobby_idle02",
-    "answer_string": "36910",
+    "answer_string": "36909",
     "voice_sound_id": 100205
   },
   {
     "id": 804,
     "type": "elizabeth_normal_commonfeedback_04",
     "animation": "lobby_answer01",
-    "answer_string": "36911",
+    "answer_string": "36910",
     "voice_sound_id": 100201
   },
   {
     "id": 805,
     "type": "elizabeth_normal_commonfeedback_05",
     "animation": "lobby_touch_skirt01",
-    "answer_string": "36912",
+    "answer_string": "36911",
     "voice_sound_id": 100205
   },
   {
     "id": 806,
     "type": "elizabeth_normal_commonfeedback_06",
     "animation": "lobby_idle02",
-    "answer_string": "36913",
+    "answer_string": "36912",
     "voice_sound_id": 100205
   },
   {
     "id": 807,
     "type": "elizabeth_normal_commonfeedback_07",
     "animation": "lobby_answer01",
-    "answer_string": "36914",
+    "answer_string": "36913",
     "voice_sound_id": 100201
   },
   {
     "id": 808,
     "type": "elizabeth_normal_commonfeedback_08",
     "animation": "lobby_talk",
-    "answer_string": "36915",
+    "answer_string": "36914",
     "voice_sound_id": 100201
   },
   {
     "id": 809,
     "type": "elizabeth_normal_commonfeedback_09",
     "animation": "lobby_idle02",
-    "answer_string": "36916",
+    "answer_string": "36915",
     "voice_sound_id": 100205
   },
   {
     "id": 810,
     "type": "elizabeth_normal_commonfeedback_10",
     "animation": "lobby_idle02",
-    "answer_string": "36917",
+    "answer_string": "36916",
     "voice_sound_id": 100205
   },
   {
     "id": 811,
     "type": "elizabeth_normal_commonfeedback_11",
     "animation": "lobby_idle02",
-    "answer_string": "36918",
+    "answer_string": "36917",
     "voice_sound_id": 100205
   },
   {
     "id": 812,
     "type": "elizabeth_normal_commonfeedback_12",
     "animation": "lobby_talk",
-    "answer_string": "36919",
+    "answer_string": "36918",
     "voice_sound_id": 100201
   },
   {
     "id": 813,
     "type": "elizabeth_normal_commonfeedback_13",
     "animation": "lobby_answer01",
-    "answer_string": "36920",
+    "answer_string": "36919",
     "voice_sound_id": 100201
   },
   {
     "id": 814,
     "type": "elizabeth_normal_commonfeedback_14",
     "animation": "lobby_talk",
-    "answer_string": "36921",
+    "answer_string": "36920",
     "voice_sound_id": 100201
   },
   {
     "id": 815,
     "type": "elizabeth_normal_commonfeedback_15",
     "animation": "lobby_answer01",
-    "answer_string": "36922",
+    "answer_string": "36921",
     "voice_sound_id": 100201
   },
   {
     "id": 816,
     "type": "elizabeth_normal_commonfeedback_16",
     "animation": "lobby_idle02",
-    "answer_string": "36923",
+    "answer_string": "36922",
     "voice_sound_id": 100205
   },
   {
     "id": 817,
     "type": "elizabeth_normal_commonfeedback_17",
     "animation": "lobby_gift",
-    "answer_string": "36924",
+    "answer_string": "36923",
     "voice_sound_id": 100207
   },
   {
     "id": 818,
     "type": "elizabeth_normal_commonfeedback_18",
     "animation": "lobby_idle02",
-    "answer_string": "36925",
+    "answer_string": "36924",
     "voice_sound_id": 100205
   },
   {
     "id": 819,
     "type": "elizabeth_normal_commonfeedback_19",
     "animation": "lobby_answer01",
-    "answer_string": "36926",
+    "answer_string": "36925",
     "voice_sound_id": 100201
   },
   {
     "id": 820,
     "type": "elizabeth_normal_commonfeedback_20",
     "animation": "lobby_touch_head01",
-    "answer_string": "36927",
+    "answer_string": "36926",
     "voice_sound_id": 100202
   },
   {
     "id": 901,
     "type": "elizabeth_bad_commonfeedback_01",
     "animation": "lobby_idle04",
-    "answer_string": "36871",
+    "answer_string": "36870",
     "voice_sound_id": 100206
   },
   {
     "id": 902,
     "type": "elizabeth_bad_commonfeedback_02",
     "animation": "lobby_touch_body01",
-    "answer_string": "36872",
+    "answer_string": "36871",
     "voice_sound_id": 100205
   },
   {
     "id": 903,
     "type": "elizabeth_bad_commonfeedback_03",
     "animation": "lobby_idle04",
-    "answer_string": "36873",
+    "answer_string": "36872",
     "voice_sound_id": 100206
   },
   {
     "id": 904,
     "type": "elizabeth_bad_commonfeedback_04",
     "animation": "lobby_idle02",
-    "answer_string": "36874",
+    "answer_string": "36873",
     "voice_sound_id": 100205
   },
   {
     "id": 905,
     "type": "elizabeth_bad_commonfeedback_05",
     "animation": "lobby_touch_body01",
-    "answer_string": "36875",
+    "answer_string": "36874",
     "voice_sound_id": 100205
   },
   {
     "id": 906,
     "type": "elizabeth_bad_commonfeedback_06",
     "animation": "lobby_idle04",
-    "answer_string": "36876",
+    "answer_string": "36875",
     "voice_sound_id": 100206
   },
   {
     "id": 907,
     "type": "elizabeth_bad_commonfeedback_07",
     "animation": "lobby_idle02",
-    "answer_string": "36877",
+    "answer_string": "36876",
     "voice_sound_id": 100205
   },
   {
     "id": 908,
     "type": "elizabeth_bad_commonfeedback_08",
     "animation": "lobby_answer02",
-    "answer_string": "36878",
+    "answer_string": "36877",
     "voice_sound_id": 100206
   },
   {
     "id": 909,
     "type": "elizabeth_bad_commonfeedback_09",
     "animation": "lobby_idle02",
-    "answer_string": "36879",
+    "answer_string": "36878",
     "voice_sound_id": 100205
   },
   {
     "id": 910,
     "type": "elizabeth_bad_commonfeedback_10",
     "animation": "lobby_idle02",
-    "answer_string": "36879",
+    "answer_string": "36878",
     "voice_sound_id": 100205
   },
   {
     "id": 911,
     "type": "elizabeth_bad_commonfeedback_11",
     "animation": "lobby_idle02",
-    "answer_string": "36880",
+    "answer_string": "36879",
     "voice_sound_id": 100205
   },
   {
     "id": 912,
     "type": "elizabeth_bad_commonfeedback_12",
     "animation": "lobby_idle02",
-    "answer_string": "36881",
+    "answer_string": "36880",
     "voice_sound_id": 100205
   },
   {
     "id": 913,
     "type": "elizabeth_bad_commonfeedback_13",
     "animation": "lobby_idle02",
-    "answer_string": "36882",
+    "answer_string": "36881",
     "voice_sound_id": 100205
   },
   {
     "id": 914,
     "type": "elizabeth_bad_commonfeedback_14",
     "animation": "lobby_idle04",
-    "answer_string": "36883",
+    "answer_string": "36882",
     "voice_sound_id": 100206
   },
   {
     "id": 915,
     "type": "elizabeth_bad_commonfeedback_15",
     "animation": "lobby_gift",
-    "answer_string": "36884",
+    "answer_string": "36883",
     "voice_sound_id": 100207
   },
   {
     "id": 916,
     "type": "elizabeth_bad_commonfeedback_16",
     "animation": "lobby_idle02",
-    "answer_string": "36879",
+    "answer_string": "36878",
     "voice_sound_id": 100205
   },
   {
     "id": 917,
     "type": "elizabeth_bad_commonfeedback_17",
     "animation": "lobby_gift",
-    "answer_string": "36885",
+    "answer_string": "36884",
     "voice_sound_id": 100207
   },
   {
     "id": 918,
     "type": "elizabeth_bad_commonfeedback_18",
     "animation": "lobby_idle04",
-    "answer_string": "36886",
+    "answer_string": "36885",
     "voice_sound_id": 100206
   },
   {
     "id": 919,
     "type": "elizabeth_bad_commonfeedback_19",
     "animation": "lobby_idle02",
-    "answer_string": "36887",
+    "answer_string": "36886",
     "voice_sound_id": 100205
   },
   {
     "id": 920,
     "type": "elizabeth_bad_commonfeedback_20",
     "animation": "lobby_idle02",
-    "answer_string": "36887",
+    "answer_string": "36886",
     "voice_sound_id": 100205
   },
   {
     "id": 1001,
     "type": "hawk_storyquestion_01",
     "animation": "lobby_talk",
-    "answer_string": "36645",
+    "answer_string": "36644",
     "voice_sound_id": 100306
   },
   {
     "id": 1002,
     "type": "hawk_storyquestion_02",
     "animation": "lobby_talk",
-    "answer_string": "36646",
+    "answer_string": "36645",
     "voice_sound_id": 100307
   },
   {
     "id": 1003,
     "type": "hawk_storyquestion_03",
     "animation": "lobby_talk",
-    "answer_string": "36647",
+    "answer_string": "36646",
     "voice_sound_id": 100306
   },
   {
     "id": 1004,
     "type": "hawk_storyquestion_04",
     "animation": "lobby_talk",
-    "answer_string": "36648",
+    "answer_string": "36647",
     "voice_sound_id": 100306
   },
   {
     "id": 1005,
     "type": "hawk_storyquestion_05",
     "animation": "lobby_talk",
-    "answer_string": "36649",
+    "answer_string": "36648",
     "voice_sound_id": 100305
   },
   {
     "id": 1006,
     "type": "hawk_storyquestion_06",
     "animation": "lobby_talk",
-    "answer_string": "36650",
+    "answer_string": "36649",
     "voice_sound_id": 100306
   },
   {
     "id": 1007,
     "type": "hawk_storyquestion_07",
     "animation": "lobby_talk",
-    "answer_string": "36651",
+    "answer_string": "36650",
     "voice_sound_id": 100307
   },
   {
     "id": 1008,
     "type": "hawk_storyquestion_08",
     "animation": "lobby_talk",
-    "answer_string": "36652",
+    "answer_string": "36651",
     "voice_sound_id": 100306
   },
   {
     "id": 1009,
     "type": "hawk_storyquestion_09",
     "animation": "lobby_talk",
-    "answer_string": "36653",
+    "answer_string": "36652",
     "voice_sound_id": 100306
   },
   {
     "id": 1010,
     "type": "hawk_storyquestion_10",
     "animation": "lobby_talk",
-    "answer_string": "36654",
+    "answer_string": "36653",
     "voice_sound_id": 100304
   },
   {
     "id": 1011,
     "type": "hawk_storyquestion_11",
     "animation": "lobby_talk",
-    "answer_string": "36655",
+    "answer_string": "36654",
     "voice_sound_id": 100308
   },
   {
     "id": 1012,
     "type": "hawk_storyquestion_12",
     "animation": "lobby_talk",
-    "answer_string": "36656",
+    "answer_string": "36655",
     "voice_sound_id": 100306
   },
   {
     "id": 1013,
     "type": "hawk_storyquestion_13",
     "animation": "lobby_talk",
-    "answer_string": "36657",
+    "answer_string": "36656",
     "voice_sound_id": 100306
   },
   {
     "id": 1014,
     "type": "hawk_storyquestion_14",
     "animation": "lobby_talk",
-    "answer_string": "36658",
+    "answer_string": "36657",
     "voice_sound_id": 100306
   },
   {
     "id": 1015,
     "type": "hawk_storyquestion_15",
     "animation": "lobby_talk",
-    "answer_string": "36659",
+    "answer_string": "36658",
     "voice_sound_id": 100308
   },
   {
     "id": 1016,
     "type": "hawk_storyquestion_16",
     "animation": "lobby_talk",
-    "answer_string": "36660",
+    "answer_string": "36659",
     "voice_sound_id": 100306
   },
   {
     "id": 1017,
     "type": "hawk_storyquestion_17",
     "animation": "lobby_talk",
-    "answer_string": "36661",
+    "answer_string": "36660",
     "voice_sound_id": 100309
   },
   {
     "id": 1018,
     "type": "hawk_storyquestion_18",
     "animation": "lobby_talk",
-    "answer_string": "36662",
+    "answer_string": "36661",
     "voice_sound_id": 100306
   },
   {
     "id": 1019,
     "type": "hawk_storyquestion_19",
     "animation": "lobby_talk",
-    "answer_string": "36663",
+    "answer_string": "36662",
     "voice_sound_id": 100306
   },
   {
     "id": 1020,
     "type": "hawk_storyquestion_20",
     "animation": "lobby_talk",
-    "answer_string": "36664",
+    "answer_string": "36663",
     "voice_sound_id": 100306
   },
   {
     "id": 1301,
     "type": "hawk_player_storyanswer_01_1",
     "animation": "lobby_idle01",
-    "answer_string": "36587",
+    "answer_string": "36586",
     "voice_sound_id": 0
   },
   {
     "id": 1302,
     "type": "hawk_player_storyanswer_01_2",
     "animation": "lobby_idle01",
-    "answer_string": "36588",
+    "answer_string": "36587",
     "voice_sound_id": 0
   },
   {
     "id": 1303,
     "type": "hawk_player_storyanswer_01_3",
     "animation": "lobby_idle01",
-    "answer_string": "36589",
+    "answer_string": "36588",
     "voice_sound_id": 0
   },
   {
     "id": 1304,
     "type": "hawk_player_storyanswer_02_1",
     "animation": "lobby_idle01",
-    "answer_string": "36590",
+    "answer_string": "36589",
     "voice_sound_id": 0
   },
   {
     "id": 1305,
     "type": "hawk_player_storyanswer_02_2",
     "animation": "lobby_idle01",
-    "answer_string": "36591",
+    "answer_string": "36590",
     "voice_sound_id": 0
   },
   {
     "id": 1306,
     "type": "hawk_player_storyanswer_02_3",
     "animation": "lobby_idle01",
-    "answer_string": "36592",
+    "answer_string": "36591",
     "voice_sound_id": 0
   },
   {
     "id": 1307,
     "type": "hawk_player_storyanswer_03_1",
     "animation": "lobby_idle01",
-    "answer_string": "36593",
+    "answer_string": "36592",
     "voice_sound_id": 0
   },
   {
     "id": 1308,
     "type": "hawk_player_storyanswer_03_2",
     "animation": "lobby_idle01",
-    "answer_string": "36594",
+    "answer_string": "36593",
     "voice_sound_id": 0
   },
   {
     "id": 1309,
     "type": "hawk_player_storyanswer_03_3",
     "animation": "lobby_idle01",
-    "answer_string": "36595",
+    "answer_string": "36594",
     "voice_sound_id": 0
   },
   {
     "id": 1310,
     "type": "hawk_player_storyanswer_04_1",
     "animation": "lobby_idle01",
-    "answer_string": "36596",
+    "answer_string": "36595",
     "voice_sound_id": 0
   },
   {
     "id": 1311,
     "type": "hawk_player_storyanswer_04_2",
     "animation": "lobby_idle01",
-    "answer_string": "36597",
+    "answer_string": "36596",
     "voice_sound_id": 0
   },
   {
     "id": 1312,
     "type": "hawk_player_storyanswer_04_3",
     "animation": "lobby_idle01",
-    "answer_string": "36598",
+    "answer_string": "36597",
     "voice_sound_id": 0
   },
   {
     "id": 1313,
     "type": "hawk_player_storyanswer_05_1",
     "animation": "lobby_idle01",
-    "answer_string": "36599",
+    "answer_string": "36598",
     "voice_sound_id": 0
   },
   {
     "id": 1314,
     "type": "hawk_player_storyanswer_05_2",
     "animation": "lobby_idle01",
-    "answer_string": "36600",
+    "answer_string": "36599",
     "voice_sound_id": 0
   },
   {
     "id": 1315,
     "type": "hawk_player_storyanswer_05_3",
     "animation": "lobby_idle01",
-    "answer_string": "36601",
+    "answer_string": "36600",
     "voice_sound_id": 0
   },
   {
     "id": 1316,
     "type": "hawk_player_storyanswer_06_1",
     "animation": "lobby_idle01",
-    "answer_string": "36602",
+    "answer_string": "36601",
     "voice_sound_id": 0
   },
   {
     "id": 1317,
     "type": "hawk_player_storyanswer_06_2",
     "animation": "lobby_idle01",
-    "answer_string": "36603",
+    "answer_string": "36602",
     "voice_sound_id": 0
   },
   {
     "id": 1318,
     "type": "hawk_player_storyanswer_06_3",
     "animation": "lobby_idle01",
-    "answer_string": "36604",
+    "answer_string": "36603",
     "voice_sound_id": 0
   },
   {
     "id": 1319,
     "type": "hawk_player_storyanswer_07_1",
     "animation": "lobby_idle01",
-    "answer_string": "36605",
+    "answer_string": "36604",
     "voice_sound_id": 0
   },
   {
     "id": 1320,
     "type": "hawk_player_storyanswer_07_2",
     "animation": "lobby_idle01",
-    "answer_string": "36606",
+    "answer_string": "36605",
     "voice_sound_id": 0
   },
   {
     "id": 1321,
     "type": "hawk_player_storyanswer_07_3",
     "animation": "lobby_idle01",
-    "answer_string": "36607",
+    "answer_string": "36606",
     "voice_sound_id": 0
   },
   {
     "id": 1322,
     "type": "hawk_player_storyanswer_08_1",
     "animation": "lobby_idle01",
-    "answer_string": "36608",
+    "answer_string": "36607",
     "voice_sound_id": 0
   },
   {
     "id": 1323,
     "type": "hawk_player_storyanswer_08_2",
     "animation": "lobby_idle01",
-    "answer_string": "36609",
+    "answer_string": "36608",
     "voice_sound_id": 0
   },
   {
     "id": 1324,
     "type": "hawk_player_storyanswer_08_3",
     "animation": "lobby_idle01",
-    "answer_string": "36610",
+    "answer_string": "36609",
     "voice_sound_id": 0
   },
   {
     "id": 1325,
     "type": "hawk_player_storyanswer_09_1",
     "animation": "lobby_idle01",
-    "answer_string": "36611",
+    "answer_string": "36610",
     "voice_sound_id": 0
   },
   {
     "id": 1326,
     "type": "hawk_player_storyanswer_09_2",
     "animation": "lobby_idle01",
-    "answer_string": "36612",
+    "answer_string": "36611",
     "voice_sound_id": 0
   },
   {
     "id": 1327,
     "type": "hawk_player_storyanswer_09_3",
     "animation": "lobby_idle01",
-    "answer_string": "36613",
+    "answer_string": "36612",
     "voice_sound_id": 0
   },
   {
     "id": 1328,
     "type": "hawk_player_storyanswer_10_1",
     "animation": "lobby_idle01",
-    "answer_string": "36614",
+    "answer_string": "36613",
     "voice_sound_id": 0
   },
   {
     "id": 1329,
     "type": "hawk_player_storyanswer_10_2",
     "animation": "lobby_idle01",
-    "answer_string": "36615",
+    "answer_string": "36614",
     "voice_sound_id": 0
   },
   {
     "id": 1330,
     "type": "hawk_player_storyanswer_10_3",
     "animation": "lobby_idle01",
-    "answer_string": "36616",
+    "answer_string": "36615",
     "voice_sound_id": 0
   },
   {
     "id": 1331,
     "type": "hawk_player_storyanswer_11_1",
     "animation": "lobby_idle01",
-    "answer_string": "36617",
+    "answer_string": "36616",
     "voice_sound_id": 0
   },
   {
     "id": 1332,
     "type": "hawk_player_storyanswer_11_2",
     "animation": "lobby_idle01",
-    "answer_string": "36618",
+    "answer_string": "36617",
     "voice_sound_id": 0
   },
   {
     "id": 1333,
     "type": "hawk_player_storyanswer_11_3",
     "animation": "lobby_idle01",
-    "answer_string": "36619",
+    "answer_string": "36618",
     "voice_sound_id": 0
   },
   {
     "id": 1334,
     "type": "hawk_player_storyanswer_12_1",
     "animation": "lobby_idle01",
-    "answer_string": "36620",
+    "answer_string": "36619",
     "voice_sound_id": 0
   },
   {
     "id": 1335,
     "type": "hawk_player_storyanswer_12_2",
     "animation": "lobby_idle01",
-    "answer_string": "36621",
+    "answer_string": "36620",
     "voice_sound_id": 0
   },
   {
     "id": 1336,
     "type": "hawk_player_storyanswer_12_3",
     "animation": "lobby_idle01",
-    "answer_string": "36622",
+    "answer_string": "36621",
     "voice_sound_id": 0
   },
   {
     "id": 1337,
     "type": "hawk_player_storyanswer_13_1",
     "animation": "lobby_idle01",
-    "answer_string": "36623",
+    "answer_string": "36622",
     "voice_sound_id": 0
   },
   {
     "id": 1338,
     "type": "hawk_player_storyanswer_13_2",
     "animation": "lobby_idle01",
-    "answer_string": "36624",
+    "answer_string": "36623",
     "voice_sound_id": 0
   },
   {
     "id": 1339,
     "type": "hawk_player_storyanswer_13_3",
     "animation": "lobby_idle01",
-    "answer_string": "36625",
+    "answer_string": "36624",
     "voice_sound_id": 0
   },
   {
     "id": 1340,
     "type": "hawk_player_storyanswer_14_1",
     "animation": "lobby_idle01",
-    "answer_string": "36626",
+    "answer_string": "36625",
     "voice_sound_id": 0
   },
   {
     "id": 1341,
     "type": "hawk_player_storyanswer_14_2",
     "animation": "lobby_idle01",
-    "answer_string": "36627",
+    "answer_string": "36626",
     "voice_sound_id": 0
   },
   {
     "id": 1342,
     "type": "hawk_player_storyanswer_14_3",
     "animation": "lobby_idle01",
-    "answer_string": "36628",
+    "answer_string": "36627",
     "voice_sound_id": 0
   },
   {
     "id": 1343,
     "type": "hawk_player_storyanswer_15_1",
     "animation": "lobby_idle01",
-    "answer_string": "36629",
+    "answer_string": "36628",
     "voice_sound_id": 0
   },
   {
     "id": 1344,
     "type": "hawk_player_storyanswer_15_2",
     "animation": "lobby_idle01",
-    "answer_string": "36630",
+    "answer_string": "36629",
     "voice_sound_id": 0
   },
   {
     "id": 1345,
     "type": "hawk_player_storyanswer_15_3",
     "animation": "lobby_idle01",
-    "answer_string": "36631",
+    "answer_string": "36630",
     "voice_sound_id": 0
   },
   {
     "id": 1346,
     "type": "hawk_player_storyanswer_16_1",
     "animation": "lobby_idle01",
-    "answer_string": "36632",
+    "answer_string": "36631",
     "voice_sound_id": 0
   },
   {
     "id": 1347,
     "type": "hawk_player_storyanswer_16_2",
     "animation": "lobby_idle01",
-    "answer_string": "36633",
+    "answer_string": "36632",
     "voice_sound_id": 0
   },
   {
     "id": 1348,
     "type": "hawk_player_storyanswer_16_3",
     "animation": "lobby_idle01",
-    "answer_string": "36634",
+    "answer_string": "36633",
     "voice_sound_id": 0
   },
   {
     "id": 1349,
     "type": "hawk_player_storyanswer_17_1",
     "animation": "lobby_idle01",
-    "answer_string": "36635",
+    "answer_string": "36634",
     "voice_sound_id": 0
   },
   {
     "id": 1350,
     "type": "hawk_player_storyanswer_17_2",
     "animation": "lobby_idle01",
-    "answer_string": "36636",
+    "answer_string": "36635",
     "voice_sound_id": 0
   },
   {
     "id": 1351,
     "type": "hawk_player_storyanswer_17_3",
     "animation": "lobby_idle01",
-    "answer_string": "36637",
+    "answer_string": "36636",
     "voice_sound_id": 0
   },
   {
     "id": 1352,
     "type": "hawk_player_storyanswer_18_1",
     "animation": "lobby_idle01",
-    "answer_string": "36638",
+    "answer_string": "36637",
     "voice_sound_id": 0
   },
   {
     "id": 1353,
     "type": "hawk_player_storyanswer_18_2",
     "animation": "lobby_idle01",
-    "answer_string": "36639",
+    "answer_string": "36638",
     "voice_sound_id": 0
   },
   {
     "id": 1354,
     "type": "hawk_player_storyanswer_18_3",
     "animation": "lobby_idle01",
-    "answer_string": "36640",
+    "answer_string": "36639",
     "voice_sound_id": 0
   },
   {
     "id": 1355,
     "type": "hawk_player_storyanswer_19_1",
     "animation": "lobby_idle01",
-    "answer_string": "36623",
+    "answer_string": "36622",
     "voice_sound_id": 0
   },
   {
     "id": 1356,
     "type": "hawk_player_storyanswer_19_2",
     "animation": "lobby_idle01",
-    "answer_string": "36624",
+    "answer_string": "36623",
     "voice_sound_id": 0
   },
   {
     "id": 1357,
     "type": "hawk_player_storyanswer_19_3",
     "animation": "lobby_idle01",
-    "answer_string": "36641",
+    "answer_string": "36640",
     "voice_sound_id": 0
   },
   {
     "id": 1358,
     "type": "hawk_player_storyanswer_20_1",
     "animation": "lobby_idle01",
-    "answer_string": "36642",
+    "answer_string": "36641",
     "voice_sound_id": 0
   },
   {
     "id": 1359,
     "type": "hawk_player_storyanswer_20_2",
     "animation": "lobby_idle01",
-    "answer_string": "36643",
+    "answer_string": "36642",
     "voice_sound_id": 0
   },
   {
     "id": 1360,
     "type": "hawk_player_storyanswer_20_3",
     "animation": "lobby_idle01",
-    "answer_string": "36644",
+    "answer_string": "36643",
     "voice_sound_id": 0
   },
   {
     "id": 1701,
     "type": "hawk_good_storyfeedback_01",
     "animation": "lobby_eyecontact",
-    "answer_string": "37020",
+    "answer_string": "37019",
     "voice_sound_id": 100309
   },
   {
     "id": 1702,
     "type": "hawk_good_storyfeedback_02",
     "animation": "lobby_amazing",
-    "answer_string": "37021",
+    "answer_string": "37020",
     "voice_sound_id": 100303
   },
   {
     "id": 1703,
     "type": "hawk_good_storyfeedback_03",
     "animation": "lobby_answer01",
-    "answer_string": "37022",
+    "answer_string": "37021",
     "voice_sound_id": 100302
   },
   {
     "id": 1704,
     "type": "hawk_good_storyfeedback_04",
     "animation": "lobby_answer01",
-    "answer_string": "37023",
+    "answer_string": "37022",
     "voice_sound_id": 100302
   },
   {
     "id": 1705,
     "type": "hawk_good_storyfeedback_05",
     "animation": "lobby_amazing",
-    "answer_string": "37024",
+    "answer_string": "37023",
     "voice_sound_id": 100303
   },
   {
     "id": 1706,
     "type": "hawk_good_storyfeedback_06",
     "animation": "lobby_eyecontact",
-    "answer_string": "37025",
+    "answer_string": "37024",
     "voice_sound_id": 100309
   },
   {
     "id": 1707,
     "type": "hawk_good_storyfeedback_07",
     "animation": "lobby_answer01",
-    "answer_string": "37026",
+    "answer_string": "37025",
     "voice_sound_id": 100302
   },
   {
     "id": 1708,
     "type": "hawk_good_storyfeedback_08",
     "animation": "lobby_talk",
-    "answer_string": "37027",
+    "answer_string": "37026",
     "voice_sound_id": 100301
   },
   {
     "id": 1709,
     "type": "hawk_good_storyfeedback_09",
     "animation": "lobby_answer01",
-    "answer_string": "37028",
+    "answer_string": "37027",
     "voice_sound_id": 100302
   },
   {
     "id": 1710,
     "type": "hawk_good_storyfeedback_10",
     "animation": "lobby_amazing",
-    "answer_string": "37029",
+    "answer_string": "37028",
     "voice_sound_id": 100303
   },
   {
     "id": 1711,
     "type": "hawk_good_storyfeedback_11",
     "animation": "lobby_eyecontact",
-    "answer_string": "37030",
+    "answer_string": "37029",
     "voice_sound_id": 100309
   },
   {
     "id": 1712,
     "type": "hawk_good_storyfeedback_12",
     "animation": "lobby_answer01",
-    "answer_string": "37028",
+    "answer_string": "37027",
     "voice_sound_id": 100302
   },
   {
     "id": 1713,
     "type": "hawk_good_storyfeedback_13",
     "animation": "lobby_answer01",
-    "answer_string": "37031",
+    "answer_string": "37030",
     "voice_sound_id": 100302
   },
   {
     "id": 1714,
     "type": "hawk_good_storyfeedback_14",
     "animation": "lobby_amazing",
-    "answer_string": "37032",
+    "answer_string": "37031",
     "voice_sound_id": 100303
   },
   {
     "id": 1715,
     "type": "hawk_good_storyfeedback_15",
     "animation": "lobby_talk",
-    "answer_string": "37033",
+    "answer_string": "37032",
     "voice_sound_id": 100301
   },
   {
     "id": 1716,
     "type": "hawk_good_storyfeedback_16",
     "animation": "lobby_answer01",
-    "answer_string": "37034",
+    "answer_string": "37033",
     "voice_sound_id": 100302
   },
   {
     "id": 1717,
     "type": "hawk_good_storyfeedback_17",
     "animation": "lobby_talk",
-    "answer_string": "37035",
+    "answer_string": "37034",
     "voice_sound_id": 100301
   },
   {
     "id": 1718,
     "type": "hawk_good_storyfeedback_18",
     "animation": "lobby_answer01",
-    "answer_string": "37036",
+    "answer_string": "37035",
     "voice_sound_id": 100302
   },
   {
     "id": 1719,
     "type": "hawk_good_storyfeedback_19",
     "animation": "lobby_answer01",
-    "answer_string": "37026",
+    "answer_string": "37025",
     "voice_sound_id": 100302
   },
   {
     "id": 1720,
     "type": "hawk_good_storyfeedback_20",
     "animation": "lobby_answer01",
-    "answer_string": "37037",
+    "answer_string": "37036",
     "voice_sound_id": 100302
   },
   {
     "id": 1801,
     "type": "hawk_normal_storyfeedback_01",
     "animation": "lobby_eyecontact",
-    "answer_string": "37038",
+    "answer_string": "37037",
     "voice_sound_id": 100309
   },
   {
     "id": 1802,
     "type": "hawk_normal_storyfeedback_02",
     "animation": "lobby_answer01",
-    "answer_string": "37039",
+    "answer_string": "37038",
     "voice_sound_id": 100302
   },
   {
     "id": 1803,
     "type": "hawk_normal_storyfeedback_03",
     "animation": "lobby_eyecontact",
-    "answer_string": "37040",
+    "answer_string": "37039",
     "voice_sound_id": 100309
   },
   {
     "id": 1804,
     "type": "hawk_normal_storyfeedback_04",
     "animation": "lobby_answer01",
-    "answer_string": "37041",
+    "answer_string": "37040",
     "voice_sound_id": 100302
   },
   {
     "id": 1805,
     "type": "hawk_normal_storyfeedback_05",
     "animation": "lobby_eyecontact",
-    "answer_string": "37042",
+    "answer_string": "37041",
     "voice_sound_id": 100309
   },
   {
     "id": 1806,
     "type": "hawk_normal_storyfeedback_06",
     "animation": "lobby_eyecontact",
-    "answer_string": "37043",
+    "answer_string": "37042",
     "voice_sound_id": 100309
   },
   {
     "id": 1807,
     "type": "hawk_normal_storyfeedback_07",
     "animation": "lobby_eyecontact",
-    "answer_string": "37044",
+    "answer_string": "37043",
     "voice_sound_id": 100309
   },
   {
     "id": 1808,
     "type": "hawk_normal_storyfeedback_08",
     "animation": "lobby_answer02",
-    "answer_string": "37045",
+    "answer_string": "37044",
     "voice_sound_id": 100304
   },
   {
     "id": 1809,
     "type": "hawk_normal_storyfeedback_09",
     "animation": "lobby_eyecontact",
-    "answer_string": "37046",
+    "answer_string": "37045",
     "voice_sound_id": 100309
   },
   {
     "id": 1810,
     "type": "hawk_normal_storyfeedback_10",
     "animation": "lobby_eyecontact",
-    "answer_string": "37047",
+    "answer_string": "37046",
     "voice_sound_id": 100309
   },
   {
     "id": 1811,
     "type": "hawk_normal_storyfeedback_11",
     "animation": "lobby_talk",
-    "answer_string": "37048",
+    "answer_string": "37047",
     "voice_sound_id": 100301
   },
   {
     "id": 1812,
     "type": "hawk_normal_storyfeedback_12",
     "animation": "lobby_good",
-    "answer_string": "37049",
+    "answer_string": "37048",
     "voice_sound_id": 100304
   },
   {
     "id": 1813,
     "type": "hawk_normal_storyfeedback_13",
     "animation": "lobby_answer01",
-    "answer_string": "37050",
+    "answer_string": "37049",
     "voice_sound_id": 100302
   },
   {
     "id": 1814,
     "type": "hawk_normal_storyfeedback_14",
     "animation": "lobby_answer02",
-    "answer_string": "37051",
+    "answer_string": "37050",
     "voice_sound_id": 100304
   },
   {
     "id": 1815,
     "type": "hawk_normal_storyfeedback_15",
     "animation": "lobby_eyecontact",
-    "answer_string": "37052",
+    "answer_string": "37051",
     "voice_sound_id": 100309
   },
   {
     "id": 1816,
     "type": "hawk_normal_storyfeedback_16",
     "animation": "lobby_eyecontact",
-    "answer_string": "37053",
+    "answer_string": "37052",
     "voice_sound_id": 100309
   },
   {
     "id": 1817,
     "type": "hawk_normal_storyfeedback_17",
     "animation": "lobby_answer01",
-    "answer_string": "37054",
+    "answer_string": "37053",
     "voice_sound_id": 100302
   },
   {
     "id": 1818,
     "type": "hawk_normal_storyfeedback_18",
     "animation": "lobby_answer01",
-    "answer_string": "37055",
+    "answer_string": "37054",
     "voice_sound_id": 100302
   },
   {
     "id": 1819,
     "type": "hawk_normal_storyfeedback_19",
     "animation": "lobby_eyecontact",
-    "answer_string": "37056",
+    "answer_string": "37055",
     "voice_sound_id": 100309
   },
   {
     "id": 1820,
     "type": "hawk_normal_storyfeedback_20",
     "animation": "lobby_eyecontact",
-    "answer_string": "37057",
+    "answer_string": "37056",
     "voice_sound_id": 100309
   },
   {
     "id": 1901,
     "type": "hawk_bad_storyfeedback_01",
     "animation": "lobby_answer02",
-    "answer_string": "37002",
+    "answer_string": "37001",
     "voice_sound_id": 100304
   },
   {
     "id": 1902,
     "type": "hawk_bad_storyfeedback_02",
     "animation": "lobby_answer02",
-    "answer_string": "37003",
+    "answer_string": "37002",
     "voice_sound_id": 100304
   },
   {
     "id": 1903,
     "type": "hawk_bad_storyfeedback_03",
     "animation": "lobby_answer02",
-    "answer_string": "37004",
+    "answer_string": "37003",
     "voice_sound_id": 100304
   },
   {
     "id": 1904,
     "type": "hawk_bad_storyfeedback_04",
     "animation": "lobby_answer02",
-    "answer_string": "37005",
+    "answer_string": "37004",
     "voice_sound_id": 100304
   },
   {
     "id": 1905,
     "type": "hawk_bad_storyfeedback_05",
     "animation": "lobby_answer02",
-    "answer_string": "37006",
+    "answer_string": "37005",
     "voice_sound_id": 100304
   },
   {
     "id": 1906,
     "type": "hawk_bad_storyfeedback_06",
     "animation": "lobby_answer02",
-    "answer_string": "37007",
+    "answer_string": "37006",
     "voice_sound_id": 100304
   },
   {
     "id": 1907,
     "type": "hawk_bad_storyfeedback_07",
     "animation": "lobby_answer02",
-    "answer_string": "37008",
+    "answer_string": "37007",
     "voice_sound_id": 100304
   },
   {
     "id": 1908,
     "type": "hawk_bad_storyfeedback_08",
     "animation": "lobby_answer02",
-    "answer_string": "37009",
+    "answer_string": "37008",
     "voice_sound_id": 100304
   },
   {
     "id": 1909,
     "type": "hawk_bad_storyfeedback_09",
     "animation": "lobby_answer02",
-    "answer_string": "37009",
+    "answer_string": "37008",
     "voice_sound_id": 100304
   },
   {
     "id": 1910,
     "type": "hawk_bad_storyfeedback_10",
     "animation": "lobby_answer02",
-    "answer_string": "37010",
+    "answer_string": "37009",
     "voice_sound_id": 100304
   },
   {
     "id": 1911,
     "type": "hawk_bad_storyfeedback_11",
     "animation": "lobby_answer02",
-    "answer_string": "37011",
+    "answer_string": "37010",
     "voice_sound_id": 100304
   },
   {
     "id": 1912,
     "type": "hawk_bad_storyfeedback_12",
     "animation": "lobby_answer02",
-    "answer_string": "37009",
+    "answer_string": "37008",
     "voice_sound_id": 100304
   },
   {
     "id": 1913,
     "type": "hawk_bad_storyfeedback_13",
     "animation": "lobby_answer02",
-    "answer_string": "37012",
+    "answer_string": "37011",
     "voice_sound_id": 100304
   },
   {
     "id": 1914,
     "type": "hawk_bad_storyfeedback_14",
     "animation": "lobby_answer02",
-    "answer_string": "37013",
+    "answer_string": "37012",
     "voice_sound_id": 100304
   },
   {
     "id": 1915,
     "type": "hawk_bad_storyfeedback_15",
     "animation": "lobby_answer02",
-    "answer_string": "37014",
+    "answer_string": "37013",
     "voice_sound_id": 100304
   },
   {
     "id": 1916,
     "type": "hawk_bad_storyfeedback_16",
     "animation": "lobby_answer02",
-    "answer_string": "37015",
+    "answer_string": "37014",
     "voice_sound_id": 100304
   },
   {
     "id": 1917,
     "type": "hawk_bad_storyfeedback_17",
     "animation": "lobby_answer02",
-    "answer_string": "37016",
+    "answer_string": "37015",
     "voice_sound_id": 100304
   },
   {
     "id": 1918,
     "type": "hawk_bad_storyfeedback_18",
     "animation": "lobby_answer02",
-    "answer_string": "37017",
+    "answer_string": "37016",
     "voice_sound_id": 100304
   },
   {
     "id": 1919,
     "type": "hawk_bad_storyfeedback_19",
     "animation": "lobby_eyecontact",
-    "answer_string": "37018",
+    "answer_string": "37017",
     "voice_sound_id": 100309
   },
   {
     "id": 1920,
     "type": "hawk_bad_storyfeedback_20",
     "animation": "lobby_answer02",
-    "answer_string": "37019",
+    "answer_string": "37018",
     "voice_sound_id": 100304
   },
   {
     "id": 2001,
     "type": "diane_storyquestion_01",
     "animation": "lobby_talk",
-    "answer_string": "33822",
+    "answer_string": "33821",
     "voice_sound_id": 100402
   },
   {
     "id": 2002,
     "type": "diane_storyquestion_02",
     "animation": "lobby_talk",
-    "answer_string": "33823",
+    "answer_string": "33822",
     "voice_sound_id": 100406
   },
   {
     "id": 2003,
     "type": "diane_storyquestion_03",
     "animation": "lobby_talk",
-    "answer_string": "33824",
+    "answer_string": "33823",
     "voice_sound_id": 100402
   },
   {
     "id": 2004,
     "type": "diane_storyquestion_04",
     "animation": "lobby_talk",
-    "answer_string": "33825",
+    "answer_string": "33824",
     "voice_sound_id": 100401
   },
   {
     "id": 2005,
     "type": "diane_storyquestion_05",
     "animation": "lobby_talk",
-    "answer_string": "33826",
+    "answer_string": "33825",
     "voice_sound_id": 100402
   },
   {
     "id": 2006,
     "type": "diane_storyquestion_06",
     "animation": "lobby_talk",
-    "answer_string": "33827",
+    "answer_string": "33826",
     "voice_sound_id": 100402
   },
   {
     "id": 2007,
     "type": "diane_storyquestion_07",
     "animation": "lobby_talk",
-    "answer_string": "33828",
+    "answer_string": "33827",
     "voice_sound_id": 100406
   },
   {
     "id": 2008,
     "type": "diane_storyquestion_08",
     "animation": "lobby_talk",
-    "answer_string": "33829",
+    "answer_string": "33828",
     "voice_sound_id": 100406
   },
   {
     "id": 2009,
     "type": "diane_storyquestion_09",
     "animation": "lobby_talk",
-    "answer_string": "33830",
+    "answer_string": "33829",
     "voice_sound_id": 100405
   },
   {
     "id": 2010,
     "type": "diane_storyquestion_10",
     "animation": "lobby_talk",
-    "answer_string": "33831",
+    "answer_string": "33830",
     "voice_sound_id": 100405
   },
   {
     "id": 2011,
     "type": "diane_storyquestion_11",
     "animation": "lobby_talk",
-    "answer_string": "33832",
+    "answer_string": "33831",
     "voice_sound_id": 100402
   },
   {
     "id": 2012,
     "type": "diane_storyquestion_12",
     "animation": "lobby_talk",
-    "answer_string": "33833",
+    "answer_string": "33832",
     "voice_sound_id": 100402
   },
   {
     "id": 2013,
     "type": "diane_storyquestion_13",
     "animation": "lobby_talk",
-    "answer_string": "33834",
+    "answer_string": "33833",
     "voice_sound_id": 100405
   },
   {
     "id": 2014,
     "type": "diane_storyquestion_14",
     "animation": "lobby_talk",
-    "answer_string": "33835",
+    "answer_string": "33834",
     "voice_sound_id": 100405
   },
   {
     "id": 2015,
     "type": "diane_storyquestion_15",
     "animation": "lobby_talk",
-    "answer_string": "33836",
+    "answer_string": "33835",
     "voice_sound_id": 100405
   },
   {
     "id": 2301,
     "type": "diane_player_storyanswer_01_1",
     "animation": "lobby_idle01",
-    "answer_string": "33777",
+    "answer_string": "33776",
     "voice_sound_id": 0
   },
   {
     "id": 2302,
     "type": "diane_player_storyanswer_01_2",
     "animation": "lobby_idle01",
-    "answer_string": "33778",
+    "answer_string": "33777",
     "voice_sound_id": 0
   },
   {
     "id": 2303,
     "type": "diane_player_storyanswer_01_3",
     "animation": "lobby_idle01",
-    "answer_string": "33779",
+    "answer_string": "33778",
     "voice_sound_id": 0
   },
   {
     "id": 2304,
     "type": "diane_player_storyanswer_02_1",
     "animation": "lobby_idle01",
-    "answer_string": "33780",
+    "answer_string": "33779",
     "voice_sound_id": 0
   },
   {
     "id": 2305,
     "type": "diane_player_storyanswer_02_2",
     "animation": "lobby_idle01",
-    "answer_string": "33781",
+    "answer_string": "33780",
     "voice_sound_id": 0
   },
   {
     "id": 2306,
     "type": "diane_player_storyanswer_02_3",
     "animation": "lobby_idle01",
-    "answer_string": "33782",
+    "answer_string": "33781",
     "voice_sound_id": 0
   },
   {
     "id": 2307,
     "type": "diane_player_storyanswer_03_1",
     "animation": "lobby_idle01",
-    "answer_string": "33783",
+    "answer_string": "33782",
     "voice_sound_id": 0
   },
   {
     "id": 2308,
     "type": "diane_player_storyanswer_03_2",
     "animation": "lobby_idle01",
-    "answer_string": "33784",
+    "answer_string": "33783",
     "voice_sound_id": 0
   },
   {
     "id": 2309,
     "type": "diane_player_storyanswer_03_3",
     "animation": "lobby_idle01",
-    "answer_string": "33785",
+    "answer_string": "33784",
     "voice_sound_id": 0
   },
   {
     "id": 2310,
     "type": "diane_player_storyanswer_04_1",
     "animation": "lobby_idle01",
-    "answer_string": "33786",
+    "answer_string": "33785",
     "voice_sound_id": 0
   },
   {
     "id": 2311,
     "type": "diane_player_storyanswer_04_2",
     "animation": "lobby_idle01",
-    "answer_string": "33787",
+    "answer_string": "33786",
     "voice_sound_id": 0
   },
   {
     "id": 2312,
     "type": "diane_player_storyanswer_04_3",
     "animation": "lobby_idle01",
-    "answer_string": "33788",
+    "answer_string": "33787",
     "voice_sound_id": 0
   },
   {
     "id": 2313,
     "type": "diane_player_storyanswer_05_1",
     "animation": "lobby_idle01",
-    "answer_string": "33789",
+    "answer_string": "33788",
     "voice_sound_id": 0
   },
   {
     "id": 2314,
     "type": "diane_player_storyanswer_05_2",
     "animation": "lobby_idle01",
-    "answer_string": "33790",
+    "answer_string": "33789",
     "voice_sound_id": 0
   },
   {
     "id": 2315,
     "type": "diane_player_storyanswer_05_3",
     "animation": "lobby_idle01",
-    "answer_string": "33791",
+    "answer_string": "33790",
     "voice_sound_id": 0
   },
   {
     "id": 2316,
     "type": "diane_player_storyanswer_06_1",
     "animation": "lobby_idle01",
-    "answer_string": "33792",
+    "answer_string": "33791",
     "voice_sound_id": 0
   },
   {
     "id": 2317,
     "type": "diane_player_storyanswer_06_2",
     "animation": "lobby_idle01",
-    "answer_string": "33793",
+    "answer_string": "33792",
     "voice_sound_id": 0
   },
   {
     "id": 2318,
     "type": "diane_player_storyanswer_06_3",
     "animation": "lobby_idle01",
-    "answer_string": "33794",
+    "answer_string": "33793",
     "voice_sound_id": 0
   },
   {
     "id": 2319,
     "type": "diane_player_storyanswer_07_1",
     "animation": "lobby_idle01",
-    "answer_string": "33795",
+    "answer_string": "33794",
     "voice_sound_id": 0
   },
   {
     "id": 2320,
     "type": "diane_player_storyanswer_07_2",
     "animation": "lobby_idle01",
-    "answer_string": "33796",
+    "answer_string": "33795",
     "voice_sound_id": 0
   },
   {
     "id": 2321,
     "type": "diane_player_storyanswer_07_3",
     "animation": "lobby_idle01",
-    "answer_string": "33797",
+    "answer_string": "33796",
     "voice_sound_id": 0
   },
   {
     "id": 2322,
     "type": "diane_player_storyanswer_08_1",
     "animation": "lobby_idle01",
-    "answer_string": "33798",
+    "answer_string": "33797",
     "voice_sound_id": 0
   },
   {
     "id": 2323,
     "type": "diane_player_storyanswer_08_2",
     "animation": "lobby_idle01",
-    "answer_string": "33799",
+    "answer_string": "33798",
     "voice_sound_id": 0
   },
   {
     "id": 2324,
     "type": "diane_player_storyanswer_08_3",
     "animation": "lobby_idle01",
-    "answer_string": "33800",
+    "answer_string": "33799",
     "voice_sound_id": 0
   },
   {
     "id": 2325,
     "type": "diane_player_storyanswer_09_1",
     "animation": "lobby_idle01",
-    "answer_string": "33801",
+    "answer_string": "33800",
     "voice_sound_id": 0
   },
   {
     "id": 2326,
     "type": "diane_player_storyanswer_09_2",
     "animation": "lobby_idle01",
-    "answer_string": "33802",
+    "answer_string": "33801",
     "voice_sound_id": 0
   },
   {
     "id": 2327,
     "type": "diane_player_storyanswer_09_3",
     "animation": "lobby_idle01",
-    "answer_string": "33803",
+    "answer_string": "33802",
     "voice_sound_id": 0
   },
   {
     "id": 2328,
     "type": "diane_player_storyanswer_10_1",
     "animation": "lobby_idle01",
-    "answer_string": "33804",
+    "answer_string": "33803",
     "voice_sound_id": 0
   },
   {
     "id": 2329,
     "type": "diane_player_storyanswer_10_2",
     "animation": "lobby_idle01",
-    "answer_string": "33805",
+    "answer_string": "33804",
     "voice_sound_id": 0
   },
   {
     "id": 2330,
     "type": "diane_player_storyanswer_10_3",
     "animation": "lobby_idle01",
-    "answer_string": "33806",
+    "answer_string": "33805",
     "voice_sound_id": 0
   },
   {
     "id": 2331,
     "type": "diane_player_storyanswer_11_1",
     "animation": "lobby_idle01",
-    "answer_string": "33807",
+    "answer_string": "33806",
     "voice_sound_id": 0
   },
   {
     "id": 2332,
     "type": "diane_player_storyanswer_11_2",
     "animation": "lobby_idle01",
-    "answer_string": "33808",
+    "answer_string": "33807",
     "voice_sound_id": 0
   },
   {
     "id": 2333,
     "type": "diane_player_storyanswer_11_3",
     "animation": "lobby_idle01",
-    "answer_string": "33809",
+    "answer_string": "33808",
     "voice_sound_id": 0
   },
   {
     "id": 2334,
     "type": "diane_player_storyanswer_12_1",
     "animation": "lobby_idle01",
-    "answer_string": "33810",
+    "answer_string": "33809",
     "voice_sound_id": 0
   },
   {
     "id": 2335,
     "type": "diane_player_storyanswer_12_2",
     "animation": "lobby_idle01",
-    "answer_string": "33811",
+    "answer_string": "33810",
     "voice_sound_id": 0
   },
   {
     "id": 2336,
     "type": "diane_player_storyanswer_12_3",
     "animation": "lobby_idle01",
-    "answer_string": "33812",
+    "answer_string": "33811",
     "voice_sound_id": 0
   },
   {
     "id": 2337,
     "type": "diane_player_storyanswer_13_1",
     "animation": "lobby_idle01",
-    "answer_string": "33813",
+    "answer_string": "33812",
     "voice_sound_id": 0
   },
   {
     "id": 2338,
     "type": "diane_player_storyanswer_13_2",
     "animation": "lobby_idle01",
-    "answer_string": "33814",
+    "answer_string": "33813",
     "voice_sound_id": 0
   },
   {
     "id": 2339,
     "type": "diane_player_storyanswer_13_3",
     "animation": "lobby_idle01",
-    "answer_string": "33815",
+    "answer_string": "33814",
     "voice_sound_id": 0
   },
   {
     "id": 2340,
     "type": "diane_player_storyanswer_14_1",
     "animation": "lobby_idle01",
-    "answer_string": "33816",
+    "answer_string": "33815",
     "voice_sound_id": 0
   },
   {
     "id": 2341,
     "type": "diane_player_storyanswer_14_2",
     "animation": "lobby_idle01",
-    "answer_string": "33817",
+    "answer_string": "33816",
     "voice_sound_id": 0
   },
   {
     "id": 2342,
     "type": "diane_player_storyanswer_14_3",
     "animation": "lobby_idle01",
-    "answer_string": "33818",
+    "answer_string": "33817",
     "voice_sound_id": 0
   },
   {
     "id": 2343,
     "type": "diane_player_storyanswer_15_1",
     "animation": "lobby_idle01",
-    "answer_string": "33819",
+    "answer_string": "33818",
     "voice_sound_id": 0
   },
   {
     "id": 2344,
     "type": "diane_player_storyanswer_15_2",
     "animation": "lobby_idle01",
-    "answer_string": "33820",
+    "answer_string": "33819",
     "voice_sound_id": 0
   },
   {
     "id": 2345,
     "type": "diane_player_storyanswer_15_3",
     "animation": "lobby_idle01",
-    "answer_string": "33821",
+    "answer_string": "33820",
     "voice_sound_id": 0
   },
   {
     "id": 2701,
     "type": "diane_good_storyfeedback_01",
     "animation": "lobby_smile",
-    "answer_string": "36826",
+    "answer_string": "36825",
     "voice_sound_id": 100401
   },
   {
     "id": 2702,
     "type": "diane_good_storyfeedback_02",
     "animation": "lobby_answer01",
-    "answer_string": "36827",
+    "answer_string": "36826",
     "voice_sound_id": 100402
   },
   {
     "id": 2703,
     "type": "diane_good_storyfeedback_03",
     "animation": "lobby_talk",
-    "answer_string": "36828",
+    "answer_string": "36827",
     "voice_sound_id": 100402
   },
   {
     "id": 2704,
     "type": "diane_good_storyfeedback_04",
     "animation": "lobby_shy",
-    "answer_string": "36829",
+    "answer_string": "36828",
     "voice_sound_id": 100401
   },
   {
     "id": 2705,
     "type": "diane_good_storyfeedback_05",
     "animation": "lobby_answer01",
-    "answer_string": "36830",
+    "answer_string": "36829",
     "voice_sound_id": 100402
   },
   {
     "id": 2706,
     "type": "diane_good_storyfeedback_06",
     "animation": "lobby_answer01",
-    "answer_string": "36831",
+    "answer_string": "36830",
     "voice_sound_id": 100402
   },
   {
     "id": 2707,
     "type": "diane_good_storyfeedback_07",
     "animation": "lobby_answer01",
-    "answer_string": "36832",
+    "answer_string": "36831",
     "voice_sound_id": 100402
   },
   {
     "id": 2708,
     "type": "diane_good_storyfeedback_08",
     "animation": "lobby_smile",
-    "answer_string": "36833",
+    "answer_string": "36832",
     "voice_sound_id": 100401
   },
   {
     "id": 2709,
     "type": "diane_good_storyfeedback_09",
     "animation": "lobby_talk",
-    "answer_string": "36828",
+    "answer_string": "36827",
     "voice_sound_id": 100402
   },
   {
     "id": 2710,
     "type": "diane_good_storyfeedback_10",
     "animation": "lobby_talk",
-    "answer_string": "36834",
+    "answer_string": "36833",
     "voice_sound_id": 100402
   },
   {
     "id": 2711,
     "type": "diane_good_storyfeedback_11",
     "animation": "lobby_answer01",
-    "answer_string": "36835",
+    "answer_string": "36834",
     "voice_sound_id": 100402
   },
   {
     "id": 2712,
     "type": "diane_good_storyfeedback_12",
     "animation": "lobby_smile",
-    "answer_string": "36836",
+    "answer_string": "36835",
     "voice_sound_id": 100401
   },
   {
     "id": 2713,
     "type": "diane_good_storyfeedback_13",
     "animation": "lobby_talk",
-    "answer_string": "36828",
+    "answer_string": "36827",
     "voice_sound_id": 100402
   },
   {
     "id": 2714,
     "type": "diane_good_storyfeedback_14",
     "animation": "lobby_answer01",
-    "answer_string": "36837",
+    "answer_string": "36836",
     "voice_sound_id": 100402
   },
   {
     "id": 2715,
     "type": "diane_good_storyfeedback_15",
     "animation": "lobby_talk",
-    "answer_string": "36838",
+    "answer_string": "36837",
     "voice_sound_id": 100402
   },
   {
     "id": 2801,
     "type": "diane_normal_storyfeedback_01",
     "animation": "lobby_talk",
-    "answer_string": "36839",
+    "answer_string": "36838",
     "voice_sound_id": 100402
   },
   {
     "id": 2802,
     "type": "diane_normal_storyfeedback_02",
     "animation": "lobby_talk",
-    "answer_string": "36840",
+    "answer_string": "36839",
     "voice_sound_id": 100402
   },
   {
     "id": 2803,
     "type": "diane_normal_storyfeedback_03",
     "animation": "lobby_surprise",
-    "answer_string": "36841",
+    "answer_string": "36840",
     "voice_sound_id": 100402
   },
   {
     "id": 2804,
     "type": "diane_normal_storyfeedback_04",
     "animation": "lobby_surprise",
-    "answer_string": "36842",
+    "answer_string": "36841",
     "voice_sound_id": 100407
   },
   {
     "id": 2805,
     "type": "diane_normal_storyfeedback_05",
     "animation": "lobby_surprise",
-    "answer_string": "36843",
+    "answer_string": "36842",
     "voice_sound_id": 100407
   },
   {
     "id": 2806,
     "type": "diane_normal_storyfeedback_06",
     "animation": "lobby_shy",
-    "answer_string": "36844",
+    "answer_string": "36843",
     "voice_sound_id": 100401
   },
   {
     "id": 2807,
     "type": "diane_normal_storyfeedback_07",
     "animation": "lobby_sad",
-    "answer_string": "36845",
+    "answer_string": "36844",
     "voice_sound_id": 100407
   },
   {
     "id": 2808,
     "type": "diane_normal_storyfeedback_08",
     "animation": "lobby_sad",
-    "answer_string": "36846",
+    "answer_string": "36845",
     "voice_sound_id": 100407
   },
   {
     "id": 2809,
     "type": "diane_normal_storyfeedback_09",
     "animation": "lobby_sad",
-    "answer_string": "36847",
+    "answer_string": "36846",
     "voice_sound_id": 100410
   },
   {
     "id": 2810,
     "type": "diane_normal_storyfeedback_10",
     "animation": "lobby_shy",
-    "answer_string": "36848",
+    "answer_string": "36847",
     "voice_sound_id": 100402
   },
   {
     "id": 2811,
     "type": "diane_normal_storyfeedback_11",
     "animation": "lobby_shy",
-    "answer_string": "36849",
+    "answer_string": "36848",
     "voice_sound_id": 100402
   },
   {
     "id": 2812,
     "type": "diane_normal_storyfeedback_12",
     "animation": "lobby_surprise",
-    "answer_string": "36847",
+    "answer_string": "36846",
     "voice_sound_id": 100410
   },
   {
     "id": 2813,
     "type": "diane_normal_storyfeedback_13",
     "animation": "lobby_talk",
-    "answer_string": "36850",
+    "answer_string": "36849",
     "voice_sound_id": 100402
   },
   {
     "id": 2814,
     "type": "diane_normal_storyfeedback_14",
     "animation": "lobby_refusal02",
-    "answer_string": "36851",
+    "answer_string": "36850",
     "voice_sound_id": 100402
   },
   {
     "id": 2815,
     "type": "diane_normal_storyfeedback_15",
     "animation": "lobby_talk",
-    "answer_string": "36852",
+    "answer_string": "36851",
     "voice_sound_id": 100402
   },
   {
     "id": 2901,
     "type": "diane_bad_storyfeedback_01",
     "animation": "lobby_anger_01",
-    "answer_string": "36819",
+    "answer_string": "36818",
     "voice_sound_id": 100409
   },
   {
     "id": 2902,
     "type": "diane_bad_storyfeedback_02",
     "animation": "lobby_anger_02",
-    "answer_string": "36820",
+    "answer_string": "36819",
     "voice_sound_id": 100409
   },
   {
     "id": 2903,
     "type": "diane_bad_storyfeedback_03",
     "animation": "lobby_anger_02",
-    "answer_string": "36821",
+    "answer_string": "36820",
     "voice_sound_id": 100409
   },
   {
     "id": 2904,
     "type": "diane_bad_storyfeedback_04",
     "animation": "lobby_anger_01",
-    "answer_string": "36822",
+    "answer_string": "36821",
     "voice_sound_id": 100409
   },
   {
     "id": 2905,
     "type": "diane_bad_storyfeedback_05",
     "animation": "lobby_anger_02",
-    "answer_string": "36823",
+    "answer_string": "36822",
     "voice_sound_id": 100409
   },
   {
     "id": 2906,
     "type": "diane_bad_storyfeedback_06",
     "animation": "lobby_anger_02",
-    "answer_string": "36821",
+    "answer_string": "36820",
     "voice_sound_id": 100409
   },
   {
     "id": 2907,
     "type": "diane_bad_storyfeedback_07",
     "animation": "lobby_anger_01",
-    "answer_string": "36819",
+    "answer_string": "36818",
     "voice_sound_id": 100409
   },
   {
     "id": 2908,
     "type": "diane_bad_storyfeedback_08",
     "animation": "lobby_surprise",
-    "answer_string": "36824",
+    "answer_string": "36823",
     "voice_sound_id": 100409
   },
   {
     "id": 2909,
     "type": "diane_bad_storyfeedback_09",
     "animation": "lobby_anger_02",
-    "answer_string": "36821",
+    "answer_string": "36820",
     "voice_sound_id": 100409
   },
   {
     "id": 2910,
     "type": "diane_bad_storyfeedback_10",
     "animation": "lobby_anger_01",
-    "answer_string": "36819",
+    "answer_string": "36818",
     "voice_sound_id": 100409
   },
   {
     "id": 2911,
     "type": "diane_bad_storyfeedback_11",
     "animation": "lobby_anger_01",
-    "answer_string": "36822",
+    "answer_string": "36821",
     "voice_sound_id": 100409
   },
   {
     "id": 2912,
     "type": "diane_bad_storyfeedback_12",
     "animation": "lobby_refusal01",
-    "answer_string": "36825",
+    "answer_string": "36824",
     "voice_sound_id": 100409
   },
   {
     "id": 2913,
     "type": "diane_bad_storyfeedback_13",
     "animation": "lobby_anger_02",
-    "answer_string": "36821",
+    "answer_string": "36820",
     "voice_sound_id": 100409
   },
   {
     "id": 2914,
     "type": "diane_bad_storyfeedback_14",
     "animation": "lobby_anger_01",
-    "answer_string": "36819",
+    "answer_string": "36818",
     "voice_sound_id": 100409
   },
   {
     "id": 2915,
     "type": "diane_bad_storyfeedback_15",
     "animation": "lobby_anger_01",
-    "answer_string": "36819",
+    "answer_string": "36818",
     "voice_sound_id": 100409
   },
   {
     "id": 3001,
     "type": "ban_storyquestion_01",
     "animation": "lobby_talk",
-    "answer_string": "31690",
+    "answer_string": "31689",
     "voice_sound_id": 0
   },
   {
     "id": 3002,
     "type": "ban_storyquestion_02",
     "animation": "lobby_talk",
-    "answer_string": "31691",
+    "answer_string": "31690",
     "voice_sound_id": 0
   },
   {
     "id": 3003,
     "type": "ban_storyquestion_03",
     "animation": "lobby_talk",
-    "answer_string": "31692",
+    "answer_string": "31691",
     "voice_sound_id": 0
   },
   {
     "id": 3004,
     "type": "ban_storyquestion_04",
     "animation": "lobby_talk",
-    "answer_string": "31693",
+    "answer_string": "31692",
     "voice_sound_id": 0
   },
   {
     "id": 3005,
     "type": "ban_storyquestion_05",
     "animation": "lobby_talk",
-    "answer_string": "31694",
+    "answer_string": "31693",
     "voice_sound_id": 0
   },
   {
     "id": 3006,
     "type": "ban_storyquestion_06",
     "animation": "lobby_talk",
-    "answer_string": "31695",
+    "answer_string": "31694",
     "voice_sound_id": 0
   },
   {
     "id": 3007,
     "type": "ban_storyquestion_07",
     "animation": "lobby_talk",
-    "answer_string": "31696",
+    "answer_string": "31695",
     "voice_sound_id": 0
   },
   {
     "id": 3008,
     "type": "ban_storyquestion_08",
     "animation": "lobby_talk",
-    "answer_string": "31697",
+    "answer_string": "31696",
     "voice_sound_id": 0
   },
   {
     "id": 3009,
     "type": "ban_storyquestion_09",
     "animation": "lobby_talk",
-    "answer_string": "31698",
+    "answer_string": "31697",
     "voice_sound_id": 0
   },
   {
     "id": 3010,
     "type": "ban_storyquestion_10",
     "animation": "lobby_talk",
-    "answer_string": "31699",
+    "answer_string": "31698",
     "voice_sound_id": 0
   },
   {
     "id": 3011,
     "type": "ban_storyquestion_11",
     "animation": "lobby_talk",
-    "answer_string": "31700",
+    "answer_string": "31699",
     "voice_sound_id": 0
   },
   {
     "id": 3012,
     "type": "ban_storyquestion_12",
     "animation": "lobby_talk",
-    "answer_string": "31701",
+    "answer_string": "31700",
     "voice_sound_id": 0
   },
   {
     "id": 3013,
     "type": "ban_storyquestion_13",
     "animation": "lobby_talk",
-    "answer_string": "31702",
+    "answer_string": "31701",
     "voice_sound_id": 0
   },
   {
     "id": 3301,
     "type": "ban_player_storyanswer_01_1",
     "animation": "lobby_idle01",
-    "answer_string": "31651",
+    "answer_string": "31650",
     "voice_sound_id": 0
   },
   {
     "id": 3302,
     "type": "ban_player_storyanswer_01_2",
     "animation": "lobby_idle01",
-    "answer_string": "31652",
+    "answer_string": "31651",
     "voice_sound_id": 0
   },
   {
     "id": 3303,
     "type": "ban_player_storyanswer_01_3",
     "animation": "lobby_idle01",
-    "answer_string": "31653",
+    "answer_string": "31652",
     "voice_sound_id": 0
   },
   {
     "id": 3304,
     "type": "ban_player_storyanswer_02_1",
     "animation": "lobby_idle01",
-    "answer_string": "31654",
+    "answer_string": "31653",
     "voice_sound_id": 0
   },
   {
     "id": 3305,
     "type": "ban_player_storyanswer_02_2",
     "animation": "lobby_idle01",
-    "answer_string": "31655",
+    "answer_string": "31654",
     "voice_sound_id": 0
   },
   {
     "id": 3306,
     "type": "ban_player_storyanswer_02_3",
     "animation": "lobby_idle01",
-    "answer_string": "31656",
+    "answer_string": "31655",
     "voice_sound_id": 0
   },
   {
     "id": 3307,
     "type": "ban_player_storyanswer_03_1",
     "animation": "lobby_idle01",
-    "answer_string": "31657",
+    "answer_string": "31656",
     "voice_sound_id": 0
   },
   {
     "id": 3308,
     "type": "ban_player_storyanswer_03_2",
     "animation": "lobby_idle01",
-    "answer_string": "31658",
+    "answer_string": "31657",
     "voice_sound_id": 0
   },
   {
     "id": 3309,
     "type": "ban_player_storyanswer_03_3",
     "animation": "lobby_idle01",
-    "answer_string": "31659",
+    "answer_string": "31658",
     "voice_sound_id": 0
   },
   {
     "id": 3310,
     "type": "ban_player_storyanswer_04_1",
     "animation": "lobby_idle01",
-    "answer_string": "31660",
+    "answer_string": "31659",
     "voice_sound_id": 0
   },
   {
     "id": 3311,
     "type": "ban_player_storyanswer_04_2",
     "animation": "lobby_idle01",
-    "answer_string": "31661",
+    "answer_string": "31660",
     "voice_sound_id": 0
   },
   {
     "id": 3312,
     "type": "ban_player_storyanswer_04_3",
     "animation": "lobby_idle01",
-    "answer_string": "31662",
+    "answer_string": "31661",
     "voice_sound_id": 0
   },
   {
     "id": 3313,
     "type": "ban_player_storyanswer_05_1",
     "animation": "lobby_idle01",
-    "answer_string": "31663",
+    "answer_string": "31662",
     "voice_sound_id": 0
   },
   {
     "id": 3314,
     "type": "ban_player_storyanswer_05_2",
     "animation": "lobby_idle01",
-    "answer_string": "31664",
+    "answer_string": "31663",
     "voice_sound_id": 0
   },
   {
     "id": 3315,
     "type": "ban_player_storyanswer_05_3",
     "animation": "lobby_idle01",
-    "answer_string": "31665",
+    "answer_string": "31664",
     "voice_sound_id": 0
   },
   {
     "id": 3316,
     "type": "ban_player_storyanswer_06_1",
     "animation": "lobby_idle01",
-    "answer_string": "31666",
+    "answer_string": "31665",
     "voice_sound_id": 0
   },
   {
     "id": 3317,
     "type": "ban_player_storyanswer_06_2",
     "animation": "lobby_idle01",
-    "answer_string": "31667",
+    "answer_string": "31666",
     "voice_sound_id": 0
   },
   {
     "id": 3318,
     "type": "ban_player_storyanswer_06_3",
     "animation": "lobby_idle01",
-    "answer_string": "31668",
+    "answer_string": "31667",
     "voice_sound_id": 0
   },
   {
     "id": 3319,
     "type": "ban_player_storyanswer_07_1",
     "animation": "lobby_idle01",
-    "answer_string": "31669",
+    "answer_string": "31668",
     "voice_sound_id": 0
   },
   {
     "id": 3320,
     "type": "ban_player_storyanswer_07_2",
     "animation": "lobby_idle01",
-    "answer_string": "31670",
+    "answer_string": "31669",
     "voice_sound_id": 0
   },
   {
     "id": 3321,
     "type": "ban_player_storyanswer_07_3",
     "animation": "lobby_idle01",
-    "answer_string": "31671",
+    "answer_string": "31670",
     "voice_sound_id": 0
   },
   {
     "id": 3322,
     "type": "ban_player_storyanswer_08_1",
     "animation": "lobby_idle01",
-    "answer_string": "31672",
+    "answer_string": "31671",
     "voice_sound_id": 0
   },
   {
     "id": 3323,
     "type": "ban_player_storyanswer_08_2",
     "animation": "lobby_idle01",
-    "answer_string": "31673",
+    "answer_string": "31672",
     "voice_sound_id": 0
   },
   {
     "id": 3324,
     "type": "ban_player_storyanswer_08_3",
     "animation": "lobby_idle01",
-    "answer_string": "31674",
+    "answer_string": "31673",
     "voice_sound_id": 0
   },
   {
     "id": 3325,
     "type": "ban_player_storyanswer_09_1",
     "animation": "lobby_idle01",
-    "answer_string": "31675",
+    "answer_string": "31674",
     "voice_sound_id": 0
   },
   {
     "id": 3326,
     "type": "ban_player_storyanswer_09_2",
     "animation": "lobby_idle01",
-    "answer_string": "31676",
+    "answer_string": "31675",
     "voice_sound_id": 0
   },
   {
     "id": 3327,
     "type": "ban_player_storyanswer_09_3",
     "animation": "lobby_idle01",
-    "answer_string": "31677",
+    "answer_string": "31676",
     "voice_sound_id": 0
   },
   {
     "id": 3328,
     "type": "ban_player_storyanswer_10_1",
     "animation": "lobby_idle01",
-    "answer_string": "31678",
+    "answer_string": "31677",
     "voice_sound_id": 0
   },
   {
     "id": 3329,
     "type": "ban_player_storyanswer_10_2",
     "animation": "lobby_idle01",
-    "answer_string": "31679",
+    "answer_string": "31678",
     "voice_sound_id": 0
   },
   {
     "id": 3330,
     "type": "ban_player_storyanswer_10_3",
     "animation": "lobby_idle01",
-    "answer_string": "31680",
+    "answer_string": "31679",
     "voice_sound_id": 0
   },
   {
     "id": 3331,
     "type": "ban_player_storyanswer_11_1",
     "animation": "lobby_idle01",
-    "answer_string": "31681",
+    "answer_string": "31680",
     "voice_sound_id": 0
   },
   {
     "id": 3332,
     "type": "ban_player_storyanswer_11_2",
     "animation": "lobby_idle01",
-    "answer_string": "31682",
+    "answer_string": "31681",
     "voice_sound_id": 0
   },
   {
     "id": 3333,
     "type": "ban_player_storyanswer_11_3",
     "animation": "lobby_idle01",
-    "answer_string": "31683",
+    "answer_string": "31682",
     "voice_sound_id": 0
   },
   {
     "id": 3334,
     "type": "ban_player_storyanswer_12_1",
     "animation": "lobby_idle01",
-    "answer_string": "31684",
+    "answer_string": "31683",
     "voice_sound_id": 0
   },
   {
     "id": 3335,
     "type": "ban_player_storyanswer_12_2",
     "animation": "lobby_idle01",
-    "answer_string": "31685",
+    "answer_string": "31684",
     "voice_sound_id": 0
   },
   {
     "id": 3336,
     "type": "ban_player_storyanswer_12_3",
     "animation": "lobby_idle01",
-    "answer_string": "31686",
+    "answer_string": "31685",
     "voice_sound_id": 0
   },
   {
     "id": 3337,
     "type": "ban_player_storyanswer_13_1",
     "animation": "lobby_idle01",
-    "answer_string": "31687",
+    "answer_string": "31686",
     "voice_sound_id": 0
   },
   {
     "id": 3338,
     "type": "ban_player_storyanswer_13_2",
     "animation": "lobby_idle01",
-    "answer_string": "31688",
+    "answer_string": "31687",
     "voice_sound_id": 0
   },
   {
     "id": 3339,
     "type": "ban_player_storyanswer_13_3",
     "animation": "lobby_idle01",
-    "answer_string": "31689",
+    "answer_string": "31688",
     "voice_sound_id": 0
   },
   {
     "id": 3701,
     "type": "ban_good_storyfeedback_01",
     "animation": "lobby_answer01",
-    "answer_string": "36792",
+    "answer_string": "36791",
     "voice_sound_id": 0
   },
   {
     "id": 3702,
     "type": "ban_good_storyfeedback_02",
     "animation": "lobby_answer01",
-    "answer_string": "36793",
+    "answer_string": "36792",
     "voice_sound_id": 0
   },
   {
     "id": 3703,
     "type": "ban_good_storyfeedback_03",
     "animation": "lobby_answer01",
-    "answer_string": "36794",
+    "answer_string": "36793",
     "voice_sound_id": 0
   },
   {
     "id": 3704,
     "type": "ban_good_storyfeedback_04",
     "animation": "lobby_answer01",
-    "answer_string": "36795",
+    "answer_string": "36794",
     "voice_sound_id": 0
   },
   {
     "id": 3705,
     "type": "ban_good_storyfeedback_05",
     "animation": "lobby_answer01",
-    "answer_string": "36796",
+    "answer_string": "36795",
     "voice_sound_id": 0
   },
   {
     "id": 3706,
     "type": "ban_good_storyfeedback_06",
     "animation": "lobby_answer01",
-    "answer_string": "36797",
+    "answer_string": "36796",
     "voice_sound_id": 0
   },
   {
     "id": 3707,
     "type": "ban_good_storyfeedback_07",
     "animation": "lobby_answer01",
-    "answer_string": "36798",
+    "answer_string": "36797",
     "voice_sound_id": 0
   },
   {
     "id": 3708,
     "type": "ban_good_storyfeedback_08",
     "animation": "lobby_answer01",
-    "answer_string": "36799",
+    "answer_string": "36798",
     "voice_sound_id": 0
   },
   {
     "id": 3709,
     "type": "ban_good_storyfeedback_09",
     "animation": "lobby_answer01",
-    "answer_string": "36800",
+    "answer_string": "36799",
     "voice_sound_id": 0
   },
   {
     "id": 3710,
     "type": "ban_good_storyfeedback_10",
     "animation": "lobby_answer01",
-    "answer_string": "36801",
+    "answer_string": "36800",
     "voice_sound_id": 0
   },
   {
     "id": 3711,
     "type": "ban_good_storyfeedback_11",
     "animation": "lobby_answer01",
-    "answer_string": "36802",
+    "answer_string": "36801",
     "voice_sound_id": 0
   },
   {
     "id": 3712,
     "type": "ban_good_storyfeedback_12",
     "animation": "lobby_answer01",
-    "answer_string": "36803",
+    "answer_string": "36802",
     "voice_sound_id": 0
   },
   {
     "id": 3713,
     "type": "ban_good_storyfeedback_13",
     "animation": "lobby_answer01",
-    "answer_string": "36804",
+    "answer_string": "36803",
     "voice_sound_id": 0
   },
   {
     "id": 3801,
     "type": "ban_normal_storyfeedback_01",
     "animation": "lobby_idle01",
-    "answer_string": "36805",
+    "answer_string": "36804",
     "voice_sound_id": 0
   },
   {
     "id": 3802,
     "type": "ban_normal_storyfeedback_02",
     "animation": "lobby_idle01",
-    "answer_string": "36806",
+    "answer_string": "36805",
     "voice_sound_id": 0
   },
   {
     "id": 3803,
     "type": "ban_normal_storyfeedback_03",
     "animation": "lobby_idle01",
-    "answer_string": "36807",
+    "answer_string": "36806",
     "voice_sound_id": 0
   },
   {
     "id": 3804,
     "type": "ban_normal_storyfeedback_04",
     "animation": "lobby_idle01",
-    "answer_string": "36808",
+    "answer_string": "36807",
     "voice_sound_id": 0
   },
   {
     "id": 3805,
     "type": "ban_normal_storyfeedback_05",
     "animation": "lobby_idle01",
-    "answer_string": "36809",
+    "answer_string": "36808",
     "voice_sound_id": 0
   },
   {
     "id": 3806,
     "type": "ban_normal_storyfeedback_06",
     "animation": "lobby_idle01",
-    "answer_string": "36810",
+    "answer_string": "36809",
     "voice_sound_id": 0
   },
   {
     "id": 3807,
     "type": "ban_normal_storyfeedback_07",
     "animation": "lobby_idle01",
-    "answer_string": "36811",
+    "answer_string": "36810",
     "voice_sound_id": 0
   },
   {
     "id": 3808,
     "type": "ban_normal_storyfeedback_08",
     "animation": "lobby_idle01",
-    "answer_string": "36812",
+    "answer_string": "36811",
     "voice_sound_id": 0
   },
   {
     "id": 3809,
     "type": "ban_normal_storyfeedback_09",
     "animation": "lobby_idle01",
-    "answer_string": "36813",
+    "answer_string": "36812",
     "voice_sound_id": 0
   },
   {
     "id": 3810,
     "type": "ban_normal_storyfeedback_10",
     "animation": "lobby_idle01",
-    "answer_string": "36814",
+    "answer_string": "36813",
     "voice_sound_id": 0
   },
   {
     "id": 3811,
     "type": "ban_normal_storyfeedback_11",
     "animation": "lobby_idle01",
-    "answer_string": "36815",
+    "answer_string": "36814",
     "voice_sound_id": 0
   },
   {
     "id": 3812,
     "type": "ban_normal_storyfeedback_12",
     "animation": "lobby_idle01",
-    "answer_string": "36816",
+    "answer_string": "36815",
     "voice_sound_id": 0
   },
   {
     "id": 3813,
     "type": "ban_normal_storyfeedback_13",
     "animation": "lobby_idle01",
-    "answer_string": "36817",
+    "answer_string": "36816",
     "voice_sound_id": 0
   },
   {
     "id": 3901,
     "type": "ban_bad_storyfeedback_01",
     "animation": "lobby_answer02",
-    "answer_string": "36780",
+    "answer_string": "36779",
     "voice_sound_id": 0
   },
   {
     "id": 3902,
     "type": "ban_bad_storyfeedback_02",
     "animation": "lobby_answer02",
-    "answer_string": "36781",
+    "answer_string": "36780",
     "voice_sound_id": 0
   },
   {
     "id": 3903,
     "type": "ban_bad_storyfeedback_03",
     "animation": "lobby_answer02",
-    "answer_string": "36782",
+    "answer_string": "36781",
     "voice_sound_id": 0
   },
   {
     "id": 3904,
     "type": "ban_bad_storyfeedback_04",
     "animation": "lobby_answer02",
-    "answer_string": "36780",
+    "answer_string": "36779",
     "voice_sound_id": 0
   },
   {
     "id": 3905,
     "type": "ban_bad_storyfeedback_05",
     "animation": "lobby_answer02",
-    "answer_string": "36783",
+    "answer_string": "36782",
     "voice_sound_id": 0
   },
   {
     "id": 3906,
     "type": "ban_bad_storyfeedback_06",
     "animation": "lobby_answer02",
-    "answer_string": "36784",
+    "answer_string": "36783",
     "voice_sound_id": 0
   },
   {
     "id": 3907,
     "type": "ban_bad_storyfeedback_07",
     "animation": "lobby_answer02",
-    "answer_string": "36785",
+    "answer_string": "36784",
     "voice_sound_id": 0
   },
   {
     "id": 3908,
     "type": "ban_bad_storyfeedback_08",
     "animation": "lobby_answer02",
-    "answer_string": "36786",
+    "answer_string": "36785",
     "voice_sound_id": 0
   },
   {
     "id": 3909,
     "type": "ban_bad_storyfeedback_09",
     "animation": "lobby_answer02",
-    "answer_string": "36787",
+    "answer_string": "36786",
     "voice_sound_id": 0
   },
   {
     "id": 3910,
     "type": "ban_bad_storyfeedback_10",
     "animation": "lobby_answer02",
-    "answer_string": "36788",
+    "answer_string": "36787",
     "voice_sound_id": 0
   },
   {
     "id": 3911,
     "type": "ban_bad_storyfeedback_11",
     "animation": "lobby_answer02",
-    "answer_string": "36789",
+    "answer_string": "36788",
     "voice_sound_id": 0
   },
   {
     "id": 3912,
     "type": "ban_bad_storyfeedback_12",
     "animation": "lobby_answer02",
-    "answer_string": "36790",
+    "answer_string": "36789",
     "voice_sound_id": 0
   },
   {
     "id": 3913,
     "type": "ban_bad_storyfeedback_13",
     "animation": "lobby_answer02",
-    "answer_string": "36791",
+    "answer_string": "36790",
     "voice_sound_id": 0
   },
   {
     "id": 4001,
     "type": "king_storyquestion_01",
     "animation": "lobby_talk",
-    "answer_string": "37154",
+    "answer_string": "37153",
     "voice_sound_id": 0
   },
   {
     "id": 4002,
     "type": "king_storyquestion_02",
     "animation": "lobby_talk",
-    "answer_string": "37155",
+    "answer_string": "37154",
     "voice_sound_id": 0
   },
   {
     "id": 4003,
     "type": "king_storyquestion_03",
     "animation": "lobby_talk",
-    "answer_string": "37156",
+    "answer_string": "37155",
     "voice_sound_id": 0
   },
   {
     "id": 4004,
     "type": "king_storyquestion_04",
     "animation": "lobby_talk",
-    "answer_string": "37157",
+    "answer_string": "37156",
     "voice_sound_id": 0
   },
   {
     "id": 4005,
     "type": "king_storyquestion_05",
     "animation": "lobby_talk",
-    "answer_string": "37158",
+    "answer_string": "37157",
     "voice_sound_id": 0
   },
   {
     "id": 4006,
     "type": "king_storyquestion_06",
     "animation": "lobby_talk",
-    "answer_string": "37159",
+    "answer_string": "37158",
     "voice_sound_id": 0
   },
   {
     "id": 4007,
     "type": "king_storyquestion_07",
     "animation": "lobby_talk",
-    "answer_string": "37160",
+    "answer_string": "37159",
     "voice_sound_id": 0
   },
   {
     "id": 4008,
     "type": "king_storyquestion_08",
     "animation": "lobby_talk",
-    "answer_string": "37161",
+    "answer_string": "37160",
     "voice_sound_id": 0
   },
   {
     "id": 4009,
     "type": "king_storyquestion_09",
     "animation": "lobby_talk",
-    "answer_string": "37162",
+    "answer_string": "37161",
     "voice_sound_id": 0
   },
   {
     "id": 4010,
     "type": "king_storyquestion_10",
     "animation": "lobby_talk",
-    "answer_string": "37163",
+    "answer_string": "37162",
     "voice_sound_id": 0
   },
   {
     "id": 4301,
     "type": "king_player_storyanswer_01_1",
     "animation": "lobby_idle01",
-    "answer_string": "37124",
+    "answer_string": "37123",
     "voice_sound_id": 0
   },
   {
     "id": 4302,
     "type": "king_player_storyanswer_01_2",
     "animation": "lobby_idle01",
-    "answer_string": "37125",
+    "answer_string": "37124",
     "voice_sound_id": 0
   },
   {
     "id": 4303,
     "type": "king_player_storyanswer_01_3",
     "animation": "lobby_idle01",
-    "answer_string": "37126",
+    "answer_string": "37125",
     "voice_sound_id": 0
   },
   {
     "id": 4304,
     "type": "king_player_storyanswer_02_1",
     "animation": "lobby_idle01",
-    "answer_string": "37127",
+    "answer_string": "37126",
     "voice_sound_id": 0
   },
   {
     "id": 4305,
     "type": "king_player_storyanswer_02_2",
     "animation": "lobby_idle01",
-    "answer_string": "37128",
+    "answer_string": "37127",
     "voice_sound_id": 0
   },
   {
     "id": 4306,
     "type": "king_player_storyanswer_02_3",
     "animation": "lobby_idle01",
-    "answer_string": "37129",
+    "answer_string": "37128",
     "voice_sound_id": 0
   },
   {
     "id": 4307,
     "type": "king_player_storyanswer_03_1",
     "animation": "lobby_idle01",
-    "answer_string": "37130",
+    "answer_string": "37129",
     "voice_sound_id": 0
   },
   {
     "id": 4308,
     "type": "king_player_storyanswer_03_2",
     "animation": "lobby_idle01",
-    "answer_string": "37131",
+    "answer_string": "37130",
     "voice_sound_id": 0
   },
   {
     "id": 4309,
     "type": "king_player_storyanswer_03_3",
     "animation": "lobby_idle01",
-    "answer_string": "37132",
+    "answer_string": "37131",
     "voice_sound_id": 0
   },
   {
     "id": 4310,
     "type": "king_player_storyanswer_04_1",
     "animation": "lobby_idle01",
-    "answer_string": "37133",
+    "answer_string": "37132",
     "voice_sound_id": 0
   },
   {
     "id": 4311,
     "type": "king_player_storyanswer_04_2",
     "animation": "lobby_idle01",
-    "answer_string": "37134",
+    "answer_string": "37133",
     "voice_sound_id": 0
   },
   {
     "id": 4312,
     "type": "king_player_storyanswer_04_3",
     "animation": "lobby_idle01",
-    "answer_string": "37135",
+    "answer_string": "37134",
     "voice_sound_id": 0
   },
   {
     "id": 4313,
     "type": "king_player_storyanswer_05_1",
     "animation": "lobby_idle01",
-    "answer_string": "37136",
+    "answer_string": "37135",
     "voice_sound_id": 0
   },
   {
     "id": 4314,
     "type": "king_player_storyanswer_05_2",
     "animation": "lobby_idle01",
-    "answer_string": "37137",
+    "answer_string": "37136",
     "voice_sound_id": 0
   },
   {
     "id": 4315,
     "type": "king_player_storyanswer_05_3",
     "animation": "lobby_idle01",
-    "answer_string": "37138",
+    "answer_string": "37137",
     "voice_sound_id": 0
   },
   {
     "id": 4316,
     "type": "king_player_storyanswer_06_1",
     "animation": "lobby_idle01",
-    "answer_string": "37139",
+    "answer_string": "37138",
     "voice_sound_id": 0
   },
   {
     "id": 4317,
     "type": "king_player_storyanswer_06_2",
     "animation": "lobby_idle01",
-    "answer_string": "37140",
+    "answer_string": "37139",
     "voice_sound_id": 0
   },
   {
     "id": 4318,
     "type": "king_player_storyanswer_06_3",
     "animation": "lobby_idle01",
-    "answer_string": "37141",
+    "answer_string": "37140",
     "voice_sound_id": 0
   },
   {
     "id": 4319,
     "type": "king_player_storyanswer_07_1",
     "animation": "lobby_idle01",
-    "answer_string": "37142",
+    "answer_string": "37141",
     "voice_sound_id": 0
   },
   {
     "id": 4320,
     "type": "king_player_storyanswer_07_2",
     "animation": "lobby_idle01",
-    "answer_string": "37143",
+    "answer_string": "37142",
     "voice_sound_id": 0
   },
   {
     "id": 4321,
     "type": "king_player_storyanswer_07_3",
     "animation": "lobby_idle01",
-    "answer_string": "37144",
+    "answer_string": "37143",
     "voice_sound_id": 0
   },
   {
     "id": 4322,
     "type": "king_player_storyanswer_08_1",
     "animation": "lobby_idle01",
-    "answer_string": "37145",
+    "answer_string": "37144",
     "voice_sound_id": 0
   },
   {
     "id": 4323,
     "type": "king_player_storyanswer_08_2",
     "animation": "lobby_idle01",
-    "answer_string": "37146",
+    "answer_string": "37145",
     "voice_sound_id": 0
   },
   {
     "id": 4324,
     "type": "king_player_storyanswer_08_3",
     "animation": "lobby_idle01",
-    "answer_string": "37147",
+    "answer_string": "37146",
     "voice_sound_id": 0
   },
   {
     "id": 4325,
     "type": "king_player_storyanswer_09_1",
     "animation": "lobby_idle01",
-    "answer_string": "37148",
+    "answer_string": "37147",
     "voice_sound_id": 0
   },
   {
     "id": 4326,
     "type": "king_player_storyanswer_09_2",
     "animation": "lobby_idle01",
-    "answer_string": "37149",
+    "answer_string": "37148",
     "voice_sound_id": 0
   },
   {
     "id": 4327,
     "type": "king_player_storyanswer_09_3",
     "animation": "lobby_idle01",
-    "answer_string": "37150",
+    "answer_string": "37149",
     "voice_sound_id": 0
   },
   {
     "id": 4328,
     "type": "king_player_storyanswer_10_1",
     "animation": "lobby_idle01",
-    "answer_string": "37151",
+    "answer_string": "37150",
     "voice_sound_id": 0
   },
   {
     "id": 4329,
     "type": "king_player_storyanswer_10_2",
     "animation": "lobby_idle01",
-    "answer_string": "37152",
+    "answer_string": "37151",
     "voice_sound_id": 0
   },
   {
     "id": 4330,
     "type": "king_player_storyanswer_10_3",
     "animation": "lobby_idle01",
-    "answer_string": "37153",
+    "answer_string": "37152",
     "voice_sound_id": 0
   },
   {
     "id": 4701,
     "type": "king_good_storyfeedback_01",
     "animation": "lobby_answer01",
-    "answer_string": "37068",
+    "answer_string": "37067",
     "voice_sound_id": 0
   },
   {
     "id": 4702,
     "type": "king_good_storyfeedback_02",
     "animation": "lobby_answer01",
-    "answer_string": "37069",
+    "answer_string": "37068",
     "voice_sound_id": 0
   },
   {
     "id": 4703,
     "type": "king_good_storyfeedback_03",
     "animation": "lobby_answer01",
-    "answer_string": "37070",
+    "answer_string": "37069",
     "voice_sound_id": 0
   },
   {
     "id": 4704,
     "type": "king_good_storyfeedback_04",
     "animation": "lobby_answer01",
-    "answer_string": "37071",
+    "answer_string": "37070",
     "voice_sound_id": 0
   },
   {
     "id": 4705,
     "type": "king_good_storyfeedback_05",
     "animation": "lobby_answer01",
-    "answer_string": "37072",
+    "answer_string": "37071",
     "voice_sound_id": 0
   },
   {
     "id": 4706,
     "type": "king_good_storyfeedback_06",
     "animation": "lobby_answer01",
-    "answer_string": "37073",
+    "answer_string": "37072",
     "voice_sound_id": 0
   },
   {
     "id": 4707,
     "type": "king_good_storyfeedback_07",
     "animation": "lobby_answer01",
-    "answer_string": "37074",
+    "answer_string": "37073",
     "voice_sound_id": 0
   },
   {
     "id": 4708,
     "type": "king_good_storyfeedback_08",
     "animation": "lobby_answer01",
-    "answer_string": "37075",
+    "answer_string": "37074",
     "voice_sound_id": 0
   },
   {
     "id": 4709,
     "type": "king_good_storyfeedback_09",
     "animation": "lobby_answer01",
-    "answer_string": "37076",
+    "answer_string": "37075",
     "voice_sound_id": 0
   },
   {
     "id": 4710,
     "type": "king_good_storyfeedback_10",
     "animation": "lobby_answer01",
-    "answer_string": "37077",
+    "answer_string": "37076",
     "voice_sound_id": 0
   },
   {
     "id": 4801,
     "type": "king_normal_storyfeedback_01",
     "animation": "lobby_talk",
-    "answer_string": "37078",
+    "answer_string": "37077",
     "voice_sound_id": 0
   },
   {
     "id": 4802,
     "type": "king_normal_storyfeedback_02",
     "animation": "lobby_talk",
-    "answer_string": "37079",
+    "answer_string": "37078",
     "voice_sound_id": 0
   },
   {
     "id": 4803,
     "type": "king_normal_storyfeedback_03",
     "animation": "lobby_talk",
-    "answer_string": "37080",
+    "answer_string": "37079",
     "voice_sound_id": 0
   },
   {
     "id": 4804,
     "type": "king_normal_storyfeedback_04",
     "animation": "lobby_talk",
-    "answer_string": "37081",
+    "answer_string": "37080",
     "voice_sound_id": 0
   },
   {
     "id": 4805,
     "type": "king_normal_storyfeedback_05",
     "animation": "lobby_talk",
-    "answer_string": "37082",
+    "answer_string": "37081",
     "voice_sound_id": 0
   },
   {
     "id": 4806,
     "type": "king_normal_storyfeedback_06",
     "animation": "lobby_talk",
-    "answer_string": "37083",
+    "answer_string": "37082",
     "voice_sound_id": 0
   },
   {
     "id": 4807,
     "type": "king_normal_storyfeedback_07",
     "animation": "lobby_talk",
-    "answer_string": "37084",
+    "answer_string": "37083",
     "voice_sound_id": 0
   },
   {
     "id": 4808,
     "type": "king_normal_storyfeedback_08",
     "animation": "lobby_talk",
-    "answer_string": "37085",
+    "answer_string": "37084",
     "voice_sound_id": 0
   },
   {
     "id": 4809,
     "type": "king_normal_storyfeedback_09",
     "animation": "lobby_talk",
-    "answer_string": "37086",
+    "answer_string": "37085",
     "voice_sound_id": 0
   },
   {
     "id": 4810,
     "type": "king_normal_storyfeedback_10",
     "animation": "lobby_talk",
-    "answer_string": "37087",
+    "answer_string": "37086",
     "voice_sound_id": 0
   },
   {
     "id": 4901,
     "type": "king_bad_storyfeedback_01",
     "animation": "lobby_answer02",
-    "answer_string": "37058",
+    "answer_string": "37057",
     "voice_sound_id": 0
   },
   {
     "id": 4902,
     "type": "king_bad_storyfeedback_02",
     "animation": "lobby_answer02",
-    "answer_string": "37059",
+    "answer_string": "37058",
     "voice_sound_id": 0
   },
   {
     "id": 4903,
     "type": "king_bad_storyfeedback_03",
     "animation": "lobby_answer02",
-    "answer_string": "37060",
+    "answer_string": "37059",
     "voice_sound_id": 0
   },
   {
     "id": 4904,
     "type": "king_bad_storyfeedback_04",
     "animation": "lobby_answer02",
-    "answer_string": "37061",
+    "answer_string": "37060",
     "voice_sound_id": 0
   },
   {
     "id": 4905,
     "type": "king_bad_storyfeedback_05",
     "animation": "lobby_answer02",
-    "answer_string": "37062",
+    "answer_string": "37061",
     "voice_sound_id": 0
   },
   {
     "id": 4906,
     "type": "king_bad_storyfeedback_06",
     "animation": "lobby_answer02",
-    "answer_string": "37063",
+    "answer_string": "37062",
     "voice_sound_id": 0
   },
   {
     "id": 4907,
     "type": "king_bad_storyfeedback_07",
     "animation": "lobby_answer02",
-    "answer_string": "37064",
+    "answer_string": "37063",
     "voice_sound_id": 0
   },
   {
     "id": 4908,
     "type": "king_bad_storyfeedback_08",
     "animation": "lobby_answer02",
-    "answer_string": "37065",
+    "answer_string": "37064",
     "voice_sound_id": 0
   },
   {
     "id": 4909,
     "type": "king_bad_storyfeedback_09",
     "animation": "lobby_answer02",
-    "answer_string": "37066",
+    "answer_string": "37065",
     "voice_sound_id": 0
   },
   {
     "id": 4910,
     "type": "king_bad_storyfeedback_10",
     "animation": "lobby_answer02",
-    "answer_string": "37067",
+    "answer_string": "37066",
     "voice_sound_id": 0
   },
   {
     "id": 5001,
     "type": "gowther_storyquestion_01",
     "animation": "lobby_talk",
-    "answer_string": "33987",
+    "answer_string": "33986",
     "voice_sound_id": 0
   },
   {
     "id": 5002,
     "type": "gowther_storyquestion_02",
     "animation": "lobby_talk",
-    "answer_string": "33988",
+    "answer_string": "33987",
     "voice_sound_id": 0
   },
   {
     "id": 5003,
     "type": "gowther_storyquestion_03",
     "animation": "lobby_talk",
-    "answer_string": "33989",
+    "answer_string": "33988",
     "voice_sound_id": 0
   },
   {
     "id": 5004,
     "type": "gowther_storyquestion_04",
     "animation": "lobby_talk",
-    "answer_string": "33990",
+    "answer_string": "33989",
     "voice_sound_id": 0
   },
   {
     "id": 5005,
     "type": "gowther_storyquestion_05",
     "animation": "lobby_talk",
-    "answer_string": "33991",
+    "answer_string": "33990",
     "voice_sound_id": 0
   },
   {
     "id": 5006,
     "type": "gowther_storyquestion_06",
     "animation": "lobby_talk",
-    "answer_string": "33992",
+    "answer_string": "33991",
     "voice_sound_id": 0
   },
   {
     "id": 5007,
     "type": "gowther_storyquestion_07",
     "animation": "lobby_talk",
-    "answer_string": "33993",
+    "answer_string": "33992",
     "voice_sound_id": 0
   },
   {
     "id": 5008,
     "type": "gowther_storyquestion_08",
     "animation": "lobby_talk",
-    "answer_string": "33994",
+    "answer_string": "33993",
     "voice_sound_id": 0
   },
   {
     "id": 5009,
     "type": "gowther_storyquestion_09",
     "animation": "lobby_talk",
-    "answer_string": "33995",
+    "answer_string": "33994",
     "voice_sound_id": 0
   },
   {
     "id": 5010,
     "type": "gowther_storyquestion_10",
     "animation": "lobby_talk",
-    "answer_string": "33996",
+    "answer_string": "33995",
     "voice_sound_id": 0
   },
   {
     "id": 5301,
     "type": "gowther_player_storyanswer_01_1",
     "animation": "lobby_idle01",
-    "answer_string": "33957",
+    "answer_string": "33956",
     "voice_sound_id": 0
   },
   {
     "id": 5302,
     "type": "gowther_player_storyanswer_01_2",
     "animation": "lobby_idle01",
-    "answer_string": "33958",
+    "answer_string": "33957",
     "voice_sound_id": 0
   },
   {
     "id": 5303,
     "type": "gowther_player_storyanswer_01_3",
     "animation": "lobby_idle01",
-    "answer_string": "33959",
+    "answer_string": "33958",
     "voice_sound_id": 0
   },
   {
     "id": 5304,
     "type": "gowther_player_storyanswer_02_1",
     "animation": "lobby_idle01",
-    "answer_string": "33960",
+    "answer_string": "33959",
     "voice_sound_id": 0
   },
   {
     "id": 5305,
     "type": "gowther_player_storyanswer_02_2",
     "animation": "lobby_idle01",
-    "answer_string": "33961",
+    "answer_string": "33960",
     "voice_sound_id": 0
   },
   {
     "id": 5306,
     "type": "gowther_player_storyanswer_02_3",
     "animation": "lobby_idle01",
-    "answer_string": "33962",
+    "answer_string": "33961",
     "voice_sound_id": 0
   },
   {
     "id": 5307,
     "type": "gowther_player_storyanswer_03_1",
     "animation": "lobby_idle01",
-    "answer_string": "33963",
+    "answer_string": "33962",
     "voice_sound_id": 0
   },
   {
     "id": 5308,
     "type": "gowther_player_storyanswer_03_2",
     "animation": "lobby_idle01",
-    "answer_string": "33964",
+    "answer_string": "33963",
     "voice_sound_id": 0
   },
   {
     "id": 5309,
     "type": "gowther_player_storyanswer_03_3",
     "animation": "lobby_idle01",
-    "answer_string": "33965",
+    "answer_string": "33964",
     "voice_sound_id": 0
   },
   {
     "id": 5310,
     "type": "gowther_player_storyanswer_04_1",
     "animation": "lobby_idle01",
-    "answer_string": "33966",
+    "answer_string": "33965",
     "voice_sound_id": 0
   },
   {
     "id": 5311,
     "type": "gowther_player_storyanswer_04_2",
     "animation": "lobby_idle01",
-    "answer_string": "33967",
+    "answer_string": "33966",
     "voice_sound_id": 0
   },
   {
     "id": 5312,
     "type": "gowther_player_storyanswer_04_3",
     "animation": "lobby_idle01",
-    "answer_string": "33968",
+    "answer_string": "33967",
     "voice_sound_id": 0
   },
   {
     "id": 5313,
     "type": "gowther_player_storyanswer_05_1",
     "animation": "lobby_idle01",
-    "answer_string": "33969",
+    "answer_string": "33968",
     "voice_sound_id": 0
   },
   {
     "id": 5314,
     "type": "gowther_player_storyanswer_05_2",
     "animation": "lobby_idle01",
-    "answer_string": "33970",
+    "answer_string": "33969",
     "voice_sound_id": 0
   },
   {
     "id": 5315,
     "type": "gowther_player_storyanswer_05_3",
     "animation": "lobby_idle01",
-    "answer_string": "33971",
+    "answer_string": "33970",
     "voice_sound_id": 0
   },
   {
     "id": 5316,
     "type": "gowther_player_storyanswer_06_1",
     "animation": "lobby_idle01",
-    "answer_string": "33972",
+    "answer_string": "33971",
     "voice_sound_id": 0
   },
   {
     "id": 5317,
     "type": "gowther_player_storyanswer_06_2",
     "animation": "lobby_idle01",
-    "answer_string": "33973",
+    "answer_string": "33972",
     "voice_sound_id": 0
   },
   {
     "id": 5318,
     "type": "gowther_player_storyanswer_06_3",
     "animation": "lobby_idle01",
-    "answer_string": "33974",
+    "answer_string": "33973",
     "voice_sound_id": 0
   },
   {
     "id": 5319,
     "type": "gowther_player_storyanswer_07_1",
     "animation": "lobby_idle01",
-    "answer_string": "33975",
+    "answer_string": "33974",
     "voice_sound_id": 0
   },
   {
     "id": 5320,
     "type": "gowther_player_storyanswer_07_2",
     "animation": "lobby_idle01",
-    "answer_string": "33976",
+    "answer_string": "33975",
     "voice_sound_id": 0
   },
   {
     "id": 5321,
     "type": "gowther_player_storyanswer_07_3",
     "animation": "lobby_idle01",
-    "answer_string": "33977",
+    "answer_string": "33976",
     "voice_sound_id": 0
   },
   {
     "id": 5322,
     "type": "gowther_player_storyanswer_08_1",
     "animation": "lobby_idle01",
-    "answer_string": "33978",
+    "answer_string": "33977",
     "voice_sound_id": 0
   },
   {
     "id": 5323,
     "type": "gowther_player_storyanswer_08_2",
     "animation": "lobby_idle01",
-    "answer_string": "33979",
+    "answer_string": "33978",
     "voice_sound_id": 0
   },
   {
     "id": 5324,
     "type": "gowther_player_storyanswer_08_3",
     "animation": "lobby_idle01",
-    "answer_string": "33980",
+    "answer_string": "33979",
     "voice_sound_id": 0
   },
   {
     "id": 5325,
     "type": "gowther_player_storyanswer_09_1",
     "animation": "lobby_idle01",
-    "answer_string": "33981",
+    "answer_string": "33980",
     "voice_sound_id": 0
   },
   {
     "id": 5326,
     "type": "gowther_player_storyanswer_09_2",
     "animation": "lobby_idle01",
-    "answer_string": "33982",
+    "answer_string": "33981",
     "voice_sound_id": 0
   },
   {
     "id": 5327,
     "type": "gowther_player_storyanswer_09_3",
     "animation": "lobby_idle01",
-    "answer_string": "33983",
+    "answer_string": "33982",
     "voice_sound_id": 0
   },
   {
     "id": 5328,
     "type": "gowther_player_storyanswer_10_1",
     "animation": "lobby_idle01",
-    "answer_string": "33984",
+    "answer_string": "33983",
     "voice_sound_id": 0
   },
   {
     "id": 5329,
     "type": "gowther_player_storyanswer_10_2",
     "animation": "lobby_idle01",
-    "answer_string": "33985",
+    "answer_string": "33984",
     "voice_sound_id": 0
   },
   {
     "id": 5330,
     "type": "gowther_player_storyanswer_10_3",
     "animation": "lobby_idle01",
-    "answer_string": "33986",
+    "answer_string": "33985",
     "voice_sound_id": 0
   },
   {
     "id": 5701,
     "type": "gowther_good_storyfeedback_01",
     "animation": "lobby_answer01",
-    "answer_string": "36983",
+    "answer_string": "36982",
     "voice_sound_id": 0
   },
   {
     "id": 5702,
     "type": "gowther_good_storyfeedback_02",
     "animation": "lobby_answer01",
-    "answer_string": "36984",
+    "answer_string": "36983",
     "voice_sound_id": 0
   },
   {
     "id": 5703,
     "type": "gowther_good_storyfeedback_03",
     "animation": "lobby_answer01",
-    "answer_string": "36985",
+    "answer_string": "36984",
     "voice_sound_id": 0
   },
   {
     "id": 5704,
     "type": "gowther_good_storyfeedback_04",
     "animation": "lobby_answer01",
-    "answer_string": "36986",
+    "answer_string": "36985",
     "voice_sound_id": 0
   },
   {
     "id": 5705,
     "type": "gowther_good_storyfeedback_05",
     "animation": "lobby_answer01",
-    "answer_string": "36987",
+    "answer_string": "36986",
     "voice_sound_id": 0
   },
   {
     "id": 5706,
     "type": "gowther_good_storyfeedback_06",
     "animation": "lobby_answer01",
-    "answer_string": "36988",
+    "answer_string": "36987",
     "voice_sound_id": 0
   },
   {
     "id": 5707,
     "type": "gowther_good_storyfeedback_07",
     "animation": "lobby_answer01",
-    "answer_string": "36989",
+    "answer_string": "36988",
     "voice_sound_id": 0
   },
   {
     "id": 5708,
     "type": "gowther_good_storyfeedback_08",
     "animation": "lobby_answer01",
-    "answer_string": "36990",
+    "answer_string": "36989",
     "voice_sound_id": 0
   },
   {
     "id": 5709,
     "type": "gowther_good_storyfeedback_09",
     "animation": "lobby_answer01",
-    "answer_string": "36991",
+    "answer_string": "36990",
     "voice_sound_id": 0
   },
   {
     "id": 5710,
     "type": "gowther_good_storyfeedback_10",
     "animation": "lobby_answer01",
-    "answer_string": "36983",
+    "answer_string": "36982",
     "voice_sound_id": 0
   },
   {
     "id": 5801,
     "type": "gowther_normal_storyfeedback_01",
     "animation": "lobby_talk",
-    "answer_string": "36992",
+    "answer_string": "36991",
     "voice_sound_id": 0
   },
   {
     "id": 5802,
     "type": "gowther_normal_storyfeedback_02",
     "animation": "lobby_talk",
-    "answer_string": "36993",
+    "answer_string": "36992",
     "voice_sound_id": 0
   },
   {
     "id": 5803,
     "type": "gowther_normal_storyfeedback_03",
     "animation": "lobby_talk",
-    "answer_string": "36994",
+    "answer_string": "36993",
     "voice_sound_id": 0
   },
   {
     "id": 5804,
     "type": "gowther_normal_storyfeedback_04",
     "animation": "lobby_talk",
-    "answer_string": "36995",
+    "answer_string": "36994",
     "voice_sound_id": 0
   },
   {
     "id": 5805,
     "type": "gowther_normal_storyfeedback_05",
     "animation": "lobby_talk",
-    "answer_string": "36996",
+    "answer_string": "36995",
     "voice_sound_id": 0
   },
   {
     "id": 5806,
     "type": "gowther_normal_storyfeedback_06",
     "animation": "lobby_talk",
-    "answer_string": "36997",
+    "answer_string": "36996",
     "voice_sound_id": 0
   },
   {
     "id": 5807,
     "type": "gowther_normal_storyfeedback_07",
     "animation": "lobby_talk",
-    "answer_string": "36998",
+    "answer_string": "36997",
     "voice_sound_id": 0
   },
   {
     "id": 5808,
     "type": "gowther_normal_storyfeedback_08",
     "animation": "lobby_talk",
-    "answer_string": "36999",
+    "answer_string": "36998",
     "voice_sound_id": 0
   },
   {
     "id": 5809,
     "type": "gowther_normal_storyfeedback_09",
     "animation": "lobby_talk",
-    "answer_string": "37000",
+    "answer_string": "36999",
     "voice_sound_id": 0
   },
   {
     "id": 5810,
     "type": "gowther_normal_storyfeedback_10",
     "animation": "lobby_talk",
-    "answer_string": "37001",
+    "answer_string": "37000",
     "voice_sound_id": 0
   },
   {
     "id": 5901,
     "type": "gowther_bad_storyfeedback_01",
     "animation": "lobby_answer02",
-    "answer_string": "36973",
+    "answer_string": "36972",
     "voice_sound_id": 0
   },
   {
     "id": 5902,
     "type": "gowther_bad_storyfeedback_02",
     "animation": "lobby_answer02",
-    "answer_string": "36974",
+    "answer_string": "36973",
     "voice_sound_id": 0
   },
   {
     "id": 5903,
     "type": "gowther_bad_storyfeedback_03",
     "animation": "lobby_answer02",
-    "answer_string": "36975",
+    "answer_string": "36974",
     "voice_sound_id": 0
   },
   {
     "id": 5904,
     "type": "gowther_bad_storyfeedback_04",
     "animation": "lobby_answer02",
-    "answer_string": "36976",
+    "answer_string": "36975",
     "voice_sound_id": 0
   },
   {
     "id": 5905,
     "type": "gowther_bad_storyfeedback_05",
     "animation": "lobby_answer02",
-    "answer_string": "36977",
+    "answer_string": "36976",
     "voice_sound_id": 0
   },
   {
     "id": 5906,
     "type": "gowther_bad_storyfeedback_06",
     "animation": "lobby_answer02",
-    "answer_string": "36978",
+    "answer_string": "36977",
     "voice_sound_id": 0
   },
   {
     "id": 5907,
     "type": "gowther_bad_storyfeedback_07",
     "animation": "lobby_answer02",
-    "answer_string": "36979",
+    "answer_string": "36978",
     "voice_sound_id": 0
   },
   {
     "id": 5908,
     "type": "gowther_bad_storyfeedback_08",
     "animation": "lobby_answer02",
-    "answer_string": "36980",
+    "answer_string": "36979",
     "voice_sound_id": 0
   },
   {
     "id": 5909,
     "type": "gowther_bad_storyfeedback_09",
     "animation": "lobby_answer02",
-    "answer_string": "36981",
+    "answer_string": "36980",
     "voice_sound_id": 0
   },
   {
     "id": 5910,
     "type": "gowther_bad_storyfeedback_10",
     "animation": "lobby_answer02",
-    "answer_string": "36982",
+    "answer_string": "36981",
     "voice_sound_id": 0
   },
   {
     "id": 6001,
     "type": "merlin_storyquestion_01",
     "animation": "lobby_talk",
-    "answer_string": "37462",
+    "answer_string": "37461",
     "voice_sound_id": 0
   },
   {
     "id": 6002,
     "type": "merlin_storyquestion_02",
     "animation": "lobby_talk",
-    "answer_string": "37463",
+    "answer_string": "37462",
     "voice_sound_id": 0
   },
   {
     "id": 6003,
     "type": "merlin_storyquestion_03",
     "animation": "lobby_talk",
-    "answer_string": "37464",
+    "answer_string": "37463",
     "voice_sound_id": 0
   },
   {
     "id": 6004,
     "type": "merlin_storyquestion_04",
     "animation": "lobby_talk",
-    "answer_string": "37465",
+    "answer_string": "37464",
     "voice_sound_id": 0
   },
   {
     "id": 6005,
     "type": "merlin_storyquestion_05",
     "animation": "lobby_talk",
-    "answer_string": "37466",
+    "answer_string": "37465",
     "voice_sound_id": 0
   },
   {
     "id": 6006,
     "type": "merlin_storyquestion_06",
     "animation": "lobby_talk",
-    "answer_string": "37467",
+    "answer_string": "37466",
     "voice_sound_id": 0
   },
   {
     "id": 6007,
     "type": "merlin_storyquestion_07",
     "animation": "lobby_talk",
-    "answer_string": "37468",
+    "answer_string": "37467",
     "voice_sound_id": 0
   },
   {
     "id": 6008,
     "type": "merlin_storyquestion_08",
     "animation": "lobby_talk",
-    "answer_string": "37469",
+    "answer_string": "37468",
     "voice_sound_id": 0
   },
   {
     "id": 6009,
     "type": "merlin_storyquestion_09",
     "animation": "lobby_talk",
-    "answer_string": "37470",
+    "answer_string": "37469",
     "voice_sound_id": 0
   },
   {
     "id": 6010,
     "type": "merlin_storyquestion_10",
     "animation": "lobby_talk",
-    "answer_string": "37471",
+    "answer_string": "37470",
     "voice_sound_id": 0
   },
   {
     "id": 6301,
     "type": "merlin_player_storyanswer_01_1",
     "animation": "lobby_idle01",
-    "answer_string": "37432",
+    "answer_string": "37431",
     "voice_sound_id": 0
   },
   {
     "id": 6302,
     "type": "merlin_player_storyanswer_01_2",
     "animation": "lobby_idle01",
-    "answer_string": "37433",
+    "answer_string": "37432",
     "voice_sound_id": 0
   },
   {
     "id": 6303,
     "type": "merlin_player_storyanswer_01_3",
     "animation": "lobby_idle01",
-    "answer_string": "37434",
+    "answer_string": "37433",
     "voice_sound_id": 0
   },
   {
     "id": 6304,
     "type": "merlin_player_storyanswer_02_1",
     "animation": "lobby_idle01",
-    "answer_string": "37435",
+    "answer_string": "37434",
     "voice_sound_id": 0
   },
   {
     "id": 6305,
     "type": "merlin_player_storyanswer_02_2",
     "animation": "lobby_idle01",
-    "answer_string": "37436",
+    "answer_string": "37435",
     "voice_sound_id": 0
   },
   {
     "id": 6306,
     "type": "merlin_player_storyanswer_02_3",
     "animation": "lobby_idle01",
-    "answer_string": "37437",
+    "answer_string": "37436",
     "voice_sound_id": 0
   },
   {
     "id": 6307,
     "type": "merlin_player_storyanswer_03_1",
     "animation": "lobby_idle01",
-    "answer_string": "37438",
+    "answer_string": "37437",
     "voice_sound_id": 0
   },
   {
     "id": 6308,
     "type": "merlin_player_storyanswer_03_2",
     "animation": "lobby_idle01",
-    "answer_string": "37439",
+    "answer_string": "37438",
     "voice_sound_id": 0
   },
   {
     "id": 6309,
     "type": "merlin_player_storyanswer_03_3",
     "animation": "lobby_idle01",
-    "answer_string": "37440",
+    "answer_string": "37439",
     "voice_sound_id": 0
   },
   {
     "id": 6310,
     "type": "merlin_player_storyanswer_04_1",
     "animation": "lobby_idle01",
-    "answer_string": "37441",
+    "answer_string": "37440",
     "voice_sound_id": 0
   },
   {
     "id": 6311,
     "type": "merlin_player_storyanswer_04_2",
     "animation": "lobby_idle01",
-    "answer_string": "37442",
+    "answer_string": "37441",
     "voice_sound_id": 0
   },
   {
     "id": 6312,
     "type": "merlin_player_storyanswer_04_3",
     "animation": "lobby_idle01",
-    "answer_string": "37443",
+    "answer_string": "37442",
     "voice_sound_id": 0
   },
   {
     "id": 6313,
     "type": "merlin_player_storyanswer_05_1",
     "animation": "lobby_idle01",
-    "answer_string": "37444",
+    "answer_string": "37443",
     "voice_sound_id": 0
   },
   {
     "id": 6314,
     "type": "merlin_player_storyanswer_05_2",
     "animation": "lobby_idle01",
-    "answer_string": "37445",
+    "answer_string": "37444",
     "voice_sound_id": 0
   },
   {
     "id": 6315,
     "type": "merlin_player_storyanswer_05_3",
     "animation": "lobby_idle01",
-    "answer_string": "37446",
+    "answer_string": "37445",
     "voice_sound_id": 0
   },
   {
     "id": 6316,
     "type": "merlin_player_storyanswer_06_1",
     "animation": "lobby_idle01",
-    "answer_string": "37447",
+    "answer_string": "37446",
     "voice_sound_id": 0
   },
   {
     "id": 6317,
     "type": "merlin_player_storyanswer_06_2",
     "animation": "lobby_idle01",
-    "answer_string": "37448",
+    "answer_string": "37447",
     "voice_sound_id": 0
   },
   {
     "id": 6318,
     "type": "merlin_player_storyanswer_06_3",
     "animation": "lobby_idle01",
-    "answer_string": "37449",
+    "answer_string": "37448",
     "voice_sound_id": 0
   },
   {
     "id": 6319,
     "type": "merlin_player_storyanswer_07_1",
     "animation": "lobby_idle01",
-    "answer_string": "37450",
+    "answer_string": "37449",
     "voice_sound_id": 0
   },
   {
     "id": 6320,
     "type": "merlin_player_storyanswer_07_2",
     "animation": "lobby_idle01",
-    "answer_string": "37451",
+    "answer_string": "37450",
     "voice_sound_id": 0
   },
   {
     "id": 6321,
     "type": "merlin_player_storyanswer_07_3",
     "animation": "lobby_idle01",
-    "answer_string": "37452",
+    "answer_string": "37451",
     "voice_sound_id": 0
   },
   {
     "id": 6322,
     "type": "merlin_player_storyanswer_08_1",
     "animation": "lobby_idle01",
-    "answer_string": "37453",
+    "answer_string": "37452",
     "voice_sound_id": 0
   },
   {
     "id": 6323,
     "type": "merlin_player_storyanswer_08_2",
     "animation": "lobby_idle01",
-    "answer_string": "37454",
+    "answer_string": "37453",
     "voice_sound_id": 0
   },
   {
     "id": 6324,
     "type": "merlin_player_storyanswer_08_3",
     "animation": "lobby_idle01",
-    "answer_string": "37455",
+    "answer_string": "37454",
     "voice_sound_id": 0
   },
   {
     "id": 6325,
     "type": "merlin_player_storyanswer_09_1",
     "animation": "lobby_idle01",
-    "answer_string": "37456",
+    "answer_string": "37455",
     "voice_sound_id": 0
   },
   {
     "id": 6326,
     "type": "merlin_player_storyanswer_09_2",
     "animation": "lobby_idle01",
-    "answer_string": "37457",
+    "answer_string": "37456",
     "voice_sound_id": 0
   },
   {
     "id": 6327,
     "type": "merlin_player_storyanswer_09_3",
     "animation": "lobby_idle01",
-    "answer_string": "37458",
+    "answer_string": "37457",
     "voice_sound_id": 0
   },
   {
     "id": 6328,
     "type": "merlin_player_storyanswer_10_1",
     "animation": "lobby_idle01",
-    "answer_string": "37459",
+    "answer_string": "37458",
     "voice_sound_id": 0
   },
   {
     "id": 6329,
     "type": "merlin_player_storyanswer_10_2",
     "animation": "lobby_idle01",
-    "answer_string": "37460",
+    "answer_string": "37459",
     "voice_sound_id": 0
   },
   {
     "id": 6330,
     "type": "merlin_player_storyanswer_10_3",
     "animation": "lobby_idle01",
-    "answer_string": "37461",
+    "answer_string": "37460",
     "voice_sound_id": 0
   },
   {
     "id": 6701,
     "type": "merlin_good_storyfeedback_01",
     "animation": "lobby_answer01",
-    "answer_string": "37098",
+    "answer_string": "37097",
     "voice_sound_id": 0
   },
   {
     "id": 6702,
     "type": "merlin_good_storyfeedback_02",
     "animation": "lobby_answer01",
-    "answer_string": "37099",
+    "answer_string": "37098",
     "voice_sound_id": 0
   },
   {
     "id": 6703,
     "type": "merlin_good_storyfeedback_03",
     "animation": "lobby_answer01",
-    "answer_string": "37100",
+    "answer_string": "37099",
     "voice_sound_id": 0
   },
   {
     "id": 6704,
     "type": "merlin_good_storyfeedback_04",
     "animation": "lobby_answer01",
-    "answer_string": "37101",
+    "answer_string": "37100",
     "voice_sound_id": 0
   },
   {
     "id": 6705,
     "type": "merlin_good_storyfeedback_05",
     "animation": "lobby_answer01",
-    "answer_string": "37102",
+    "answer_string": "37101",
     "voice_sound_id": 0
   },
   {
     "id": 6706,
     "type": "merlin_good_storyfeedback_06",
     "animation": "lobby_answer01",
-    "answer_string": "37103",
+    "answer_string": "37102",
     "voice_sound_id": 0
   },
   {
     "id": 6707,
     "type": "merlin_good_storyfeedback_07",
     "animation": "lobby_answer01",
-    "answer_string": "37104",
+    "answer_string": "37103",
     "voice_sound_id": 0
   },
   {
     "id": 6708,
     "type": "merlin_good_storyfeedback_08",
     "animation": "lobby_answer01",
-    "answer_string": "37105",
+    "answer_string": "37104",
     "voice_sound_id": 0
   },
   {
     "id": 6709,
     "type": "merlin_good_storyfeedback_09",
     "animation": "lobby_answer01",
-    "answer_string": "37106",
+    "answer_string": "37105",
     "voice_sound_id": 0
   },
   {
     "id": 6710,
     "type": "merlin_good_storyfeedback_10",
     "animation": "lobby_answer01",
-    "answer_string": "37107",
+    "answer_string": "37106",
     "voice_sound_id": 0
   },
   {
     "id": 6801,
     "type": "merlin_normal_storyfeedback_01",
     "animation": "lobby_talk",
-    "answer_string": "37108",
+    "answer_string": "37107",
     "voice_sound_id": 0
   },
   {
     "id": 6802,
     "type": "merlin_normal_storyfeedback_02",
     "animation": "lobby_talk",
-    "answer_string": "37109",
+    "answer_string": "37108",
     "voice_sound_id": 0
   },
   {
     "id": 6803,
     "type": "merlin_normal_storyfeedback_03",
     "animation": "lobby_talk",
-    "answer_string": "37110",
+    "answer_string": "37109",
     "voice_sound_id": 0
   },
   {
     "id": 6804,
     "type": "merlin_normal_storyfeedback_04",
     "animation": "lobby_talk",
-    "answer_string": "37111",
+    "answer_string": "37110",
     "voice_sound_id": 0
   },
   {
     "id": 6805,
     "type": "merlin_normal_storyfeedback_05",
     "animation": "lobby_talk",
-    "answer_string": "37112",
+    "answer_string": "37111",
     "voice_sound_id": 0
   },
   {
     "id": 6806,
     "type": "merlin_normal_storyfeedback_06",
     "animation": "lobby_talk",
-    "answer_string": "37113",
+    "answer_string": "37112",
     "voice_sound_id": 0
   },
   {
     "id": 6807,
     "type": "merlin_normal_storyfeedback_07",
     "animation": "lobby_talk",
-    "answer_string": "37114",
+    "answer_string": "37113",
     "voice_sound_id": 0
   },
   {
     "id": 6808,
     "type": "merlin_normal_storyfeedback_08",
     "animation": "lobby_talk",
-    "answer_string": "37115",
+    "answer_string": "37114",
     "voice_sound_id": 0
   },
   {
     "id": 6809,
     "type": "merlin_normal_storyfeedback_09",
     "animation": "lobby_talk",
-    "answer_string": "37116",
+    "answer_string": "37115",
     "voice_sound_id": 0
   },
   {
     "id": 6810,
     "type": "merlin_normal_storyfeedback_10",
     "animation": "lobby_talk",
-    "answer_string": "37117",
+    "answer_string": "37116",
     "voice_sound_id": 0
   },
   {
     "id": 6901,
     "type": "merlin_bad_storyfeedback_01",
     "animation": "lobby_answer02",
-    "answer_string": "37088",
+    "answer_string": "37087",
     "voice_sound_id": 0
   },
   {
     "id": 6902,
     "type": "merlin_bad_storyfeedback_02",
     "animation": "lobby_answer02",
-    "answer_string": "37089",
+    "answer_string": "37088",
     "voice_sound_id": 0
   },
   {
     "id": 6903,
     "type": "merlin_bad_storyfeedback_03",
     "animation": "lobby_answer02",
-    "answer_string": "37090",
+    "answer_string": "37089",
     "voice_sound_id": 0
   },
   {
     "id": 6904,
     "type": "merlin_bad_storyfeedback_04",
     "animation": "lobby_answer02",
-    "answer_string": "37091",
+    "answer_string": "37090",
     "voice_sound_id": 0
   },
   {
     "id": 6905,
     "type": "merlin_bad_storyfeedback_05",
     "animation": "lobby_answer02",
-    "answer_string": "37092",
+    "answer_string": "37091",
     "voice_sound_id": 0
   },
   {
     "id": 6906,
     "type": "merlin_bad_storyfeedback_06",
     "animation": "lobby_answer02",
-    "answer_string": "37093",
+    "answer_string": "37092",
     "voice_sound_id": 0
   },
   {
     "id": 6907,
     "type": "merlin_bad_storyfeedback_07",
     "animation": "lobby_answer02",
-    "answer_string": "37094",
+    "answer_string": "37093",
     "voice_sound_id": 0
   },
   {
     "id": 6908,
     "type": "merlin_bad_storyfeedback_08",
     "animation": "lobby_answer02",
-    "answer_string": "37095",
+    "answer_string": "37094",
     "voice_sound_id": 0
   },
   {
     "id": 6909,
     "type": "merlin_bad_storyfeedback_09",
     "animation": "lobby_answer02",
-    "answer_string": "37096",
+    "answer_string": "37095",
     "voice_sound_id": 0
   },
   {
     "id": 6910,
     "type": "merlin_bad_storyfeedback_10",
     "animation": "lobby_answer02",
-    "answer_string": "37097",
+    "answer_string": "37096",
     "voice_sound_id": 0
   },
   {
     "id": 7001,
     "type": "escanor_storyquestion_01",
     "animation": "",
-    "answer_string": "33947",
+    "answer_string": "33946",
     "voice_sound_id": 0
   },
   {
     "id": 7002,
     "type": "escanor_storyquestion_02",
     "animation": "",
-    "answer_string": "33948",
+    "answer_string": "33947",
     "voice_sound_id": 0
   },
   {
     "id": 7003,
     "type": "escanor_storyquestion_03",
     "animation": "",
-    "answer_string": "33949",
+    "answer_string": "33948",
     "voice_sound_id": 0
   },
   {
     "id": 7004,
     "type": "escanor_storyquestion_04",
     "animation": "",
-    "answer_string": "33950",
+    "answer_string": "33949",
     "voice_sound_id": 0
   },
   {
     "id": 7005,
     "type": "escanor_storyquestion_05",
     "animation": "",
-    "answer_string": "33951",
+    "answer_string": "33950",
     "voice_sound_id": 0
   },
   {
     "id": 7006,
     "type": "escanor_storyquestion_06",
     "animation": "",
-    "answer_string": "33952",
+    "answer_string": "33951",
     "voice_sound_id": 0
   },
   {
     "id": 7007,
     "type": "escanor_storyquestion_07",
     "animation": "",
-    "answer_string": "33953",
+    "answer_string": "33952",
     "voice_sound_id": 0
   },
   {
     "id": 7008,
     "type": "escanor_storyquestion_08",
     "animation": "",
-    "answer_string": "33954",
+    "answer_string": "33953",
     "voice_sound_id": 0
   },
   {
     "id": 7009,
     "type": "escanor_storyquestion_09",
     "animation": "",
-    "answer_string": "33955",
+    "answer_string": "33954",
     "voice_sound_id": 0
   },
   {
     "id": 7010,
     "type": "escanor_storyquestion_10",
     "animation": "",
-    "answer_string": "33956",
+    "answer_string": "33955",
     "voice_sound_id": 0
   },
   {
     "id": 7301,
     "type": "escanor_player_storyanswer_01_1",
     "animation": "lobby_idle01",
-    "answer_string": "33917",
+    "answer_string": "33916",
     "voice_sound_id": 0
   },
   {
     "id": 7302,
     "type": "escanor_player_storyanswer_01_2",
     "animation": "lobby_idle01",
-    "answer_string": "33918",
+    "answer_string": "33917",
     "voice_sound_id": 0
   },
   {
     "id": 7303,
     "type": "escanor_player_storyanswer_01_3",
     "animation": "lobby_idle01",
-    "answer_string": "33919",
+    "answer_string": "33918",
     "voice_sound_id": 0
   },
   {
     "id": 7304,
     "type": "escanor_player_storyanswer_02_1",
     "animation": "lobby_idle01",
-    "answer_string": "33920",
+    "answer_string": "33919",
     "voice_sound_id": 0
   },
   {
     "id": 7305,
     "type": "escanor_player_storyanswer_02_2",
     "animation": "lobby_idle01",
-    "answer_string": "33921",
+    "answer_string": "33920",
     "voice_sound_id": 0
   },
   {
     "id": 7306,
     "type": "escanor_player_storyanswer_02_3",
     "animation": "lobby_idle01",
-    "answer_string": "33922",
+    "answer_string": "33921",
     "voice_sound_id": 0
   },
   {
     "id": 7307,
     "type": "escanor_player_storyanswer_03_1",
     "animation": "lobby_idle01",
-    "answer_string": "33923",
+    "answer_string": "33922",
     "voice_sound_id": 0
   },
   {
     "id": 7308,
     "type": "escanor_player_storyanswer_03_2",
     "animation": "lobby_idle01",
-    "answer_string": "33924",
+    "answer_string": "33923",
     "voice_sound_id": 0
   },
   {
     "id": 7309,
     "type": "escanor_player_storyanswer_03_3",
     "animation": "lobby_idle01",
-    "answer_string": "33925",
+    "answer_string": "33924",
     "voice_sound_id": 0
   },
   {
     "id": 7310,
     "type": "escanor_player_storyanswer_04_1",
     "animation": "lobby_idle01",
-    "answer_string": "33926",
+    "answer_string": "33925",
     "voice_sound_id": 0
   },
   {
     "id": 7311,
     "type": "escanor_player_storyanswer_04_2",
     "animation": "lobby_idle01",
-    "answer_string": "33927",
+    "answer_string": "33926",
     "voice_sound_id": 0
   },
   {
     "id": 7312,
     "type": "escanor_player_storyanswer_04_3",
     "animation": "lobby_idle01",
-    "answer_string": "33928",
+    "answer_string": "33927",
     "voice_sound_id": 0
   },
   {
     "id": 7313,
     "type": "escanor_player_storyanswer_05_1",
     "animation": "lobby_idle01",
-    "answer_string": "33929",
+    "answer_string": "33928",
     "voice_sound_id": 0
   },
   {
     "id": 7314,
     "type": "escanor_player_storyanswer_05_2",
     "animation": "lobby_idle01",
-    "answer_string": "33930",
+    "answer_string": "33929",
     "voice_sound_id": 0
   },
   {
     "id": 7315,
     "type": "escanor_player_storyanswer_05_3",
     "animation": "lobby_idle01",
-    "answer_string": "33931",
+    "answer_string": "33930",
     "voice_sound_id": 0
   },
   {
     "id": 7316,
     "type": "escanor_player_storyanswer_06_1",
     "animation": "lobby_idle01",
-    "answer_string": "33932",
+    "answer_string": "33931",
     "voice_sound_id": 0
   },
   {
     "id": 7317,
     "type": "escanor_player_storyanswer_06_2",
     "animation": "lobby_idle01",
-    "answer_string": "33933",
+    "answer_string": "33932",
     "voice_sound_id": 0
   },
   {
     "id": 7318,
     "type": "escanor_player_storyanswer_06_3",
     "animation": "lobby_idle01",
-    "answer_string": "33934",
+    "answer_string": "33933",
     "voice_sound_id": 0
   },
   {
     "id": 7319,
     "type": "escanor_player_storyanswer_07_1",
     "animation": "lobby_idle01",
-    "answer_string": "33935",
+    "answer_string": "33934",
     "voice_sound_id": 0
   },
   {
     "id": 7320,
     "type": "escanor_player_storyanswer_07_2",
     "animation": "lobby_idle01",
-    "answer_string": "33936",
+    "answer_string": "33935",
     "voice_sound_id": 0
   },
   {
     "id": 7321,
     "type": "escanor_player_storyanswer_07_3",
     "animation": "lobby_idle01",
-    "answer_string": "33937",
+    "answer_string": "33936",
     "voice_sound_id": 0
   },
   {
     "id": 7322,
     "type": "escanor_player_storyanswer_08_1",
     "animation": "lobby_idle01",
-    "answer_string": "33938",
+    "answer_string": "33937",
     "voice_sound_id": 0
   },
   {
     "id": 7323,
     "type": "escanor_player_storyanswer_08_2",
     "animation": "lobby_idle01",
-    "answer_string": "33939",
+    "answer_string": "33938",
     "voice_sound_id": 0
   },
   {
     "id": 7324,
     "type": "escanor_player_storyanswer_08_3",
     "animation": "lobby_idle01",
-    "answer_string": "33940",
+    "answer_string": "33939",
     "voice_sound_id": 0
   },
   {
     "id": 7325,
     "type": "escanor_player_storyanswer_09_1",
     "animation": "lobby_idle01",
-    "answer_string": "33941",
+    "answer_string": "33940",
     "voice_sound_id": 0
   },
   {
     "id": 7326,
     "type": "escanor_player_storyanswer_09_2",
     "animation": "lobby_idle01",
-    "answer_string": "33942",
+    "answer_string": "33941",
     "voice_sound_id": 0
   },
   {
     "id": 7327,
     "type": "escanor_player_storyanswer_09_3",
     "animation": "lobby_idle01",
-    "answer_string": "33943",
+    "answer_string": "33942",
     "voice_sound_id": 0
   },
   {
     "id": 7328,
     "type": "escanor_player_storyanswer_10_1",
     "animation": "lobby_idle01",
-    "answer_string": "33944",
+    "answer_string": "33943",
     "voice_sound_id": 0
   },
   {
     "id": 7329,
     "type": "escanor_player_storyanswer_10_2",
     "animation": "lobby_idle01",
-    "answer_string": "33945",
+    "answer_string": "33944",
     "voice_sound_id": 0
   },
   {
     "id": 7330,
     "type": "escanor_player_storyanswer_10_3",
     "animation": "lobby_idle01",
-    "answer_string": "33946",
+    "answer_string": "33945",
     "voice_sound_id": 0
   },
   {
     "id": 7701,
     "type": "escanor_good_storyfeedback_01",
     "animation": "lobby_answer01",
-    "answer_string": "36953",
+    "answer_string": "36952",
     "voice_sound_id": 0
   },
   {
     "id": 7702,
     "type": "escanor_good_storyfeedback_02",
     "animation": "lobby_answer01",
-    "answer_string": "36954",
+    "answer_string": "36953",
     "voice_sound_id": 0
   },
   {
     "id": 7703,
     "type": "escanor_good_storyfeedback_03",
     "animation": "lobby_answer01",
-    "answer_string": "36955",
+    "answer_string": "36954",
     "voice_sound_id": 0
   },
   {
     "id": 7704,
     "type": "escanor_good_storyfeedback_04",
     "animation": "lobby_answer01",
-    "answer_string": "36956",
+    "answer_string": "36955",
     "voice_sound_id": 0
   },
   {
     "id": 7705,
     "type": "escanor_good_storyfeedback_05",
     "animation": "lobby_answer01",
-    "answer_string": "36957",
+    "answer_string": "36956",
     "voice_sound_id": 0
   },
   {
     "id": 7706,
     "type": "escanor_good_storyfeedback_06",
     "animation": "lobby_answer01",
-    "answer_string": "36958",
+    "answer_string": "36957",
     "voice_sound_id": 0
   },
   {
     "id": 7707,
     "type": "escanor_good_storyfeedback_07",
     "animation": "lobby_answer01",
-    "answer_string": "36959",
+    "answer_string": "36958",
     "voice_sound_id": 0
   },
   {
     "id": 7708,
     "type": "escanor_good_storyfeedback_08",
     "animation": "lobby_answer01",
-    "answer_string": "36960",
+    "answer_string": "36959",
     "voice_sound_id": 0
   },
   {
     "id": 7709,
     "type": "escanor_good_storyfeedback_09",
     "animation": "lobby_answer01",
-    "answer_string": "36961",
+    "answer_string": "36960",
     "voice_sound_id": 0
   },
   {
     "id": 7710,
     "type": "escanor_good_storyfeedback_10",
     "animation": "lobby_answer01",
-    "answer_string": "36962",
+    "answer_string": "36961",
     "voice_sound_id": 0
   },
   {
     "id": 7801,
     "type": "escanor_normal_storyfeedback_01",
     "animation": "",
-    "answer_string": "36963",
+    "answer_string": "36962",
     "voice_sound_id": 0
   },
   {
     "id": 7802,
     "type": "escanor_normal_storyfeedback_02",
     "animation": "",
-    "answer_string": "36964",
+    "answer_string": "36963",
     "voice_sound_id": 0
   },
   {
     "id": 7803,
     "type": "escanor_normal_storyfeedback_03",
     "animation": "",
-    "answer_string": "36965",
+    "answer_string": "36964",
     "voice_sound_id": 0
   },
   {
     "id": 7804,
     "type": "escanor_normal_storyfeedback_04",
     "animation": "",
-    "answer_string": "36966",
+    "answer_string": "36965",
     "voice_sound_id": 0
   },
   {
     "id": 7805,
     "type": "escanor_normal_storyfeedback_05",
     "animation": "",
-    "answer_string": "36967",
+    "answer_string": "36966",
     "voice_sound_id": 0
   },
   {
     "id": 7806,
     "type": "escanor_normal_storyfeedback_06",
     "animation": "",
-    "answer_string": "36968",
+    "answer_string": "36967",
     "voice_sound_id": 0
   },
   {
     "id": 7807,
     "type": "escanor_normal_storyfeedback_07",
     "animation": "",
-    "answer_string": "36969",
+    "answer_string": "36968",
     "voice_sound_id": 0
   },
   {
     "id": 7808,
     "type": "escanor_normal_storyfeedback_08",
     "animation": "",
-    "answer_string": "36970",
+    "answer_string": "36969",
     "voice_sound_id": 0
   },
   {
     "id": 7809,
     "type": "escanor_normal_storyfeedback_09",
     "animation": "",
-    "answer_string": "36971",
+    "answer_string": "36970",
     "voice_sound_id": 0
   },
   {
     "id": 7810,
     "type": "escanor_normal_storyfeedback_10",
     "animation": "",
-    "answer_string": "36972",
+    "answer_string": "36971",
     "voice_sound_id": 0
   },
   {
     "id": 7901,
     "type": "escanor_bad_storyfeedback_01",
     "animation": "lobby_answer02",
-    "answer_string": "36943",
+    "answer_string": "36942",
     "voice_sound_id": 0
   },
   {
     "id": 7902,
     "type": "escanor_bad_storyfeedback_02",
     "animation": "lobby_answer02",
-    "answer_string": "36944",
+    "answer_string": "36943",
     "voice_sound_id": 0
   },
   {
     "id": 7903,
     "type": "escanor_bad_storyfeedback_03",
     "animation": "lobby_answer02",
-    "answer_string": "36945",
+    "answer_string": "36944",
     "voice_sound_id": 0
   },
   {
     "id": 7904,
     "type": "escanor_bad_storyfeedback_04",
     "animation": "lobby_answer02",
-    "answer_string": "36946",
+    "answer_string": "36945",
     "voice_sound_id": 0
   },
   {
     "id": 7905,
     "type": "escanor_bad_storyfeedback_05",
     "animation": "lobby_answer02",
-    "answer_string": "36947",
+    "answer_string": "36946",
     "voice_sound_id": 0
   },
   {
     "id": 7906,
     "type": "escanor_bad_storyfeedback_06",
     "animation": "lobby_answer02",
-    "answer_string": "36948",
+    "answer_string": "36947",
     "voice_sound_id": 0
   },
   {
     "id": 7907,
     "type": "escanor_bad_storyfeedback_07",
     "animation": "lobby_answer02",
-    "answer_string": "36949",
+    "answer_string": "36948",
     "voice_sound_id": 0
   },
   {
     "id": 7908,
     "type": "escanor_bad_storyfeedback_08",
     "animation": "lobby_answer02",
-    "answer_string": "36950",
+    "answer_string": "36949",
     "voice_sound_id": 0
   },
   {
     "id": 7909,
     "type": "escanor_bad_storyfeedback_09",
     "animation": "lobby_answer02",
-    "answer_string": "36951",
+    "answer_string": "36950",
     "voice_sound_id": 0
   },
   {
     "id": 7910,
     "type": "escanor_bad_storyfeedback_10",
     "animation": "lobby_answer02",
-    "answer_string": "36952",
+    "answer_string": "36951",
     "voice_sound_id": 0
   }
 ]

@@ -11,7 +11,7 @@
     "view_index": 2,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "43274",
+    "title_name": "43273",
     "image_name": "EventLobby_Button_Mission",
     "description": ""
   },
@@ -27,7 +27,7 @@
     "view_index": 3,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "43275",
+    "title_name": "43274",
     "image_name": "EventLobby_Button_Bingo",
     "description": ""
   },
@@ -43,7 +43,7 @@
     "view_index": 3,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "43276",
+    "title_name": "43275",
     "image_name": "EventLobby_Button_TrainingDungeon",
     "description": ""
   },
@@ -59,7 +59,7 @@
     "view_index": 3,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "43277",
+    "title_name": "43276",
     "image_name": "EventLobby_Button_SNS",
     "description": ""
   },
@@ -75,7 +75,7 @@
     "view_index": 4,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "43278",
+    "title_name": "43277",
     "image_name": "EventLobby_Button_777SPDungeon",
     "description": ""
   },
@@ -91,7 +91,7 @@
     "view_index": 1,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "43280",
+    "title_name": "43279",
     "image_name": "icon_shortcut_event_Exchange",
     "description": ""
   },
@@ -107,9 +107,9 @@
     "view_index": 1,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "43281",
+    "title_name": "43280",
     "image_name": "",
-    "description": "43270"
+    "description": "43269"
   },
   {
     "id": 10,
@@ -123,9 +123,9 @@
     "view_index": 3,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "43283",
+    "title_name": "43282",
     "image_name": "",
-    "description": "47186"
+    "description": "47185"
   },
   {
     "id": 11,
@@ -139,9 +139,9 @@
     "view_index": 4,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "43284",
+    "title_name": "43283",
     "image_name": "",
-    "description": "43273"
+    "description": "43272"
   },
   {
     "id": 12,
@@ -155,9 +155,9 @@
     "view_index": 4,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "46414",
+    "title_name": "46413",
     "image_name": "",
-    "description": "46415"
+    "description": "46414"
   },
   {
     "id": 13,
@@ -171,9 +171,9 @@
     "view_index": 5,
     "button_style": 0,
     "event_icon_index": 0,
-    "title_name": "46416",
+    "title_name": "46415",
     "image_name": "",
-    "description": "46417"
+    "description": "46416"
   },
   {
     "id": 14,

@@ -65,7 +65,7 @@
   {
     "id": 8,
     "battlescore_group_id": 10011,
-    "checklist_name": "41336",
+    "checklist_name": "41335",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_decrease_gauge",
     "client_visible": 1,
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "battlescore_group_id": 10011,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
@@ -83,7 +83,7 @@
   {
     "id": 11,
     "battlescore_group_id": 10011,
-    "checklist_name": "40370",
+    "checklist_name": "40369",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_erase_buff",
     "client_visible": 1,
@@ -209,7 +209,7 @@
   {
     "id": 28,
     "battlescore_group_id": 10012,
-    "checklist_name": "41336",
+    "checklist_name": "41335",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_decrease_gauge",
     "client_visible": 1,
@@ -218,7 +218,7 @@
   {
     "id": 29,
     "battlescore_group_id": 10012,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
@@ -227,7 +227,7 @@
   {
     "id": 31,
     "battlescore_group_id": 10012,
-    "checklist_name": "40370",
+    "checklist_name": "40369",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_erase_buff",
     "client_visible": 1,
@@ -290,7 +290,7 @@
   {
     "id": 41,
     "battlescore_group_id": 10013,
-    "checklist_name": "41425",
+    "checklist_name": "41424",
     "battlescore_category": 1,
     "battlescore_type": "bs_basic_hell",
     "client_visible": 1,
@@ -353,7 +353,7 @@
   {
     "id": 48,
     "battlescore_group_id": 10013,
-    "checklist_name": "41336",
+    "checklist_name": "41335",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_decrease_gauge",
     "client_visible": 1,
@@ -362,7 +362,7 @@
   {
     "id": 49,
     "battlescore_group_id": 10013,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
@@ -371,7 +371,7 @@
   {
     "id": 51,
     "battlescore_group_id": 10013,
-    "checklist_name": "40370",
+    "checklist_name": "40369",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_erase_buff",
     "client_visible": 1,
@@ -434,7 +434,7 @@
   {
     "id": 61,
     "battlescore_group_id": 20011,
-    "checklist_name": "41425",
+    "checklist_name": "24197",
     "battlescore_category": 1,
     "battlescore_type": "bs_basic_hard",
     "client_visible": 1,
@@ -488,7 +488,7 @@
   {
     "id": 67,
     "battlescore_group_id": 20011,
-    "checklist_name": "41195",
+    "checklist_name": "41194",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_rank_down",
     "client_visible": 1,
@@ -497,7 +497,7 @@
   {
     "id": 68,
     "battlescore_group_id": 20011,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
@@ -506,7 +506,7 @@
   {
     "id": 69,
     "battlescore_group_id": 20011,
-    "checklist_name": "41336",
+    "checklist_name": "41335",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_decrease_gauge",
     "client_visible": 1,
@@ -524,7 +524,7 @@
   {
     "id": 71,
     "battlescore_group_id": 20011,
-    "checklist_name": "38891",
+    "checklist_name": "38890",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_debuff_preventpose",
     "client_visible": 1,
@@ -533,7 +533,7 @@
   {
     "id": 72,
     "battlescore_group_id": 20011,
-    "checklist_name": "40372",
+    "checklist_name": "40371",
     "battlescore_category": 1,
     "battlescore_type": "bs_ally_recovery_erase_debuff",
     "client_visible": 1,
@@ -542,7 +542,7 @@
   {
     "id": 73,
     "battlescore_group_id": 20011,
-    "checklist_name": "43566",
+    "checklist_name": "43565",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
@@ -551,7 +551,7 @@
   {
     "id": 74,
     "battlescore_group_id": 20011,
-    "checklist_name": "43567",
+    "checklist_name": "43566",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
@@ -560,7 +560,7 @@
   {
     "id": 75,
     "battlescore_group_id": 20011,
-    "checklist_name": "43568",
+    "checklist_name": "43567",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
@@ -623,7 +623,7 @@
   {
     "id": 82,
     "battlescore_group_id": 20012,
-    "checklist_name": "41425",
+    "checklist_name": "24199",
     "battlescore_category": 1,
     "battlescore_type": "bs_basic_extreme",
     "client_visible": 1,
@@ -677,7 +677,7 @@
   {
     "id": 88,
     "battlescore_group_id": 20012,
-    "checklist_name": "41195",
+    "checklist_name": "41194",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_rank_down",
     "client_visible": 1,
@@ -686,7 +686,7 @@
   {
     "id": 89,
     "battlescore_group_id": 20012,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
@@ -695,7 +695,7 @@
   {
     "id": 90,
     "battlescore_group_id": 20012,
-    "checklist_name": "41336",
+    "checklist_name": "41335",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_decrease_gauge",
     "client_visible": 1,
@@ -713,7 +713,7 @@
   {
     "id": 92,
     "battlescore_group_id": 20012,
-    "checklist_name": "38891",
+    "checklist_name": "38890",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_debuff_preventpose",
     "client_visible": 1,
@@ -722,7 +722,7 @@
   {
     "id": 93,
     "battlescore_group_id": 20012,
-    "checklist_name": "40372",
+    "checklist_name": "40371",
     "battlescore_category": 1,
     "battlescore_type": "bs_ally_recovery_erase_debuff",
     "client_visible": 1,
@@ -731,7 +731,7 @@
   {
     "id": 94,
     "battlescore_group_id": 20012,
-    "checklist_name": "43566",
+    "checklist_name": "43565",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
@@ -740,7 +740,7 @@
   {
     "id": 95,
     "battlescore_group_id": 20012,
-    "checklist_name": "43567",
+    "checklist_name": "43566",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
@@ -749,7 +749,7 @@
   {
     "id": 96,
     "battlescore_group_id": 20012,
-    "checklist_name": "43568",
+    "checklist_name": "43567",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
@@ -812,7 +812,7 @@
   {
     "id": 103,
     "battlescore_group_id": 20013,
-    "checklist_name": "41425",
+    "checklist_name": "41424",
     "battlescore_category": 1,
     "battlescore_type": "bs_basic_hell",
     "client_visible": 1,
@@ -866,7 +866,7 @@
   {
     "id": 109,
     "battlescore_group_id": 20013,
-    "checklist_name": "41195",
+    "checklist_name": "41194",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_rank_down",
     "client_visible": 1,
@@ -875,7 +875,7 @@
   {
     "id": 110,
     "battlescore_group_id": 20013,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
@@ -884,7 +884,7 @@
   {
     "id": 111,
     "battlescore_group_id": 20013,
-    "checklist_name": "41336",
+    "checklist_name": "41335",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_decrease_gauge",
     "client_visible": 1,
@@ -902,7 +902,7 @@
   {
     "id": 113,
     "battlescore_group_id": 20013,
-    "checklist_name": "38891",
+    "checklist_name": "38890",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_debuff_preventpose",
     "client_visible": 1,
@@ -911,7 +911,7 @@
   {
     "id": 114,
     "battlescore_group_id": 20013,
-    "checklist_name": "40372",
+    "checklist_name": "40371",
     "battlescore_category": 1,
     "battlescore_type": "bs_ally_recovery_erase_debuff",
     "client_visible": 1,
@@ -920,7 +920,7 @@
   {
     "id": 115,
     "battlescore_group_id": 20013,
-    "checklist_name": "43566",
+    "checklist_name": "43565",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
@@ -929,7 +929,7 @@
   {
     "id": 116,
     "battlescore_group_id": 20013,
-    "checklist_name": "43567",
+    "checklist_name": "43566",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
@@ -938,7 +938,7 @@
   {
     "id": 117,
     "battlescore_group_id": 20013,
-    "checklist_name": "43568",
+    "checklist_name": "43567",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
@@ -1064,7 +1064,7 @@
   {
     "id": 197,
     "battlescore_group_id": 13011,
-    "checklist_name": "38892",
+    "checklist_name": "38891",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_debuff_infection",
     "client_visible": 1,
@@ -1073,7 +1073,7 @@
   {
     "id": 198,
     "battlescore_group_id": 13011,
-    "checklist_name": "38891",
+    "checklist_name": "38890",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_debuff_preventpose",
     "client_visible": 1,
@@ -1082,7 +1082,7 @@
   {
     "id": 199,
     "battlescore_group_id": 13011,
-    "checklist_name": "40370",
+    "checklist_name": "40369",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_erase_buff",
     "client_visible": 1,
@@ -1091,7 +1091,7 @@
   {
     "id": 200,
     "battlescore_group_id": 13011,
-    "checklist_name": "40371",
+    "checklist_name": "40370",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_erase_pose",
     "client_visible": 1,
@@ -1100,7 +1100,7 @@
   {
     "id": 201,
     "battlescore_group_id": 13011,
-    "checklist_name": "40372",
+    "checklist_name": "40371",
     "battlescore_category": 1,
     "battlescore_type": "bs_ally_recovery_erase_debuff",
     "client_visible": 1,
@@ -1109,7 +1109,7 @@
   {
     "id": 202,
     "battlescore_group_id": 13011,
-    "checklist_name": "40373",
+    "checklist_name": "40372",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_card_disuse",
     "client_visible": 1,
@@ -1118,7 +1118,7 @@
   {
     "id": 203,
     "battlescore_group_id": 13011,
-    "checklist_name": "40374",
+    "checklist_name": "40373",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_break_kill",
     "client_visible": 1,
@@ -1127,7 +1127,7 @@
   {
     "id": 204,
     "battlescore_group_id": 13011,
-    "checklist_name": "39872",
+    "checklist_name": "39871",
     "battlescore_category": 1,
     "battlescore_type": "bs_hero_group_skill_use_01",
     "client_visible": 1,
@@ -1136,7 +1136,7 @@
   {
     "id": 205,
     "battlescore_group_id": 13011,
-    "checklist_name": "39873",
+    "checklist_name": "39872",
     "battlescore_category": 1,
     "battlescore_type": "bs_hero_group_skill_use_02",
     "client_visible": 1,
@@ -1262,7 +1262,7 @@
   {
     "id": 219,
     "battlescore_group_id": 13012,
-    "checklist_name": "38892",
+    "checklist_name": "38891",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_debuff_infection",
     "client_visible": 1,
@@ -1271,7 +1271,7 @@
   {
     "id": 220,
     "battlescore_group_id": 13012,
-    "checklist_name": "38891",
+    "checklist_name": "38890",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_debuff_preventpose",
     "client_visible": 1,
@@ -1280,7 +1280,7 @@
   {
     "id": 221,
     "battlescore_group_id": 13012,
-    "checklist_name": "40370",
+    "checklist_name": "40369",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_erase_buff",
     "client_visible": 1,
@@ -1289,7 +1289,7 @@
   {
     "id": 222,
     "battlescore_group_id": 13012,
-    "checklist_name": "40371",
+    "checklist_name": "40370",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_erase_pose",
     "client_visible": 1,
@@ -1298,7 +1298,7 @@
   {
     "id": 223,
     "battlescore_group_id": 13012,
-    "checklist_name": "40372",
+    "checklist_name": "40371",
     "battlescore_category": 1,
     "battlescore_type": "bs_ally_recovery_erase_debuff",
     "client_visible": 1,
@@ -1307,7 +1307,7 @@
   {
     "id": 224,
     "battlescore_group_id": 13012,
-    "checklist_name": "40373",
+    "checklist_name": "40372",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_card_disuse",
     "client_visible": 1,
@@ -1316,7 +1316,7 @@
   {
     "id": 225,
     "battlescore_group_id": 13012,
-    "checklist_name": "40374",
+    "checklist_name": "40373",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_break_kill",
     "client_visible": 1,
@@ -1325,7 +1325,7 @@
   {
     "id": 226,
     "battlescore_group_id": 13012,
-    "checklist_name": "39872",
+    "checklist_name": "39871",
     "battlescore_category": 1,
     "battlescore_type": "bs_hero_group_skill_use_01",
     "client_visible": 1,
@@ -1334,7 +1334,7 @@
   {
     "id": 227,
     "battlescore_group_id": 13012,
-    "checklist_name": "39873",
+    "checklist_name": "39872",
     "battlescore_category": 1,
     "battlescore_type": "bs_hero_group_skill_use_02",
     "client_visible": 1,
@@ -1397,7 +1397,7 @@
   {
     "id": 234,
     "battlescore_group_id": 13013,
-    "checklist_name": "41425",
+    "checklist_name": "41424",
     "battlescore_category": 1,
     "battlescore_type": "bs_basic_hell",
     "client_visible": 1,
@@ -1460,7 +1460,7 @@
   {
     "id": 241,
     "battlescore_group_id": 13013,
-    "checklist_name": "38892",
+    "checklist_name": "38891",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_debuff_infection",
     "client_visible": 1,
@@ -1469,7 +1469,7 @@
   {
     "id": 242,
     "battlescore_group_id": 13013,
-    "checklist_name": "38891",
+    "checklist_name": "38890",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_debuff_preventpose",
     "client_visible": 1,
@@ -1478,7 +1478,7 @@
   {
     "id": 243,
     "battlescore_group_id": 13013,
-    "checklist_name": "40370",
+    "checklist_name": "40369",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_erase_buff",
     "client_visible": 1,
@@ -1487,7 +1487,7 @@
   {
     "id": 244,
     "battlescore_group_id": 13013,
-    "checklist_name": "40371",
+    "checklist_name": "40370",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_erase_pose",
     "client_visible": 1,
@@ -1496,7 +1496,7 @@
   {
     "id": 245,
     "battlescore_group_id": 13013,
-    "checklist_name": "40372",
+    "checklist_name": "40371",
     "battlescore_category": 1,
     "battlescore_type": "bs_ally_recovery_erase_debuff",
     "client_visible": 1,
@@ -1505,7 +1505,7 @@
   {
     "id": 246,
     "battlescore_group_id": 13013,
-    "checklist_name": "40373",
+    "checklist_name": "40372",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_card_disuse",
     "client_visible": 1,
@@ -1514,7 +1514,7 @@
   {
     "id": 247,
     "battlescore_group_id": 13013,
-    "checklist_name": "40374",
+    "checklist_name": "40373",
     "battlescore_category": 1,
     "battlescore_type": "bs_enemy_skill_break_kill",
     "client_visible": 1,
@@ -1523,7 +1523,7 @@
   {
     "id": 248,
     "battlescore_group_id": 13013,
-    "checklist_name": "39872",
+    "checklist_name": "39871",
     "battlescore_category": 1,
     "battlescore_type": "bs_hero_group_skill_use_01",
     "client_visible": 1,
@@ -1532,7 +1532,7 @@
   {
     "id": 249,
     "battlescore_group_id": 13013,
-    "checklist_name": "39873",
+    "checklist_name": "39872",
     "battlescore_category": 1,
     "battlescore_type": "bs_hero_group_skill_use_02",
     "client_visible": 1,

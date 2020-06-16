@@ -259,7 +259,7 @@
     "map_resource": "town_hawkmama_1f",
     "open_type": "",
     "open_value": 0,
-    "town_name": "41305",
+    "town_name": "41304",
     "town_icon": "icon_basepoint_11_02",
     "town_minimap_change": ""
   },
@@ -270,7 +270,7 @@
     "map_resource": "town_LONvacant_outside_12c",
     "open_type": "",
     "open_value": 0,
-    "town_name": "39917",
+    "town_name": "39916",
     "town_icon": "icon_basepoint_12_01",
     "town_minimap_change": ""
   },
@@ -281,7 +281,7 @@
     "map_resource": "town_LONvacant_inside_destroy_12c",
     "open_type": "stage_quest",
     "open_value": 22014,
-    "town_name": "39918",
+    "town_name": "39917",
     "town_icon": "icon_basepoint_12_02",
     "town_minimap_change": "town_LONvacant_inside_destroy_12c_MiniMap"
   },
@@ -292,7 +292,7 @@
     "map_resource": "town_LON_collapse_13chapter_01",
     "open_type": "quest_end",
     "open_value": 22015,
-    "town_name": "39918",
+    "town_name": "39917",
     "town_icon": "icon_basepoint_13_01",
     "town_minimap_change": "town_LON_collapse_MiniMap_01"
   },
@@ -303,7 +303,7 @@
     "map_resource": "town_LON_collapse_13chapter_01",
     "open_type": "quest_end",
     "open_value": 22055,
-    "town_name": "39918",
+    "town_name": "39917",
     "town_icon": "icon_basepoint_13_01",
     "town_minimap_change": "town_LON_collapse_MiniMap_02"
   },
@@ -314,7 +314,7 @@
     "map_resource": "town_hawkmama_collapse_13chapter_01",
     "open_type": "",
     "open_value": 0,
-    "town_name": "42359",
+    "town_name": "42358",
     "town_icon": "icon_basepoint_13_02",
     "town_minimap_change": ""
   },
@@ -325,7 +325,7 @@
     "map_resource": "town_hawkmama_collapse_13chapter_01",
     "open_type": "quest_end",
     "open_value": 22063,
-    "town_name": "42359",
+    "town_name": "42358",
     "town_icon": "icon_basepoint_13_03",
     "town_minimap_change": ""
   },
@@ -424,7 +424,7 @@
     "map_resource": "town_hawkmama_2f",
     "open_type": "",
     "open_value": 0,
-    "town_name": "37797",
+    "town_name": "37796",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -435,7 +435,7 @@
     "map_resource": "town_LONvacant_inside_12c",
     "open_type": "",
     "open_value": 0,
-    "town_name": "39915",
+    "town_name": "39914",
     "town_icon": "",
     "town_minimap_change": ""
   },
@@ -446,7 +446,7 @@
     "map_resource": "town_Event_Valentine_room",
     "open_type": "",
     "open_value": 0,
-    "town_name": "37784",
+    "town_name": "37783",
     "town_icon": "",
     "town_minimap_change": ""
   },

@@ -10,16 +10,6 @@
     "costume_resale": 1
   },
   {
-    "id": 2,
-    "menu_type": "event_costume",
-    "menu_title": "3171",
-    "scroll_type": "horizontal_scroll",
-    "shop_type": 2,
-    "banner_image": "costumeshop_banner_07_lionesknight02",
-    "costume_story_id": 3,
-    "costume_resale": 1
-  },
-  {
     "id": 3,
     "menu_type": "event_costume",
     "menu_title": "3171",
@@ -66,6 +56,26 @@
     "scroll_type": "horizontal_scroll",
     "shop_type": 7,
     "banner_image": "costumeshop_banner_11_unbreakwill001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 16,
+    "menu_type": "event_costume",
+    "menu_title": "3171",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 16,
+    "banner_image": "costumeshop_banner_20_iliahmagician_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
+    "id": 2,
+    "menu_type": "event_costume",
+    "menu_title": "3171",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 2,
+    "banner_image": "costumeshop_banner_07_lionesknight02",
     "costume_story_id": 3,
     "costume_resale": 1
   },

@@ -2,7 +2,7 @@
   {
     "id": 10101,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 101,
@@ -28,7 +28,7 @@
   {
     "id": 10102,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 101,
@@ -54,7 +54,7 @@
   {
     "id": 10103,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 101,
@@ -80,7 +80,7 @@
   {
     "id": 10104,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 101,
@@ -106,7 +106,7 @@
   {
     "id": 10105,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 101,
@@ -132,7 +132,7 @@
   {
     "id": 10201,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 102,
@@ -158,7 +158,7 @@
   {
     "id": 10202,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 102,
@@ -184,7 +184,7 @@
   {
     "id": 10203,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 102,
@@ -210,7 +210,7 @@
   {
     "id": 10204,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 102,
@@ -236,7 +236,7 @@
   {
     "id": 10205,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 102,
@@ -262,7 +262,7 @@
   {
     "id": 10301,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 103,
@@ -288,7 +288,7 @@
   {
     "id": 10302,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 103,
@@ -314,7 +314,7 @@
   {
     "id": 10303,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 103,
@@ -340,7 +340,7 @@
   {
     "id": 10304,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 103,
@@ -366,7 +366,7 @@
   {
     "id": 10305,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 103,
@@ -392,7 +392,7 @@
   {
     "id": 10401,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 104,
@@ -418,7 +418,7 @@
   {
     "id": 10402,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 104,
@@ -444,7 +444,7 @@
   {
     "id": 10403,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 104,
@@ -470,7 +470,7 @@
   {
     "id": 10404,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 104,
@@ -496,7 +496,7 @@
   {
     "id": 10405,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 1,
     "guild_war_area_id": 104,
@@ -522,7 +522,7 @@
   {
     "id": 20101,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 201,
@@ -548,7 +548,7 @@
   {
     "id": 20102,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 201,
@@ -574,7 +574,7 @@
   {
     "id": 20103,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 201,
@@ -600,7 +600,7 @@
   {
     "id": 20104,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 201,
@@ -626,7 +626,7 @@
   {
     "id": 20105,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 201,
@@ -652,7 +652,7 @@
   {
     "id": 20201,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 202,
@@ -678,7 +678,7 @@
   {
     "id": 20202,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 202,
@@ -704,7 +704,7 @@
   {
     "id": 20203,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 202,
@@ -730,7 +730,7 @@
   {
     "id": 20204,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 202,
@@ -756,7 +756,7 @@
   {
     "id": 20205,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 202,
@@ -782,7 +782,7 @@
   {
     "id": 20301,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 203,
@@ -808,7 +808,7 @@
   {
     "id": 20302,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 203,
@@ -834,7 +834,7 @@
   {
     "id": 20303,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 203,
@@ -860,7 +860,7 @@
   {
     "id": 20304,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 203,
@@ -886,7 +886,7 @@
   {
     "id": 20305,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 203,
@@ -912,7 +912,7 @@
   {
     "id": 20401,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 204,
@@ -938,7 +938,7 @@
   {
     "id": 20402,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 204,
@@ -964,7 +964,7 @@
   {
     "id": 20403,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 204,
@@ -990,7 +990,7 @@
   {
     "id": 20404,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 204,
@@ -1016,7 +1016,7 @@
   {
     "id": 20405,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 2,
     "guild_war_area_id": 204,
@@ -1042,7 +1042,7 @@
   {
     "id": 30101,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 301,
@@ -1068,7 +1068,7 @@
   {
     "id": 30102,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 301,
@@ -1094,7 +1094,7 @@
   {
     "id": 30103,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 301,
@@ -1120,7 +1120,7 @@
   {
     "id": 30104,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 301,
@@ -1146,7 +1146,7 @@
   {
     "id": 30105,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 301,
@@ -1172,7 +1172,7 @@
   {
     "id": 30201,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 302,
@@ -1198,7 +1198,7 @@
   {
     "id": 30202,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 302,
@@ -1224,7 +1224,7 @@
   {
     "id": 30203,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 302,
@@ -1250,7 +1250,7 @@
   {
     "id": 30204,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 302,
@@ -1276,7 +1276,7 @@
   {
     "id": 30205,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 302,
@@ -1302,7 +1302,7 @@
   {
     "id": 30301,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 303,
@@ -1328,7 +1328,7 @@
   {
     "id": 30302,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 303,
@@ -1354,7 +1354,7 @@
   {
     "id": 30303,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 303,
@@ -1380,7 +1380,7 @@
   {
     "id": 30304,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 303,
@@ -1406,7 +1406,7 @@
   {
     "id": 30305,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 303,
@@ -1432,7 +1432,7 @@
   {
     "id": 30401,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 304,
@@ -1458,7 +1458,7 @@
   {
     "id": 30402,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 304,
@@ -1484,7 +1484,7 @@
   {
     "id": 30403,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 304,
@@ -1510,7 +1510,7 @@
   {
     "id": 30404,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 304,
@@ -1536,7 +1536,7 @@
   {
     "id": 30405,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 304,
@@ -1562,7 +1562,7 @@
   {
     "id": 30501,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 305,
@@ -1588,7 +1588,7 @@
   {
     "id": 30502,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 305,
@@ -1614,7 +1614,7 @@
   {
     "id": 30503,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 305,
@@ -1640,7 +1640,7 @@
   {
     "id": 30504,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 305,
@@ -1666,7 +1666,7 @@
   {
     "id": 30505,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 3,
     "guild_war_area_id": 305,
@@ -1692,7 +1692,7 @@
   {
     "id": 40101,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 401,
@@ -1718,7 +1718,7 @@
   {
     "id": 40102,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 401,
@@ -1744,7 +1744,7 @@
   {
     "id": 40103,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 401,
@@ -1770,7 +1770,7 @@
   {
     "id": 40104,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 401,
@@ -1796,7 +1796,7 @@
   {
     "id": 40105,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 401,
@@ -1822,7 +1822,7 @@
   {
     "id": 40201,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 402,
@@ -1848,7 +1848,7 @@
   {
     "id": 40202,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 402,
@@ -1874,7 +1874,7 @@
   {
     "id": 40203,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 402,
@@ -1900,7 +1900,7 @@
   {
     "id": 40204,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 402,
@@ -1926,7 +1926,7 @@
   {
     "id": 40205,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 402,
@@ -1952,7 +1952,7 @@
   {
     "id": 40301,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 403,
@@ -1978,7 +1978,7 @@
   {
     "id": 40302,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 403,
@@ -2004,7 +2004,7 @@
   {
     "id": 40303,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 403,
@@ -2030,7 +2030,7 @@
   {
     "id": 40304,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 403,
@@ -2056,7 +2056,7 @@
   {
     "id": 40305,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 403,
@@ -2082,7 +2082,7 @@
   {
     "id": 40401,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 404,
@@ -2108,7 +2108,7 @@
   {
     "id": 40402,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 404,
@@ -2134,7 +2134,7 @@
   {
     "id": 40403,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 404,
@@ -2160,7 +2160,7 @@
   {
     "id": 40404,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 404,
@@ -2186,7 +2186,7 @@
   {
     "id": 40405,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 404,
@@ -2212,7 +2212,7 @@
   {
     "id": 40501,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 405,
@@ -2238,7 +2238,7 @@
   {
     "id": 40502,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 405,
@@ -2264,7 +2264,7 @@
   {
     "id": 40503,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 405,
@@ -2290,7 +2290,7 @@
   {
     "id": 40504,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 405,
@@ -2316,7 +2316,7 @@
   {
     "id": 40505,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 4,
     "guild_war_area_id": 405,
@@ -2342,7 +2342,7 @@
   {
     "id": 50101,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 501,
@@ -2368,7 +2368,7 @@
   {
     "id": 50102,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 501,
@@ -2394,7 +2394,7 @@
   {
     "id": 50103,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 501,
@@ -2420,7 +2420,7 @@
   {
     "id": 50104,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 501,
@@ -2446,7 +2446,7 @@
   {
     "id": 50105,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 501,
@@ -2472,7 +2472,7 @@
   {
     "id": 50201,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 502,
@@ -2498,7 +2498,7 @@
   {
     "id": 50202,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 502,
@@ -2524,7 +2524,7 @@
   {
     "id": 50203,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 502,
@@ -2550,7 +2550,7 @@
   {
     "id": 50204,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 502,
@@ -2576,7 +2576,7 @@
   {
     "id": 50205,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 502,
@@ -2602,7 +2602,7 @@
   {
     "id": 50301,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 503,
@@ -2628,7 +2628,7 @@
   {
     "id": 50302,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 503,
@@ -2654,7 +2654,7 @@
   {
     "id": 50303,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 503,
@@ -2680,7 +2680,7 @@
   {
     "id": 50304,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 503,
@@ -2706,7 +2706,7 @@
   {
     "id": 50305,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 503,
@@ -2732,7 +2732,7 @@
   {
     "id": 50401,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 504,
@@ -2758,7 +2758,7 @@
   {
     "id": 50402,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 504,
@@ -2784,7 +2784,7 @@
   {
     "id": 50403,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 504,
@@ -2810,7 +2810,7 @@
   {
     "id": 50404,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 504,
@@ -2836,7 +2836,7 @@
   {
     "id": 50405,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 504,
@@ -2862,7 +2862,7 @@
   {
     "id": 50501,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 505,
@@ -2888,7 +2888,7 @@
   {
     "id": 50502,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 505,
@@ -2914,7 +2914,7 @@
   {
     "id": 50503,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 505,
@@ -2940,7 +2940,7 @@
   {
     "id": 50504,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 505,
@@ -2966,7 +2966,7 @@
   {
     "id": 50505,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 505,
@@ -2992,7 +2992,7 @@
   {
     "id": 50601,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 506,
@@ -3018,7 +3018,7 @@
   {
     "id": 50602,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 506,
@@ -3044,7 +3044,7 @@
   {
     "id": 50603,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 506,
@@ -3070,7 +3070,7 @@
   {
     "id": 50604,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 506,
@@ -3096,7 +3096,7 @@
   {
     "id": 50605,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 5,
     "guild_war_area_id": 506,
@@ -3122,7 +3122,7 @@
   {
     "id": 60101,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 601,
@@ -3148,7 +3148,7 @@
   {
     "id": 60102,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 601,
@@ -3174,7 +3174,7 @@
   {
     "id": 60103,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 601,
@@ -3200,7 +3200,7 @@
   {
     "id": 60104,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 601,
@@ -3226,7 +3226,7 @@
   {
     "id": 60105,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 601,
@@ -3252,7 +3252,7 @@
   {
     "id": 60201,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 602,
@@ -3278,7 +3278,7 @@
   {
     "id": 60202,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 602,
@@ -3304,7 +3304,7 @@
   {
     "id": 60203,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 602,
@@ -3330,7 +3330,7 @@
   {
     "id": 60204,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 602,
@@ -3356,7 +3356,7 @@
   {
     "id": 60205,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 602,
@@ -3382,7 +3382,7 @@
   {
     "id": 60301,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 603,
@@ -3408,7 +3408,7 @@
   {
     "id": 60302,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 603,
@@ -3434,7 +3434,7 @@
   {
     "id": 60303,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 603,
@@ -3460,7 +3460,7 @@
   {
     "id": 60304,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 603,
@@ -3486,7 +3486,7 @@
   {
     "id": 60305,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 603,
@@ -3512,7 +3512,7 @@
   {
     "id": 60401,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 604,
@@ -3538,7 +3538,7 @@
   {
     "id": 60402,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 604,
@@ -3564,7 +3564,7 @@
   {
     "id": 60403,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 604,
@@ -3590,7 +3590,7 @@
   {
     "id": 60404,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 604,
@@ -3616,7 +3616,7 @@
   {
     "id": 60405,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 604,
@@ -3642,7 +3642,7 @@
   {
     "id": 60501,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 605,
@@ -3668,7 +3668,7 @@
   {
     "id": 60502,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 605,
@@ -3694,7 +3694,7 @@
   {
     "id": 60503,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 605,
@@ -3720,7 +3720,7 @@
   {
     "id": 60504,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 605,
@@ -3746,7 +3746,7 @@
   {
     "id": 60505,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 605,
@@ -3772,7 +3772,7 @@
   {
     "id": 60601,
     "type": "guild_war",
-    "stage_string": "44030",
+    "stage_string": "44029",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 606,
@@ -3798,7 +3798,7 @@
   {
     "id": 60602,
     "type": "guild_war",
-    "stage_string": "44031",
+    "stage_string": "44030",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 606,
@@ -3824,7 +3824,7 @@
   {
     "id": 60603,
     "type": "guild_war",
-    "stage_string": "44032",
+    "stage_string": "44031",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 606,
@@ -3850,7 +3850,7 @@
   {
     "id": 60604,
     "type": "guild_war",
-    "stage_string": "44033",
+    "stage_string": "44032",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 606,
@@ -3876,7 +3876,7 @@
   {
     "id": 60605,
     "type": "guild_war",
-    "stage_string": "44034",
+    "stage_string": "44033",
     "control_type": "guild_war",
     "region": 6,
     "guild_war_area_id": 606,

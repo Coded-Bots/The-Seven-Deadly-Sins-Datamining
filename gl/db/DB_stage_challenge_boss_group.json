@@ -33,9 +33,9 @@
     "group_id": 111,
     "event_sub_index": 1001,
     "group_hero_id": 2260175,
-    "group_string": "42588",
+    "group_string": "42587",
     "info_image": "challengeboss_chimara_demon_01",
-    "challenge_boss_strong_skill_desc": "42590",
+    "challenge_boss_strong_skill_desc": "42589",
     "result_score_list": 1,
     "result_score_name": "405"
   },
@@ -43,10 +43,10 @@
     "group_id": 121,
     "event_sub_index": 100001,
     "group_hero_id": 2260211,
-    "group_string": "42589",
+    "group_string": "42588",
     "info_image": "challengeboss_hawk_big_01",
-    "challenge_boss_strong_skill_desc": "42591",
+    "challenge_boss_strong_skill_desc": "42590",
     "result_score_list": 0,
-    "result_score_name": "6320"
+    "result_score_name": "6309"
   }
 ]

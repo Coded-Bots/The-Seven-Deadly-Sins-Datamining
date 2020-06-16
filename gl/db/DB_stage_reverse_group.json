@@ -3,7 +3,7 @@
     "id": 1,
     "season_id": 1,
     "group_id": 1,
-    "reverse_area_name": "42360",
+    "reverse_area_name": "42359",
     "map_resource_path": "UI/Image/Loading/Default/Background",
     "map_resource": "adventure_stagelist_bg_06",
     "open_value": 18021
@@ -12,7 +12,7 @@
     "id": 2,
     "season_id": 1,
     "group_id": 2,
-    "reverse_area_name": "42358",
+    "reverse_area_name": "42357",
     "map_resource_path": "UI/Image/Loading/Default/Background",
     "map_resource": "adventure_stagelist_bg_04",
     "open_value": 18021
@@ -21,7 +21,7 @@
     "id": 3,
     "season_id": 1,
     "group_id": 3,
-    "reverse_area_name": "42364",
+    "reverse_area_name": "42363",
     "map_resource_path": "UI/Image/Loading/Default/Background",
     "map_resource": "adventure_stagelist_bg_extra_king_01",
     "open_value": 18021
@@ -30,7 +30,7 @@
     "id": 4,
     "season_id": 1,
     "group_id": 4,
-    "reverse_area_name": "42365",
+    "reverse_area_name": "42364",
     "map_resource_path": "UI/Image/Loading/Default/Background",
     "map_resource": "adventure_stagelist_bg_19",
     "open_value": 18021
@@ -39,7 +39,7 @@
     "id": 5,
     "season_id": 1,
     "group_id": 5,
-    "reverse_area_name": "42361",
+    "reverse_area_name": "42360",
     "map_resource_path": "UI/Image/Loading/Default/Background",
     "map_resource": "adventure_stagelist_bg_10",
     "open_value": 18021
@@ -48,7 +48,7 @@
     "id": 6,
     "season_id": 1,
     "group_id": 6,
-    "reverse_area_name": "42362",
+    "reverse_area_name": "42361",
     "map_resource_path": "UI/Image/Loading/Default/Background",
     "map_resource": "adventure_stagelist_bg_05",
     "open_value": 18021
@@ -57,7 +57,7 @@
     "id": 7,
     "season_id": 1,
     "group_id": 7,
-    "reverse_area_name": "42363",
+    "reverse_area_name": "42362",
     "map_resource_path": "UI/Image/Loading/Default/Background",
     "map_resource": "adventure_stagelist_bg_09",
     "open_value": 18021

@@ -1504,7 +1504,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1031,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 10
@@ -1514,7 +1514,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1031,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 5
@@ -1524,7 +1524,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1031,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 5
@@ -1534,7 +1534,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1031,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -1544,7 +1544,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1031,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -1554,7 +1554,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1031,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -1564,7 +1564,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1031,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -1574,7 +1574,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1031,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -1704,7 +1704,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1032,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 15
@@ -1714,7 +1714,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1032,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 10
@@ -1724,7 +1724,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1032,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 10
@@ -1734,7 +1734,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1032,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -1744,7 +1744,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1032,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -1754,7 +1754,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1032,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -1764,7 +1764,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1032,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -1774,7 +1774,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1032,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -1904,7 +1904,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1033,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 20
@@ -1914,7 +1914,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1033,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 15
@@ -1924,7 +1924,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1033,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 15
@@ -1934,7 +1934,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1033,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -1944,7 +1944,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1033,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -1954,7 +1954,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1033,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -1964,7 +1964,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1033,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -1974,7 +1974,7 @@
     "season_id": 3,
     "group_id": 1,
     "stage_id": 1033,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -2104,7 +2104,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1031,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 10
@@ -2114,7 +2114,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1031,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 5
@@ -2124,7 +2124,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1031,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 5
@@ -2134,7 +2134,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1031,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -2144,7 +2144,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1031,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -2154,7 +2154,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1031,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -2164,7 +2164,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1031,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -2174,7 +2174,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1031,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -2304,7 +2304,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1032,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 15
@@ -2314,7 +2314,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1032,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 10
@@ -2324,7 +2324,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1032,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 10
@@ -2334,7 +2334,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1032,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -2344,7 +2344,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1032,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -2354,7 +2354,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1032,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -2364,7 +2364,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1032,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -2374,7 +2374,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1032,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -2504,7 +2504,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1033,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 20
@@ -2514,7 +2514,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1033,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 15
@@ -2524,7 +2524,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1033,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 15
@@ -2534,7 +2534,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1033,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -2544,7 +2544,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1033,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -2554,7 +2554,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1033,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -2564,7 +2564,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1033,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -2574,7 +2574,7 @@
     "season_id": 3,
     "group_id": 2,
     "stage_id": 1033,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -2704,7 +2704,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1031,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 10
@@ -2714,7 +2714,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1031,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 5
@@ -2724,7 +2724,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1031,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 5
@@ -2734,7 +2734,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1031,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -2744,7 +2744,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1031,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -2754,7 +2754,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1031,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -2764,7 +2764,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1031,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -2774,7 +2774,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1031,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -2904,7 +2904,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1032,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 15
@@ -2914,7 +2914,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1032,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 10
@@ -2924,7 +2924,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1032,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 10
@@ -2934,7 +2934,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1032,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -2944,7 +2944,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1032,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -2954,7 +2954,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1032,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -2964,7 +2964,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1032,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -2974,7 +2974,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1032,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -3104,7 +3104,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1033,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 20
@@ -3114,7 +3114,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1033,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 15
@@ -3124,7 +3124,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1033,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 15
@@ -3134,7 +3134,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1033,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -3144,7 +3144,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1033,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -3154,7 +3154,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1033,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -3164,7 +3164,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1033,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -3174,7 +3174,7 @@
     "season_id": 3,
     "group_id": 3,
     "stage_id": 1033,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -3304,7 +3304,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1031,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 10
@@ -3314,7 +3314,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1031,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 5
@@ -3324,7 +3324,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1031,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 5
@@ -3334,7 +3334,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1031,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -3344,7 +3344,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1031,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -3354,7 +3354,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1031,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -3364,7 +3364,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1031,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -3374,7 +3374,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1031,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -3504,7 +3504,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1032,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 15
@@ -3514,7 +3514,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1032,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 10
@@ -3524,7 +3524,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1032,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 10
@@ -3534,7 +3534,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1032,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -3544,7 +3544,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1032,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -3554,7 +3554,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1032,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -3564,7 +3564,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1032,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -3574,7 +3574,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1032,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200
@@ -3704,7 +3704,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1033,
-    "checklist_name": "41337",
+    "checklist_name": "41336",
     "BattleScore_type": "bs_enemy_skill_dissipation",
     "client_visible": 1,
     "checklist_value": 20
@@ -3714,7 +3714,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1033,
-    "checklist_name": "40368",
+    "checklist_name": "40367",
     "BattleScore_type": "bs_enemy_skill_bust",
     "client_visible": 1,
     "checklist_value": 15
@@ -3724,7 +3724,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1033,
-    "checklist_name": "43564",
+    "checklist_name": "43563",
     "BattleScore_type": "bs_enemy_skill_def_ignore",
     "client_visible": 1,
     "checklist_value": 15
@@ -3734,7 +3734,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1033,
-    "checklist_name": "43988",
+    "checklist_name": "43987",
     "BattleScore_type": "bs_enemy_skill_damage_range_01",
     "client_visible": 1,
     "checklist_value": 3
@@ -3744,7 +3744,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1033,
-    "checklist_name": "43989",
+    "checklist_name": "43988",
     "BattleScore_type": "bs_enemy_skill_damage_range_02",
     "client_visible": 1,
     "checklist_value": 6
@@ -3754,7 +3754,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1033,
-    "checklist_name": "43990",
+    "checklist_name": "43989",
     "BattleScore_type": "bs_enemy_skill_damage_range_03",
     "client_visible": 1,
     "checklist_value": 15
@@ -3764,7 +3764,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1033,
-    "checklist_name": "43991",
+    "checklist_name": "43990",
     "BattleScore_type": "bs_enemy_skill_damage_range_04",
     "client_visible": 1,
     "checklist_value": 50
@@ -3774,7 +3774,7 @@
     "season_id": 3,
     "group_id": 4,
     "stage_id": 1033,
-    "checklist_name": "43992",
+    "checklist_name": "43991",
     "BattleScore_type": "bs_enemy_skill_damage_range_05",
     "client_visible": 1,
     "checklist_value": 200

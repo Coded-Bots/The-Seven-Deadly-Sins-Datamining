@@ -2,7 +2,7 @@
   {
     "guild_war_area_id": 101,
     "guild_war_region_id": 1,
-    "guild_war_area_name": "43994",
+    "guild_war_area_name": "43993",
     "guild_war_area_icon": "icon_guild_war_area_01",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_01",
     "guild_war_area_bg_path": "UI/Image/Loading/Default/Background",
@@ -12,7 +12,7 @@
   {
     "guild_war_area_id": 102,
     "guild_war_region_id": 1,
-    "guild_war_area_name": "43995",
+    "guild_war_area_name": "43994",
     "guild_war_area_icon": "icon_guild_war_area_01",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_01",
     "guild_war_area_bg_path": "UI/Image/Loading/Default/Background",
@@ -22,7 +22,7 @@
   {
     "guild_war_area_id": 103,
     "guild_war_region_id": 1,
-    "guild_war_area_name": "43996",
+    "guild_war_area_name": "43995",
     "guild_war_area_icon": "icon_guild_war_area_01",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_01",
     "guild_war_area_bg_path": "UI/Image/Loading/Default/Background",
@@ -32,7 +32,7 @@
   {
     "guild_war_area_id": 104,
     "guild_war_region_id": 1,
-    "guild_war_area_name": "43997",
+    "guild_war_area_name": "43996",
     "guild_war_area_icon": "icon_guild_war_area_01",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_01",
     "guild_war_area_bg_path": "UI/Image/Loading/Default/Background",
@@ -42,7 +42,7 @@
   {
     "guild_war_area_id": 201,
     "guild_war_region_id": 2,
-    "guild_war_area_name": "43998",
+    "guild_war_area_name": "43997",
     "guild_war_area_icon": "icon_guild_war_area_02",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_02",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -52,7 +52,7 @@
   {
     "guild_war_area_id": 202,
     "guild_war_region_id": 2,
-    "guild_war_area_name": "43999",
+    "guild_war_area_name": "43998",
     "guild_war_area_icon": "icon_guild_war_area_02",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_02",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -62,7 +62,7 @@
   {
     "guild_war_area_id": 203,
     "guild_war_region_id": 2,
-    "guild_war_area_name": "44000",
+    "guild_war_area_name": "43999",
     "guild_war_area_icon": "icon_guild_war_area_02",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_02",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -72,7 +72,7 @@
   {
     "guild_war_area_id": 204,
     "guild_war_region_id": 2,
-    "guild_war_area_name": "44001",
+    "guild_war_area_name": "44000",
     "guild_war_area_icon": "icon_guild_war_area_02",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_02",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -82,7 +82,7 @@
   {
     "guild_war_area_id": 301,
     "guild_war_region_id": 3,
-    "guild_war_area_name": "44002",
+    "guild_war_area_name": "44001",
     "guild_war_area_icon": "icon_guild_war_area_03",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -92,7 +92,7 @@
   {
     "guild_war_area_id": 302,
     "guild_war_region_id": 3,
-    "guild_war_area_name": "44003",
+    "guild_war_area_name": "44002",
     "guild_war_area_icon": "icon_guild_war_area_03",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -102,7 +102,7 @@
   {
     "guild_war_area_id": 303,
     "guild_war_region_id": 3,
-    "guild_war_area_name": "44004",
+    "guild_war_area_name": "44003",
     "guild_war_area_icon": "icon_guild_war_area_03",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -112,7 +112,7 @@
   {
     "guild_war_area_id": 304,
     "guild_war_region_id": 3,
-    "guild_war_area_name": "44005",
+    "guild_war_area_name": "44004",
     "guild_war_area_icon": "icon_guild_war_area_03",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -122,7 +122,7 @@
   {
     "guild_war_area_id": 305,
     "guild_war_region_id": 3,
-    "guild_war_area_name": "44006",
+    "guild_war_area_name": "44005",
     "guild_war_area_icon": "icon_guild_war_area_03",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_03",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -132,7 +132,7 @@
   {
     "guild_war_area_id": 401,
     "guild_war_region_id": 4,
-    "guild_war_area_name": "44007",
+    "guild_war_area_name": "44006",
     "guild_war_area_icon": "icon_guild_war_area_04",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -142,7 +142,7 @@
   {
     "guild_war_area_id": 402,
     "guild_war_region_id": 4,
-    "guild_war_area_name": "44008",
+    "guild_war_area_name": "44007",
     "guild_war_area_icon": "icon_guild_war_area_04",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -152,7 +152,7 @@
   {
     "guild_war_area_id": 403,
     "guild_war_region_id": 4,
-    "guild_war_area_name": "44009",
+    "guild_war_area_name": "44008",
     "guild_war_area_icon": "icon_guild_war_area_04",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -162,7 +162,7 @@
   {
     "guild_war_area_id": 404,
     "guild_war_region_id": 4,
-    "guild_war_area_name": "44010",
+    "guild_war_area_name": "44009",
     "guild_war_area_icon": "icon_guild_war_area_04",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -172,7 +172,7 @@
   {
     "guild_war_area_id": 405,
     "guild_war_region_id": 4,
-    "guild_war_area_name": "44011",
+    "guild_war_area_name": "44010",
     "guild_war_area_icon": "icon_guild_war_area_04",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_04",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -182,7 +182,7 @@
   {
     "guild_war_area_id": 501,
     "guild_war_region_id": 5,
-    "guild_war_area_name": "44012",
+    "guild_war_area_name": "44011",
     "guild_war_area_icon": "icon_guild_war_area_05",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -192,7 +192,7 @@
   {
     "guild_war_area_id": 502,
     "guild_war_region_id": 5,
-    "guild_war_area_name": "44013",
+    "guild_war_area_name": "44012",
     "guild_war_area_icon": "icon_guild_war_area_05",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -202,7 +202,7 @@
   {
     "guild_war_area_id": 503,
     "guild_war_region_id": 5,
-    "guild_war_area_name": "44014",
+    "guild_war_area_name": "44013",
     "guild_war_area_icon": "icon_guild_war_area_05",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -212,7 +212,7 @@
   {
     "guild_war_area_id": 504,
     "guild_war_region_id": 5,
-    "guild_war_area_name": "44015",
+    "guild_war_area_name": "44014",
     "guild_war_area_icon": "icon_guild_war_area_05",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -222,7 +222,7 @@
   {
     "guild_war_area_id": 505,
     "guild_war_region_id": 5,
-    "guild_war_area_name": "44016",
+    "guild_war_area_name": "44015",
     "guild_war_area_icon": "icon_guild_war_area_05",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -232,7 +232,7 @@
   {
     "guild_war_area_id": 506,
     "guild_war_region_id": 5,
-    "guild_war_area_name": "44017",
+    "guild_war_area_name": "44016",
     "guild_war_area_icon": "icon_guild_war_area_05",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_05",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -242,7 +242,7 @@
   {
     "guild_war_area_id": 601,
     "guild_war_region_id": 6,
-    "guild_war_area_name": "44018",
+    "guild_war_area_name": "44017",
     "guild_war_area_icon": "icon_guild_war_area_06",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -252,7 +252,7 @@
   {
     "guild_war_area_id": 602,
     "guild_war_region_id": 6,
-    "guild_war_area_name": "44019",
+    "guild_war_area_name": "44018",
     "guild_war_area_icon": "icon_guild_war_area_06",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -262,7 +262,7 @@
   {
     "guild_war_area_id": 603,
     "guild_war_region_id": 6,
-    "guild_war_area_name": "44020",
+    "guild_war_area_name": "44019",
     "guild_war_area_icon": "icon_guild_war_area_06",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -272,7 +272,7 @@
   {
     "guild_war_area_id": 604,
     "guild_war_region_id": 6,
-    "guild_war_area_name": "44021",
+    "guild_war_area_name": "44020",
     "guild_war_area_icon": "icon_guild_war_area_06",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -282,7 +282,7 @@
   {
     "guild_war_area_id": 605,
     "guild_war_region_id": 6,
-    "guild_war_area_name": "44022",
+    "guild_war_area_name": "44021",
     "guild_war_area_icon": "icon_guild_war_area_06",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",
@@ -292,7 +292,7 @@
   {
     "guild_war_area_id": 606,
     "guild_war_region_id": 6,
-    "guild_war_area_name": "44023",
+    "guild_war_area_name": "44022",
     "guild_war_area_icon": "icon_guild_war_area_06",
     "guild_war_area_destroy_icon": "icon_guild_war_area_destroy_06",
     "guild_war_area_bg_path": "UI/Image/Loading/Update_M_12_E/Background",

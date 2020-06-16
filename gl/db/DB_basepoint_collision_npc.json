@@ -1722,7 +1722,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 1101,
     "npc_cinema_id": 0,
-    "guide_local": "5015"
+    "guide_local": "5004"
   },
   {
     "id": 101107,
@@ -1737,7 +1737,7 @@
     "npc_role": "warp_town_11",
     "npc_content_id": 1100301,
     "npc_cinema_id": 0,
-    "guide_local": "5016"
+    "guide_local": "5005"
   },
   {
     "id": 101108,
@@ -2142,7 +2142,7 @@
     "npc_role": "warp_room",
     "npc_content_id": 1201,
     "npc_cinema_id": 0,
-    "guide_local": "5196"
+    "guide_local": "5185"
   },
   {
     "id": 111204,
@@ -2157,7 +2157,7 @@
     "npc_role": "warp_town_12",
     "npc_content_id": 1200301,
     "npc_cinema_id": 0,
-    "guide_local": "5197"
+    "guide_local": "5186"
   },
   {
     "id": 101301,

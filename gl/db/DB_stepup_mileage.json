@@ -140,7 +140,7 @@
     "mileage_group": 5,
     "reward_order": 2,
     "stepup_mileage_value": 80,
-    "reward_item_id": 941011,
+    "reward_item_id": 941005,
     "reward_item_count": 6
   },
   {
@@ -156,7 +156,7 @@
     "mileage_group": 5,
     "reward_order": 4,
     "stepup_mileage_value": 150,
-    "reward_item_id": 510105,
-    "reward_item_count": 10
+    "reward_item_id": 311001,
+    "reward_item_count": 1
   }
 ]

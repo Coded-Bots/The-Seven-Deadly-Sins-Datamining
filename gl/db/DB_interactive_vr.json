@@ -9,7 +9,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 39117,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 39115,
-    "text_effect": "37119"
+    "text_effect": "37118"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 39116,
-    "text_effect": "37120"
+    "text_effect": "37119"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 39115,
-    "text_effect": "37121"
+    "text_effect": "37120"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 39116,
-    "text_effect": "37122"
+    "text_effect": "37121"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 39117,
-    "text_effect": "37123"
+    "text_effect": "37122"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 30110,
-    "text_effect": "37119"
+    "text_effect": "37118"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37123"
+    "text_effect": "37122"
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 30510,
-    "text_effect": "37119"
+    "text_effect": "37118"
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 30509,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37123"
+    "text_effect": "37122"
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37120"
+    "text_effect": "37119"
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 30514,
-    "text_effect": "37119"
+    "text_effect": "37118"
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 30512,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 30513,
-    "text_effect": "37119"
+    "text_effect": "37118"
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37118"
+    "text_effect": "37117"
   },
   {
     "id": 24,
@@ -285,6 +285,6 @@
     "reward_group_id": 10000,
     "effect": "",
     "sound_effect": 0,
-    "text_effect": "37123"
+    "text_effect": "37122"
   }
 ]
