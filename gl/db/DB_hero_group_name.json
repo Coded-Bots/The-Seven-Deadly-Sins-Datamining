@@ -96,7 +96,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_griamore_0011_01",
     "weapon_carve_hero_icon_folder": "griamore",
     "weapon_carve_hero_icon": "icon_skin_griamore_0011_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 12,
@@ -123,7 +123,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_alioni_0001_01",
     "weapon_carve_hero_icon_folder": "alioni",
     "weapon_carve_hero_icon": "icon_skin_alioni_0001_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 15,
@@ -384,7 +384,7 @@
     "weapon_carve_hero_portrait": "cut_in_special_melascula_0001_01",
     "weapon_carve_hero_icon_folder": "melascula",
     "weapon_carve_hero_icon": "icon_skin_melascula_0001_l",
-    "weapon_carve_hero_open": 0
+    "weapon_carve_hero_open": 1
   },
   {
     "id": 48,

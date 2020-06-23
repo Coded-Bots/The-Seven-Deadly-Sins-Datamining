@@ -1,5 +1,82 @@
 [
   {
+    "id": 25,
+    "category": 5,
+    "mission_type": "GuildBoss_Normal_Clear",
+    "mission_type_value": 0,
+    "mission_target_value": 10,
+    "target_progress_type": 0,
+    "reward_title": "24776",
+    "title_desc": "24807",
+    "title_hint": "41634"
+  },
+  {
+    "id": 26,
+    "category": 5,
+    "mission_type": "GuildBoss_Hard_Clear",
+    "mission_type_value": 0,
+    "mission_target_value": 10,
+    "target_progress_type": 0,
+    "reward_title": "24777",
+    "title_desc": "24808",
+    "title_hint": "41635"
+  },
+  {
+    "id": 27,
+    "category": 5,
+    "mission_type": "GuildBoss_Extreme_Clear",
+    "mission_type_value": 0,
+    "mission_target_value": 10,
+    "target_progress_type": 0,
+    "reward_title": "24778",
+    "title_desc": "24809",
+    "title_hint": "41636"
+  },
+  {
+    "id": 28,
+    "category": 5,
+    "mission_type": "GuildBoss_Guild_1",
+    "mission_type_value": 0,
+    "mission_target_value": 5,
+    "target_progress_type": 0,
+    "reward_title": "24779",
+    "title_desc": "24810",
+    "title_hint": "24832"
+  },
+  {
+    "id": 29,
+    "category": 5,
+    "mission_type": "GuildBoss_Normal_Point",
+    "mission_type_value": 0,
+    "mission_target_value": 1200,
+    "target_progress_type": 0,
+    "reward_title": "24780",
+    "title_desc": "24811",
+    "title_hint": "24833"
+  },
+  {
+    "id": 30,
+    "category": 5,
+    "mission_type": "GuildBoss_Hard_Point",
+    "mission_type_value": 0,
+    "mission_target_value": 1500,
+    "target_progress_type": 0,
+    "reward_title": "41449",
+    "title_desc": "41541",
+    "title_hint": "41637"
+  },
+  {
+    "id": 31,
+    "category": 5,
+    "mission_type": "GuildBoss_Extreme_Point",
+    "mission_type_value": 0,
+    "mission_target_value": 2000,
+    "target_progress_type": 0,
+    "reward_title": "24781",
+    "title_desc": "24812",
+    "title_hint": "41638"
+  },
+  {
     "id": 48,
     "category": 9,
     "mission_type": "FriendHero_Use",

@@ -390,6 +390,45 @@
     "mission_name": "24151"
   },
   {
+    "id": 250131,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 1,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 50,
+    "localize_display_type": 0,
+    "mission_name": "24180"
+  },
+  {
+    "id": 250132,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 1,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Mvp_Hero_Kind",
+    "mission_type_value": 3,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 100,
+    "localize_display_type": 0,
+    "mission_name": "24121"
+  },
+  {
+    "id": 250133,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 1,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 6,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 200,
+    "localize_display_type": 2,
+    "mission_name": "24115"
+  },
+  {
     "id": 250211,
     "season_id": 3,
     "season_group": 2,
@@ -466,6 +505,45 @@
     "guild_contribution_reward": 90,
     "localize_display_type": 0,
     "mission_name": "24121"
+  },
+  {
+    "id": 250231,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 2,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Mvp_Hero_Kind",
+    "mission_type_value": 1,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 50,
+    "localize_display_type": 0,
+    "mission_name": "24119"
+  },
+  {
+    "id": 250232,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 2,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Turn_Count",
+    "mission_type_value": 7,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 100,
+    "localize_display_type": 2,
+    "mission_name": "24115"
+  },
+  {
+    "id": 250233,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 2,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Max_Damage",
+    "mission_type_value": 200000,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 200,
+    "localize_display_type": 2,
+    "mission_name": "24142"
   },
   {
     "id": 250311,
@@ -546,6 +624,45 @@
     "mission_name": "40599"
   },
   {
+    "id": 250331,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 3,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Hero_Attribute",
+    "mission_type_value": 3,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 50,
+    "localize_display_type": 0,
+    "mission_name": "24173"
+  },
+  {
+    "id": 250332,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 3,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Hero_Alive",
+    "mission_type_value": 0,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 100,
+    "localize_display_type": 0,
+    "mission_name": "24180"
+  },
+  {
+    "id": 250333,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 3,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Over_HP",
+    "mission_type_value": 70,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 200,
+    "localize_display_type": 2,
+    "mission_name": "24151"
+  },
+  {
     "id": 250411,
     "season_id": 3,
     "season_group": 2,
@@ -620,6 +737,45 @@
     "mission_type_value": 150000,
     "mission_target_value": 1,
     "guild_contribution_reward": 90,
+    "localize_display_type": 2,
+    "mission_name": "24142"
+  },
+  {
+    "id": 250431,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 4,
+    "stage_id": 1033,
+    "mission_type": "stage_battle_over_skill_bust_count",
+    "mission_type_value": 3,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 50,
+    "localize_display_type": 2,
+    "mission_name": "40599"
+  },
+  {
+    "id": 250432,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 4,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Over_HP",
+    "mission_type_value": 50,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 100,
+    "localize_display_type": 2,
+    "mission_name": "24151"
+  },
+  {
+    "id": 250433,
+    "season_id": 3,
+    "season_group": 2,
+    "group_id": 4,
+    "stage_id": 1033,
+    "mission_type": "Stage_Battle_Max_Damage",
+    "mission_type_value": 300000,
+    "mission_target_value": 1,
+    "guild_contribution_reward": 200,
     "localize_display_type": 2,
     "mission_name": "24142"
   }

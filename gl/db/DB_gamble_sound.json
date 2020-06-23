@@ -116,7 +116,7 @@
     "hero_id": 1095003,
     "get_sound_1": 39724,
     "get_sound_2": 39725,
-    "dp_sound_1": 210042
+    "dp_sound_1": 210062
   },
   {
     "id": 18,
@@ -656,5 +656,131 @@
     "get_sound_1": 0,
     "get_sound_2": 0,
     "dp_sound_1": 238072
+  },
+  {
+    "id": 95,
+    "hero_id": 1585001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238082
+  },
+  {
+    "id": 96,
+    "hero_id": 1585002,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238086
+  },
+  {
+    "id": 97,
+    "hero_id": 1385002,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238027
+  },
+  {
+    "id": 98,
+    "hero_id": 1485001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 234032
+  },
+  {
+    "id": 99,
+    "hero_id": 1495001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 220001
+  },
+  {
+    "id": 100,
+    "hero_id": 1575001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238081
+  },
+  {
+    "id": 101,
+    "hero_id": 1575002,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238099
+  },
+  {
+    "id": 102,
+    "hero_id": 1675001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238122
+  },
+  {
+    "id": 103,
+    "hero_id": 1405002,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238028
+  },
+  {
+    "id": 104,
+    "hero_id": 1685001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238131
+  },
+  {
+    "id": 105,
+    "hero_id": 1395001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 201016
+  },
+  {
+    "id": 106,
+    "hero_id": 1555001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 237026
+  },
+  {
+    "id": 107,
+    "hero_id": 1695001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238153
+  },
+  {
+    "id": 108,
+    "hero_id": 1505002,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238094
+  },
+  {
+    "id": 109,
+    "hero_id": 1515002,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238135
+  },
+  {
+    "id": 110,
+    "hero_id": 1595001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238077
+  },
+  {
+    "id": 111,
+    "hero_id": 1745001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238091
+  },
+  {
+    "id": 112,
+    "hero_id": 1705001,
+    "get_sound_1": 0,
+    "get_sound_2": 0,
+    "dp_sound_1": 238165
   }
 ]

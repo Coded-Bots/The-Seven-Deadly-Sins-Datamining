@@ -65,6 +65,19 @@
     "content_link_check": 0
   },
   {
+    "id": 6,
+    "quicklink_name": "",
+    "quicklink_icon": "",
+    "content_type": "lobby",
+    "region": 255,
+    "area_id": 1,
+    "content_menu": "music",
+    "matching_area_end_id": 0,
+    "npc_id": 2012,
+    "weapon_item_id": 0,
+    "content_link_check": 0
+  },
+  {
     "id": 7,
     "quicklink_name": "3041",
     "quicklink_icon": "icon_shortcut_lobby_king",

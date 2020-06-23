@@ -69780,6 +69780,26 @@
     "sell_cost": 100
   },
   {
+    "item_id": 990108,
+    "item_icon": "icon_item_gb_event_drop_04",
+    "item_nickname": "",
+    "item_name": "47291",
+    "item_description": "47290",
+    "item_type": "event",
+    "item_type_description": "12466",
+    "item_display_group": 0,
+    "item_rating": 3,
+    "item_param_1": 0,
+    "item_param_2": 0,
+    "item_param_3": 0,
+    "item_param_4": 0,
+    "storage_on": 1,
+    "storage_group": 4,
+    "sell_on": 1,
+    "sell_id": 500012,
+    "sell_cost": 100
+  },
+  {
     "item_id": 910646,
     "item_icon": "icon_item_event_drop_pumpkincookie",
     "item_nickname": "",

@@ -6,7 +6,7 @@
     "event_type": 0,
     "event_sub_index": 0,
     "repulse_drop_item_id": 543101,
-    "repulse_drop_item_value": 4,
+    "repulse_drop_item_value": 2,
     "repulse_drop_item_box": 1
   },
   {
@@ -16,7 +16,7 @@
     "event_type": 0,
     "event_sub_index": 0,
     "repulse_drop_item_id": 543102,
-    "repulse_drop_item_value": 4,
+    "repulse_drop_item_value": 2,
     "repulse_drop_item_box": 1
   },
   {
@@ -26,7 +26,7 @@
     "event_type": 0,
     "event_sub_index": 0,
     "repulse_drop_item_id": 543103,
-    "repulse_drop_item_value": 4,
+    "repulse_drop_item_value": 2,
     "repulse_drop_item_box": 1
   }
 ]

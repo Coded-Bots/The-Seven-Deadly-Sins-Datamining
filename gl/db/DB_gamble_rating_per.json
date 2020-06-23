@@ -214,5 +214,41 @@
     "rating_3": 60,
     "rating_4": 37,
     "rating_5": 3
+  },
+  {
+    "id": 1018,
+    "gamble_group": 5018,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 1019,
+    "gamble_group": 5019,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 0,
+    "rating_4": 0,
+    "rating_5": 100
+  },
+  {
+    "id": 1020,
+    "gamble_group": 5020,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
+  },
+  {
+    "id": 1021,
+    "gamble_group": 5021,
+    "rating_1": 0,
+    "rating_2": 0,
+    "rating_3": 60,
+    "rating_4": 37,
+    "rating_5": 3
   }
 ]

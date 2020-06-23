@@ -60,6 +60,16 @@
     "costume_resale": 1
   },
   {
+    "id": 17,
+    "menu_type": "event_costume",
+    "menu_title": "3171",
+    "scroll_type": "horizontal_scroll",
+    "shop_type": 17,
+    "banner_image": "costumeshop_banner_25_blind_001",
+    "costume_story_id": 3,
+    "costume_resale": 1
+  },
+  {
     "id": 16,
     "menu_type": "event_costume",
     "menu_title": "3171",

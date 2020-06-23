@@ -10,8 +10,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-02 00:00:00",
-    "buy_limited_end": "2020-06-08 23:59:00"
+    "buy_limited_start": "2020-07-07 00:00:00",
+    "buy_limited_end": "2020-07-13 23:59:00"
   },
   {
     "id": 19,
@@ -24,8 +24,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-02 00:00:00",
-    "buy_limited_end": "2020-06-08 23:59:00"
+    "buy_limited_start": "2020-07-07 00:00:00",
+    "buy_limited_end": "2020-07-13 23:59:00"
   },
   {
     "id": 11,
@@ -38,8 +38,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-09 00:00:00",
-    "buy_limited_end": "2020-06-15 23:59:00"
+    "buy_limited_start": "2020-07-14 00:00:00",
+    "buy_limited_end": "2020-07-20 23:59:00"
   },
   {
     "id": 12,
@@ -52,8 +52,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-09 00:00:00",
-    "buy_limited_end": "2020-06-15 23:59:00"
+    "buy_limited_start": "2020-07-14 00:00:00",
+    "buy_limited_end": "2020-07-20 23:59:00"
   },
   {
     "id": 20,
@@ -66,8 +66,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-09 00:00:00",
-    "buy_limited_end": "2020-06-15 23:59:00"
+    "buy_limited_start": "2020-07-14 00:00:00",
+    "buy_limited_end": "2020-07-20 23:59:00"
   },
   {
     "id": 13,
@@ -80,8 +80,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-16 00:00:00",
-    "buy_limited_end": "2020-06-22 23:59:00"
+    "buy_limited_start": "2020-07-21 00:00:00",
+    "buy_limited_end": "2020-07-28 23:59:00"
   },
   {
     "id": 14,
@@ -94,8 +94,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-16 00:00:00",
-    "buy_limited_end": "2020-06-22 23:59:00"
+    "buy_limited_start": "2020-07-21 00:00:00",
+    "buy_limited_end": "2020-07-28 23:59:00"
   },
   {
     "id": 15,
@@ -136,8 +136,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-05-26 00:00:00",
-    "buy_limited_end": "2020-06-01 23:59:00"
+    "buy_limited_start": "2020-06-30 00:00:00",
+    "buy_limited_end": "2020-07-06 23:59:00"
   },
   {
     "id": 18,
@@ -150,8 +150,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-05-26 00:00:00",
-    "buy_limited_end": "2020-06-01 23:59:00"
+    "buy_limited_start": "2020-06-30 00:00:00",
+    "buy_limited_end": "2020-07-06 23:59:00"
   },
   {
     "id": 211,
@@ -164,8 +164,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-09 00:00:00",
-    "buy_limited_end": "2020-06-15 23:59:00"
+    "buy_limited_start": "2020-07-14 00:00:00",
+    "buy_limited_end": "2020-07-20 23:59:00"
   },
   {
     "id": 212,
@@ -178,8 +178,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-09 00:00:00",
-    "buy_limited_end": "2020-06-15 23:59:00"
+    "buy_limited_start": "2020-07-14 00:00:00",
+    "buy_limited_end": "2020-07-20 23:59:00"
   },
   {
     "id": 213,
@@ -192,8 +192,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-16 00:00:00",
-    "buy_limited_end": "2020-06-22 23:59:00"
+    "buy_limited_start": "2020-07-21 00:00:00",
+    "buy_limited_end": "2020-07-28 23:59:00"
   },
   {
     "id": 214,
@@ -206,8 +206,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-16 00:00:00",
-    "buy_limited_end": "2020-06-22 23:59:00"
+    "buy_limited_start": "2020-07-21 00:00:00",
+    "buy_limited_end": "2020-07-28 23:59:00"
   },
   {
     "id": 215,
@@ -248,8 +248,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-05-26 00:00:00",
-    "buy_limited_end": "2020-06-01 23:59:00"
+    "buy_limited_start": "2020-06-30 00:00:00",
+    "buy_limited_end": "2020-07-06 23:59:00"
   },
   {
     "id": 218,
@@ -262,8 +262,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-05-26 00:00:00",
-    "buy_limited_end": "2020-06-01 23:59:00"
+    "buy_limited_start": "2020-06-30 00:00:00",
+    "buy_limited_end": "2020-07-06 23:59:00"
   },
   {
     "id": 219,
@@ -276,8 +276,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-02 00:00:00",
-    "buy_limited_end": "2020-06-08 23:59:00"
+    "buy_limited_start": "2020-07-07 00:00:00",
+    "buy_limited_end": "2020-07-13 23:59:00"
   },
   {
     "id": 220,
@@ -290,8 +290,8 @@
     "skin_discount": 0,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-02 00:00:00",
-    "buy_limited_end": "2020-06-08 23:59:00"
+    "buy_limited_start": "2020-07-07 00:00:00",
+    "buy_limited_end": "2020-07-13 23:59:00"
   },
   {
     "id": 316,
@@ -332,8 +332,8 @@
     "skin_discount": 20,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-05-26 00:00:00",
-    "buy_limited_end": "2020-06-01 23:59:00"
+    "buy_limited_start": "2020-07-21 00:00:00",
+    "buy_limited_end": "2020-07-28 23:59:00"
   },
   {
     "id": 319,
@@ -346,8 +346,8 @@
     "skin_discount": 20,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-05-26 00:00:00",
-    "buy_limited_end": "2020-06-01 23:59:00"
+    "buy_limited_start": "2020-07-21 00:00:00",
+    "buy_limited_end": "2020-07-28 23:59:00"
   },
   {
     "id": 320,
@@ -514,8 +514,8 @@
     "skin_discount": 1200,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-09 00:00:00",
-    "buy_limited_end": "2020-06-15 23:59:00"
+    "buy_limited_start": "2020-07-14 00:00:00",
+    "buy_limited_end": "2020-07-20 23:59:00"
   },
   {
     "id": 402,
@@ -528,8 +528,8 @@
     "skin_discount": 1200,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-09 00:00:00",
-    "buy_limited_end": "2020-06-15 23:59:00"
+    "buy_limited_start": "2020-07-14 00:00:00",
+    "buy_limited_end": "2020-07-20 23:59:00"
   },
   {
     "id": 403,
@@ -542,8 +542,8 @@
     "skin_discount": 1200,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-16 00:00:00",
-    "buy_limited_end": "2020-06-22 23:59:00"
+    "buy_limited_start": "2020-07-21 00:00:00",
+    "buy_limited_end": "2020-07-28 23:59:00"
   },
   {
     "id": 404,
@@ -556,8 +556,8 @@
     "skin_discount": 1200,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-16 00:00:00",
-    "buy_limited_end": "2020-06-22 23:59:00"
+    "buy_limited_start": "2020-07-21 00:00:00",
+    "buy_limited_end": "2020-07-28 23:59:00"
   },
   {
     "id": 405,
@@ -598,8 +598,8 @@
     "skin_discount": 1200,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-05-26 00:00:00",
-    "buy_limited_end": "2020-06-01 23:59:00"
+    "buy_limited_start": "2020-06-30 00:00:00",
+    "buy_limited_end": "2020-07-06 23:59:00"
   },
   {
     "id": 408,
@@ -612,8 +612,8 @@
     "skin_discount": 1200,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-05-26 00:00:00",
-    "buy_limited_end": "2020-06-01 23:59:00"
+    "buy_limited_start": "2020-06-30 00:00:00",
+    "buy_limited_end": "2020-07-06 23:59:00"
   },
   {
     "id": 409,
@@ -626,7 +626,7 @@
     "skin_discount": 1200,
     "buy_limited_count": 1,
     "sale_limited_group": 0,
-    "buy_limited_start": "2020-06-02 00:00:00",
-    "buy_limited_end": "2020-06-08 23:59:00"
+    "buy_limited_start": "2020-07-07 00:00:00",
+    "buy_limited_end": "2020-07-13 23:59:00"
   }
 ]

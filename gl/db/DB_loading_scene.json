@@ -7796,7 +7796,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_12_Second/Character",
     "resource_loading_scene": "loading_2D_character_drole_UR_01",
     "loading_title": "17343",
-    "loading_desc": "",
+    "loading_desc": "47684",
     "loading_hero": 1545001
   },
   {
@@ -7805,7 +7805,7 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_13/Character",
     "resource_loading_scene": "loading_2D_character_drole_UR_02",
-    "loading_title": "",
+    "loading_title": "47597",
     "loading_desc": "",
     "loading_hero": 1545002
   },
@@ -9036,7 +9036,7 @@
     "loading_scene_path": "UI/Image/Loading/Update_M_12_Second/Character",
     "resource_loading_scene": "loading_2D_character_drole_UR_01",
     "loading_title": "17343",
-    "loading_desc": "",
+    "loading_desc": "47684",
     "loading_hero": 1545001
   },
   {
@@ -9045,7 +9045,7 @@
     "loading_type": 1,
     "loading_scene_path": "UI/Image/Loading/Update_M_13/Character",
     "resource_loading_scene": "loading_2D_character_drole_UR_02",
-    "loading_title": "",
+    "loading_title": "47597",
     "loading_desc": "",
     "loading_hero": 1545002
   },
