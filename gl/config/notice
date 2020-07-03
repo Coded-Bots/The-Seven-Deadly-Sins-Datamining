@@ -2,17 +2,17 @@
     "android": {
         "enable": true, 
         "message_string": "ERROR_upper_allows_version", 
-        "start_utc": "Tue, 23 Jun 2020 05:00:00 GMT", 
+        "start_utc": "Tue, 30 Jun 2020 05:00:00 GMT", 
         "title_string": " ", 
-        "end_utc": "Tue, 23 Jun 2020 07:30:00 GMT", 
+        "end_utc": "Tue, 30 Jun 2020 07:30:00 GMT", 
         "print_period": true
     }, 
     "ios": {
         "enable": true, 
         "message_string": "ERROR_upper_allows_version", 
-        "start_utc": "Tue, 23 Jun 2020 05:00:00 GMT", 
+        "start_utc": "Tue, 30 Jun 2020 05:00:00 GMT", 
         "title_string": " ", 
-        "end_utc": "Tue, 23 Jun 2020 07:30:00 GMT", 
+        "end_utc": "Tue, 30 Jun 2020 07:30:00 GMT", 
         "print_period": true
     }
 }
