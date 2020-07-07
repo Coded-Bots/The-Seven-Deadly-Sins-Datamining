@@ -18,8 +18,12 @@
         ]
     }, 
     "redirect": {
-        "android": {}, 
-        "ios": {}
+        "android": {
+            "1.1.2": "submit"
+        }, 
+        "ios": {
+            "1.1.2": "submit"
+        }
     }, 
     "region": {
         "asia": [
@@ -78,13 +82,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_sptkmfvjs4rmfhq", 
             "download_retry_times": 5, 
-            "version": "121"
+            "version": "126"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_sptkmfvjs4rmfhq", 
             "download_retry_times": 5, 
-            "version": "121"
+            "version": "126"
         }
     }, 
     "version": {
