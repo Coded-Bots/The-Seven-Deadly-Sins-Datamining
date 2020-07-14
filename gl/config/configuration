@@ -82,13 +82,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_sptkmfvjs4rmfhq", 
             "download_retry_times": 5, 
-            "version": "126"
+            "version": "130"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_sptkmfvjs4rmfhq", 
             "download_retry_times": 5, 
-            "version": "126"
+            "version": "130"
         }
     }, 
     "version": {
