@@ -18,10 +18,7 @@
         ]
     }, 
     "redirect": {
-        "android": {
-            "1.1.5": "submit", 
-            "1.1.6": "submit"
-        }, 
+        "android": {}, 
         "ios": {}
     }, 
     "region": {
@@ -93,7 +90,7 @@
     "version": {
         "android": {
             "forced_update": "1.1.2", 
-            "max_allows": "1.1.3", 
+            "max_allows": "1.1.6", 
             "recommended_update": ""
         }, 
         "ios": {
