@@ -19,13 +19,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_a5zf4b5p3gvnx", 
             "download_retry_times": 5, 
-            "version": "1851"
+            "version": "1853"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_a5zf4b5p3gvnx", 
             "download_retry_times": 5, 
-            "version": "1851"
+            "version": "1853"
         }
     }, 
     "version": {
