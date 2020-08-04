@@ -78,13 +78,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_srbvsn72ghdxv", 
             "download_retry_times": 5, 
-            "version": "160"
+            "version": "162"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_srbvsn72ghdxv", 
             "download_retry_times": 5, 
-            "version": "160"
+            "version": "162"
         }
     }, 
     "version": {
