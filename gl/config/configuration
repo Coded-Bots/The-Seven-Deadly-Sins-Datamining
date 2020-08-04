@@ -89,7 +89,7 @@
     }, 
     "version": {
         "android": {
-            "forced_update": "1.1.6", 
+            "forced_update": "1.1.7", 
             "max_allows": "1.1.8", 
             "recommended_update": ""
         }, 
