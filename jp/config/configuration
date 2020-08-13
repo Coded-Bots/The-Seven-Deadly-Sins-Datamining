@@ -11,9 +11,7 @@
         ]
     }, 
     "redirect": {
-        "android": {
-            "1.2.10": "submit"
-        }, 
+        "android": {}, 
         "ios": {
             "1.2.10": "submit"
         }
@@ -35,7 +33,7 @@
     "version": {
         "android": {
             "forced_update": "1.2.8", 
-            "max_allows": "1.2.9", 
+            "max_allows": "1.2.10", 
             "recommended_update": ""
         }, 
         "ios": {
