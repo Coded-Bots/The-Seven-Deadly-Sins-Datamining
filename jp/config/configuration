@@ -34,7 +34,7 @@
         "android": {
             "forced_update": "1.2.8", 
             "max_allows": "1.2.10", 
-            "recommended_update": ""
+            "recommended_update": "1.2.9"
         }, 
         "ios": {
             "forced_update": "1.2.6", 
