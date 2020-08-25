@@ -76,26 +76,26 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_subvsn87ghggq", 
+            "relative_sub": "_suc1qjkrqxgz2", 
             "download_retry_times": 5, 
-            "version": "182"
+            "version": "190"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_subvsn87ghggq", 
+            "relative_sub": "_suc1qjkrqxgz2", 
             "download_retry_times": 5, 
-            "version": "182"
+            "version": "190"
         }
     }, 
     "version": {
         "android": {
-            "forced_update": "1.1.7", 
-            "max_allows": "1.1.8", 
+            "forced_update": "1.1.8", 
+            "max_allows": "1.1.9", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.1.6", 
-            "max_allows": "1.1.8", 
+            "forced_update": "1.1.8", 
+            "max_allows": "1.1.9", 
             "recommended_update": ""
         }
     }, 
