@@ -12,7 +12,9 @@
     }, 
     "redirect": {
         "android": {}, 
-        "ios": {}
+        "ios": {
+            "1.2.12": "submit"
+        }
     }, 
     "patch": {
         "android": {
@@ -31,7 +33,7 @@
     "version": {
         "android": {
             "forced_update": "1.2.10", 
-            "max_allows": "1.2.11", 
+            "max_allows": "1.2.13", 
             "recommended_update": ""
         }, 
         "ios": {
