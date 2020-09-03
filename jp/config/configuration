@@ -19,23 +19,23 @@
             "timeout_sec": 15, 
             "relative_sub": "_e1oxlwg2n55cu", 
             "download_retry_times": 5, 
-            "version": "1894"
+            "version": "1901"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_e1oxlwg2n55cu", 
             "download_retry_times": 5, 
-            "version": "1894"
+            "version": "1901"
         }
     }, 
     "version": {
         "android": {
-            "forced_update": "1.2.10", 
+            "forced_update": "1.2.12", 
             "max_allows": "1.2.13", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.2.10", 
+            "forced_update": "1.2.11", 
             "max_allows": "1.2.12", 
             "recommended_update": ""
         }
