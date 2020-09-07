@@ -11,8 +11,12 @@
         ]
     }, 
     "redirect": {
-        "android": {}, 
-        "ios": {}
+        "android": {
+            "1.2.14": "submit"
+        }, 
+        "ios": {
+            "1.2.14": "submit"
+        }
     }, 
     "patch": {
         "android": {
