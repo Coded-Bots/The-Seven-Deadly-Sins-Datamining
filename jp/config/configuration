@@ -2,7 +2,7 @@
     "world2": {
         "world_info": [
             {
-                "ip": "gs-nanatsunotaizai-real.netmarble.com", 
+                "ip": "gs-nanatsunotaizai-cz.netmarble.com", 
                 "region": "", 
                 "world_id": "", 
                 "name": "REAL", 
@@ -13,20 +13,6 @@
     "redirect": {
         "android": {}, 
         "ios": {}
-    }, 
-    "patch": {
-        "android": {
-            "timeout_sec": 15, 
-            "relative_sub": "_eboxlwg2n55hh", 
-            "download_retry_times": 5, 
-            "version": "1912"
-        }, 
-        "ios": {
-            "timeout_sec": 15, 
-            "relative_sub": "_eboxlwg2n55hh", 
-            "download_retry_times": 5, 
-            "version": "1912"
-        }
     }, 
     "version": {
         "android": {
@@ -39,17 +25,6 @@
             "max_allows": "1.2.14", 
             "recommended_update": ""
         }
-    }, 
-    "world": {
-        "world_info": [
-            {
-                "port": 23071, 
-                "ip": "gs-nanatsunotaizai-real.netmarble.com", 
-                "type": "live", 
-                "id": 1001, 
-                "name": "REAL"
-            }
-        ]
     }, 
     "contents": {
         "android": {
@@ -93,6 +68,20 @@
             "on_live_streaming_platform": true, 
             "on_open_probability": true, 
             "on_secret_mode": false
+        }
+    }, 
+    "patch": {
+        "android": {
+            "timeout_sec": 15, 
+            "relative_sub": "_eboxlwg2n55hh", 
+            "download_retry_times": 5, 
+            "version": "1920"
+        }, 
+        "ios": {
+            "timeout_sec": 15, 
+            "relative_sub": "_eboxlwg2n55hh", 
+            "download_retry_times": 5, 
+            "version": "1920"
         }
     }
 }
