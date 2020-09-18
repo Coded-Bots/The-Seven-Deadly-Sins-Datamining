@@ -19,9 +19,7 @@
     }, 
     "redirect": {
         "android": {}, 
-        "ios": {
-            "1.1.10": "submit"
-        }
+        "ios": {}
     }, 
     "region": {
         "asia": [
