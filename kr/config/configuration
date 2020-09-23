@@ -1,0 +1,97 @@
+{
+    "world2": {
+        "world_info": [
+            {
+                "ip": "gs-nanakr-cz.netmarble.com", 
+                "region": "", 
+                "world_id": "", 
+                "name": "REAL", 
+                "port": 23071
+            }
+        ]
+    }, 
+    "redirect": {
+        "android": {
+            "1.2.15": "submit"
+        }, 
+        "ios": {
+            "1.2.15": "submit"
+        }
+    }, 
+    "version": {
+        "android": {
+            "forced_update": "1.2.13", 
+            "max_allows": "1.2.14", 
+            "recommended_update": ""
+        }, 
+        "ios": {
+            "forced_update": "1.2.13", 
+            "max_allows": "1.2.14", 
+            "recommended_update": ""
+        }
+    }, 
+    "contents": {
+        "android": {
+            "on_connect_facebook": false, 
+            "check_security": true, 
+            "on_induce_connect_channel": true, 
+            "on_open_probability": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "on_secret_mode": false, 
+            "ingame_replay_version": 1, 
+            "on_tune": true, 
+            "on_siwa": false, 
+            "is_realzone": true, 
+            "on_live_streaming_platform": false, 
+            "on_fake_ad": false, 
+            "on_elizabeth_touch_interactive": false, 
+            "on_cooling_off": true, 
+            "fake_ad_location": 0, 
+            "on_review": true, 
+            "use_breadcrumb": true, 
+            "update_due_date": "2019-06-19 05:00:00 GMT", 
+            "use_crash_report": true, 
+            "on_kochava": true, 
+            "use_coupon": true
+        }, 
+        "ios": {
+            "on_connect_facebook": false, 
+            "check_security": true, 
+            "on_induce_connect_channel": true, 
+            "on_open_probability": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "on_secret_mode": false, 
+            "ingame_replay_version": 1, 
+            "on_tune": true, 
+            "on_siwa": false, 
+            "is_realzone": true, 
+            "on_live_streaming_platform": false, 
+            "on_fake_ad": false, 
+            "on_elizabeth_touch_interactive": false, 
+            "on_cooling_off": true, 
+            "fake_ad_location": 0, 
+            "on_review": true, 
+            "use_breadcrumb": true, 
+            "update_due_date": "2019-06-19 05:00:00 GMT", 
+            "use_crash_report": true, 
+            "on_kochava": true, 
+            "use_coupon": false
+        }
+    }, 
+    "patch": {
+        "android": {
+            "timeout_sec": 15, 
+            "relative_sub": "_eboxlwg2n55hh", 
+            "download_retry_times": 5, 
+            "version": "1920"
+        }, 
+        "ios": {
+            "timeout_sec": 15, 
+            "relative_sub": "_eboxlwg2n55hh", 
+            "download_retry_times": 5, 
+            "version": "1920"
+        }
+    }
+}
