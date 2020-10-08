@@ -75,13 +75,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_eetnwwf3013dp", 
             "download_retry_times": 5, 
-            "version": "1941"
+            "version": "1942"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_eetnwwf3013dp", 
             "download_retry_times": 5, 
-            "version": "1941"
+            "version": "1942"
         }
     }
 }
