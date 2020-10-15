@@ -4,7 +4,7 @@
         "message_string": "모험가님의 즐겁고 안전한 모험을 위해\\n점검 진행 중 입니다. \\n\\n(점검 예정 시간)", 
         "start_utc": "Thu, 15 Oct 2020 00:00:00 GMT", 
         "title_string": " ", 
-        "end_utc": "Thu, 15 Oct 2020 03:00:00 GMT", 
+        "end_utc": "Thu, 15 Oct 2020 03:30:00 GMT", 
         "print_period": true
     }, 
     "ios": {
@@ -12,7 +12,7 @@
         "message_string": "모험가님의 즐겁고 안전한 모험을 위해\\n점검 진행 중 입니다. \\n\\n(점검 예정 시간)", 
         "start_utc": "Thu, 15 Oct 2020 00:00:00 GMT", 
         "title_string": " ", 
-        "end_utc": "Thu, 15 Oct 2020 03:00:00 GMT", 
+        "end_utc": "Thu, 15 Oct 2020 03:30:00 GMT", 
         "print_period": true
     }
 }
