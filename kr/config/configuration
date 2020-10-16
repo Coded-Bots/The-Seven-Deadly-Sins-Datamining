@@ -16,12 +16,12 @@
     }, 
     "version": {
         "android": {
-            "forced_update": "1.2.16", 
+            "forced_update": "1.2.17", 
             "max_allows": "1.2.18", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.2.16", 
+            "forced_update": "1.2.17", 
             "max_allows": "1.2.18", 
             "recommended_update": ""
         }
@@ -81,13 +81,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_effqrtcf1118op", 
             "download_retry_times": 5, 
-            "version": "1952"
+            "version": "1957"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_effqrtcf1118op", 
             "download_retry_times": 5, 
-            "version": "1952"
+            "version": "1957"
         }
     }
 }
