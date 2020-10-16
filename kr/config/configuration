@@ -11,22 +11,18 @@
         ]
     }, 
     "redirect": {
-        "android": {
-            "1.2.18": "submit"
-        }, 
-        "ios": {
-            "1.2.18": "submit"
-        }
+        "android": {}, 
+        "ios": {}
     }, 
     "version": {
         "android": {
             "forced_update": "1.2.16", 
-            "max_allows": "1.2.17", 
+            "max_allows": "1.2.18", 
             "recommended_update": ""
         }, 
         "ios": {
             "forced_update": "1.2.16", 
-            "max_allows": "1.2.17", 
+            "max_allows": "1.2.18", 
             "recommended_update": ""
         }
     }, 
