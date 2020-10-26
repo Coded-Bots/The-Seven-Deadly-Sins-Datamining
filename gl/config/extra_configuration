@@ -3,5 +3,5 @@
     "on_low_spec_forced_termination": false, 
     "wide_support_device": [], 
     "use_ss_adaptive_performance": false, 
-    "use_print_log": false
+    "use_print_log": true
 }
