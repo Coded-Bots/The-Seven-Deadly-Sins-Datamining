@@ -2,10 +2,23 @@
     "world2": {
         "world_info": [
             {
+                "name": "REAL", 
+                "chatkit_setting": {
+                    "restapi_server": "https://gs-nanatsunotaizai-chatapi-cz.netmarble.com/funsdk/", 
+                    "name": "nana-kr", 
+                    "xmpp_host": "", 
+                    "xmpp_port": "", 
+                    "xmpp_vhost": "", 
+                    "project_key": "nana-kr", 
+                    "server_port": "5222", 
+                    "server_host": "https://gs-nanatsunotaizai-chatapi-cz.netmarble.com/funsdk/", 
+                    "server_ip": "gs-nanatsunotaizai-chat-cz.netmarble.com", 
+                    "service_key": "Z2qLnVERwLFxZZwBzrpyCWZ99MS5y90H", 
+                    "client_key": "CMMJjq6iiSDfUaVAj8wBQNkOhnZXO6OA"
+                }, 
                 "ip": "gs-nanakr-cz.netmarble.com", 
                 "region": "", 
                 "world_id": "", 
-                "name": "REAL", 
                 "port": 23071
             }
         ]
