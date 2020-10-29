@@ -30,7 +30,7 @@
     "version": {
         "android": {
             "forced_update": "1.2.18", 
-            "max_allows": "1.2.20", 
+            "max_allows": "1.2.19", 
             "recommended_update": ""
         }, 
         "ios": {
