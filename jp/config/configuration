@@ -2,31 +2,40 @@
     "world2": {
         "world_info": [
             {
+                "name": "REAL", 
+                "chatkit_setting": {
+                    "restapi_server": "https://gs-nanatsunotaizai-chatapi-cz.netmarble.com/funsdk/", 
+                    "name": "nana-jp", 
+                    "xmpp_host": "", 
+                    "xmpp_port": "", 
+                    "xmpp_vhost": "", 
+                    "project_key": "nana-jp", 
+                    "server_port": "5222", 
+                    "server_host": "https://gs-nanatsunotaizai-chatapi-cz.netmarble.com/funsdk/", 
+                    "server_ip": "gs-nanatsunotaizai-chat-cz.netmarble.com", 
+                    "service_key": "NvD7HqPCyl8DGD9m7obTslOKO8XmENrc", 
+                    "client_key": "cUnsNZgjJSY2HB9M7OlN9Ei9rTFGUMya"
+                }, 
                 "ip": "gs-nanatsunotaizai-cz.netmarble.com", 
                 "region": "", 
                 "world_id": "", 
-                "name": "REAL", 
                 "port": 23071
             }
         ]
     }, 
     "redirect": {
-        "android": {
-            "1.2.19": "submit"
-        }, 
-        "ios": {
-            "1.2.19": "submit"
-        }
+        "android": {}, 
+        "ios": {}
     }, 
     "version": {
         "android": {
-            "forced_update": "1.2.17", 
-            "max_allows": "1.2.18", 
+            "forced_update": "1.2.18", 
+            "max_allows": "1.2.19", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.2.17", 
-            "max_allows": "1.2.18", 
+            "forced_update": "1.2.18", 
+            "max_allows": "1.2.19", 
             "recommended_update": ""
         }
     }, 
@@ -77,15 +86,15 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_effqrtcf1118op", 
+            "relative_sub": "_eggioacn2121qq", 
             "download_retry_times": 5, 
-            "version": "1964"
+            "version": "1970"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_effqrtcf1118op", 
+            "relative_sub": "_eggioacn2121qq", 
             "download_retry_times": 5, 
-            "version": "1964"
+            "version": "1970"
         }
     }
 }
