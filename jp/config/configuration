@@ -7,7 +7,7 @@
                     "restapi_server": "https://gs-nanatsunotaizai-chatapi-cz.netmarble.com/funsdk/", 
                     "name": "nana-jp", 
                     "xmpp_host": "", 
-                    "xmpp_port": "", 
+                    "xmpp_port": "0", 
                     "xmpp_vhost": "", 
                     "project_key": "nana-jp", 
                     "server_port": "5222", 
