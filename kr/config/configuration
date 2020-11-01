@@ -94,13 +94,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_eggioacn2121qq", 
             "download_retry_times": 5, 
-            "version": "1972"
+            "version": "1973"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_eggioacn2121qq", 
             "download_retry_times": 5, 
-            "version": "1972"
+            "version": "1973"
         }
     }
 }
