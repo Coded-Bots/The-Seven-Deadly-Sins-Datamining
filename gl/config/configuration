@@ -89,13 +89,13 @@
     }, 
     "version": {
         "android": {
-            "forced_update": "1.1.10", 
-            "max_allows": "1.1.11", 
+            "forced_update": "1.1.12", 
+            "max_allows": "1.1.12", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.1.10", 
-            "max_allows": "1.1.11", 
+            "forced_update": "1.1.12", 
+            "max_allows": "1.1.12", 
             "recommended_update": ""
         }
     }, 
