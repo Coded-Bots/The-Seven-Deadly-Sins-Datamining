@@ -89,12 +89,12 @@
     }, 
     "version": {
         "android": {
-            "forced_update": "1.1.12", 
+            "forced_update": "1.1.11", 
             "max_allows": "1.1.12", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.1.12", 
+            "forced_update": "1.1.11", 
             "max_allows": "1.1.12", 
             "recommended_update": ""
         }
