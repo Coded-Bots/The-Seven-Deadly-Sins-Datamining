@@ -25,7 +25,7 @@
     }, 
     "redirect": {
         "android": {
-            "1.2.20": "submit"
+            "1.2.21": "submit"
         }, 
         "ios": {
             "1.2.20": "submit"
