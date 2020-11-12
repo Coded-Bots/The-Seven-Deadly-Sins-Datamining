@@ -29,8 +29,8 @@
     }, 
     "version": {
         "android": {
-            "forced_update": "1.2.19", 
-            "max_allows": "1.2.20", 
+            "forced_update": "1.2.20", 
+            "max_allows": "1.2.21", 
             "recommended_update": ""
         }, 
         "ios": {
