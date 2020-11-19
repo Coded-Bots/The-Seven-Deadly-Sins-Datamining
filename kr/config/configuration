@@ -94,13 +94,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_eggkaczz94m11", 
             "download_retry_times": 5, 
-            "version": "1993"
+            "version": "2000"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_eggkaczz94m11", 
             "download_retry_times": 5, 
-            "version": "1993"
+            "version": "2000"
         }
     }
 }
