@@ -76,15 +76,15 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_szwanqx91gvz3", 
+            "relative_sub": "_szwanqx99gvz1", 
             "download_retry_times": 5, 
-            "version": "266"
+            "version": "270"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_szwanqx91gvz3", 
+            "relative_sub": "_szwanqx99gvz1", 
             "download_retry_times": 5, 
-            "version": "266"
+            "version": "270"
         }
     }, 
     "version": {
