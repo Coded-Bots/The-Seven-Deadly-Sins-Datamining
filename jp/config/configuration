@@ -88,13 +88,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_ehgqacuu123hi", 
             "download_retry_times": 5, 
-            "version": "2015"
+            "version": "2016"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_ehgqacuu123hi", 
             "download_retry_times": 5, 
-            "version": "2015"
+            "version": "2016"
         }
     }
 }
