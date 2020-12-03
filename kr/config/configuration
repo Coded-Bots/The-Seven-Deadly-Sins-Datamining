@@ -94,13 +94,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_ehgqacuu123hi", 
             "download_retry_times": 5, 
-            "version": "2020"
+            "version": "2021"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_ehgqacuu123hi", 
             "download_retry_times": 5, 
-            "version": "2020"
+            "version": "2021"
         }
     }
 }
