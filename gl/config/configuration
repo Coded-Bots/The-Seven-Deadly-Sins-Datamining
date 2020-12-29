@@ -2,28 +2,54 @@
     "world2": {
         "world_info": [
             {
+                "name": "GLOBAL", 
+                "chatkit_setting": {
+                    "restapi_server": "https://gs-nanatsunotaizai-chatapi-cz.netmarble.com/funsdk/", 
+                    "name": "nana-gb", 
+                    "xmpp_host": "", 
+                    "xmpp_port": "0", 
+                    "xmpp_vhost": "", 
+                    "project_key": "nana-gb", 
+                    "server_port": "5222", 
+                    "server_host": "", 
+                    "server_ip": "gs-nanatsunotaizai-chat-cz.netmarble.com", 
+                    "service_key": "iS9S3pZlMlz5QpepcNrEWD3HY5hMWR9A", 
+                    "id": "0", 
+                    "client_key": "TnZP0c2ng4qPIQbFyTYlSxySDKNOqUOa"
+                }, 
                 "ip": "gs-nanagb-real.netmarble.com", 
                 "region": "global", 
                 "world_id": "globallive", 
-                "name": "GLOBAL", 
                 "port": 23071
             }, 
             {
+                "name": "ASIA", 
+                "chatkit_setting": {
+                    "restapi_server": "https://gs-nanatsunotaizai-chatapi-cz.netmarble.com/funsdk/", 
+                    "name": "nana-gb-asia", 
+                    "xmpp_host": "", 
+                    "xmpp_port": "0", 
+                    "xmpp_vhost": "", 
+                    "project_key": "nana-gb-asia", 
+                    "server_port": "5222", 
+                    "server_host": "", 
+                    "server_ip": "gs-nanatsunotaizai-chat-cz.netmarble.com", 
+                    "service_key": "iS9S3pZlMlz5QpepcNrEWD3HY5hMWR9A", 
+                    "id": "0", 
+                    "client_key": "TnZP0c2ng4qPIQbFyTYlSxySDKNOqUOa"
+                }, 
                 "ip": "gs-nanagb-real2.netmarble.com", 
                 "region": "asia", 
                 "world_id": "asialive", 
-                "name": "ASIA", 
                 "port": 23071
             }
         ]
     }, 
     "redirect": {
         "android": {
-            "1.1.13": "submit", 
             "1.1.14": "submit"
         }, 
         "ios": {
-            "1.1.13": "submit", 
             "1.1.14": "submit"
         }
     }, 
@@ -82,26 +108,26 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_szwbnqx19zvzg", 
+            "relative_sub": "_tbwhipp21gv81", 
             "download_retry_times": 5, 
-            "version": "281"
+            "version": "306"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_szwbnqx19zvzg", 
+            "relative_sub": "_tbwhipp21gv81", 
             "download_retry_times": 5, 
-            "version": "281"
+            "version": "306"
         }
     }, 
     "version": {
         "android": {
-            "forced_update": "1.1.11", 
-            "max_allows": "1.1.12", 
+            "forced_update": "1.1.12", 
+            "max_allows": "1.1.13", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.1.11", 
-            "max_allows": "1.1.12", 
+            "forced_update": "1.1.12", 
+            "max_allows": "1.1.13", 
             "recommended_update": ""
         }
     }, 

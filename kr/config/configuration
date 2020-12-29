@@ -24,8 +24,12 @@
         ]
     }, 
     "redirect": {
-        "android": {}, 
-        "ios": {}
+        "android": {
+            "1.2.24": "submit"
+        }, 
+        "ios": {
+            "1.2.24": "submit"
+        }
     }, 
     "version": {
         "android": {
@@ -94,13 +98,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_eikkcgno901nb", 
             "download_retry_times": 5, 
-            "version": "2038"
+            "version": "2053"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_eikkcgno901nb", 
             "download_retry_times": 5, 
-            "version": "2038"
+            "version": "2053"
         }
     }
 }
