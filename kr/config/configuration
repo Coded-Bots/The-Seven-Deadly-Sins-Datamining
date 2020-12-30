@@ -98,13 +98,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_eikkcgno901nb", 
             "download_retry_times": 5, 
-            "version": "2053"
+            "version": "2060"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_eikkcgno901nb", 
             "download_retry_times": 5, 
-            "version": "2053"
+            "version": "2060"
         }
     }
 }
