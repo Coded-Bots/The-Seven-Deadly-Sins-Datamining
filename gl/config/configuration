@@ -46,12 +46,8 @@
         ]
     }, 
     "redirect": {
-        "android": {
-            "1.1.14": "submit"
-        }, 
-        "ios": {
-            "1.1.14": "submit"
-        }
+        "android": {}, 
+        "ios": {}
     }, 
     "region": {
         "asia": [
@@ -122,12 +118,12 @@
     "version": {
         "android": {
             "forced_update": "1.1.12", 
-            "max_allows": "1.1.13", 
+            "max_allows": "1.1.14", 
             "recommended_update": ""
         }, 
         "ios": {
             "forced_update": "1.1.12", 
-            "max_allows": "1.1.13", 
+            "max_allows": "1.1.14", 
             "recommended_update": ""
         }
     }, 
