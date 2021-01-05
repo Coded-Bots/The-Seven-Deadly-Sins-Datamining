@@ -104,15 +104,15 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_tbwhipp21gv81", 
+            "relative_sub": "_tcwhipp33gv81", 
             "download_retry_times": 5, 
-            "version": "306"
+            "version": "311"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_tbwhipp21gv81", 
+            "relative_sub": "_tcwhipp33gv81", 
             "download_retry_times": 5, 
-            "version": "306"
+            "version": "311"
         }
     }, 
     "version": {
