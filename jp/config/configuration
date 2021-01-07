@@ -24,22 +24,18 @@
         ]
     }, 
     "redirect": {
-        "android": {
-            "1.2.24": "submit"
-        }, 
-        "ios": {
-            "1.2.24": "submit"
-        }
+        "android": {}, 
+        "ios": {}
     }, 
     "version": {
         "android": {
             "forced_update": "1.2.22", 
-            "max_allows": "1.2.23", 
+            "max_allows": "1.2.24", 
             "recommended_update": ""
         }, 
         "ios": {
             "forced_update": "1.2.22", 
-            "max_allows": "1.2.23", 
+            "max_allows": "1.2.24", 
             "recommended_update": ""
         }
     }, 
@@ -92,13 +88,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_eikkcgno901nb", 
             "download_retry_times": 5, 
-            "version": "2062"
+            "version": "2071"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_eikkcgno901nb", 
             "download_retry_times": 5, 
-            "version": "2062"
+            "version": "2071"
         }
     }
 }
