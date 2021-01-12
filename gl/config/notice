@@ -4,7 +4,7 @@
         "message_string": "ERROR_upper_allows_version", 
         "start_utc": "Tue, 12 Jan 2021 05:00:00 GMT", 
         "title_string": " ", 
-        "end_utc": "Tue, 12 Jan 2021 07:30:00 GMT", 
+        "end_utc": "Tue, 12 Jan 2021 08:30:00 GMT", 
         "print_period": true
     }, 
     "ios": {
@@ -12,7 +12,7 @@
         "message_string": "ERROR_upper_allows_version", 
         "start_utc": "Tue, 12 Jan 2021 05:00:00 GMT", 
         "title_string": " ", 
-        "end_utc": "Tue, 12 Jan 2021 07:30:00 GMT", 
+        "end_utc": "Tue, 12 Jan 2021 08:30:00 GMT", 
         "print_period": true
     }
 }
