@@ -106,13 +106,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_tcwjipp43gv81", 
             "download_retry_times": 5, 
-            "version": "321"
+            "version": "324"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_tcwjipp43gv81", 
             "download_retry_times": 5, 
-            "version": "321"
+            "version": "324"
         }
     }, 
     "version": {
