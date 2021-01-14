@@ -5,7 +5,7 @@
         "start_utc": "Thu, 14 Jan 2021 01:00:00 GMT", 
         "title_string": " ", 
         "end_utc": "Thu, 14 Jan 2021 14:59:00 GMT", 
-        "print_period": true
+        "print_period": false
     }, 
     "ios": {
         "enable": true, 
@@ -13,6 +13,6 @@
         "start_utc": "Thu, 14 Jan 2021 01:00:00 GMT", 
         "title_string": " ", 
         "end_utc": "Thu, 14 Jan 2021 14:59:00 GMT", 
-        "print_period": true
+        "print_period": false
     }
 }
