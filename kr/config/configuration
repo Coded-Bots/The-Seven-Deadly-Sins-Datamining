@@ -30,12 +30,12 @@
     "version": {
         "android": {
             "forced_update": "1.2.24", 
-            "max_allows": "1.2.25", 
+            "max_allows": "0.2.25", 
             "recommended_update": ""
         }, 
         "ios": {
             "forced_update": "1.2.24", 
-            "max_allows": "1.2.25", 
+            "max_allows": "0.2.25", 
             "recommended_update": ""
         }
     }, 
