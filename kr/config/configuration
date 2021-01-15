@@ -29,7 +29,7 @@
     }, 
     "version": {
         "android": {
-            "forced_update": "1.2.23", 
+            "forced_update": "1.2.24", 
             "max_allows": "1.2.25", 
             "recommended_update": ""
         }, 
