@@ -24,7 +24,9 @@
         ]
     }, 
     "redirect": {
-        "android": {}, 
+        "android": {
+            "1.2.25": "submit"
+        }, 
         "ios": {}
     }, 
     "version": {
