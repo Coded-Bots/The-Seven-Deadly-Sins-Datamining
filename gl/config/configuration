@@ -122,8 +122,8 @@
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.1.14", 
-            "max_allows": "1.1.15", 
+            "forced_update": "1.1.16", 
+            "max_allows": "1.1.17", 
             "recommended_update": ""
         }
     }, 
