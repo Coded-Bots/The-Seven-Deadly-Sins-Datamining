@@ -104,26 +104,26 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_tcwjipp43gv81", 
+            "relative_sub": "_tcwjist63gv81", 
             "download_retry_times": 5, 
-            "version": "326"
+            "version": "332"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_tcwjipp43gv81", 
+            "relative_sub": "_tcwjist63gv81", 
             "download_retry_times": 5, 
-            "version": "326"
+            "version": "332"
         }
     }, 
     "version": {
         "android": {
-            "forced_update": "1.1.12", 
-            "max_allows": "1.1.14", 
+            "forced_update": "1.1.14", 
+            "max_allows": "1.1.15", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.1.12", 
-            "max_allows": "1.1.14", 
+            "forced_update": "1.1.14", 
+            "max_allows": "1.1.15", 
             "recommended_update": ""
         }
     }, 
