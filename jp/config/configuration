@@ -29,13 +29,13 @@
     }, 
     "version": {
         "android": {
-            "forced_update": "1.2.22", 
-            "max_allows": "1.2.24", 
+            "forced_update": "1.2.24", 
+            "max_allows": "1.2.25", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.2.22", 
-            "max_allows": "1.2.24", 
+            "forced_update": "1.2.24", 
+            "max_allows": "1.2.25", 
             "recommended_update": ""
         }
     }, 
@@ -86,15 +86,15 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_eikkcgno901nb", 
+            "relative_sub": "_ejaauiop812iu", 
             "download_retry_times": 5, 
-            "version": "2072"
+            "version": "2091"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_eikkcgno901nb", 
+            "relative_sub": "_ejaauiop812iu", 
             "download_retry_times": 5, 
-            "version": "2072"
+            "version": "2091"
         }
     }
 }
