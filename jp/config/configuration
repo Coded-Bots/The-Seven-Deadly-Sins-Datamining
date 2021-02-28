@@ -1,0 +1,101 @@
+{
+    "world2": {
+        "world_info": [
+            {
+                "name": "REAL", 
+                "chatkit_setting": {
+                    "restapi_server": "https://gs-nanatsunotaizai-chatapi-cz.netmarble.com/funsdk/", 
+                    "name": "nana-jp", 
+                    "xmpp_host": "", 
+                    "xmpp_port": "0", 
+                    "xmpp_vhost": "", 
+                    "project_key": "nana-jp", 
+                    "server_port": "5222", 
+                    "server_host": "https://gs-nanatsunotaizai-chatapi-cz.netmarble.com/funsdk/", 
+                    "server_ip": "gs-nanatsunotaizai-chat-cz.netmarble.com", 
+                    "service_key": "NvD7HqPCyl8DGD9m7obTslOKO8XmENrc", 
+                    "client_key": "cUnsNZgjJSY2HB9M7OlN9Ei9rTFGUMya"
+                }, 
+                "ip": "gs-nanatsunotaizai-cz.netmarble.com", 
+                "region": "", 
+                "world_id": "", 
+                "port": 23071
+            }
+        ]
+    }, 
+    "redirect": {
+        "android": {}, 
+        "ios": {}
+    }, 
+    "version": {
+        "android": {
+            "forced_update": "1.2.28", 
+            "max_allows": "1.2.31", 
+            "recommended_update": ""
+        }, 
+        "ios": {
+            "forced_update": "1.2.28", 
+            "max_allows": "1.2.31", 
+            "recommended_update": ""
+        }
+    }, 
+    "contents": {
+        "android": {
+            "on_elizabeth_touch_interactive": false, 
+            "on_cooling_off": false, 
+            "fake_ad_location": 0, 
+            "check_security": true, 
+            "use_breadcrumb": true, 
+            "on_review": true, 
+            "update_due_date": "2019-06-19 05:00:00 GMT", 
+            "is_realzone": true, 
+            "on_kochava": true, 
+            "use_coupon": true, 
+            "on_fake_ad": false, 
+            "on_tune": true, 
+            "on_induce_connect_channel": true, 
+            "use_crash_report": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "on_live_streaming_platform": true, 
+            "on_open_probability": true, 
+            "on_secret_mode": false
+        }, 
+        "ios": {
+            "on_elizabeth_touch_interactive": false, 
+            "on_cooling_off": false, 
+            "fake_ad_location": 0, 
+            "check_security": true, 
+            "use_breadcrumb": true, 
+            "on_review": true, 
+            "update_due_date": "2019-06-19 05:00:00 GMT", 
+            "is_realzone": true, 
+            "on_kochava": true, 
+            "use_coupon": false, 
+            "on_fake_ad": false, 
+            "on_tune": true, 
+            "on_induce_connect_channel": true, 
+            "use_crash_report": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "use_idfa": false, 
+            "on_live_streaming_platform": true, 
+            "on_open_probability": true, 
+            "on_secret_mode": false
+        }
+    }, 
+    "patch": {
+        "android": {
+            "timeout_sec": 15, 
+            "relative_sub": "_elqab188un91o", 
+            "download_retry_times": 5, 
+            "version": "2144"
+        }, 
+        "ios": {
+            "timeout_sec": 15, 
+            "relative_sub": "_elqab188un91o", 
+            "download_retry_times": 5, 
+            "version": "2144"
+        }
+    }
+}
