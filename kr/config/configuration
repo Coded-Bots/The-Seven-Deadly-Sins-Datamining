@@ -93,15 +93,15 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_elqab188un91o", 
+            "relative_sub": "_elssn981qq1mf", 
             "download_retry_times": 5, 
-            "version": "2144"
+            "version": "2151"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_elqab188un91o", 
+            "relative_sub": "_elssn981qq1mf", 
             "download_retry_times": 5, 
-            "version": "2144"
+            "version": "2151"
         }
     }
 }

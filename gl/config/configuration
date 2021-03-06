@@ -46,12 +46,8 @@
         ]
     }, 
     "redirect": {
-        "android": {
-            "1.2.0": "submit"
-        }, 
-        "ios": {
-            "1.2.0": "submit"
-        }
+        "android": {}, 
+        "ios": {}
     }, 
     "region": {
         "asia": [
@@ -108,75 +104,77 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_tuaxqmmt8p012", 
+            "relative_sub": "_tzccqmbt8p033", 
             "download_retry_times": 5, 
-            "version": "360"
+            "version": "372"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_tuaxqmmt8p012", 
+            "relative_sub": "_tzccqmbt8p033", 
             "download_retry_times": 5, 
-            "version": "360"
+            "version": "372"
         }
     }, 
     "version": {
         "android": {
-            "forced_update": "1.1.14", 
-            "max_allows": "1.1.15", 
+            "forced_update": "1.1.99", 
+            "max_allows": "1.2.0", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.1.16", 
-            "max_allows": "1.1.17", 
+            "forced_update": "1.1.99", 
+            "max_allows": "1.2.0", 
             "recommended_update": ""
         }
     }, 
     "contents": {
         "android": {
             "on_connect_facebook": true, 
+            "check_security": true, 
+            "on_induce_connect_channel": true, 
+            "on_open_probability": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "on_secret_mode": false, 
+            "on_tune": false, 
+            "on_siwa": false, 
+            "is_realzone": true, 
+            "on_live_streaming_platform": false, 
+            "on_fake_ad": false, 
+            "use_idfa": false, 
             "on_elizabeth_touch_interactive": false, 
             "on_cooling_off": true, 
             "fake_ad_location": 0, 
-            "check_security": true, 
-            "use_breadcrumb": true, 
             "on_review": true, 
+            "use_breadcrumb": true, 
             "update_due_date": "2019-06-19 05:00:00 GMT", 
-            "on_siwa": false, 
-            "is_realzone": true, 
-            "on_kochava": false, 
-            "use_coupon": true, 
-            "on_fake_ad": false, 
-            "on_tune": false, 
-            "on_induce_connect_channel": true, 
             "use_crash_report": true, 
-            "on_singular": true, 
-            "on_access_terms": true, 
-            "on_live_streaming_platform": false, 
-            "on_open_probability": true, 
-            "on_secret_mode": false
+            "on_kochava": false, 
+            "use_coupon": true
         }, 
         "ios": {
             "on_connect_facebook": true, 
+            "check_security": true, 
+            "on_induce_connect_channel": true, 
+            "on_open_probability": true, 
+            "on_singular": true, 
+            "on_access_terms": true, 
+            "on_secret_mode": false, 
+            "on_tune": false, 
+            "on_siwa": true, 
+            "is_realzone": true, 
+            "on_live_streaming_platform": false, 
+            "on_fake_ad": false, 
+            "use_idfa": false, 
             "on_elizabeth_touch_interactive": false, 
             "on_cooling_off": true, 
             "fake_ad_location": 0, 
-            "check_security": true, 
-            "use_breadcrumb": true, 
             "on_review": true, 
+            "use_breadcrumb": true, 
             "update_due_date": "2019-06-19 05:00:00 GMT", 
-            "on_siwa": true, 
-            "is_realzone": true, 
-            "on_kochava": false, 
-            "use_coupon": false, 
-            "on_fake_ad": false, 
-            "on_tune": false, 
-            "on_induce_connect_channel": true, 
             "use_crash_report": true, 
-            "on_singular": true, 
-            "on_access_terms": true, 
-            "on_live_streaming_platform": false, 
-            "on_open_probability": true, 
-            "on_secret_mode": false
+            "on_kochava": false, 
+            "use_coupon": false
         }
     }
 }
