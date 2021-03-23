@@ -104,15 +104,15 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_uadcqmbt8p044", 
+            "relative_sub": "_uaecqmbt8p055", 
             "download_retry_times": 5, 
-            "version": "384"
+            "version": "390"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_uadcqmbt8p044", 
+            "relative_sub": "_uaecqmbt8p055", 
             "download_retry_times": 5, 
-            "version": "384"
+            "version": "390"
         }
     }, 
     "version": {
@@ -165,7 +165,7 @@
             "is_realzone": true, 
             "on_live_streaming_platform": false, 
             "on_fake_ad": false, 
-            "use_idfa": false, 
+            "use_idfa": true, 
             "on_elizabeth_touch_interactive": false, 
             "on_cooling_off": true, 
             "fake_ad_location": 0, 
