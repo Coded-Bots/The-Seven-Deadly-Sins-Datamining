@@ -95,13 +95,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_emfi39gnila10", 
             "download_retry_times": 5, 
-            "version": "2180"
+            "version": "2181"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_emfi39gnila10", 
             "download_retry_times": 5, 
-            "version": "2180"
+            "version": "2181"
         }
     }
 }
