@@ -66,6 +66,7 @@
         "hero_skin_levelup": 3577, 
         "basepoint": 3590, 
         "basepoint_weapon_shop": 3647, 
+        "ai_customizing": 3174, 
         "bossbattle": 3589, 
         "friendship": 3640, 
         "side_menu_world": 3588
@@ -137,6 +138,7 @@
         "hero_skin_levelup": 3577, 
         "basepoint": 3590, 
         "basepoint_weapon_shop": 3647, 
+        "ai_customizing": 3174, 
         "bossbattle": 3589, 
         "friendship": 3640, 
         "side_menu_world": 3588
