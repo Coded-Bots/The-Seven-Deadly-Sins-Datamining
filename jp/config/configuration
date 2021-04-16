@@ -29,13 +29,13 @@
     }, 
     "version": {
         "android": {
-            "forced_update": "1.2.36", 
-            "max_allows": "1.2.37", 
+            "forced_update": "1.2.37", 
+            "max_allows": "1.2.38", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.2.36", 
-            "max_allows": "1.2.37", 
+            "forced_update": "1.2.37", 
+            "max_allows": "1.2.38", 
             "recommended_update": ""
         }
     }, 
