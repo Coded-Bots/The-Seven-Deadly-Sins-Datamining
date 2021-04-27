@@ -82,7 +82,7 @@
             "is_realzone": true, 
             "on_live_streaming_platform": false, 
             "on_fake_ad": false, 
-            "use_idfa": false, 
+            "use_idfa": true, 
             "on_elizabeth_touch_interactive": false, 
             "on_cooling_off": true, 
             "fake_ad_location": 0, 

@@ -82,7 +82,7 @@
             "use_crash_report": true, 
             "on_singular": true, 
             "on_access_terms": true, 
-            "use_idfa": false, 
+            "use_idfa": true, 
             "on_live_streaming_platform": true, 
             "on_open_probability": true, 
             "on_secret_mode": false
