@@ -89,13 +89,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_enfgj11ltc70o", 
             "download_retry_times": 5, 
-            "version": "2233"
+            "version": "2234"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_enfgj11ltc70o", 
             "download_retry_times": 5, 
-            "version": "2233"
+            "version": "2234"
         }
     }
 }
