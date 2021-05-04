@@ -104,15 +104,15 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_uajcqmbt8p100", 
+            "relative_sub": "_uakcqmbt8p111", 
             "download_retry_times": 5, 
-            "version": "450"
+            "version": "455"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_uajcqmbt8p100", 
+            "relative_sub": "_uakcqmbt8p111", 
             "download_retry_times": 5, 
-            "version": "450"
+            "version": "455"
         }
     }, 
     "version": {
