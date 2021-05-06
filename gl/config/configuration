@@ -46,8 +46,12 @@
         ]
     }, 
     "redirect": {
-        "android": {}, 
-        "ios": {}
+        "android": {
+            "1.2.3": "submit"
+        }, 
+        "ios": {
+            "1.2.3": "submit"
+        }
     }, 
     "region": {
         "asia": [
