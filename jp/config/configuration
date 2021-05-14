@@ -89,13 +89,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_enfhcc61ti258", 
             "download_retry_times": 5, 
-            "version": "2252"
+            "version": "2253"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_enfhcc61ti258", 
             "download_retry_times": 5, 
-            "version": "2252"
+            "version": "2253"
         }
     }
 }
