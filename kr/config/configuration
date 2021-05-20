@@ -93,15 +93,15 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_enfhcc61ti258", 
+            "relative_sub": "_enfh8804xxyu5", 
             "download_retry_times": 5, 
-            "version": "2254"
+            "version": "2260"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_enfhcc61ti258", 
+            "relative_sub": "_enfh8804xxyu5", 
             "download_retry_times": 5, 
-            "version": "2254"
+            "version": "2260"
         }
     }
 }
