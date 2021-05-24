@@ -25,10 +25,10 @@
     }, 
     "redirect": {
         "android": {
-            "submit": "1.3.4"
+            "1.3.4": "submit"
         }, 
         "ios": {
-            "submit": "1.3.4"
+            "1.3.4": "submit"
         }
     }, 
     "version": {
