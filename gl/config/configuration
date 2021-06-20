@@ -46,8 +46,12 @@
         ]
     }, 
     "redirect": {
-        "android": {}, 
-        "ios": {}
+        "android": {
+            "1.2.6": "submit"
+        }, 
+        "ios": {
+            "1.2.6": "submit"
+        }
     }, 
     "region": {
         "asia": [
@@ -104,26 +108,26 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_uaocqmbt8p155", 
+            "relative_sub": "_uaqcqmbt8p177", 
             "download_retry_times": 5, 
-            "version": "480"
+            "version": "490"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_uaocqmbt8p155", 
+            "relative_sub": "_uaqcqmbt8p177", 
             "download_retry_times": 5, 
-            "version": "480"
+            "version": "490"
         }
     }, 
     "version": {
         "android": {
-            "forced_update": "1.2.3", 
-            "max_allows": "1.2.4", 
+            "forced_update": "1.2.4", 
+            "max_allows": "1.2.5", 
             "recommended_update": ""
         }, 
         "ios": {
-            "forced_update": "1.2.3", 
-            "max_allows": "1.2.4", 
+            "forced_update": "1.2.4", 
+            "max_allows": "1.2.5", 
             "recommended_update": ""
         }
     }, 
