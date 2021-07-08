@@ -95,13 +95,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_engi533gv8hop", 
             "download_retry_times": 5, 
-            "version": "2330"
+            "version": "2331"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_engi533gv8hop", 
             "download_retry_times": 5, 
-            "version": "2330"
+            "version": "2331"
         }
     }
 }
