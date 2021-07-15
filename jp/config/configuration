@@ -87,15 +87,15 @@
     "patch": {
         "android": {
             "timeout_sec": 15, 
-            "relative_sub": "_engi533gv8hop", 
+            "relative_sub": "_engjbi3gv77om", 
             "download_retry_times": 5, 
-            "version": "2334"
+            "version": "2341"
         }, 
         "ios": {
             "timeout_sec": 15, 
-            "relative_sub": "_engi533gv8hop", 
+            "relative_sub": "_engjbi3gv77om", 
             "download_retry_times": 5, 
-            "version": "2334"
+            "version": "2341"
         }
     }
 }
