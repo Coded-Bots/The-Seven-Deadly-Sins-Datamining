@@ -95,13 +95,13 @@
             "timeout_sec": 15, 
             "relative_sub": "_eniqcc14p77dk", 
             "download_retry_times": 5, 
-            "version": "2350"
+            "version": "2352"
         }, 
         "ios": {
             "timeout_sec": 15, 
             "relative_sub": "_eniqcc14p77dk", 
             "download_retry_times": 5, 
-            "version": "2350"
+            "version": "2352"
         }
     }
 }
